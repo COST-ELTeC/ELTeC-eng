@@ -1,10 +1,11 @@
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG7062" xml:lang="ENG">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG7062"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
                 <title>The Inheritance of Evil, Or, the Consequence of Marrying a Deceased Wife’s
-                Sister</title>
+                    Sister</title>
                 <author>Skene, Felicia (1821-1899)</author>
                 <respStmt>
                     <resp>Transcribed, encoded and proofed by </resp>
@@ -23,18 +24,58 @@
                     <name xml:id="elizabethmunson">Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">40355</measure><measure unit="pages">188</measure></extent>
-            <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
-            <sourceDesc><bibl><title>The Inheritance of Evil, Or, the Consequence of Marrying a Deceased Wife’s
-                Sister : VWWP edition
-</title><author>Skene, Felicia, 1821-1899</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7062</idno><relatedItem><bibl><title>The Inheritance of Evil, Or, the Consequence of Marrying a Deceased Wife’s
-                Sister</title><author>Skene, Felicia, 1821-1899</author><publisher>Joseph Masters </publisher><pubPlace>London </pubPlace><date when="1849">1849</date></bibl></relatedItem></bibl></sourceDesc>
+            <extent>
+                <measure unit="words">39873</measure>
+                <measure unit="pages">188</measure>
+            </extent>
+            <publicationStmt>
+                <p>Published as part of ELTeC</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><title>The Inheritance of Evil, Or, the Consequence of Marrying a Deceased
+                        Wife’s Sister : VWWP edition </title><author>Skene, Felicia,
+                        1821-1899</author><publisher>Digital Library Program, Indiana
+                        University</publisher><pubPlace>Bloomington,
+                        IN</pubPlace><idno>VAB7062</idno><relatedItem>
+                        <bibl><title>The Inheritance of Evil, Or, the Consequence of Marrying a
+                                Deceased Wife’s Sister</title><author>Skene, Felicia,
+                                1821-1899</author><publisher>Joseph Masters
+                                </publisher><pubPlace>London </pubPlace><date when="1849"
+                                >1849</date></bibl>
+                    </relatedItem></bibl>
+            </sourceDesc>
         </fileDesc>
-        <encodingDesc n="eltec-1"><p/></encodingDesc>
-        <profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/></textDesc></profileDesc>
-        <revisionDesc><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-09-10">elizabethmunson: Added genre term</change><change when="2010-08-31">elizabethmunson: Changed div type="advertisement" to "docImprint"</change><change when="2010-08-24">elizabethmunson: Corrected filing title</change><change when="2010-07-29">elizabethmunson: Removed date and "a machine
-            readable transcription" from fileDesc title</change><change when="2010-07-29">elizabethmunson: Added filing title</change><change when="2010-07-29">elizabethmunson: Added LCNAF form of author name to sourceDesc (hyphen 
-                adjusted for both sourceDesc and fileDesc)</change><change when="2010-07-29">elizabethmunson: Normalized date in biblFull/publicationStmt</change><change when="2009-10-27">#bn: Normalized id scheme and encoding</change><change when="2009-10-27">#bn: Added Library of Congress Subject Headings</change><change when="2009-05-10">#bn: Coverted from P4 to P5</change></revisionDesc>
+        <encodingDesc n="eltec-1">
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-07-23">LB convert to ELTeC-1</change>
+            <change when="2010-09-10">elizabethmunson: Added genre term</change>
+            <change when="2010-08-31">elizabethmunson: Changed div type="advertisement" to
+                "docImprint"</change>
+            <change when="2010-08-24">elizabethmunson: Corrected filing title</change>
+            <change when="2010-07-29">elizabethmunson: Removed date and "a machine readable
+                transcription" from fileDesc title</change>
+            <change when="2010-07-29">elizabethmunson: Added filing title</change>
+            <change when="2010-07-29">elizabethmunson: Added LCNAF form of author name to sourceDesc
+                (hyphen adjusted for both sourceDesc and fileDesc)</change>
+            <change when="2010-07-29">elizabethmunson: Normalized date in
+                biblFull/publicationStmt</change>
+            <change when="2009-10-27">#bn: Normalized id scheme and encoding</change>
+            <change when="2009-10-27">#bn: Added Library of Congress Subject Headings</change>
+            <change when="2009-05-10">#bn: Coverted from P4 to P5</change>
+        </revisionDesc>
     </teiHeader>
     <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <pb xml:id="VAB7062-001"/>
@@ -44,16 +85,9 @@
             </div>
             <pb xml:id="VAB7062-002"/>
             <div type="titlepage">
-                <p>
-                    THE INHERITANCE OF EVIL; 
-                    OR, THE CONSEQUENCES OF MARRYING A DECEASED WIFE’S
-                    SISTER.
-                </p>
-                <p>
-                    LONDON:
-                    JOSEPH MASTERS,
-                        ALDERSGATE STREET, AND 78, NEW BOND STREET.
-                </p>
+                <p> THE INHERITANCE OF EVIL; OR, THE CONSEQUENCES OF MARRYING A DECEASED WIFE’S
+                    SISTER. </p>
+                <p> LONDON: JOSEPH MASTERS, ALDERSGATE STREET, AND 78, NEW BOND STREET. </p>
                 <p>1849.</p>
             </div>
         </front>
@@ -69,7 +103,9 @@
                     several avocations; and yet it was a strange sight too for them if they would
                     but have thought upon it—the passing amongst them of that quiet traveller to the
                     realms unseen! For so surely as he was even now moving on to the portals of the
-                    land which is very far off, they themselves, with<pb n="2" xml:id="VAB7062-004"/> their swift impatient feet, were speeding unconsciously on the same journey.</p>
+                    land which is very far off, they themselves, with<pb n="2" xml:id="VAB7062-004"
+                    /> their swift impatient feet, were speeding unconsciously on the same
+                    journey.</p>
                 <p>We say unconsciously, for each one had set before himself some desirable object
                     of attainment for which he toiled that day—wealth, fame, ambition, love—some
                     bright vision, to realize which he gave up unreservedly the redeemless hours of
@@ -103,7 +139,8 @@
                     him of a luxurious retirement hereafter, where he should dwell, surrounded by
                     all the splendour and comfort wealth could procure him; but his health failed
                     him meantime, sacrificed to his laborious and unremitting industry. Death came
-                    and took him when his soul was so wrapped up in the <pb n="4" xml:id="VAB7062-006"/> cares of life, that this tremendous reality was to
+                    and took him when his soul was so wrapped up in the <pb n="4"
+                        xml:id="VAB7062-006"/> cares of life, that this tremendous reality was to
                     him but a far‐off haunting shadow, too distant and uncertain to be heeded. Death
                     came and took him, and then it was found that he had gained but one thing with
                     the toil and labour and sacrifice of his whole life; he had earned for himself
@@ -174,7 +211,8 @@
                     father, to whom they were almost strangers, than for that bitter sense of
                     desolation against which the warm, loving heart of youth rebels so strongly.</p>
                 <p>They nestled close together; Agnes, who was scarce sixteen, and five years
-                    younger than her sister, clung to her with a sort of <pb n="8" xml:id="VAB7062-010"/> innocent helplessness, which resulted more from her
+                    younger than her sister, clung to her with a sort of <pb n="8"
+                        xml:id="VAB7062-010"/> innocent helplessness, which resulted more from her
                     peculiar disposition than from her early youth.</p>
                 <p>She was singularly sweet‐tempered and guileless, but altogether deficient in
                     moral courage and strength of mind; as she advanced out of childhood, she seemed
@@ -191,7 +229,8 @@
                     their mutual love.</p>
                 <p>There was one circumstance in the life of Elizabeth Maynard which was destined to
                     influence her whole existence, and the recollection of it was busy at her heart
-                    even now, as she sat with her fair young sister sobbing in her <pb n="9" xml:id="VAB7062-011"/> arms. She remembered when she was but nine years old
+                    even now, as she sat with her fair young sister sobbing in her <pb n="9"
+                        xml:id="VAB7062-011"/> arms. She remembered when she was but nine years old
                     how she had been one night aroused out of the sweet slumber of childhood, to go
                     and witness the closing of her mother’s eyes in a sleep yet deeper.</p>
                 <p>There is something very awful in the death‐bed of one who dies of a broken heart.
@@ -242,7 +281,8 @@
                     fate, her work and office must ever be to guard that little one close by her
                     side, and shield her from all sorrow and danger.</p>
                 <p>To both these sisters, earth and the things of it were as yet all in all. Their
-                    governess had given them what she termed a “religious edu‐<pb n="12" xml:id="VAB7062-014"/> cation,”—that is, she had carefully instilled into
+                    governess had given them what she termed a “religious edu‐<pb n="12"
+                        xml:id="VAB7062-014"/> cation,”—that is, she had carefully instilled into
                     them her own peculiar and most bounded views, on various points of completely
                     minor importance, dwelling chiefly on the great danger of trusting to
                     forms—whilst she furnished them with nothing else, either more or less tangible,
@@ -252,7 +292,8 @@
                     and face eternity, than the infant who smiles in his slumbers to the unseen
                     angelic guardians round him.</p>
                 <p>The sisters were still seated together in silence, when the door opened, and Mr.
-                    Hardman entered with the slow solemn step suitable to this mournful occasion.</p>
+                    Hardman entered with the slow solemn step suitable to this mournful
+                    occasion.</p>
                 <p>He had come to acquaint his wards with his intentions respecting them,
                     immediately on returning from the funeral of their father, this being the proper
                     and legitimate moment for such a communication.</p>
@@ -273,7 +314,8 @@
                 <p>He was now a man of weight and influence in the city, but he continued to pursue,
                     with rigid firmness, the system to which he owed so much of his advancement,
                     namely, the inflexible determination with which, even in the most unimportant
-                    matters, he carried out his own plans and ideas in spite of all <corr>obstacles</corr> or opposition.</p>
+                    matters, he carried out his own plans and ideas in spite of all
+                        <corr>obstacles</corr> or opposition.</p>
                 <p>Mr. Hardman proceeded to inform his wards of the arrangement which he and his
                     wife had adopted for them after mature consideration.</p>
                 <pb n="14" xml:id="VAB7062-016"/>
@@ -294,7 +336,8 @@
                     to prepare for the removal of their effects from the house they were to enter no
                     more, and so took his leave.</p>
                 <p>The door had no sooner closed upon him than Agnes gave way to a burst of the most
-                    passionate sorrow, whilst Elizabeth, whose feelings <pb n="15" xml:id="VAB7062-017"/> were at all times painfully intense and strong, dwelt
+                    passionate sorrow, whilst Elizabeth, whose feelings <pb n="15"
+                        xml:id="VAB7062-017"/> were at all times painfully intense and strong, dwelt
                     without scruple on the profound dislike to her guardian, which struck deep root
                     in her heart from that hour.</p>
                 <p>After a little time, however, she tenderly raised her sister’s drooping head, and
@@ -350,7 +393,8 @@
                     that her husband had given very sufficient reasons why she should do so; but it
                     was no part of her business to love her, or to supply her with that measure of
                     affection which is as necessary to human life as refreshing water to the
-                    traveller in the desert. Elizabeth was consigned to a <pb n="19" xml:id="VAB7062-021"/> fate which a mind far more elevated than hers would
+                    traveller in the desert. Elizabeth was consigned to a <pb n="19"
+                        xml:id="VAB7062-021"/> fate which a mind far more elevated than hers would
                     have found hard to bear—desolation without solitude; she was not even allowed
                     the freedom which might have rendered her position somewhat more tolerable.</p>
                 <p>Mrs. Hardman took the most careful and annoying cognizance of her every word and
@@ -366,7 +410,8 @@
                     himself alone. These peculiarities of Mrs. Hardman’s character had a terrible
                     effect on the fate of the orphans committed to her care.</p>
                 <p>The first gleam of sunshine which penetrated into Elizabeth’s most cheerless
-                    existence was an event which took place about a year after her <pb n="20" xml:id="VAB7062-022"/> father’s death. One of Mr. Hardman’s children became
+                    existence was an event which took place about a year after her <pb n="20"
+                        xml:id="VAB7062-022"/> father’s death. One of Mr. Hardman’s children became
                     so seriously unwell, that change of air was pronounced necessary, and the family
                     went to spend the summer in the country. Elizabeth had passed her whole
                     existence in London, where the natural and moral atmosphere are both alike so
@@ -378,7 +423,8 @@
                     blessed companionship with the glorious stars, and the fragrant flowers, and the
                     waving trees; and these all seem to call out to him, saying, “Be not dismayed,
                     though thou art sad at heart and lonely; behold, we are the creatures of thy
-                    God, and thou mayest read in our beauty of His goodness and loving‐kindness.”</p>
+                    God, and thou mayest read in our beauty of His goodness and
+                    loving‐kindness.”</p>
                 <p>To Elizabeth Maynard it seemed new life when she first learned how deep is the
                     eloquence of the living nature, in telling, by the things seen and temporal, of
                     those which are unseen and eternal.</p>
@@ -391,7 +437,8 @@
                 <p>There are rich pasture lands, soft and undulating as the green hunting‐fields of
                     the Indian’s Paradise; thick shadowy woods, where the sunshine glances like hope
                     on the soul, and the singing‐birds make merry with the long summer day; and a
-                    quiet murmuring river, that glides along serene and bright as a good man’s life.</p>
+                    quiet murmuring river, that glides along serene and bright as a good man’s
+                    life.</p>
                 <p>The village itself, although a portion of it is disfigured by the public house,
                     dissenting chapel, and one or two houses of unseemly pretension, is singularly
                     picturesque; little thatched dwellings nestling among the ivy, inhabited, as the
@@ -489,7 +536,9 @@
                     the tempests and the cutting blasts of sorrow which every mortal man shall meet
                     with on his path of life. For her, whose gaze was yet too dim to discern the
                     glory of <emph>that</emph> Love, to gain one hour of which an eternity of
-                    earthly care and tenderness might well be battered, it was in truth a<pb n="27" xml:id="VAB7062-029"/> bitter thing to dwell in so chilling an atmosphere.</p>
+                    earthly care and tenderness might well be battered, it was in truth a<pb n="27"
+                        xml:id="VAB7062-029"/> bitter thing to dwell in so chilling an
+                    atmosphere.</p>
                 <p>Her vivid imagination and warm feelings, having no holier aliment whereon to
                     feed, were centred altogether in the joys of earth, and she felt keenly that
                     desolation of affection which is perhaps the saddest trial this life can offer
@@ -524,7 +573,8 @@
                 <p>Mr. and Mrs. Hardman were highly pleased at finding themselves thus suddenly
                     relieved of the care of both their wards; for Elizabeth had made it the sole
                     condition of her marriage that Agnes should reside with them entirely, and that
-                    she should never be separated from her sister so long as she remained unmarried.</p>
+                    she should never be separated from her sister so long as she remained
+                    unmarried.</p>
                 <pb n="29" xml:id="VAB7062-031"/>
                 <p>To this Richard willingly agreed, and it was further decided that they should
                     take up their residence at “The Mount,” where Agnes was to join them after
@@ -579,7 +629,8 @@
                     utmost kindness in his look and tone, that she must teach him the duties of a
                     brother, as he had never known that gentle tie, which is the source of so much
                     true and enduring happiness on earth. He was in fact greatly interested in the
-                    orphan sister of his future wife, for Elizabeth had not <pb n="32" xml:id="VAB7062-034"/> failed to tell him of the solemn charge she had
+                    orphan sister of his future wife, for Elizabeth had not <pb n="32"
+                        xml:id="VAB7062-034"/> failed to tell him of the solemn charge she had
                     received from her dying mother; and the impression made upon his mind by the
                     description of that scene was so great that he was now equally determined with
                     herself that Agnes should find a happy home in his house. Meanwhile Agnes, who
@@ -742,10 +793,12 @@
                     most gentle and merciful to others; winning back to the old paths with sweet
                     persuasive accents those who had erred and strayed, and dealing with penitents
                     in the spirit of that unutterably blessed and touching declaration which has
-                    been as the words of life to many a sinking soul—“ Neither do I condemn thee.”</p>
+                    been as the words of life to many a sinking soul—“ Neither do I condemn
+                    thee.”</p>
                 <p>Notwithstanding his youth, there was a peculiar calm and dignity in his manner
                     which won the respect of all whom he approached; though few would have
-                    suspected, from his habitual silence and reserve, that there was in his cha‐<pb n="42" xml:id="VAB7062-044"/> racter an under current of profound and
+                    suspected, from his habitual silence and reserve, that there was in his cha‐<pb
+                        n="42" xml:id="VAB7062-044"/> racter an under current of profound and
                     intense feeling, which he seldom if ever displayed. Careless and indifferent as
                     Richard Clayton was, he could not but admire the pure and exalted views which
                     raised this man so far above himself; and he was always more ready to listen to
@@ -800,14 +853,17 @@
                     and after a few more remarks from both, the conversation changed. But Elizabeth
                     Clayton had heard enough, and too much.</p>
                 <p>Richard little knew what deadly power there had been in his words so carelessly
-                    spoken. He did not see, as his voice died away, how a figure <pb n="45" xml:id="VAB7062-047"/> rushed from that darkened room with hurried steps and
+                    spoken. He did not see, as his voice died away, how a figure <pb n="45"
+                        xml:id="VAB7062-047"/> rushed from that darkened room with hurried steps and
                     suffocated breath; he did not hear how the bolt was drawn across the door of the
                     apartment above, by a hand that trembled till it was well nigh palsied; nor the
-                    dull heavy fall upon the ground, of a form convulsed by its fierce mental agony.</p>
+                    dull heavy fall upon the ground, of a form convulsed by its fierce mental
+                    agony.</p>
                 <p>One thought alone was present in the mind of Elizabeth Clayton—a thought so
                     torturing and unsupportable that she strove to escape from it with that impotent
                     frenzy which in its full development drives men to the awful crime of
-                    self‐destruction. She had a <emph rend="smallcaps">RIVAL</emph> in her <emph rend="smallcaps">SISTER</emph>! The wife whom she had dreaded would supplant
+                    self‐destruction. She had a <emph rend="smallcaps">RIVAL</emph> in her <emph
+                        rend="smallcaps">SISTER</emph>! The wife whom she had dreaded would supplant
                     her after her death, would be <emph rend="smallcaps">her</emph>, who for two
                     years past had called her husband—brother! It was an idea too horrible even to
                     have entered into her mind, had it not been literally forced upon her by the
@@ -871,7 +927,8 @@
                     new and absorbing idea is first presented to it, at once to grasp it in its full
                     extent, in all its bearings—past, present, and future. Elizabeth’s vivid
                     imagination would not allow her to find consolation in the great uncertainty of
-                    the evil she dreaded; it carried her on at once to antici‐<pb n="49" xml:id="VAB7062-051"/> pate the marriage of her husband and sister as the
+                    the evil she dreaded; it carried her on at once to antici‐<pb n="49"
+                        xml:id="VAB7062-051"/> pate the marriage of her husband and sister as the
                     infallible result of her own death,—now, as she believed, so near at hand. With
                     her face buried in her hands, she lay on the ground, wrestling with the great
                     agony of all the contending feelings which this terrible conviction had aroused
@@ -906,7 +963,8 @@
                     finishing stroke to the agitation of Elizabeth’s nerves and the confusion of her
                     mind. Her husband rushed in: all that he saw was her form stretched on the
                     ground, trembling and convulsed. He flung himself on his knees beside her, and
-                    lifted up her head; whilst Agnes, kneeling close to him, drew back the long<pb n="51" xml:id="VAB7062-053"/> tangled hair that hung over her sister’s livid
+                    lifted up her head; whilst Agnes, kneeling close to him, drew back the long<pb
+                        n="51" xml:id="VAB7062-053"/> tangled hair that hung over her sister’s livid
                     face. Elizabeth opened her eyes: they were full of the most wild and ghastly
                     expression. A terrible fear shot through the mind of Richard that she had
                     suddenly become insane. There was, in truth, a sort of chaos in her thoughts;
@@ -1019,7 +1077,8 @@
                     and the earth radiant, as though it knew no sin. It was just such a day, when it
                     would have been a glorious thing to have seen a ransomed spirit burst the bonds
                     of its clay, and fly from this land of perishing beauty and fading sunbeams up
-                    to the fields of light above, where the Sun of Righteousness for ever shines.</p>
+                    to the fields of light above, where the Sun of Righteousness for ever
+                    shines.</p>
                 <p>All those who had any claim on the affection <pb n="58" xml:id="VAB7062-060"/> of
                     Elizabeth Clayton were gathered round her, for her last hour was come. They had
                     placed her little children in her arms, and a few bitter tears, the first she
@@ -1084,14 +1143,16 @@
                     ever been admitted into the minds of men.</p>
                 <p>None of the parties concerned in this affair had, however, in appearance at
                     least, the most distant idea of any such alliance; and, consequently, no
-                    obstacle seemed to exist against a plan in all other respects so very suitable.</p>
+                    obstacle seemed to exist against a plan in all other respects so very
+                    suitable.</p>
                 <p>Mr. Hardman was quite satisfied that an arrangement which met with the sanction
                     of the vicar of B—, must be perfectly right, and he imagined that he had
                     gathered from Mr. Clayton’s letter that Agnes and his son were to reside with
                     himself. In this Mr. Hardman was altogether mistaken, as Richard had no
                     intention of quitting The Mount. But this erroneous idea satisfied the demands
                     of Mrs. Hardman’s implacable propriety, and she thankfully consented that Agnes
-                    should remain at a comfortable distance from her own less attractive daughter.</p>
+                    should remain at a comfortable distance from her own less attractive
+                    daughter.</p>
                 <p>Richard Clayton was, during some time, completely absorbed in grief for the loss
                     of his wife. There are few who can bear unmoved, that the heart which has loved
                     them best on earth is cold for ever, however little they may have valued the
@@ -1166,7 +1227,8 @@
                     they saw the children improving in health, and Richard acquiring great influence
                     in the county; but they were doomed to suffer by that fatal laxity of principle,
                     which has caused it to be considered as a <emph>possibility</emph> in Christian
-                    England that a man should become the husband of one who is virtually his sister!</p>
+                    England that a man should become the husband of one who is virtually his
+                    sister!</p>
                 <p>No one had ever dreamt of questioning the <pb n="67" xml:id="VAB7062-069"/>
                     propriety of Agnes’s residence with her brother‐in‐law. Mr. Clayton would as
                     soon have thought of objecting to the presence of his own daughter in the house
@@ -1220,7 +1282,8 @@
                     Clayton, Mrs. Sharp went for a few days to London. One of her first proceedings
                     on arriving there was to call on Mrs. Hardman, as she had long looked forward
                     with a keen relish to some favourable opportunity of stirring up that
-                    respectable lady to a virtuous indignation against her ward, for <pb n="70" xml:id="VAB7062-072"/> whose conduct Mr. Hardman was to a certain degree
+                    respectable lady to a virtuous indignation against her ward, for <pb n="70"
+                        xml:id="VAB7062-072"/> whose conduct Mr. Hardman was to a certain degree
                     responsible.</p>
                 <p>Mrs. Sharp had been acquainted with the family during their six months’ residence
                     at the Mount; and the first polite speeches were scarcely over, when she
@@ -1363,7 +1426,8 @@
                     dare to take you from me?” She was sobbing so much that she could not answer,
                     but she pointed to the letter which lay on the ground beside her. He took it up
                     and read it through. Agnes looked up at him when he had finished it, and she was
-                    perfectly appalled by the storm of passion which convulsed his features. He <pb n="79" xml:id="VAB7062-081"/> actually shook with anger; he crushed the
+                    perfectly appalled by the storm of passion which convulsed his features. He <pb
+                        n="79" xml:id="VAB7062-081"/> actually shook with anger; he crushed the
                     letter in his hand till not a word was legible; then, trampling it under foot,
                     he burst into the most tremendous invectives against those who had written it.
                     Agnes trembled with terror at his violence. She almost forgot her grief in her
@@ -1417,7 +1481,8 @@
                     increasing strength and health, which all would vanish, as he knew full well, if
                     a cold heart and careless hand alone were to be concerned in his welfare.
                     Moreover Richard Clayton, although of a generous temper, was essentially
-                    selfish—peculiarities of disposition which are by no means incompatible.<pb n="82" xml:id="VAB7062-084"/> He could not bear to think of his house in
+                    selfish—peculiarities of disposition which are by no means incompatible.<pb
+                        n="82" xml:id="VAB7062-084"/> He could not bear to think of his house in
                     disorder, cheerless, and lonely, with all the petty cares of the “menage,” which
                     are so essentially a woman’s province, devolving on himself. No; Agnes
                         <emph>must</emph> remain with him; but there was one only position in which
@@ -1434,7 +1499,8 @@
                     feelings would otherwise have revolted.</p>
                 <p>Richard Clayton was determined to retain the society of his sister‐in‐law, and by
                     this arrangement alone could he do so. Therefore, following the inflexible law
-                    of his own inclination, he resolved to accomplish it. He had no <pb n="83" xml:id="VAB7062-085"/> pure and lofty principle in his own soul to restrain
+                    of his own inclination, he resolved to accomplish it. He had no <pb n="83"
+                        xml:id="VAB7062-085"/> pure and lofty principle in his own soul to restrain
                     him, and for external obstacles he cared little, for he knew that such marriages
                         <emph>had</emph> taken place. But he was not aware of the fact, that they
                     are very generally reprobated by society.</p>
@@ -1533,7 +1599,8 @@
                     excluded all other thoughts; but the truth was, that neither of them was so calm
                     inwardly as they sought to appear to one another. Without communicating their
                     feelings to each other, they simul‐<pb n="89" xml:id="VAB7062-091"/> taneously
-                    avoided the church, for they could not endure to pass the grave of Elizabeth.</p>
+                    avoided the church, for they could not endure to pass the grave of
+                    Elizabeth.</p>
                 <p>No answer was sent to Mr. Hardman’s letter, and it was speedily followed by
                     another full of the most bitter indignation against Agnes. He concluded by
                     saying, that if she did not appear at his house in London within a given time,
@@ -1586,7 +1653,8 @@
                     occupied with some amusement, which left her no time for thought. She was
                     thankful, indeed, to be spared all reflection; for, in spite of herself, there
                     was a vague and painful feeling which she could not define, that haunted her at
-                    all times when Richard alluded to their marriage. Even the <pb n="92" xml:id="VAB7062-094"/> night before it took place,—the night that surely, in
+                    all times when Richard alluded to their marriage. Even the <pb n="92"
+                        xml:id="VAB7062-094"/> night before it took place,—the night that surely, in
                     all similar cases, should be devoted to most earnest prayer for grace to perform
                     the solemn vows about to be taken,—was spent by Agnes Maynard at the theatre;
                     and when she awoke next morning, tired and depressed, she could scarce believe
@@ -1684,7 +1752,8 @@
                     she knew they had written in consequence. She was herself under the full belief
                     that Agnes had returned to her guardian’s protection; and when she heard of
                     their marriage, she was, to do her justice, sincerely and deeply shocked. In
-                    fact, no person, even worldly minded and unrefined <pb n="98" xml:id="VAB7062-100"/> as Mrs. Sharp was, could fail to be otherwise on
+                    fact, no person, even worldly minded and unrefined <pb n="98"
+                        xml:id="VAB7062-100"/> as Mrs. Sharp was, could fail to be otherwise on
                     first hearing of a union of that description, unless their mind had received a
                     bias to a contrary opinion from the sophistical arguments of those who fear not
                     to show a practical contempt of God’s laws and ordinances; and it seemed to her
@@ -1701,7 +1770,8 @@
                     superstition), did not even delay an hour informing their master that they would
                     not remain in his service. This was a chilling reception for the unhonoured
                     bride; but a sharper pang awaited her. Mary had been left entirely to the care
-                    of the servants, and to the tender mercies of Mrs. <pb n="99" xml:id="VAB7062-101"/> Sharp, and they had not failed to fill her young mind
+                    of the servants, and to the tender mercies of Mrs. <pb n="99"
+                        xml:id="VAB7062-101"/> Sharp, and they had not failed to fill her young mind
                     with many painful ideas respecting her father and aunt, which, with all the
                     strength and power of early impressions, were destined to influence her feelings
                     towards them during the remainder of her life. No attempt is made at the age of
@@ -1749,11 +1819,13 @@
                     his restless angry suffering. Mr. Clayton looked from the one to the other, and
                     became much agitated; he turned to the window to hide his emotion; the sight
                     probably of the church, at whose altar he ministered as priest, restored to him
-                    his courage and his strength. He came and stood before them severe and unmoved.</p>
+                    his courage and his strength. He came and stood before them severe and
+                    unmoved.</p>
                 <p>“It is best we should understand each other,” he said, addressing his son.
                     “Richard, you have taken a step which you were perfectly aware could only meet
                     with the most severe and unqualified disapprobation from me; but you will
-                    doubtless say that you have long since cast off<pb n="102" xml:id="VAB7062-104"/> the trammels of paternal authority—that you are no longer of an age when it
+                    doubtless say that you have long since cast off<pb n="102" xml:id="VAB7062-104"
+                    /> the trammels of paternal authority—that you are no longer of an age when it
                     is necessary for you to be influenced by my opinions, or to consult my
                     wishes—that we stand together as man with man, the one as likely to be right in
                     his ideas as the other, each holding his own views in independence, acting by
@@ -1780,7 +1852,8 @@
                     though already married when they came into my parish. And now, Richard, I ask it
                     of yourself,—do you think it possible for me, to whom is committed authority in
                     the Church of God, without derogating fearfully from my holy calling, to
-                    countenance the man who has made such a marriage, although that man is my son?”</p>
+                    countenance the man who has made such a marriage, although that man is my
+                    son?”</p>
                 <p>“You need not have said all this, to prove to me what you mean to do,” exclaimed
                     Richard, taking refuge from the painful feelings that oppressed him, in a burst
                     of anger; “I have guessed it from the first. You mean that you will cast us
@@ -1791,7 +1864,8 @@
                 <pb n="104" xml:id="VAB7062-106"/>
                 <p>“What an existence!“ said Richard, rising and pacing the room in violent
                     agitation; ”father and son living within a few hundred yards of each other on
-                    such terms as these! You will bear it calmly, I doubt not; but to me it will be insupportable.<corr>”</corr></p>
+                    such terms as these! You will bear it calmly, I doubt not; but to me it will be
+                        insupportable.<corr>”</corr></p>
                 <p>“Richard,” said Mr. Clayton, his voice trembling with emotion, “I did not expect
                     that you would do me justice in believing with what bitter anguish to myself I
                     have taken this resolution respecting you; but I have at least an opportunity of
@@ -1819,13 +1893,15 @@
                     were you in sickness or in sorrow: suffering casts down all barriers for the
                     servant of Him who in all our afflictions was afflicted. Meantime, do not think
                     to change my resolution in any way; there is but one path opened for me in this,
-                    as in all other earthly trials—the path of duty—and that alone will I follow.”</p>
+                    as in all other earthly trials—the path of duty—and that alone will I
+                    follow.”</p>
                 <p>Agnes turned away, weeping bitterly. Richard flung himself into a chair, and hid
                     his face on his arm. There was a painful silence for a few minutes, till Mr.
                     Clayton spoke again.</p>
                 <p>“I have yet a painful task to perform,” he <pb n="106" xml:id="VAB7062-108"/>
                     said; “I have to request a favour of you both, which you can only grant with a
-                    great sacrifice to yourselves, but which I might, perhaps, claim as a right.”</p>
+                    great sacrifice to yourselves, but which I might, perhaps, claim as a
+                    right.”</p>
                 <p>“We will refuse you nothing,” said Richard, in a voice hoarse from agitation;
                     “you may ask what you will of us.”</p>
                 <p>“Oh yes,” exclaimed Agnes, “give us the means of making some sacrifice for you
@@ -1858,7 +1934,8 @@
                     that you may also clearly perceive what a fatal influence it might have on
                     Mary’s whole existence, that she should be educated by you.”</p>
                 <p>“Do you really mean,” interrupted Richard, “that our marriage will be so strongly
-                    disapproved of by society in general,—by any, in <pb n="108" xml:id="VAB7062-110"/> fact, excepting, perhaps, a few clergymen like
+                    disapproved of by society in general,—by any, in <pb n="108"
+                        xml:id="VAB7062-110"/> fact, excepting, perhaps, a few clergymen like
                     yourself?”</p>
                 <p>“I fear you will not have to ask me that question a month or two hence,” replied
                     Mr. Clayton. “I feel certain you will have but too many palpable proofs of the
@@ -1911,7 +1988,8 @@
                     consent, and I wish that the matter should be settled at once.” And it was so
                     decided.</p>
                 <p>Agnes offered no opposition, she was utterly bewildered and overwhelmed with all
-                    that had passed, she did not even remind him of what rose <pb n="111" xml:id="VAB7062-113"/> so painfully to her own mind at the moment, that by
+                    that had passed, she did not even remind him of what rose <pb n="111"
+                        xml:id="VAB7062-113"/> so painfully to her own mind at the moment, that by
                     giving up Mary, however advisable such a measure might be, they were rendering
                     altogether null the one potent argument which had principally induced them to
                     marry, namely, the absolute necessity of the children being left to her care!
@@ -1963,10 +2041,12 @@
                     towards evening, trusting to find his house restored to cheerfulness and
                     comfort. Agnes still lay in the same position; her tangled hair falling over her
                     face stained with tears, and for the time devoid of beauty. The room was dark
-                    and cold, the whole establishment in confusion.<pb n="114" xml:id="VAB7062-116"/> Richard was violent in temper, and he was not a man to submit easily to
+                    and cold, the whole establishment in confusion.<pb n="114" xml:id="VAB7062-116"
+                    /> Richard was violent in temper, and he was not a man to submit easily to
                     annoyance or vexation. He walked up to Agnes, and taking her angrily by the arm,
                     he forced her to raise herself up. She trembled when she saw the expression of
-                    his countenance, and still more when he spoke, his voice was so stern and harsh.</p>
+                    his countenance, and still more when he spoke, his voice was so stern and
+                    harsh.</p>
                 <p>“Agnes,” he said, “let me beg of you to tell me once for all, whether you intend
                     to render my life insupportable by this absurd and intolerable conduct? Instead
                     of the gaiety and cheerfulness which made you attractive to me formerly, do you
@@ -1979,10 +2059,12 @@
                     the question. I wish to tell you most plainly that I will not submit for one
                     hour to have a dismal companion at my side, complaining and groaning. I will
                     give you your choice. You have your room, where you may go and weep and pine as
-                    much as you please, but there you must stay. You <pb n="115" xml:id="VAB7062-117"/> shall either appear before me with a look of
+                    much as you please, but there you must stay. You <pb n="115"
+                        xml:id="VAB7062-117"/> shall either appear before me with a look of
                     cheerfulness at all times on your face, or else you shall not come into my
                     presence at all. In the one case, I shall have you merry and bright as you were
-                    before; in the other, I may try to forget your existence—so make your choice.”</p>
+                    before; in the other, I may try to forget your existence—so make your
+                    choice.”</p>
                 <p>Agnes was completely subdued. She fancied that Richard was cruel to her, but
                     still he was her husband, and she loved him. It was a mockery to say that he
                     gave her any choice; she had no alternative; she could not go and shut herself
@@ -2073,7 +2155,8 @@
                     with regard to them had rendered it necessary for all persons of any weight in
                     the society of the neighhourhood to adopt a marked line of conduct in the
                     matter; and their decision was soon made. They were by birth and education
-                    entitled to delicacy of feeling; and Mr. Clayton had not been for <pb n="121" xml:id="VAB7062-123"/> so many years their pastor without instilling into
+                    entitled to delicacy of feeling; and Mr. Clayton had not been for <pb n="121"
+                        xml:id="VAB7062-123"/> so many years their pastor without instilling into
                     their minds somewhat of his purity and strictness of principle. They determined
                     that the brother and sister‐in‐law, now man and wife, were not to be visited or
                     received; and the few influenced the many: it became the fashion to slight them
@@ -2107,7 +2190,8 @@
                     tried affection; and now, of this good old woman’s many trials, it seemed to her
                     that one of the greatest was Mr. Clayton’s departure. He had baptized her
                     children, and laid more than one of them in their graves. She had verily trusted
-                    that he should have closed her eyes also. But he was gone; and <pb n="123" xml:id="VAB7062-125"/> she knew perfectly well that he had good reasons for
+                    that he should have closed her eyes also. But he was gone; and <pb n="123"
+                        xml:id="VAB7062-125"/> she knew perfectly well that he had good reasons for
                     going. She never doubted that everything he did was right at all times; but in
                     this instance, simple and humble as she was, her own opinion and feelings
                     perfectly coincided with his. Her childlike, unbiassed mind revolted against the
@@ -2123,7 +2207,8 @@
                     in the most eloquent manner. Agnes made one last attempt to induce her to speak,
                     by quoting the Litany, which Martha was in the habit of repeating from beginning
                     to end, for the edification of her visitors; but even this tempting bait had no
-                    allurements to‐day. She remained unmoved; and Agnes angrily left the house, <pb n="124" xml:id="VAB7062-126"/> with the determination never to enter it
+                    allurements to‐day. She remained unmoved; and Agnes angrily left the house, <pb
+                        n="124" xml:id="VAB7062-126"/> with the determination never to enter it
                     again. She could not, however, yet believe it possible that she was exiled from
                     the society of the village, as well as that of the higher classes. She
                     attributed Martha’s conduct merely to her peculiar attachment for Mr. Clayton,
@@ -2140,7 +2225,8 @@
                 <p>In the house of this good woman poor Agnes fared much worse than with Martha.
                     Mrs. Savage did not scruple to tell her openly all she thought and felt, and all
                     that was thought and felt by her neighbours, on the subject of Richard’s second
-                    marriage; and Agnes brought the visit speedily to a conclusion, by hurrying <pb n="125" xml:id="VAB7062-127"/> out to hide the indignant tears that rose to
+                    marriage; and Agnes brought the visit speedily to a conclusion, by hurrying <pb
+                        n="125" xml:id="VAB7062-127"/> out to hide the indignant tears that rose to
                     her eyes as she listened.</p>
                 <p>She walked along the road towards The Mount, her heart swelling within her, and
                     as she passed on she perceived Thomas, the clerk and schoolmaster, the most
@@ -2175,7 +2261,8 @@
                     casualties of birth and education are by no means sufficient to command the
                     esteem of the lower orders. They are keen and penetrating judges as to what is
                     really estimable in the character of their superiors, and thoroughly alive to
-                    any inconsistency in their precepts and practice. The villagers of B— <pb n="127" xml:id="VAB7062-129"/> thought that Agnes had greatly erred, and
+                    any inconsistency in their precepts and practice. The villagers of B— <pb
+                        n="127" xml:id="VAB7062-129"/> thought that Agnes had greatly erred, and
                     therefore it would have been in vain for her to have talked to them of the
                     errors of their own ways; whilst some of the younger girls possibly found no
                     small excuse for levity in their conduct from the fact, that even the lady at
@@ -2251,7 +2338,8 @@
                 <p>She had been his chief thought and care; for the last years of his life he had
                     but one wish respecting her, and that was to educate in her a true and devoted
                     servant for his Master. He set before himself, as the type of what he desired
-                    her to be, a lily of the field—humble, spotless, <pb n="132" xml:id="VAB7062-134"/> having but slender root in the earth; giving no
+                    her to be, a lily of the field—humble, spotless, <pb n="132"
+                        xml:id="VAB7062-134"/> having but slender root in the earth; giving no
                     fragrance to the world around, but lifting up the sweet head ever towards
                     heaven:—and she became such. His tenderness and prayers were not in vain. Deep
                     set within her heart was the desire to keep herself blameless against the coming
@@ -2265,10 +2353,12 @@
                     they are called on to suffer for His sake. Mr. Clayton saw with delight that on
                     Mary his lessons were not thrown away; and he died in peace at last, with the
                     firm conviction, that whatever might be her fate in this world, she would never
-                    accept the highest joys it could offer if they involved a dereliction from duty.</p>
+                    accept the highest joys it could offer if they involved a dereliction from
+                    duty.</p>
                 <p>Very different had been the education and very different was now the character of
                     Edward Clayton, Mary’s half‐brother, whom she had seen only at rare intervals.
-                    He resembled his father in disposition; he was clever, impetuous, <pb n="133" xml:id="VAB7062-135"/> and wilful—proud to the very uttermost; and he had
+                    He resembled his father in disposition; he was clever, impetuous, <pb n="133"
+                        xml:id="VAB7062-135"/> and wilful—proud to the very uttermost; and he had
                     become profoundly selfish. His was precisely one of those characters which,
                     rightly controlled and judiciously guided, might have been moulded to great
                     excellence. Had he been drawn to follow and to seek after the good, he would
@@ -2286,7 +2376,8 @@
                     observer more keen and acute than a shrewd and clever child. Edward soon
                     understood that his parents were exiled from society solely on account of their
                     own conduct; he saw that they were not treated with the same consideration as
-                    the relations of his companions at school; he learnt<pb n="134" xml:id="VAB7062-136"/> that his own grandfather had been driven from the
+                    the relations of his companions at school; he learnt<pb n="134"
+                        xml:id="VAB7062-136"/> that his own grandfather had been driven from the
                     village because he would not countenance his son, and that his sister had been
                     taken away because his mother was deemed an unfit guide for her. Mr. Lambert,
                     revered and respected by the whole neighbourhood, never visited his father; he
@@ -2298,9 +2389,10 @@
                     attempted to enforce upon their son the necessity of religious principle and
                     self‐discipline, he could only treat their effort as a mockery? Still deeper,
                     however, lay the cause which rendered it impossible for Edward to feel either
-                    respect or esteem for his parents—it <corr>lay</corr> in the dissension and misery which reigned in his own home, in the
-                    mutual recriminations and disagreements which seemed to have taken the place of
-                    the affection that had once subsisted between his father and mother.</p>
+                    respect or esteem for his parents—it <corr>lay</corr> in the dissension and
+                    misery which reigned in his own home, in the mutual recriminations and
+                    disagreements which seemed to have taken the place of the affection that had
+                    once subsisted between his father and mother.</p>
                 <p>Richard Clayton had become embittered to the very last degree by the results of
                     what he now termed his most unfortunate marriage. After the birth of Edward,
                     when he saw how <pb n="135" xml:id="VAB7062-137"/> completely he was cut off
@@ -2320,7 +2412,8 @@
                     themselves from communion with the Church; and his open disapprobation was
                     necessarily imitated by the parishioners, who held him in such high esteem.</p>
                 <p>Mr. and Mrs. Clayton were, probably, not altogether aware how great was the sin
-                    they committed in allowing an unholy pride to debar <pb n="136" xml:id="VAB7062-138"/> them of the means of grace. Richard had always been
+                    they committed in allowing an unholy pride to debar <pb n="136"
+                        xml:id="VAB7062-138"/> them of the means of grace. Richard had always been
                     careless respecting these things; and now his inward uneasiness and bitterness
                     of spirit, which arose, though he admitted it not, from the smitings of an
                     unquiet conscience, had rendered him sneering, and well‐nigh sceptical, on the
@@ -2336,26 +2429,28 @@
                     Church principles. Both now resented very strongly the judgment of public
                     opinion, which consigned them, in the midst of a populous neighbourhood, to an
                     exile as complete as though they had been sent to the wilds of Siberia. But this
-                    resentment Richard vented on his wife, being unable to give it scope elsewhere.</p>
+                    resentment Richard vented on his wife, being unable to give it scope
+                    elsewhere.</p>
                 <p>A torturing conviction took possession of his mind, that the consequences of his
                     marriage <pb n="137" xml:id="VAB7062-139"/> were to follow him throughout his
                     life, in every possible shape in which misfortune could visit him. He felt
-                    certain that it would cause the failure <corr>of</corr> every scheme and every hope,—that it would pursue him, to his
-                    continual vexation and annoyance, and would finally hunt him down, as it were,
-                    to a dishonoured and untimely end. This idea, which really became a species of
-                    monomania, caused him to acquire an irritable dislike to Agnes, which he made
-                    her feel every hour of the day. During Edward’s childhood, it sufficed that his
-                    mother had given him some order, for the father to reverse it,—a system which
-                    would ruin any child; and as the boy grew up, when Richard perceived that his
-                    son openly showed how little respect he felt for the parents whom he heard
-                    universally slighted and condemned, his father declared it was but a part of the
-                    fatality which had pursued him since his Union with Agnes; and he recklessly
-                    abandoned Edward, without an attempt to reclaim him, to the evil course which he
-                    began so early.</p>
+                    certain that it would cause the failure <corr>of</corr> every scheme and every
+                    hope,—that it would pursue him, to his continual vexation and annoyance, and
+                    would finally hunt him down, as it were, to a dishonoured and untimely end. This
+                    idea, which really became a species of monomania, caused him to acquire an
+                    irritable dislike to Agnes, which he made her feel every hour of the day. During
+                    Edward’s childhood, it sufficed that his mother had given him some order, for
+                    the father to reverse it,—a system which would ruin any child; and as the boy
+                    grew up, when Richard perceived that his son openly showed how little respect he
+                    felt for the parents whom he heard universally slighted and condemned, his
+                    father declared it was but a part of the fatality which had pursued him since
+                    his Union with Agnes; and he recklessly abandoned Edward, without an attempt to
+                    reclaim him, to the evil course which he began so early.</p>
                 <p>Edward found that his own position in the world was seriously injured by that of
                     his father; and whilst he nourished a most unhallowed anger against his parents
                     for what he considered an injury inflicted on him by them, he was too proud to
-                    court the acquaintance of those who shunned him; and therefore flung <pb n="138" xml:id="VAB7062-140"/> himself, without restraint, into the only society
+                    court the acquaintance of those who shunned him; and therefore flung <pb n="138"
+                        xml:id="VAB7062-140"/> himself, without restraint, into the only society
                     which was open to him,—that of low and dissipated company.</p>
                 <p>It was impossible for the father and mother not to tremble at the course which it
                     seemed likely would be taken by their only son. They had made no attempt to
@@ -2375,7 +2470,8 @@
                     cruel, <pb n="139" xml:id="VAB7062-141"/> in accusing her so harshly of the
                     consequences of that which she had done at his own solicitation for the sake of
                     his own children. But there was now in the midst of <emph>her</emph> trials a
-                    dawning of better feeling than she had ever been blessed with in happier days.</p>
+                    dawning of better feeling than she had ever been blessed with in happier
+                    days.</p>
                 <p>That is a beautiful provision of nature, which causes the purest and tenderest
                     affections of our humanity to be very often the instruments for awakening in our
                     souls a holier love. In the deep anxiety and terror which the mother felt lest
@@ -2388,7 +2484,8 @@
                     and how, if she could not retrieve the past, she might at least sanctify the
                     future by deep submission and repentance. She longed earnestly to apply to Mr.
                     Lambert for counsel and instruction; but she dared not do it—she dared not brave
-                    the fierce anger which she knew such a proceeding would <pb n="140" xml:id="VAB7062-142"/> awaken in her husband. In like manner she would now
+                    the fierce anger which she knew such a proceeding would <pb n="140"
+                        xml:id="VAB7062-142"/> awaken in her husband. In like manner she would now
                     gladly have gone to church, though she did not even yet appreciate either the
                     duty or the privilege of worshipping in His courts; but this was equally
                     impossible—Richard would never have permitted it. Remorse and uncertainty for
@@ -2458,7 +2555,8 @@
                     to her father’s house, there to pass the time which must intervene till the
                     period fixed for her marriage. But as they were all anxious that they should not
                     be completely separated for so many months, the Verneys determined to come
-                    themselves to spend the interval at a place of <pb n="144" xml:id="VAB7062-146"/> public resort in the vicinity of B—. It so chanced that one of the most
+                    themselves to spend the interval at a place of <pb n="144" xml:id="VAB7062-146"
+                    /> public resort in the vicinity of B—. It so chanced that one of the most
                     aristocratic and exclusive of the families in the neighbourhood of that village
                     were old acquaintances of theirs, which was of course an additional inducement
                     to them to visit the place. But it more than once occurred to Lady Verney as a
@@ -2488,7 +2586,8 @@
                     visited on the children.</p>
                 <p>Mary Clayton found much in her father’s house to startle and distress her. Of her
                     father and step‐mother’s conduct and state of mind she would not allow herself
-                    to form an opinion. At her age and in their relative posi‐<pb n="146" xml:id="VAB7062-148"/> tions she would have held it the height of
+                    to form an opinion. At her age and in their relative posi‐<pb n="146"
+                        xml:id="VAB7062-148"/> tions she would have held it the height of
                     presumption to have done so; but the condition of her brother Edward filled her
                     with anxiety. She saw that he had already gone very far astray; his parents had
                     not now the slightest authority over him, and he treated them both with
@@ -2540,7 +2639,8 @@
                     which had in fact made him what he was;—the self‐excommunication of Mr. and Mrs.
                     Clayton, sufficiently showing that they dared not for very shame pass the sacred
                     threshold of the house of God;—and, finally, the condition to which they had for
-                    some years been reduced, so disgraceful and humiliating, <pb n="149" xml:id="VAB7062-151"/> shunned by high and low, and above all, avoided by
+                    some years been reduced, so disgraceful and humiliating, <pb n="149"
+                        xml:id="VAB7062-151"/> shunned by high and low, and above all, avoided by
                     those, like Mr. Lambert, whose holiness of life and faithful obedience to the
                     given laws, rendered their disapprobation of any individual a sure sign of his
                     unworthiness.</p>
@@ -2558,7 +2658,8 @@
                     them with the whole truth the moment he heard of the proposed alliance; and who
                     had not done so merely because he was too weak and selfish to risk the failure
                     of the plan which gave him so much pleasure. A man who once indulges in laxity
-                    of principle, as Richard had done when he married his sister‐<pb n="150" xml:id="VAB7062-152"/> in‐law, will have no scruple in carrying out the same
+                    of principle, as Richard had done when he married his sister‐<pb n="150"
+                        xml:id="VAB7062-152"/> in‐law, will have no scruple in carrying out the same
                     system in all other matters.</p>
                 <p>But poor Mary was most innocent of the contemptible and wicked conduct of which
                     they had accused her. No one had ever ventured to enlarge to her upon her
@@ -2575,7 +2676,8 @@
                 <p>Meantime, they determined at once to take vigorous measures for terminating an
                     affair which they considered already but too dishonouring to themselves. That
                     their son’s name should ever have been even coupled with that of Richard
-                    Clayton’s daughter was a disgrace most galling to their pride. They sent for <pb n="151" xml:id="VAB7062-153"/> Mr. Verney, they acquainted him with all the
+                    Clayton’s daughter was a disgrace most galling to their pride. They sent for <pb
+                        n="151" xml:id="VAB7062-153"/> Mr. Verney, they acquainted him with all the
                     unhappy circumstances of the case, and commanded him from that moment to give up
                     all thoughts of ever making Mary Clayton his wife. Never, under any
                     circumstances, would they consent to such a marriage; sooner would they see him
@@ -2612,7 +2714,8 @@
                     and it came to him now in the guise of despair. He saw clearly that the effects
                     of his crime were coming at last to <pb n="153" xml:id="VAB7062-155"/> their
                     full fruition; they were spreading on to sufferers most innocent of the guilt.
-                    “The father had eaten sour grapes, and the children’s teeth were set on edge.”</p>
+                    “The father had eaten sour grapes, and the children’s teeth were set on
+                    edge.”</p>
                 <p>Hitherto the punishment of his deed had been administered by the world, because
                     of his dereliction from the merely human laws of morality; but now, for the
                     first time, he perceived and understood his sin in its true nature and actual
@@ -2627,7 +2730,8 @@
                     and seemed quite appalled at the state in which he found Mr. Clayton. He used
                     the strongest remedies, but for some hours he would give little hope. At length
                     his patient breathed more freely, his countenance resumed its natural hue, and
-                    without having spoken, or appeared aware of his position, he sunk into a <pb n="154" xml:id="VAB7062-156"/> deep lethargic sleep. The physician then
+                    without having spoken, or appeared aware of his position, he sunk into a <pb
+                        n="154" xml:id="VAB7062-156"/> deep lethargic sleep. The physician then
                     pronounced him out of danger, and informed Agnes that her husband had been
                     seized with an attack evidently brought on by some overpowering mental
                     excitement, and which had well nigh proved fatal. He earnestly urged upon her
@@ -2644,7 +2748,8 @@
                 <p>Agnes Clayton betook herself to her knees, crushed and bewildered with anguish,
                     but she scarce knew what to pray for; it seemed to her a hopeless task to seek
                     to avert from Richard and herself the misfortunes that were springing so thickly
-                    from the seed they had sown in their reckless sin and folly years ago.<pb n="155" xml:id="VAB7062-157"/> Truly it was bearing such fruit as they had
+                    from the seed they had sown in their reckless sin and folly years ago.<pb
+                        n="155" xml:id="VAB7062-157"/> Truly it was bearing such fruit as they had
                     never dreamt of; and there fell a terrible weight upon her heart, when she
                     thought of that innocent one whose whole existence was too probably blighted by
                     her father’s fault.</p>
@@ -2680,7 +2785,8 @@
                     submission and faith) that neither in this world nor in the world to come can
                     the redeemed of Christ know aught of despair.</p>
                 <p>Richard Clayton rose from his dangerous illness a humbled and remorseful man. It
-                    may be doubted whether his was a repentance not <pb n="157" xml:id="VAB7062-159"/> to be repented of; but, at least, he now thoroughly understood how glaring
+                    may be doubted whether his was a repentance not <pb n="157" xml:id="VAB7062-159"
+                    /> to be repented of; but, at least, he now thoroughly understood how glaring
                     was the sin from which so much suffering was springing, not to those only who
                     had erred, but to those also who were altogether guiltless of it. He no longer
                     felt any power to struggle with the retribution which had so clearly commenced;
@@ -2768,7 +2874,8 @@
                     any day.</p>
                 <p>These casual remarks suddenly gave Mr. Verney a new and hopeful idea. It struck
                     him that if Mary could be put in possession of the whole of the large fortune
-                    which belonged to the Clayton family, by the setting aside of<pb n="162" xml:id="VAB7062-164"/> her brother’s claim, his proud but poverty‐stricken
+                    which belonged to the Clayton family, by the setting aside of<pb n="162"
+                        xml:id="VAB7062-164"/> her brother’s claim, his proud but poverty‐stricken
                     parents might possibly be induced to overlook Richard’s disgraced name, and
                     receive her as their daughter even yet. It seemed clear to him, that if Edward’s
                     legal right were disproved, Mary would succeed to an amount of wealth which
@@ -2873,8 +2980,10 @@
                     world to struggle in poverty with a blighting stain upon his name. Then (the
                     sense of his misery, and of the injustice done to him increasing as he spoke,)
                     Edward looked for a moment on both his parents with a glance they never forgot,
-                    and burst into a storm of invective against them, upbraiding them in terms <pb n="168" xml:id="VAB7062-170"/> too dreadful to be recorded here, for having
-                    given him an existence, which by their fault was already blighted and destroyed.</p>
+                    and burst into a storm of invective against them, upbraiding them in terms <pb
+                        n="168" xml:id="VAB7062-170"/> too dreadful to be recorded here, for having
+                    given him an existence, which by their fault was already blighted and
+                    destroyed.</p>
                 <p>To Mary, also, he turned, and thanked her with taunting bitterness for the
                     lessons of Christianity which she had given him; her religion was bearing noble
                     fruit truly, when it permitted her to rob her brother by such a cruel means, and
@@ -2925,7 +3034,8 @@
                     the time deserted her. He could not wonder that it was so, for to a person of
                     her peculiarly sensitive nature, Edward’s bitter accusation against herself, and
                     his look and manner when he well‐nigh cursed his parents, was in truth a trial
-                    sufficient, seriously to affect her mind. He carried her back, <pb n="171" xml:id="VAB7062-173"/> passive and unconscious, to the house. Throughout the
+                    sufficient, seriously to affect her mind. He carried her back, <pb n="171"
+                        xml:id="VAB7062-173"/> passive and unconscious, to the house. Throughout the
                     whole of that long dreadful night he watched beside her, with Agnes kneeling by
                     his side, and when morning broke, just as he expected, she was in the first
                     stage of a violent brain fever.</p>
@@ -3000,7 +3110,8 @@
                     charge safe home when he would have been lost in the snow without his
                     protection.</p>
                 <p>They were seated together under a tree on this calm mild evening, when poor Mary
-                    tottered past them, moaning and calling out her brother’s <pb n="176" xml:id="VAB7062-178"/> name. Jack looked after her with the wild senseless
+                    tottered past them, moaning and calling out her brother’s <pb n="176"
+                        xml:id="VAB7062-178"/> name. Jack looked after her with the wild senseless
                     laugh to which he was continually giving vent unconsciously; but Charlie seemed
                     to consider that this was a matter in which they ought to interfere, and, with
                     that strange instinct that often seems almost prophetic in dogs, he took Jack’s
@@ -3014,7 +3125,8 @@
                     the weight so far beyond his own strength, that he was to lift the sinking body
                     from the water. The poor fool understood, and obeyed. He was of great bodily
                     strength, and he drew poor Mary out of the river, with perfect ease, and laid
-                    her on the bank, where he stood over her, laughing out in his discordant glee.</p>
+                    her on the bank, where he stood over her, laughing out in his discordant
+                    glee.</p>
                 <p>Charlie, however, was not yet satisfied; he once more seized hold of Jack, and
                     drew him towards the house, where, by his vehement barking, and Jack’s
                     incoherent exclamations, the servants <pb n="177" xml:id="VAB7062-179"/> became
@@ -3035,7 +3147,8 @@
                 <p>Careless and worldly as Richard Clayton had been, he never could have thought,
                     with any thing but horror, of the awful sin of suicide—that crime which never
                     can be repented of! And to find that this beloved daughter, for whom he had so
-                    securely anticipated an eternity of happiness, although for his sake <pb n="178" xml:id="VAB7062-180"/> this mortal life had grown so bitter to her—to find
+                    securely anticipated an eternity of happiness, although for his sake <pb n="178"
+                        xml:id="VAB7062-180"/> this mortal life had grown so bitter to her—to find
                     that she, in her agony, had forgotten alike her faith and her obedience, and had
                     rushed madly to the destruction both of soul and body, was more than the father,
                     broken spirited and feeble, could endure.</p>
@@ -3055,7 +3168,8 @@
                     from him. One thing only stood <pb n="179" xml:id="VAB7062-181"/> real and
                     palpable before him: the judgment to come for the deeds done in the body. He
                     made one wild effort to place himself upon his knees, but strength and life
-                    failed him at the same moment, and he fell heavily and unresisting on the floor.</p>
+                    failed him at the same moment, and he fell heavily and unresisting on the
+                    floor.</p>
                 <p>When Mary Clayton gradually returned to consciousness, the first sight that met
                     her eyes was the corpse of her father, round which those who had carried her
                     from the river were standing in hopeless dismay.</p>
@@ -3076,7 +3190,8 @@
                     step‐daughter; and Mr. Lambert himself went to London, to ascertain the real
                     state of matters. He found Edward, deserted now by his gay companions, in an
                     advanced stage of a hopeless decline. He was still, however, able to bear
-                    removal; and Mr. Lambert brought him back to The Mount, <pb n="181" xml:id="VAB7062-183"/> where he consigned him to his poor mother’s care, for
+                    removal; and Mr. Lambert brought him back to The Mount, <pb n="181"
+                        xml:id="VAB7062-183"/> where he consigned him to his poor mother’s care, for
                     the brief space that yet remained of his short and unhappy life. For six months
                     he lingered with the seal of death set surely on his forehead, and his young
                     existence ebbing visibly away. Mr. Lambert attended him assiduously; and when,
@@ -3093,7 +3208,8 @@
                     nothing could be more distinct than the hand of the retributive Justice, in all
                     the trials which had visited their house. She and her husband had sinned against
                     a law, because they believed that law to be unnecessary and overstrained;—they
-                    believed that their departure from it would be <pb n="182" xml:id="VAB7062-184"/> productive of good results; and it had been ordained that their deed should
+                    believed that their departure from it would be <pb n="182" xml:id="VAB7062-184"
+                    /> productive of good results; and it had been ordained that their deed should
                     work precisely the opposite effects from what they expected, in order that they
                     might see clearly that he who would gain his life shall lose it—that he who
                     would gain aught by means contrary to the will of God, shall not only
@@ -3145,7 +3261,8 @@
                     dark church in London, when she had taken the unlawful vows that never should
                     have been uttered by one who called herself a Christian.</p>
                 <p>Many wondered that Mrs. Clayton could thus expose herself to the public gaze,
-                    with her whom they could not but term her victim by <pb n="185" xml:id="VAB7062-187"/> her side. But Agnes was now a penitent, not in name
+                    with her whom they could not but term her victim by <pb n="185"
+                        xml:id="VAB7062-187"/> her side. But Agnes was now a penitent, not in name
                     only; and she was ready—nay, anxious—to humble herself in the sight both of God
                     and man. As for Mary, she could not but think that she was perhaps more fit to
                     be within that church than many who came there; for she was well disposed to
@@ -3161,7 +3278,8 @@
                     when she used to come and sit by her mother’s grave, seemed to compel Mary to go
                     there constantly; but she came not, as formerly, to think of those who are
                     departed in the true faith of His holy Name, and pray that herself might have
-                    the perfect consummation and bliss in His eternal <pb n="186" xml:id="VAB7062-188"/> glory, but to pluck the flowers from the grass with
+                    the perfect consummation and bliss in His eternal <pb n="186"
+                        xml:id="VAB7062-188"/> glory, but to pluck the flowers from the grass with
                     unconscious hand, and sing gay, wild songs, ill‐suited to the scene; and Agnes
                     sat beside her, looking on the graves of all those she had loved,—on the family
                     gathered at her feet, of which Mary was the sole living representative, and

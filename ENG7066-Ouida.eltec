@@ -22,7 +22,10 @@
                     <name xml:id="elizabethmunson">Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">194073</measure><measure unit="pages">495</measure></extent>
+            <extent>
+                <measure unit="words">190954</measure>
+                <measure unit="pages">495</measure>
+            </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>Folle-Farine : VWWP edition
 </title><author>Ouida, 1839-1908</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7066</idno><relatedItem><bibl><title>Folle-Farine</title><author>Ouida, 1839-1908</author><publisher>Chatto and Windus</publisher><pubPlace>London </pubPlace><date when="1883">1883</date></bibl></relatedItem></bibl></sourceDesc>

@@ -22,7 +22,10 @@
                     <name >Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">72286</measure><measure unit="pages">368</measure></extent>
+            <extent>
+                <measure unit="words">68607</measure>
+                <measure unit="pages">368</measure>
+            </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>The Story of the Amulet : VWWP edition
 </title><author>Nesbit, E. (Edith), 1858-1924</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7012</idno><relatedItem><bibl><title>The Story of the Amulet</title><author>Nesbit, E. (Edith), 1858-1924</author><publisher>T. Fisher Unwin </publisher><pubPlace>London </pubPlace><date when="1906">1906</date></bibl></relatedItem></bibl></sourceDesc>

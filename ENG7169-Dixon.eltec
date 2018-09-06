@@ -22,7 +22,10 @@
                     <name xml:id="elizabethmunson">Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">58196</measure><measure unit="pages">270</measure></extent>
+            <extent>
+                <measure unit="words">56152</measure>
+                <measure unit="pages">270</measure>
+            </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>The Story of a Modern Woman : VWWP edition
 </title><author>Dixon, Ella Hepworth Wynman, Margaret</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7169</idno><relatedItem><bibl><title>The Story of a Modern Woman</title><author>Dixon, Ella Hepworth Wynman, Margaret</author><publisher>Methuen</publisher><pubPlace>London </pubPlace><date when="1894">1894</date></bibl></relatedItem></bibl></sourceDesc>

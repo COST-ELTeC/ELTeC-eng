@@ -15,7 +15,10 @@
                         <name>Ray Davis</name>
                     </respStmt>
             </titleStmt>
-            <extent><measure unit="words">79000</measure><measure unit="pages">0</measure></extent>
+            <extent>
+                <measure unit="words">77630</measure>
+                <measure unit="pages">0</measure>
+            </extent>
             <publicationStmt>
                 <p>Published as part of ELTeC</p>
             </publicationStmt>

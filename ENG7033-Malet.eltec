@@ -22,7 +22,10 @@
                     <name xml:id="elizabethmunson">Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">64993</measure><measure unit="pages">296</measure></extent>
+            <extent>
+                <measure unit="words">61640</measure>
+                <measure unit="pages">296</measure>
+            </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>The Carissima : VWWP edition
 </title><author>Malet, Lucas, 1852-1931</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7033</idno><relatedItem><bibl><title>The Carissima</title><author>Malet, Lucas, 1852-1931</author><publisher>Methuen &amp; Co. </publisher><pubPlace>London </pubPlace><date when="1896">1896</date></bibl></relatedItem></bibl></sourceDesc>

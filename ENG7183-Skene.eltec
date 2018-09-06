@@ -22,7 +22,10 @@
     <name xml:id="elizabethmunson">Elizabeth Munson</name>
 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">101208</measure><measure unit="pages">631</measure></extent>
+            <extent>
+                <measure unit="words">99479</measure>
+                <measure unit="pages">631</measure>
+            </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             
             

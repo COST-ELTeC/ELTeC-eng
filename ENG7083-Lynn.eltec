@@ -18,7 +18,10 @@
                     <name xml:id="elizabethmunson">Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">39010</measure><measure unit="pages">281</measure></extent>
+            <extent>
+                <measure unit="words">38286</measure>
+                <measure unit="pages">281</measure>
+            </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>The True History of Joshua Davidson : VWWP edition
 </title><author>Linton, E. Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7083</idno><relatedItem><bibl><title>The True History of Joshua Davidson</title><author>Linton, E. Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Strahan and Co.</publisher><pubPlace>London </pubPlace><date when="1872">1872</date></bibl></relatedItem></bibl></sourceDesc>
