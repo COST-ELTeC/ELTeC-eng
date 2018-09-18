@@ -4,7 +4,7 @@
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>The Story of Bessie Costrell</title>
+                <title>The Story of Bessie Costrell : ELTeC edition</title>
 
                 <author>Ward, Humphry, Mrs. (1851-1920)</author>
                 <respStmt>
@@ -35,7 +35,7 @@
                 <bibl><title>The Story of Bessie Costrell : VWWP edition </title><author>Ward,
                         Humphry, Mrs., 1851-1920</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7023</idno><relatedItem>
+                        IN</pubPlace><idno>VAB7023</idno><relatedItem type="copyText">
                         <bibl><title>The Story of Bessie Costrell</title><author>Ward, Humphry,
                                 Mrs., 1851-1920</author><publisher>Smith, Elder
                                 </publisher><pubPlace>London</pubPlace><date when="1895"

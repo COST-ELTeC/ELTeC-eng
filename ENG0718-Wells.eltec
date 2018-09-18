@@ -5,12 +5,12 @@
      <teiHeader>
           <fileDesc>
                <titleStmt>
-                    <title>Tono-bungay: ElTeC edition</title>
+                    <title>Tono-bungay: ELTeC edition</title>
                          <author>Wells, Herbert George (1866-1946)</author>
                     <respStmt><resp>Original HTML</resp><name>John Bean</name><name>Diane Bean</name><name>David Widger</name>
                </respStmt>
                <respStmt><resp>ELTeC encoding</resp><name>Lou Burnard</name></respStmt></titleStmt>
-               <extent><measure unit="words">133529</measure><measure unit="pages">0</measure></extent>
+               <extent><measure unit="words">133529</measure></extent>
                <publicationStmt>
                     <p/>
                </publicationStmt>
@@ -19,7 +19,7 @@
                          <title>The Project Gutenberg EBook of Tono Bungay, 
                               by H. G. Wells</title>
                          <ref target="http://www.gutenberg.org/ebooks/718"/>
-                      <relatedItem type="sourceText">
+                      <relatedItem type="copyText">
                            <bibl><title>Tono-Bungay</title>
                            <author>H.G. Wells</author>
                            <publisher>Macmillan and Co</publisher>

@@ -1,9 +1,10 @@
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG7066" xml:lang="ENG">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG7066"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>Folle-Farine</title>
+                <title>Folle-Farine : ELTeC edition</title>
                 <author>Ouida (1839-1908)</author>
                 <respStmt>
                     <resp>Transcribed and encoded by</resp>
@@ -26,40 +27,69 @@
                 <measure unit="words">190954</measure>
                 <measure unit="pages">495</measure>
             </extent>
-            <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
-            <sourceDesc><bibl><title>Folle-Farine : VWWP edition
-</title><author>Ouida, 1839-1908</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7066</idno><relatedItem><bibl><title>Folle-Farine</title><author>Ouida, 1839-1908</author><publisher>Chatto and Windus</publisher><pubPlace>London </pubPlace><date when="1883">1883</date></bibl></relatedItem></bibl></sourceDesc>
+            <publicationStmt>
+                <p>Published as part of ELTeC</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><title>Folle-Farine : VWWP edition </title><author>Ouida,
+                        1839-1908</author><publisher>Digital Library Program, Indiana
+                        University</publisher><pubPlace>Bloomington,
+                        IN</pubPlace><idno>VAB7066</idno><relatedItem type="copyText">
+                        <bibl><title>Folle-Farine</title><author>Ouida,
+                                1839-1908</author><publisher>Chatto and
+                                Windus</publisher><pubPlace>London </pubPlace><date when="1883"
+                                >1883</date></bibl>
+                    </relatedItem></bibl>
+            </sourceDesc>
         </fileDesc>
-        <encodingDesc n="eltec-1"><p/></encodingDesc>
-        <profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
-        <revisionDesc><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-08-25">elizabethmunson: Added genre term</change><change when="2010-07-29">elizabethmunson: Removed date and "a machine
-            readable transcription" from fileDesc title</change><change when="2010-07-29">elizabethmunson: Corrected hyphen in fileDesc and sourceDesc titles</change><change when="2010-07-29">elizabethmunson: Added LCNAF form of author name to sourceDesc (hyphen 
-                adjusted for both sourceDesc and fileDesc)</change><change when="2010-07-29">elizabethmunson: Normalized date in biblFull/publicationStmt</change><change when="2009-10-27">#bn: Normalized id scheme and encoding</change><change when="2009-05-10">#bn: Coverted from P4 to P5</change></revisionDesc>
+        <encodingDesc n="eltec-1">
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-07-23">LB convert to ELTeC-1</change>
+            <change when="2010-08-25">elizabethmunson: Added genre term</change>
+            <change when="2010-07-29">elizabethmunson: Removed date and "a machine readable
+                transcription" from fileDesc title</change>
+            <change when="2010-07-29">elizabethmunson: Corrected hyphen in fileDesc and sourceDesc
+                titles</change>
+            <change when="2010-07-29">elizabethmunson: Added LCNAF form of author name to sourceDesc
+                (hyphen adjusted for both sourceDesc and fileDesc)</change>
+            <change when="2010-07-29">elizabethmunson: Normalized date in
+                biblFull/publicationStmt</change>
+            <change when="2009-10-27">#bn: Normalized id scheme and encoding</change>
+            <change when="2009-05-10">#bn: Coverted from P4 to P5</change>
+        </revisionDesc>
     </teiHeader>
     <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <front>
             <div type="titlepage">
-                <p>
-                    FOLLE‐FARINE
-                </p>
-                <p>By OUIDA AUTHOR OF “UNDER TWO FLAGS,” “PUCK,”
-                    “IDALIA” “TWO LITTLE WOODEN SHOES,” ETC.</p>
-                
-                    
-                        <quote>
-                            <l>Un gazetier fumeux qui se croit un flambeau</l>
-                            <l>Dit au pauvre qu’il a noyé dans les ténèbres:</l>
-                            <l>Oû donc l’aperçois‐tu ce Créatur du Beau?</l>
-                            <l>Ce Rédresseur qui tu célèbres?”</l>
-                        </quote>
-                        <p>BAUDELAIRE</p>
-                    
-                
+                <p> FOLLE‐FARINE </p>
+                <p>By OUIDA AUTHOR OF “UNDER TWO FLAGS,” “PUCK,” “IDALIA” “TWO LITTLE WOODEN SHOES,”
+                    ETC.</p>
+
+
+                <quote>
+                    <l>Un gazetier fumeux qui se croit un flambeau</l>
+                    <l>Dit au pauvre qu’il a noyé dans les ténèbres:</l>
+                    <l>Oû donc l’aperçois‐tu ce Créatur du Beau?</l>
+                    <l>Ce Rédresseur qui tu célèbres?”</l>
+                </quote>
+                <p>BAUDELAIRE</p>
+
+
                 <p>NEW EDITION</p>
-                <p>
-                    London 
-                    CHATTO AND WINDUS, PICCADILLY
-                </p>
+                <p> London CHATTO AND WINDUS, PICCADILLY </p>
             </div>
         </front>
         <body>
@@ -156,7 +186,8 @@
                         would have painted her and called her by a score of names, and described for
                         her some mystical or noble fate: as Anteros, perhaps, or as the doomed son
                         of Procne, or as some child born to the Forsaken in the savage forest of
-                        Naxos, or conceived by Persephone, in the eternal<pb n="4" xml:id="VAB7066-003"/> night of hell, whilst still the earth lay black
+                        Naxos, or conceived by Persephone, in the eternal<pb n="4"
+                            xml:id="VAB7066-003"/> night of hell, whilst still the earth lay black
                         and barren and fruitless, under the ban and curse of a bereaved
                         maternity.</p>
                     <p>But here she had only one name, Folle‐Farine; and here she had only to labour
@@ -360,7 +391,8 @@
                     <p>It was still warm with all the balmy breath of midsummer: there were heavy
                         dews everywhere; here and there on the surface of the water, there gleamed
                         the white closed cups of the lotus; through the air there passed, now and
-                        then, the soft, grey, dim body of a night‐bird on the<pb n="10" xml:id="VAB7066-009"/> wing; the wood, whose trees were pines, and
+                        then, the soft, grey, dim body of a night‐bird on the<pb n="10"
+                            xml:id="VAB7066-009"/> wing; the wood, whose trees were pines, and
                         limes, and maples, was full of a deep dreamy odour; the mosses that clothed
                         many of the branches hung, film‐like, in the wind in lovely coils and
                         web‐like phantasies.</p>
@@ -461,7 +493,8 @@
                     <p>And either the courage of the spirits of darkness, or the influence of
                         instincts dumb but nascent, was with her; for she fell asleep in her little
                         loft in the roof as though she were a thing cherished of heaven and earth,
-                        and dreamed happily all through the hours of the slowly‐rising dawn:<pb n="13" xml:id="VAB7066-012"/> her bruised body and her languid brain and
+                        and dreamed happily all through the hours of the slowly‐rising dawn:<pb
+                            n="13" xml:id="VAB7066-012"/> her bruised body and her languid brain and
                         her aching heart all stilled and soothed, and her hunger and passion and
                         pain forgotten; with the night‐blooming flowers still clasped in her hands,
                         and on her closed mouth a smile.</p>
@@ -492,7 +525,8 @@
                         and the wide plains golden with gorse of Arthur’s and of Merlin’s lands; and
                         beyond, to the northward, was the dim stretch of the ocean breaking on a
                         yellow shore, whither the river ran, and wither led straight shady roads,
-                        hidden with linden and with poplar trees, and<pb n="14" xml:id="VAB7066-013"/> marked ever and anon by a wayside wooden Christ, or by a little murmuring
+                        hidden with linden and with poplar trees, and<pb n="14" xml:id="VAB7066-013"
+                        /> marked ever and anon by a wayside wooden Christ, or by a little murmuring
                         well crowned with a crucifix.</p>
                     <p>A beautiful, old, shadowy, ancient place: picturesque everywhere; often
                         silent, with a sweet sad silence that was chiefly broken by the sound of
@@ -557,8 +591,10 @@
                         morning, withered and dead.</p>
                     <p>One amongst the few who had thus gone whither the lilies went, and of whom
                         people would still talk as their mules paced homewards through the lanes at
-                        twilight, had been Reine Flamma, the daughter of the miller of <corr>Yprès</corr>.</p>
-                    <p><corr>Yprès</corr> was a beechen‐wooded hamlet on the northern out‐<pb n="16" xml:id="VAB7066-015"/> skirt of the town, a place of orchards and wooded
+                        twilight, had been Reine Flamma, the daughter of the miller of
+                            <corr>Yprès</corr>.</p>
+                    <p><corr>Yprès</corr> was a beechen‐wooded hamlet on the northern out‐<pb n="16"
+                            xml:id="VAB7066-015"/> skirt of the town, a place of orchards and wooded
                         tangle; through which there ran a branch of the brimming river, hastening to
                         seek and join the sea, and caught a moment on its impetuous way, and forced
                         to work by the grim millwheels that had churned the foam‐bells there for
@@ -590,7 +626,8 @@
                         perfection of womanhood under the cold, hard, narrow rule of his severity
                         and his superstition. He loved her, indeed, with as much love as it was
                         possible for him ever to feel, and was proud of her beyond all other things;
-                        saved for her, toiled for her, muttered ever that it<pb n="17" xml:id="VAB7066-016"/> was for her when at confession he related how his
+                        saved for her, toiled for her, muttered ever that it<pb n="17"
+                            xml:id="VAB7066-016"/> was for her when at confession he related how his
                         measures of flour had been falsely weighted, and how he had filched from the
                         corn brought by the widow and the fatherless. For her he had sinned: from
                         one to whom the good report of his neighbours and the respect of his own
@@ -655,7 +692,8 @@
                         and unseemly to be said of a woman whom their bishop had called a saint. So
                         it died out, breathed only by a few mouths, and it came to be accepted as a
                         fact that she must have perished in the deep fast‐flowing river by some
-                        false step on the mill‐timber, as she went at dawn to feed<pb n="19" xml:id="VAB7066-018"/> her doves, or by some strange sad trance of
+                        false step on the mill‐timber, as she went at dawn to feed<pb n="19"
+                            xml:id="VAB7066-018"/> her doves, or by some strange sad trance of
                         sleep‐walking, from which she had been known more than once to suffer.</p>
                     <p>Claudis Flamma said little; it was a wound that bled inwardly. He toiled, and
                         chaffered, and drove hard bargains, and worked early and late with his
@@ -687,7 +725,8 @@
                         side of the fire; the great mastiff was stretched sleeping quietly on the
                         brick floor; the blue pottery, the brass pans, the oaken presses that had
                         been the riches of his race for generations, glimmered in the light; the
-                        doors were barred, the shutters closed; around the<pb n="20" xml:id="VAB7066-019"/> house the winds howled, and beneath its walls the
+                        doors were barred, the shutters closed; around the<pb n="20"
+                            xml:id="VAB7066-019"/> house the winds howled, and beneath its walls the
                         fretting water hissed.</p>
                     <p>The miller, overcome with the past cold and present warmth, nodded on his
                         wooden settle and slept, and muttered dreamily in his sleep, “A saint—a
@@ -788,7 +827,8 @@
                         do to her. Only now and then her eyes opened, as they had opened on him,
                         with a sudden lustre and fierceness, like those in a netted animal’s
                         impatient but untamed regard.</p>
-                    <p>Pitchou seized and searched her eagerly, stripping her of<pb n="23" xml:id="VAB7066-022"/> her warm fox‐skin wrap, her scarlet hood of wool,
+                    <p>Pitchou seized and searched her eagerly, stripping her of<pb n="23"
+                            xml:id="VAB7066-022"/> her warm fox‐skin wrap, her scarlet hood of wool,
                         her little rough hempen shirt, which were all dripping with the water from
                         the melted snow.</p>
                     <p>The skin of the young waif was brown, with a golden bloom on it; it had been
@@ -820,7 +860,8 @@
                         worthy of an empress.</p>
                     <p>The child watched them thus removed in perfect silence; from the moment they
                         had been wrenched away, and the battle had been finally lost to her, she had
-                        ceased to struggle, as though disdainful of a fruitless contest. But a<pb n="24" xml:id="VAB7066-023"/> great hate gathered in her eyes, and
+                        ceased to struggle, as though disdainful of a fruitless contest. But a<pb
+                            n="24" xml:id="VAB7066-023"/> great hate gathered in her eyes, and
                         smouldered there like a half‐stifled fire—it burnt on for many a long year
                         afterwards, unquenched.</p>
                     <p>When Pitchou brought her a cup of water and a roll of bread, she would
@@ -949,7 +990,8 @@
                         it a severe task to move; he was labouring breathlessly, giving himself no
                         pause, and the sweat was on his brow, although he trod ankle deep in snow,
                         and although his clothes were heavy with icicles.</p>
-                    <p>He did not see or hear her; she went up to him and<pb n="28" xml:id="VAB7066-027"/> called him by name; he started, and raised his
+                    <p>He did not see or hear her; she went up to him and<pb n="28"
+                            xml:id="VAB7066-027"/> called him by name; he started, and raised his
                         head and looked at her.</p>
                     <p>Dull though she was, she was in a manner frightened by the change upon his
                         face; it had been lean, furrowed, weather‐beaten always, but it was livid
@@ -977,7 +1019,8 @@
                     <p>Now, what the letter had been, or who had deciphered it for him, Claudis
                         Flamma never told to any man; and from the little strange creature no
                         utterance could be ever got.</p>
-                    <p>But the child who had come in the night and the snow tarried at <corr>Yprès</corr> from that time thenceforward.</p>
+                    <p>But the child who had come in the night and the snow tarried at
+                            <corr>Yprès</corr> from that time thenceforward.</p>
                     <p>Claudis Flamma nourished, sheltered, clothed her; but he did all these
                         begrudgingly, harshly, scantily; and he did all these with an acrid hate and
                         scorn, which did not cease, but rather grew with time.</p>
@@ -1077,9 +1120,10 @@
                         they?</p>
                     <p>So the henhucksters and poulterers, the cider makers and tanners, the
                         fisherfolk from the sea‐board, and the peasant proprietors from the country
-                        round, came at length in all seriousness to regard the young child at <corr>Yprès</corr> as a devil‐born thing. “She was hell‐begotten,” they would mutter,
-                        when they saw her; and they would cross themselves, and avoid her if they
-                        could.</p>
+                        round, came at length in all seriousness to regard the young child at
+                            <corr>Yprès</corr> as a devil‐born thing. “She was hell‐begotten,” they
+                        would mutter, when they saw her; and they would cross themselves, and avoid
+                        her if they could.</p>
                     <p>The time had gone by, unhappily, as they considered, when men had been
                         permitted to burn such creatures as this; they knew it and were sorry for
                         it; the world, they<pb n="32" xml:id="VAB7066-031"/> thought, had been
@@ -1427,9 +1471,10 @@
                         scoff.</p>
                     <p>Phratos lifted up the letter and kept it.</p>
                     <p>In a later time he found some one who could decipher it for him.</p>
-                    <p>It was the letter of Reine Flamma to the miller at <corr>Yprès</corr>, telling him the brief story of her fatal passion, and imploring
-                        from him mercy to her unborn child should it survive her and be ever taken
-                        to him.</p>
+                    <p>It was the letter of Reine Flamma to the miller at <corr>Yprès</corr>,
+                        telling him the brief story of her fatal passion, and imploring from him
+                        mercy to her unborn child should it survive her and be ever taken to
+                        him.</p>
                     <p>Remorse and absence had softened to her the harshness and the meanness of her
                         father’s character; she only remembered that he had loved her, and had
                         deemed her pure and faithful as the saints of God. There was no word in the
@@ -1661,7 +1706,8 @@
                     <p>In the Liébana she was beaten often, hungry almost always, cursed fiercely,
                         driven away by the mothers, mocked and flouted by the children; and this
                         taught her silence and ferocity. Yet in the Liébana she was happy, for one
-                        creature loved her, and she was free—free to lie in the long<pb n="49" xml:id="VAB7066-048"/> grass, to bathe in the still pools, to watch the
+                        creature loved her, and she was free—free to lie in the long<pb n="49"
+                            xml:id="VAB7066-048"/> grass, to bathe in the still pools, to watch the
                         wild things of the woods, to wander ankle deep in forest blossoms, to sleep
                         under the rocking of pines, to run against the sweet force of the wind, to
                         climb the trees and swing cradled in leaves, and to look far away at the
@@ -2107,7 +2153,8 @@
                         the child’s.</p>
                     <p>The boy was warm and living, still beneath the shelter of the sheepskin:
                         Phratos was dead.</p>
-                    <p>The people succoured the child, and nursed and fed him so<pb n="62" xml:id="VAB7066-061"/> that his life was saved; but to Phratos they only
+                    <p>The people succoured the child, and nursed and fed him so<pb n="62"
+                            xml:id="VAB7066-061"/> that his life was saved; but to Phratos they only
                         gave such burial as the corby gives the stricken deer.</p>
                     <p>“It is only a gypsy; let him lie,” they said; and they left him there, and
                         the snow kept him.</p>
@@ -2125,9 +2172,9 @@
             <pb n="63" xml:id="VAB7066-062"/>
             <div type="part">
                 <head>BOOK II.</head>
-                
-                    <quote>“Yo contra todos, y todos contra yo.”</quote>
-                
+
+                <quote>“Yo contra todos, y todos contra yo.”</quote>
+
                 <div type="chapter">
                     <head>CHAPTER I.</head>
                     <p><hi>THE</hi> hottest sun of a hot summer shone on a straight dusty road. An
@@ -2216,7 +2263,8 @@
                     <p>She came on, treading down the dust with her long and slender feet, that were
                         such feet as a sculptor would give his Cleopatra or his Phryne. Her face was
                         grave, shadowed, even fierce; and her mouth, though scarlet as a berry and
-                        full and curled, had its lips pressed close to one another,<pb n="66" xml:id="VAB7066-065"/> like the lips of one who has long kept silence,
+                        full and curled, had its lips pressed close to one another,<pb n="66"
+                            xml:id="VAB7066-065"/> like the lips of one who has long kept silence,
                         and may keep it—until death.</p>
                     <p>As she saw the old man her eyes changed and lightened with a smile which for
                         the moment banished all the gloom and savage patience from her eyes, and
@@ -2283,7 +2331,8 @@
                     <p>“Because Fraternity is Hate. Cain said so; but God would not believe
                         him.”</p>
                     <p>She mused over the saying; silent still.</p>
-                    <p>The lark dropped down from heaven, suddenly falling<pb n="68" xml:id="VAB7066-067"/> through the air, mute. It had been struck by a
+                    <p>The lark dropped down from heaven, suddenly falling<pb n="68"
+                            xml:id="VAB7066-067"/> through the air, mute. It had been struck by a
                         sparrow‐hawk, which flashed black against the azure of the skies and the
                         white haze of the atmosphere; and which flew down in the track of the lark
                         and seized it ere it gained the shelter of the grass and bore it away within
@@ -2349,7 +2398,8 @@
                         and curly‐headed baby, who was holding in the sun her little, white,
                         silver‐fringed banner, and catching the rise and fall of the sonorous chaunt
                         as well as she could with her little, lisping tones.</p>
-                    <p>“Didst thou see the daughter of the devil?” muttered to<pb n="70" xml:id="VAB7066-069"/> another a handsome golden brown boy, who had left
+                    <p>“Didst thou see the daughter of the devil?” muttered to<pb n="70"
+                            xml:id="VAB7066-069"/> another a handsome golden brown boy, who had left
                         his herd untended in the meadow to don his scarlet robes and swing about the
                         censer of his village chapel.</p>
                     <p>And they all sang louder, and tossed more incense on high, and marched more
@@ -2609,7 +2659,8 @@
                         threat to strike her; whilst his old mother, still thrusting her lofty
                         head‐gear and her wrinkled face from out of the door, screamed to him to
                         show he was a man, and have no mercy.</p>
-                    <p>As his grasp touched her, and the staff cast its shadow<pb n="78" xml:id="VAB7066-077"/> across her, Folle‐Farine sprang up, defiance and
+                    <p>As his grasp touched her, and the staff cast its shadow<pb n="78"
+                            xml:id="VAB7066-077"/> across her, Folle‐Farine sprang up, defiance and
                         fury breathing from all her beautiful fierce face.</p>
                     <p>She seized the staff in her right hand, wrenched it with a swift movement
                         from his hold, and catching his head under her left arm, rained blows on him
@@ -2876,7 +2927,8 @@
                         that she was suspected and reviled; she ceased to seek her own kind, and
                         only went for companionship and sympathy to the creatures of the fields an
                         the woods, to the things of the earth and the sky and the water.</p>
-                    <p>“Thou art the devil’s daughter!” half in sport hissed<pb n="86" xml:id="VAB7066-085"/> the youths in the market‐place against her as the
+                    <p>“Thou art the devil’s daughter!” half in sport hissed<pb n="86"
+                            xml:id="VAB7066-085"/> the youths in the market‐place against her as the
                         little child went amongst them, carrying a load for her grandsire, heavier
                         than her arms knew how to bear.</p>
                     <p>“Thou wert plague‐spotted from thy birth,” said the old man himself, as she
@@ -2912,7 +2964,8 @@
                     <p>The priest had striven to turn her soul what they had termed heavenward; but
                         their weapons had been wrath and intimidation. She would have none of them.
                         No efforts that they or her grandsire made had availed; she would be
-                        starved, thrashed, cursed, maltreated as they<pb n="87" xml:id="VAB7066-086"/> would; she could not understand their meaning, or would not submit
+                        starved, thrashed, cursed, maltreated as they<pb n="87" xml:id="VAB7066-086"
+                        /> would; she could not understand their meaning, or would not submit
                         herself to their religion.</p>
                     <p>As years went on they found the contest hopeless, so had abandoned her to the
                         devil, who had made her; and the daughter of one whom the whole province had
@@ -3050,7 +3103,8 @@
                         left.</p>
                     <p>“It was a pity to make you a woman,” he muttered, as his keen gaze swept over
                         her.</p>
-                    <p>“A woman!” She echoed the words dully and half<pb n="91" xml:id="VAB7066-090"/> wonderingly; she could not understand it in connection with herself.</p>
+                    <p>“A woman!” She echoed the words dully and half<pb n="91" xml:id="VAB7066-090"
+                        /> wonderingly; she could not understand it in connection with herself.</p>
                     <p>A woman; that was a woman who sat in the sun under the fig tree, working her
                         lace on a frame; that was a woman who leaned out of her lattice tossing a
                         red carnation to her lover; that was a woman who swept the open porch of
@@ -3118,7 +3172,8 @@
                         empty basket, and her chin resting upon them, and her eyes watching a maimed
                         butterfly drag its wings of emerald and diamond through the hot, pale,
                         sickly dust.</p>
-                    <p>“I dream!” she said, suddenly, as she stooped and lifted<pb n="93" xml:id="VAB7066-092"/> the wounded insect gently on to the edge of a
+                    <p>“I dream!” she said, suddenly, as she stooped and lifted<pb n="93"
+                            xml:id="VAB7066-092"/> the wounded insect gently on to the edge of a
                         leaf. “But I dream wide awake.”</p>
                     <p>Marcellin smiled.</p>
                     <p>“Never say so. They will think you mad. That is only what foolish things,
@@ -3242,10 +3297,11 @@
                         possible to her that her fate could be other than it was, since so long the
                         messengers and emissaries of her father’s empire had been silent and
                         leaden‐footed to her call.</p>
-                    <p><corr/>Yet, in a manner, she was comforted, for had not two mouths that
-                        day bidden her “wait”?</p>
-                    <p>She entered at length the little wood of <corr>Yprès</corr>, and heard that rush and music of the deep mill water, which was
-                        the sole thing she had learned to love in all the place.</p>
+                    <p><corr/>Yet, in a manner, she was comforted, for had not two mouths that day
+                        bidden her “wait”?</p>
+                    <p>She entered at length the little wood of <corr>Yprès</corr>, and heard that
+                        rush and music of the deep mill water, which was the sole thing she had
+                        learned to love in all the place.</p>
                     <p>Beyond it were the apple orchards and fruit gardens which rendered Claudis
                         Flamma back full recompense for the toil they cost him—recompense so large,
                         indeed, that many disbelieved in that poverty which he was wont to aver
@@ -3323,7 +3379,8 @@
                         tempestuous music on her ear; and her fancy, poetic still, though deadened
                         by a life of ignorance and toil, was stirred by the tender tones of the
                         numberless birds that sang about her.</p>
-                    <p>“The earth and the air are good,” she thought, as she lay<pb n="99" xml:id="VAB7066-098"/> there watching the dark leaves sway in the foam
+                    <p>“The earth and the air are good,” she thought, as she lay<pb n="99"
+                            xml:id="VAB7066-098"/> there watching the dark leaves sway in the foam
                         and the wind, and the bright‐bosomed birds float from blossom to
                         blossom.</p>
                     <p>For there was latent in her, all untaught, that old pantheistic instinct of
@@ -3494,7 +3551,8 @@
                     <p>“You will not confess that you stole the money?”</p>
                     <p>“I should lie if I did.”</p>
                     <p>“Then strip.”</p>
-                    <p>She set her teeth in silence; and without a moment’s<pb n="104" xml:id="VAB7066-103"/> hesitation unloosened the woollen sash knotted
+                    <p>She set her teeth in silence; and without a moment’s<pb n="104"
+                            xml:id="VAB7066-103"/> hesitation unloosened the woollen sash knotted
                         round her waist, and pushed down the coarse linen tunic from about her
                         throat.</p>
                     <p>The white folds fell from off the perfect curves of her brown arms, and left
@@ -3559,7 +3617,8 @@
                         miserly old man, whose solitary tenderness of feeling and honesty of pride
                         had been rooted out for ever when he had learned the dishonour of the woman
                         whom he had deemed a saint. In the ten years of time which had passed since
-                        first the little brown large‐eyed child had been sent to seek asylum with<pb n="106" xml:id="VAB7066-105"/> him, he had grown harder and keener and
+                        first the little brown large‐eyed child had been sent to seek asylum with<pb
+                            n="106" xml:id="VAB7066-105"/> him, he had grown harder and keener and
                         more severe with each day that rose.</p>
                     <p>Her presence was abhorrent to him, though he kept her, partly from a savage
                         sense of duty, partly from the persuasion that she had the power in her to
@@ -3591,7 +3650,8 @@
                         lash. She would bathe in the woodland pool, remembering no more that she
                         might be watched by human eyes than does the young tigress that has never
                         beheld the face of man.</p>
-                    <p>In all this she was brutalised and degraded by her tyrant’s<pb n="107" xml:id="VAB7066-106"/> bondage: in other things she was far higher than
+                    <p>In all this she was brutalised and degraded by her tyrant’s<pb n="107"
+                            xml:id="VAB7066-106"/> bondage: in other things she was far higher than
                         he, and escaped him.</p>
                     <p>Stupefied as her mind might be by the exhaustion of severe physical labour,
                         it had still irony and it had still imagination; and under the hottest heats
@@ -3620,7 +3680,8 @@
                     <p>It looked a simple and innocent place. In the summer time it was peaceful and
                         lovely, green and dark and still, with the blue sky above it, and the songs
                         of birds all around; with its old black timbers, and its many‐coloured
-                        orchards, and its pretty leafy gardens, and its grey walls<pb n="108" xml:id="VAB7066-107"/> washed by the hurrying stream. But in the winter
+                        orchards, and its pretty leafy gardens, and its grey walls<pb n="108"
+                            xml:id="VAB7066-107"/> washed by the hurrying stream. But in the winter
                         it was very dreary, utterly lonely. The water roared, and the leafless trees
                         groaned in the wind, and the great leaden clouds of rain or fog enveloped it
                         duskily.</p>
@@ -3652,7 +3713,8 @@
                         upon, in the miserable servitude of the hopeless debtor.</p>
                     <p>In the hard winter which followed on that sickly autumn these and their like
                         fell farther in the mire of poverty than ever, and had to come and beg of
-                        Flamma loans of the commonest necessaries of their bare living. They knew<pb n="109" xml:id="VAB7066-108"/> that they would have to pay a hundredfold
+                        Flamma loans of the commonest necessaries of their bare living. They knew<pb
+                            n="109" xml:id="VAB7066-108"/> that they would have to pay a hundredfold
                         in horrible extortion when the spring and summer should bring them work, and
                         give them fruit on their trees and crops on their little fields; but they
                         could do no better.</p>
@@ -3752,7 +3814,8 @@
                     <p>“If it were only myself!” she thought, stopping her ears not to hear them; if
                         it had been only herself it would have been so easy to creep away into the
                         corner among the dry grass, and to lie still till the cold froze the pains
-                        of hunger and made them quiet; and to feel numb and tired,<pb n="112" xml:id="VAB7066-111"/> and yet glad that it was all over, and to murmur
+                        of hunger and made them quiet; and to feel numb and tired,<pb n="112"
+                            xml:id="VAB7066-111"/> and yet glad that it was all over, and to murmur
                         that God was good, and so to let death come—content.</p>
                     <p>But it was not only herself.</p>
                     <p>The poor are seldom so fortunate—they themselves would say so unhappy—as to
@@ -3853,7 +3916,8 @@
                     <p>The snow was falling, the clouds were driving, the waters were roaring in the
                         twilight: she was only a little black speck in the vast grey waste of the
                         earth and the sky, and the furious air tossed her at times to and fro like a
-                        withered leaf. But she would not let it beat her; she groped her<pb n="115" xml:id="VAB7066-114"/> way with infinite difficulty, grasping a bough
+                        withered leaf. But she would not let it beat her; she groped her<pb n="115"
+                            xml:id="VAB7066-114"/> way with infinite difficulty, grasping a bough
                         for strength, or waiting under a tree for breath a moment, and thus at last
                         reached the mill‐house.</p>
                     <p>Such light as there was left showed her the kitchen within, the stores of
@@ -3888,7 +3952,8 @@
                         old, and the children are so young—”</p>
                     <p>Claudis Flamma got up and walked to the other side of the kitchen. Her eyes
                         followed him with wistful, hungry longing.</p>
-                    <p>Where he went there stood pans of new milk, baskets of<pb n="116" xml:id="VAB7066-115"/> eggs, rolls of bread, piles of faggots. Her
+                    <p>Where he went there stood pans of new milk, baskets of<pb n="116"
+                            xml:id="VAB7066-115"/> eggs, rolls of bread, piles of faggots. Her
                         feeble heart beat thickly with eager hope, her dim eyes glowed with pleasure
                         and with thankfulness.</p>
                     <p>He came back and brought to her a few sharp rods, plucked from a thorn
@@ -3956,7 +4021,8 @@
                     <p>She spoke hastily and roughly; she was ashamed of her own compassion. What
                         was it to her, whether any of these people lived or died? They had always
                         mocked and hated her.</p>
-                    <p>“If I did right, I should let them rot, and spit on their<pb n="118" xml:id="VAB7066-117"/> corpses,” she thought, with the ferocity of
+                    <p>“If I did right, I should let them rot, and spit on their<pb n="118"
+                            xml:id="VAB7066-117"/> corpses,” she thought, with the ferocity of
                         vengeance that ran in her oriental blood.</p>
                     <p>Yet she had come out in the storm, and had brought away her food for
                         strangers, though she had been at work all day long, and was chilled to the
@@ -4435,7 +4501,8 @@
                     <p>“Hold thy noise, thou little pig!” cried Flandrin’s wife, pushing Bernardou
                         on before her. “Hold thy noise, I tell you, or I will put you in the black
                         box in a hole in the ground, along with thy great‐grandmother.”</p>
-                    <p>But Bernardou wept aloud, refusing to be comforted or<pb n="132" xml:id="VAB7066-131"/> terrified into silence. He was old enough to know
+                    <p>But Bernardou wept aloud, refusing to be comforted or<pb n="132"
+                            xml:id="VAB7066-131"/> terrified into silence. He was old enough to know
                         that never more would the old kindly withered brown face bend over him as he
                         woke in the morning, nor the old kindly quavering voice croone him country
                         ballads and cradle songs at twilight by the bright wood fire.</p>
@@ -4467,7 +4534,8 @@
                         had no tenants except the lifeless famished bodies of the old grandam and
                         the year‐old infant.</p>
                     <p>When Folle‐Farine had heard the hut door close, and the steps of her
-                        tormentors die away down the hill, she had tried<pb n="133" xml:id="VAB7066-132"/> vainly several times to raise herself from the
+                        tormentors die away down the hill, she had tried<pb n="133"
+                            xml:id="VAB7066-132"/> vainly several times to raise herself from the
                         floor, and had failed.</p>
                     <p>She had been so suddenly attacked and flung down and trampled on, that her
                         brain had been deadened, and her sense had gone for the first sharp moment
@@ -4568,7 +4636,8 @@
                     <p>“I went after old Manon Dax, to give her my supper. She died in the road, and
                         I carried her home. And the youngest child was dead too. I stayed there
                         because the children were alone; I called to Flandrin and told him; he came
-                        with his wife and other women, and they said I had<pb n="136" xml:id="VAB7066-135"/> killed old Dax; they set on me, and beat me, and
+                        with his wife and other women, and they said I had<pb n="136"
+                            xml:id="VAB7066-135"/> killed old Dax; they set on me, and beat me, and
                         pricked me for a witch. It is no matter. But it made me late.”</p>
                     <p>In her glance upward, even in the curtness of her words, there was an
                         unconscious glimmer of appeal, a vague fancy that for once she might,
@@ -4698,7 +4767,8 @@
                     <p>Her heart was in wild revolt, and a fierce futile hate gnawed ever in it. She
                         had become used to the indignities of the populace, and the insults of all
                         the people who went to and fro her grandsire’s place; but each one pierced
-                        deeper and deeper than the last, and left a longer scar, and<pb n="140" xml:id="VAB7066-139"/> killed more and more of the gentler and better
+                        deeper and deeper than the last, and left a longer scar, and<pb n="140"
+                            xml:id="VAB7066-139"/> killed more and more of the gentler and better
                         instincts which had survived in her through all the brutalising debasement
                         of her life.</p>
                     <p>She could not avenge the outrage of Rose Flandrin and her sisterhood, and
@@ -4731,7 +4801,8 @@
                         wreaths of ruddy berries. On its cabin windows the light of wood cracking
                         and blazing within glowed brightly. Through them she saw many of their
                         interiors as she went by in the shadow without.</p>
-                    <p>In one the children knelt in a circle round the fire,<pb n="141" xml:id="VAB7066-140"/> roasting chestnuts in the embers with gay shouts
+                    <p>In one the children knelt in a circle round the fire,<pb n="141"
+                            xml:id="VAB7066-140"/> roasting chestnuts in the embers with gay shouts
                         of laughter. In another, they romped with their big sheepdog, decking him
                         with garlands of ivy and laurel.</p>
                     <p>In one little brown room a betrothal party made merry; in another, that was
@@ -4832,7 +4903,8 @@
                         house:</p>
                     <p>“Bernardou! Bernardou! thou little plague. Come within. What dost do out
                         there in the dark? Mischief, I will warrant.”</p>
-                    <p>The speaker strode out, and snatched and bore and clutched<pb n="144" xml:id="VAB7066-143"/> him away; she was the sister of Rose Flandrin,
+                    <p>The speaker strode out, and snatched and bore and clutched<pb n="144"
+                            xml:id="VAB7066-143"/> him away; she was the sister of Rose Flandrin,
                         who lived with them, and kept the place and the children in order.</p>
                     <p>“Thou little beast!” she muttered, in fury. “Dost dare talk to the witch that
                         killed they grandmother? Thou shalt hie to bed, and sup on a fine whipping.
@@ -4978,10 +5050,10 @@
             <pb n="149" xml:id="VAB7066-148"/>
             <div type="part">
                 <head>BOOK III.</head>
-                
-                    <quote>“L’Artiste est un dieu tombé, qui se souvient du temps quand il créa un
-                        monde.”</quote>
-                
+
+                <quote>“L’Artiste est un dieu tombé, qui se souvient du temps quand il créa un
+                    monde.”</quote>
+
                 <div type="chapter">
                     <head>CHAPTER I.</head>
                     <p><hi>NIGHT</hi> had come; a dark night of earliest spring. The wild day had
@@ -5038,7 +5110,8 @@
                         empty; and he had not wherewithal to refill it.</p>
                     <p>He might have found some to fill it for him no doubt. He lived amidst the
                         poor, and the poor to the poor are good, though they are bad and bitter to
-                        the rich. But he did not open either his lips or his hands. He consumed<pb n="151" xml:id="VAB7066-150"/> his heart in silence; and his vitals
+                        the rich. But he did not open either his lips or his hands. He consumed<pb
+                            n="151" xml:id="VAB7066-150"/> his heart in silence; and his vitals
                         preyed in anguish on themselves without his yielding to their torments.</p>
                     <p>He was a madman; and Cato, who measured the godliness of man by what they
                         gained, would have held him, accursed;—the madness that starves and is
@@ -5176,7 +5249,8 @@
                         that limbs as strong, and muscles as hard, and manhood as vigorous as his,
                         would only yield to such death as this slowly, doggedly, inch by inch, day
                         by day. He knew; and he knew that he could not trust himself to go through
-                        that uttermost torture without once lifting his voice to summon<pb n="155" xml:id="VAB7066-154"/> the shame of release from it. Shame—since release
+                        that uttermost torture without once lifting his voice to summon<pb n="155"
+                            xml:id="VAB7066-154"/> the shame of release from it. Shame—since release
                         would needs be charity.</p>
                     <p>He knew full well; he had seen all forms of death; he had studied its throes,
                         and portrayed its horrors. He knew that before dawn—it might be before
@@ -5241,7 +5315,8 @@
                         the panes of the oriel and lancet windows, over which brooded sculptured
                         figures seraph‐winged, or carven forms helmeted and leaning on their
                         swords.</p>
-                    <p>In one of them there was a group of young men and<pb n="157" xml:id="VAB7066-156"/> maidens gathered round the wood nut‐burning, the
+                    <p>In one of them there was a group of young men and<pb n="157"
+                            xml:id="VAB7066-156"/> maidens gathered round the wood nut‐burning, the
                         lovers seeking each other’s kiss as the kernels broke the shells; in
                         another, some rosy curly children played at soldiers with the cuirass and
                         sabre which their grandsire had won in the army of the empire; in another,
@@ -5273,7 +5348,8 @@
                         blazonries and carvings. It had been a prince‐bishop’s palace; it was now
                         the shared shelter of half a score of lace weavers and of ivory workers,
                         each family in their chamber, like a bee in its cell.</p>
-                    <p>As the boat floated under one of the casements, she saw<pb n="158" xml:id="VAB7066-157"/> that it stood open; there was a china cup filled
+                    <p>As the boat floated under one of the casements, she saw<pb n="158"
+                            xml:id="VAB7066-157"/> that it stood open; there was a china cup filled
                         with house‐born primroses on the broad sill; there was an antique
                         illuminated Book of Hours lying open beside the flowers; there was a strong
                         fire‐light shining from within; there was an old woman asleep and smiling in
@@ -5375,7 +5451,8 @@
                         on the desert of an endless hate, which stretched around her without one
                         blossom of love, one well‐spring of charity, rising in its deathlike
                         waste.</p>
-                    <p>The dreamy imaginations, the fantastic pictures that had<pb n="161" xml:id="VAB7066-160"/> been so strong in her in her early years, were
+                    <p>The dreamy imaginations, the fantastic pictures that had<pb n="161"
+                            xml:id="VAB7066-160"/> been so strong in her in her early years, were
                         still there, though distorted by ignorance and inflamed by despair. Though,
                         in her first poignant grief for him, she had envied Marcellin his hard‐won
                         rest, his grave in the public ditch of the town, it was not in her to desire
@@ -5407,7 +5484,8 @@
                         hall was left unused by them, partly because the river had been known to
                         rise high enough to flood the floor; partly because legend had bequeathed to
                         it a ghastly repute of spirits of murdered men who haunted it.</p>
-                    <p>No man or woman in all the country round dared venture<pb n="162" xml:id="VAB7066-161"/> to it after nightfall; it was all that the
+                    <p>No man or woman in all the country round dared venture<pb n="162"
+                            xml:id="VAB7066-161"/> to it after nightfall; it was all that the
                         stoutest would do to fetch and carry grain there at broad day; and the
                         peasant who, being belated, rowed his market‐boat past it when the moon was
                         high, moved his oar with one trembling hand, and with the other crossed
@@ -5440,7 +5518,8 @@
                     <p>As she stood thus upright in the little tossing vessel, against the darkness
                         and the winds, she passed the solitary building; it had been placed so low
                         down against the shore that its front walls, strong of hewn stone, and deep
-                        bedded in the soil, were half submerged in the dense growth of<pb n="163" xml:id="VAB7066-162"/> the reeds and of the willowy osiers which grew up
+                        bedded in the soil, were half submerged in the dense growth of<pb n="163"
+                            xml:id="VAB7066-162"/> the reeds and of the willowy osiers which grew up
                         and brushed the great arched windows of its haunted hall. The lower half of
                         one of the seven latticed windows had been blown wide open; a broad square
                         casement, braced with iron bars, looking out upon the river, and lighted by
@@ -5473,7 +5552,8 @@
                         columns.</p>
                     <p>No fear, but a great awe fell upon her. She let the boat drift on its way
                         unheeded; and stood there at gaze like a forest doe.</p>
-                    <p>She had passed this grain tower with every day or night<pb n="164" xml:id="VAB7066-163"/> that she had gone down the river upon the errands
+                    <p>She had passed this grain tower with every day or night<pb n="164"
+                            xml:id="VAB7066-163"/> that she had gone down the river upon the errands
                         of her taskmaster; but she had never looked within it once, holding the
                         peasants’ stories and terrors in the cold scorn of an intrepid courage.</p>
                     <p>Now, when she looked, she for the first time believed—believed that the dead
@@ -5641,7 +5721,8 @@
                     <p>On her ear there seemed to steal a voice from the darkness, saying:</p>
                     <p>“One life alone can ransom another. Live immortal with us; or for that dead
                         man—perish.”</p>
-                    <p>She bowed her head where she knelt in the darkness; the<pb n="169" xml:id="VAB7066-168"/> force of an irresistible fate seemed upon her;
+                    <p>She bowed her head where she knelt in the darkness; the<pb n="169"
+                            xml:id="VAB7066-168"/> force of an irresistible fate seemed upon her;
                         that sacrifice which is at once the delirium and divinity of her sex had
                         entered into her.</p>
                     <p>She was so lowly a thing; a creature so loveless and cursed; the gods, if
@@ -5672,7 +5753,8 @@
                         him.</p>
                     <p>It was no more to her the dead body of a man, unknown, unheeded, a stranger,
                         and because a mortal, of necessity to her a foe. It was a nameless wondrous
-                        mystic force and splendour to which she had given back the pulse of<pb n="170" xml:id="VAB7066-169"/> existence, the light of day; which was no
+                        mystic force and splendour to which she had given back the pulse of<pb
+                            n="170" xml:id="VAB7066-169"/> existence, the light of day; which was no
                         more the gods’, nor any man’s, no more the prey of death, nor the delight of
                         love; but hers—hers—shared only with the greatness she had bought for
                         him.</p>
@@ -5740,7 +5822,8 @@
                         shore. Neither could there be any wood, which, if brought in and lit, would
                         burn. All the timber was green and full of sap, and all, for a score square
                         leagues around, was at that hour drenched with water.</p>
-                    <p>She knew that the warmth of fire to dry the deadly<pb n="172" xml:id="VAB7066-171"/> dampness in the air, the warmth of wine to
+                    <p>She knew that the warmth of fire to dry the deadly<pb n="172"
+                            xml:id="VAB7066-171"/> dampness in the air, the warmth of wine to
                         quicken the chillness and the torpor of the reviving life, were what were
                         wanted beyond all other things. She had seen famine in all its stages, and
                         she knew the needs and dangers of that fell disease.</p>
@@ -5772,7 +5855,8 @@
                         words; and she abhorred this, the one gift which men cast to her as her only
                         heirloom, with a strong scornful loathing which stood her in the stead of
                         virtue.</p>
-                    <p>With an instinctive cynicism which moved her con‐<pb n="173" xml:id="VAB7066-172"/> tinually, yet to which she could have given no
+                    <p>With an instinctive cynicism which moved her con‐<pb n="173"
+                            xml:id="VAB7066-172"/> tinually, yet to which she could have given no
                         name, she had loved to see the children and the maidens,—those who held her
                         accursed, and were themselves held so innocent and just,—steal the ripe
                         cherries from the stalk, pluck the forbidden flowers that nodded over the
@@ -5839,7 +5923,8 @@
                     <p>She reached Yprès, feeling and scenting her way by instinct, as a dog does,
                         all through the tumult of the air and against the force of the driving
                         rains. She met no living creature; the weather was too bad for even a beggar
-                        to be afoot in it, and even the stray and homeless beasts<pb n="175" xml:id="VAB7066-174"/> had sought some shelter from a ruined shed or
+                        to be afoot in it, and even the stray and homeless beasts<pb n="175"
+                            xml:id="VAB7066-174"/> had sought some shelter from a ruined shed or
                         crumbling wall.</p>
                     <p>As softly as a leaf may fall she unloosed the latch of the orchard, stole
                         through the trees, and took her way in an impenetrable gloom, with the swift
@@ -5915,8 +6000,8 @@
                         her for the instant, but she rallied and looked up with eyes as used to
                         pierce the deepest gloom as any goshawk’s; she discerned the outline of the
                         Calvary, towering high and weird‐like above the edge of the river, where the
-                        priests and people had placed it, so that the <corr>boatmen</corr> could abase themselves and do it honour as they passed the
-                        banks.</p>
+                        priests and people had placed it, so that the <corr>boatmen</corr> could
+                        abase themselves and do it honour as they passed the banks.</p>
                     <p>The lantern on the cross shone far across the stream, but shed no light upon
                         the path she followed.</p>
                     <p>At its foot she had stumbled and been bruised upon her errand of mercy; the
@@ -5939,7 +6024,8 @@
                         would have seized her as a thief.</p>
                     <p>The storm abated a little, and every now and then a gleam of moonlight was
                         shed upon the flooded meadows. She gained the base of the tower, and by
-                        means of the length of rope let, by degrees, the firewood and the basket<pb n="178" xml:id="VAB7066-177"/> through the open portion of the window on
+                        means of the length of rope let, by degrees, the firewood and the basket<pb
+                            n="178" xml:id="VAB7066-177"/> through the open portion of the window on
                         to the floor below, then again followed them herself.</p>
                     <p>Her heart thrilled as she entered.</p>
                     <p>Her first glance to the desolate hearth showed her that the hours of her
@@ -6042,7 +6128,8 @@
                         that night of storm, that unknown fate which she had taken into her own
                         hands, unwitting and unheeding whether good or evil might be the issue
                         thereof.</p>
-                    <p>To her he was beautiful, he suffered, she had saved him<pb n="181" xml:id="VAB7066-180"/> from death, and he was hers: and this was all
+                    <p>To her he was beautiful, he suffered, she had saved him<pb n="181"
+                            xml:id="VAB7066-180"/> from death, and he was hers: and this was all
                         that she remembered. She dealt with him as she would have done with some
                         forest beast or bird that she should have found frozen in the woods of
                         winter.</p>
@@ -6075,7 +6162,8 @@
                         her birth she became wholly human.</p>
                     <p>A sharp terror made her tremble like a leaf; she put his head softly from her
                         on the ground, and rose, quivering, to her feet.</p>
-                    <p>It was not the gods whom she feared, it was herself. She<pb n="182" xml:id="VAB7066-181"/> had never once known that she had beauty, any
+                    <p>It was not the gods whom she feared, it was herself. She<pb n="182"
+                            xml:id="VAB7066-181"/> had never once known that she had beauty, any
                         more than the flower knows it blowing on the wind. She had passed through
                         the crowds of fair and market, not knowing why the youths looked after her
                         with cruel eyes all aglow. She had walked through them, indifferent and
@@ -6143,7 +6231,8 @@
                         air‐born, sun‐fed, fair and free.</p>
                     <p>But he saw these only as in a dream; and, as a dream, when he awakened they
                         had passed.</p>
-                    <p>Though still dark from mists and heavy clouds, the dawn<pb n="184" xml:id="VAB7066-183"/> grew on to morning as she went noiselessly away
+                    <p>Though still dark from mists and heavy clouds, the dawn<pb n="184"
+                            xml:id="VAB7066-183"/> grew on to morning as she went noiselessly away
                         over the grey sands, the wet shore paths, the sighing rushes.</p>
                     <p>The river‐meadows were all flooded, and on the opposite banks the road was
                         impassable; but on her side she could still find footing, for the ground
@@ -6278,7 +6367,8 @@
                         had given way to a million sounds of waking life from budding leaves and
                         nesting birds, and melting torrents and warm winds, fanning the tender
                         primrose into being, and wooing the red Alpine rose to blossom.</p>
-                    <p>The little valley was peopled by a hardy race of herdsmen<pb n="188" xml:id="VAB7066-187"/> and of fishers; men who kept their goat flocks on
+                    <p>The little valley was peopled by a hardy race of herdsmen<pb n="188"
+                            xml:id="VAB7066-187"/> and of fishers; men who kept their goat flocks on
                         the steep sides of the mountains, or went down to the deep waters in search
                         of a scanty subsistence. But they were a people simple, noble, grave, even
                         in a manner heroic and poetic, a people nurtured on the old grand songs of a
@@ -6311,7 +6401,8 @@
                     <p>Raised above the little throng upon the bare red rock, with the green fiords
                         and the dim pine‐woods stretching round him as far as his eye could reach,
                         he preached, now to the groups of fishers and herdsmen, and foresters and
-                        hunters; protesting to this simple people against the force<pb n="189" xml:id="VAB7066-188"/> of wealth, and the lust of possession, as though
+                        hunters; protesting to this simple people against the force<pb n="189"
+                            xml:id="VAB7066-188"/> of wealth, and the lust of possession, as though
                         he preached to princes and to conquerors.</p>
                     <p>He told them of what he had seen in the great cities through which he had
                         wandered; of the corruption and the vileness, and the wantonness; of the
@@ -6479,7 +6570,8 @@
                         saved by alms is a failure, and a failure for ever inglorious.</p>
                     <p>So the shame of this ransom for death far outweighed with him the
                         benefit.</p>
-                    <p>“Why could they not let me be?” he cried in his soul<pb n="194" xml:id="VAB7066-193"/> against those unknown lives which had weighed his
+                    <p>“Why could they not let me be?” he cried in his soul<pb n="194"
+                            xml:id="VAB7066-193"/> against those unknown lives which had weighed his
                         own with the fetters of obligation. “Rather death than a debt! I was content
                         to die; the bitterness was passed. I should have known no more. Why could
                         they not let me be!”</p>
@@ -6579,7 +6671,8 @@
                     <p>He had not spent it in riot or madness, in lewd love or in gambling greed; he
                         had been governed by great desires, though these had been fruitless, and had
                         spent his strength to a great end, though this had been never reached.</p>
-                    <p>As he turned from looking out upon the swollen stream<pb n="197" xml:id="VAB7066-196"/> that rushed beneath his windows, his eyes fell
+                    <p>As he turned from looking out upon the swollen stream<pb n="197"
+                            xml:id="VAB7066-196"/> that rushed beneath his windows, his eyes fell
                         upon the opposite wall, where the white shapes of his cartoons were caught
                         by the awakening sun.</p>
                     <p>The spider had drawn his dusty trail across them; the rat had squatted at
@@ -6745,7 +6838,8 @@
                         light glow in some lattice underneath the eaves, a half‐dead woman dragged
                         herself feebly under the lime‐tree shadows of the pastor’s house, and struck
                         with a faint cry upon the door and fell at her father’s feet, broken and
-                        senseless. Before the full day had dawned she had given birth to a<pb n="202" xml:id="VAB7066-201"/> male child; and died as her son’s eyes
+                        senseless. Before the full day had dawned she had given birth to a<pb
+                            n="202" xml:id="VAB7066-201"/> male child; and died as her son’s eyes
                         opened to the morning light.</p>
                     <p>He inherited no name, and they called him after his grandsire, Arslàn.</p>
                     <p>When his dead daughter lay stretched before him in the sunlight, with her
@@ -6776,7 +6870,8 @@
                     <p>The people admired and wondered at him; they did not love him. The lad was
                         cold, dauntless, silent; he repelled their sympathies and disdained their
                         pastimes. He chose rather to be by himself than with them. He was never
-                        cruel; but he was never tender; and when he did speak he<pb n="203" xml:id="VAB7066-202"/> spoke with a sort of eloquent scorn and caustic
+                        cruel; but he was never tender; and when he did speak he<pb n="203"
+                            xml:id="VAB7066-202"/> spoke with a sort of eloquent scorn and caustic
                         imagery that seemed to them extraordinary in one so young. But his
                         grandfather loved him greatly; and reared him tenderly and wisely; and
                         braced him with a scholar’s lore and with a mountaineer’s exposure, so that
@@ -6844,7 +6939,8 @@
                         mountains, seeking a new world. His old familiar home had become hateful to
                         him; he had no tie to it save two low graves, still snow‐covered underneath
                         a knot of tall stone‐pines; the Norse passion of wandering was in his veins
-                        as it had been in his mother’s before him; he mutely<pb n="205" xml:id="VAB7066-204"/> desired freedom, colour, knowledge, art, fame, as
+                        as it had been in his mother’s before him; he mutely<pb n="205"
+                            xml:id="VAB7066-204"/> desired freedom, colour, knowledge, art, fame, as
                         she had desired them, and he went: turning his face from that lowly green
                         nest lying like a lark’s between the hills.</p>
                     <p>He did not go as youth mostly goes, blind with a divine dream of triumph: he
@@ -6877,7 +6973,8 @@
                         north in search of skins and such poor trade as they could drive with
                         Esquimaux or Koraks; he had borne their dangers and their poverty, their
                         miseries and their famine, for sake of seeing what they saw;—the pathless
-                        oceans of the ice realm, the trailing pines alone in<pb n="206" xml:id="VAB7066-205"/> a white snow world, the red moon fantastic and
+                        oceans of the ice realm, the trailing pines alone in<pb n="206"
+                            xml:id="VAB7066-205"/> a white snow world, the red moon fantastic and
                         horrible in a sky of steel, the horned clouds of reindeer rushing through
                         the endless night, the arch of the aurora spanning the heavens with their
                         fire. He had passed many seasons of his boyhood in the silence, the
@@ -6974,7 +7071,8 @@
                         the multitudes. They hurled against him the old worn‐out cry that the office
                         of art was to give pleasure, not pain; and when his money was gone, so that
                         he could no longer, at his own cost, expose his works to the public gaze,
-                        they and he were alike obliterated from the public marts; they had<pb n="209" xml:id="VAB7066-208"/> always denied him fame, and they at last
+                        they and he were alike obliterated from the public marts; they had<pb
+                            n="209" xml:id="VAB7066-208"/> always denied him fame, and they at last
                         thrust him quickly into oblivion, and abandoned him to it without remorse,
                         and even with contentment.</p>
                     <p>He could, indeed, with the facile power of eye and touch that he possessed,
@@ -7007,11 +7105,12 @@
                         since many better men than he had borne the like. He could not have altered
                         it without beggary or theft, and he thought either of these worse than
                         itself.</p>
-                    <p>There were <corr>hecatombs</corr> of grain, bursting their sacks, in the lofts above; but when, once
-                        on each eighth day, the<pb n="210" xml:id="VAB7066-209"/> maltster owning
-                        them sent his men to fetch some from the store, Arslàn let the boat be
-                        moored against the wall, be filled with barley, and be pushed away again
-                        down the current, wihtout saying once to the rowers, “Wait; I starve!”</p>
+                    <p>There were <corr>hecatombs</corr> of grain, bursting their sacks, in the
+                        lofts above; but when, once on each eighth day, the<pb n="210"
+                            xml:id="VAB7066-209"/> maltster owning them sent his men to fetch some
+                        from the store, Arslàn let the boat be moored against the wall, be filled
+                        with barley, and be pushed away again down the current, wihtout saying once
+                        to the rowers, “Wait; I starve!”</p>
                     <p>And yet, though like a miser, amidst his gold, his body starved amidst the
                         noble shapes and the great thoughts that his brain conceived and his hand
                         called into substance, he never once dreamed of abandoning for any other the
@@ -7040,7 +7139,8 @@
                         fires. Yet he had not been utterly discouraged; he strove against the
                         Metanira of circumstance; he did his best to struggle free from the mortal
                         bonds that bound him; and, as the child Demophoon mourned for the great
-                        goddess that had nurtured him, refusing to be comforted, so did he turn<pb n="211" xml:id="VAB7066-210"/> form the base consolations of the sense
+                        goddess that had nurtured him, refusing to be comforted, so did he turn<pb
+                            n="211" xml:id="VAB7066-210"/> form the base consolations of the sense
                         and the appetites, and beheld ever before his sight the ineffable majesty of
                         that Mater Dolorosa who once and for ever had anointed him as her own.</p>
                     <p>Even now as the strength returned to his limbs and the warmth to his veins,
@@ -7071,7 +7171,8 @@
                         eternal type of unscrupulous Success, seemed to have voice and cry to
                         him:—“Oh fool, fool, fool! who listens for the music of the spheres, and
                         disdains the only melody that men have ears to hear—the melody of gold!”</p>
-                    <p>Arslàn turned from the great cartoon of the gods in<pb n="212" xml:id="VAB7066-211"/> Pheræ, and went out into the daylight, and
+                    <p>Arslàn turned from the great cartoon of the gods in<pb n="212"
+                            xml:id="VAB7066-211"/> Pheræ, and went out into the daylight, and
                         stripped and plunged into the cold and turbulent stream. Its chilliness and
                         the combat of its current braced his nerves and cleared his brain.</p>
                     <p>When he was clad, he left the grain‐tower with the white forms of its gods
@@ -7203,7 +7304,8 @@
                         nations; bearing, on such shoulders as these earthen water‐vases that might
                         have served the feasts of Pharaohs; showing such limbs as these against the
                         curled palm branches and the deep blue sky upon the desert’s edge.</p>
-                    <p>But here!—a face of Asia amongst the corn‐lands of<pb n="216" xml:id="VAB7066-215"/> Northern France? It seemed to him strange; he
+                    <p>But here!—a face of Asia amongst the corn‐lands of<pb n="216"
+                            xml:id="VAB7066-215"/> Northern France? It seemed to him strange; he
                         looked after her with wonder.</p>
                     <p>The boat went on down the stream without any pause; the sculls cleaving the
                         heavy tide with regular and resolute monotony; the golden piles of the grain
@@ -7271,7 +7373,8 @@
                         which, whilst they made his greatness as an artist, made his callousness as
                         a man. It might have been sweet to others to find themselves remembered and
                         pitied by another at an hour when their forces were spent, their fate
-                        friendless, and their hopes all dead. But it<pb n="218" xml:id="VAB7066-217"/> was not so to him, he only felt like the desert animal which, wounded,
+                        friendless, and their hopes all dead. But it<pb n="218" xml:id="VAB7066-217"
+                        /> was not so to him, he only felt like the desert animal which, wounded,
                         repulses every healing hand, and only seeks to die alone.</p>
                     <p>There was only one vulnerable, one tender nerve in him, and this was the
                         instinct of his genius. He had been nurtured in hardihood, and had drawn in
@@ -7303,7 +7406,8 @@
                         not thank God or man as he broke his fast; he only looked in the mocking
                         eyes of Hermes, and said in his heart:—</p>
                     <p>“Since I must live, I will triumph!”</p>
-                    <p>And Hermes smiled: Hermes the wise, who had bought<pb n="219" xml:id="VAB7066-218"/> and sold the generations of men so long ago, in
+                    <p>And Hermes smiled: Hermes the wise, who had bought<pb n="219"
+                            xml:id="VAB7066-218"/> and sold the generations of men so long ago, in
                         the golden age, and who knew so well how they would barter away their
                         greatness and their gladness, and their bodies and their souls, for one
                         sweet strain of his hollow reed‐pipe, for one sweet glance of his soulless
@@ -7314,9 +7418,9 @@
             <pb n="220" xml:id="VAB7066-219"/>
             <div type="part">
                 <head>BOOK IV.</head>
-                
-                    <quote>“The desire of the moth for the star.”</quote>
-                
+
+                <quote>“The desire of the moth for the star.”</quote>
+
                 <div type="chapter">
                     <head>CHAPTER I.</head>
                     <p><hi>AT</hi> the close of that day Claudis Flamma discovered that he had been
@@ -7475,7 +7579,8 @@
                     <p>Untaught though she was, and harnessed to the dreary mill‐wheel round of a
                         hard physical toil, she yet had felt dimly the charm of the place in which
                         she dwelt.</p>
-                    <p>Where the fretted pinnacles rose in hundreds against the<pb n="225" xml:id="VAB7066-224"/> sky,—where the common dwellings of the poor were
+                    <p>Where the fretted pinnacles rose in hundreds against the<pb n="225"
+                            xml:id="VAB7066-224"/> sky,—where the common dwellings of the poor were
                         panelled and parquetted and carved in a thousand fashions,—where the
                         graceful and the grotesque and the terrible were mingled in an inextricable,
                         and yet exquisite, confusion,—where the grey squat jug that went to the
@@ -7546,13 +7651,14 @@
                     <p>Until now she had hated all things, grieved for none, unless, indeed, it were
                         for a galled ox toiling wounded and tortured on the field; or a trapped
                         bird, shrieking in the still midnight woods.</p>
-                    <p>But now, watching him, hearing him, a passionate sorrow for a human <corr>being</corr> possessed her. And to her eyes he was so beautiful in that utter
-                        unlikeness to herself and to all men whom she had seen. She gazed at him,
-                        never weary of that cold, fair, golden beauty, like the beauty of his
-                        sun‐god; of those serene deep‐lidded eyes, which looked so often past her at
-                        the dark night skies; of those lithe and massive limbs, like the limbs of
-                        the gladiator that yonder on the wall strained a lion to his breast in the
-                        deadly embrace of combat.</p>
+                    <p>But now, watching him, hearing him, a passionate sorrow for a human
+                            <corr>being</corr> possessed her. And to her eyes he was so beautiful in
+                        that utter unlikeness to herself and to all men whom she had seen. She gazed
+                        at him, never weary of that cold, fair, golden beauty, like the beauty of
+                        his sun‐god; of those serene deep‐lidded eyes, which looked so often past
+                        her at the dark night skies; of those lithe and massive limbs, like the
+                        limbs of the gladiator that yonder on the wall strained a lion to his breast
+                        in the deadly embrace of combat.</p>
                     <p>She gazed at him until she loved him with the intense passion of a young and
                         ignorant life, into whose gloom no love had ever entered. With this love the
                         instinct of her womanhood arose, amid the ignorance and savagery of her
@@ -7639,7 +7745,8 @@
                         killed the blessed bird—killed her in her basket! A great yellow beast that
                         no one had ever seen before, and that vanished again into the earth like
                         lightning.”</p>
-                    <p>“Not worse than she did to my precious Rémy,” said a<pb n="230" xml:id="VAB7066-229"/> tanner’s wife, who drew after her, clinging to
+                    <p>“Not worse than she did to my precious Rémy,” said a<pb n="230"
+                            xml:id="VAB7066-229"/> tanner’s wife, who drew after her, clinging to
                         her skirts, a little lame, mis‐shapen, querulous child.</p>
                     <p>“She hath the evil eye,” said an old decrepid man who had served in the days
                         of his boyhood in the Army of Italy, as he sat washing fresh lettuces in a
@@ -7730,7 +7837,8 @@
                         came.</p>
                     <p>“It is a shame to see the child of Reine Flamma so dealt with,” murmured the
                         old creature that was grouping her salads.</p>
-                    <p>But her voice found no echo. The old soldier even rebuked her. “A <foreign xml:lang="fre">jettatrice</foreign> should be killed for the good of the
+                    <p>But her voice found no echo. The old soldier even rebuked her. “A <foreign
+                            xml:lang="fre">jettatrice</foreign> should be killed for the good of the
                         people,” he mumbled.</p>
                     <p>Meanwhile she came nearer and nearer. The last stone had struck her upon the
                         arm; but it had drawn no blood; she walked on with firm, slow steps into
@@ -7910,7 +8018,8 @@
                         because her wounded flesh ached and her limbs were sore,—but because a
                         distance so immeasurable, so unalterable, severed her from all of which
                         these gods told her without speech.</p>
-                    <p>The sun‐rays still shone on the bright head of Hypnos,<pb n="238" xml:id="VAB7066-237"/> while the stones on which she sat, and her own
+                    <p>The sun‐rays still shone on the bright head of Hypnos,<pb n="238"
+                            xml:id="VAB7066-237"/> while the stones on which she sat, and her own
                         form, were dark in shadow; as though the bright boy pitied her, as though
                         he, the world’s consoler, had compassion for this thing so lonely and
                         accursed of her kind, the dumb violence of her weeping brought its own
@@ -8012,14 +8121,13 @@
                     <p>He had little passion in him, or passion was dormant; and he had sought
                         women, even in the hours of love, with<pb n="241" xml:id="VAB7066-240"/>
                         coldness and with something of contempt for that licence which, in the days
-                        of his comparative affluence, he had not denied himself. He thought always—
-                            <quote>
+                        of his comparative affluence, he had not denied himself. He thought always— <quote>
                             <l>De ces basiers puissants comme un dictame,</l>
                             <l rend="ti-1">De ces transports plus vifs que des rayons,</l>
                             <l>Que reste‐t‐il? C’est affruex, ô mon âme!</l>
                             <l rend="ti-1">Rien qu’un dessin fort pâle aux trois crayons.”</l>
-                        </quote> And for those glowing colours of passion which burned so hotly for an
-                        instant, only so soon to fade out into the pallor of indifference or
+                        </quote> And for those glowing colours of passion which burned so hotly for
+                        an instant, only so soon to fade out into the pallor of indifference or
                         satiety, he had a contempt which almost took the place and the semblance of
                         chastity.</p>
                     <p>He worked on and on, studying the sleeper at his feet, with the passionless
@@ -8045,7 +8153,8 @@
                         with a bound like a hart that scents the hounds, and stood fronting him; her
                         eyes opened wide, her breath panting, her nerves strained to listen and
                         striving to combat.</p>
-                    <p>In the first bewildered instant of her awakening she 0<pb n="242" xml:id="VAB7066-241"/> thought that she was still in the market‐place of
+                    <p>In the first bewildered instant of her awakening she 0<pb n="242"
+                            xml:id="VAB7066-241"/> thought that she was still in the market‐place of
                         the town and that the shouts were from the clamour of her late
                         tormenters.</p>
                     <p>He turned and looked at her.</p>
@@ -8079,7 +8188,8 @@
                         beneath the wall on its homeward way into the town. She ceased to fancy
                         these cries the cries of her foes, and recollection began to revive in
                         her.</p>
-                    <p>“Why did you come?” he repeated, musing how he<pb n="243" xml:id="VAB7066-242"/> should persuade her to return to the attitude
+                    <p>“Why did you come?” he repeated, musing how he<pb n="243"
+                            xml:id="VAB7066-242"/> should persuade her to return to the attitude
                         sketched out upon the easel.</p>
                     <p>She returned his look with the bold truthfulness natural to her, joined with
                         that apprehensiveness of chastisement which becomes second nature to every
@@ -8183,7 +8293,8 @@
                     <p>By slow degrees he got from her such fragments of her obscure story as she
                         knew. That this child, so friendless, ill‐treated, and abandoned, had been
                         the saviour of his own existence, he never dreamed. A creature beaten and
-                        half starved herself could not, for an instant, look to him one<pb n="246" xml:id="VAB7066-245"/> likely to have possessed even such humble gifts
+                        half starved herself could not, for an instant, look to him one<pb n="246"
+                            xml:id="VAB7066-245"/> likely to have possessed even such humble gifts
                         as food and fuel.</p>
                     <p>Besides, his thoughts were less with her than with the interrupted study on
                         his easel, and his one desire was to induce her to endure the same watch
@@ -8286,7 +8397,8 @@
                         was very near its setting, and every second of its light was precious to
                         him. The world indeed he knew would in all likelihood never be the wiser or
                         the richer for anything he did; in all likelihood he knew all these things
-                        that he created were destined to moulder away<pb n="249" xml:id="VAB7066-248"/> undisturbed save by the rats that might gnaw, and
+                        that he created were destined to moulder away<pb n="249"
+                            xml:id="VAB7066-248"/> undisturbed save by the rats that might gnaw, and
                         the newts that might traverse, them. He was buried here in the grave of a
                         hopeless penury, of an endless oblivion. They were buried with him; and the
                         world wanted neither him nor them.</p>
@@ -8657,7 +8769,8 @@
                     <p>He watched her furtively under his shaggy eyebrows. His instinct told him
                         that this nameless, dumb, captive, desert animal, which he had bound as a
                         beast of burden to his millwheels, had in some manner learned her strength,
-                        and would not long remain content to be thus yoked and<pb n="260" xml:id="VAB7066-259"/> driven. He had blinded her with the blindness of
+                        and would not long remain content to be thus yoked and<pb n="260"
+                            xml:id="VAB7066-259"/> driven. He had blinded her with the blindness of
                         ignorance, and goaded her with the good of ignominy; but for all that, some
                         way her bandaged eyes had sought and found the light, some way her numbed
                         hide had thrilled and swerved beneath the barb.</p>
@@ -8759,7 +8872,8 @@
                         long falling stream of light hued hair, a grey still face, closed eyes, and
                         naked limbs, which did not stir save when his hand moved them a little in
                         their posture, and which then dropped from his hold like lead.</p>
-                    <p>She did not shudder nor exclaim; she only looked with<pb n="263" xml:id="VAB7066-262"/> quiet and incurious eyes. In this life of the
+                    <p>She did not shudder nor exclaim; she only looked with<pb n="263"
+                            xml:id="VAB7066-262"/> quiet and incurious eyes. In this life of the
                         poor such a sight has neither novelty nor terror.</p>
                     <p>It did not even seem strange to her to see it in such a place. He started
                         slightly as he grew sensible of her presence, and turned, and threw a black
@@ -8827,7 +8941,8 @@
                         human lives, these fragile empty vessels, whose wine of life had been
                         spilled like water that runs to waste, seemed beyond measurement to be
                         exalted when deemed by him of value.</p>
-                    <p>She would have thought no more of grudging them in<pb n="265" xml:id="VAB7066-264"/> his employ and in his service than priests of
+                    <p>She would have thought no more of grudging them in<pb n="265"
+                            xml:id="VAB7066-264"/> his employ and in his service than priests of
                         Isis or of Eleusis would have begrudged the sacrificed lives of the beasts
                         and birds that smoked upon their temple altars. To die at his will and be of
                         use to him;—this seemed to her the most supreme glory fate could hold; and
@@ -8861,9 +8976,11 @@
                     <p>“Well! What is there strange in saying it?”</p>
                     <p>She pointed to the corpse which the last sun‐rays were brightening, till the
                         limbs were as alabaster and the hair was as gold.</p>
-                    <p>“That was a woman—a creature that is white and rose,<pb n="266" xml:id="VAB7066-265"/> and has yellow hair and laughs in the faces of
+                    <p>“That was a woman—a creature that is white and rose,<pb n="266"
+                            xml:id="VAB7066-265"/> and has yellow hair and laughs in the faces of
                         men, and has a mother that kisses her lips, and sees the children come to
-                        play at her knees. I am not one. I am a devil,<corr/> they say<corr>.”</corr></p>
+                        play at her knees. I am not one. I am a devil,<corr/> they
+                            say<corr>.”</corr></p>
                     <p>His mouth smiled with a touch of sardonic humour, whose acrimony and whose
                         irony escaped her.</p>
                     <p>“What have you done so good, or so great, that your world should call you
@@ -8930,7 +9047,8 @@
                         loyally licking the hand of the vivisector while he drove his probe through
                         its quivering nerves; the unutterable hell in which all these gentle, kindly
                         and long‐suffering creatures dwelt for the pleasure or the vanity, the
-                        avarice or the brutality of men,—these he pitied perpetually,<pb n="268" xml:id="VAB7066-267"/> with a tenderness for them that was the softest
+                        avarice or the brutality of men,—these he pitied perpetually,<pb n="268"
+                            xml:id="VAB7066-267"/> with a tenderness for them that was the softest
                         thing in all his nature.</p>
                     <p>But when he saw men and women suffer he often smiled, not ill pleased. It
                         seemed to him that the worst they could ever endure was only such simple
@@ -9032,7 +9150,8 @@
                     <p>Arslàn had a certain power over words as over colour. Like all true painters,
                         the fibre of his mind was sensuous and poetic, though the quality of
                         passionate imagination was in him welded with a coldness and a stillness of
-                        temper born in him with his northern blood. He had dwelt much<pb n="271" xml:id="VAB7066-270"/> in Asiatic countries, and much of the
+                        temper born in him with his northern blood. He had dwelt much<pb n="271"
+                            xml:id="VAB7066-270"/> in Asiatic countries, and much of the
                         philosophies and much of the phraseology of the East remained with him.
                         Something even there seemed in him of the mingled asceticism and sensualism,
                         the severe self‐denial, with the voluptuous fancy of the saints who once had
@@ -9170,7 +9289,8 @@
                     <p>She did not understand him; but she felt that she was honoured by him, and
                         not scorned as others scorned her, for being thus unlike humanity. It was a
                         bitter perplexity to her, this earth on which she had been flung amidst an
-                        alien people; that she should suffer herself seemed little to her,<pb n="275" xml:id="VAB7066-274"/> it had become as a second nature; but the
+                        alien people; that she should suffer herself seemed little to her,<pb
+                            n="275" xml:id="VAB7066-274"/> it had become as a second nature; but the
                         sufferings of all the innumerable tribes of creation, things of the woods,
                         and the field, and the waters, and the sky, that toiled and sweated and were
                         hunted, and persecuted and wrenched in torment, and finally perished to
@@ -9203,7 +9323,8 @@
                     <p>Had she not chosen him, and laid her life down at his feet for this man’s
                         sake?</p>
                     <p>“He must never know;—he must never know,” she said again in her heart.</p>
-                    <p>And Thanatos she knew would not betray her; for<pb n="276" xml:id="VAB7066-275"/> Thanatos keeps all the secrets of men—he, who
+                    <p>And Thanatos she knew would not betray her; for<pb n="276"
+                            xml:id="VAB7066-275"/> Thanatos keeps all the secrets of men—he, who
                         alone of the gods reads the truths of men’s souls, and smiles, and shuts
                         them in the hollow of his hand, and lets the braggart Time fly on with
                         careless feet, telling what lies he will to please the world a little space.
@@ -9233,7 +9354,8 @@
                         reeds, gazing always into the dimly‐lighted interior where the pale rays of
                         the oil flame lit up the white forms of the gods, the black shadows of the
                         columns, the shapes of the wrestling lion and the strangled gladiator, the
-                        grey stiff frame and hanging hair of the dead<pb n="277" xml:id="VAB7066-276"/> body, and the bending figure of Arslàn as he
+                        grey stiff frame and hanging hair of the dead<pb n="277"
+                            xml:id="VAB7066-276"/> body, and the bending figure of Arslàn as he
                         stooped above the corpse and pursued the secret powers of his art into the
                         hidden things of death.</p>
                     <p>To her there seemed nothing terrible in a night thus spent, in a vigil thus
@@ -9300,7 +9422,8 @@
                         yonder; dead in some deep sea grave where the weight of the waters kept him
                         down and held his hands powerless, and shut his eyelids from all sight,
                         while the living voices and the living footsteps of men came dimly on his
-                        ear from the world above; voices not one of<pb n="279" xml:id="VAB7066-278"/> which uttered his name; footsteps, not one of which paused by his
+                        ear from the world above; voices not one of<pb n="279" xml:id="VAB7066-278"
+                        /> which uttered his name; footsteps, not one of which paused by his
                         tomb.</p>
                     <p>It grew horrible to him—this death‐in‐life, to which in the freshness of
                         manhood he often himself condemned.</p>
@@ -9333,7 +9456,8 @@
                         destroyed, and that those mute, motionless, majestic shapes which arose at
                         his bidding should become characters and speak for him to all the
                         generations of men when his own mouth should be sealed dumb in death.</p>
-                    <p>This hunger of the soul which unmanned and tortured<pb n="280" xml:id="VAB7066-279"/> him, though the famine of the flesh had had no
+                    <p>This hunger of the soul which unmanned and tortured<pb n="280"
+                            xml:id="VAB7066-279"/> him, though the famine of the flesh had had no
                         power to move him, thrilled her with the instinct of its greatness. This
                         thirst of the mind, which could not slake itself in common desires or
                         sensual satiety, or any peace and pleasure of the ordinary life of man, had
@@ -9365,7 +9489,8 @@
                     <p>Because she had dwelt sundered from her kind, she had learned no evil; a
                         stainless though savage innocence had remained with her. She had been reared
                         in hardship and inured to hunger until such pangs seemed to her scarce worth
-                        the counting, save perhaps to see if they had been<pb n="281" xml:id="VAB7066-280"/> borne with courage and without murmur. On her,
+                        the counting, save perhaps to see if they had been<pb n="281"
+                            xml:id="VAB7066-280"/> borne with courage and without murmur. On her,
                         profoundly unconscious of the meaning of any common luxury or any common
                         comfort, the passions of natures more worldly‐wise, and better aware of the
                         empire of gold, had no hold at any moment. To toil dully and be hungry and
@@ -9469,7 +9594,8 @@
                         within her reach. Before, she had dreamed—dreamed all through the heaviness
                         of toil and the gall of tyranny; but she had dreamed as a goatherd may upon
                         a mist‐swept hill by the western seas, while all the earth is dark, and only
-                        its dim fugitive waking sounds steal dully on the drowsy ear.<pb n="284" xml:id="VAB7066-283"/> But now, through the myths and parables which
+                        its dim fugitive waking sounds steal dully on the drowsy ear.<pb n="284"
+                            xml:id="VAB7066-283"/> But now, through the myths and parables which
                         grew familiar to her, she dreamed almost as poets dream, bathed in the full
                         flood of a setting sun on the wild edge of the Campagna; a light in which
                         all common things of daily life grow glorious, and through whose rosy hues
@@ -9595,7 +9721,8 @@
                         great and fallen race; and in her eyes there was a look repellant yet
                         appealing, and lustrous with sleeping passion, that tempted him to wake what
                         slumbered there.</p>
-                    <p>But in these early spring‐tide days he suffered her to<pb n="288" xml:id="VAB7066-287"/> come and go as she listed, without either
+                    <p>But in these early spring‐tide days he suffered her to<pb n="288"
+                            xml:id="VAB7066-287"/> come and go as she listed, without either
                         persuasion or forbiddance on his own part.</p>
                     <p>The impassioned reverence which she had for the things he had created was
                         only the untutored, unreasoning reverence of the savage or of the peasant;
@@ -9661,7 +9788,8 @@
                         seen with me. The lads will stone my window. Still—.” The wish for the rare
                         herbs and, and the remembrance of the fatigue that would be spared to her
                         rheumatic body by compliance, prevailed over her fears. She consented.</p>
-                    <p>Three times a week Folle‐Farine rose while it was still dark,<pb n="290" xml:id="VAB7066-289"/> and scoured the wooded lands and the moss‐green
+                    <p>Three times a week Folle‐Farine rose while it was still dark,<pb n="290"
+                            xml:id="VAB7066-289"/> and scoured the wooded lands and the moss‐green
                         orchards and the little brooks in the meadows in search of every herb that
                         grew. She knew those green places which had been her only kingdom and her
                         only solace as no one else knew them; and the old dame’s herb‐stall was the
@@ -9693,7 +9821,8 @@
                         honest folk, were after some unholy work—coming from the orgy of some
                         witches’ sabbath, or seeking some devil’s root that would give them the
                         treasured gold of misers’ tombs, or the powers of life and death.</p>
-                    <p>For these things are still believed by many a peasant’s<pb n="291" xml:id="VAB7066-290"/> hearth, and whispered darkly as night closes in
+                    <p>For these things are still believed by many a peasant’s<pb n="291"
+                            xml:id="VAB7066-290"/> hearth, and whispered darkly as night closes in
                         and the wind rises.</p>
                     <p>Wading in the shallow streams, with the breeze tossing her hair, and the dew
                         bright on her sheaf of herbs, Folle‐Farine paid thus the only wages that she
@@ -9728,7 +9857,8 @@
                         blue‐rock on the wing.</p>
                     <p>This was not cruelty in him; it was only habit—habit, and the callousness
                         begotten by his own continual pain.</p>
-                    <p>The pain as of a knife for ever thrust into the loins, of a<pb n="292" xml:id="VAB7066-291"/> cord for ever knotted hard about the temples,
+                    <p>The pain as of a knife for ever thrust into the loins, of a<pb n="292"
+                            xml:id="VAB7066-291"/> cord for ever knotted hard about the temples,
                         which is the daily and nightly penalty of those mad enough to believe that
                         they have the force in them to change the sluggard appetites and the hungry
                         cruelties of their kind into a life of high endeavour and divine desire.</p>
@@ -9759,7 +9889,8 @@
                         them.</p>
                     <p>Folle‐Farine, who was that day in his chamber, looked at him with the wistful
                         far‐reaching comprehension which an unerring instinct taught her.</p>
-                    <p>“Of a winter night,” she said, slowly, “I have heard<pb n="293" xml:id="VAB7066-292"/> old Pitchou read aloud to Flamma, and she reads
+                    <p>“Of a winter night,” she said, slowly, “I have heard<pb n="293"
+                            xml:id="VAB7066-292"/> old Pitchou read aloud to Flamma, and she reads
                         of their God, the one they hang everywhere on the crosses here; and the
                         story ran that the populace scourged and nailed to death the one whom they
                         knew afterwards, when too late, to have been the great man that they looked
@@ -9890,7 +10021,8 @@
                     <p>Arslàn knew that joy as he looked on the work for which he had given up
                         sleep, and absorbed in which he had almost forgotten hunger and thirst and
                         the passage of time.</p>
-                    <p>He had known no rest until he had embodied the shapes<pb n="297" xml:id="VAB7066-296"/> that pursued him. He had scarcely spoken, barely
+                    <p>He had known no rest until he had embodied the shapes<pb n="297"
+                            xml:id="VAB7066-296"/> that pursued him. He had scarcely spoken, barely
                         slumbered an hour; tired out, consumed with restless fever, weak from want
                         of sleep and neglect of food, he had wrought on, and on, and on, until the
                         vision as he had beheld it lived there, recorded for the world that denied
@@ -9993,10 +10125,11 @@
                         in the mire.”</p>
                     <p>She did not hear him; and had she heard, would not have comprehended. Her
                         eyes were still fastened on the picture, and the blood in her cheeks faded
-                        and glowed at <corr>every</corr> breath she drew, and in her eye there was the <corr>wistful</corr><pb n="300" xml:id="VAB7066-299"/> wondering, trustful reverence,
-                        which shone in those of the child, who, breaking from his mother’s arms, and
-                        regardless of the soldier’s stripes, clung to the feet of the scourged
-                        captive, and there kneeled and prayed.</p>
+                        and glowed at <corr>every</corr> breath she drew, and in her eye there was
+                        the <corr>wistful</corr><pb n="300" xml:id="VAB7066-299"/> wondering,
+                        trustful reverence, which shone in those of the child, who, breaking from
+                        his mother’s arms, and regardless of the soldier’s stripes, clung to the
+                        feet of the scourged captive, and there kneeled and prayed.</p>
                     <p>Without looking at her, Arslàn went out to his daily labour on the
                         waters.</p>
                     <p>The sun had fully risen; the day was red and clear; the earth was hushed in
@@ -10059,7 +10192,8 @@
                         was the fruit of love. He drew her as Læna, whose venal lips yet, being
                         purified by a perfect love, were sealed mute unto death, and for love’s sake
                         spake not.</p>
-                    <p>He sketched her in a hundred shapes and for a hundred<pb n="302" xml:id="VAB7066-301"/> stories, taking her wild deer‐like grace, and her
+                    <p>He sketched her in a hundred shapes and for a hundred<pb n="302"
+                            xml:id="VAB7066-301"/> stories, taking her wild deer‐like grace, and her
                         supple mountain‐bred strength, and her beauty that had all the richness and
                         the freshness that sun and wind and rain and the dews of the nights can
                         give, taking these as he in other years had taken the bloom of the grape,
@@ -10093,7 +10227,8 @@
                         mouth was drawn back from teeth closely clenched; upon the stone there lay a
                         surgeon’s knife and a sculptor’s scalpel; between her lips the Red Mouse
                         sat, watching, mouthing, triumphant.</p>
-                    <p>All the beauty was left still, but it was left ghastly, dis‐<pb n="303" xml:id="VAB7066-302"/> coloured, ruined,—ready for the mockery of the
+                    <p>All the beauty was left still, but it was left ghastly, dis‐<pb n="303"
+                            xml:id="VAB7066-302"/> coloured, ruined,—ready for the mockery of the
                         clay, for the violation of the knife,—ready for the feast of the blind‐worm,
                         for the narrow home dug in darkness and in dust.</p>
                     <p>And these two pictures were so alike and yet so unlike, so true to all the
@@ -10193,7 +10328,8 @@
                         the vices around her, this was unintelligible, unsuspected; and if she had
                         understood it, she would have accepted it mutely, in that abject humility
                         which had bent the dauntless temper in her to his will.</p>
-                    <p>To be of use to him,—to be held of any worth to him,—<pb n="306" xml:id="VAB7066-305"/> to have his eyes find any loveliness to study in
+                    <p>To be of use to him,—to be held of any worth to him,—<pb n="306"
+                            xml:id="VAB7066-305"/> to have his eyes find any loveliness to study in
                         her,—to be to him only as the flower which he broke from the stem to copy
                         its bloom on his canvas, and then cast out on the sand to wither as it
                         would,—this, even this, seemed to her the highest fate to which she could
@@ -10293,7 +10429,8 @@
                         yellow desert; was it not well?”</p>
                     <p>“So well with them that men worshipped them for it. But there is no such
                         worship now. The cities are the kingdom of heaven; not the deserts; and he
-                        who hankers for the wilderness is stoned in the streets as a fool. And<pb n="309" xml:id="VAB7066-308"/> how should it be well with you, who have
+                        who hankers for the wilderness is stoned in the streets as a fool. And<pb
+                            n="309" xml:id="VAB7066-308"/> how should it be well with you, who have
                         neither wild rose nor wild dove for compensation, but are only beaten and
                         hooted, and hated and despised?”</p>
                     <p>Her eyes glittered, and her voice was hard and fierce as she answered
@@ -10326,7 +10463,8 @@
                     <p>She spoke with aa thoughtful and fierce earnestness, not witting of the
                         caustic in her own words, meaning simply what she said, and classing the
                         kisses of men as some sort of weakness and vileness, like those of a theft
-                        and a lie; as she had come to do out of a curious, proud, true instinct<pb n="310" xml:id="VAB7066-309"/> that was in her, and not surely from the
+                        and a lie; as she had come to do out of a curious, proud, true instinct<pb
+                            n="310" xml:id="VAB7066-309"/> that was in her, and not surely from the
                         teaching of any creature.</p>
                     <p>She in her way loved the man who walked beside her; but it was a love of
                         which she was wholly unconscious; a pity, a sorrow, a reverence, a cultus, a
@@ -10359,7 +10497,8 @@
                         soup pot boil; to spend their days under a close roof; to shut the stars
                         out, and cover themselves in their beds, as swine do with their straw in the
                         sty; to huddle altogether in thousands, fearing to do what they will, lest
-                        the tongue of their neighbour wag evil of it; to<pb n="311" xml:id="VAB7066-310"/> cheat a little and steal a little, and lie always
+                        the tongue of their neighbour wag evil of it; to<pb n="311"
+                            xml:id="VAB7066-310"/> cheat a little and steal a little, and lie always
                         when the false word serves them, and to mutter to themselves, ‘God will wash
                         us free of our sins,’ and then to go and sin again stealthily, thinking men
                         will not see and sure that their God will give them a quittance;—that is
@@ -10493,7 +10632,8 @@
                     <p>He watched her now for some time without speaking. When the first paroxysm of
                         her emotion had exhausted itself, she stood motionless, her figure like a
                         statue of bronze against the sun, her head sunk upon her breast, her arms
-                        outstretched as though beseeching that wondrous bright‐<pb n="315" xml:id="VAB7066-314"/> ness which she saw to take her to itself and made
+                        outstretched as though beseeching that wondrous bright‐<pb n="315"
+                            xml:id="VAB7066-314"/> ness which she saw to take her to itself and made
                         her one with it. Her whole attitude expressed an unutterable worship. She
                         was like one who for the first time hears of God.</p>
                     <p>“What is it you feel?” he asked her suddenly. He knew without asking; but he
@@ -10597,7 +10737,8 @@
                         I think. It would have pity.”</p>
                     <p>Her voice was dreamy and gentle. The softness of an indescribable desire was
                         in it.</p>
-                    <p>“Is it too late?” he said, with that cruelty which cha‐<pb n="318" xml:id="VAB7066-317"/> racterised all his words to her. “Can you have
+                    <p>“Is it too late?” he said, with that cruelty which cha‐<pb n="318"
+                            xml:id="VAB7066-317"/> racterised all his words to her. “Can you have
                         grown in love with life?”</p>
                     <p>“You live,” she said, simply.</p>
                     <p>He was silent; the brief innocent words rebuked him. They said, so clearly
@@ -10745,9 +10886,9 @@
             <pb n="323" xml:id="VAB7066-322"/>
             <div type="part">
                 <head>BOOK V.</head>
-                
-                    <quote>“If I love thee, what is that to thee?”</quote>
-                
+
+                <quote>“If I love thee, what is that to thee?”</quote>
+
                 <div type="chapter">
                     <head>CHAPTER I.</head>
                     <p>“<hi>ONLY</hi> a little gold!” he thought, one day, looking on the Barabbas
@@ -10802,11 +10943,12 @@
                         the tower, were wheeling to and fro, glad and eager for the sun.</p>
                     <p>Otherwise it was intensely silent.</p>
                     <p>In the breadth of shadow still cast across the stream by the walls of the
-                        tower, the market‐boat of <corr>Yprès</corr> glided by, and the soft splash of the passing oars was a sound too
-                        familiar to arouse him.</p>
+                        tower, the market‐boat of <corr>Yprès</corr> glided by, and the soft splash
+                        of the passing oars was a sound too familiar to arouse him.</p>
                     <p>But, unseen, Folle‐Farine, resting one moment in her transit to look up at
                         that grim grey pile in which her paradise was shut, watching and listening
-                        with the fine‐strung senses of a great love, heard through the open<pb n="325" xml:id="VAB7066-324"/> casement the muttered words which, out of
+                        with the fine‐strung senses of a great love, heard through the open<pb
+                            n="325" xml:id="VAB7066-324"/> casement the muttered words which, out of
                         the bitterness of his heart, escaped his lips unconsciously.</p>
                     <p>She heard and understood.</p>
                     <p>Although a paradise to her, to him it was only a prison.</p>
@@ -10923,7 +11065,8 @@
                     <p>Folle‐Farine had listened, and, standing by them, for once spoke.</p>
                     <p>“Who is Sartorian? Will you tell me?”</p>
                     <p>The women were from a far‐distant village, and had not the infinite horror of
-                        her felt by those who lived in the near neighbourhood of the mill at <corr>Yprès</corr>.</p>
+                        her felt by those who lived in the near neighbourhood of the mill at
+                            <corr>Yprès</corr>.</p>
                     <p>“He is a great noble,” they answered her, eyeing her with suspicion.</p>
                     <p>“And where is his dwelling?”</p>
                     <p>“Near Rioz. What do the like of you want with the like of the Prince?”</p>
@@ -10971,7 +11114,8 @@
                     <p>Old Pitchou struggled, lied, stammered, writhed, strove to scream, and swore
                         her innocence of this theft which had waited eleven years to rise against
                         her to Mary and her angels; but in the end she surrendered, and tottered on
-                        her shuddering limbs, and crept beneath her bed, and with<pb n="330" xml:id="VAB7066-329"/> terror and misery brought forth from her secret
+                        her shuddering limbs, and crept beneath her bed, and with<pb n="330"
+                            xml:id="VAB7066-329"/> terror and misery brought forth from her secret
                         hole in the rafters of the floor the little chain of shaking sequins.</p>
                     <p>It had been of no use to her: she had always thought it of inestimable value,
                         and could never bring herself to part from it, visiting it night and day,
@@ -11039,7 +11183,8 @@
                     <p>“Do? What should you do?” he answered her, with inattention and almost
                         impatience; for his heart was sore with the terrible weariness of
                         inaction.</p>
-                    <p>She looked at him very wistfully, and her mouth parted a<pb n="332" xml:id="VAB7066-331"/> little as though to speak; but his repulse
+                    <p>She looked at him very wistfully, and her mouth parted a<pb n="332"
+                            xml:id="VAB7066-331"/> little as though to speak; but his repulse
                         chilled the words that rose to her lips.</p>
                     <p>She dared not say her thoughts to him, lest she should displease him.</p>
                     <p>“If it come to nought he had best not know, perhaps,” she said to
@@ -11105,7 +11250,8 @@
                         a <foreign xml:lang="fre">cagote</foreign>.”</p>
                     <p>Her old mistress, going within to toss a fritter for one of the mendicant
                         friars, chuckled grimly to herself.</p>
-                    <p>“No one would ask the road <emph>there</emph> for any good; that is<pb n="334" xml:id="VAB7066-333"/> sure. No doubt she has heard that
+                    <p>“No one would ask the road <emph>there</emph> for any good; that is<pb
+                            n="334" xml:id="VAB7066-333"/> sure. No doubt she has heard that
                         Sartorian is a choice judge of colour and shape in all the Arts!”</p>
                     <p>Folle‐Farine when out by the gate, and along the water westward.</p>
                     <p>In a little satchel she carried some half‐score of oil‐sketches that Arslàn
@@ -11171,10 +11317,10 @@
                         sight; she saw for the first time in her life how the rich lived.</p>
                     <p>She moved forward, curious, astonished, bewildered, but nothing daunted.</p>
                     <p>On the velvet of the floors her steps trod as firmly and as freely as on the
-                        moss of the orchard at <corr>Yprès</corr>. Her eyes glanced as gravely and as fearlessly over the frescoed
-                            walls,<pb n="336" xml:id="VAB7066-335"/> the gilded woods, the jewelled
-                        cups, the broidered hangings, as over the misty pastures where the sheep
-                        were folded.</p>
+                        moss of the orchard at <corr>Yprès</corr>. Her eyes glanced as gravely and
+                        as fearlessly over the frescoed walls,<pb n="336" xml:id="VAB7066-335"/> the
+                        gilded woods, the jewelled cups, the broidered hangings, as over the misty
+                        pastures where the sheep were folded.</p>
                     <p>It was not in the daughter of Taric to be daunted by the dazzle of mere
                         wealth. She walked through the splendid and lonely rooms wondering, indeed,
                         and eager to see more; but there was no spell here such as the gardens had
@@ -11223,7 +11369,8 @@
                         to feed on them like some wood‐pigeon on a sheaf of corn?”</p>
                     <p>“I know of finer than yours,” she answered him coldly, chilled by the amused
                         and malicious ridicule of his tone into a sullen repose. “I did not come to
-                        see anything you have. I came to sell you these: they say in <corr>Yprès</corr> that you care for such bits of coin.”</p>
+                        see anything you have. I came to sell you these: they say in
+                            <corr>Yprès</corr> that you care for such bits of coin.”</p>
                     <p>She drew out of her bosom her string of sequins, and tendered them to
                         him.</p>
                     <p>He took them, seeing at once that they were of no sort of value; such things
@@ -11323,10 +11470,10 @@
                     <p>He understood the meaning that ran beneath the unconscious extravagance of
                         her faithful and impassioned language.</p>
                     <p>He is called Arslàn; he lives in the granary‐tower, by the river, between the
-                        town and <corr>Yprès</corr>. He comes from the north, far away—very, very far, where the seas
-                        are all ice and the sun shines at midnight. Will you make the things that he
-                        does to be known to the people? You have gold; and gold, he says, is the
-                        compeller of men.”</p>
+                        town and <corr>Yprès</corr>. He comes from the north, far away—very, very
+                        far, where the seas are all ice and the sun shines at midnight. Will you
+                        make the things that he does to be known to the people? You have gold; and
+                        gold, he says, is the compeller of men.”</p>
                     <p>“Arslàn?” he echoed.</p>
                     <p>The name was not utterly unknown to him; he had seen works signed with it at
                         Paris and at Rome—strange things of a singular power, of an union of
@@ -11335,8 +11482,8 @@
                     <p>“Arslàn?—I think I remember. I will see what I can do.”</p>
                     <p>“You will say nothing to him of me?”</p>
                     <p>“I could not say much. Who are you? Whence do you come?”</p>
-                    <p>“I live at the water‐mill of <corr>Yprès</corr>. They say that Reine Flamma was my mother. I do not know: it does
-                        not matter.</p>
+                    <p>“I live at the water‐mill of <corr>Yprès</corr>. They say that Reine Flamma
+                        was my mother. I do not know: it does not matter.</p>
                     <p>“What is your name?”</p>
                     <p>“Folle‐Farine. They called me after the mill‐dust.”</p>
                     <p>“A strange namesake.”</p>
@@ -11344,7 +11491,8 @@
                         dust, anyhow.”</p>
                     <p>“Is it? I see, you are a Communist.”</p>
                     <p>“What?”</p>
-                    <p>“A Communist—a Socialist. You know what that is. <pb n="341" xml:id="VAB7066-340"/> You would like to level my house to the ashes, I
+                    <p>“A Communist—a Socialist. You know what that is. <pb n="341"
+                            xml:id="VAB7066-340"/> You would like to level my house to the ashes, I
                         fancy, by the look on your face.</p>
                     <p>“No,” she said simply, with a taint of scorn, “I do not care to do that. If I
                         had cared to burn anything it would have been the Flandrin’s village. It is
@@ -11549,7 +11697,8 @@
                     <p><hi>WHEN</hi> she had outrun her strength, for the moment, and was forced to
                         slacken her speed, she paused to take breath on the edge of the wooded
                         lands. She looked neither to right nor left; on her backward flight the
-                        waters had no song, the marble forms no charm, the wonder‐flowers no<pb n="347" xml:id="VAB7066-346"/> magic for her as she went; she had no ear
+                        waters had no song, the marble forms no charm, the wonder‐flowers no<pb
+                            n="347" xml:id="VAB7066-346"/> magic for her as she went; she had no ear
                         for the melodies of the birds, no sight for the paradise of the rose‐hung
                         ways; she had only one thought left—the gold that she had gained.</p>
                     <p>The cruelty of his words had stabbed her with each of their slow keen words
@@ -11613,7 +11762,8 @@
                         lightly as a swallow on the wing passed through the dreary portals into
                         Arslàn’s chamber.</p>
                     <p>His lamp was lighted.</p>
-                    <p>He stood before the cartoon of the Barabbas, touching it<pb n="349" xml:id="VAB7066-348"/> here and there with his charcoal, adding those
+                    <p>He stood before the cartoon of the Barabbas, touching it<pb n="349"
+                            xml:id="VAB7066-348"/> here and there with his charcoal, adding those
                         latest thoughts, those after‐graces, with which the artist delights to
                         caress his picture, with a hand as soft and as lingering as the hand with
                         which a mother caresses the yellow sunshine of her first‐born’s curls.</p>
@@ -11648,7 +11798,8 @@
                     <p>“Gold?” he echoed again, shaken from his trance of thought, and comprehending
                         nothing and remembering nothing of the words that he had spoken in his
                         solitude.</p>
-                    <p>“Yes! It is mine,” she said, her voice broken in its<pb n="350" xml:id="VAB7066-349"/> tumult of ecstasy—“it is mine—all mine. It is no
+                    <p>“Yes! It is mine,” she said, her voice broken in its<pb n="350"
+                            xml:id="VAB7066-349"/> tumult of ecstasy—“it is mine—all mine. It is no
                         charity, no gift to me. The chain was worth it, and I would only take what
                         it was worth. A little gold, you said; and now you can make the Barabbas
                         live for ever upon canvas, and compel men to say that it is great.”</p>
@@ -11714,7 +11865,8 @@
                         all the gold I make. Why not you, if it be gold that is honest?”</p>
                     <p>“Flamma is your grandsire—your keeper—your master. He has a right to do as he
                         chooses. He gives you food and shelter, and in return he takes the gains of
-                        your labour. But I,—what have I ever given you? I am a stranger to<pb n="352" xml:id="VAB7066-351"/> you, and should have no claim on you, if
+                        your labour. But I,—what have I ever given you? I am a stranger to<pb
+                            n="352" xml:id="VAB7066-351"/> you, and should have no claim on you, if
                         I could be base enough to seek one. I am hideously poor. I make no disguise
                         with you,—you know too well how I live. But can you not see?—if I were mean
                         enough to take the worth of a crust from you, I should be no more worthy of
@@ -11882,7 +12034,8 @@
                         hereafter, “You are the lowliest and least of all the chance‐born things of
                         the sands and the air, and yet through you has an immortal music
                         arisen,”—and for the insanity of her thought he had cursed her.</p>
-                    <p>Towards dawn, where she had sunk down in the moss,<pb n="357" xml:id="VAB7066-356"/> and in the thickets of elder and thorn—where she
+                    <p>Towards dawn, where she had sunk down in the moss,<pb n="357"
+                            xml:id="VAB7066-356"/> and in the thickets of elder and thorn—where she
                         had made her bed in her childhood many a summer night, when she had been
                         turned out from the doors of the mill‐house; there for a little while a
                         fitful exhausted sleep came to her; the intense exhaustion of bodily fatigue
@@ -11904,10 +12057,11 @@
                     <p>Then she remembered; and shuddered; and arose, knowing the sweet, mad dream,
                         which had cheated her, a lie. For she awoke alone.</p>
                     <p>She did not heed the old man’s words, she did not feel his hurt; yet she
-                        obeyed him, and left the place, and dragged herself feebly towards <corr>Yprès</corr> by the sheer unconscious working of that instinct born of habit
-                        which takes the ox or the ass back undriven through the old accustomed ways
-                        to stand beside their ploughshare or their harness faithful and
-                        unbidden.</p>
+                        obeyed him, and left the place, and dragged herself feebly towards
+                            <corr>Yprès</corr> by the sheer unconscious working of that instinct
+                        born of habit which takes the ox or the ass back undriven through the old
+                        accustomed ways to stand beside their ploughshare or their harness faithful
+                        and unbidden.</p>
                     <p>Where the stream ran by the old mill‐steps the river reeds were blowing in
                         the wind, with sun‐rays playing in their midst, and the silver wings of the
                         swallows brushing them with a swift caress.</p>
@@ -11984,7 +12138,8 @@
                         cursing God. Was this death‐bed all their vengeance? It was poor justice,
                         and came late.</p>
                     <p>Old Pitchou stood and looked at her.</p>
-                    <p>“Will he leave her the gold or no?” she questioned in<pb n="360" xml:id="VAB7066-359"/> herself; musing whether or no it were better to
+                    <p>“Will he leave her the gold or no?” she questioned in<pb n="360"
+                            xml:id="VAB7066-359"/> herself; musing whether or no it were better to
                         be civil to the one who might inherit all his wealth, or might be cast
                         adrift upon the world—who could say which?</p>
                     <p>After awhile Folle‐Farine rose silently and brushed her aside, and went into
@@ -12126,9 +12281,10 @@
                         The great clock ticked heavily. All the house was closed. Without burned the
                         great roses of the late summer, and the scorch of a cloudless sun. The
                         wheels of the mill stood still. People came and went; many women amongst
-                        them. The death of the miller of <corr>Yprès</corr> was a shock to all his countryside. There was scarce a face that
-                        did not lighten, as the peasants going to their labour, met one another in
-                        the mellow fields, and called across,</p>
+                        them. The death of the miller of <corr>Yprès</corr> was a shock to all his
+                        countryside. There was scarce a face that did not lighten, as the peasants
+                        going to their labour, met one another in the mellow fields, and called
+                        across,</p>
                     <p>“Hast heard? Flamma is dead—at last.”</p>
                     <p>No woman came across the meadows with a little candle, and kneeled down by
                         his body, and wept and blessed the stiff and withered hands for the good
@@ -12176,7 +12332,8 @@
                     <p>“I?”</p>
                     <p>She muttered the word dreamily; and raised her aching eyelids, and stared in
                         stupefaction at the old, haggard, dark, ravenous face of Pitchou.</p>
-                    <p>“Pshaw! You cannot cheat me that way,” said the<pb n="366" xml:id="VAB7066-365"/> woman, moving away through the orchard‐branches,
+                    <p>“Pshaw! You cannot cheat me that way,” said the<pb n="366"
+                            xml:id="VAB7066-365"/> woman, moving away through the orchard‐branches,
                         muttering to herself. “As if a thing of hell like you ever served like a
                         slave all these years, on any other hope, than the hope of the gold!
                         Well,—as for me, I never pretend to lie in that fashion. If it had not been
@@ -12208,7 +12365,8 @@
                         death had been a saint’s day, the fancy which had been set so suddenly
                         before her, dazzled her, and her aching brain and her sick despair, could
                         not choose but play with it despite themselves.</p>
-                    <p>If the fortune of Flamma came to her, it might be pos‐<pb n="367" xml:id="VAB7066-366"/> sible, she thought, to spend it so as to release
+                    <p>If the fortune of Flamma came to her, it might be pos‐<pb n="367"
+                            xml:id="VAB7066-366"/> sible, she thought, to spend it so as to release
                         him from his bondage, without knowledge of his own; so to fashion with it a
                         golden temple and a golden throne for the works of his hand, that the world,
                         which as they all said worshipped gold, should be forced to gaze in homage
@@ -12242,7 +12400,8 @@
                         Church, and from such there still issues for the living a fair savour.</p>
                     <p>No one came to her. What had they to do with her? a creature unbaptised, and
                         an outcast?</p>
-                    <p>She watched the little line fade away, over the green and<pb n="368" xml:id="VAB7066-367"/> golden glory of the fields. She did not think of
+                    <p>She watched the little line fade away, over the green and<pb n="368"
+                            xml:id="VAB7066-367"/> golden glory of the fields. She did not think of
                         herself—since Arslàn had looked at her, in his merciless scorn, she had had
                         neither past nor future.</p>
                     <p>It did not even occur to her, that her home would be in this place no longer;
@@ -12608,7 +12767,8 @@
                     <p>She had been hated by those who dwelt there, and had there known only pain,
                         and toil, and blows, and bitter words. And yet the place itself was dear to
                         her; its homely and simple look, its quiet garden ways, its dells of leafy
-                        shadow, its bright and angry waters, its furred and feathered<pb n="379" xml:id="VAB7066-378"/> creatures that gave it life and loveliness,—these
+                        shadow, its bright and angry waters, its furred and feathered<pb n="379"
+                            xml:id="VAB7066-378"/> creatures that gave it life and loveliness,—these
                         had been her consolations often,—these, in a way, she loved.</p>
                     <p>Such as it was, her life had been bound up with it; and though often its cool
                         pale skies and level lands had been a prison to her, yet her heart clove to
@@ -12779,7 +12939,8 @@
                         love, all this majestic strength, all this superb and dreamy loveliness,
                         would die out here, as the evening colours had died out of the skies in the
                         west, none pausing even to note that they were dead.</p>
-                    <p>He knew that he had but to say to her, “Come!” and<pb n="384" xml:id="VAB7066-383"/> she would go beside him, whether to shame or
+                    <p>He knew that he had but to say to her, “Come!” and<pb n="384"
+                            xml:id="VAB7066-383"/> she would go beside him, whether to shame or
                         ignominy, or famine or death, triumphant and rejoicing as the martyrs of old
                         went to the flames, which were to them the gates of paradise.</p>
                     <p>He knew that there would not be a blow his hand could deal which could make
@@ -12911,7 +13072,8 @@
                         by the exposure and dews of the night. She shivered and was cold.</p>
                     <p>The sun rose—a globe of flame above the edge of the world.</p>
                     <p>Memory flashed on her with its light.</p>
-                    <p>She rose a little, staggering and blind, and weakened by<pb n="388" xml:id="VAB7066-387"/> the loss of blood; she crept feebly to the edge
+                    <p>She rose a little, staggering and blind, and weakened by<pb n="388"
+                            xml:id="VAB7066-387"/> the loss of blood; she crept feebly to the edge
                         of the stream, and washed the stains from her lips, and let her face rest a
                         little in the sweet, silent, flowing water.</p>
                     <p>Then she sat still amidst the long rush‐like grass, and thought, and thought,
@@ -13050,9 +13212,9 @@
             <pb n="392" xml:id="VAB7066-391"/>
             <div type="part">
                 <head>BOOK VI.</head>
-                
-                    <quote>“Dust to dust.”</quote>
-                
+
+                <quote>“Dust to dust.”</quote>
+
                 <div type="chapter">
                     <head>CHAPTER I.</head>
                     <p><hi>AT</hi> the little quay in the town many boats were lading and unlading,
@@ -13188,7 +13350,8 @@
                     <p>And she began to count her chestnuts, lest this stranger should steal any of
                         them.</p>
                     <p>Folle‐Farine took no notice of the words.</p>
-                    <p>“Will you show me which is the road to take?” she<pb n="396" xml:id="VAB7066-395"/> asked. Meanwhile the street boy had brought three
+                    <p>“Will you show me which is the road to take?” she<pb n="396"
+                            xml:id="VAB7066-395"/> asked. Meanwhile the street boy had brought three
                         or four of his comrades to stare at her; and they were dancing round her
                         with grotesque grimace, and singing, “Houpe là, Houpe là! Burn her for a
                         witch!”</p>
@@ -13324,7 +13487,8 @@
                     <p>By‐and‐by when came to a little shed, standing where no house was. She looked
                         in it, and saw it full of the last season’s hay, dry and sweet‐smelling,
                         tenanted only by a cat rolled round in slumber.</p>
-                    <p>She crept into it, and laid herself down and slept, the<pb n="400" xml:id="VAB7066-399"/> bright starry skies shining on her through the
+                    <p>She crept into it, and laid herself down and slept, the<pb n="400"
+                            xml:id="VAB7066-399"/> bright starry skies shining on her through the
                         open space that served for entrance, the clatter of a little brook under the
                         poplar trees the only sound upon the quiet air.</p>
                     <p>Footsteps went past twice or thrice, and once a waggon rolled lumbering by;
@@ -13378,9 +13542,11 @@
                         along the same road; and he was gentle and kind in return, and made the
                         route she had to take clear to her, and told her, with a shake of his head
                         that Paris would either be hell or heaven to such as she. And she, hearing,
-                        smiled a little, for the first time since she had left <corr>Yprès</corr>, and thought—heaven or hell, what would it matter which, so long
-                        as she found Arslàn?</p>
-                    <p>Of Dante she had never heard; but the spirit of the “<foreign xml:lang="ita">questi chi mai da me non piu diviso</foreign>” dwells untaught in every
+                        smiled a little, for the first time since she had left <corr>Yprès</corr>,
+                        and thought—heaven or hell, what would it matter which, so long as she found
+                        Arslàn?</p>
+                    <p>Of Dante she had never heard; but the spirit of the “<foreign xml:lang="ita"
+                            >questi chi mai da me non piu diviso</foreign>” dwells untaught in every
                         great love.</p>
                     <p>Once, at night, a vagrant tried to rob her, having watched her count the gold
                         and notes which she carried in her girdle. He dragged her to a lonely place,
@@ -13427,7 +13593,8 @@
                         woods.</p>
                     <p>It had an ancient church; the old sweet bells were ringing a last midday
                         mass; a crumbling fortress of the Angevine kings gave it majesty and shadow;
-                        it was full of flowers and of trees, and had quaint, quiet, grey streets,<pb n="403" xml:id="VAB7066-402"/> hilly and shady, that made her think of
+                        it was full of flowers and of trees, and had quaint, quiet, grey streets,<pb
+                            n="403" xml:id="VAB7066-402"/> hilly and shady, that made her think of
                         the streets round about the cathedral of her mother’s birthplace, away
                         north‐westward in the white sea‐mists.</p>
                     <p>When she entered it, noon had just sounded from all its many clocks and
@@ -13445,8 +13612,8 @@
                         dressed with cresses, a jug of milk, an abundance of bread. And her hunger
                         was very great.</p>
                     <p>Nine days of sharper privation than even that to which she had been inured in
-                        the penury of <corr>Yprès</corr> had made her cheeks hollow and her limbs fleshless; and a
-                        continual consuming heat and pain gnawed at her chest.</p>
+                        the penury of <corr>Yprès</corr> had made her cheeks hollow and her limbs
+                        fleshless; and a continual consuming heat and pain gnawed at her chest.</p>
                     <p>She sat on a bench that was free to all wayfarers, and looked at the food in
                         the tavern‐kitchen. It tempted her with the animal ravenousness begotten by
                         long fast. She wanted to fly at it as a starved dog flies. A rosy‐faced
@@ -13701,7 +13868,8 @@
                         with flashing glances and bare breasts danced with their spangled anklets
                         glittering in the rays of the moon; of roofless palaces where the Crescent
                         still glistened amidst the colours of the walls; of marble courts where only
-                        the oleander kept pomp and the wild fig‐vine held possession;<pb n="411" xml:id="VAB7066-410"/> of a dead nation which at midnight thronged
+                        the oleander kept pomp and the wild fig‐vine held possession;<pb n="411"
+                            xml:id="VAB7066-410"/> of a dead nation which at midnight thronged
                         through the tombs of its kings, and passed in shadowy hosts through the
                         fated land which had rejected the faith and the empire of Islam; sowing as
                         they went upon the blood‐soaked soil of Spain the vengeance of the dead in
@@ -13763,7 +13931,8 @@
                         mouth, to whom endlessly she stretched her arms in vain entreaty, but who
                         said only, with the passionless pity of his gaze, “I come in my own time,
                         and neither tarry nor hasten for any supplication of a mortal creature.”</p>
-                    <p>She lived, as a reed torn up from the root may live, by<pb n="413" xml:id="VAB7066-412"/> the winds that waft it, by the birds that carry
+                    <p>She lived, as a reed torn up from the root may live, by<pb n="413"
+                            xml:id="VAB7066-412"/> the winds that waft it, by the birds that carry
                         it, by the sands that draw its fibres down into themselves, to root afresh
                         whether it will or no.</p>
                     <p>“The reed was worthy to die!—the reed was worthy to die!” was all that she
@@ -13866,11 +14035,11 @@
                     <p>At length they grew afraid of what they did. She refused all food; she turned
                         her face to the wall; she stretched herself on her bed of straw motionless
                         and rigid.<pb n="416" xml:id="VAB7066-415"/> The confinement, the absence of
-                        air, <corr>were</corr> a living death to the creature whose lungs were stifled unless
-                        they drank in the fresh cool draught of winds blowing unchecked over the
-                        widths of the fields and forests, and whose eyes ached and grew blind unless
-                        they could gaze into the depths of free‐flowing water, or feed themselves in
-                        far‐reaching sight upon the radiant skies.</p>
+                        air, <corr>were</corr> a living death to the creature whose lungs were
+                        stifled unless they drank in the fresh cool draught of winds blowing
+                        unchecked over the widths of the fields and forests, and whose eyes ached
+                        and grew blind unless they could gaze into the depths of free‐flowing water,
+                        or feed themselves in far‐reaching sight upon the radiant skies.</p>
                     <p>The errant passions in her, the inborn instincts towards perpetual liberty,
                         and the life of the desert and of the mountains which came with the blood of
                         the Zingari, made her prison‐house a torture to her such as is unknown to
@@ -13935,7 +14104,8 @@
                         rain drops.</p>
                     <p>All these little things came to her like the notes of a song heard far
                         away—far away—in another world. They were so familiar, yet so strange.</p>
-                    <p>There was a little yellow flower growing in a tuft of<pb n="418" xml:id="VAB7066-417"/> grasses straight in front of her; a little
+                    <p>There was a little yellow flower growing in a tuft of<pb n="418"
+                            xml:id="VAB7066-417"/> grasses straight in front of her; a little
                         wayside weed; a root and blossom of the field‐born celandine.</p>
                     <p>She fell on her knees in the dust by it, and laughed and wept, and quivering,
                         kissed it and blessed it that it grew there. It was the first thing of
@@ -14206,7 +14376,8 @@
                         races of the East; the warmth of the room, and the long hours of sleep had
                         brought the natural bloom to her face, the natural lustre to her eyes, which
                         earlier fatigue and long illness had banished.</p>
-                    <p>He surveyed her with that smile which she had resented<pb n="426" xml:id="VAB7066-425"/> on the day when she had besought pity of him for
+                    <p>He surveyed her with that smile which she had resented<pb n="426"
+                            xml:id="VAB7066-425"/> on the day when she had besought pity of him for
                         Arslàn’s sake.</p>
                     <p>“Do you not eat?” was all he said.</p>
                     <p>“Not here.”</p>
@@ -14241,7 +14412,8 @@
                     <p>He was an old man; he could bear to pause and rightly appreciate the charm of
                         scorn, the spur of irony, the goad of hatred. He knew the full value of its
                         sharp spears to the wonder‐blooming aloe.</p>
-                    <p>He left the subject for a happier moment, and seating<pb n="427" xml:id="VAB7066-426"/> himself, opened his hands to warm them by the
+                    <p>He left the subject for a happier moment, and seating<pb n="427"
+                            xml:id="VAB7066-426"/> himself, opened his hands to warm them by the
                         wood fire, still watching her with that smile, which for its very
                         indulgence, its very banter, she abhorred.</p>
                     <p>“You lost your Norse‐god as I prophesied?” he asked carelessly.</p>
@@ -14481,7 +14653,8 @@
                     <p>He looked at her and smiled, and bent towards the warmth of the fire.</p>
                     <p>“All that I say you shall be; and—the year is all winter for the poor,
                         Folle‐Farine.”</p>
-                    <p>The light on her face faded; a sudden apprehension<pb n="434" xml:id="VAB7066-433"/> tightened at her heart; on her face gathered the
+                    <p>The light on her face faded; a sudden apprehension<pb n="434"
+                            xml:id="VAB7066-433"/> tightened at her heart; on her face gathered the
                         old fierce deadly antagonism which constant insult and attack had taught her
                         to assume on the first instant of menace as her only buckler.</p>
                     <p>She knew not what evil threatened; but vaguely she felt that treason was
@@ -14518,7 +14691,8 @@
                     <p>“She would be a great creature to show to the world,” he thought, as he
                         drooped his head and watched her through<pb n="435" xml:id="VAB7066-434"/>
                         his half‐closed eyelids, as the Red Mouse watched the sleeper in the
-                        poppies. “Let you go?” he said with that slow ironic smile—<corr>“</corr>let you go? Why should I let you go—Folle‐Farine?”</p>
+                        poppies. “Let you go?” he said with that slow ironic smile—<corr>“</corr>let
+                        you go? Why should I let you go—Folle‐Farine?”</p>
                     <p>“Why? Why? To save your own life—if you are wise.”</p>
                     <p>He laughed in his throat again.</p>
                     <p>“Ah, ah! It is never wise to threaten, Folle‐Farine. I do not threaten. You
@@ -14548,7 +14722,8 @@
                         thankless to this man.</p>
                     <p>He gazed at her and smiled, and thought how beautiful that chained whirlwind
                         of her passions looked; but he did not touch her nor even go nearer to her.
-                        There was a dangerous gleam in her eyes that daunted him. Moreover<pb n="436" xml:id="VAB7066-435"/> he was patient, humorous, gentle, cruel,
+                        There was a dangerous gleam in her eyes that daunted him. Moreover<pb
+                            n="436" xml:id="VAB7066-435"/> he was patient, humorous, gentle, cruel,
                         wise—all in one; and he desired to tame and to beguile her, and to see her
                         slowly drawn into the subtle sweetness of the powers of gold; and to enjoy
                         the yielding of each moral weakness one by one, as the southern boy slowly
@@ -14613,7 +14788,8 @@
                         as the ways of love. What could all these be save certain death? Of death
                         they were afraid; but they were more afraid yet of the vengeance of their
                         flute‐voiced lord.</p>
-                    <p>On the wall the Red Mouse sat amongst the flowers of<pb n="438" xml:id="VAB7066-437"/> sleep; he could have told; he who for once had
+                    <p>On the wall the Red Mouse sat amongst the flowers of<pb n="438"
+                            xml:id="VAB7066-437"/> sleep; he could have told; he who for once had
                         heard another prayer than the blasphemies of the Brocken.</p>
                     <p>But the Red Mouse never tells any secret to men; he has lived too long in the
                         breast of the women whom men love.</p>
@@ -14849,7 +15025,8 @@
                         divine conception of the old Hellenic ideal, the art of the comic stage
                         could seem but poor and idle mimicry; gaudy and fragrantless as any painted
                         rose of paper blossoming on a tinselled stem.</p>
-                    <p>The crystal truthlessness, the barbaric liberty, the pure<pb n="445" xml:id="VAB7066-444"/> idealism of her mind and temper revolted in
+                    <p>The crystal truthlessness, the barbaric liberty, the pure<pb n="445"
+                            xml:id="VAB7066-444"/> idealism of her mind and temper revolted in
                         contempt from the visible presentment and the vari‐coloured harlequinade of
                         the comic actor’s art. To her, a note of song, a gleam of light, a shadowy
                         shape, a veiled word, were enough to unfold to her passionate fancy a world
@@ -15021,7 +15198,8 @@
                     <p>She was silent always, and she never smiled.</p>
                     <p>“I must keep my liberty!” she had said; and she kept it.</p>
                     <p>By night she toiled ceaselessly for her new masters; docile, patient,
-                        enduring, laborious, bearing the yoke of this<pb n="450" xml:id="VAB7066-449"/> labour as she had borne that of her former
+                        enduring, laborious, bearing the yoke of this<pb n="450"
+                            xml:id="VAB7066-449"/> labour as she had borne that of her former
                         slavery, rather than owe a crust to alms, a coin to the gaze of a crowd. But
                         by the day she searched the city ceaselessly and alone, wandering,
                         wandering, always on a quest that was never ended.</p>
@@ -15076,9 +15254,10 @@
                     <p>When men tried to tell her she was beautiful, she looked them full in the
                         eyes and laughed, a terrible dreary laugh of scorn that chilled them to the
                         bone. When the gay groups on balconies, that glanced golden in the sun,
-                        flung <corr>sweetmeats</corr> at her, and dashed wine on the ground, and called to her for her
-                        beauty’s sake to join them, she looked at them with a look that had neither
-                        envy nor repugnance in it, but only a cold mute weariness of contempt.</p>
+                        flung <corr>sweetmeats</corr> at her, and dashed wine on the ground, and
+                        called to her for her beauty’s sake to join them, she looked at them with a
+                        look that had neither envy nor repugnance in it, but only a cold mute
+                        weariness of contempt.</p>
                     <p>One day a great sculptor waylaid her, and showed her a pouch full of money
                         and precious stones. “All that, and more, you shall have, if you will let me
                         make a cast of your face and your body once.” In answer, she showed him the
@@ -15160,7 +15339,8 @@
                         In the darkness of a narrow street, and of a night of tempest, she fled from
                         them, and buried herself in the dense obscurity which is one of the few
                         privileges of the outcasts.</p>
-                    <p>It was very poor, this quarter where she found refuge;<pb n="454" xml:id="VAB7066-453"/> men and women at the lowest ebb of life gathered
+                    <p>It was very poor, this quarter where she found refuge;<pb n="454"
+                            xml:id="VAB7066-453"/> men and women at the lowest ebb of life gathered
                         there together. There was not much crime; it was too poor even for that. It
                         was all that piteous, hopeless class that is honest, and suffers and keeps
                         silent—so silent that no one notices when death replaces life.</p>
@@ -15229,7 +15409,8 @@
                         entered, and whose rest she roused. It was a human interest, a human
                         sympathy. It drew her from the despair that had closed around her.</p>
                     <p>And some of these in turn loved her.</p>
-                    <p>Neither poverty nor wretchedness could dull the lustrous,<pb n="456" xml:id="VAB7066-455"/> deep‐hued, flowerlike beauty that was hers by
+                    <p>Neither poverty nor wretchedness could dull the lustrous,<pb n="456"
+                            xml:id="VAB7066-455"/> deep‐hued, flowerlike beauty that was hers by
                         nature. As she ascended the dark stone stairs with the little candle raised
                         above her head, and knocking low entered the place where they slept, the men
                         and the children alike dreamed of strange shapes of paradise and things of
@@ -15629,7 +15810,8 @@
                         and here I have no need. Come; it is very near to you. A rood of stone can
                         sever two lives, though the strength of all the world cannot unite them.
                         Come.”</p>
-                    <p>She gripped the knife closer, and, with feet that stumbled<pb n="468" xml:id="VAB7066-467"/> as the feet of a dumb beast that goes out to its
+                    <p>She gripped the knife closer, and, with feet that stumbled<pb n="468"
+                            xml:id="VAB7066-467"/> as the feet of a dumb beast that goes out to its
                         slaughter, followed him, through the dark and narrow ways. She had no fear
                         for herself; she had no dread of treachery or peril; for herself she could
                         be strong—always: and the point of the steel was set hard against her
@@ -15767,7 +15949,8 @@
                         have no sins to her, and it had been no empty phrase.</p>
                     <p>She crouched on his threshold, not daring to breathe aloud lest he should
                         hear her.</p>
-                    <p>In the dull light of dawn and of the sickly lamp she saw<pb n="472" xml:id="VAB7066-471"/> the great canvas on the tressels that his eyes,
+                    <p>In the dull light of dawn and of the sickly lamp she saw<pb n="472"
+                            xml:id="VAB7066-471"/> the great canvas on the tressels that his eyes,
                         without seeing it, yet stared at;—it was the great picture of the Barabbas,
                         living its completed life in colour: beautiful, fearful, and divine, full of
                         its majesty of godhead and its mockery of man.</p>
@@ -15840,10 +16023,11 @@
                         outraged, and thought to outrage with impunity as mere bestial feebleness,
                         took her vengeance on him and cast him here, and mocked him, crying:—</p>
                     <p>“A deathless name?—Oh, madman. A little breath on the mouths of men in all
-                        the ages to come?—Oh, fool! Hereafter, you cry? —oh, fool!—heaven and <corr>earth may</corr> pass away, like a scroll that is burnt into ashes, and the future
-                        you live for may never come—neither for you nor the world. What you may
-                        gain—who shall say? But all you have missed, I know. And no man shall scorn
-                        me—and pass unscathed.”</p>
+                        the ages to come?—Oh, fool! Hereafter, you cry? —oh, fool!—heaven and
+                            <corr>earth may</corr> pass away, like a scroll that is burnt into
+                        ashes, and the future you live for may never come—neither for you nor the
+                        world. What you may gain—who shall say? But all you have missed, I know. And
+                        no man shall scorn me—and pass unscathed.”</p>
                     <p>There came an old lame woman by, laboriously bearing a load of firewood. She
                         passed beside the threshold.</p>
                     <p>“You look yonder,” she said, resting her eyes on the stranger crouching on
@@ -15858,7 +16042,8 @@
                         still said nothing.</p>
                     <p>The crone mumbled on indifferent of answer, and yet pitiful, gazing into the
                         chamber.</p>
-                    <p>“I have watched him often; he is fair to look at—one<pb n="475" xml:id="VAB7066-474"/> is never too old to care for that. All winter,
+                    <p>“I have watched him often; he is fair to look at—one<pb n="475"
+                            xml:id="VAB7066-474"/> is never too old to care for that. All winter,
                         spring, and summer he has lived so hard:—so cold too and so silent—painting
                         that strange thing yonder. He looks like a king—he lives like a beggar. The
                         picture was his god,—see you. And no doubt he has set his soul on fame—men
@@ -15877,8 +16062,9 @@
                     <p>“The woman says aright,” the voice of Sartorian murmured low against her ear.
                         She had forgotten that he was near from the first moment that her eyes had
                         once more fed themselves upon the face of Arslàn.</p>
-                    <p>“The woman says aright,” he echoed softly. <corr>“</corr>This man will perish; his body may not die, but his brain
-                        will—surely. And yet for his life you would give yours?”</p>
+                    <p>“The woman says aright,” he echoed softly. <corr>“</corr>This man will
+                        perish; his body may not die, but his brain will—surely. And yet for his
+                        life you would give yours?”</p>
                     <p>She looked up with a gleam of incredulous hope; she was yet so ignorant; she
                         thought there might yet be ways by which one life could buy another’s from
                         the mercy of earth, from the pity of heaven.</p>
@@ -16372,7 +16558,8 @@
                         look, as of some desert beast taken from the freedom of the air and cast to
                         the darkness of some unutterable horror; a creature whose lips were for ever
                         mute, mute as the tortured lips of Læna.</p>
-                    <p>One day the man whom the nations at last had crowned,<pb n="490" xml:id="VAB7066-489"/> saw the woman whom it was a tyrant’s pleasure to
+                    <p>One day the man whom the nations at last had crowned,<pb n="490"
+                            xml:id="VAB7066-489"/> saw the woman whom it was a tyrant’s pleasure to
                         place beside him now and then, in the public ways, as a tribune of Rome
                         placed in his chariot of triumph the vanquished splendour of some imperial
                         thing of Asia made his slave.</p>
@@ -16439,7 +16626,8 @@
                     <p>Deathless as themselves their shadows stood; and the worm and the lizard and
                         the newt left them alone and dared not wind about their calm clear brows,
                         and dared not steal to touch the roses at their lips, knowing that ere the
-                        birth of the worlds these were and when the worlds shall<pb n="492" xml:id="VAB7066-491"/> have perished these still will reign on:—the
+                        birth of the worlds these were and when the worlds shall<pb n="492"
+                            xml:id="VAB7066-491"/> have perished these still will reign on:—the
                         slow, sure, soundless, changeless ministers of an eternal rest, of an
                         eternal oblivion.</p>
                     <p>A late light strayed in from the grey skies, pale as the primrose flowers
@@ -16509,7 +16697,8 @@
                         flowers was sweet upon the air. The leaves blew together, murmuring. The
                         shadows of the clouds were dark upon the stream.</p>
                     <p>She lay dead at the feet of the Sons of Night.</p>
-                    <p>The noisome creatures of the place stole away trembling;<pb n="494" xml:id="VAB7066-493"/> the nameless things begotten by loneliness and
+                    <p>The noisome creatures of the place stole away trembling;<pb n="494"
+                            xml:id="VAB7066-493"/> the nameless things begotten by loneliness and
                         gloom glided to their holes, as though afraid; the blind newts crept into
                         the utter darkness afar off; the cool winds alone hovered near her, and
                         moved her hair, and touched her limbs with all the fragrance of forest and
@@ -16541,7 +16730,8 @@
                     <p>They spoke in whispers; they were sore afraid; it was still twilight.</p>
                     <p>“It were a righteous act to thrust her in a grave,” they murmured to each
                         other at the last,—and paused.</p>
-                    <p>“Ay, truly,” they agreed, “otherwise she may break the<pb n="495" xml:id="VAB7066-494"/> bonds of Death and rise again and haunt us
+                    <p>“Ay, truly,” they agreed, “otherwise she may break the<pb n="495"
+                            xml:id="VAB7066-494"/> bonds of Death and rise again and haunt us
                         always; who can say? But the gold—”</p>
                     <p>And then they paused again.</p>
                     <p>“It were a sin,” one murmured, “it were a sin to bury the pure good gold in

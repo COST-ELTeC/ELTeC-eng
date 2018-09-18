@@ -3,7 +3,7 @@
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>Why Paul Ferroll Killed His Wife</title>
+                <title>Why Paul Ferroll Killed His Wife : ELTeC edition</title>
                 <author>Clive, Caroline Wigley (1801-1873)</author>
                 <respStmt>
                     <resp>Optically scanned, encoded, edited and proofed by </resp>
@@ -24,7 +24,7 @@
             </extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>Why Paul Ferroll Killed His Wife : VWWP edition
-</title><author>Clive, Caroline, 1801-1873</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7194</idno><relatedItem><bibl><title>Why Paul Ferroll Killed His Wife</title><author>Clive, Caroline, 1801-1873</author><publisher>Saunders, Otley, and Co. </publisher><pubPlace>London </pubPlace><date when="1860">1860</date></bibl></relatedItem></bibl></sourceDesc>
+</title><author>Clive, Caroline, 1801-1873</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7194</idno><relatedItem type="copyText"><bibl><title>Why Paul Ferroll Killed His Wife</title><author>Clive, Caroline, 1801-1873</author><publisher>Saunders, Otley, and Co. </publisher><pubPlace>London </pubPlace><date when="1860">1860</date></bibl></relatedItem></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1"><p/></encodingDesc>
         <profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>

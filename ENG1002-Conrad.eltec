@@ -9,7 +9,7 @@
                 <name>Lou Burnard</name>
             </respStmt>
         </titleStmt>
-        <extent><measure unit="words">114360</measure><measure unit="pages">0</measure></extent>
+        <extent><measure unit="words">114360</measure></extent>
         <publicationStmt>
             <p>Published as part of ELTeC</p>
         </publicationStmt>
@@ -21,7 +21,7 @@
                     University of Adelaide
                     South Australia 5005</publisher>
                 <ref target="https://ebooks.adelaide.edu.au/c/conrad/joseph/c75u/"/>
-                <relatedItem>
+                <relatedItem type="copyText">
                     <bibl><title>Under Western Eyes</title><author>Conrad, Joseph
                             (1857-1924).</author><publisher>Methuen &amp; co. ltd. 36 Essex Street
                             W.C. London</publisher><date>1911</date></bibl>

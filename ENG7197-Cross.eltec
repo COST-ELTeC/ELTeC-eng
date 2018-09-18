@@ -3,7 +3,7 @@
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>The Woman Who Didn't</title>
+                <title>The Woman Who Didn't : ELTeC edition</title>
                 <author>Cross, Victoria (1868-1952)</author>
                 <respStmt>
                     <resp>Transcribed, encoded, and proofed by </resp>
@@ -25,7 +25,7 @@
             <extent><measure unit="words">23315</measure><measure unit="pages">160</measure></extent>
             <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
             <sourceDesc><bibl><title>The Woman Who Didn't : VWWP edition
-</title><author>Cross, Victoria</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7197</idno><relatedItem><bibl><title>The Woman Who Didn't</title><author>Cross, Victoria</author><publisher>John Lane</publisher><pubPlace>London </pubPlace><date when="1895">1895</date></bibl></relatedItem></bibl></sourceDesc>
+</title><author>Cross, Victoria</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7197</idno><relatedItem type="copyText"><bibl><title>The Woman Who Didn't</title><author>Cross, Victoria</author><publisher>John Lane</publisher><pubPlace>London </pubPlace><date when="1895">1895</date></bibl></relatedItem></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1"><p/></encodingDesc>
         <profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>

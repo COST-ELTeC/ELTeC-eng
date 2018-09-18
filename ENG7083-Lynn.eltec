@@ -1,9 +1,10 @@
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG7083" xml:lang="ENG">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG7083"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>The True History of Joshua Davidson</title>
+                <title>The True History of Joshua Davidson : ELTeC edition</title>
                 <author>Linton, E. Lynn (Elizabeth Lynn) (1822-1898)</author>
                 <respStmt>
                     <resp>Transcribed, encoded and edited by </resp>
@@ -22,31 +23,60 @@
                 <measure unit="words">38286</measure>
                 <measure unit="pages">281</measure>
             </extent>
-            <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
-            <sourceDesc><bibl><title>The True History of Joshua Davidson : VWWP edition
-</title><author>Linton, E. Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Digital Library Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7083</idno><relatedItem><bibl><title>The True History of Joshua Davidson</title><author>Linton, E. Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Strahan and Co.</publisher><pubPlace>London </pubPlace><date when="1872">1872</date></bibl></relatedItem></bibl></sourceDesc>
+            <publicationStmt>
+                <p>Published as part of ELTeC</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><title>The True History of Joshua Davidson : VWWP edition
+                        </title><author>Linton, E. Lynn (Elizabeth Lynn),
+                        1822-1898</author><publisher>Digital Library Program, Indiana
+                        University</publisher><pubPlace>Bloomington,
+                        IN</pubPlace><idno>VAB7083</idno><relatedItem type="copyText">
+                        <bibl><title>The True History of Joshua Davidson</title><author>Linton, E.
+                                Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Strahan and
+                                Co.</publisher><pubPlace>London </pubPlace><date when="1872"
+                                >1872</date></bibl>
+                    </relatedItem></bibl>
+            </sourceDesc>
         </fileDesc>
-        <encodingDesc n="eltec-1"><p/></encodingDesc>
-        <profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc>
-        <revisionDesc><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-08-26">elizabethmunson: Added genre term</change><change when="2010-07-30">elizabethmunson: Removed date from fileDesc title</change><change when="2010-07-30">elizabethmunson: Added filing title</change><change when="2010-07-30">elizabethmunson: Added LCNAF form of author name to sourceDesc and fileDesc author (hyphen 
-            adjusted for both, parenthesis adjusted for fileDesc)</change><change when="2010-07-30">elizabethmunson: Normalized date in biblFull/publicationStmt</change><change when="2009-10-27">#bn: Normalized id scheme and encoding</change><change when="2009-10-27">#bn: Added Library of Congress Subject Headings</change><change when="2009-05-10">#bn: Coverted from P4 to P5</change></revisionDesc>
+        <encodingDesc n="eltec-1">
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-07-23">LB convert to ELTeC-1</change>
+            <change when="2010-08-26">elizabethmunson: Added genre term</change>
+            <change when="2010-07-30">elizabethmunson: Removed date from fileDesc title</change>
+            <change when="2010-07-30">elizabethmunson: Added filing title</change>
+            <change when="2010-07-30">elizabethmunson: Added LCNAF form of author name to sourceDesc
+                and fileDesc author (hyphen adjusted for both, parenthesis adjusted for
+                fileDesc)</change>
+            <change when="2010-07-30">elizabethmunson: Normalized date in
+                biblFull/publicationStmt</change>
+            <change when="2009-10-27">#bn: Normalized id scheme and encoding</change>
+            <change when="2009-10-27">#bn: Added Library of Congress Subject Headings</change>
+            <change when="2009-05-10">#bn: Coverted from P4 to P5</change>
+        </revisionDesc>
     </teiHeader>
     <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <front>
             <div type="titlepage">
-                <p>
-                    THE TRUE HISTORY OF JOSHUA DAVIDSON
-                </p>
-                <p>
-                    STRAHAN AND CO.
-                    56, LUDGATE HILL, LONDON
-                </p>
+                <p> THE TRUE HISTORY OF JOSHUA DAVIDSON </p>
+                <p> STRAHAN AND CO. 56, LUDGATE HILL, LONDON </p>
                 <p>1872</p>
                 <p>[All Rights Reserved]</p>
                 <pb n="verso" xml:id="VAB7083-001"/>
-                <p>
-                    LONDON: BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS.
-                </p>
+                <p> LONDON: BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS. </p>
             </div>
             <div type="liminal">
                 <pb n="vii" xml:id="VAB7083-002"/>
@@ -75,7 +105,8 @@
                     parents were poor but worthy people, who kept themselves very much together and
                     had but little to do with the neighbours. Folks blamed this for pride, and said
                     they held themselves high because they were the decayed branches of an ancient
-                    family—some said dating from King Arthur's self. Of course this was only<pb n="2" xml:id="VAB7083-005"/> an “Arthurian legend,” if I may call it so,
+                    family—some said dating from King Arthur's self. Of course this was only<pb
+                        n="2" xml:id="VAB7083-005"/> an “Arthurian legend,” if I may call it so,
                     that could not be verified; for naturally down about Tintagel everything has to
                     do with King Arthur—even the choughs. Joshua sometimes spoke of it, but not from
                     pride; there never was a man freer from that failing than he; rather from the
@@ -85,8 +116,9 @@
                     and leaders, under new aspects but from the ancient sources. And if so, might he
                     not count for something, direct descendant as he believed he was of the hero
                     whose Castle had been one of his earliest playgrounds, and on whose Quoit he had
-                    spent many an hour of way-side dreaming<pb n="3" xml:id="VAB7083-006"/> ing? It was a fancy; a harmless one;
-                    so let it pass for just as much as it was worth.</p>
+                    spent many an hour of way-side dreaming<pb n="3" xml:id="VAB7083-006"/> ing? It
+                    was a fancy; a harmless one; so let it pass for just as much as it was
+                    worth.</p>
                 <p>There was nothing very remarkable about Joshua's childhood. He was always a
                     quiet, thoughtful boy, and from his earliest years noticeably pious. His parents
                     came of the Friends' stock; not of a strict kind themselves, for they joined in
@@ -95,7 +127,8 @@
                     why, and of reasoning out a principle, from quite a little lad; which displeased
                     people; so that he did not get all the credit from the schoolmaster and the
                     clergyman to which his diligence and good conduct entitled him. They thought him
-                    troublesome, and some said he was self-conceited; which he never was; but<pb n="4" xml:id="VAB7083-007"/> the more he was in earnest the more he offended
+                    troublesome, and some said he was self-conceited; which he never was; but<pb
+                        n="4" xml:id="VAB7083-007"/> the more he was in earnest the more he offended
                     them.</p>
                 <p>He was never well looked on by the Vicar since a famous scene that took place in
                     the church one Sunday after afternoon catechism. He was then about fourteen
@@ -106,7 +139,8 @@
                     if he knew whether his hair was black like mine, or, as it was, a bright brown
                     like ripe nuts in the sunshine. After catechism was over he stood out before the
                     rest, just in his rough country clothes as he vas, and said very respectfully to
-                        the<pb n="5" xml:id="VAB7083-008"/> Vicar, Mr. Grand:<ref target="#linton-joshuanote00">*</ref> “If you please sir, I would like to
+                        the<pb n="5" xml:id="VAB7083-008"/> Vicar, Mr. Grand:<ref
+                        target="#linton-joshuanote00">*</ref> “If you please sir, I would like to
                     ask you a few questions.”</p>
                 <p>“Certainly, my lad, what have you to say?” said Mr. Grand rather shortly. He did
                     not seem over well pleased at the boy's addressing him; but he could not well
@@ -115,11 +149,11 @@
                     everybody do pretty much as they liked.</p>
                 <p>“If we say, sir, that Jesus Christ was God,” said Joshua, “surely all that He
                     said and did must be the real right? There cannot be a better way than His?”</p>
-                <note anchored="true" xml:id="linton-joshuanote00">* I do not mind
-                    giving this name of the clergyman, because it was not his own; only one that we
-                    lads gave him behind backs, as it were; else I do not intend to give the names
-                    of any living actors in this history. The scene I am now describing was told me
-                    by Joshua's mother, who wrote it down as soon, as she got home.</note>
+                <note anchored="true" xml:id="linton-joshuanote00">* I do not mind giving this name
+                    of the clergyman, because it was not his own; only one that we lads gave him
+                    behind backs, as it were; else I do not intend to give the names of any living
+                    actors in this history. The scene I am now describing was told me by Joshua's
+                    mother, who wrote it down as soon, as she got home.</note>
                 <pb n="6" xml:id="VAB7083-009"/>
                 <p>“Surely not, my lad,” Mr. Grand made answer; “what else have you been taught all
                     your life? what else have you been saying in your catechism just now?”</p>
@@ -142,7 +176,8 @@
                     you live in a fine house, and have grand dinners, and let Peggy Bray nearly
                     starve in that old mud hut of hers, and widow Tregellis there, with her six
                     children, and no fire or clothing for them? I can't make it out, sir ! Christ
-                    was GOD; and we are Christians; yet we won't do as He ordered,<pb n="8" xml:id="VAB7083-011"/> though you tell us it is a sin that can never be
+                    was GOD; and we are Christians; yet we won't do as He ordered,<pb n="8"
+                        xml:id="VAB7083-011"/> though you tell us it is a sin that can never be
                     forgiven if we dispute what the Bible says.”</p>
                 <p>“And so it is,” said Mr. Grand sternly. “Who has been putting these bad thoughts
                     in to your head?”</p>
@@ -152,12 +187,14 @@
                     Orphan Fund people took away her pension, because, as you yourself told her, she
                     was a bad woman, and it was encouraging wickedness; and he worked early and late
                     for widow Tregellis and her children, and shared with them all he had, going
-                    short for them many a time. And I can't help thinking, sir, that Christ,<pb n="9" xml:id="VAB7083-012"/> who forgave all manner of sinners, would have
+                    short for them many a time. And I can't help thinking, sir, that Christ,<pb
+                        n="9" xml:id="VAB7083-012"/> who forgave all manner of sinners, would have
                     helped Peggy with her base child, and that Michael, being an infidel and such a
                     good man, is something like that second son in the Parable who said he would not
                     do his Lord's will when he was ordered, but who went all the same—”</p>
                 <p>“And that your Vicar is like the first?” interrupted Mr. Grand angrily.</p>
-                <p>“Well, yes, sir, if you please,” said Joshua quite modestly but very fervently.</p>
+                <p>“Well, yes, sir, if you please,” said Joshua quite modestly but very
+                    fervently.</p>
                 <p>There was a great stir among the ladies and gentlemen when Joshua said this; and
                     some laughed a little, under their breath because it was in church, and others
                     lifted up their eyebrows, and said, “What an extraordinary boy!” and whispered
@@ -184,10 +221,12 @@
                 <p>When they all went out of church Mr. Grand was heard to say to Mr. Freeman: “You
                     will see, Freeman, that boy will go to the bad; he will turn out a pestilent
                     fellow, a freethinker and a democrat. Oh, I know the breed, with their cant
-                    about truth and the right! He richly deserved a flogging to-day<pb n="12" xml:id="VAB7083-015"/> if ever boy did; to dare to take me to task in my own
+                    about truth and the right! He richly deserved a flogging to-day<pb n="12"
+                        xml:id="VAB7083-015"/> if ever boy did; to dare to take me to task in my own
                     church!”</p>
                 <p>But Mr. Freeman said gently; “I don't think he meant it for insolence. I think
-                    the lad was in earnest, though of course he should not have spoken as he did.”</p>
+                    the lad was in earnest, though of course he should not have spoken as he
+                    did.”</p>
                 <p>“Earnest or not, he must be taught better manners for the future,” said Mr.
                     Grand.</p>
                 <p>And so it was that Joshua was not well looked on by the clergyman, who was his
@@ -206,7 +245,8 @@
                     more than ever a stickler for the uncompromising truth, and the life as lived by
                     Jesus Christ. He was not uncomfortable to live with, his mother said; quite the
                     contrary; no one ever saw him out of temper, and no one ever knew him do a bad
-                    thing; but he somehow forced his parents to be always up to the mark, and<pb n="14" xml:id="VAB7083-017"/> even the neighbours were ashamed to talk
+                    thing; but he somehow forced his parents to be always up to the mark, and<pb
+                        n="14" xml:id="VAB7083-017"/> even the neighbours were ashamed to talk
                     loosely or say what they shouldn't before a lad whose whole thought, whose sole
                     endeavour was, “how to realise Christ.”</p>
                 <p>“Mother,” he once said, as he and Mrs. Davidson stood by the cottage door
@@ -249,10 +289,11 @@
                     were not church-goers; and that is always an offence to the clergy of country
                     parishes, who treat even the best of the Dissenters as little better than
                     rogues, taking it partly as a personal affront and partly as a moral sin if
-                    their parishioners find greater comfort for their poor souls elsewhere<pb n="18" xml:id="VAB7083-021"/> where than under them. However, for
-                    the matter of that, the lads were of no denomination; and though they prayed
-                    much and often, it was neither at church nor chapel; it was at their own houses
-                    or in the fields.</p>
+                    their parishioners find greater comfort for their poor souls elsewhere<pb n="18"
+                        xml:id="VAB7083-021"/> where than under them. However, for the matter of
+                    that, the lads were of no denomination; and though they prayed much and often,
+                    it was neither at church nor chapel; it was at their own houses or in the
+                    fields.</p>
                 <p>Their aim was to be thorough and like Christ. They denounced the sin of luxury
                     among professing Christians, and spared no one, lay or clerical: so did Christ,
                     they said. They set their faces against the priestly class altogether, and
@@ -281,7 +322,8 @@
                     mountain would move. And one evening he went down into the Rocky Valley, earnest
                     to try conclusions with God's promise, and sure of proving it true. He had
                     fasted all day, and he had prayed all day; not necessarily kneeling and
-                    repeating set forms, but in the whole attitude of his mind;<pb n="21" xml:id="VAB7083-024"/> and in the twilight when work was over he went down
+                    repeating set forms, but in the whole attitude of his mind;<pb n="21"
+                        xml:id="VAB7083-024"/> and in the twilight when work was over he went down
                     with three of us, myself and two others, a certain that the truth of the Word
                     would be made manifest, and that he could remove rocks by FAITH.</p>
                 <p>He prayed to God to grant us this manifestation—to redeem His promise. He was
@@ -323,13 +365,15 @@
                     head as quickly as you can. Get some work to do in a new part of the country,
                     fall in love with some nice girl, and marry as soon as you can make a home for
                     her. Give over reading the Bible for a time, and look up some pleasant stories
-                    and books of travel, and the like; and leave off<pb n="25" xml:id="VAB7083-028"/> eating poison-berries and handling vipers. That's the only life for you,
+                    and books of travel, and the like; and leave off<pb n="25" xml:id="VAB7083-028"
+                    /> eating poison-berries and handling vipers. That's the only life for you,
                     depend upon it; and though I am no theologian, I venture to say, that working
                     honestly in that state of life to which it has pleased God to call you, going to
                     church, kneeling out of beershops, and living like your respectable neighbours,
                     is a far better kind of thing than all this high-flown religion you are
                     hankering after. Depend upon it, our best religion is to do our duty, and to
-                    leave the care of our souls to those whose business it is to look after them.”</p>
+                    leave the care of our souls to those whose business it is to look after
+                    them.”</p>
                 <p>“Thank you, sir; you mean kindly,” said Joshua. “But God has given me other
                     thoughts, and I must obey them if I would not sin against the Holy Ghost.”</p>
                 <p>And the doctor said afterwards to Mr. Grand, that he was quite touched at the
@@ -343,7 +387,8 @@
                     to him, and the doubt of himself which it brought was nearer madness than his
                     simple faith had been. He passed through a bad time; when his soul went down
                     into the Valley of the Shadow, if ever man's did! But in time he came out into
-                    the light again. He knew his own sincerity, and his entire acceptance<pb n="27" xml:id="VAB7083-030"/> of the Word of God and of the Divinity of Christ; and
+                    the light again. He knew his own sincerity, and his entire acceptance<pb n="27"
+                        xml:id="VAB7083-030"/> of the Word of God and of the Divinity of Christ; and
                     he could not think that God had met his prayer with a rebuff. God, who knew the
                     heart, would he felt sure have accepted his endeavour, had that endeavour been
                     within the scope of His plan for humanity. It was the first struggle between
@@ -363,7 +408,8 @@
                 <p>I do not think we were prepared for such a speech. We looked at one another
                     uneasily, even the dimmest of us seeing something of the conclusions to which
                     such a principle would lead us, and forecasting the rudderless wandering of
-                    souls that would ensue. But Joshua would say no more.<pb n="29" xml:id="VAB7083-032"/> He bade us good-night soon after, and it was long
+                    souls that would ensue. But Joshua would say no more.<pb n="29"
+                        xml:id="VAB7083-032"/> He bade us good-night soon after, and it was long
                     before we renewed the subject. We all felt that he had broken dangerous ground;
                     for had we not set out with the determination to realise Christ in our lives,
                     founded on our conviction of the literalness, the absolute uncompromising truth
@@ -384,9 +430,9 @@
                     faith might still serve us.</p>
                 <p>But we were far off, as yet, from any such conclusions; and the Christ life, and
                     the Gospel narrative, and the need laid on us all to follow in the Master's
-                    steps, and believe<pb n="31" xml:id="VAB7083-034"/> lieve as He taught, and do as He did,
-                    were still the cardinal points of Joshua's creed, and the object of his
-                    endeavour: and, with him, of ours.</p>
+                    steps, and believe<pb n="31" xml:id="VAB7083-034"/> lieve as He taught, and do
+                    as He did, were still the cardinal points of Joshua's creed, and the object of
+                    his endeavour: and, with him, of ours.</p>
             </div>
             <div type="chapter">
                 <pb n="32" xml:id="VAB7083-035"/>
@@ -408,7 +454,8 @@
                 <p>An opening however came in time, and Joshua had an offer to go up to London to
                     follow his trade at a large house in the City; which he accepted; and got me a
                     job as well, that I might be alongside of him. For we were like brothers; he,
-                    the elder, the better, the leader; and I, the younger, the led. And<pb n="34" xml:id="VAB7083-037"/> neither was afraid of work; or, let me add, afraid
+                    the elder, the better, the leader; and I, the younger, the led. And<pb n="34"
+                        xml:id="VAB7083-037"/> neither was afraid of work; or, let me add, afraid
                     for our work. We were skilled in our trade so far as we could be without
                     first-rate teaching, having made it a point of duty and honour both, that we
                     should never give folks occasion to talk of us as babbling saunterers, who took
@@ -443,7 +490,8 @@
                 <p>“No? have you joined the chapel then? Is that your latest fad, Joshua?”</p>
                 <pb n="37" xml:id="VAB7083-040"/>
                 <p>“No, sir; neither church nor chapel,” answered Joshua.</p>
-                <p>“What! a new light on your own account, hey?” and he laughed as if he mocked him.</p>
+                <p>“What! a new light on your own account, hey?” and he laughed as if he mocked
+                    him.</p>
                 <p>“No sir, only a seeker.”</p>
                 <p>“The old paths not good enough for you?—the light that has lightened the Gentiles
                     these eighteen hundred years and more not pure enough for an unwashed Cornish
@@ -451,7 +499,8 @@
                     words of good English?”</p>
                 <p>“I must answer for my conscience to God, sir,” said Joshua.</p>
                 <p>“And your clergyman, appointed by God and the State to be your guide, what of
-                    him? Has he no authority in his own parish?” cried Mr. Grand warmly. “Does<pb n="38" xml:id="VAB7083-041"/> it never strike you, my fine fellow, that in
+                    him? Has he no authority in his own parish?” cried Mr. Grand warmly. “Does<pb
+                        n="38" xml:id="VAB7083-041"/> it never strike you, my fine fellow, that in
                     thinking for yourself, as you call it, you are flying in the face both of Divine
                     ordinances and the laws of man, and that you are entering on the sin of schism
                     on the one hand, and of rebellion on the other?”</p>
@@ -484,7 +533,9 @@
                 <p>“That's just it, sir. You are gentlemen, as you say, but not the followers of
                     Christ. If you were, you would have no carriages to ride in, and your daughters
                     would be what Martha and Mary and Lydia and Dorcas were, women of no station,
-                    bent only on serving God and the saints, and their title<pb n="41" xml:id="VAB7083-044"/> to ladyhood founded on their degrees of goodness.”</p>
+                    bent only on serving God and the saints, and their title<pb n="41"
+                        xml:id="VAB7083-044"/> to ladyhood founded on their degrees of
+                    goodness.”</p>
                 <p>“Going in for socialism, Joshua?” said Mr. Grand, continuing his bantering tone.
                     “A little radicalism, a little methodism, and a great deal of
                     self-assurance—that seems to me to be about where you are!”</p>
@@ -494,7 +545,8 @@
                     quietly.</p>
                 <p>“Yes, sir; what?” asked Joshua eagerly.</p>
                 <p>“This whip across your shoulders!—and, by George, if I were not a clergyman I
-                    would lay it there, with a will!” cried the parson, half rising from his seat.</p>
+                    would lay it there, with a will!” cried the parson, half rising from his
+                    seat.</p>
                 <p>No one had ever seen Joshua angry since<pb n="42" xml:id="VAB7083-045"/> he had
                     grown up. His temper was proverbially sweet, and his self-control was a marvel.
                     But this time he lost both. It was not so much as a man, because of the insult
@@ -505,15 +557,16 @@
                     boasted leadership of souls?—this your learned solving of difficulties?—this
                     your fatherly guidance of your flock? ‘Feed my lambs’—with what? with stones for
                     bread—with insult for sincerity—with the gentleman's disdain for the poor
-                    thought of the artisan—with class insolence for spiritual difficulties<pb n="43" xml:id="VAB7083-046"/> culties! Of a surety, Christ has to
-                    come again to repeat the work which you priests and churches have destroyed and
-                    made of no effect, and to strip you of your ill-used power. You are the
-                    gentleman, sir, and I am only a poor carpenter's son; but I stand against you
-                    now—man against man—soul against soul—and I spurn you with a deeper and more
-                    solemn scorn than you have spurned me!” He lifted his hand as he said this, with
-                    a strange and passionate gesture, then turned himself about and went in; and Mr.
-                    Grand drove off more his ill-wisher than before; as perhaps was only natural.
-                    And yet he rightly deserved all he had got.</p>
+                    thought of the artisan—with class insolence for spiritual difficulties<pb n="43"
+                        xml:id="VAB7083-046"/> culties! Of a surety, Christ has to come again to
+                    repeat the work which you priests and churches have destroyed and made of no
+                    effect, and to strip you of your ill-used power. You are the gentleman, sir, and
+                    I am only a poor carpenter's son; but I stand against you now—man against
+                    man—soul against soul—and I spurn you with a deeper and more solemn scorn than
+                    you have spurned me!” He lifted his hand as he said this, with a strange and
+                    passionate gesture, then turned himself about and went in; and Mr. Grand drove
+                    off more his ill-wisher than before; as perhaps was only natural. And yet he
+                    rightly deserved all he had got.</p>
                 <p>This was one of the stories that got bruited abroad to Joshua's discredit. Some
                     said he had struck the parson—some that he<pb n="44" xml:id="VAB7083-047"/> had
                     been monstrously and unjustifiably impertinent; and the tale got bandied about
@@ -536,7 +589,8 @@
                     head man at both jobs. But Mr. Grand, he put his spoke in that wheel; and one
                     day when I took courage to speak and plead, all I got was a recommendation to
                     mind my own business, and not interfere where I was not wanted. And then as if
-                    in consideration—a kind of condescending consideration—for<pb n="46" xml:id="VAB7083-049"/> my being a “canter,” Mr. Grand wound up with saying
+                    in consideration—a kind of condescending consideration—for<pb n="46"
+                        xml:id="VAB7083-049"/> my being a “canter,” Mr. Grand wound up with saying
                     that I must see he was justified according to the law of God.</p>
                 <p>When I challenged him hotly, I daresay intemperately, I daresay even
                     impertinently, for his proof—for you see I was but a poor uneducated artisan,
@@ -544,7 +598,8 @@
                     carpenters' lads; and when I answered back, he ordered me out of the house,
                     saying I was as pestilent a fellow as my friend;—I replying angrily that I did
                     not think the pestilence rested with Joshua. Which ended the interview; not
-                    without loss of temper and dignity on both sides, and no good done to anyone.</p>
+                    without loss of temper and dignity on both sides, and no good done to
+                    anyone.</p>
                 <p>The night before we left for London Joshua had a kind of vision or waking dream,
                     which he told me as we were on our<pb n="47" xml:id="VAB7083-050"/> way to
                     Launceston, walking up the hill from Boscastle, while the omnibus toiled after
@@ -556,7 +611,8 @@
                     The one was dressed as a high priest, and was Ecclesiastical Christianity; the
                     other as a king, and was Society; and both were stern, forbidding, and
                     oppressive. The only persons to whom they showed favour were the well-dressed
-                    and the subservient—rich people dressed in gold and jewels, and<pb n="48" xml:id="VAB7083-051"/> the poor and undistinguished who were submissive and
+                    and the subservient—rich people dressed in gold and jewels, and<pb n="48"
+                        xml:id="VAB7083-051"/> the poor and undistinguished who were submissive and
                     conforming; who accepted all that the high priest taught without questioning the
                     truth of any part, and who obeyed what the king ordained without even so much as
                     a wish to resist. These were called Believing Christians and Respectable Members
@@ -619,7 +675,8 @@
                     victims, worked incessantly at his deliverance; every now and then getting one
                     link loosened here and another there, knowing that in time he would with their
                     help shake himself free of all his chains, and stand up before the world, the
-                    great-hearted leader, the glad possession of every man and woman that breathes.</p>
+                    great-hearted leader, the glad possession of every man and woman that
+                    breathes.</p>
                 <p>The third figure was the most deeply oppressed. The face was hidden, but it
                         was<pb n="54" xml:id="VAB7083-057"/> a lovely form, vilely clad in
                     disfiguring garments, and bespattered with dirt that had been flung at it by the
@@ -675,7 +732,8 @@
                     ‘Here, mother,’ I said; ‘here is a bit of Christ-work for you to do. Take this
                     poor creature, in her dirt and vileness as she is, and cleanse her. You believe
                     and know that God's love did that for the world: we are less pure than Christ,
-                    but we hold ourselves too fine to follow His example in that! Love her,<pb n="59" xml:id="VAB7083-062"/> mother; she is your sister—and maybe your love
+                    but we hold ourselves too fine to follow His example in that! Love her,<pb
+                        n="59" xml:id="VAB7083-062"/> mother; she is your sister—and maybe your love
                     can heal her.’ Poor mother! she didn't like the task. She cried over it, and
                     said that I put a burden on her she could not bear; but I held to my point,”
                     said Joshua, with a glowing face; “and she yielded. Peggy stayed in our house
@@ -696,15 +754,16 @@
                     Having apparently made up their minds that Christianity, as taught by the
                     churches and practised in high places, is a humbug throughout, they seemed to
                     have stopped there, not caring to go farther, nor to find a truer and better
-                    religion for themselves. Distrust had penetrated to their inmost<pb n="61" xml:id="VAB7083-064"/> most souls, and God was abandoned
-                    because man had betrayed them. Some of the better class among them had become
-                    Unitarians; which gave them the most religion with the least dogma of all the
-                    sects that go by the name of Christian; and some had transferred their whole
-                    passion and life of thought and intellectual energy to science, finding that
-                    consolation in nature which they could not get from revelation. But very few
-                    were what is called religious men: that is, men believing in the Bible, going to
-                    church on Sundays, and reverencing the clergy as men placed over them by a
-                    higher power to guide their souls as they would.</p>
+                    religion for themselves. Distrust had penetrated to their inmost<pb n="61"
+                        xml:id="VAB7083-064"/> most souls, and God was abandoned because man had
+                    betrayed them. Some of the better class among them had become Unitarians; which
+                    gave them the most religion with the least dogma of all the sects that go by the
+                    name of Christian; and some had transferred their whole passion and life of
+                    thought and intellectual energy to science, finding that consolation in nature
+                    which they could not get from revelation. But very few were what is called
+                    religious men: that is, men believing in the Bible, going to church on Sundays,
+                    and reverencing the clergy as men placed over them by a higher power to guide
+                    their souls as they would.</p>
                 <p>The immense gulf existing between the church and the workmen also surprised the
                     Cornish lad. At home, though the cottagers and the clergy stood as wide as the
                         poles<pb n="62" xml:id="VAB7083-065"/> apart, socially and intellectually,
@@ -717,7 +776,8 @@
                     City missionaries, Baptists, Roman Catholics, and the thousand and one odd,
                     obscure sectaries of whom no one in good society ever heard the names—anything
                     rather than the fashionable preacher who has invested all his store of godliness
-                    in his sermons, or the beneficed clergyman who thinks his East-end<pb n="63" xml:id="VAB7083-066"/> income dearly bought at the price of his East-end
+                    in his sermons, or the beneficed clergyman who thinks his East-end<pb n="63"
+                        xml:id="VAB7083-066"/> income dearly bought at the price of his East-end
                     residence.</p>
                 <p>As he grew however, to understand the inner relations of life in the metropolis,
                     he ceased to wonder at the wide-spread indifferentism of the working men; and he
@@ -783,9 +843,9 @@
                 <p>“And you will fail,” said the Superior. “No one man can succeed in such a search
                     as yours. Guided by wise counsels and supported by authority you might come to
                     satisfactory conclusions; but adrift on the wide sea of dissent, and private
-                    opinion, and individual<pb n="69" xml:id="VAB7083-072"/> vidual interpretation, you are lost.
-                    To the Church came the promise and the Spirit; believe in the Church is your
-                    only ark.”</p>
+                    opinion, and individual<pb n="69" xml:id="VAB7083-072"/> vidual interpretation,
+                    you are lost. To the Church came the promise and the Spirit; believe in the
+                    Church is your only ark.”</p>
                 <p>“If any, then the Roman Catholic at once, frankly and without reserve,” said
                     Joshua. “If the keys of life and death are held by a governing body, they are
                     surely held within the Vatican; and if I must enter into the virtue of
@@ -793,7 +853,8 @@
                     ritualism seems to me like Canute and the waves. ‘Thus far and no farther,’ you
                     say to private inquiry; and ‘only so much and so much will we take of tradition
                     and the vitality of past ages.’ Where is your standing-point? where your logical
-                    foothold? By what authority do you reject and accept at will? and by what measure<pb n="70" xml:id="VAB7083-073"/> sure do you set the length of the
+                    foothold? By what authority do you reject and accept at will? and by what
+                        measure<pb n="70" xml:id="VAB7083-073"/> sure do you set the length of the
                     tether of reason?”</p>
                 <p>“If you are for the whole history of the Church you must read more closely than
                     you have done,” said the Superior a little evasively.</p>
@@ -813,8 +874,10 @@
                     find you.”</p>
                 <p>“I have used them; I do use them; and yet I cannot get conviction,” Joshua made
                     answer, as sorrowfully as frankly.</p>
-                <p>“Persevere!” said the Superior solemnly; “the promises of God never failed yet.”</p>
-                <p>Joshua did not speak. He remembered his trial of the material promises and how<pb n="72" xml:id="VAB7083-075"/> they failed; but he did not go into that with
+                <p>“Persevere!” said the Superior solemnly; “the promises of God never failed
+                    yet.”</p>
+                <p>Joshua did not speak. He remembered his trial of the material promises and how<pb
+                        n="72" xml:id="VAB7083-075"/> they failed; but he did not go into that with
                     the Superior. He had learnt to look back on the phase through which he had
                     passed then as a boyish craze, sincere if you will, but a craze all the same.
                     Yet it had struck into him, and, perhaps unknown to himself how much, had helped
@@ -835,7 +898,8 @@
                     its martyrs and enthusiasts and its well-trained, well-balanced professors, all
                     as firmly convinced of its truth and of its being the one truth only, as the
                     Superior is convinced of the absolute rightness of Anglicanism, as the Pope
-                    believes in the infallibility of his Church, and the whole Christian world in<pb n="74" xml:id="VAB7083-077"/> the impregnability of the Bible and its
+                    believes in the infallibility of his Church, and the whole Christian world in<pb
+                        n="74" xml:id="VAB7083-077"/> the impregnability of the Bible and its
                     literal exactness. I cannot focus God as these men are able to do; and yet I
                     feel it better to be rooted than wandering, as I am wandering now, unfixed and
                     unnourished. If you are rooted you can grow; but floating, hovering, what is the
@@ -866,7 +930,8 @@
                     God punishes you for not having what He will not bestow. Again, you have to
                     distinguish between your various kinds of faith, and you must discern accurately
                     which kind is sent by God and which by the devil. No outward test can tell you:
-                    for the Calvinist holds the Romanist in deadly error; the Romanist damns<pb n="77" xml:id="VAB7083-080"/> the heretic with no hope of mercy; the
+                    for the Calvinist holds the Romanist in deadly error; the Romanist damns<pb
+                        n="77" xml:id="VAB7083-080"/> the heretic with no hope of mercy; the
                     Anglican talks about the deadly sin of dissent; and not one of them all regards
                     the Unitarian, the Jew, or the Pagan, as in any sort of possibility a child of
                     God, or as aught but a confirmed, if unconscious, son of the devil. What known
@@ -876,7 +941,8 @@
                     grandeur and charity he felt resided in the wide creed of Universalism.</p>
                 <p>During this time he did not neglect what I suppose may be called secular life. He
                     attended all such science-classes as he had time for; and being naturally quick
-                    in study, he picked up a vast deal of knowledge in a<pb n="78" xml:id="VAB7083-081"/> very short time; he interested himself in politics,
+                    in study, he picked up a vast deal of knowledge in a<pb n="78"
+                        xml:id="VAB7083-081"/> very short time; he interested himself in politics,
                     in current social questions, specially those relating to labour and capital, and
                     in the condition of the poor. This, above all, was his main subject; and perhaps
                     more than any thing else, the fact that all the sects and denominations he had
@@ -907,7 +973,8 @@
                     proclaiming the spiritual equality of all men, and the greater value of worth
                     than status; but He left the social question where he found it—paying tribute
                     even to Cæsar without reluctance—His mind not being ripe to accept the idea of a
-                    radical revolution, and His hands not strong enough to accomplish it, if even<pb n="81" xml:id="VAB7083-084"/> He had imagined it. But neither He nor His
+                    radical revolution, and His hands not strong enough to accomplish it, if even<pb
+                        n="81" xml:id="VAB7083-084"/> He had imagined it. But neither He nor His
                     disciples imagined more than the communism of their own sect; they did not touch
                     the throne of Cæsar, or the power of the hereditary irresponsible Lord. Their
                     communism never aimed at the equalization of classes throughout all society.
@@ -917,7 +984,8 @@
                     would not try to make the poor contented with a lot in which they cannot be much
                     better than savages or brutes. He would work at the destruction of caste, which
                     is the vice at the root of all our creeds and institutions. He would not content
-                    himself with denouncing sin as merely spiritual evil; he<pb n="82" xml:id="VAB7083-085"/> would go into its economic causes, and destroy the
+                    himself with denouncing sin as merely spiritual evil; he<pb n="82"
+                        xml:id="VAB7083-085"/> would go into its economic causes, and destroy the
                     flower by cutting at the roots—poverty and ignorance. He would accept the truths
                     of science, and he would teach that a man saves his own soul best by helping his
                     neighbour. That, indeed, He did teach; and that is the one solid foothold I
@@ -927,7 +995,8 @@
                     themselves are only experimental, and that no laws are divine—that is, absolute
                     and unchangeable by circumstance. It is the doctrine of evolution, of growth;
                     and just as Christ was the starting-point of a new era of theological thought,
-                    so is the present the starting-point of a new era of social fact.<pb n="83" xml:id="VAB7083-086"/> Let us then strip our Christianity of all the
+                    so is the present the starting-point of a new era of social fact.<pb n="83"
+                        xml:id="VAB7083-086"/> Let us then strip our Christianity of all the
                     mythology, the fetichism that has grown about it. Let us abandon the idolatry
                     with which we have obscured the meaning of the Life; let us go back to the MAN,
                     and carry on His work in its essential spirit in the direction suited to our
@@ -937,10 +1006,11 @@
                     life of prayer and faith; as a man, I have come out into the upper air of
                     action; into the understanding that Christianity is not a creed as dogmatised by
                     churches, but an organization having politics for its means and the equalization
-                    of classes as its end. It is Communism. Friends! the doctrine<pb n="84" xml:id="VAB7083-087"/> trine I have chosen for myself is
-                    Christian Communism—and my aim will be, the Life after Christ in the service of
-                    humanity, without distinction of persons or morals. The Man Jesus is my master,
-                    and by His example I will walk.”</p>
+                    of classes as its end. It is Communism. Friends! the doctrine<pb n="84"
+                        xml:id="VAB7083-087"/> trine I have chosen for myself is Christian
+                    Communism—and my aim will be, the Life after Christ in the service of humanity,
+                    without distinction of persons or morals. The Man Jesus is my master, and by His
+                    example I will walk.”</p>
             </div>
             <div type="chapter">
                 <pb n="85" xml:id="VAB7083-088"/>
@@ -951,7 +1021,8 @@
                     and exaggeration of the time in which it was written; next, the authority of the
                     Church with its increment of symbolism and tradition, by which the Humanity of
                     Jesus is resolved into a mystical Appearance of Divinity, and his Life made no
-                    longer an example for men to follow but a dogma to<pb n="86" xml:id="VAB7083-089"/> be worshipped under emblems; and now the frank
+                    longer an example for men to follow but a dogma to<pb n="86"
+                        xml:id="VAB7083-089"/> be worshipped under emblems; and now the frank
                     acceptance of that Humanity alone, of the Man as a teacher, and of the Life as
                     an example to be faithfully followed; more especially in its tenderness to
                     sinners and its brotherhood with the poor and outcast. It was an abandonment of
@@ -1004,7 +1075,8 @@
                     not to speak of the religion, which contents itself with building churches, and
                     endowing foreign and colonial bishoprics, while its own immortal souls perish
                     for lack of the Bread of Life squandered in baskets full on the altars to Baal!
-                    Where to find the issue? How to fill up the great chasm between the<pb n="91" xml:id="VAB7083-094"/> rich and the poor, the virtuous and the vicious, the
+                    Where to find the issue? How to fill up the great chasm between the<pb n="91"
+                        xml:id="VAB7083-094"/> rich and the poor, the virtuous and the vicious, the
                     learned and the ignorant, the civilised and the brutish?</p>
                 <p>“There is only one way out of it,” said a noted M.P. to Joshua one day, a great
                     political economist and a strict Malthusian: “abstinence; if you wish to see the
@@ -1025,7 +1097,8 @@
                     speak of a Christian one, if Christianity meant anything—ought there to be such
                     places as Belgrave-square and Church-court. Keep your Belgrave-square by all
                     means, but let the Church-courts be made at least wholesome and decent.”</p>
-                <p>“You have the remedy in your own hands,” said the M.P. “So long as you<pb n="93" xml:id="VAB7083-096"/> will marry on nothing, spend all you get, and breed
+                <p>“You have the remedy in your own hands,” said the M.P. “So long as you<pb n="93"
+                        xml:id="VAB7083-096"/> will marry on nothing, spend all you get, and breed
                     paupers, paupers you must remain, wallowing in filth and wretchedness. The whole
                     question is as much a matter of exact science as any other mathematical problem;
                     and you are to blame, Davidson, that you do not abandon your foolish rant about
@@ -1069,7 +1142,8 @@
                     trouble and stow away swag not honestly come by till the police scent grew cold,
                     to the decent workman doing his best to be respectable, and to keep his girls
                     pure and his boys honest; from the hard working-woman slaving night and day to
-                    make her two poor ends meet, to the idle slattern who was drunk<pb n="97" xml:id="VAB7083-100"/> half her time, and begged in the streets the other
+                    make her two poor ends meet, to the idle slattern who was drunk<pb n="97"
+                        xml:id="VAB7083-100"/> half her time, and begged in the streets the other
                     half; from the fond mother with her pretty pride in Sunday frocks or bits of
                     coloured bows, to the husbandless wench whose half-starved children, as naked as
                     crows and nearly as black, were knocked about as if they were street dogs, and
@@ -1079,11 +1153,12 @@
                     the like by prostitution, more or less avowed.</p>
                 <p>One of these girls lived just opposite to us. Her name was Mary Prinsep. He had
                     seen her at a music-hall we went to by times: for Joshua was not one of those
-                    prudes who are afraid of appearances<pb n="98" xml:id="VAB7083-101"/> pearances, and as he wanted to learn
-                    the world on all sides he went to all sorts of places and talked to all sorts of
-                    people—to these poor girls, as well as to any one else, and just as he would to
-                    any one else; seeking to know the causes of things, and why they went on to the
-                    streets, and if they would keep out of them if they could, and so on.</p>
+                    prudes who are afraid of appearances<pb n="98" xml:id="VAB7083-101"/> pearances,
+                    and as he wanted to learn the world on all sides he went to all sorts of places
+                    and talked to all sorts of people—to these poor girls, as well as to any one
+                    else, and just as he would to any one else; seeking to know the causes of
+                    things, and why they went on to the streets, and if they would keep out of them
+                    if they could, and so on.</p>
                 <p>Any one who knows anything about us working men as we are and not by fancy
                     portraits, knows the profound contempt, and more, in which as a class we hold
                     the professed prostitute, or the woman of our own homes who lets herself be
@@ -1111,7 +1186,8 @@
                     she did not drink—at least not much—they all drink some; and she had never been
                     in trouble or locked up. She was merely one of the abandoned—abandoned by
                     society from her birth, and left to sink or swim in the foul streams of the
-                    metropolis as she best could. She had been picked up by a gentleman a<pb n="101" xml:id="VAB7083-104"/> few years ago when she was about fifteen; and he had
+                    metropolis as she best could. She had been picked up by a gentleman a<pb n="101"
+                        xml:id="VAB7083-104"/> few years ago when she was about fifteen; and he had
                     taught her a good deal both of refinement and womanly ways. She had been
                     grateful to him at the time, but she scarcely loved him. He was older than
                     herself; in fact, an old man comparatively; married, with grown-up daughters and
@@ -1165,7 +1241,8 @@
                     kind and playful, and no more brutal than most men are to most woman outside the
                     artificial restraints of society. Sometimes, of course, they are vile enough;
                     but these are the men who would be brutal to their own lady-wives and daughters.
-                    So that the poor Girls, as they call themselves, are not<pb n="106" xml:id="VAB7083-109"/> quite shut out from all human sympathy like the
+                    So that the poor Girls, as they call themselves, are not<pb n="106"
+                        xml:id="VAB7083-109"/> quite shut out from all human sympathy like the
                     lepers of old—though indeed the circle is terribly narrowed! And though many of
                     them have fits of self-loathing and regret, others take matters more coolly, and
                     look on their profession as a legitimate trade, as lawful as a publican's who
@@ -1229,7 +1306,8 @@
                     he was out now on a ticket-of-leave, and fast going the way to get it cancelled,
                     with a new score to the back of it. Respectability and the police were bent on
                     elbowing poor Joe into the mire, which was only too much his natural element. He
-                    had been crotch deep in the mud from the earliest; a gutter child, in whose<pb n="112" xml:id="VAB7083-115"/> very blood ran the hereditary taint; a thief,
+                    had been crotch deep in the mud from the earliest; a gutter child, in whose<pb
+                        n="112" xml:id="VAB7083-115"/> very blood ran the hereditary taint; a thief,
                     the son of thieves, the grandson of thieves; a thing of mud from head to heel,
                     inside and out; dirty, dissipated, shiftless, and with no more moral principle
                     in him than he had of education. His only morality indeed, was his cleverness in
@@ -1285,7 +1363,8 @@
                     promised.</p>
                 <p>And Mary, looking up into his face with a look that made her like an angel—for
                     indeed she was a pretty girl!—said, “If I have to starve, Joshua, I'll never go
-                    back to the streets again!” and poor Joe, first<pb n="117" xml:id="VAB7083-120"/> laughing, and then sobbing like a woman, said, “You'd have done better to
+                    back to the streets again!” and poor Joe, first<pb n="117" xml:id="VAB7083-120"
+                    /> laughing, and then sobbing like a woman, said, “You'd have done better to
                     have left me to my little game, governor! I've brought you bad luck, you see;
                     and I'm no good, you see, when you've done your best!”</p>
                 <p>“Don't carry on like that, Joe,” said Joshua. “I shall have done something, if I
@@ -1316,7 +1395,8 @@
                     food—Joshua received a letter enclosing a five-pound note, “from a friend.” We
                     never knew where it came from, and there was no clue by which we could guess. It
                     was very certain that neither had Mary earned it in the old way, nor had Joe
-                    stolen it; but who sent it remained for ever a mystery. I always thought<pb n="120" xml:id="VAB7083-123"/> that Mary had had a hand in it, and I think
+                    stolen it; but who sent it remained for ever a mystery. I always thought<pb
+                        n="120" xml:id="VAB7083-123"/> that Mary had had a hand in it, and I think
                     so to this day. I believe, though I don't know, that she borrowed it of an
                     artist to whom she went to sit for a model; for she did not make any secret of
                     this; and that she paid it back honestly when we were in funds again. However
@@ -1369,7 +1449,8 @@
                     machinery at hand for him. Had he been a broken-down, sober, honest, and
                     industrious chap, who had failed through sickness or any blameless misfortune,
                     he would then have given him a lift willingly; but a man who had slipped into
-                    the dark ways of crime, who had got into houses at dead of night with a crowbar<pb n="125" xml:id="VAB7083-128"/> bar and a jimmy—he shook his head,
+                    the dark ways of crime, who had got into houses at dead of night with a
+                        crowbar<pb n="125" xml:id="VAB7083-128"/> bar and a jimmy—he shook his head,
                     and said he did not like to have anything to do with him. It was offering a
                     premium to vice to take trouble to place this unsatisfactory waif and stray,
                     when hundreds of honest men, who had never gone wrong, were perishing for want
@@ -1390,7 +1471,8 @@
                 <p>“I have to find that out yet,” said Joshua. “Then you will not help me with poor
                     Joe?”</p>
                 <p>“Do not say I will not—I cannot,” said Mr. C. “How can I ask my poor, honest
-                    pensioners, or my respectable workmen, to receive a convicted thief among them?”</p>
+                    pensioners, or my respectable workmen, to receive a convicted thief among
+                    them?”</p>
                 <p>“‘And forgive us our trespasses, as we<pb n="127" xml:id="VAB7083-130"/> forgive
                     them that trespass against us.’ Does that mean only petty, personal affronts,
                     sir, or does it mean trespass against our patience, our hope, our faith, our
@@ -1401,10 +1483,12 @@
                 <p>“Christ lodged in the house of Simon the leper. Mary Magdalene loved Him, and He
                     her. I want no other example, sir. What the Master did, His followers and
                     disciples may imitate!”</p>
-                <p>“You are an enthusiast,” said Mr. C. just as the M.P. had said before him, and<pb n="128" xml:id="VAB7083-131"/> both meant that enthusiasm was ridiculous;
+                <p>“You are an enthusiast,” said Mr. C. just as the M.P. had said before him, and<pb
+                        n="128" xml:id="VAB7083-131"/> both meant that enthusiasm was ridiculous;
                     “and some day these fine theories of yours will come to a cruel downfall. You
                     will be harbouring some ruffian who will turn against you, and perhaps cut your
-                    throat for your pains. I tell you I know these people—they are incorrigible.”</p>
+                    throat for your pains. I tell you I know these people—they are
+                    incorrigible.”</p>
                 <p>“Then what would you do with them, Mr. C.?”</p>
                 <p>“You can do nothing with them!” he answered.</p>
                 <p>“But they cannot be let to starve,” said Joshua earnestly.</p>
@@ -1415,7 +1499,8 @@
                     countenance them in any way. Believe me, your universal charity is the most
                     disastrous line you could adopt.”</p>
                 <p>“Then Christ was wrong,” said Joshua: “and so we have come round to our
-                    starting-point again. So this is decided—you will not give Joe Traill a trial?”</p>
+                    starting-point again. So this is decided—you will not give Joe Traill a
+                    trial?”</p>
                 <p>“No; I would rather not have anything to do with him,” said Mr. C., who had
                     talked himself cross and determined. “I should never be easy with the fellow. I
                     have no fancy for burglars, and I don't believe in their reformation. All my men
@@ -1443,7 +1528,8 @@
                     gaining an honest living,” said Joshua.</p>
                 <p>“You are a rank materialist, Davidson!” said Mr. C. “I cannot stand your
                     referring sin to mere social conditions. Are there no such things as sins in
-                    high places? Poverty and ignorance are not the only roots of human wickedness!”</p>
+                    high places? Poverty and ignorance are not the only roots of human
+                    wickedness!”</p>
                 <pb n="132" xml:id="VAB7083-135"/>
                 <p>“About the strongest though,” Joshua answered.</p>
                 <p>“And the sins of luxury—”</p>
@@ -1498,7 +1584,8 @@
                     should corrupt the younger ones; and then the repute of their house—the duty
                     they owed their neighbours to keep up a stainless appearance. No, there could be
                     no home for her there; but the lady sent a note, full of that half-censorious
-                    advice a virtuous woman knows so well how to administer to her fallen<pb n="137" xml:id="VAB7083-140"/> sisters—a parcel of tracts (Mary could not read), and
+                    advice a virtuous woman knows so well how to administer to her fallen<pb n="137"
+                        xml:id="VAB7083-140"/> sisters—a parcel of tracts (Mary could not read), and
                     a renewal of her husband's offer to get her in the — Street Reformatory. After
                     which perhaps some kind Christian person would be found to take her, she said,
                     endorsed as she would then be by the Lady Superintendent of the establishment.
@@ -1550,7 +1637,8 @@
                     preaching the doctrine of the Atonement, and Purification by the blood of Jesus,
                     he would have had all the evangelical force at his back, pivoted as they are on
                     the same hub, whatever their special denomination. Had he been a Ritualist,
-                    working under organised authority, he would have then been a pipe, so<pb n="142" xml:id="VAB7083-145"/> to speak, through which flowed the power of the
+                    working under organised authority, he would have then been a pipe, so<pb n="142"
+                        xml:id="VAB7083-145"/> to speak, through which flowed the power of the
                     Church; and this much more had he been a Roman Catholic, and of any Order. Had
                     he been a Unitarian, a stickler for respectability and that the poor he relieved
                     should be deserving, like Mr. C. and the charity-organisation people; or a
@@ -1583,9 +1671,10 @@
                     get for themselves by combination.</p>
                 <p>So Joshua turned to class-organisation as something more hopeful than private
                     charity. But do not let me be misunderstood: he gave up nothing of his own
-                    personal doings among the poor, and never wearied nor relaxed<pb n="145" xml:id="VAB7083-148"/> laxed. If he looked to organisation
-                    as the framework, he did not disdain charity as the enrichment, in the plan of
-                    social amelioration.</p>
+                    personal doings among the poor, and never wearied nor relaxed<pb n="145"
+                        xml:id="VAB7083-148"/> laxed. If he looked to organisation as the framework,
+                    he did not disdain charity as the enrichment, in the plan of social
+                    amelioration.</p>
                 <p>When the International Working Men's Association was formed, he joined it as one
                     of its first members; indeed he mainly helped to establish it. It had been one
                     of his articles of belief long before any one else had spoken, that the time had
@@ -1604,18 +1693,20 @@
                 <p>The middle classes laugh at the artisan's desire to rise in the world, and speak
                     of his close combinations as traitorous and rebellious to the existing order of
                     things. Some think it an irreligious contempt of a caste-Providence; forgetting
-                    that their own order was made by the same determination<pb n="147" xml:id="VAB7083-150"/> termination, and that the
-                    recognition of the merchant class, and its reception on anything like terms of
-                    equality, was forced from the nobles by men who had at heart the great truth of
-                    human equality and human rights; at least, down to that part of the social page
-                    where their own names stood. Below that paragraph where the artisan, the
-                        <foreign xml:lang="fre">prolétaire</foreign>, is to be found, society has as
-                    yet drawn a line not to be overpassed. Demand rights and recognition for working
-                    men, and even the Liberal press gives forth an uncertain sound, and the bugbear
-                    of “Jack Cade” scares such stout hearts as the <title>Pall Mall</title> and the
+                    that their own order was made by the same determination<pb n="147"
+                        xml:id="VAB7083-150"/> termination, and that the recognition of the merchant
+                    class, and its reception on anything like terms of equality, was forced from the
+                    nobles by men who had at heart the great truth of human equality and human
+                    rights; at least, down to that part of the social page where their own names
+                    stood. Below that paragraph where the artisan, the <foreign xml:lang="fre"
+                        >prolétaire</foreign>, is to be found, society has as yet drawn a line not
+                    to be overpassed. Demand rights and recognition for working men, and even the
+                    Liberal press gives forth an uncertain sound, and the bugbear of “Jack Cade”
+                    scares such stout hearts as the <title>Pall Mall</title> and the
                         <title>Spectator</title>. Even they, kings of liberal thought as they are in
                     so many ways, will not see that the modern artisan stands in the same relation
-                    to capital as that in which the ancient serf stood to<pb n="148" xml:id="VAB7083-151"/> the land. The serf tilled the land, which was his
+                    to capital as that in which the ancient serf stood to<pb n="148"
+                        xml:id="VAB7083-151"/> the land. The serf tilled the land, which was his
                     master's, for his master. If he could get for himself a living about as good as
                     that of the hogs he forested, he had all that was considered necessary for a
                     serf. And the artisan represents the serf of olden days, while capital is the
@@ -1625,17 +1716,19 @@
                     them in efficient working order—or not that, if the labour market is so thronged
                     that he can replace without trouble those who fall out. His “hands” are the mere
                     parts of his machinery. The sum of them work to a certain result; but he is
-                    indifferent whether the work is done with sorrow and insufficiency<pb n="149" xml:id="VAB7083-152"/> ciency to the individual or not. His
-                    sole business is to see that the sum get through their labours creditably—to the
-                    firm. It is good that the work of the world should be done at all costs, even by
-                    compulsory labour if need be; but it is better that it should be done by men
-                    regarded as men, individual, and having inalienable rights, rather than as so
-                    many portions of a vitalised mechanism. And a fair and proportionate share in
-                    the profits of the business is part of the rights of the labourer.</p>
+                    indifferent whether the work is done with sorrow and insufficiency<pb n="149"
+                        xml:id="VAB7083-152"/> ciency to the individual or not. His sole business is
+                    to see that the sum get through their labours creditably—to the firm. It is good
+                    that the work of the world should be done at all costs, even by compulsory
+                    labour if need be; but it is better that it should be done by men regarded as
+                    men, individual, and having inalienable rights, rather than as so many portions
+                    of a vitalised mechanism. And a fair and proportionate share in the profits of
+                    the business is part of the rights of the labourer.</p>
                 <p>I am speaking now as if of myself; but I am only repeating what I have heard my
                     friend say scores of times.</p>
                 <p>Of course Joshua was an earnest Republican. Who that thinks for himself can fail
-                    to be one? Not that he would have put aside the reigning sovereign by force,<pb n="150" xml:id="VAB7083-153"/> but he held that the times were ripening for
+                    to be one? Not that he would have put aside the reigning sovereign by force,<pb
+                        n="150" xml:id="VAB7083-153"/> but he held that the times were ripening for
                     the old monarchical symbol and aristocratic exclusiveness to disappear now that
                     the reality had gone; and that the Republic would come about of itself, thanks,
                     in great part, to the monarch who has shown the people that royalty can be
@@ -1645,7 +1738,8 @@
                     rave and vilify, and accuse all the higher classes of wilful misdoing, of vice
                     and selfishness, and what not. He never abused anybody, but judged things by
                     their merits, and gave to the professors of any doctrine, no matter what, at
-                    least the credit of sincerity. By which he made<pb n="151" xml:id="VAB7083-154"/> many enemies, and was constantly accused of lukewarmness to the cause, and of
+                    least the credit of sincerity. By which he made<pb n="151" xml:id="VAB7083-154"
+                    /> many enemies, and was constantly accused of lukewarmness to the cause, and of
                     looking two ways at once.</p>
                 <p>“You cannot beat me off my point,” he used to say, when he had put into an uproar
                     a little inner and anonymous society which some few of us had formed together,
@@ -1678,26 +1772,29 @@
                 <p>From his position in the International, and in other political societies—which
                     abound among the working men more than the careless upper ten have the least
                     idea of—Joshua was thrown into intimate relations with a great many men, more or
-                    less notorious<pb n="154" xml:id="VAB7083-157"/> torious. He saw all sorts—the frothy
-                    ranter whose motive power was vanity; the reckless agitator whose conscience was
-                    obscured, and, so long as there was something stirring, cared nothing what
-                    stirred or who suffered; the bilious antagonist to all men superior to himself,
-                    and who would pull down those above to his own level but never raise up to it
-                    those who lay below; the honest patriot willing to sink all minor differences in
-                    the one great aim, and ready to sacrifice himself for the good of his cause and
-                    class, but blind as a beetle as to the best methods: he saw them all, and he
-                    accepted all with that broad human love, that large and liberal allowance of
-                    differences, which made the charm of his character.</p>
-                <p>“They are good elements,” he used to say, “badly mixed. Does not some one say<pb n="155" xml:id="VAB7083-158"/> that dirt is only matter in the wrong place?
+                    less notorious<pb n="154" xml:id="VAB7083-157"/> torious. He saw all sorts—the
+                    frothy ranter whose motive power was vanity; the reckless agitator whose
+                    conscience was obscured, and, so long as there was something stirring, cared
+                    nothing what stirred or who suffered; the bilious antagonist to all men superior
+                    to himself, and who would pull down those above to his own level but never raise
+                    up to it those who lay below; the honest patriot willing to sink all minor
+                    differences in the one great aim, and ready to sacrifice himself for the good of
+                    his cause and class, but blind as a beetle as to the best methods: he saw them
+                    all, and he accepted all with that broad human love, that large and liberal
+                    allowance of differences, which made the charm of his character.</p>
+                <p>“They are good elements,” he used to say, “badly mixed. Does not some one say<pb
+                        n="155" xml:id="VAB7083-158"/> that dirt is only matter in the wrong place?
                     So these men as leaders would be pernicious enough, but a wise administration
-                    could utilise them. When Fourier could find an economic value in the <foreign xml:lang="fre">diablotin</foreign>, we need not fear for any one.”</p>
+                    could utilise them. When Fourier could find an economic value in the <foreign
+                        xml:lang="fre">diablotin</foreign>, we need not fear for any one.”</p>
                 <p>It was on this point that Joshua and the chief man of the London branch split. He
                     was a purist, and gave his mind to tares. But Joshua thought more of the wheat,
                     and believed in the larger power of good than of evil. He opposed all that
                     narrow partisanship which goes only in one groove, and said, as the skilled
                     workmen have lately said, that he would work with any one, no matter what his
                     rank or politics, who would aid him and his order in securing the essentials for
-                    knowledge and decency of living. The more rabid and ultra of the politicians<pb n="156" xml:id="VAB7083-159"/> attacked him, as he had been attacked in the
+                    knowledge and decency of living. The more rabid and ultra of the politicians<pb
+                        n="156" xml:id="VAB7083-159"/> attacked him, as he had been attacked in the
                     other society; but he held on in his own broad, generous way. And though he
                     never got the ear of the International, because he was so truly liberal, he had
                     some little influence; and what influence he had ennobled their councils as they
@@ -1707,7 +1804,8 @@
                     to think all questions best argued from their principles, and the men who either
                     support or oppose them left out in the shade. Men don't wilfully uphold the
                     thing they know to be had. Take the stiffest Conservative of them all—the man
-                    who believes in the divine ordination of caste, and the absolute need<pb n="157" xml:id="VAB7083-160"/> of preserving the fetichism of society as it is, even
+                    who believes in the divine ordination of caste, and the absolute need<pb n="157"
+                        xml:id="VAB7083-160"/> of preserving the fetichism of society as it is, even
                     though, like Juggernaut, the great car of gentility crushes the whole working
                     class beneath it—he may be, and is, sorry for the individuals; but he maintains
                     the existing order conscientiously. And to blackguard him, and call him
@@ -1788,7 +1886,8 @@
                     while the men slunk together as it were, and most of them said a few rough words
                     of praise, which, well meant as they were, sounded very far amiss at such a
                     time. And then the police, attracted by the tumult, came up into the room; and,
-                    glad of an opportunity they had been looking for—after having been<pb n="165" xml:id="VAB7083-168"/> knocked about a good deal, for all that Joshua and I
+                    glad of an opportunity they had been looking for—after having been<pb n="165"
+                        xml:id="VAB7083-168"/> knocked about a good deal, for all that Joshua and I
                     did our best to protect them—marched us both off to the station-house where we
                     were locked up for the night, no bail being at hand.</p>
                 <p>The magistrate understood nothing of Joshua's defence next day, when he made it,
@@ -1832,7 +1931,8 @@
                     results of former poverty and vice, granted—so far at peace with the law as to
                     die out of jail, and repeating softly, “God bless me and forgive me!”</p>
                 <p>These backslidings and failures were among the greatest difficulties of Joshua's
-                    work. Men and women, whom he had thought he had<pb n="169" xml:id="VAB7083-172"/> cleansed and set on a wholesome way of living, turned back again to the drink
+                    work. Men and women, whom he had thought he had<pb n="169" xml:id="VAB7083-172"
+                    /> cleansed and set on a wholesome way of living, turned back again to the drink
                     and the devilry of their lives. Excitement had become all in all to them; the
                     monotony of virtue tired them, and they broke out into evil as a relief. But,
                     fail as often and as badly as they might, they never chilled Joshua's heart, if
@@ -1853,11 +1953,11 @@
                     consecrated to the task; the Unititarians asked him, in calm disdain, how he
                     could expect to do good, if he made no difference between vice and virtue but
                     treated both alike? while the Charity Organization people talked of prosecuting
-                    him for his encouragement of mendicity<pb n="171" xml:id="VAB7083-174"/> dicity, and spoke of him as the pest
-                    of the district and the cause of half the pauperism about, because he helped the
-                    poor in their need without enquiring into the merits of the case. And they all
-                    agreed that the weak spot in his system, and the cause of his failures, was just
-                    this—he was not a Christian.</p>
+                    him for his encouragement of mendicity<pb n="171" xml:id="VAB7083-174"/> dicity,
+                    and spoke of him as the pest of the district and the cause of half the pauperism
+                    about, because he helped the poor in their need without enquiring into the
+                    merits of the case. And they all agreed that the weak spot in his system, and
+                    the cause of his failures, was just this—he was not a Christian.</p>
                 <p>In the midst of all Mary Prinsep came back on our hands. You may perhaps remember
                     that her mistress had made a point of concealing her former life from every one;
                     in which she was justified, and for Mary's sake as much as for her own. Things
@@ -1875,21 +1975,22 @@
                     a claim, or telling what she knew. There he was, a guest in her master's house,
                     with his wife and eldest daughter, and under his own name which she had never
                     known, and his private and official addresses both to be got at. It was an
-                    instinct of self-preservation<pb n="173" xml:id="VAB7083-176"/> tion, no doubt; but it was cowardly
-                    all the same; and, as usual, the weak one had to go to the wall. He made up an
-                    excellent story to explain how it was that he knew the girl's former life. It
-                    was a story to his credit as a Christian gentleman somehow, and he told it out
-                    of sheer regard for his good friends who had been so shamefully imposed on. And
-                    even when the lady confessed, as she did, that she had known the main fact of
-                    Mary's history, she was urged so strongly to get rid of her that she consented,
-                    partly in a vague kind of belief that she had been imposed on and that Mary was
-                    worse than she appeared and capable of all manners of unknown crimes, partly by
-                    the force of respectability and the need of keeping up blameless appearances.
-                    So, as the right thing to do considering her position and<pb n="174" xml:id="VAB7083-177"/> what she owed her family and her own character, this
-                    lady—good Christian as she was, going to church regularly twice on Sunday, and
-                    taking the sacrament once a month—turned the poor creature out of doors again
-                    and she, keeping the gentleman's secret loyally, came back to us, as the only
-                    friends she had.</p>
+                    instinct of self-preservation<pb n="173" xml:id="VAB7083-176"/> tion, no doubt;
+                    but it was cowardly all the same; and, as usual, the weak one had to go to the
+                    wall. He made up an excellent story to explain how it was that he knew the
+                    girl's former life. It was a story to his credit as a Christian gentleman
+                    somehow, and he told it out of sheer regard for his good friends who had been so
+                    shamefully imposed on. And even when the lady confessed, as she did, that she
+                    had known the main fact of Mary's history, she was urged so strongly to get rid
+                    of her that she consented, partly in a vague kind of belief that she had been
+                    imposed on and that Mary was worse than she appeared and capable of all manners
+                    of unknown crimes, partly by the force of respectability and the need of keeping
+                    up blameless appearances. So, as the right thing to do considering her position
+                        and<pb n="174" xml:id="VAB7083-177"/> what she owed her family and her own
+                    character, this lady—good Christian as she was, going to church regularly twice
+                    on Sunday, and taking the sacrament once a month—turned the poor creature out of
+                    doors again and she, keeping the gentleman's secret loyally, came back to us, as
+                    the only friends she had.</p>
                 <p>She was something different to us from any other girl that Joshua had been the
                     means of rescuing, and we both felt that she had a stronger claim somehow, on
                     our exertions and affections. Other women came and went, and Joshua helped them
@@ -1918,7 +2019,8 @@
                 <p>“Courage, Mary, and patience,” said Joshua.</p>
                 <p>“Yes, I know all that; but the ways and means?” said Mary, raising her eyes to
                     him. “What can I do, Joshua? To get my bread any way but the old way I must
-                    creep into a house under false pretences, and then be<pb n="177" xml:id="VAB7083-180"/> always afraid of being found out; and if I am found
+                    creep into a house under false pretences, and then be<pb n="177"
+                        xml:id="VAB7083-180"/> always afraid of being found out; and if I am found
                     out I am sure to be turned off. No one will have me who knows about me, if I
                     work ever so hard, or try to do my duty ever so faithfully.”</p>
                 <p>“One failure is not final,” said Joshua. “While we have a home, you have one too;
@@ -1938,7 +2040,8 @@
                     helpful. People talked, of course; but then people talk about anything, reason
                     or none, that is out of the common by ever so small a line; and no man who has
                     taken an independent path can escape the comment of the crowd accustomed to only
-                    one way. The old report that we were living with a woman of bad<pb n="179" xml:id="VAB7083-182"/> character crept about again, and got down to our dear
+                    one way. The old report that we were living with a woman of bad<pb n="179"
+                        xml:id="VAB7083-182"/> character crept about again, and got down to our dear
                     Cornish homes. You may be sure it made our mothers bad enough when they heard
                     it; but I don't think they quite believed it, though they thought it right to
                     send us a warning, as if they did; and if they did, then they believed what was
@@ -1968,7 +2071,8 @@
                     provincial accent, and dressed in fustian and coarse clothes—yet he was fit to
                     take his place with the finest gentleman in the land; and even the finest lady
                     would have found but little in him to ridicule and much to respect. And I will
-                    do both Lord and Lady X. the credit of sincerity in<pb n="182" xml:id="VAB7083-185"/> the beginning, when, as I said, the friendship
+                    do both Lord and Lady X. the credit of sincerity in<pb n="182"
+                        xml:id="VAB7083-185"/> the beginning, when, as I said, the friendship
                     between him and them was struck up.</p>
                 <p>Then it must be remembered, that Joshua was one of the handsomest men you could
                     see in a long summer's day; a real man; no sickly, effeminate, half-woman, but a
@@ -2050,14 +2154,16 @@
                 <p>“I do not agree with you, my lord. I<pb n="189" xml:id="VAB7083-192"/> believe
                     that more harm has been done by condemnation than ever would come through
                     tolerance. By love alone can the world be saved.”</p>
-                <p>“Love? Rubbish!” said Lord X. “The laws must be obeyed, and society supported.”</p>
+                <p>“Love? Rubbish!” said Lord X. “The laws must be obeyed, and society
+                    supported.”</p>
                 <p>“Only in so far as it is just,” put in Joshua.</p>
                 <p>“If by just you mean equality, pardon me if I say that you talk nonsense,” said
                     Lord X. “You might as well say, that nature is unjust, because a grove of oaks
                     needs more space than a row of turnips, as that man is to blame because he has
                     lifted himself into classes of which the superiors have more than the inferiors.
                     If it had not been for this injustice, as you call it, we should never have had
-                    a superior class at all, and the world would have gone on<pb n="190" xml:id="VAB7083-193"/> for ever in one dead level of mediocrity, where no
+                    a superior class at all, and the world would have gone on<pb n="190"
+                        xml:id="VAB7083-193"/> for ever in one dead level of mediocrity, where no
                     one shone, and no one was obscured.”</p>
                 <p>“Granted,” said Joshua. “But you having developed into stars and suns, what we
                     want is, that you should help the poor dark spheres on the same way.”</p>
@@ -2079,7 +2185,8 @@
                     honestly, he felt it would have been ungenerous to have carried the conversation
                     further on that line. While accepting my lord's help it was scarcely the thing
                     to depreciate it; so the talk then drifted or rather settled on all that he had
-                    been doing in Church-court and the neighbourhood—on his<pb n="192" xml:id="VAB7083-195"/> night-school, his charities, his hospitality to
+                    been doing in Church-court and the neighbourhood—on his<pb n="192"
+                        xml:id="VAB7083-195"/> night-school, his charities, his hospitality to
                     thieves and the like; and the results; those whom he might fairly count as his
                     successes, with those who had been as yet his failures. He never allowed more
                     than this “as yet.” “While there is a gate open to them, there is always the
@@ -2089,7 +2196,8 @@
                     and human love. If we were more patient, we should have more power over each
                     other, and there would be fewer failures.”</p>
                 <p>“You mean, if we were gods we should act in a godlike manner,” said Lord X., with
-                    that curious mixture of cynicism and philanthropy,<pb n="193" xml:id="VAB7083-196"/> kindness and satire, earnestness and levity, that
+                    that curious mixture of cynicism and philanthropy,<pb n="193"
+                        xml:id="VAB7083-196"/> kindness and satire, earnestness and levity, that
                     characterised him.</p>
                 <p>“No,” Joshua answered; “I mean only that, if we did our best possible as men, we
                     should make a better job of life altogether both for ourselves individually and
@@ -2176,7 +2284,8 @@
                     lived among the poor, and was of them.</p>
                 <p>Lady X. soon came into the room where Joshua and Lord X. were. She was a tall,
                     fair, languid woman, kindly natured but selfish, dissatisfied with her life as
-                    it was yet unable to devise anything better for herself;<pb n="201" xml:id="VAB7083-204"/> having no interest anywhere, without children, and
+                    it was yet unable to devise anything better for herself;<pb n="201"
+                        xml:id="VAB7083-204"/> having no interest anywhere, without children, and
                     evidently not as much in love with her husband as model wives usually are: a
                     woman whose intelligence and physique clashed, the one being restless and the
                     other indolent. Every now and then she took up her husband's “cases,” partly out
@@ -2197,11 +2306,13 @@
                 <p>She gave him at that first interview a really handsome sum of money for his
                     poorer friends; she promised clothes and soup-tickets, books for his school,
                     toys for his children, good food for his sick. The simple yet so grand
-                    earnestness of the man interested her, and she too felt as every<pb n="203" xml:id="VAB7083-206"/> one else did, that here was a master-spirit which had
+                    earnestness of the man interested her, and she too felt as every<pb n="203"
+                        xml:id="VAB7083-206"/> one else did, that here was a master-spirit which had
                     a claim to all men's reverence and admiration. She was not satisfied with his
                     first visit, but Joshua must go to see her again; and after he had been there
                     twice, she of herself offered to come and see him in his lodgings, over the
-                    little sweet-stuff shop which Mary Prinsep kept. And Joshua did not forbid her.</p>
+                    little sweet-stuff shop which Mary Prinsep kept. And Joshua did not forbid
+                    her.</p>
                 <p>Was there ever such an incongruity? The street—East-street—in which we lived, was
                     too narrow for her carriage to come down, so she had to walk the distance to
                     Joshua's rooms. And I shall never forget the sight. Her dainty feet were clothed
@@ -2283,7 +2394,8 @@
                     company; and I should scarcely like to go down the street alone.”</p>
                 <p>“Certainly not,” said Joshua, and led her, still holding her hand, out from the
                     shop and into the little street to where her carriage was waiting for her.</p>
-                <p>“Mind the shop for me, John,” said Mary; and with a great sob she ran<pb n="211" xml:id="VAB7083-214"/> away and shut herself up in her own room,</p>
+                <p>“Mind the shop for me, John,” said Mary; and with a great sob she ran<pb n="211"
+                        xml:id="VAB7083-214"/> away and shut herself up in her own room,</p>
                 <p>She would have been ashamed I know, to let Joshua see that she was crying, and
                     all for nothing, too; only because a fine lady, smelling of sweet scents and
                     wearing a rich silk gown, had passed through the shop.</p>
@@ -2338,8 +2450,9 @@
                 <p>“It was all very well to be compassionate and helpful,” she had said; “but no
                     amount of charity justified that man Davidson in his proceedings with such a
                     woman. Or, if he chose to associate with her himself, he ought to have warned
-                    her (her ladyship), that <emph>she</emph> should not have made the mistake<pb n="216" xml:id="VAB7083-219"/> take of speaking to her as to a
-                    proper person.”</p>
+                    her (her ladyship), that <emph>she</emph> should not have made the mistake<pb
+                        n="216" xml:id="VAB7083-219"/> take of speaking to her as to a proper
+                    person.”</p>
                 <p>So this first and last attempt at aristocratic co-operation fell to the ground;
                     and Society peremptorily refused to endorse a man who had set himself to live
                     the life after Christ.</p>
@@ -2370,9 +2483,9 @@
                     good; but not,” he added, as if by an after-thought, “in looseness of principle.
                     That, however, has come only from idleness; and if great people had imperative
                     duties and the absolute need of exertion, we should hear of fewer divorce
-                    scandals, fewer turf catastrophes<pb n="219" xml:id="VAB7083-222"/> trophes, and the like, than we do
-                    now. However, that is not our affair. We are here to work on our own account,
-                    not to judge of others.”</p>
+                    scandals, fewer turf catastrophes<pb n="219" xml:id="VAB7083-222"/> trophes, and
+                    the like, than we do now. However, that is not our affair. We are here to work
+                    on our own account, not to judge of others.”</p>
                 <p>“It is an old saying, Joshua, but a true one, ‘extremes meet,’” said I. “The very
                     poor have no taste for refined pleasure, and indeed no power of indulging it if
                     they had; and the very rich, sated with all that is given to them by their
@@ -2381,7 +2494,8 @@
                 <p>“I suppose so,” he answered. “At all events, there can be no such thing as
                     levelling down. It would be no righteousness to bring the rich, the refined, the
                     well educated down to the level of the poor; but to raise up the masses, and to
-                    impose on the upper classes positive duties, this is the only way<pb n="220" xml:id="VAB7083-223"/> in which the difference between high and low can be
+                    impose on the upper classes positive duties, this is the only way<pb n="220"
+                        xml:id="VAB7083-223"/> in which the difference between high and low can be
                     lessened. And if this can be can free of national revolt and bloodshed, it will
                     be a godlike work, and the blessed solution of the greatest difficulty the world
                     has seen yet. It cannot be a good thing that some men have to work till all the
@@ -2391,7 +2505,8 @@
                     more equal distribution of the better things of life. I do not mean that the
                     duchess will have to share her velvet cushions with the seamstress; but it has
                     to be that, either by education or improved machinery, or both, there will not
-                    be the enormous difference there is now between the<pb n="221" xml:id="VAB7083-224"/> duchess and the seamstress. We have made a great
+                    be the enormous difference there is now between the<pb n="221"
+                        xml:id="VAB7083-224"/> duchess and the seamstress. We have made a great
                     parade lately of our sympathy with the North, on the ground of emancipation; but
                     Society here in London holds slaves as arbitrarily and as cruelly is ever the
                     Southern planters did ; and its vested interests, however demoralising, are as
@@ -2436,18 +2551,19 @@
                     the churches ever built.”</p>
                 <p>No man was more convinced than he that sin and misery are the removable results
                     of social circumstances, and that poverty, ignorance, and class-distinctions
-                    consequent, are at the root of all the crimes and wretchedness<pb n="226" xml:id="VAB7083-228"/> ness afloat. The evil lying in that
-                    great curse of partial civilisation—that upas tree of caste—by which this
-                    Christian world of ours, with its religion of brotherhood and socialism, is
-                    overshadowed, pained him most of all. The caste of the rich, with its product,
-                    the class antagonism of the poor—what a sorry satire on the religion of Jesus of
-                    Nazareth, that poor, unlearned man of the people, whom we have exalted into God
-                    and now worship with gorgeous ceremonial, while despising every one of the
-                    social doctrines He and His disciples preached! However, Joshua did his best to
-                    rouse men to a consciousness of Christ, and to the acceptance of His teaching of
-                    human equality; and though steadily closed to all doctrines of violence, was
-                    always the passionate upholder of the doctrine of<pb n="227" xml:id="VAB7083-229"/> duty on the one side and the theory of rights on the
-                    other.</p>
+                    consequent, are at the root of all the crimes and wretchedness<pb n="226"
+                        xml:id="VAB7083-228"/> ness afloat. The evil lying in that great curse of
+                    partial civilisation—that upas tree of caste—by which this Christian world of
+                    ours, with its religion of brotherhood and socialism, is overshadowed, pained
+                    him most of all. The caste of the rich, with its product, the class antagonism
+                    of the poor—what a sorry satire on the religion of Jesus of Nazareth, that poor,
+                    unlearned man of the people, whom we have exalted into God and now worship with
+                    gorgeous ceremonial, while despising every one of the social doctrines He and
+                    His disciples preached! However, Joshua did his best to rouse men to a
+                    consciousness of Christ, and to the acceptance of His teaching of human
+                    equality; and though steadily closed to all doctrines of violence, was always
+                    the passionate upholder of the doctrine of<pb n="227" xml:id="VAB7083-229"/>
+                    duty on the one side and the theory of rights on the other.</p>
                 <p>He had often a sore time of it. His discourses roused immense antagonism, and he
                     was sometimes set upon and severely handled by the men to whom he spoke. I have
                     seen him left for dead twice in the rough monarchical towns. But he worked as
@@ -2456,7 +2572,8 @@
                     face the worst and take what danger might arise without blenching; of a
                     steadfast heart and a loyal spirit; looking up to God, living after Christ, and
                     loving the humanity that blackguarded and nearly killed him as his reward. Tears
-                    are in my eyes, rough man as I am, when I remember Joshua Davidson, his life<pb n="228" xml:id="VAB7083-230"/> and works, and what the world he lived but to
+                    are in my eyes, rough man as I am, when I remember Joshua Davidson, his life<pb
+                        n="228" xml:id="VAB7083-230"/> and works, and what the world he lived but to
                     better said of him and did to him. I have known swindlers and murderers more
                     gently treated. Of a truth, the age of martyrs has not passed away; as any one
                     may prove in his own person who will set himself to enlarge the close boroughs
@@ -2522,10 +2639,10 @@
                     set themselves—not to amass wealth, not to gain power, nor to live in luxury and
                     pleasure—but to plan for the best for their fellow-men, and to sketch out a
                     future glorious alike for France and the whole world. The working man vindicated
-                    then his claim to be entrusted<pb n="234" xml:id="VAB7083-236"/> trusted with his own
-                    self-government; and one of the brightest pages of modern history, in spite of
-                    all its mistakes, is that wherein the artisan government of '71 wrote its brief
-                    but noble record on the heart of Paris.</p>
+                    then his claim to be entrusted<pb n="234" xml:id="VAB7083-236"/> trusted with
+                    his own self-government; and one of the brightest pages of modern history, in
+                    spite of all its mistakes, is that wherein the artisan government of '71 wrote
+                    its brief but noble record on the heart of Paris.</p>
                 <p>The most fatal thing of that time, however, was the unconquerable distrust of the
                     people. Long used to tyranny and treachery as they had been, they seemed unable
                     to accept any man as a true patriot, not plotting underhand for his own
@@ -2533,7 +2650,8 @@
                     can scarcely wonder at it. Twenty years of Louis Napoleon, the military command
                     of Trochu, the history of the past Imperial administration and the present
                     Imperial war, had eaten into their very hearts, and taken all the faith out of
-                    them. And the consequence was, that even the men<pb n="235" xml:id="VAB7083-237"/> now heading the great liberation movement, the best and most unselfish of the
+                    them. And the consequence was, that even the men<pb n="235" xml:id="VAB7083-237"
+                    /> now heading the great liberation movement, the best and most unselfish of the
                     “sinless Cains” of history, were suspected by the very city they were
                     sacrificing themselves to save.</p>
                 <p>But Paris was mad—mad with despair, with famine, with shame, disease, excitement.
@@ -2543,7 +2661,8 @@
                     and perhaps a few of us more cool-headed Anglo-Saxons. The Poles, who had
                     flocked in to take part in a cause they identified with their own broken
                     nationality, added the fever of their political despair to the fire consuming
-                    the vitals of the Parisians; the Italians poured<pb n="236" xml:id="VAB7083-238"/> in their bitter hatred to the priests as oil on flames—emblems to them of
+                    the vitals of the Parisians; the Italians poured<pb n="236" xml:id="VAB7083-238"
+                    /> in their bitter hatred to the priests as oil on flames—emblems to them of
                     tyranny, treachery, ignorance, and persecution they could not be brought to
                     acknowledge even the good that is in them, but were ever their unrelenting
                     enemies; the republicans of all nations gathered into the struggling city, each
@@ -2628,7 +2747,8 @@
                     out, leaving her at home; and when we came back we found her in a state of
                     excitement and indignation at something that had happened during our absence.
                     She told Joshua, not me; and indeed, the first I rightly heard of it was when
-                    Joshua came back from downstairs, where he had been into the porter's<pb n="244" xml:id="VAB7083-246"/> lodge, and had thrashed Legros to within an inch of
+                    Joshua came back from downstairs, where he had been into the porter's<pb n="244"
+                        xml:id="VAB7083-246"/> lodge, and had thrashed Legros to within an inch of
                     his life. This was the first and only time he had ever raised his hand against
                     any one; and I was sorry he had not left the job to me. I would have done it as
                     well, and he would have kept his hands clean. Yet for all this, when Legros, who
@@ -2638,7 +2758,8 @@
                     what he had come to do. Among the poor and starving, the wounded and dismayed,
                     there he was, day after day, helping all who needed so far as he could, tender
                     as a woman, faithful and strong as a hero. Or he did the work of the Commune, as
-                    he might be ordered; and they had no more trustworthy<pb n="245" xml:id="VAB7083-247"/> official. Never a thought of self came in to weaken
+                    he might be ordered; and they had no more trustworthy<pb n="245"
+                        xml:id="VAB7083-247"/> official. Never a thought of self came in to weaken
                     or distract him. For several nights at a stretch he did not go to bed, and he
                     seemed to have the strength of half-a-dozen men, and to be kept up by an almost
                     supernatural power. For the famine that was wasting the city was touching him
@@ -2648,7 +2769,8 @@
                     blackening and parched. But he never complained; he never seemed to think of
                     himself at all; and if he had been without food for twelve hours or twenty-four,
                     the chances were that he would share his scanty rations with the first passer-by
-                    who looked famine-stricken. Mary too was suffering<pb n="246" xml:id="VAB7083-248"/> from the want and privation of all kinds with which
+                    who looked famine-stricken. Mary too was suffering<pb n="246"
+                        xml:id="VAB7083-248"/> from the want and privation of all kinds with which
                     we were afflicted. We did what we could for her, be sure. If my life could have
                     bought hers or his, I would have laid it down as willingly as I would have given
                     them my bitter crust. But they bore up bravely, both of them; and she helped too
@@ -2669,7 +2791,8 @@
                     ours.</p>
                 <p>The Vicaire-Général had gone to Versailles, but he had not returned; and no
                     answer had been vouchsafed to the offer made, now I think for the third time, to
-                    release the Archbishop and the other hostages for the one<pb n="248" xml:id="VAB7083-250"/> exchange of Blanqui. How often must the story be
+                    release the Archbishop and the other hostages for the one<pb n="248"
+                        xml:id="VAB7083-250"/> exchange of Blanqui. How often must the story be
                     told? And will it ever be acknowledged by those who care only, right or wrong,
                     to fasten the stain of blood-guiltiness on the Commune, that the real murderer
                     of Monseigneur Darboy, and the rest, was M. Thiers? He knew what would happen,
@@ -2694,16 +2817,17 @@
                     youths shouted; and through all, and above all, we heard the roar of the cannon,
                     the whistling of the shells, and saw the smoke and flame of Paris rising up
                     against the sky.</p>
-                <p>Joshua, mounted on a gun-barrel, pleaded for the lives of the unfortunate men.</p>
+                <p>Joshua, mounted on a gun-barrel, pleaded for the lives of the unfortunate
+                    men.</p>
                 <p>“The work that the Commune had pledged itself to do,” he said, “was to help on
                     the freedom of the working classes, by proving to the world their nobility and
                     power of self-government. The slaughter of unarmed men would do none of this. It
                     would give their enemies a just handle against them, for it was a baseness
                     unworthy of them—an act neither human nor noble, neither righteous nor generous.
                     Whatever the wrong committed by the Government at Versailles, the innocent ought
-                    not to suffer. Let the Commune<pb n="251" xml:id="VAB7083-253"/> mune show itself supreme in virtue
-                    at this moment of trial, and put the temptation of blood-guiltiness away from
-                    it.”</p>
+                    not to suffer. Let the Commune<pb n="251" xml:id="VAB7083-253"/> mune show
+                    itself supreme in virtue at this moment of trial, and put the temptation of
+                    blood-guiltiness away from it.”</p>
                 <p>While he spoke Legros drew his revolver from his belt.</p>
                 <p>“Death to the English traitor!” he cried. “Death to the tool of the priests! he
                     believes in Jesus Christ!”</p>
@@ -2737,7 +2861,8 @@
                 <p>The last day came. The guns of our forts were silent; the men were fighting in
                     the streets, desperate, conquered, but not craven. The Versaillists were pouring
                         in<pb n="254" xml:id="VAB7083-256"/> like wolves let loose; Paris was
-                    drenched with blood, and in flames. And then the cry of the <foreign xml:lang="fre">pétroleuses</foreign> went up like the fire that shot against
+                    drenched with blood, and in flames. And then the cry of the <foreign
+                        xml:lang="fre">pétroleuses</foreign> went up like the fire that shot against
                     the sky. What mattered it that it was a lie? It gave the Party of Order another
                     reason, if they had wanted any, to excuse their lust of blood. It was their
                     saturnalia, and they did not stint themselves. The arms, that had served them so
@@ -2746,17 +2871,19 @@
                     brothers, that exceeded all we have ever heard or read of in a victorious
                     foreign army.</p>
                 <p>I had been separated from my friends for more than twenty-four hours. The house
-                    where we had lodged was in flames; and when I went to seek information at a Communist<pb n="255" xml:id="VAB7083-257"/> munist friend's, De Lancy, I found a
-                    group of three by the concierge door—himself, his young wife, and a little
-                    daughter not two years old, lying as if asleep, save for the blood that was
-                    their bed. They had been bound together and shot. Not one, but hundreds and
+                    where we had lodged was in flames; and when I went to seek information at a
+                        Communist<pb n="255" xml:id="VAB7083-257"/> munist friend's, De Lancy, I
+                    found a group of three by the concierge door—himself, his young wife, and a
+                    little daughter not two years old, lying as if asleep, save for the blood that
+                    was their bed. They had been bound together and shot. Not one, but hundreds and
                     thousands of such cases stand recorded in the history of that terrible moment,
                     when the victorious Versaillists marched into Paris, and society revenged itself
                     on the men who had dared to dream of redressing its wrongs; and among the
                     terrible sights that met me, the evidences of brutal, wanton, sickening murder,
                     I had a shuddering dread that I should find Joshua and Mary. I was never so
                     nearly mad as I was that day when I wandered about the bloody-streets of Paris,
-                    looking for my friends; sorrow for the lost cause, horror at<pb n="256" xml:id="VAB7083-258"/> the scenes I encountered, and fear for those I loved,
+                    looking for my friends; sorrow for the lost cause, horror at<pb n="256"
+                        xml:id="VAB7083-258"/> the scenes I encountered, and fear for those I loved,
                     all combining to render life in that hour simply torture.</p>
                 <p>At last I caught a glimpse of Mary crossing the street, carrying a wounded child
                     in her arms, and making for the ambulance. I called to her, and hurried after
@@ -2773,7 +2900,8 @@
                     And Mary was seized by a couple of his men, and brought up close to where he
                     stood.</p>
                 <p>“C'est une jolie cible, ça!” he said with a brutal laugh. “C'est dommage—une
-                    belle fille comme ça! Mais on ne doit pas être pétroleuse, ma fille. Fi donc!”</p>
+                    belle fille comme ça! Mais on ne doit pas être pétroleuse, ma fille. Fi
+                    donc!”</p>
                 <p>“I have done no harm,” said Mary, with her wild eyes searching his in vain for
                     pity. “I have done only what good I could to all!”</p>
                 <p>“Is setting fire to honest women's houses doing good, wretch?” said the Captain,
@@ -2800,7 +2928,8 @@
                     as if I could not die while Joshua lived, perhaps to want me.</p>
                 <p>However that might be, we neither of us came to grief of that kind. I got well in
                     time; and when I could travel, and a fitting opportunity arrived, our friend,
-                    who had kept us all this time in safety, got us sent off to<pb n="260" xml:id="VAB7083-262"/> England. And right glad was I when we landed safe in
+                    who had kept us all this time in safety, got us sent off to<pb n="260"
+                        xml:id="VAB7083-262"/> England. And right glad was I when we landed safe in
                     the Old Country once more. Joshua was glad too. He had suffered much from the
                     confinement, inertia, and disappointment of the last few weeks;—coming too,
                     after a time of such intense hope and excitement; and once in England, he
@@ -2837,7 +2966,8 @@
                     and showing their apostolic origin. His position was this. He did not justify
                     all the actions of all the men at the head of affairs during the short reign of
                     the Commune in Paris; but he warmly defended the cardinal points of their creed,
-                    as the logical outcome of Christianity in politics. The abolition of priestly supremacy<pb n="264" xml:id="VAB7083-266"/> macy in a man's social and daily
+                    as the logical outcome of Christianity in politics. The abolition of priestly
+                        supremacy<pb n="264" xml:id="VAB7083-266"/> macy in a man's social and daily
                     life; the rights of labour as equal with those of capital; the dignity of
                     humanity, including the doctrine of human equality; fraternal care for the poor,
                     and the obligation laid on the strong to help the weak; the merely experimental
@@ -2848,12 +2978,13 @@
                     but which he failed to induce the world to accept. They called him—as he called
                     himself—a Communist; and the name offended, so that they would not listen to any
                     kind of statement.</p>
-                <p>“You burnt Paris,” said one. “You murdered<pb n="265" xml:id="VAB7083-267"/> dered innocent men,” said another.
-                    “You insulted God and religion,” said a third. A fourth—“You outraged morality,
-                    and lived in the most hideous licentiousness.” “You would take our hard-earned
-                    savings from us, and reduce all men to one level—the idle with the industrious,
-                    and the ignorant with the educated,” said a fifth. “You would rob the
-                    capitalist, and by so doing destroy the very labour you uphold,” said a sixth.</p>
+                <p>“You burnt Paris,” said one. “You murdered<pb n="265" xml:id="VAB7083-267"/>
+                    dered innocent men,” said another. “You insulted God and religion,” said a
+                    third. A fourth—“You outraged morality, and lived in the most hideous
+                    licentiousness.” “You would take our hard-earned savings from us, and reduce all
+                    men to one level—the idle with the industrious, and the ignorant with the
+                    educated,” said a fifth. “You would rob the capitalist, and by so doing destroy
+                    the very labour you uphold,” said a sixth.</p>
                 <p>And when he answered—“You mistake; I give up the blunders of the Commune, and the
                     wrong-doing of which some of its members were guilty, only suggesting that they
                     did not do all that was said of them; as neither did the early Christians
@@ -2900,7 +3031,8 @@
                     cowardice, but to a kind of eager look, like a man taking hold of an enemy; and
                     then it passed away into his usual abstracted unconsciousness of self, as he
                     came quietly to the front and prepared to speak. But at the first word there
-                    broke out such a tumult as I had never heard in any public<pb n="270" xml:id="VAB7083-272"/> meeting, and I have been at a few rough and rowdy
+                    broke out such a tumult as I had never heard in any public<pb n="270"
+                        xml:id="VAB7083-272"/> meeting, and I have been at a few rough and rowdy
                     ones too. The yells, hisses, catcalls, whoopings were indescribable. It was
                     impossible to be heard. I believe the roar of a lion would have been
                     overpowered. Joshua stood there quiet and dignified as ever, looking straight in
@@ -2921,33 +3053,37 @@
                     the very name of humanity. And now he has the audacity to come before you,
                     honest and sober men of Lowbridge, loving your queen and country, abiding by the
                     laws, and fearing Good as I hope you all do. And what for?—to praise that
-                    pandemonium of vice and crime—the Paris Commune—and blasphemously to<pb n="272" xml:id="VAB7083-274"/> liken those fiends in human shape to our Lord and the
+                    pandemonium of vice and crime—the Paris Commune—and blasphemously to<pb n="272"
+                        xml:id="VAB7083-274"/> liken those fiends in human shape to our Lord and the
                     holy apostles; to incite you to a rebellion as bloody as that; and more than all
                     this—to pick your pockets of your honest wages, that he, an idle vagabond, who
                     won't work, may wander about the country, sowing his poison everywhere, while
                     living on the fat of the land. Give him your minds, my men; and let him
                     understand that Lowbridge is not the place for a godless rascal like him at any
                     time—and by no means the place for an atheist and a Communist!”</p>
-                <p>Then he got down, and the men cheered him as lustily as they had hissed Joshua.</p>
+                <p>Then he got down, and the men cheered him as lustily as they had hissed
+                    Joshua.</p>
                 <p>I will do Mr. Grand the justice to say that I do not think he intended his words
                     should have the effect they did have. Gentlefolks do not often incite to riot;
-                    and a clergyman does not like to be the wirepuller for a murder<pb n="273" xml:id="VAB7083-275"/> der. But, maddened by their own
-                    misconceptions to begin with, and excited still more by their parson's abuse and
-                    encouragement to violence as it were, the audience lost all self-control. A
-                    dozen men leaped on the platform, and in a moment I saw Joshua under their feet.
-                    It was in vain then for Mr. Grand to cry “Order”—for the two policemen at the
-                    doors to be sent for—for me to lay about me as hard as I was handled. The men
-                    had it all their own way. They were the representatives of law and order in
-                    their own minds, the champions of God and religion, and they regarded it as a
-                    sacred duty to take it out of this godless anarchist. Beaten, kicked, held back
-                    by a dozen or more, I could not help him. They beat me first; and then the
-                    police beat me, and knocked me about savagely with their truncheons<pb n="274" xml:id="VAB7083-276"/> cheons, because I struggled to get
-                    free, and to get to Joshua. He was lying on the ground, pale and senseless, with
-                    a stream of blood slowly flowing from his lips; while the men trampled on him
-                    and kicked him, and one, with a fearful oath, kicked him twice on the head.
-                    Suddenly a whisper ran round them, and they all drew a little way off; when, at
-                    a sign from one of them, the gas was turned down, and the place cleared as if by
-                    magic. When the lights were up again, and I went to lift him—he was dead.</p>
+                    and a clergyman does not like to be the wirepuller for a murder<pb n="273"
+                        xml:id="VAB7083-275"/> der. But, maddened by their own misconceptions to
+                    begin with, and excited still more by their parson's abuse and encouragement to
+                    violence as it were, the audience lost all self-control. A dozen men leaped on
+                    the platform, and in a moment I saw Joshua under their feet. It was in vain then
+                    for Mr. Grand to cry “Order”—for the two policemen at the doors to be sent
+                    for—for me to lay about me as hard as I was handled. The men had it all their
+                    own way. They were the representatives of law and order in their own minds, the
+                    champions of God and religion, and they regarded it as a sacred duty to take it
+                    out of this godless anarchist. Beaten, kicked, held back by a dozen or more, I
+                    could not help him. They beat me first; and then the police beat me, and knocked
+                    me about savagely with their truncheons<pb n="274" xml:id="VAB7083-276"/>
+                    cheons, because I struggled to get free, and to get to Joshua. He was lying on
+                    the ground, pale and senseless, with a stream of blood slowly flowing from his
+                    lips; while the men trampled on him and kicked him, and one, with a fearful
+                    oath, kicked him twice on the head. Suddenly a whisper ran round them, and they
+                    all drew a little way off; when, at a sign from one of them, the gas was turned
+                    down, and the place cleared as if by magic. When the lights were up again, and I
+                    went to lift him—he was dead.</p>
                 <p>I know no more—no more than this, that the man who had lived the life after
                     Christ more exactly than any human being ever known to me, who had given himself
                     to humanity and poured out his strength like water for the sacred cause, who had
@@ -2972,7 +3108,8 @@
                     earnest for the dogma of Christianity, rabid against its acted doctrines. They
                     do not care to destroy the causes of misery by any change in social relations;
                     they only attack the sinners for whose sin society is originally responsible.
-                    They maintain the unrighteous distinctions of caste as a<pb n="277" xml:id="VAB7083-279"/> religion; and they denounce as delusion, or impiety,
+                    They maintain the unrighteous distinctions of caste as a<pb n="277"
+                        xml:id="VAB7083-279"/> religion; and they denounce as delusion, or impiety,
                     the doctrine of universal brotherhood which Christ and His apostles preached and
                     died for. I hear a great deal about faith, and the infidel being an accursed
                     thing; but then I see the practical Christian, like Joshua, held accursed too.

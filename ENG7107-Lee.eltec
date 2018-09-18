@@ -3,7 +3,7 @@
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>Miss Brown</title>
+                <title>Miss Brown : ELTeC edition</title>
                 <author>Lee, Vernon (1856-1935)</author>
                 <respStmt>
                     <resp>Transcribed and encoded by </resp>
@@ -32,7 +32,7 @@
             <sourceDesc><bibl><title>Miss Brown : VWWP edition
 </title><author>Lee, Vernon, 1856-1935</author><publisher>Digital
 Library Program, Indiana University</publisher><pubPlace>Bloomington,
-IN</pubPlace><idno>VAB7107</idno><relatedItem><bibl><title>Miss
+IN</pubPlace><idno>VAB7107</idno><relatedItem type="copyText"><bibl><title>Miss
 Brown</title><author>Lee, Vernon, 1856-1935</author><publisher/><pubPlace>London </pubPlace><date
 when="1884">1884</date></bibl></relatedItem></bibl></sourceDesc>
 </fileDesc> <encodingDesc n="eltec-1"><p/></encodingDesc>

@@ -9,18 +9,26 @@
                 <name>Lou Burnard</name>
             </respStmt>
         </titleStmt>
-        <extent><measure unit="words">33085</measure><measure unit="pages">0</measure></extent>
+        <extent><measure unit="words">33085</measure>
+            <measure unit="pages">169</measure></extent>
         <publicationStmt>
-            <p>Published as part of ELTeC</p>
+            <p>Published as part of ELTeC <date>September 2018</date></p>
         </publicationStmt>
         <sourceDesc>
-            <bibl><title>The London venture</title><author>Arlen, Michael (Dikran Kouyoumdjian)
-                    (1857-1924).</author><idno/>
-<ref target="https://archive.org/details/londonventure00sevigoog.pdf"/>
-<relatedItem>
+            <bibl><title>The Project Gutenberg eBook of The London Venture, by Michael Arlen.
+            </title><ref target="http://www.gutenberg.org/4/0/3/7/40375/
+                "/>
+                <!--Produced by Clarity, Ernest Schaal, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+-->
+<relatedItem type="copyText">
                     <bibl><title>The London venture</title><author>Arlen, Michael (Dikran
                             Kouyoumdjian) (1857-1924).</author><publisher> London: W
-                            Heinemann</publisher><date>1920</date></bibl>
+                            Heinemann</publisher><date>1920</date>
+                        <ref target="https://archive.org/details/londonventure00sevigoog.pdf"/>
+                    </bibl>
                 </relatedItem></bibl>
         </sourceDesc>
     </fileDesc>

@@ -4,7 +4,7 @@
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>The Daughters of Danaus</title>
+                <title>The Daughters of Danaus : ELTeC edition</title>
                 <author>Caird, Mona (1854-1932)</author>
                 <respStmt>
                     <resp>Transcribed, encoded and edited by </resp>
@@ -30,7 +30,7 @@
                 <bibl><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
                         Mona</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7047</idno><relatedItem>
+                        IN</pubPlace><idno>VAB7047</idno><relatedItem type="copyText">
                         <bibl><title>The Daughters of Danaus</title><author>Caird,
                                 Mona</author><publisher>Bliss, Sands, and
                                 Foster</publisher><pubPlace>London </pubPlace><date when="1894"
