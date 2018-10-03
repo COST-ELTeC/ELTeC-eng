@@ -10,7 +10,10 @@
                     <respStmt><resp>Original HTML</resp><name>John Bean</name><name>Diane Bean</name><name>David Widger</name>
                </respStmt>
                <respStmt><resp>ELTeC encoding</resp><name>Lou Burnard</name></respStmt></titleStmt>
-               <extent><measure unit="words">133529</measure></extent>
+               <extent><measure unit="words">133529</measure>
+                    <measure unit="pages">0</measure>
+                    
+               </extent>
                <publicationStmt>
                     <p/>
                </publicationStmt>
