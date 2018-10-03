@@ -1,2 +1,2 @@
 # ELTeC-eng
-Folder containing English texts encoded at level 1
+Folder for level0: basic TEI Encoding
