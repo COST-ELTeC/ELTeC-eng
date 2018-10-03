@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG3164" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -3624,7 +3624,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>`Is your uncle's child alive?´ asked Berry. </p>
                 <p>`Yes, Miss, she is alive,´ returned Mrs. Wickam with an air of triumph, for it
                     was evident Miss Berry expected the reverse; `and is married to a silverchaser.
-                    Oh yes, Miss, <emph rend="sc">she</emph> is alive,´ said Mrs. Wickam, laying strong
+                    Oh yes, Miss, <hi rend="sc">she</hi> is alive,´ said Mrs. Wickam, laying strong
                     stress on her nominative case. </p>
                 <p>It being clear that somebody was dead, Mrs. Pipchin's niece inquired who it was. </p>
                 <p>`I wouldn't wish to make you uneasy,´ returned Mrs. Wickam, pursuing her supper.
@@ -6700,10 +6700,10 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     if he meant dancing and nothing else, but secretly to stimulate the music to
                     perform wild tunes. Further, he became particular in his attentions to the
                     ladies; and dancing with Miss Blimber, whispered to her—whispered to her!—though
-                    not so softly but that Paul heard him say this remarkable poetry, <quote>
+                    not so softly but that Paul heard him say this remarkable poetry, 
                         <l>`Had I a heart for falsehood framed, </l>
                         <l>I ne'er could injure You!´ </l>
-                    </quote> This Paul heard him repeat to young ladies in succession. Well might
+                     This Paul heard him repeat to young ladies in succession. Well might
                     Mr. Feeder say to Mr. Toots, that he was afraid he should be the worse for it
                     to-morrow! </p>
                 <p>Mrs. Blimber was a little alarmed by this—comparatively speaking—profligate
@@ -7026,19 +7026,15 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     when, Captain Cuttle; and I am persuaded he won't be less valuable when he
                     hasn't me there, every day, to awaken his dislike. So hurrah for the West
                     Indies, Captain Cuttle! How does that tune go that the sailors sing? </p>
-                <p>
-                    <quote>
+         
                         <l>`For the Port of Barbados, Boys! </l>
                         <l> Cheerily! </l>
                         <l>Leaving old England behind us, Boys! </l>
                         <l> Cheerily!´ </l>
-                        <l/>
-                        <l>Here the Captain roared in chorus— </l>
-                        <l/>
+                        <p>Here the Captain roared in chorus— </p>
+                        
                         <l>`Oh cheerily, cheerily! </l>
                         <l> Oh cheer—i—ly!´ </l>
-                    </quote>
-                </p>
                 <p>The last line reaching the quick ears of an ardent skipper not quite sober, who
                     lodged opposite, and who instantly sprung out of bed, threw up his window, and
                     joined in, across the street, at the top of his voice, produced a fine effect.

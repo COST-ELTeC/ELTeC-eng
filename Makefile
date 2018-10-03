@@ -1,21 +1,28 @@
 ECHO=
 LOCAL=/home/lou/Public
-SCHEMA=$(LOCAL)/WG1/distantreading.github.io/Schema/eltec-1.rng
+SCHEMA1=$(LOCAL)/WG1/distantreading.github.io/Schema/eltec-1.rng
 CORPUS=$(LOCAL)/ELTeC-eng
+CORPUS1=$(LOCAL)/ELTeC-eng/level1
+SCHEMA0=$(LOCAL)/WG1/distantreading.github.io/Schema/eltec-0.rng
+CORPUS0=$(LOCAL)/ELTeC-eng/level0
 CORPUSHDR=corpHeaderStart.txt
 REPORTER=$(LOCAL)/WG1/Sampler/reporter.xsl
 CURRENT=`pwd`
 
 validate:
-	cd $(CORPUS); for f in *.eltec ; do \
+	cd $(CORPUS1); for f in *.xml ; do \
 		echo $$f; \
-		jing  $(SCHEMA) \
+		jing  $(SCHEMA1) \
+		$$f ; done; cd $(CURRENT);
+	cd $(CORPUS0); for f in *.xml ; do \
+		echo $$f; \
+		jing  $(SCHEMA0) \
 		$$f ; done; cd $(CURRENT);
 
 driver:
 	echo rebuild driver file
 	cp $(CORPUSHDR) $(CORPUS)_driver.tei;\
-		for f in $(CORPUS)/*.eltec ; do \
+		for f in $(CORPUS)/*/*.xml ; do \
 		echo "<xi:include href='$$f'/>" >> $(CORPUS)_driver.tei; \
 	done; echo "</teiCorpus>" >> $(CORPUS)_driver.tei
 
