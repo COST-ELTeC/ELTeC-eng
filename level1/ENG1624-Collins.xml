@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN1624" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18760" xml:lang="en">
      <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0">
           <fileDesc>
                <titleStmt>
@@ -15,8 +15,7 @@
                          <name>David Widger</name>
                     </respStmt>
                </titleStmt>
-               <extent><measure unit="words">88959</measure><measure unit="pages"
-                    >0</measure></extent>
+               <extent><measure unit="words">88959</measure></extent>
                <publicationStmt>
                     <p>Published as part of ELTeC <date>2018-11-01</date></p>
                </publicationStmt>
@@ -24,7 +23,7 @@
                     <bibl><title>The Project Gutenberg EBook of The Two
                               Destinies</title><author>Wilkie Collins</author>
                          <idno type="pg">1624</idno>
-                         <relatedItem>
+                         <relatedItem type="copyText">
                               <bibl><title>The Two Destinies: A Romance</title>
                                    <author> Wilkie Collins,</author><publisher>London: Chatto and
                                         Windus</publisher><date>1876</date>
