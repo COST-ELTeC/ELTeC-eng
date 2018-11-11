@@ -21,10 +21,10 @@ validate:
 
 driver:
 	echo rebuild driver file
-	cp $(CORPUSHDR) $(CORPUS)_driver.tei;\
+	cp $(CORPUSHDR) $(CORPUS)/driver.tei;\
 		for f in $(CORPUS)/*/*.xml ; do \
-		echo "<xi:include href='$$f'/>" >> $(CORPUS)_driver.tei; \
-	done; echo "</teiCorpus>" >> $(CORPUS)_driver.tei
+		echo "<xi:include href='$$f'/>" >> $(CORPUS)/driver.tei; \
+	done; echo "</teiCorpus>" >> $(CORPUS)/driver.tei
 
 schema: 
 	echo rebuild schemas from ODD
@@ -37,4 +37,4 @@ schema:
 	cd $(CURRENT)
 report:
 	echo report on corpus balance
-	saxon -xi $(CORPUS)_driver.tei $(REPORTER) >balance_report.html
+	saxon -xi $(CORPUS)/driver.tei $(REPORTER) >balance_report.html
