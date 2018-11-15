@@ -1,7 +1,8 @@
 # ELTeC-eng
  
-Text identifiers are ENG followed by four digits. These digits correspond with the number of this title in ATCL, if it's there. If it's not there, I choose an arbitrary number.
+Text identifiers are ENG followed by five digits: the year of publication, followed by a serial number starting with 0. 
 
-Files are named with the text identifier, a hyphen, the surname of the author with an initial cap, and ".xml"
+Files are named with the text identifier, an underscore, the surname of the author with an initial cap, and ".xml"
 
+e.g. ENG19100_Forster.xml is a novel published in 1910 by an author with surname Forster. If we had another novel from the same year and the same author, its filename would be ENG19101_Forster.xml.
 
