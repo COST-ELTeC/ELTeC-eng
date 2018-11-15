@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN9192" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG1862" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -20,8 +20,7 @@
                          <name>Lou Burnard</name>
                     </respStmt>
                </titleStmt>
-               <extent><measure unit="words">199639</measure><measure unit="pages"
-                    >0</measure></extent>
+               <extent><measure unit="words">199639</measure></extent>
                <publicationStmt>
                     <p>Published as part of ELTeC</p>
                </publicationStmt>
