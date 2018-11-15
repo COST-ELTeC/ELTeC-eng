@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG3164" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -17,9 +17,8 @@
                     <name>Lou Burnard</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">348793</measure>
-                <measure unit="pages">0</measure></extent>
-            <publicationStmt>
+            <extent><measure unit="words">348793</measure></extent>
+           <publicationStmt>
                 <p>Published as part of ELTeC <date>September 2018</date></p>
                 <!--<authority>deposited by <name type="institution">Bibliomania.com Ltd</name>
 <name type="place">Oxford</name>

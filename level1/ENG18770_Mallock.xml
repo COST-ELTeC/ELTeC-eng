@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG1001" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -15,8 +16,7 @@
             </titleStmt>
             <extent>
                 <measure unit="words">77630</measure>
-                <measure unit="pages">0</measure>
-            </extent>
+           </extent>
             <publicationStmt>
                 <p>Published as part of ELTeC</p>
             </publicationStmt>
@@ -1718,8 +1718,8 @@
                         rich and flexible voice, and still more so at the real passion which he
                         breathed into the following words, rude and artless as they were:— </p>
                     <quote>
-                        <l>    Oh, her cheek, her cheek was pale,</l><l>     Her voice
-                                was hardly musical;</l><l> But your proud grey eyes grew
+                        <l>Oh, her cheek, her cheek was pale,</l>
+                        <l>     Her voice was hardly musical;</l><l> But your proud grey eyes grew
                                 tender,</l><l>     Child, when mine they
                                 met,</l><l> With a piteous self-surrender,</l><l>
                                          Margaret.</l><l> </l><l>     Child, what
