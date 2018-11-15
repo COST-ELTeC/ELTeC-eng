@@ -4,5 +4,5 @@ Text identifiers are ENG followed by five digits: the year of publication, follo
 
 Files are named with the text identifier, an underscore, the surname of the author with an initial cap, and ".xml"
 
-e.g. ENG19100_Forster.xml is a novel published in 1910 by an author with surname Forster. If we had another novel from the same year and the same author, its filename would be ENG19101_Forster.xml.
+e.g. `ENG19100_Forster.xml` is a novel published in 1910 by an author with surname `Forster`. If we had another novel from the same year and the same author, its filename would be `ENG19101_Forster.xml`.
 
