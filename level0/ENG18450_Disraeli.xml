@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG3760" xml:lang="en">
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -27,7 +27,7 @@
         Colburn</publisher><date>1845</date><ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl></relatedItem></bibl>
    </sourceDesc>
   </fileDesc>
-  <encodingDesc n="eltec-1">
+  <encodingDesc n="eltec-0">
    <p/>
   </encodingDesc>
   <profileDesc>
@@ -814,18 +814,18 @@
       consideration in the world must throw you off your guard at this moment; breathe not the
       shadow of what you know.”</p>
      <p> At this moment a servant entered and delivered a note to Lady Marney, who read it with an
-      ironical smile. It was from Lady St Julians, and ran thus:—<quote> “Most confidential. “My
+      ironical smile. It was from Lady St Julians, and ran thus:— “Most confidential. “My
        dearest Lady Marney, “It is a false report: he is ill, but not dangerously; the hay fever; he
        always has it; nothing more: I will tell my authority when we meet; I dare not write it. It
        will satisfy you. I am going on with my quadrille. “Most affectionately yours, “A. St
-       J.”</quote></p>
+       J.”</p>
      <p> “Poor woman! she is always wrong,” said Lady Marney throwing the note to Egremont. “Her
       quadrille will never take place, which is a pity, as it is to consist only of beauties and
-      eldest sons. I suppose I must send her a line,” and she wrote:<quote> “My dearest Lady St
+      eldest sons. I suppose I must send her a line,” and she wrote: “My dearest Lady St
        Julians, “How good of you to write to me, and send me such cheering news! I have no doubt you
        are right: you always are: I know he had the hay fever last year. How fortunate for your
        quadrille, and how charming it will be! Let me know if you hear anything further from your
-       unmentionable quarter. “Ever your affectionate “C.M.”</quote></p>
+       unmentionable quarter. “Ever your affectionate “C.M.”</p>
     </div>
     <pb n="64"/><div type="chapter" xml:id="ENG3760005"><head>CHAPTER V.</head>
      
@@ -8675,7 +8675,7 @@
       I should see him this evening and before nine o’clock, I was to call here and obtain from you
       the direction where to find him; the direction,” she added in a lowered tone, and looking
       Tanner full in the face, “where they hold their secret council to-night.”</p>
-     <p> “Hem!” said Tanner: “I see you’re on the free-list. And pray how am I to know you<hi rend="italic">are</hi> Gerard’s daughter?”</p>
+     <p> “Hem!” said Tanner: “I see you’re on the free-list. And pray how am I to know you are Gerard’s daughter?”</p>
      <p> “You do not doubt I am his daughter!” said Sybil proudly.</p>
      <p> “Hem!” said Tanner: “I do not know that I do very much,” and he whispered to his wife.
       Sybil removed from them as far as she was able.</p>
