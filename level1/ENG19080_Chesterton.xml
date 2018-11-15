@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19080" xml:lang="en">
 
     <teiHeader>
@@ -7,8 +8,11 @@
                 <title>The man who was Thursday : ELTeC edition</title>
                 <author>Chesterton, Gilbert Keith (1874-1936)</author>
             </titleStmt>
+            <extent>
+                <measure unit="words">57988</measure>
+            </extent>
             <publicationStmt>
-                <p/>
+                <p>Published as [part of ELTeC: <date>2018-12-01</date></p>
             </publicationStmt>
             <sourceDesc>
                 <bibl><title>The Man Who Was Thursday</title>
@@ -22,7 +26,9 @@
                     </publisher> First published in <date>1908</date></bibl>
             </sourceDesc>
         </fileDesc>
-
+<encodingDesc n="eltec-1">
+    <p></p>
+</encodingDesc>
         <!-- 
         <DC>
     <DC.Title></DC.Title>
@@ -41,6 +47,18 @@
     <DC.Rights>Public Domain</DC.Rights>
   </DC>
   -->
+        <profileDesc>
+            <langUsage><language ident="en"></language></langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-11-12">LB fix up header</change>
+        </revisionDesc>
     </teiHeader>
     <text>
 
@@ -4844,7 +4862,7 @@
                     commonplace text that he had heard somewhere, “Can ye drink of the cup that I
                     drink of?”</p>
 
-                <milestone rend="stars" unit="subchap"/>
+                <milestone rend="stars" type="subchap"/>
 
                 <p>When men in books awake from a vision, they commonly find themselves in some
                     place in which they might have fallen asleep; they yawn in a chair, or lift

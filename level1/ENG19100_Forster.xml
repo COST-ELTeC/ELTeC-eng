@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19100" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Howards End : ELTeC edition</title>
                 <author ref="viaf:31996364">
-                    <persName>
+                    Forster, Edward Morgan (1879-1970)
+                    <!--<persName>
                         <forename>Edward</forename>
                         <forename>Morgan</forename>
                         <surname>Forster</surname>
                     </persName>
-                    <persName>E.M. Forster</persName>
-                     <idno type="wiki">https://www.wikidata.org/wiki/Q189119</idno>
+                    <persName>E.M. Forster</persName>-->
+                    <idno type="wiki">https://www.wikidata.org/wiki/Q189119</idno>
                 </author>
                 <respStmt>
                     <resp>ELTeC encoding</resp>
@@ -20,8 +21,8 @@
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="words">20010</measure>
-                <measure unit="pages" >245</measure>
+                <measure unit="words">109810</measure>
+                <measure unit="pages">245</measure>
             </extent>
             <publicationStmt>
                 <p>Incorporated into the ELTeC <date>2018-02-12</date></p>
@@ -44,22 +45,24 @@
 -->
             </sourceDesc>
         </fileDesc>
+        <encodingDesc n="eltec-1">
+            <p></p>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
                 <language ident="en-BR" usage="99">British English</language>
                 <language ident="de" usage="1">German</language>
             </langUsage>
-            <textClass>
-                <keywords source="http://wikidata.org">
-                    <term>social class</term>
-                    <term>social convention</term>
-                    <term>modernity</term>
-                    <term>family drama</term>
-                </keywords>
-                <catRef target="#author_m #reprint_3"/>
-                <classCode scheme="UDC">8231.111</classCode>
-            </textClass>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+            </textDesc>
         </profileDesc>
+        <revisionDesc>
+            <change when="2018-11-12">LB update header</change>
+        </revisionDesc>
     </teiHeader>
     <text xml:id="EN0002" xml:lang="en">
         <front>
