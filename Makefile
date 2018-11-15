@@ -6,7 +6,7 @@ CORPUS1=$(LOCAL)/ELTeC-eng/level1
 SCHEMA0=$(LOCAL)/WG1/distantreading.github.io/Schema/eltec-0.rng
 CORPUS0=$(LOCAL)/ELTeC-eng/level0
 CORPUSHDR=corpHeaderStart.txt
-REPORTER=$(LOCAL)/WG1/Sampler/reporter.xsl
+REPORTER=$(LOCAL)/Scripts/reporter.xsl
 CURRENT=`pwd`
 
 validate:
