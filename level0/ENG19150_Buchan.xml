@@ -4,9 +4,8 @@
      <teiHeader>
           <fileDesc>
                <titleStmt>
-                    <title>The Project Gutenberg E-text of The Thirty-nine Steps, by John
-                         Buchan</title>
-                    <author>Buchan, John (? - ?)</author>
+                    <title>The Thirty-nine Steps: ELTeC edition</title>
+                    <author>Buchan, John (1875-1940)</author>
                </titleStmt>
                <extent><measure unit="words">40892</measure><measure unit="pages">221</measure></extent>
                <publicationStmt>
@@ -15,6 +14,7 @@
                <sourceDesc>
                     <bibl><title>The Project Gutenberg E-text of The Thirty-nine Steps, by John
                          Buchan</title>
+                         <ref target="gut:558"
                     <relatedItem type="copyText">
                          <bibl><title>The thirty-nine steps</title>
                          <author>John Buchan</author>
@@ -31,7 +31,7 @@
                <textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
                     <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
                </textDesc>
           </profileDesc>
