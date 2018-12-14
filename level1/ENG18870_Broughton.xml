@@ -1,4 +1,3 @@
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18870"
     xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2019,7 +2018,7 @@
 
 
                 <pb n="70" xml:id="VAB7385-074"/>
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
                 <!--fangfang-->
 
                 <p>Nine o'clock! The maid-servants are at evening church, combining the double
@@ -2204,7 +2203,7 @@
                 <p>"Oh no! that was St. John."</p>
                 <p>(" St. John! What a pretty name! How much prettier than Bob!")</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>Sir Thomas Gerard is walking up and down the library, with his watch in his hand,
                     prepared the instant the clock strikes to ring the bell violently, and inquire
@@ -2346,7 +2345,7 @@
                     contradict me, sir! I say there is; if I catch you propping those swing doors
                     open," &amp;c. &amp;c.</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>The birds have gone to bed, and the slugs come out to walk on the damp garden
                     paths. Now and then a little wind gets up, whispers a word or two to the
@@ -3421,7 +3420,7 @@
                 <p>And Esther <hi>does</hi> see, and thinking on Robert Brandon, is uneasily
                     joyful.</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
 
 
@@ -3565,7 +3564,7 @@
                         n="124" xml:id="VAB7385-128"/> what I say, or what I am, that makes me so ?
                     Is it anything mendable or unmendable?"</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>Precisely seventeen minutes past two of the clock, the Melford town-hall clock,
                     and visitors are beginning to arrive pretty thickly; three or four barouches,
@@ -4052,7 +4051,7 @@
                     waiting for any advice as to her conduct, snatching up her bouquet, she flies as
                     if shot from a crossbow, out of the window and into the garden.</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>Was not it Lord Chesterfield who said that the guests at a dinner party should
                     never be less than the Graces or more than the Muses? Kant preferred the Grace
@@ -4111,7 +4110,7 @@
                     Before Esther can decide this point quite to her mind, the signal of retirement
                     is given, and each maid and wife rises obedient and vanishes.</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>It is the general complaint in the Felton neighbourhood that at that house the
                     men sit unfashionably, wearisomely long over their wine. Sir Thomas belongs to
@@ -5333,7 +5332,7 @@
                     the pillow over to try and find a cooler place on the under side for her burning
                     face to rest on.</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>"Two dissyllabic names now passing many mouths by three dissyllabic names are
                     here expressed," reads Miss Blessington, with distinct gravity, after breakfast
@@ -5558,7 +5557,7 @@
                     possession," he says, laughing—"only minus the gout and wrinkles and spectacles
                     we shall also have come into possession of by then."</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>"What the devil do people mean," says Sir Thomas, entering the morning-room that
                     evening after dinner, with his hair brushed up into-a stiff cockatoo, and
@@ -6721,7 +6720,7 @@
                     or under <pb n="237" xml:id="VAB7385-241"/> what conditions, those endless,
                     endless eons will roll themselves away into the past?"</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>"We must bow beneath the rod," says old Mrs. Brandon, nodding her head and her
                     poke bonnet. It is the identical poke bonnet, and not another, in which she once
@@ -8052,7 +8051,7 @@
                     bear the weight of all your dead children, that lie so heavy on your mother
                     breast!</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
 
                 <p>One morning, on joining the Brandon family before prayers, Esther finds Mrs.
@@ -12721,7 +12720,7 @@
                     me, Essie; don't let ours be a one-sided compact."</p>
                 <p>And Essie, obedient, murmurs after him, "Till death us do part!"</p>
 
-                <milestone type="section" rend="stars"/>
+                <milestone unit="section" rend="stars"/>
 
                 <p>And so it comes to pass that in the sweet spring weather, when the ground is a
                     carpet of strewn cherry-blooms, when the cows stand knee-deep in buttercups, and

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19150" xml:lang="en">
      <teiHeader>
           <fileDesc>
@@ -14,7 +13,7 @@
                <sourceDesc>
                     <bibl><title>The Project Gutenberg E-text of The Thirty-nine Steps, by John
                          Buchan</title>
-                         <ref target="gut:558"
+                         <ref target="gut:558"/>
                     <relatedItem type="copyText">
                          <bibl><title>The thirty-nine steps</title>
                          <author>John Buchan</author>
