@@ -5,7 +5,10 @@
 <title>The purple cloud : ELTeC edition</title>
 <author>Shiel, Matthew Phipps (1865–1947)</author>
 </titleStmt>
-<publicationStmt><p>Published as part of ELTeC <date>2018-11-25</date></p></publicationStmt>
+<extent>
+<measure unit="words">101612</measure>
+</extent><publicationStmt><p>Published as part of ELTeC <date>2018-11-25</date></p></publicationStmt>
+
 <sourceDesc><bibl><ref>http://www.digital-eel.com/blog/library/The_Purple_Cloud.htm</ref></bibl>
 <bibl type="copyText">
 <title>The Purple Cloud</title>
@@ -16,7 +19,7 @@
 <encodingDesc n="eltec-0"><p/></encodingDesc>
 <profileDesc><langUsage><language ident="en"></language></langUsage><textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
 <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc></profileDesc>

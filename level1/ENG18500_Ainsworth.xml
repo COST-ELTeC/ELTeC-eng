@@ -7,6 +7,9 @@
 <title>Auriol, or The elixir of life : ELTeC edition</title>
 <author>Ainsworth, William Harrison (1805-1822)</author>
 </titleStmt>
+<extent>
+<measure unit="words">46373</measure>
+</extent>
 <publicationStmt>
 <p>Published as part of ELTeC <date>2018-12-22</date></p>
 </publicationStmt>
@@ -33,8 +36,8 @@
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
