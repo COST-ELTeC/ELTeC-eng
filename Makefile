@@ -30,4 +30,4 @@ driver:
 
 report:
 	echo report on corpus balance
-	saxon -xi $(CORPUS)/driver.tei $(REPORTER) >balance_report.html
+	saxon -xi $(CORPUS)/driver.tei $(REPORTER) CORPUS=eng >balance_report.html
