@@ -1,0 +1,19 @@
+$reading=0;
+while (<>) {
+if (/Bibliographic/) {
+$reading=1;
+print "<html><head><title>Stolen from Proquest<\/title></head>\n<body>\n
+<!--";
+}
+
+if (/\<h3\>/ and $reading) {
+print "-->\n";
+}
+
+next unless $reading;
+s/center>/span>/g;
+
+s/\-\-\-/&mdash;/g;
+
+print;
+}
