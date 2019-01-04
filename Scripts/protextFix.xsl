@@ -8,18 +8,27 @@
     </xsl:variable>
     <xsl:param name="bassettBase">/home/lou/Public/bookLists/Bassett/bassettPlus.xml</xsl:param>
     <xsl:param name="bassettKey">B7559</xsl:param>
-    <xsl:variable name="pageCount">
-        <xsl:value-of select="count(//t:hi[@rend = 'small'])"/>
+<xsl:variable name="pageCount">?</xsl:variable>
+    <!--   <xsl:value-of select="count(//t:hi[@rend = 'small'])"/>
     </xsl:variable>
-    <xsl:variable name="wordCount">
-        <xsl:value-of
+    -->
+    <xsl:variable name="wordCount">?</xsl:variable>
+       <!-- <xsl:value-of
             select="
                 string-length(normalize-space(//t:body))
                 -
                 string-length(translate(normalize-space(//t:body), ' ', '')) + 1"
         />
     </xsl:variable>
-    <xsl:template match="//t:teiHeader">
+    -->
+    
+    <xsl:template match="h:html">
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd_xxx">
+            <xsl:apply-templates/>
+        </TEI>
+    </xsl:template>  
+    
+    <xsl:template match="h:head">
         <xsl:message>Generating header for Bassett title <xsl:value-of select="$bassettKey"/> (
                 <xsl:value-of select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:title"
             />)</xsl:message>
@@ -45,14 +54,14 @@
                 <xsl:when test="$date le '1920'">T4</xsl:when>
             </xsl:choose>
         </xsl:variable>
-        <xsl:variable name="size">
-            <xsl:choose>
+        <xsl:variable name="size">?</xsl:variable>
+           <!-- <xsl:choose>
                 <xsl:when test="xs:integer($wordCount) le 50000">short</xsl:when>
                 <xsl:when test="xs:integer($wordCount) le 100000">medium</xsl:when>
                 <xsl:when test="xs:integer($wordCount) gt 100000">long</xsl:when>
             </xsl:choose>
-        </xsl:variable>
-        <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        </xsl:variable>-->
+        <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>
@@ -127,15 +136,90 @@
             </revisionDesc>
         </teiHeader>
     </xsl:template>
-    <xsl:template match="t:hi[@rend = 'small']">
+    
+    
+   
+    <xsl:template match="h:body">
+        <text><body>
+            <xsl:for-each-group select="*" group-starting-with="h:h4">
+                <div type="chapter">
+                    <xsl:for-each select="current-group()">
+                        
+                        <xsl:apply-templates select="."/>
+                        
+                    </xsl:for-each></div>
+            </xsl:for-each-group>
+        </body></text>
+    </xsl:template>
+    
+    <xsl:template match="h:h3|h:h4">   
+        <head><xsl:value-of select="."/></head>
+    </xsl:template>
+    
+    <xsl:template match="h:small/h:font">       
         <pb>
-            <xsl:attribute name="n">
-                <xsl:value-of select="substring-before(substring-after(., 'age '), ' ]')"/>
-            </xsl:attribute>
+            <xsl:if test="string-length(substring-before(substring-after(., 'age '), ' ]')) gt 1"
+                >
+                <xsl:attribute name="n">
+                    <xsl:value-of select="substring-before(substring-after(., 'age '), ' ]')"/>
+                </xsl:attribute></xsl:if>
         </pb>
     </xsl:template>
-    <xsl:template match="t:lb"/>
-    <xsl:template match="@rend"/>
+    
+    <xsl:template match="h:sup/h:a">
+        <ref target="{@href}">
+            <xsl:value-of select="."/>
+        </ref></xsl:template>
+    
+    <xsl:template match="h:div[@class='footnote']">
+        <note xml:id='{@id}'>
+            <xsl:value-of select="."/>
+        </note>
+    </xsl:template>
+    <xsl:template match="h:div[@class='footnote']/h:a"/>
+    <xsl:template match="h:div[@class='footnote']/h:lb"/>
+    
+    <xsl:template match="h:span[h:img]">
+        <milestone unit="subsection" rend="stars"/>
+    </xsl:template>
+    
+    <xsl:template match="h:p[h:img[@src='/images/inline/ast.gif']]">
+        <milestone unit="subsection" rend="stars"/>
+    </xsl:template>
+    
+    <xsl:template match="h:span[h:br]">
+        <quote>               
+            <xsl:for-each-group select="*" group-starting-with="h:br">
+                <xsl:for-each select="current-group()">                
+                    <l>                 
+                        <xsl:apply-templates
+                            select="normalize-space(following-sibling::text()[1])"/> 
+                    </l>
+                </xsl:for-each>
+                
+            </xsl:for-each-group></quote>
+    </xsl:template>
+    
+    <xsl:template match="h:span[string-length(normalize-space(.)) gt 1 and not(h:br) and not(h:img)]">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="h:center[h:br]">
+        <quote>               
+            <xsl:for-each-group select="*" group-starting-with="h:br">
+                <xsl:for-each select="current-group()">                
+                    <l>                 
+                        <xsl:apply-templates select="normalize-space(following-sibling::text()[1])"/> 
+                    </l>
+                </xsl:for-each>
+            </xsl:for-each-group></quote>
+    </xsl:template>
+    
+    <xsl:template match="h:small|h:sup|h:center|h:p[@align='center']"><xsl:apply-templates/></xsl:template>
+    <xsl:template match="h:br"/>
+    <xsl:template match="h:p"><p><xsl:apply-templates/></p></xsl:template>
+    <xsl:template match="h:strong|h:em"><hi><xsl:apply-templates/></hi></xsl:template>
+    
     <xsl:template match="* | @* | processing-instruction()">
         <xsl:copy>
             <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
@@ -143,7 +227,6 @@
     </xsl:template>
     <xsl:template match="text()">
         <xsl:value-of select="."/>
-        <!-- could normalize() here -->
+        
     </xsl:template>
-    <xsl:function name="e:wcount"> </xsl:function>
 </xsl:stylesheet>

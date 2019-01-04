@@ -12,7 +12,6 @@ print "-->\n";
 
 next unless $reading;
 s/center>/span>/g;
-
 s/\-\-\-/&mdash;/g;
 
 print;

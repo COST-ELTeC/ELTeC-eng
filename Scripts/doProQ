@@ -1,3 +1,2 @@
 perl ../Scripts/proquestTidy.prl $1.html | tidy -asxml -n >$1.tmp
-htmltotei $1.tmp
-saxon bassettKey=$2 $1.tmp.xml ../Scripts/protextFix.xsl >$2.xml
+saxon bassettKey=$2 $1.tmp ../Scripts/protextFix.xsl >$2.xml
