@@ -1,0 +1,4 @@
+#this script grabs a PG text by number and tries to convert it to ELTeC
+curl http://www.gutenberg.org/files/$1/$1-h/$1-h.htm  | tidy -asxml -n > G$1.xhtml
+htmltotei G$1.xhtml
+
