@@ -5,16 +5,15 @@
         <fileDesc>
             <titleStmt>
                 <title>Howards End : ELTeC edition</title>
-                <author ref="viaf:31996364">
-                    Forster, Edward Morgan (1879-1970)
+                <author ref="viaf:31996364">Forster, Edward Morgan (1879-1970)
                     <!--<persName>
                         <forename>Edward</forename>
                         <forename>Morgan</forename>
                         <surname>Forster</surname>
                     </persName>
                     <persName>E.M. Forster</persName>-->
-                    <idno type="wiki">https://www.wikidata.org/wiki/Q189119</idno>
-                </author>
+   <!--                 <idno type="wiki">https://www.wikidata.org/wiki/Q189119</idno>
+       -->         </author>
                 <respStmt>
                     <resp>ELTeC encoding</resp>
                     <name>Lou Burnard</name>
