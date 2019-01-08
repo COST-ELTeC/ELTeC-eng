@@ -156,12 +156,15 @@
         <head><xsl:value-of select="."/></head>
     </xsl:template>
     
-    <xsl:template match="h:small/h:font">       
+    <xsl:template match="h:small/h:font">  
+        <xsl:variable name="num">
+            <xsl:value-of select="normalize-space(substring-before(substring-after(., 'Page'),
+                ']'))"/>
+        </xsl:variable>
         <pb>
-            <xsl:if test="string-length(substring-before(substring-after(., 'age '), ' ]')) gt 1"
-                >
+            <xsl:if test="string-length($num) gt 0">
                 <xsl:attribute name="n">
-                    <xsl:value-of select="substring-before(substring-after(., 'age '), ' ]')"/>
+                    <xsl:value-of select="$num"/>
                 </xsl:attribute></xsl:if>
         </pb>
     </xsl:template>
