@@ -140,9 +140,20 @@
         match="h:pre|h:blockquote|h:p[@class='toc']|h:br|h:a|h:eg|h:table|h:hr|h:div[h:br]"/>
     
     
-    
+    <xsl:template match="h:span[@class='pagenum']">
+        <pb>
+            <xsl:attribute name="n">
+                <xsl:value-of select="substring-after(h:a/@name, 'Page_')"/>
+            </xsl:attribute>
+        </pb>
+    </xsl:template>
    
-    
+    <xsl:template match="h:span[@class='smcap']">
+        <hi><xsl:apply-templates/></hi>
+    </xsl:template>
+    <xsl:template match="h:p[@class='title']">
+        <milestone unit="subsection" n="{substring-after(.,' ')}"/>
+    </xsl:template>
     <xsl:template match="h:p">
         <p>
             <xsl:apply-templates/>
@@ -168,7 +179,7 @@
         </body></text>
     </xsl:template>
     
-    <xsl:template match="h:h2|h:h1|h:h3">   
+    <xsl:template match="h:h2|h:h1|h:h3|h:big">   
         <head><xsl:value-of select="."/></head>
     </xsl:template>
     
