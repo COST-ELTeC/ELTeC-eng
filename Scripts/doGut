@@ -1,4 +1,4 @@
 #this script grabs a PG text by number and tries to convert it to ELTeC
 curl http://www.gutenberg.org/files/$1/$1-h/$1-h.htm  | tidy -asxml -n -ascii > G$1.xhtml
-saxon bassetKey=$2 gutenKey=$1 G$1.xhtml  ../Scripts/gutenFix.xsl > $2.xml
+saxon bassettKey=$2 gutenKey=$1 G$1.xhtml  ../Scripts/gutenFix.xsl > $2.xml
 

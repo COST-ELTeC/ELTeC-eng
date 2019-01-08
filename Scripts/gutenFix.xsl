@@ -24,7 +24,7 @@
     -->
     
     <xsl:template match="h:html">
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd_xxx">
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd">
             <xsl:apply-templates/>
         </TEI>
     </xsl:template>  
@@ -179,7 +179,7 @@
         </body></text>
     </xsl:template>
     
-    <xsl:template match="h:h2|h:h1|h:h3|h:big">   
+    <xsl:template match="h:h2|h:h1|h:h3|h:big|h4">   
         <head><xsl:value-of select="."/></head>
     </xsl:template>
     
