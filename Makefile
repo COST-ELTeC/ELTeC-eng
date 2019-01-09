@@ -9,6 +9,7 @@ CORPUS1=$(LOCAL)/$(REPO)/level1
 SCHEMA0=$(LOCAL)/WG1/distantreading.github.io/Schema/eltec-0.rng
 CORPUS0=$(LOCAL)/$(REPO)/level0
 REPORTER=$(LOCAL)/Scripts/reporter.xsl
+AUTHORS=$(LOCAL)/Scripts/authorList.xsl
 CURRENT=`pwd`
 
 validate:
@@ -30,3 +31,4 @@ driver:
 report:
 	echo report on corpus balance
 	saxon -xi $(CORPUS)/driver.tei $(REPORTER) corpus=$(LANG) >$(CORPUS)/balance_report.html
+	saxon -xi $(CORPUS)/driver.tei $(AUTHORS) >$(CORPUS)/authorList.xml
