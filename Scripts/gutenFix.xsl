@@ -139,6 +139,25 @@
     <xsl:template
         match="h:pre|h:blockquote|h:p[@class='toc']|h:br|h:a|h:eg|h:table|h:hr|h:div[h:br]"/>
     
+    <xsl:template match="h:pre[preceding-sibling::h:h2]">
+        <quote><l><xsl:apply-templates/></l></quote>
+    </xsl:template>
+    
+    <xsl:template match="h:blockquote[preceding-sibling::h:h2]">
+        <quote><xsl:apply-templates/></quote>
+    </xsl:template>
+    
+    <xsl:template match="h:div[@class='poem']">
+        <quote>
+            <xsl:for-each select=".//h:div[not(@class)]">
+                <l><xsl:apply-templates/></l>
+            </xsl:for-each>
+        </quote>
+    </xsl:template>
+    
+    <xsl:template match="h:div[@class='block' or @class='block2']">
+        <xsl:apply-templates/>
+    </xsl:template>
     
     <xsl:template match="h:span[@class='pagenum']">
         <pb>
