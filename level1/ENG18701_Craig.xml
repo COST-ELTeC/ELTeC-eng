@@ -1,15 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18701">
-<teiHeader><fileDesc><titleStmt><title>Esther West: a Story : ELTec edition</title><author ref=""/>
-<respStmt><resp>ELTeC conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>
-<extent><measure unit="words">101345</measure></extent><publicationStmt><p>Published as part of ELTeC <date>2019-01-09</date></p></publicationStmt>
-<sourceDesc><bibl><title/><ref target="gerald-massey.org.uk/craig"/>
-<relatedItem><bibl type="copyText"><title>Esther West: a Story</title><author>Isa
-Craig-Knox</author><publisher>London: Cassell &amp; co</publisher><date>1870</date></bibl></relatedItem></bibl></sourceDesc></fileDesc>
-<encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage>
-<textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/></textDesc></profileDesc><revisionDesc><change when="2019-01-09">LB convert to ELTeC-1</change>
-</revisionDesc></teiHeader>
-
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18701">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Esther West: a Story : ELTec edition</title>
+<author ref="121952028">Craig, Isa (1831-1903)</author>
+<respStmt>
+<resp>ELTeC conversion</resp>
+<name>Lou Burnard</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">101345</measure>
+</extent>
+<publicationStmt>
+<p>Published as part of ELTeC <date>2019-01-09</date></p>
+</publicationStmt>
+<sourceDesc>
+<bibl><title/><ref target="gerald-massey.org.uk/craig"/>
+<relatedItem>
+<bibl type="copyText"><title>Esther West: a Story</title><author>Isa
+Craig-Knox</author><publisher>London: Cassell &amp; co</publisher><date>1870</date></bibl>
+</relatedItem></bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="eng">English</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+</textDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2019-01-09">LB convert to ELTeC-1</change>
+</revisionDesc>
+</teiHeader>
 <text>
 <front>
 <div type="titlepage">
@@ -7175,4 +7207,5 @@ however, to fill honest Timothy's heart with joy as full as it could bold; and t
 broad body of his was none of the smallest.</p>
 </div>
 </body>
-</text></TEI>
+</text>
+</TEI>
