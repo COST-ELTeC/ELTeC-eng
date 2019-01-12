@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18741">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18741">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The Parisians : ELTec edition</title>
-<author ref="viaf:99871326">Lytton, Edward Bulwer (1803-1873).</author>
+<author ref="viaf:99871326">Lytton, Edward Bulwer (1803-1873)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>

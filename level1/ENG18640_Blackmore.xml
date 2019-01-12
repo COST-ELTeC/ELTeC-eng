@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Clara Vaughan : ELTeC edition</title>
-                <author>Blackmore, Richard Doddridge (1825-1900)</author>
+                <author ref="viaf:59105182">Blackmore, Richard Doddridge (1825-1900)</author>
                 <respStmt>
                     <resp>HTML encoding</resp>
                     <name>Al Haines</name>
@@ -23,8 +21,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl><title>Clara Vaughan</title>
-                    <ref target="gut:41020 gut:41021
-                        gut:41022"/>
+                    <ref target="gut:41020 gut:41021                         gut:41022"/>
                     <relatedItem type="copyText">
                         <bibl><author>R.D. Blackmore</author><title>Clara Vaughan. A novel in three
                                 volumes</title>
@@ -132,8 +129,7 @@
                             attacks will be milder, and the intervals longer, when she has turned
                             fourteen. For the intellect you need have no fear whatever. Only keep
                             her quiet, and never force her to learn. She must only learn when it
-                            comes as it were with the wind. She will never forget what she <hi
-                                rend="italic">does</hi> learn."</p>
+                            comes as it were with the wind. She will never forget what she <hi rend="italic">does</hi> learn."</p>
                         <p>Hereupon, unless I am much mistaken, my father and mother fell to and
                             kissed and hugged one another, and I heard a sound like sobbing; then
                             they caught me up, and devoured me, as if I were born anew; and staring
@@ -360,8 +356,7 @@
                             follow me. The Gloucester physician said that since the disease of my
                             mind had taken that shape, it would be more dangerous to thwart than to
                             indulge it.</p>
-                        <p>It was the evening of the third day, and weary with but never <hi
-                                rend="italic">of</hi> my search, I was groping down the great
+                        <p>It was the evening of the third day, and weary with but never <hi rend="italic">of</hi> my search, I was groping down the great
                             oak-staircase in the dusk, hand after hand, and foot by foot, when
                             suddenly the main door-bell rang. The snow was falling heavily, and had
                             deadened the sound of wheels. At once I slid (as my father had taught me
@@ -1493,8 +1488,7 @@
                             worded; neither did it contain those powers to meet family exigencies,
                             which I am told a proper practitioner would have inserted.</p>
                         <p>There was no reason to suppose that the testator had contemplated
-                            anything more than a strict settlement of the usual kind, <hi
-                                rend="italic">i.e.</hi> a common estate entail, expectant upon a
+                            anything more than a strict settlement of the usual kind, <hi rend="italic">i.e.</hi> a common estate entail, expectant upon a
                             life-interest; and under which I should have succeeded my father, as his
                             heiress, in the ordinary course. But it is the chief fault of smatterers
                             in the law (and country attorneys at that time were no better) that they
@@ -1660,8 +1654,7 @@
                             minute's command of my faculties, I would have sold them for ever; but I
                             felt them ebbing from me, as the life does from a wound. The hemispheres
                             of my brain were parting one from the other, and a grey void spreading
-                            between them. I tried to think, but could not. I strove to say <hi
-                                rend="italic">anything</hi>, but failed. Fainter and fainter grew
+                            between them. I tried to think, but could not. I strove to say <hi rend="italic">anything</hi>, but failed. Fainter and fainter grew
                             the room, the lamp, the ceiling, the face at which I tried to look.
                             Things went to and fro with a quicker quiver, like flame in the wind,
                             then, round and round like whirling water; my mouth grew stiff, and the
@@ -12425,7 +12418,7 @@
                     </div>
                     <div type="chapter">
                         <head>CHAPTER XVII.EDGAR VAUGHAN's STORY CONTINUED. </head>
-                        <p>>Instead of enraging or maddening me, as the writer perhaps expected,
+                        <p>&gt;Instead of enraging or maddening me, as the writer perhaps expected,
                             this execrable letter did me a great deal of good. I determined to lower
                             that insufferable arrogance; and brought all my thoughts to bear upon
                             one definite object, the recovery of my darlings and the punishment of
@@ -12719,7 +12712,7 @@
                     </div>
                     <div type="chapter">
                         <head>CHAPTER XVIII.EDGAR VAUGHAN's STORY CONCLUDED. </head>
-                        <p>>They put me in the very hammock where that murderer of all my happiness
+                        <p>&gt;They put me in the very hammock where that murderer of all my happiness
                             had slept, and no wonder that I could find no rest there. Soon as I knew
                             the reason, I was allowed to change, and crept into the little berth
                             where my innocent pets had lain in each other's arms. Here I slept much
@@ -15130,8 +15123,7 @@
                             cross. My gaze was rivetted on a pair of boots, fixed in a ledge with
                             horse-shoe bays; on the sole of one I perceived a cross of metal inlaid;
                             I drew nearer to see it more closely, when something fell over my head.
-                            All down me, and round me, and twisted behind in a tight <hi
-                                rend="italic">tourniquet</hi>, before I could guess what it was. I
+                            All down me, and round me, and twisted behind in a tight <hi rend="italic">tourniquet</hi>, before I could guess what it was. I
                             am not weak, for a girl; but I could no more lift my arms than a swathed
                             mummy can. Neither could I kick, although as a child I had been famous
                             for that accomplishment; if I lifted either foot, I must tumble
@@ -16000,8 +15992,7 @@
                             ought to be very thankful, and what's more, I am. All of you likes Miss
                             Lily, unless they tell me stories, John.' 'Sir,' says I, 'we wusships
                             her, though not like our own Miss Vaughan.'"</p>
-                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi
-                                rend="italic">ex post facto</hi>?</p>
+                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi rend="italic">ex post facto</hi>?</p>
                         <p>"So he looked very pleased at that, Miss, and he says again, 'John, let
                             all that love her know that she is the living image of her mother. Now
                             go and send her quickly; but John, take care not to frighten my little

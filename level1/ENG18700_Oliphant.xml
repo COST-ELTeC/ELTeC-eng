@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- $Id: header.txt 236 2009-12-07 18:57:00Z vlsimpson $ -->
-<?xml-model href="../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18700" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><!-- $Id: header.txt 236 2009-12-07 18:57:00Z vlsimpson $ --><?xml-model href="../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18700" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Piccadilly : ELTeC edition</title> 
-<author>Oliphant, Laurence (1829-1888)</author>
+<author ref="viaf:17265739">Oliphant, Laurence (1829-1888)</author>
 <respStmt><resp>ELTeC conversion</resp><name>Lou Burnard</name></respStmt>
 </titleStmt>
 <extent>
@@ -32,14 +30,14 @@ Distributed Proofreading Team at http://www.pgdp.net</name>
 </sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc><profileDesc>
-<langUsage><language ident="en"></language></langUsage>
+<langUsage><language ident="en"/></langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
 <revisionDesc>
@@ -61,15 +59,14 @@ Distributed Proofreading Team at http://www.pgdp.net</name>
 <p><hi rend="italic">This Work originally appeared in 'Blackwood's Magazine,' and has been since
 revised and altered by the Author.</hi></p></div>
 <div type="liminal">
-<p><gap unit="graphic" n="illus1.jpg" /></p>
+<p><gap unit="graphic" n="illus1.jpg"/></p>
 <quote><l>"Some make love in
 poetry, </l><l>And some in—Piccadilly."</l>—<hi rend="smcap">Praed.</hi></quote>
 <quote><p>"<label>Faithful.</label>—'I say, then, in answer to what Mr Envy hath spoken, I
 never said aught but this, That what rule, or laws, or customs, or people, were flat against the
 Word of God, are diametrically opposed to Christianity. If I have said amiss in this, convince me of
-my error, and I am ready here, before you all, to make my recantation.'"—<hi rend="smcap"
->Bunyan's</hi> 'Pilgrim's Progress.'</p></quote></div>
-<gap unit="graphic" n="illus2.jpg" />
+my error, and I am ready here, before you all, to make my recantation.'"—<hi rend="smcap">Bunyan's</hi> 'Pilgrim's Progress.'</p></quote></div>
+<gap unit="graphic" n="illus2.jpg"/>
 <div type="liminal">
 <head>PREFACE.</head>
 <p>Five years have elapsed since the following pages were penned, and periodically issued, under an
@@ -700,8 +697,7 @@ me, that to sell 'the Temple' itself, whether under the name of an 'advowson,' a
 Chancellor brings in an Act for the purpose of facilitating this traffic in 'souls,' and 'augmenting
 the benefices' derived from curing them, I think it is high time, at the risk of giving offence to
 my friend the Bishop, and to the ecclesiastical establishment generally, to speak out. What times
-have we fallen upon that the priesthood itself, once an inspiration, has become a trade?"<ref
-target="#ENG18700_N1">[1]</ref></p>
+have we fallen upon that the priesthood itself, once an inspiration, has become a trade?"<ref target="#ENG18700_N1">[1]</ref></p>
 <p>Lady Broadhem seemed a little cowed by my vehemence, which some might have thought amounted to
 rudeness, but would not abandon the field. "The result," she said, "of impoverishing the Church will
 be, that you will only get literates to go into it; as it is, compared with other professions, it
@@ -744,8 +740,7 @@ instinctively left the still unwritten note and joined her.</p>
 <p>"This is a courageous proceeding, Lady Broadhem; the weather is scarcely mild enough for
 strolling."</p>
 <p>"I determined to make sure of some exercise," she replied,—"the clouds look threatening; besides,
-I have a good deal on my mind, and I can always think better when I am walking <hi rend="italic"
->alone</hi>."</p>
+I have a good deal on my mind, and I can always think better when I am walking <hi rend="italic">alone</hi>."</p>
 <p>She put a marked emphasis on the last word, I can't imagine why, so I said, "That is just my
 case. If you only knew the torture I am enduring, you would not wonder at my wanting to be alone. As
 for exercise, it would not be of the slightest use."</p>
@@ -1236,7 +1231,7 @@ of the policy upon which we are to be governed.</p>
 <p>"Wisely saith the greatest poet of the age, as yet, alas! unknown to fame:—</p>
 <l>"Reformers fail because they change the letter,
 </l>
-<l>>And not the spirit, of the world's design.
+<l>&gt;And not the spirit, of the world's design.
 </l>
 <l>Tyrant and slave create the scourge and fetter—
 </l>
@@ -1280,8 +1275,7 @@ of the policy upon which we are to be governed.</p>
 </l>
 <l>Why seek to win the mad world from its strife?
 </l>
-<l>Grow perfect in the sanity of life."<ref
-target="#ENG18700_N2">[2]</ref>
+<l>Grow perfect in the sanity of life."<ref target="#ENG18700_N2">[2]</ref>
 </l>
 <p>"Ah, my dear friend! how often, from my humble seat below the gangway, have I gazed upon the
 Treasury Bench, and wondered how it was that right hon. gentlemen, struggling to retain their
@@ -1308,9 +1302,7 @@ silence as from any other erratic act of my life. After all, what could I have s
 time, I thought, to venture upon that very delicate ground when I get his reply. But this I was
 destined never to receive, and the questions I had propounded are likely to remain unanswered, for
 on the very next day I received the following telegram from Lady Broadhem:—</p>
-<quote><p>"Your immediate presence here is absolutely necessary. Delay will be fatal.</p><p>"<hi
-rend="smcap">Mary Broadhem.</hi></p><p>"<hi rend="smcap">Grosvenor Square</hi>, <hi rend="italic"
->20th March</hi>."</p></quote></div>
+<quote><p>"Your immediate presence here is absolutely necessary. Delay will be fatal.</p><p>"<hi rend="smcap">Mary Broadhem.</hi></p><p>"<hi rend="smcap">Grosvenor Square</hi>, <hi rend="italic">20th March</hi>."</p></quote></div>
 <!--<p><gap unit="graphic"
 n="illus4.jpg"
 /></p>
@@ -1345,8 +1337,7 @@ Ursula?</p>
 I say to him?</p>
 <p>Sixth, Have Grandon and Lady Ursula met, and did anything pass between them?</p>
 <p>Thank goodness Grandon was at the House. So, after a hurried toilet, I went on to Grosvenor
-Square. The young ladies were both out. Lady Bridget had taken advantage of the <hi rend="italic"
->chaperonage</hi> of a newly-married rather fast female cousin, to go to a ball. Lady Ursula had
+Square. The young ladies were both out. Lady Bridget had taken advantage of the <hi rend="italic">chaperonage</hi> of a newly-married rather fast female cousin, to go to a ball. Lady Ursula had
 gone to a solitary tea with a crabbed old aunt. Lady Broadhem was in her own sitting-room, lying on
 a couch behind a table covered with papers. She looked wearily up when I entered, and held out a
 thin hand for me to do what I liked with. "How good of you to come, dear Frank!" she said. It was
@@ -1881,8 +1872,7 @@ line, Frank." He had not the least right to call me Frank; but as everybody, whe
 or not, called him Spiffy, he always anticipated this description of familiarity.</p>
 <p>"To tell you the truth, I could pull the Tompkinses through another season, but I am keeping all
 my best ideas for the Bodwinkles. Bodwinkles' first ball is to cost —2000. He wanted me to do it for
-—1500, and I should have been able to do it for that if Mrs Bodwinkle had had any <hi rend="italic"
->h</hi>'s; but the <hi rend="italic">crême, de la crême</hi> require an absence of aspirations to be
+—1500, and I should have been able to do it for that if Mrs Bodwinkle had had any <hi rend="italic">h</hi>'s; but the <hi rend="italic">crême, de la crême</hi> require an absence of aspirations to be
 made up to them somehow. Oh, with the extra £500 I can do it easily," said Spiffy, with an air of
 self-complacency. "She is a comparatively young woman, you see, without daughters; that simplifies
 matters very much. And then Bodwinkle can be so much more useful to political men than Gorgon
@@ -1969,8 +1959,7 @@ want to do? Eradicate snobbism from the British breast?—never! We should all, 
 the lowest, perish of inanition without it."</p>
 <p>"Society," said I, becoming metaphorical, "is like a fluid which is pervaded by that ingredient
 which you call 'snobbism,' the peculiarity of which is that you find it in equal perfection when it
-sinks to the bottom and becomes dregs, and when it rises to the surface and becomes <hi
-rend="italic">cr—me</hi>—though of course it undergoes some curious chemical changes, according to
+sinks to the bottom and becomes dregs, and when it rises to the surface and becomes <hi rend="italic">cr—me</hi>—though of course it undergoes some curious chemical changes, according to
 its position. However, that is only one of the elements which pollute what should be a transparent
 fluid. I am subjecting it just now to a most minute and careful analysis, and I feel sure I shall
 succeed in obtaining an interesting 'precipitate.' I do most earnestly trust both you and the world
@@ -2063,9 +2052,7 @@ done with society, I am going to take up the departments of the public service. 
 just now, it is only because I am so desperately in love, and my love is so desperately hopeless;
 and the whole thing is in such a mess, that one mess is enough. At present I am setting my
 dwelling-house in order. When that is done I will go to work to clean out the "offices."</p>
-<p><gap unit="graphic"
-n="illus5.jpg"
-/></p>
+<p><gap unit="graphic" n="illus5.jpg"/></p>
 <p>I may also allude here to another somewhat embarrassing circumstance which, had I not the good of
 my fellow-creatures at heart, might interfere with the progress of my narrative; and this is the
 morbid satisfaction which it seems to afford some people to claim for themselves the credit of being
@@ -2266,8 +2253,7 @@ to take the world by surprise, and I must congratulate you on your success."</p>
 fixed. What between Lady Broadhem's scruples about Lent and some arrangements I had to make in
 Ireland, there has been a good deal of delay, but I think," I went on, with a slight simper, "that
 it has nearly come to an end."</p>
-<p>"There," said I to Grandon, when they had favoured me with a few <hi rend="italic"
->banalités</hi>, and passed on, "that is explicit enough, surely; will that satisfy you, or do you
+<p>"There," said I to Grandon, when they had favoured me with a few <hi rend="italic">banalités</hi>, and passed on, "that is explicit enough, surely; will that satisfy you, or do you
 like this style better?" and I turned to receive Bower and Scraper, who generally hunt tufts and
 scandal in couples, and were advancing towards us with much <hi rend="italic">empressement</hi>.</p>
 <p>"My dear Lord Frank, charmed to see you; no wonder you are looking beaming, for you are the
@@ -2380,8 +2366,7 @@ Here is breakfast. It was you who last asked me to bury this unhappy subject, it
 make the same request. I wish to heaven it had never arisen between us."</p>
 <p>"What a lucky fellow you are!" said I, looking at him with the eye of a philosopher; "now you
 would never imagine yourself to be one of the most enviable men in London, with the most charming of
-women and the most devoted of friends ready to sacrifice themselves at your feet—she <hi
-rend="italic">incomprise</hi>, I <hi rend="italic">incompris</hi>."</p>
+women and the most devoted of friends ready to sacrifice themselves at your feet—she <hi rend="italic">incomprise</hi>, I <hi rend="italic">incompris</hi>."</p>
 <p>"Don't trifle," said Grandon, sternly, interrupting me; "my patience is not inexhaustible."</p>
 <p>"Luckily mine is," said I, with my mouth full of grilled salmon, "otherwise I should not be the
 right stuff for a social missionary. Apropos, you have never asked me what I have been doing in that
@@ -2647,17 +2632,14 @@ friends ever after; but I am strongly afraid mamma will disapprove. She will cal
 want to preach disobedience; but there are modes well known to my fair young friends of reading
 books which mamma forbids, and I trust that they will never read one against her wish which may
 leave a more injurious impression upon their minds than 'Piccadilly.'</p>
-<p><gap unit="graphic"
-n="illus6.jpg"
-/></p>
+<p><gap unit="graphic" n="illus6.jpg"/></p>
 </div>
 
 <div>
 <head>PART V. THE FLESH.</head>
 <p><hi rend="smcap">Piccadilly</hi>, <hi rend="italic">June</hi>.
 </p>
-<p>Somebody ought to compile a handbook for <hi rend="italic">débutants</hi> and <hi rend="italic"
->débutantes</hi>, setting forth the most approved modes of procuring invitations to balls and
+<p>Somebody ought to compile a handbook for <hi rend="italic">débutants</hi> and <hi rend="italic">débutantes</hi>, setting forth the most approved modes of procuring invitations to balls and
 parties during the London season. Not only would it be a very invaluable guide now, but it would be
 interesting for posterity to refer to as illustrating the manners and customs of their ancestors,
 and accounting for the hereditary taint of snobbism which is probably destined to characterise in an
@@ -2781,8 +2763,7 @@ orphans with unkind or Evangelical relations, or who are unexpectedly at the las
 their natural protectors, on applying to the undersigned will be provided with suitable chaperons.
 The undersigned begs to notify that his stock of chaperons will bear the strictest examination as to
 character, and have all at one time or other moved in the highest circles of society. No debutante
-or young lady whose birth and antecedents do not entitle her to the same privilege need apply. <hi
-rend="smcap">Spiffington Goldtip</hi>.'</p>
+or young lady whose birth and antecedents do not entitle her to the same privilege need apply. <hi rend="smcap">Spiffington Goldtip</hi>.'</p>
 <p>"Then the <hi rend="italic">pendant</hi> to this would be,—</p>
 <p>"'To Married Women or Widows without Daughters.—Married women, or widows without daughters, who
 have either dropped out of society or are in danger of dropping out, in consequence of there being
@@ -2826,8 +2807,7 @@ the world by storm is intolerable. It does not matter whether they know the peop
 not, it is always the same story. She pretends she is tremendously in love with Larkington because
 he goes everywhere, and her sister looks sentimental, and tries to work upon your feelings about
 'poor Amy,' whose only object in life is to meet him; but it is all a dodge to get asked. She cares
-no more for Larkington than for me. Now, I'll be bound Wild Harrie put something about <hi
-rend="italic">very particular reasons</hi> in her note to you."</p>
+no more for Larkington than for me. Now, I'll be bound Wild Harrie put something about <hi rend="italic">very particular reasons</hi> in her note to you."</p>
 <p>"Well," said I, astonished at Spiffy's penetration, and at the new views of life he was placing
 before me, "I must admit that that phrase did occur."</p>
 <p>"Of course it did; why, it is one of the regular forms of 'extorting invitations under false
@@ -2984,19 +2964,15 @@ whose hair, for the space of one inch on either side, is black, while the two la
 temples are red. That, sir, is a phenomenon I have not remarked in my own country."</p>
 <p>"Don't you know how it happens?" said that spiteful old Lady Catchpole, whose eyes twinkled with
 malice as she explained to Mr Wog that, when the hair had been thoroughly dyed it could only recover
-its natural colour by this slow process, but that usually the effect was concealed by a <hi
-rend="italic">postiche</hi>; and she looked hard at Lady Veriphast, whose hair was suspiciously <hi
-rend="italic">crep—</hi>, and who wished it to be supposed that she blushed because she was still
+its natural colour by this slow process, but that usually the effect was concealed by a <hi rend="italic">postiche</hi>; and she looked hard at Lady Veriphast, whose hair was suspiciously <hi rend="italic">crep—</hi>, and who wished it to be supposed that she blushed because she was still
 under the pressure of the Asiatic ambassador.</p>
 <p>"What is the exact meaning of the term <hi rend="italic">postiche</hi>?" asked Mr Wog, who
 observed Lady Veriphast's confusion, and whose thirst for information seemed to increase with his
 powers of making himself disagreeable; "I guess it must mean some kind of wig."</p>
-<p>"No," said Lady Catchpole; "anything false which is well made up we call a <hi rend="italic"
->postiche</hi>; it need not be exactly a wig."</p>
+<p>"No," said Lady Catchpole; "anything false which is well made up we call a <hi rend="italic">postiche</hi>; it need not be exactly a wig."</p>
 <p>"Nor yet a Tory," interrupted Wog, with more readiness than I gave him credit for. "I calculate
 you should call a Liberal Conservative a <hi rend="italic">postiche</hi>. It seems to me the most
-popular political platform in this country at your next elections is going to be <hi rend="italic"
->postiche</hi>."</p>
+popular political platform in this country at your next elections is going to be <hi rend="italic">postiche</hi>."</p>
 <p>"Look, my dear," said Lady Pimlico to Lady</p>
 <p>Mundane, "there are the two Frenchwomen," and she directed universal attention to the last
 importations from the Continent, Madame la Princesse de Biais—e — la Queue, and La Baronne de Colt—,
@@ -3060,8 +3036,7 @@ on a humble scale, the same act of worship as those above you.</p>
 said, "you are not to be congratulated after all? I suppose you heard of our dinner at the
 Whitechapels'? We all thought your conduct very incomprehensible. I assure you Lady Broadhem seemed
 as much in the dark as the rest of us."</p>
-<p>"And you want to be enlightened?" said I. "Well, it has been a social <hi rend="italic"
->canard</hi> throughout, which I did not at first think worth contradicting. There must be a certain
+<p>"And you want to be enlightened?" said I. "Well, it has been a social <hi rend="italic">canard</hi> throughout, which I did not at first think worth contradicting. There must be a certain
 number every season."</p>
 <p>"I am sure we want them more than ever now," said Wild Harrie. "Was there ever such an utterly
 flat season? I only went to two balls last week, and, as they say at 'the corner,' 'there was
@@ -3190,11 +3165,9 @@ abstract politics; so that practically, you see, I have no difficulty, so far as
 concerned."</p>
 <p>"Wog is right," I mused as I walked home—"<hi rend="italic">postiche</hi> is everywhere. We
 certainly do 'make up' well. I suppose this country never looked more fair and flourishing in the
-eyes of the world in general than it does at this moment. We have made a great <hi rend="italic"
->succès</hi> by means of <hi rend="italic">postiche</hi>—there is no denying it. But we shall fall
+eyes of the world in general than it does at this moment. We have made a great <hi rend="italic">succès</hi> by means of <hi rend="italic">postiche</hi>—there is no denying it. But we shall fall
 to pieces all of a sudden like old Lady Pimlico; and the wrinkles will appear before long in the
-national cheeks in spite of the rouge. Ah, the taunts we shall have to endure when the <hi
-rend="italic">postiche</hi> is discovered, from the rivals that have always been jealous and are
+national cheeks in spite of the rouge. Ah, the taunts we shall have to endure when the <hi rend="italic">postiche</hi> is discovered, from the rivals that have always been jealous and are
 still under the prestige of our former charms! Then the kings of the earth with whom we have lived
 delicately will turn against us, for they will remember our greed and our pride and our egotism, in
 the days when we sold our virtue for gold, and our honour for a mess of pottage. Is there no one who
@@ -3384,9 +3357,7 @@ thing to do about everything."</p>
 the way he spoke about his sister. "Depend upon it, no half confidences do in such a case. Tell her
 that I shall come to you on Thursday of next week;" and I pressed his hand. I had never cared about
 him for his own sake, but my heart warmed towards him for hers.</p>
-<p><gap unit="graphic"
-n="illus7.jpg"
-/></p>
+<p><gap unit="graphic" n="illus7.jpg"/></p>
 </div>
 
 <div>
@@ -4023,8 +3994,7 @@ close. Think of the old Scripture, 'The wicked shall be turned into hell, and al
 forget God.'"</p>
 <p>"Who is that?" whispered Broadhem. "I never saw him before."</p>
 <p>"I want to be alone with him," I replied. "Good night, Broadhem. You had better go back now, or
-you will find your friends gone. Think over what I have said. Once realise the '<hi rend="italic"
->mystery</hi> of godliness,' and the martyrdom which it must entail will lose its terrors."</p>
+you will find your friends gone. Think over what I have said. Once realise the '<hi rend="italic">mystery</hi> of godliness,' and the martyrdom which it must entail will lose its terrors."</p>
 <p>"Let him sacrifice us if He will," said he who had before spoken. "The true man is but a
 cannon-shot, rejoicing most of all when the Divine Artillerist shall send him irresistible and
 flaming against some foeman of the race risen from Pandemonium. Man—the true man—is like the
@@ -4034,9 +4004,7 @@ Spirit-sword, but the sword-arm is moved by the heart of the Almighty."</p>
 idiots in this vast asylum, for one sane man has trodden them, and I listened to the words of wisdom
 as they dropped from the lips of one so obscure that his name is still unknown in the land, but I
 doubted not who at that moment was the greatest man in Piccadilly.</p>
-<p><gap unit="graphic"
-n="illus8.jpg"
-/></p>
+<p><gap unit="graphic" n="illus8.jpg"/></p>
 </div>
 
 
@@ -4084,8 +4052,7 @@ know, who has any influence over him is Mrs Loveton," responds her ladyship, wit
 from dyspepsia.</p>
 <p>"I have hit it;" and for a moment Larkington looks animated. "Squabbleton is close to the coast,
 and we will make a party, and I will take you all round in my yacht, the Lovetons and you and
-Veriphast; we'll go and do the electioneering business together, and keep the yacht as a sort of <hi
-rend="italic">pied — terre</hi>, or rather <hi rend="italic">pied à mer</hi>;" and Larkington
+Veriphast; we'll go and do the electioneering business together, and keep the yacht as a sort of <hi rend="italic">pied — terre</hi>, or rather <hi rend="italic">pied à mer</hi>;" and Larkington
 chuckled, partly at his joke, and partly at this brilliant solution of his dilemma.</p>
 <p>And so, while all the world is trying to reconcile their pleasure with what they are pleased to
 term their duty, being always the duty they owe to themselves, my thoughts are diverted into a very
@@ -4341,8 +4308,7 @@ caused her. "What are you doing in my daughter's private sitting-room, Lord Fran
 Broadhem, between her teeth.</p>
 <p>"I came to tell her of your sudden illness, and explain the cause of it," I replied, calmly.</p>
 <p>"And have you done so?" and I saw how much depended on my answer by the nervous way in which Lady
-Broadhem clenched her hand to control her emotion: she has given me a good many <hi rend="italic"
->mauvais quarts d'heures</hi>, I thought—I will give her one now.</p>
+Broadhem clenched her hand to control her emotion: she has given me a good many <hi rend="italic">mauvais quarts d'heures</hi>, I thought—I will give her one now.</p>
 <p>"I was just telling Lady Ursula," I said, "that Mr Chundango had positively had the impudence to
 propose to you"—Lady Broadhem gave a sort of suppressed scream—"when you came in."</p>
 <p>"Then you did not tell her what he proposed?" she said.</p>

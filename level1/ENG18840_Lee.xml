@@ -1,10 +1,9 @@
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18840" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18840" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
                 <title>Miss Brown : ELTeC edition</title>
-                <author>Lee, Vernon (1856-1935)</author>
+                <author ref="viaf:68945580">Lee, Vernon (1856-1935)</author>
                 <respStmt>
                     <resp>Transcribed and encoded by </resp>
                     <name>Sarah Gallogly</name>
@@ -33,34 +32,19 @@
 </title><author>Lee, Vernon, 1856-1935</author><publisher>Digital
 Library Program, Indiana University</publisher><pubPlace>Bloomington,
 IN</pubPlace><idno>VAB7107</idno><relatedItem type="copyText"><bibl><title>Miss
-Brown</title><author>Lee, Vernon, 1856-1935</author><publisher/><pubPlace>London </pubPlace><date
-when="1884">1884</date></bibl></relatedItem></bibl></sourceDesc>
+Brown</title><author>Lee, Vernon, 1856-1935</author><publisher/><pubPlace>London </pubPlace><date when="1884">1884</date></bibl></relatedItem></bibl></sourceDesc>
 </fileDesc> <encodingDesc n="eltec-1"><p/></encodingDesc>
-<profileDesc><langUsage><language
-ident="eng">English</language></langUsage><textDesc><authorGender
-xmlns="http://distantreading.net/eltec/ns" key="F"/><size
-xmlns="http://distantreading.net/eltec/ns" key="long"/><canonicity
-xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot
-xmlns="http://distantreading.net/eltec/ns"
-key="T3"/></textDesc></profileDesc> <revisionDesc><change
-when="2018-07-23">LB convert to ELTeC-1</change><change
-when="2010-09-01">elizabethmunson: Added genre term</change><change
-when="2010-08-02">elizabethmunson: Removed date from fileDesc
+<profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc> <revisionDesc><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-09-01">elizabethmunson: Added genre term</change><change when="2010-08-02">elizabethmunson: Removed date from fileDesc
 title</change><change when="2010-08-02">elizabethmunson: Normalized
-"volume" in fileDesc title</change><change
-when="2010-08-02">elizabethmunson: Added LCNAF form of author name to
+"volume" in fileDesc title</change><change when="2010-08-02">elizabethmunson: Added LCNAF form of author name to
 sourceDesc (hyphen adjusted for both sourceDesc and
 fileDesc)</change><change when="2010-08-02">elizabethmunson:
-Normalized date in biblFull/publicationStmt</change><change
-when="2009-10-27">#bn: Normalized id scheme and
+Normalized date in biblFull/publicationStmt</change><change when="2009-10-27">#bn: Normalized id scheme and
 encoding</change><change when="2009-05-10">#bn: Coverted from P4 to
-P5</change></revisionDesc> </teiHeader> <text
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <front> <div
-type="titlepage"> <p> MISS BROWN A NOVEL </p> <p>BY VERNON LEE AUTHOR
+P5</change></revisionDesc> </teiHeader> <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <front> <div type="titlepage"> <p> MISS BROWN A NOVEL </p> <p>BY VERNON LEE AUTHOR
 OF ‘EUPHORION,’ ‘BELCARO,’ ETC.</p> <p>IN THREE VOLUMES</p>
 <p>VOL. I.</p> <p> WILLIAM BLACKWOOD AND SONS EDINBURGH AND LONDON
-</p> <p>MDCCLXXXIV</p> <p>All Rights Reserved</p> </div> <pb
-xml:id="VAB7107-001"/> <div type="liminal"> <p>TO HENRY JAMES, I
+</p> <p>MDCCLXXXIV</p> <p>All Rights Reserved</p> </div> <pb xml:id="VAB7107-001"/> <div type="liminal"> <p>TO HENRY JAMES, I
 DEDICATE, FOR GOOD LUCK, MY FIRST ATTEMPT AT A NOVEL.</p> </div>
 </front> <body> <pb xml:id="VAB7107-002"/> <div type="part">
 <head>BOOK I.</head> <pb n="3" xml:id="VAB7107-003"/> <head>MISS
@@ -73,8 +57,7 @@ starting. Pale, milky morning sky, deepening into luminous blue
 opposite the fast‐rising sun; misty blue‐green valley bounded by
 unsubstantial Apennine peaks and Carrara crags; yellow shimmer of
 vines and of maize, green sparkle of pine and fir branches, glitter of
-vermilion sand crumbling under his feet among the sear grass<pb n="4"
-xml:id="VAB7107-004"/> and the brown cistus tufts,—all these things
+vermilion sand crumbling under his feet among the sear grass<pb n="4" xml:id="VAB7107-004"/> and the brown cistus tufts,—all these things
 seemed to have lost for him their emotional colour, their imaginative
 luminousness. He tried to realise the time when all these things had
 given him a thrill, had gone to his head, nay, when the mere sense of
@@ -89,8 +72,7 @@ keeping; and besides, a washed‐out world, a man with worn‐out
 feelings, have quite as much psychologic interest for a poet as the
 reverse.</p> <p>Walter Hamlin had never been your splash‐of‐scarlet
 and dash‐of‐orange‐and‐skyblue, lust‐and‐terror kind of lyrist; but he
-had begun his poetical career with a quiet concentra‐<pb n="5"
-xml:id="VAB7107-005"/> tion of colour, physical and moral, which had
+had begun his poetical career with a quiet concentra‐<pb n="5" xml:id="VAB7107-005"/> tion of colour, physical and moral, which had
 made his earliest verses affect one like so many old church windows,
 deep flecks of jewel lustre set in quaint stiff little frames, with a
 great deal of lead between, and supreme indifference to anatomy and
@@ -105,8 +87,7 @@ intellectual pallor, of which this utter listlessness, this
 indifference even to having grown indifferent, was, as it were, the
 faint key‐note. The world was a pale and prismatic mist, full of
 vague, formless ghosts, in which it was possible to see only as far as
-to‐day; and, indeed, why wish to see that paler to‐day called<pb n="6"
-xml:id="VAB7107-006"/> to‐morrow?  Perhaps there was a little
+to‐day; and, indeed, why wish to see that paler to‐day called<pb n="6" xml:id="VAB7107-006"/> to‐morrow?  Perhaps there was a little
 depression added to Hamlin’s usual listlessness.  It had given him a
 kind of little shock to see Melton Perry again, after those twelve or
 thirteen years; bringing back to him the time when he had been the
@@ -121,8 +102,7 @@ in indigo velveteen, with peacocks’ feathers in his button‐hole, and
 silver‐gilt grasshoppers in his hair. Poor old Perry! Absurd days
 those were, thought Hamlin, as he walked slowly towards the house,
 through the grass and hemlock bending with dew, pushing aside the fig
-branches and vine trails along the narrow path between the<pb n="7"
-xml:id="VAB7107-007"/> terraced olives; absurd days those, and at
+branches and vine trails along the narrow path between the<pb n="7" xml:id="VAB7107-007"/> terraced olives; absurd days those, and at
 which he could now, having grown grave and listless, only faintly
 smile.  Still the sight of Perry had brought back to him that
 recurring sense that all those absurd lads of long‐gone days, turned
@@ -210,8 +190,7 @@ adjoining dressing‐room, where boots and canvases littered the
 floor. But on the mirror was a paper, on which was written in the
 largest characters: “I am gone to sketch at the Lake of Massaciuccoli;
 shan’t be back till lunch; please look after Hamlin.”</p> <p>“Confound
-it!” thought Hamlin, “am I to be left in <foreign
-xml:lang="fre">tête‐à‐tête</foreign> with Mrs Perry all the morning?”
+it!” thought Hamlin, “am I to be left in <foreign xml:lang="fre">tête‐à‐tête</foreign> with Mrs Perry all the morning?”
 But since Melton Perry thought nothing of leaving his guest alone all
 the morning, he too—the guest—might surely be permitted to slip away
 after breakfast from the effusive æstheticism of his
@@ -230,8 +209,7 @@ and saucers and jugs, and a cut loaf and a plate of figs. “This looks
 more like it,” thought Hamlin, wondering what had become of the
 inmates of this mysterious abode of sleep.  Suddenly he heard children
 talking in a room at the end of the passage, and a sort of subdued,
-deep, melancholy chant, like some church song. He went<pb n="14"
-xml:id="VAB7107-014"/> to the door whence came the sounds, and knocked
+deep, melancholy chant, like some church song. He went<pb n="14" xml:id="VAB7107-014"/> to the door whence came the sounds, and knocked
 gently. The childish chattering did not stop, nor the fitful gusts of
 chant—deep, nasal, but harmonious and weird, with curious, sudden,
 metallic falsetto notes, less like the voice of a woman than of a
@@ -260,8 +238,7 @@ brasier, and stared full at Hamlin with large wide‐opened eyes of
 strange dark‐greyish blue, beneath heavy masses of dark lustreless
 hair, crimped naturally like so much delicate black iron wire, on her
 narrow white brow.</p> <p>“I beg your pardon,” said Hamlin again; “but
-can you tell me how I may get some breakfast?”</p> <pb n="16"
-xml:id="VAB7107-016"/> <p>He could not help smiling in proffering this
+can you tell me how I may get some breakfast?”</p> <pb n="16" xml:id="VAB7107-016"/> <p>He could not help smiling in proffering this
 innocent request, so serious and almost tragic was the face of the
 girl.</p> <p>“It’s Mr Hamlin,” tittered the children, rolling under
 the table, and hanging to the table‐cloth.</p> <p>The young woman eyed
@@ -288,8 +265,7 @@ wait. Couldn’t you give me something to eat? I saw a table spread in
 the next room.”</p> <p>The girl put down her iron with a sort of
 subdued irritation of manner.</p> <p>“It’s the children’s breakfast,
 sir,” she answered; “we have neither tea nor coffee.”</p> <p>“We have
-milk,” said the eldest of the little girls pertly, “and figs.”</p> <pb
-n="18" xml:id="VAB7107-018"/> <p>“Milk and figs!” exclaimed Hamlin;
+milk,” said the eldest of the little girls pertly, “and figs.”</p> <pb n="18" xml:id="VAB7107-018"/> <p>“Milk and figs!” exclaimed Hamlin;
 “why, that’s a breakfast for the gods! and won’t you,” he went on
 rather appealingly—“won’t you share a little of it with me?”</p>
 <p>“You are Mrs Perry’s guest,” said the girl more sullenly than ever,
@@ -298,8 +274,7 @@ felt rather taken aback.</p> <p>“Indeed!” he said. “I don’t wish to do
 anything against the habits of the house, or disagreeable to you.”</p>
 <p>“It is not against any rules,” she answered. “If you will excuse
 me, I will see whether the milk is heated. The children will show you
-the way.”</p> </div> <pb n="19" xml:id="VAB7107-019"/> <div
-type="chapter"> <head>CHAPTER II.</head> <p><hi>HAMLIN</hi> felt
+the way.”</p> </div> <pb n="19" xml:id="VAB7107-019"/> <div type="chapter"> <head>CHAPTER II.</head> <p><hi>HAMLIN</hi> felt
 rather contrite and humiliated as he sat down at the square table,
 with the two eldest children, pert little rosy and flaxen things, on
 either side of him, and the three little ones staring at him, and then
@@ -323,8 +298,7 @@ in love with the gardener’s girl when he came here last year, mamma
 says.”</p> <p>“Good heavens!” thought Hamlin, “what a mamma and what
 children!”</p> <p>“And mamma told us to get some myrtles and put them
 in your room,” blurted out a smaller one.</p> <p>“Hush, Winnie! You
-know you shouldn’t tell,” said the eldest.</p> <pb n="21"
-xml:id="VAB7107-021"/> <p>“And you know,” insisted the younger, in her
+know you shouldn’t tell,” said the eldest.</p> <pb n="21" xml:id="VAB7107-021"/> <p>“And you know,” insisted the younger, in her
 little, impertinent lisp, “mamma said we should put the myrtles,
 because you made poems about myrtles; and we were to have had on our
 best frocks, and met you in the hall, and—”</p> <p>“Hush, Winnie!”</p>
@@ -337,8 +311,7 @@ skirt and loose jacket of striped peasant cotton, which at a distance
 looked like a dull, rich purple.  She sat down at the head of the
 table, and began silently helping the hot milk.</p> <p>“May I cut the
 bread for you?” asked Hamlin, feeling quite shy from her silence.</p>
-<p>“I don’t think you will know how to do<pb n="22"
-xml:id="VAB7107-022"/> it,” she answered. “We have only yesterday’s
+<p>“I don’t think you will know how to do<pb n="22" xml:id="VAB7107-022"/> it,” she answered. “We have only yesterday’s
 bread at this hour, until the cook returns from market.” When the milk
 was helped and the bread cut, she said, rather sharply—</p> <p>“Now,
 children, say your prayer.”</p> <p>The children immediately set up a
@@ -352,8 +325,7 @@ thought, because she was a Catholic.</p> <p>“That’s mamma’s Tuesday
 hymn,” said Winnie; “she makes a different one for each day of the
 week.”</p> <p>Whereupon the children fell vigorously to their
 breakfast of bread and milk.  Heaven knows when Hamlin had eaten bread
-and milk last—probably, he thought, not since he<pb n="23"
-xml:id="VAB7107-023"/> had been out of frocks; but it seemed to him
+and milk last—probably, he thought, not since he<pb n="23" xml:id="VAB7107-023"/> had been out of frocks; but it seemed to him
 pleasant and pastoral. He would have enjoyed this improvised breakfast
 had the children chattered less incessantly (Hamlin did not care for
 children), and had he not continued to feel rather as if he had been
@@ -368,8 +340,7 @@ breakfast‐table, but that he had no chance of intruding his
 personality upon her notice. But her very indifference afforded Hamlin
 an opportunity, and, as it were, a right, to examine her appearance:
 one may surely look at a person who obstinately refuses to notice
-one. She was very beautiful, and even more than<pb n="24"
-xml:id="VAB7107-024"/> beautiful—strange. She seemed very young,
+one. She was very beautiful, and even more than<pb n="24" xml:id="VAB7107-024"/> beautiful—strange. She seemed very young,
 certainly, thought Hamlin—not more than nineteen at most; but her
 face, though of perfectly smooth complexion, without furrow or
 faintest wrinkle, was wholly unyouthful; the look was not of age, for
@@ -399,8 +370,7 @@ un‐Hellenic beauty, had met him before. The nearest approach seemed to
 be certain mournful and sullen heads of Michaelangelo, the type was so
 monumental, and at the same time so picturesque; and as he looked at
 the girl, it seemed, despite its strangeness, as if, at some dim
-distant time, he had seen and known it well before.</p> <pb n="26"
-xml:id="VAB7107-026"/> <p>He looked at her with the curiosity of an
+distant time, he had seen and known it well before.</p> <pb n="26" xml:id="VAB7107-026"/> <p>He looked at her with the curiosity of an
 artist examining a model, or a poet trying to solve a riddle; there
 was, he felt conscious, nothing insolent or offensive in his
 stare. Yet he felt he must break the silence; so, with real
@@ -414,8 +384,7 @@ perhaps. No, never; no Jewess was ever so pure and statuesque of
 outline: some Eastern, dashed with Hindoo or Negro; they were much
 coarser, more common, of far more obvious, less subtle beauty.</p>
 <p>“You mean English by adoption,” he suggested, “surely not by
-blood?”</p> <p>“My mother was an Italian. I think her<pb n="27"
-xml:id="VAB7107-027"/> family came from Sicily or Sardinia, or
+blood?”</p> <p>“My mother was an Italian. I think her<pb n="27" xml:id="VAB7107-027"/> family came from Sicily or Sardinia, or
 somewhere,where there are Spaniards and Moors,” she answered; “but my
 father was Scotch. He came from Aberdeen.”</p> <p>“Have you ever been
 in Scotland?” he asked, just by way of saying something to mitigate
@@ -429,8 +398,7 @@ we once went with papa, and saw a man‐of‐war, and all the boilers and
 big, big cannons,” interrupted a smaller one.</p> <p>“And he was a
 bad, bad man,” went on the eldest, composedly. “He used to drink
 quantities of <foreign xml:lang="ita">acquavite</foreign>; and one day
-when he had<pb n="28" xml:id="VAB7107-028"/> drunk so much <foreign
-xml:lang="ita">acquavite</foreign>, do you know what he did? He tried
+when he had<pb n="28" xml:id="VAB7107-028"/> drunk so much <foreign xml:lang="ita">acquavite</foreign>, do you know what he did? He tried
 to throw Annina’s mother out of the window, and then shot himself with
 a revolver.”</p> <p>Hamlin listened as the cruel words dribbled out,
 and stared at the childish face. He had never taken any interest in
@@ -444,8 +412,7 @@ to do our picture?  Mamma said you would want to paint us angels or
 fairies. All the painters paint us, because, mamma says, we are the
 most beautiful children in Florence. They always give us chocolate and
 <foreign xml:lang="fre">marrons glacés</foreign> to keep us
-quiet.”</p> </div> <pb n="29" xml:id="VAB7107-029"/> <div
-type="chapter"> <head>CHAPTER III.</head> <p><hi>WHEN</hi> breakfast
+quiet.”</p> </div> <pb n="29" xml:id="VAB7107-029"/> <div type="chapter"> <head>CHAPTER III.</head> <p><hi>WHEN</hi> breakfast
 was over, and she had made the children fold up their napkins, the
 nurse took what remained of figs, bread, and milk to lock up in the
 kitchen. Mildred, the eldest of the little Perrys, sidled up to
@@ -456,8 +423,7 @@ fiend with a sort of disgust and contempt. “Thank you,” he said;
 “gardens aren’t much in my line.”</p> <p>The little thing scowled at
 this rebuff of her fascinations. But a sudden thought struck
 Hamlin. “Yes, by the way,” he said, “I do take an interest in gardens
-sometimes. Come and show me yours.”</p> <pb n="30"
-xml:id="VAB7107-030"/> <p>Mildred slipped her arm through his—a
+sometimes. Come and show me yours.”</p> <pb n="30" xml:id="VAB7107-030"/> <p>Mildred slipped her arm through his—a
 long‐legged, fair‐haired, pre‐Raphaelite child, in much‐darned
 stockings and patched pinafore—Winnie, the second, a rounder, more
 comfortable, cherubic beauty, seized his hand.  He let himself be led
@@ -471,8 +437,7 @@ him along, and pointing to the melancholy little patch. “I have
 marigolds, and sunflowers, and red beans and potatoes.”</p> <p>“And
 this is mine,” said Mildred, raising her big blue eyes. “I call it the
 garden of Acrasia; because mamma told us once about Sir Guyon—”</p>
-<p>“Won’t you give us anything to buy seeds<pb n="31"
-xml:id="VAB7107-031"/> with; we want tomato seeds,” clamoured
+<p>“Won’t you give us anything to buy seeds<pb n="31" xml:id="VAB7107-031"/> with; we want tomato seeds,” clamoured
 Winnie.</p> <p>“Hush, Winnie! I wonder you’re not ashamed!” cried
 Mildred.</p> <p>“They are very good sort of gardens,” said Hamlin,
 fishing in his waistcoat for loose silver, while the children looked
@@ -486,8 +451,7 @@ a fairy.</p> <p>“Look here,” said Hamlin, quietly; “I want to know how
 you would feel if your papa had been in the habit of drinking too much
 <foreign xml:lang="ita">acquavite</foreign>, and had shot himself
 after trying to murder your mamma, and some nasty little girl blurted
-it all out at breakfast to a perfect stranger?”</p> <pb n="32"
-xml:id="VAB7107-032"/> <p>The child flushed with surprise and anger;
+it all out at breakfast to a perfect stranger?”</p> <pb n="32" xml:id="VAB7107-032"/> <p>The child flushed with surprise and anger;
 she looked as if she would have scratched Hamlin’s eyes out. But he
 looked steadily in her face, and he was a stranger, a gentleman, a
 man, and not her papa; circumstances which entirely overawed her. She
@@ -502,8 +466,7 @@ servants, however much your papa may be a gentleman, <emph>you</emph>
 won’t be a lady.”</p> <p>And Hamlin left the little Perrys to muse
 upon this moral truth. He felt quite excited; and when the excitement
 had subsided, he felt quite astonished at himself. He could scarcely
-realise that he himself had actually been<pb n="33"
-xml:id="VAB7107-033"/> meddling in other people’s affairs, had been
+realise that he himself had actually been<pb n="33" xml:id="VAB7107-033"/> meddling in other people’s affairs, had been
 reading a lesson to other people’s children, all about a little girl
 saying offensive things to her nurse. It was so strange that it quite
 humiliated him: he had first pushed his company on to a nursemaid, and
@@ -547,8 +510,7 @@ his hostess to himself.</p> <p>The return of Melton Perry interrupted
 his reflections. Perry was quite astonished to find him up, and
 extremely distressed at his having had no regular breakfast.</p>
 <p>“You see,” he said, “Mrs Perry is very delicate—in short, scarcely
-fit for any kind of household bother,—so that—”</p> <pb n="36"
-xml:id="VAB7107-036"/> <p>“Oh,” answered Hamlin, “I had a capital
+fit for any kind of household bother,—so that—”</p> <pb n="36" xml:id="VAB7107-036"/> <p>“Oh,” answered Hamlin, “I had a capital
 breakfast with your children.”</p> <p>Then they fell to talking of old
 times; and little by little there emerged from out of the overworked,
 henpecked Melton Perry of the present, the resemblance of the proud
@@ -572,8 +534,7 @@ past—descriptions of a myself which has long come to an end.”</p>
 <p>“I’m glad of it,” replied Perry. “It is a foolish thing to get tied
 to a woman.”</p> <p>“Foolish indeed!” thought Hamlin, looking from his
 shabby, depressed old comrade, to the blazing sunsets and green
-moonlights on the easels about them.</p> </div> <pb n="38"
-xml:id="VAB7107-038"/> <div type="chapter"> <head>CHAPTER IV.</head>
+moonlights on the easels about them.</p> </div> <pb n="38" xml:id="VAB7107-038"/> <div type="chapter"> <head>CHAPTER IV.</head>
 <p><hi>DURING</hi> luncheon, no mention was made of the nursemaid into
 whose concerns Hamlin had that morning intruded; but at dinner,
 Hamlin’s sense of the question being a sore one, and of being himself
@@ -583,8 +544,7 @@ very strange‐looking girl you have in your service,” he remarked to
 his hostess, over their grapes and thin wine.</p> <p>“The cook?” cried
 Mrs Perry. “Isn’t she a divine creature? I call her Monna Lisa’s
 younger sister.”</p> <p>“I don’t know your cook by sight,” he
-answered. “I mean the other young woman they call Annina—”</p> <pb
-n="39" xml:id="VAB7107-039"/> <p>Mrs Perry’s brow darkened.</p>
+answered. “I mean the other young woman they call Annina—”</p> <pb n="39" xml:id="VAB7107-039"/> <p>Mrs Perry’s brow darkened.</p>
 <p>“The nurse—or governess,—I don’t know exactly how to describe
 her,—of your little girls.”</p> <p>“My children’s maid,” answered Mrs
 Perry, with considerable emphasis. “Thank heaven, my children have
@@ -597,8 +557,7 @@ as long as I am alive.”</p> <p>“Good heavens!” thought Hamlin, “what a
 bandy‐legged family they are likely to turn out!”</p> <p>“I suppose
 you mean Annie,” said Perry. “Yes, she’s a good girl, and a
 good‐looking girl.”</p> <p>“You are mad, Melton,” cried Mrs Perry,
-“with your idea of goodness and good looks!”</p> <pb n="40"
-xml:id="VAB7107-040"/> <p>“I think her extraordinarily good‐looking,”
+“with your idea of goodness and good looks!”</p> <pb n="40" xml:id="VAB7107-040"/> <p>“I think her extraordinarily good‐looking,”
 put in Hamlin, enjoying the authority of his own verdict.</p> <p>“I
 always told you so,” replied Perry.</p> <p>“When I say good‐looking,”
 corrected Hamlin, “I don’t mean it at all in the ordinary sense. There
@@ -612,8 +571,7 @@ Michaelangelo’s women, but even stranger—a superb creature.”</p>
 <p>The revelation of her maid’s beauty by so great an authority as
 Hamlin quite dazzled and delighted Mrs Perry.</p> <p>“All our servants
 are handsome,” she said; “the cook’s the finest Leonardo da Vinci
-type—when you see her you will want to do her<pb n="41"
-xml:id="VAB7107-041"/> picture, Mr Hamlin, as Venus Mystica,” and Mrs
+type—when you see her you will want to do her<pb n="41" xml:id="VAB7107-041"/> picture, Mr Hamlin, as Venus Mystica,” and Mrs
 Melton Perry set her meagre features and wide‐opening mouth into a
 mystic smile, intimating that she knew a great deal about Venus
 Mystica, and her guest doubtless likewise.</p> <p>“And the footman”
@@ -627,8 +585,7 @@ to be brought up constantly surrounded by beautiful human forms.”</p>
 of making the usual reply to this remark—namely, that the young Perrys
 were so abundantly provided with beautiful human form in the person of
 their mother that any other was superfluous.</p> <p>“That girl you
-noticed has rather a curious history,” said Perry.</p> <pb n="42"
-xml:id="VAB7107-042"/> <p>“Indeed!” answered Hamlin;“she looks as if
+noticed has rather a curious history,” said Perry.</p> <pb n="42" xml:id="VAB7107-042"/> <p>“Indeed!” answered Hamlin;“she looks as if
 she ought to have some sort of tragic past—a kind of Brynhilt or
 Amazon.”</p> <p>“It’s tragic enough if you like, but it’s
 unfortunately not at all poetical,” replied Perry.</p> <p>“There is
@@ -679,8 +636,7 @@ accepted, with alacrity and pleasure, the belief in the transcendent
 beauty of the nursemaid whom she had shrieked at only a few hours
 before. She was quite reconciled to her, evidently.</p> <p>“And what
 is this girl’s name?” asked Hamlin.</p> <p>“Anne,” answered Perry—“
-Anne Brown.”</p> </div> <pb n="46" xml:id="VAB7107-046"/> <div
-type="chapter"> <head>CHAPTER V.</head> <p><hi>THUS</hi> it came about
+Anne Brown.”</p> </div> <pb n="46" xml:id="VAB7107-046"/> <div type="chapter"> <head>CHAPTER V.</head> <p><hi>THUS</hi> it came about
 that Walter Hamlin, of Wotton Hall, pre‐Raphaelite poet and painter,
 made acquaintance with Anne Brown, nurse, or as Mrs Perry defined it,
 children’s maid at the Villa Arnolfini.</p> <p>The whole of the two
@@ -718,8 +674,7 @@ to me as if I were ten years younger. The fact is, don’t you know, a
 man’s never the same when once married; it’s a weight round his
 neck. Don’t go away yet, dear old Watty, for the sake of auld lang
 syne.”</p> <p>Hamlin could not help being touched by the way in which
-his old friend threw himself on his compassion. Poor old Perry! How<pb
-n="49" xml:id="VAB7107-049"/> dreadfully dreary and broken‐spirited he
+his old friend threw himself on his compassion. Poor old Perry! How<pb n="49" xml:id="VAB7107-049"/> dreadfully dreary and broken‐spirited he
 must be when all alone with that awful wife of his!</p> <p>“Well, I’m
 willing enough to stay, if you’ll keep me,” answered Hamlin.</p>
 <p>“That’s right!” cried Perry, squeezing his hand. “Keep me from
@@ -731,8 +686,7 @@ that it was an absolute relief to be pinned down to one place by his
 old friend. Accordingly he unpacked his things, and prepared to stay
 at the Villa Arnolfini until the Perrys should themselves return to
 Florence in October.</p> <p>Little by little he got to arrange his day
-so as to avoid as far as possible the dreaded <foreign
-xml:lang="fre">tête‐à‐tête</foreign> with Mrs Perry; spending the
+so as to avoid as far as possible the dreaded <foreign xml:lang="fre">tête‐à‐tête</foreign> with Mrs Perry; spending the
 morning lying on the sear grass or the fallen fir‐needles under Melton
 Perry’s sketching umbrella; and<pb n="50" xml:id="VAB7107-050"/>
 locking himself up during the afternoon with the pretext of his
@@ -765,8 +719,7 @@ vanish. Walter Hamlin had had but too many instances of the melancholy
 results of trying to approach and become familiar with creatures who
 had caught his æsthetic and poetic fancy. He often saw her hurrying
 (if she might ever be said to hurry, for there was something
-wonderfully measured about her) to and fro, filling up,<pb n="52"
-xml:id="VAB7107-052"/> it would seem, the gaps in Mrs Perry’s rather
+wonderfully measured about her) to and fro, filling up,<pb n="52" xml:id="VAB7107-052"/> it would seem, the gaps in Mrs Perry’s rather
 theoretical housekeeping; and sometimes, passing through the
 ground‐floor passage, he would also see her ironing, like that first
 time, or laboriously presiding over the little Perrys’ lessons; for it
@@ -781,8 +734,7 @@ to her; and if the children forced him to remain and examine their
 houses or their dinners, he would watch the girl, but without the
 slightest desire of entering into conversation. He wished to know only
 as much as he could see of her. But this much which he saw inspired
-him with a kind of respect,—a respect not for Anne<pb n="53"
-xml:id="VAB7107-053"/> Brown, nursemaid or nursery‐governess of Mrs
+him with a kind of respect,—a respect not for Anne<pb n="53" xml:id="VAB7107-053"/> Brown, nursemaid or nursery‐governess of Mrs
 Melton Perry, but respect for a beautiful and solemn kind of Valkyr or
 Amazon; for there is no doubt that to certain temperaments not given
 to respect for social distinctions or religious institutions, or even
@@ -797,8 +749,7 @@ servants, but never treat them, as Miss Mildred expressed it, as if
 they were funerals passing. All of which distant respect Anne Brown
 received coldly, as if it were a matter of course; showing
 astonishment only on one occasion, when Hamlin answered, being
-requested to lift little Winnie into the branches<pb n="54"
-xml:id="VAB7107-054"/> of an olive‐tree—“You must first ask permission
+requested to lift little Winnie into the branches<pb n="54" xml:id="VAB7107-054"/> of an olive‐tree—“You must first ask permission
 of Miss Brown.”</p> <p>The girl looked up from her work, and fixed her
 great greyish‐blue eyes upon him in wonder. No one had ever called her
 Miss Brown before.</p> <p>Thus things might have continued, and Hamlin
@@ -827,8 +778,7 @@ understood; but the piece of work was complicated and tiresome. The
 stuff had several times to be sewn together, tried on to the live
 model, and then taken down‐stairs to be altered.</p> <p>“Won’t you sit
 down and do it here, Miss Brown?” Hamlin at length suggested.</p>
-<p>The girl hesitated for a moment, and then<pb n="56"
-xml:id="VAB7107-056"/> settled herself to sew at the table of the
+<p>The girl hesitated for a moment, and then<pb n="56" xml:id="VAB7107-056"/> settled herself to sew at the table of the
 empty drawing‐room. Hamlin went into the studio next door, and tried
 to draw a little; but he felt himself attracted to go and watch the
 girl as she leaned over the table, or sat with her beautiful head
@@ -857,8 +807,7 @@ twisting and writhing, and looking as if they gibbered. Do paint her
 like that, dear Mr Hamlin—and Mildred and Winnie will do for attendant
 spirits. Begin to‐morrow—you shall have her to sit to you all day; and
 she has such lovely arms and shoulders, you <emph>must</emph> paint
-her in some kind of dress that will show them.”</p> <pb n="58"
-xml:id="VAB7107-058"/> <p>“I think it’s rather cool of you to promise
+her in some kind of dress that will show them.”</p> <pb n="58" xml:id="VAB7107-058"/> <p>“I think it’s rather cool of you to promise
 Annie as a sitter in that way,” put in Melton Perry—“especially with
 so few clothes on, Julia.”</p> <p>“Why not?” asked Mrs Perry, in
 astonishment. “If she is beautiful she must be painted. She shall
@@ -934,8 +883,7 @@ it seems to be a mere blank. My belief is, that people of this
 condition of life often have very little character—at least none in
 particular developed. Because, after all, it’s talking and jawing
 about things which don’t matter a pin that develops our character. The
-people who have no opportunity for that remain quite<pb n="64"
-xml:id="VAB7107-064"/> without character, until some day they are
+people who have no opportunity for that remain quite<pb n="64" xml:id="VAB7107-064"/> without character, until some day they are
 forced to choose whether they’ll be self‐sacrificing creatures or mean
 pigs.”</p> <p>“There’s something in that,” answered Hamlin, tearing up
 his abortive sketches in a huff; “but it <emph>is</emph> hard that a
@@ -992,8 +940,7 @@ about Ugolino, because he was a traitor; and the Archbishop was a
 traitor too. There is no one to be glad or sorry about.”</p> <p>“And
 Francesca da Rimini? Do you find there is nothing to care for or be
 sorry about in her?”</p> <p>A faint redness welled up under the
-uniform brown pallor of Anne Brown’s face.</p> <pb n="68"
-xml:id="VAB7107-068"/> <p>“The husband was quite right,” she said,
+uniform brown pallor of Anne Brown’s face.</p> <pb n="68" xml:id="VAB7107-068"/> <p>“The husband was quite right,” she said,
 after a pause.</p> <p>“You are very severe,” remarked Hamlin—“much
 more severe than Dante. He was sorry for them.”</p> <p>“They were
 quite happy,” she answered. “They did not mind being killed; they did
@@ -1006,8 +953,7 @@ together, and so on. If they had put papa in prison, I should have
 wanted to go in with him,”—for once she spoke with a certain amount of
 vehemence.</p> <p>Hamlin looked up from his pencil‐cutting. The
 expression which he suddenly met in her face made him feel that at
-last he had what he wanted. It was a curious mixture, possible<pb
-n="69" xml:id="VAB7107-069"/> only in those strange features, of a
+last he had what he wanted. It was a curious mixture, possible<pb n="69" xml:id="VAB7107-069"/> only in those strange features, of a
 kind of passionate effort with dogged determination: the head a little
 lifted, cheeks and lips firmly set; but in the eyes, and even in the
 curl of the close‐set lips, a sort of strain, as of a person trying to
@@ -1091,8 +1037,7 @@ Commedia.’”</p> <p>She looked incredulous.</p> <p>“Is it more
 beautiful than Bertran del Bornio, where he carried his head like a
 lantern? Or Bocca degli Abati, where they all change into snakes? Or
 Cacciaguida when he prophesies about Dante’s exile?”</p> <p>“It is
-quite different—all about beautiful things, and love.”</p> <pb n="75"
-xml:id="VAB7107-075"/> <p>“I don’t care for that.”</p> <p>“You must
+quite different—all about beautiful things, and love.”</p> <pb n="75" xml:id="VAB7107-075"/> <p>“I don’t care for that.”</p> <p>“You must
 read it some day, though.”</p> <p>Miss Brown was silent, and relapsed
 into her usual sullen appearance.</p> <p>“I say, Hamlin, old fellow,”
 said Perry, as they walked up and down in the garden that evening, “do
@@ -1129,8 +1074,7 @@ house (for Mrs Perry was going to see some friends at a neighbouring
 villa) had seemed to him delightful. He opened his shutters and saw,
 in the crisp pale‐blue morning, the carriage sweeping round the corner
 of a narrow lane, the children’s hats, Anne Brown’s red shawl, the
-coachman’s grey coat, brush rapidly along a tall box hedge.<pb n="78"
-xml:id="VAB7107-078"/> If there was a thing Hamlin hated more than
+coachman’s grey coat, brush rapidly along a tall box hedge.<pb n="78" xml:id="VAB7107-078"/> If there was a thing Hamlin hated more than
 another, it was a holiday, a crowd, a lot of people on a jaunt.</p>
 <p>After breakfast he went to the studio and sat down before his
 sketches of Miss Brown. They were unsatisfactory, but they were as
@@ -1144,8 +1088,7 @@ indication, and which, indeed, it was difficult to render in painting,
 since it was all movement. He had scribbled a few lines—just
 fragmentary metaphors and scraps of description—suggested to him by
 Anne Brown, and wondered what use he would make of them; indeed, what
-use he could make of Anne Brown altogether. Here was a<pb n="79"
-xml:id="VAB7107-079"/> splendid model, a splendid heroine, but he was
+use he could make of Anne Brown altogether. Here was a<pb n="79" xml:id="VAB7107-079"/> splendid model, a splendid heroine, but he was
 in the mood neither for painting nor for poetry writing. He put a
 background of dark bay trees to one of his sketches, and then
 regretted having put it in at all. He no longer felt inclined to work;
@@ -1160,8 +1103,7 @@ under the deep blue autumn sky. Before him the bullock‐carts, with
 sleepy drivers prostrate on their back, moved in a white cloud; a
 whirlwind of dust was raised by every cariole, heavily laden with
 singing and yelling peasants, which dashed past. Within sight of the
-rampart trees, like a pleasant oasis of leafage in<pb n="80"
-xml:id="VAB7107-080"/> the treeless green desert of the town, the
+rampart trees, like a pleasant oasis of leafage in<pb n="80" xml:id="VAB7107-080"/> the treeless green desert of the town, the
 crowd of vehicles of all sorts began. Under the red brick gate, with
 its statue of Justice and motto “Libertas,” there was a perfect block
 of carts, gigs, bullocks, horses, and screaming country folk. Hamlin
@@ -1201,9 +1143,7 @@ perceived, and the eyes of all this womankind were fixed upon the
 sight, rare in that country town, of an Englishman; and white silk
 bonnets, and black lace veils, and big red fans, and fuzzy yellow and
 smooth black heads, leant towards each other,—while questions went
-round in a whisper, who was the <foreign
-xml:lang="fre">forestiere</foreign>—the handsome <foreign
-xml:lang="fre">forestiere</foreign>—small, slight, meagre, white, with
+round in a whisper, who was the <foreign xml:lang="fre">forestiere</foreign>—the handsome <foreign xml:lang="fre">forestiere</foreign>—small, slight, meagre, white, with
 the light hair and moustache, and that melancholy face like a woman’s?
 Hamlin was quickly bored by all this magnificence; jostled to pieces,
 stifled by the heat, and incense, and heavy smell of the crowd. He was
@@ -1327,8 +1267,7 @@ think?—to see all those people kneeling down and believing in all that
 nonsense.”</p> <p>“How do you know it is nonsense? It seems to me very
 beautiful and consoling.”</p> <p>She turned her big grey‐blue eyes
 upon him. “You don’t mean that you believe in all that mummery?” she
-asked, searchingly and reproachfully—“you who have studied so much;<pb
-n="91" xml:id="VAB7107-091"/> you don’t believe that they can make God
+asked, searchingly and reproachfully—“you who have studied so much;<pb n="91" xml:id="VAB7107-091"/> you don’t believe that they can make God
 come down with their mutterings and kneelings?”</p> <p>“I don’t
 believe it,” answered Hamlin, with some embarrassment; “but I think it
 is very beautiful, and those who do believe in it are very happy.”</p>
@@ -1403,8 +1342,7 @@ become of the two sleepy little worms?”</p> <p>“Send them home with
 Annie,” suggested Mildred, promptly; “and you’ll take us home
 later.”</p> <p>“Nothing of the kind, my young woman,” he answered
 sternly. “If any one goes to the opera it shall be Annie. Make up your
-mind for that.”</p> <p>The dining‐room was deserted. On a sofa<pb
-n="96" xml:id="VAB7107-096"/> near the open window lay the two tiny
+mind for that.”</p> <p>The dining‐room was deserted. On a sofa<pb n="96" xml:id="VAB7107-096"/> near the open window lay the two tiny
 girls, propped up with cushions; Anne Brown, surly, flopping away the
 flies which buzzed about them, and reading a newspaper. She was
 resting the paper on her knees, and supporting her head with one hand,
@@ -1417,8 +1355,7 @@ up.</p> <p>“To the opera, sir?” she cried, flushing with pleasure.</p>
 <p>“Yes; these creatures have never been. They’re giving ‘Semiramide’
 to‐night.  I think it’s a good opera for children to begin with;
 because it will teach them betimes the unhappy complications which are
-apt to result from murdering one’s husband, and trying<pb n="97"
-xml:id="VAB7107-097"/> to marry one’s son unawares. I’ll take the
+apt to result from murdering one’s husband, and trying<pb n="97" xml:id="VAB7107-097"/> to marry one’s son unawares. I’ll take the
 little ones back to the villa in half an hour, and quiet Mrs Perry’s
 feelings. Mr Hamlin will be delighted to accompany you and
 mesdemoiselles my daughters, to the theatre, and then bring you
@@ -1443,8 +1380,7 @@ unwillingness to go back to the inn, perhaps unconsciously, to sit
 opposite the Perrys’ nursemaid; so he walked about the town till
 tea‐time, not troubling himself to inquire whether Anne Brown and the
 children might not prefer a stroll on the ramparts to the monotony of
-sitting for two mortal hours in the inn dining‐room.</p> </div> <pb
-n="99" xml:id="VAB7107-099"/> <div type="chapter"> <head>CHAPTER
+sitting for two mortal hours in the inn dining‐room.</p> </div> <pb n="99" xml:id="VAB7107-099"/> <div type="chapter"> <head>CHAPTER
 VIII.</head> <p><hi>AT</hi> dusk they hurriedly drank some of the thin
 yellow hotel‐tea; and then hastened to the theatre across the twilit
 street and square, where the garlands of Venetian lanterns were
@@ -1455,8 +1391,7 @@ the best way in case of a crowd.”</p> <p>A crowd, alas! there was not;
 the liveried theatre servants (doubtless the same, in yellow striped
 waistcoats and drab gaiters, who carried out Semiramis’s throne, when
 the drop‐scene fell) made profuse bows to the little party, and handed
-them at least half‐a‐dozen playbills<pb n="100"
-xml:id="VAB7107-100"/>, each as large as an ordinary flag. The
+them at least half‐a‐dozen playbills<pb n="100" xml:id="VAB7107-100"/>, each as large as an ordinary flag. The
 children had never been in a theatre before, and were in a high state
 of delight at the lights, the gilding, the red plush, the scraping of
 fiddles; especially at being in a box, although the box on this
@@ -1470,8 +1405,7 @@ with sticks and sabres till the overture began to roll out, when the
 audience immediately set up a kind of confused hum, supposed to be the
 melody of the piece, and which half drowned the meagre orchestra.</p>
 <p>Then the opera began—an opera such as only the misery and genius of
-Italy could produce. There was a triumphal procession of six<pb
-n="101" xml:id="VAB7107-101"/> ragamuffins in cotton trousers and with
+Italy could produce. There was a triumphal procession of six<pb n="101" xml:id="VAB7107-101"/> ragamuffins in cotton trousers and with
 brass kettle‐covers on their heads, marching round and round the
 stage, bearing trophies of paper altar‐flowers and coffee‐biggins;
 there was a row of loathsome females, bloated or fleshless, in
@@ -1518,8 +1452,7 @@ vocalisations took the place of the visible pomp and magnificence of
 Assyrian royalty: for her the heroes and heroines, the magi and
 satraps, were clad, not in the calico and tinsel of the theatre
 tailor, but in the musical splendours of Rossini.  Hamlin, to say the
-truth, found the performance very wearisome; he had been<pb n="104"
-xml:id="VAB7107-104"/> bored by Semiramide too often with Tietiens and
+truth, found the performance very wearisome; he had been<pb n="104" xml:id="VAB7107-104"/> bored by Semiramide too often with Tietiens and
 Trebelli, to find it particularly interesting at the Teatro del Giglio
 of Lucca. He sat looking on listlessly, not so much at the stage as at
 the girl who was leaning out of the box before him, watching each
@@ -1549,8 +1482,7 @@ loudly, to the stairs. There was a great crowd going down, whistling
 and humming tunes from the opera. From the force of habit Hamlin again
 offered Anne Brown his arm. But instead of accepting it, she, so to
 speak, rapidly plucked little Winnie from the ground, and raised her
-in her arms as if she were a feather.</p> <pb n="106"
-xml:id="VAB7107-106"/> <p>“Please let me carry that child,” cried
+in her arms as if she were a feather.</p> <pb n="106" xml:id="VAB7107-106"/> <p>“Please let me carry that child,” cried
 Hamlin.</p> <p>“Oh no,” she answered quietly. “I don’t mind carrying
 her at all; but she’s too heavy for you, sir.”</p> <p>Out in the
 square the carriage was awaiting them in the bright starlight, where
@@ -1564,8 +1496,7 @@ shoulder, the other wrapped in her nurse’s shawl. Anne Brown bent over
 the side of the waggonette, a dark outline, the damp night breeze
 catching her hair. Neither spoke. Hamlin felt a sense of guilt
 stealing over him; of guilt for nothing very definite; of guilt
-towards no one else, but towards himself.<pb n="107"
-xml:id="VAB7107-107"/> The drive passed like a dream. Suddenly the
+towards no one else, but towards himself.<pb n="107" xml:id="VAB7107-107"/> The drive passed like a dream. Suddenly the
 wheels grated on the gravel of the villa garden; dogs barked; lights
 appeared; the children were lifted out of the carriage asleep; and the
 voice of Perry whispered to Hamlin—</p> <p>“I caught it nicely when I
@@ -1573,8 +1504,7 @@ came home—I don’t know why, upon my soul! I’m sure I wish I had
 remained and amused myself with you.”</p> <p>“I wish you had,” said
 Hamlin quite seriously, always with the sense of vague guilt towards
 himself; then added,—</p> <p>“By the way, old man, I fear I really
-must go on to Florence to‐morrow afternoon.”</p> </div> <pb n="108"
-xml:id="VAB7107-108"/> <div type="chapter"> <head>CHAPTER IX.</head>
+must go on to Florence to‐morrow afternoon.”</p> </div> <pb n="108" xml:id="VAB7107-108"/> <div type="chapter"> <head>CHAPTER IX.</head>
 <p><hi>PERRY</hi> could not at first understand his friend’s sudden
 decision, and violently combated it. But after a little while he said
 to himself that it must have been fearfully dull for Hamlin at the
@@ -1610,13 +1540,11 @@ vellum‐bound volume from his pocket.</p> <p>“You told me you had never
 read the ‘Vita Nuova,’ Miss Brown,” he said, “so I venture to ask you
 to accept this copy of it. I don’t know whether you like old books; I
 think them much prettier to look at. Good‐bye.”</p> <p>The girl’s face
-cleared into a kind of radiance.</p> <pb n="111"
-xml:id="VAB7107-111"/> <p>“Thank you so much,” she said; “I will read
+cleared into a kind of radiance.</p> <pb n="111" xml:id="VAB7107-111"/> <p>“Thank you so much,” she said; “I will read
 it often.”</p> <p>“And think of me sometimes and the trouble I gave
 you?”</p> <p>“It was my duty, since Mrs Perry wished it,
 sir. Good‐bye—a good journey to you.”</p> <p>“Good‐bye, Miss
-Brown.”</p> </div> </div> <pb n="113" xml:id="VAB7107-112"/> <div
-type="part"> <head>BOOK II.</head> <pb n="115" xml:id="VAB7107-113"/>
+Brown.”</p> </div> </div> <pb n="113" xml:id="VAB7107-112"/> <div type="part"> <head>BOOK II.</head> <pb n="115" xml:id="VAB7107-113"/>
 <div type="chapter"> <head>CHAPTER I.</head> <p><hi>WALTER HAMLIN</hi>
 did not go to America. On leaving the Villa Arnolfini, he met at
 Florence some artist friends, who, in his condition of utter absence
@@ -1656,8 +1584,7 @@ her. He had made up his mind that Anne Brown was the most beautiful
 girl, in the strangest style, whom he had ever met. What was to be her
 future? Of two possibilities one must be realised. Either this
 magnificent blossom was to be untimely nipped,—this beautiful and
-strange girl was to fritter away her life, unnoticed, wasted, to<pb
-n="118" xml:id="VAB7107-116"/> little by little lose her beauty, her
+strange girl was to fritter away her life, unnoticed, wasted, to<pb n="118" xml:id="VAB7107-116"/> little by little lose her beauty, her
 dignity, her grandeur, her whole imaginative aroma; or the rare plant
 of beauty was to be cherished, nursed into perfection, till it burst
 out in maturity of splendour, a thing of delight for the present and
@@ -1718,8 +1645,7 @@ life, she was the predestined instrument for the consummation of his
 life.  Anne Brown should live for the world and for fame; and Walter
 Hamlin’s life should be crowned by gradually endowing with vitality,
 and then wooing, awakening the love of this beautiful Galatea whose
-soul he had moulded, even as Pygmalion had moulded the limbs of<pb
-n="122" xml:id="VAB7107-120"/> the image which he had made to live and
+soul he had moulded, even as Pygmalion had moulded the limbs of<pb n="122" xml:id="VAB7107-120"/> the image which he had made to live and
 to love. The idea, once present to Hamlin’s mind, had been accepted at
 once; and in another hour he had worked out all the details of the
 real romance in which he was embarking; he had determined exactly
@@ -1753,8 +1679,7 @@ passionate mistress had forthwith made up her mind that Anne Brown was
 a mere soulless body, and communicated that fact to her husband.</p>
 <p>“I don’t see why Annie should be particularly delighted at the
 prospect of sitting for two hours, twice a‐week, with her head raised
-and her throat outstretched, in a beastly cold<pb n="125"
-xml:id="VAB7107-123"/> studio,” answered Perry, affecting, as he
+and her throat outstretched, in a beastly cold<pb n="125" xml:id="VAB7107-123"/> studio,” answered Perry, affecting, as he
 frequently did, from a curious kind of coyness, not to understand his
 wife’s underlying meaning.</p> <p>“She is a mere soulless body,”
 repeated Mrs Perry—“as indifferent to Hamlin as a handsome cow would
@@ -1796,8 +1721,7 @@ housekeeper was hired to go three times a‐week to Hamlin’s studio, and
 twice a‐week she opened the studio door to Anne Brown, and took the
 girl’s poke‐bonnet and grey shawl in the little anteroom, crammed full
 of dwarf orange‐trees, which opened into the pillared balcony circling
-round the topmost floor of the old palace, and from which<pb n="128"
-xml:id="VAB7107-126"/> you looked into the lichened court, and saw the
+round the topmost floor of the old palace, and from which<pb n="128" xml:id="VAB7107-126"/> you looked into the lichened court, and saw the
 steel‐like sheen of the water in the well. Hamlin had determined to
 embody one of his usual mystical fancies in his new picture. His
 pictures came to him first as poems, and he had written a sonnet
@@ -1827,8 +1751,7 @@ opportunity of seeing, of examining, the creature whose future was in
 his hands. He wished to assure himself that Anne Brown was really the
 Anne Brown of his fancy; and as he stared at that strange and
 beautiful face, it was not in reality with the object of transferring
-it on to his canvas, but to make sure whether it was<pb n="130"
-xml:id="VAB7107-128"/> really as strange as it seemed to him. It was
+it on to his canvas, but to make sure whether it was<pb n="130" xml:id="VAB7107-128"/> really as strange as it seemed to him. It was
 also to gauge whatever mystery there might be hidden in that singular
 nature. Whether he ever did gauge it, it is impossible to tell.  There
 was, he felt, something strange there—something which corresponded
@@ -1886,11 +1809,9 @@ give him her opinion. She was so earnest that she felt that only
 something worth saying should be said; and what things worth saying
 could she say to him?</p> <p>“By the way,” said Hamlin one day, as she
 stood, tying her bonnet, and looking out over the sea of shingly
-roofs, the sudden gaps showing shady gardens far below, open <foreign
-xml:lang="ita">loggias</foreign>, between whose columns fluttered
+roofs, the sudden gaps showing shady gardens far below, open <foreign xml:lang="ita">loggias</foreign>, between whose columns fluttered
 linen, and irregular rows of windows with herbs in broken ewers on
-their sills—“by the way, you have never<pb n="134"
-xml:id="VAB7107-132"/> told me how you liked the ‘Vita Nuova,’ Miss
+their sills—“by the way, you have never<pb n="134" xml:id="VAB7107-132"/> told me how you liked the ‘Vita Nuova,’ Miss
 Brown.” He had talked of so many books, making her wonder and
 sometimes laugh at his account of them, but never about that, nor
 about his own.</p> <p>“It is very beautiful,” she said, still looking
@@ -1902,16 +1823,14 @@ a <foreign xml:lang="ita">parlatrice</foreign>. Those ladies will tell
 me their opinion.”</p> <p>Hamlin was looking at her, as she still
 turned her massive head, with its waves of iron‐black hair, away from
 him, towards the light.</p> <p>“Good‐bye,” she said, with her hand on
-the door‐latch.</p> <p>“Stop a minute,” said Hamlin; and going<pb
-n="135" xml:id="VAB7107-133"/> to a book‐shelf, he got down a little
+the door‐latch.</p> <p>“Stop a minute,” said Hamlin; and going<pb n="135" xml:id="VAB7107-133"/> to a book‐shelf, he got down a little
 green‐bound volume.</p> <p>“I don’t know why,” he said, “but I should
 like you to read these. It is idiotic trash after the ‘Vita Nuova’—but
 it is mine.”</p> <p>“Thank you,” she said. “I will bring it you back
 next sitting. I will cover the binding.”</p> <p>“I want you to keep
 it. Won’t you do me that favour?”</p> <p>She reddened all over her
 pale face.</p> <p>“Thank you,” she said. “’It is very good of
-you.”</p> </div> <pb n="136" xml:id="VAB7107-134"/> <div
-type="chapter"> <head>CHAPTER III.</head> <p><hi>IT</hi> so happened
+you.”</p> </div> <pb n="136" xml:id="VAB7107-134"/> <div type="chapter"> <head>CHAPTER III.</head> <p><hi>IT</hi> so happened
 that as Anne Brown was walking quickly home she was overtaken by
 Melton Perry.</p> <p>“What’s that book, Annie?” he inquired, as they
 walked side by side.</p> <p>“Mr Hamlin gave it me—it’s his poems.”</p>
@@ -1932,8 +1851,7 @@ the children in a day or two. Little May needs change of air. When you
 return, Mr Hamlin will be leaving Florence.”</p> <p>“Yes, sir,”
 answered Anne Brown; and a kind of suppressed spasm passed across her
 face.</p> <p>Perry saw it.</p> <p>“It’s high time,” he said to
-himself.</p> <p>Melton Perry could not screw up his courage<pb n="138"
-xml:id="VAB7107-136"/> till he and his wife and Hamlin had already
+himself.</p> <p>Melton Perry could not screw up his courage<pb n="138" xml:id="VAB7107-136"/> till he and his wife and Hamlin had already
 finished dinner that evening.</p> <p>“I say, Hamlin,” he began,
 lighting his pipe, while Mrs Perry artistically twisted a cigarette in
 her long brown fingers—“d’you think you could finish off that picture
@@ -1977,8 +1895,7 @@ Perry. “Haven’t you eyes in your head to understand that the sea‐side
 has nothing to do with the matter? The children no more require to go
 to Viareggio than I require to be made Khan of Tartary. What is
 required is that an honest girl, who was intrusted to us by an old
-friend, should not get to be talked of as a—”</p> <pb n="141"
-xml:id="VAB7107-139"/> <p>“This loathsome coarseness is too much for
+friend, should not get to be talked of as a—”</p> <pb n="141" xml:id="VAB7107-139"/> <p>“This loathsome coarseness is too much for
 me. Adieu, Mr Hamlin!” and Mrs Perry flounced out of the room.</p>
 <p>“Lord deliver us from womankind!” exclaimed Perry, as the door shut
 upon his wife, and he fell back in his chair. “What a nice breakfast I
@@ -2019,8 +1936,7 @@ Miss Brown giving me one more morning?”</p> <p>“Not the least—two, or
 even three, for the matter of that. I was only anxious not to spin out
 things indefinitely.”</p> <p>“One more sitting will be more than
 enough,” answered Hamlin. “By the way, before I go, I want to do a
-drawing of little Mildred.”</p> </div> <pb n="144"
-xml:id="VAB7107-142"/> <div type="chapter"> <head>CHAPTER IV.</head>
+drawing of little Mildred.”</p> </div> <pb n="144" xml:id="VAB7107-142"/> <div type="chapter"> <head>CHAPTER IV.</head>
 <p><hi>IT</hi> was a cold and drizzling February morning that last
 sitting which Anne Brown was to give to Walter Hamlin. As the girl
 slowly mounted the well‐like stairs of the old tower palace, and saw
@@ -2031,8 +1947,7 @@ her feel that everything was dreary and unreal, such as she had
 experienced only once or twice before, when one of the few holidays of
 her childhood had drawn to a close. The cheerless, colourless,
 eventless, joyless routine of ordinary life was about to close over,
-to engulf, her little island of brightness. She was longer<pb n="145"
-xml:id="VAB7107-143"/> than usual taking off her bonnet and cloak in
+to engulf, her little island of brightness. She was longer<pb n="145" xml:id="VAB7107-143"/> than usual taking off her bonnet and cloak in
 the anteroom filled with orange‐trees, for she felt as if she must
 look at everything well one last time—at the bits of brocade and the
 photographs on the wall, the plaster‐casts on the shelf, the scarlet
@@ -2073,8 +1988,7 @@ to it dully, vacantly, as one listens to things when deeply
 preoccupied. For a few minutes Hamlin worked on in silence, then
 suddenly, without looking up, he said—</p> <p>“Do you remember my
 finding your ‘Dante’ in the vineyard at the Villa Arnolfini, Miss
-Brown?”</p> <p>“Yes,” she answered.</p> <pb n="148"
-xml:id="VAB7107-146"/> <p>“And you told me that you wished to fit
+Brown?”</p> <p>“Yes,” she answered.</p> <pb n="148" xml:id="VAB7107-146"/> <p>“And you told me that you wished to fit
 yourself to be a teacher?”</p> <p>“Yes, I remember.”</p> <p>“Well,”
 went on Hamlin, “I have been thinking about that; and I think it would
 be a pity—I mean—I hope you won’t think it horribly rude of me to say
@@ -2101,8 +2015,7 @@ on Hamlin, rapidly; “but I cannot let this happen without making an
 effort to prolong it. I have no brothers or sisters—no one, at least,
 living with me, except distant relations. I have never taken much
 interest in anybody. But now I want to know—would you, instead of our
-parting company altogether—would you let me become<pb n="150"
-xml:id="VAB7107-148"/> your guardian for the next few years, and as
+parting company altogether—would you let me become<pb n="150" xml:id="VAB7107-148"/> your guardian for the next few years, and as
 such, would you let me take charge of your education and send you to
 school? It seems a very ridiculous thing to suggest. But still you
 must not be angry with me for doing so.”</p> <p>Anne’s big onyx eyes
@@ -2154,8 +2067,7 @@ return to Florence. I returned merely in order to ask you. I am in
 earnest; cannot you give me a serious answer?”</p> <p>“Not now—I can’t
 think about anything; I must ask; I don’t know what is right to
 do.”</p> <p>He opened the door, and Anne Brown walked out rapidly,
-through the anteroom and downstairs.</p> </div> <pb n="154"
-xml:id="VAB7107-152"/> <div type="chapter"> <head>CHAPTER V.</head>
+through the anteroom and downstairs.</p> </div> <pb n="154" xml:id="VAB7107-152"/> <div type="chapter"> <head>CHAPTER V.</head>
 <p><hi>FOR</hi> a long time Anne Brown remained as it were dazed, as
 if she had received a blow on the head. When she got back to the
 Perrys’ house, she felt broken in all her limbs, and slipped up‐stairs
@@ -2197,8 +2109,7 @@ sun, but equally unapproachable. But on thinking it over, things came
 round to commonplace actuality. What was she to do? Would he ask her
 again? or even, had he asked her at all? It all seemed a dream, and
 she did not venture to examine into its reality. She determined to
-tell it all to Perry, and ask his advice; but she felt as<pb n="157"
-xml:id="VAB7107-155"/> if she never could. She met Perry several times
+tell it all to Perry, and ask his advice; but she felt as<pb n="157" xml:id="VAB7107-155"/> if she never could. She met Perry several times
 in the course of the morning, but she could not succeed in screwing up
 her courage. What if it should all prove to be an illusion? She took
 the children out for their accustomed walk, during which she was even
@@ -2219,8 +2130,7 @@ eyes, and rapid, oppressed breath—like the one which he had noticed
 once when she talked of her father, and of which he had felt at once,
 “this is what I want.”</p> <p>“Thank you,” he answered gravely, and
 rang the bell. For a moment they stood in silence, till the door was
-opened.</p> </div> <pb n="159" xml:id="VAB7107-157"/> <div
-type="chapter"> <head>CHAPTER VI.</head> <p><hi>HAMLIN</hi> sat for
+opened.</p> </div> <pb n="159" xml:id="VAB7107-157"/> <div type="chapter"> <head>CHAPTER VI.</head> <p><hi>HAMLIN</hi> sat for
 some time in the dusty attic called a studio, while Perry cut acrobats
 and devils out of black paper, and stuck them on the dirty
 window‐panes.</p> <p>“That’s my vocation,” said Perry, “and not
@@ -2245,8 +2155,7 @@ should have let you be entrapped under my very nose! But it mustn’t
 be, old fellow; I won’t stand it.”</p> <p>“You will have to,” answered
 Hamlin, contemptuously; “and so, let’s say no more about it. Only one
 word: Miss Brown has not inveigled me.”</p> <p>Perry gave a sort of
-moan of disgust. “No woman ever does inveigle a man!”</p> <pb n="161"
-xml:id="VAB7107-159"/> <p>“Miss Brown has not inveigled me. I
+moan of disgust. “No woman ever does inveigle a man!”</p> <pb n="161" xml:id="VAB7107-159"/> <p>“Miss Brown has not inveigled me. I
 conceived the desire of educating her, and giving myself a chance of
 marrying her if she would have me, long ago, before I returned to
 Florence. And, as a favour, I beg you will respect Miss Brown so long
@@ -2287,8 +2196,7 @@ curtain go, held her hand to her head for a moment.</p> <p>“Anne
 Brown—do you hear that? He wants to marry her! to educate her! He has
 already proposed!” repeated Perry.</p> <p>Mrs Perry came forward
 solemnly, and stretched out her hand to Hamlin.</p> <p>“Dear friend,”
-she said softly, “my heart told me that this would be.”</p> <pb
-n="164" xml:id="VAB7107-162"/> <p>“Fudge!” exclaimed Perry; “if it
+she said softly, “my heart told me that this would be.”</p> <pb n="164" xml:id="VAB7107-162"/> <p>“Fudge!” exclaimed Perry; “if it
 did, why the deuce didn’t you interfere?”</p> <p>“My heart told me
 this would be. I congratulate you, dearest friend, that you have at
 last found the embodiment of your mysterious dreams of beauty. And I
@@ -2302,8 +2210,7 @@ Hamlin—“I have not asked Miss Brown to marry me; I have only asked her
 to let me educate her. I wish her to choose whatever husband may
 deserve her.”</p> <p>“And that will be yourself—your noble, darling
 self,” beamed Mrs Perry.</p> <p>“I am happy that you approve of my
-decision,” said Hamlin, quickly; “and since you<pb n="165"
-xml:id="VAB7107-163"/> do, will you kindly tell me the address of Miss
+decision,” said Hamlin, quickly; “and since you<pb n="165" xml:id="VAB7107-163"/> do, will you kindly tell me the address of Miss
 Brown’s—Miss Brown’s guardian?”</p> <p>“Julia, I forbid you,” moaned
 Perry feebly.</p> <p>“His address”—answered Mrs Perry blandly, and
 taking no notice of her husband—“is Richard Brown, care of Gillespie
@@ -2317,12 +2224,10 @@ boudoir,” said Mrs Perry; “you shall write to him without a moment’s
 delay. Denrest Mr Hamlin, it is so noble, so lovely on your part; and
 dear Anne—how beautiful she will become!”</p> <p>Perry paced up and
 down the room in violent despair, kicking at all the chairs and easels
-on his way, and hurling a tin of black<pb n="166"
-xml:id="VAB7107-164"/> paint against the ceiling, whence, having
+on his way, and hurling a tin of black<pb n="166" xml:id="VAB7107-164"/> paint against the ceiling, whence, having
 deposited its oozy contents, it slowly descended. After this, feeling
 that his despair was not yet vented, he stalked off to the German
-beer‐cellar, in the Via Lambertesca, and gloomily consumed a <foreign
-xml:lang="ger">bock</foreign>—a proceeding to which he invariably
+beer‐cellar, in the Via Lambertesca, and gloomily consumed a <foreign xml:lang="ger">bock</foreign>—a proceeding to which he invariably
 resorted whenever his wife had inspired him with a more than usually
 strong wish to drown himself.</p> <p>Suddenly an idea struck him, and
 he rushed to the nearest telegraph‐office.  There he spent upwards of
@@ -2332,8 +2237,7 @@ Brown, care of Gillespie Brothers, New Cross, that the proposal being
 made to Anne Brown by a certain person must be immediately rejected,
 as its acceptance would bring ruin, dishonour, and misery on all
 parties. “Proposal disastrous snare,” wound up Perry at last in
-triumph; and then discovered that, in his zeal for Hamlin’s good,<pb
-n="167" xml:id="VAB7107-165"/> he had expressed disapprobation to the
+triumph; and then discovered that, in his zeal for Hamlin’s good,<pb n="167" xml:id="VAB7107-165"/> he had expressed disapprobation to the
 extent of exactly twenty francs of Italian money.</p> <p>“Nothing but
 pipes—loathsome, smelly, filthy pipes; never a cigar—for the next two
 months,” meditated Perry, as he paid his money and received the
@@ -2349,8 +2253,7 @@ aloof from his romance; besides, he was in the ridiculous position
 that Anne was, and was not his; that she could no longer be considered
 the Perrys’ servant, and could not yet be considered as his
 ward. Accordingly, he betook himself for three days to Siena, deeming
-it impossible that any answer could come so soon.</p> <pb n="169"
-xml:id="VAB7107-167"/> <p>But when Hamlin returned to his lodging in
+it impossible that any answer could come so soon.</p> <pb n="169" xml:id="VAB7107-167"/> <p>But when Hamlin returned to his lodging in
 Florence, on the fourth day after his proposal to Anne Brown—it seemed
 to him as if he had proposed to her months ago, nay, as if he had
 never existed at all before that proposal—he was told that a gentleman
@@ -2393,8 +2296,7 @@ am greatly obliged to you for the trouble you have taken. Your
 presence here will make it much easier for us to settle all necessary
 matters.”</p> <p>“Mr Perry,” went on the visitor, “has given me rather
 a confused account of the proposal which I understand you to have made
-to my cousin; and I thought it wiser to see<pb n="172"
-xml:id="VAB7107-170"/> you before speaking to her. I must therefore
+to my cousin; and I thought it wiser to see<pb n="172" xml:id="VAB7107-170"/> you before speaking to her. I must therefore
 beg you to tell me whether Mr Perry’s account of your proposal is
 correct, and also whether you are in earnest in making it.”</p>
 <p>“Had you waited for my letter, I think you could have had no
@@ -2497,8 +2399,7 @@ what you want to do with my cousin.”</p> <p>“It seems difficult to
 explain it to you, Mr Brown,” said Hamlin; “still, I may repeat it. I
 wish Miss Brown to receive all the advantages of education and money
 which a woman gifted like her has a right to, and which will enable
-her to freely marry a man worthy of her—<pb n="179"
-xml:id="VAB7107-177"/> myself, or any other in the world. I will not
+her to freely marry a man worthy of her—<pb n="179" xml:id="VAB7107-177"/> myself, or any other in the world. I will not
 hear of binding Miss Brown to me at present, either by marriage or by
 promise of marriage; she is to remain absolutely independent. But I
 offer once more to pledge myself to marry her whenever she may wish
@@ -2529,8 +2430,7 @@ as threatening as his voice was studiously courteous, “we must first
 hear whether, on<pb n="181" xml:id="VAB7107-179"/> second thoughts, my
 cousin accepts your proposal. Good afternoon, Mr Hamlin.”</p> <p>“Good
 afternoon,” answered Hamlin.</p> <p>Richard Brown’s visit had left a
-nauseous taste in his soul.</p> </div> <pb n="182"
-xml:id="VAB7107-180"/> <div type="chapter"> <head>CHAPTER VIII.</head>
+nauseous taste in his soul.</p> </div> <pb n="182" xml:id="VAB7107-180"/> <div type="chapter"> <head>CHAPTER VIII.</head>
 <p><hi>LATER</hi> in the afternoon Richard Brown called at the Perrys’
 and asked to see his cousin. He was received with effusiveness by Mrs
 Perry.</p> <p>“So you have seen our noble, darling Hamlin,” she cried;
@@ -2613,8 +2513,7 @@ table, and tried to put his arm paternally on her shoulder. She shrank
 back, but let his heavy hand rest on her shoulder. What did his touch
 matter when there were his words?</p> <p>“Annie, dear,” said Brown
 more gently, “you know I am a rough man, and don’t know how to mince
-matters and say things to women; but you know that I am fond of<pb
-n="188" xml:id="VAB7107-186"/> you. Don’t you recollect when you were
+matters and say things to women; but you know that I am fond of<pb n="188" xml:id="VAB7107-186"/> you. Don’t you recollect when you were
 a wee lassie, and I used to carry you about on my back, and go into
 the water to get you the sea‐weeds and the little nautiluses. I
 suppose you don’t any longer. But still, you know I would not for the
@@ -2672,8 +2571,7 @@ Brown. “And he does not want to degrade you. Of course, he’s a
 respectable, highly moral man. But, upon my soul, I would rather you
 had been seduced by a man you loved, than that you should have sold
 yourself coldly in this way.”</p> <p>Anne felt herself choking. For a
-moment she could not utter a word. Then suddenly,<pb n="192"
-xml:id="VAB7107-190"/> with a strange look in her eyes, she cried, in
+moment she could not utter a word. Then suddenly,<pb n="192" xml:id="VAB7107-190"/> with a strange look in her eyes, she cried, in
 a tone which smote her cousin on the mouth—</p> <p>“I love him!”</p>
 <p>Brown turned and looked her in the face. She was very flushed, and
 her slate‐grey eyes gleamed feverishly. But her face was calm, and she
@@ -2686,8 +2584,7 @@ Hamlin—the papers, I mean—which shall make him henceforth your sole
 protector. Then I shall go. Goodbye. I wish you joy of your choice”—he
 paused—“you mercenary thing!”</p> <p>Anne did not move.</p> <p>Richard
 Brown had already turned the handle of the door when he stopped. “One
-thing more,” he said, “which I desire you<pb n="193"
-xml:id="VAB7107-191"/> to know. You have taken care of yourself
+thing more,” he said, “which I desire you<pb n="193" xml:id="VAB7107-191"/> to know. You have taken care of yourself
 hitherto, and you are prudent enough in all conscience, and world‐wise
 enough, and heartless enough, to do so in future; so this piece of
 information may be of use to you. To‐morrow he will sign a paper,
@@ -2697,12 +2594,9 @@ himself to marry you whenever you may call upon him to do so. You will
 doubtless know how to turn this to profit. Good‐bye.”</p> <p>Anne sank
 into a chair, excited, exhausted, all her blood in movement, she
 scarcely knew why—insulted, maligned, and yet with a great sense of
-joyfulness in her heart.</p> </div> </div> <pb n="195"
-xml:id="VAB7107-192"/> <div type="part"> <head>BOOK III.</head> <pb
-n="197" xml:id="VAB7107-193"/> <div type="chapter"> <head>CHAPTER
+joyfulness in her heart.</p> </div> </div> <pb n="195" xml:id="VAB7107-192"/> <div type="part"> <head>BOOK III.</head> <pb n="197" xml:id="VAB7107-193"/> <div type="chapter"> <head>CHAPTER
 I.</head> <p><hi>A MONTH</hi> later, the little Perrys were being
-taken for their walk in the Boboli Gardens by a Swiss <foreign
-xml:lang="fre">bonne</foreign> in a quilted cap; and Anne Brown was
+taken for their walk in the Boboli Gardens by a Swiss <foreign xml:lang="fre">bonne</foreign> in a quilted cap; and Anne Brown was
 unpacking her things in a room overlooking the yellowish‐green Rhine,
 with its oscillating bridge of boats, and facing the rocks and
 bastions of Ehrenbreitstein.</p> <p>When Richard Brown had returned to
@@ -2711,8 +2605,7 @@ immediately written two letters,—one to his lawyers, instructing them
 to settle the capital of five hundred a‐year, that is to say, one
 quarter of his property, on Anne Brown; the other, narrating the
 history of his engagement (if engagement it might be called), to the
-widow of his former tutor, and asking<pb n="198"
-xml:id="VAB7107-194"/> her to admit the young lady in whom he was
+widow of his former tutor, and asking<pb n="198" xml:id="VAB7107-194"/> her to admit the young lady in whom he was
 interested into her school at Coblenz.  It was the Easter holidays,
 and Mrs Simson had taken advantage of the fact to come to Florence in
 order to take back her pupil herself.</p> <p>There was still a
@@ -2726,8 +2619,7 @@ which, however much it may marry, always seems to remain an old maid;
 but an old maid whose old‐maidishness is an incapacity of feeling any
 difference of age between herself and her youngers, of maintaining any
 stateliness of superior age and experience: a hopeful, believing,
-shrewd, happy‐go‐lucky, enthusiastic creature, invariably making<pb
-n="199" xml:id="VAB7107-195"/> one think of a remarkably good‐natured
+shrewd, happy‐go‐lucky, enthusiastic creature, invariably making<pb n="199" xml:id="VAB7107-195"/> one think of a remarkably good‐natured
 old grey mare. Youth was the greatest attraction in the world to her,
 and she identified herself completely with the young women that came
 under her influence. Hamlin had known her in his boyish days, and
@@ -2742,8 +2634,7 @@ and her school at Coblenz had formed an essential part of his
 plans. The lady, on the other hand, was exactly the kind of woman to
 whom a situation like this would appeal: Hamlin, whom she had
 entertained on buns and ginger‐beer, and then, in later years, raved
-over after the first sonnet which he sent to<pb n="200"
-xml:id="VAB7107-196"/> the ‘Athenæum,’ had always been her especial
+over after the first sonnet which he sent to<pb n="200" xml:id="VAB7107-196"/> the ‘Athenæum,’ had always been her especial
 object of adoration; and his adoption of a beautiful and strange young
 woman, his preparation of a bride for himself, was for her the
 finishing touch to his perfection. She would indeed have preferred had
@@ -2772,8 +2663,7 @@ how to think and how to feel, did not manifest any particular mode of
 thinking and feeling of her own. So they were both extremely assiduous
 to Anne Brown, and in reality thought much more about what she was
 going to be than about what she actually was.</p> <p>The fact was that
-the poor girl was in a dazed condition—that all this journey seemed<pb
-n="202" xml:id="VAB7107-198"/> to her unreal, and all the things
+the poor girl was in a dazed condition—that all this journey seemed<pb n="202" xml:id="VAB7107-198"/> to her unreal, and all the things
 around her unsubstantial. Her head felt hollow, she seemed to be
 informed about her feelings rather than to experience them, her own
 words sounded as if through a whispering‐gallery. A couple of weeks
@@ -2802,8 +2692,7 @@ old mare, “what is the matter with you?”</p> <p>But Anne merely buried
 her head deeper in the pillows, and sobbed harder than before.</p>
 <p>“What is the matter?” repeated Mrs Sireson, laying her hand on
 Anne’s shoulder.</p> <p>“Oh, leave me, leave me!” moaned the girl.</p>
-<p>Mrs Simpson gently passed her arm under<pb n="204"
-xml:id="VAB7107-200"/> the prostrate girl’s breast, and lifted her up
+<p>Mrs Simpson gently passed her arm under<pb n="204" xml:id="VAB7107-200"/> the prostrate girl’s breast, and lifted her up
 from the bed.</p> <p>“What is the matter with you, my dear?” she
 asked.</p> <p>“Nothing—nothing,” sobbed Anne, trying to hide her
 cried‐out eyes with her hands.</p> <p>“Nonsense; nothing!” said Mrs
@@ -2816,8 +2705,7 @@ she made the reluctant girl sit down by her side on the sofa. “Are you
 homesick?—do you feel very strange, poor dearie, with strange people?—
 are you frightened a little by the sudden change in your life?—it’s
 very natural, my dear little girl, but you’ll get over it soon.”</p>
-<p>Anne shook her head. But the impossibility<pb n="205"
-xml:id="VAB7107-201"/> of making Mrs Simson understand what depressed
+<p>Anne shook her head. But the impossibility<pb n="205" xml:id="VAB7107-201"/> of making Mrs Simson understand what depressed
 her, sent the sobs once more into her voice.</p> <p>“No, no,” she
 said; “oh no, no—you can’t understand. I don’t feel lonely—I don’t
 feel unhappy—but it’s only because Mr Hamlin—”</p> <p>“Because Mr
@@ -2831,8 +2719,7 @@ he be gone away!”</p> <p>Mrs Simson rose. At first she felt pained,
 disgusted; but her frigidness melted with the speedy reflection that
 girls don’t know what the matter is with them in such cases.</p>
 <p>“Good‐bye, dear,” she said; “I shall send you up some tea in a few
-minutes; that will set you all right. But don’t fret because<pb
-n="206" xml:id="VAB7107-202"/> Mr Hamlin is going. You will see him
+minutes; that will set you all right. But don’t fret because<pb n="206" xml:id="VAB7107-202"/> Mr Hamlin is going. You will see him
 soon again.”</p> <p>“I shall be glad when he is gone!” repeated Anne,
 in a paroxysm of grief.</p> <p>It was not a mere foolish, hysterical
 falsehood. It was a real relief when, one morning at Frankfurt, Hamlin
@@ -2845,8 +2732,7 @@ Hamlin walked along its side. Gradually it went quicker and quicker,
 and Anne Brown saw Hamlin for a minute on the platform; he was pale,
 but radiant. He waved his hand.</p> <p>“<foreign xml:lang="ita">A
 rivederci</foreign> !” he cried, waving his hat.</p> <p>A pillar of
-the station hid him. Anne turned away from the window and opened a<pb
-n="207" xml:id="VAB7107-203"/> book which he had given her. She read
+the station hid him. Anne turned away from the window and opened a<pb n="207" xml:id="VAB7107-203"/> book which he had given her. She read
 so assiduously all that day, that poor Mrs Simson, who was a sociable
 woman, resorted, in sheer despair, to talking with the other
 travellers, who stared in puzzled surprise at the tall girl with the
@@ -2874,8 +2760,7 @@ brought out two little books; the “Petrarch” he had given her at
 Lucca, and the volume of his own poems. She sat down by the open
 window and began reading them, and glancing at the redness dying away
 from river and sky. She felt very solemn and happy.</p> <p>“I must
-become worthy of him,” she thought.</p> </div> <pb n="209"
-xml:id="VAB7107-205"/> <div type="chapter"> <head>CHAPTER II.</head>
+become worthy of him,” she thought.</p> </div> <pb n="209" xml:id="VAB7107-205"/> <div type="chapter"> <head>CHAPTER II.</head>
 <p><hi>LIFE</hi> was monotonous enough at Mrs Simson’s at Coblenz; but
 it was a kind of monotony which to Anne Brown was positively
 exciting. It was for her a process of absorption into another class of
@@ -2902,8 +2787,7 @@ herself or get herself tuned to the pitch of the everyday feelings and
 life of her companions; she could not understand these young
 ladies. The girls at Mrs Simson’s did not exceed half‐a‐dozen, and
 they were none of them schoolgirls in the ordinary sense. They were,
-like Anne, eccentrically placed young women; orphans, or girls<pb
-n="211" xml:id="VAB7107-207"/> whose parents were in the colonies, or
+like Anne, eccentrically placed young women; orphans, or girls<pb n="211" xml:id="VAB7107-207"/> whose parents were in the colonies, or
 girls who could not get on at home,—girls, all of them, with a certain
 pretension to superiority, and a great habit of independence, which
 was fostered by the schoolmistress, whose theory was that women could
@@ -2929,8 +2813,7 @@ balls.</p> <p>Each of them studied whatsoever she thought fit: Greek
 and Latin professors, piano and singing masters, German governesses,
 were perpetually going in and out of the house; the girls were
 continually running to lectures on botany or physiology or comparative
-philology, where the youth of the town eyed the <foreign
-xml:lang="ger">Schöne Engländerinnen</foreign> with rapture, sending
+philology, where the youth of the town eyed the <foreign xml:lang="ger">Schöne Engländerinnen</foreign> with rapture, sending
 them anonymous bouquets and verses, and bringing them serenades, and
 even, to poor Mrs Simson’s horror, slipping love‐letters of the most
 burning description into the door‐hinges. Among these girls poor Anne
@@ -2998,12 +2881,10 @@ she was so fervent in all her feelings, that she always imagined that
 the serious things which people said or affected must be the reality;
 and, as in her own case, the levity, the frivolousness, the
 fickleness, must be the mere exterior clothing of social
-fictions. Thus she gave her sympathy wherever it was asked<pb n="217"
-xml:id="VAB7107-213"/> for, while asking for no sympathy herself. The
+fictions. Thus she gave her sympathy wherever it was asked<pb n="217" xml:id="VAB7107-213"/> for, while asking for no sympathy herself. The
 girls used often to remark upon this, and complain that for all they
 did, Anne Brown remained surrounded by a sort of moral moat, alone,
-isolated, impregnable in a kind of moral fortress.</p> </div> <pb
-n="218" xml:id="VAB7107-214"/> <div type="chapter"> <head>CHAPTER
+isolated, impregnable in a kind of moral fortress.</p> </div> <pb n="218" xml:id="VAB7107-214"/> <div type="chapter"> <head>CHAPTER
 III.</head> <p><hi>AS</hi> Hamlin had fancied, while painting Anne’s
 portrait, so the girls at Mrs Simson’s used to fancy that there could
 not be much going on inside this taciturn and undemonstrative
@@ -3015,8 +2896,7 @@ could lay hold of, was taken to concerts, lectures, burgher
 tea‐parties and garrison balls, and on excursions up and down the
 Rhine and into the neighbouring hills; but all this was but as an
 exterior life surrounding an interior one, as the movement of the ship
-to the movement of the passengers on its deck.</p> <pb n="219"
-xml:id="VAB7107-215"/> <p>The real life was not with these girls and
+to the movement of the passengers on its deck.</p> <pb n="219" xml:id="VAB7107-215"/> <p>The real life was not with these girls and
 these teachers, but with Hamlin; not in this Rhineland town, but in
 the distant places where he travelled. He wrote to her very often,
 from London, from Italy, from Greece and Egypt, and wherever he roamed
@@ -3061,8 +2941,7 @@ undoing again the packet in which she kept them: if he knew that, he
 might feel obliged, being so kind, to write oftener; and that must not
 be.</p> <p>Any one who had seen these letters which were her soul’s
 food, would have been surprised how they could awaken such a longing,
-how they could produce such emotion and<pb n="222"
-xml:id="VAB7107-218"/> keep alive such passion.  In accordance with
+how they could produce such emotion and<pb n="222" xml:id="VAB7107-218"/> keep alive such passion.  In accordance with
 his whole plan of proceedings, Hamlin never once wrote to Anne as if
 there were any question of her ever becoming his wife. “My dear Miss
 Brown,” they all ceremoniously began, and ended off “Yours sincerely,”
@@ -3108,8 +2987,7 @@ unattainable ideals, by conflicts in his own nature: mysterious
 temptations of unspeakable things, beckoning his nobler nature into
 the mud, which he never at all specified, but which moved Anne to
 agonies of grief and admiration. The poor girl, not understanding how
-such things will shoot up in the poetic mind as a result of mere<pb
-n="225" xml:id="VAB7107-221"/> reading, and be nurtured there for a
+such things will shoot up in the poetic mind as a result of mere<pb n="225" xml:id="VAB7107-221"/> reading, and be nurtured there for a
 day for the sake of their strange colour, would screw up all her might
 to help him, writing to him to be patient, to be strong and bold, to
 remember the nobility of his nature,—strange passionately earnest
@@ -3139,8 +3017,7 @@ became more deeply versed in poetry and poetical and picturesque
 history than most girls; Greek lyrism, Oriental mysticism, French
 æstheticism, but above all, things medieval and pseudo‐medieval;
 imbued with the imagery and sentiment of that strange eclectic school
-of our days which we still call pre‐Raphaelite. And<pb n="227"
-xml:id="VAB7107-223"/> such an education, while putting her in
+of our days which we still call pre‐Raphaelite. And<pb n="227" xml:id="VAB7107-223"/> such an education, while putting her in
 complete harmony with Hamlin’s aspirations and habits, also brought
 home to her the merit of Hamlin’s own work. Of his pictures, she had,
 indeed, only vague recollections, besides the little sketches,
@@ -3162,8 +3039,7 @@ he had chosen her. And when the New Zealander, who was musical and had
 a fine voice, used sometimes to sing Schumann’s song, “Er der
 herrlichste von allen,” the words and the music sent a flood of love
 and pride to her heart; it was he, “he the most glorious of all,” who
-was thus gracious and good to her.</p> </div> <pb n="229"
-xml:id="VAB7107-225"/> <div type="chapter"> <head>CHAPTER IV.</head>
+was thus gracious and good to her.</p> </div> <pb n="229" xml:id="VAB7107-225"/> <div type="chapter"> <head>CHAPTER IV.</head>
 <p><hi>THUS</hi> one year went by; and then, slowly, another, while
 Anne Brown was being transformed from a nursemaid into a lady. Hamlin
 saw her twice during that time. Once, while Mrs Simson and Anne were
@@ -3251,8 +3127,7 @@ vague, unspoken hope. But why feel disappointed? or did she really
 feel disappointed at all? She believed that she cared for Hamlin only
 as for a benefactor, a divinity, a creature who might bestow affection
 but could not be asked for it; and this being the case, and knowing
-herself to have been perfectly satisfied and happy hitherto,<pb
-n="235" xml:id="VAB7107-231"/> she persuaded herself that she really
+herself to have been perfectly satisfied and happy hitherto,<pb n="235" xml:id="VAB7107-231"/> she persuaded herself that she really
 did not feel disappointed about anything, when Hamlin thus wrote about
 her education and her plans and nothing else.</p> <p>But as the winter
 drew to a close, there came another letter from Hamlin (all the
@@ -3322,11 +3197,9 @@ shame and remorse at her heartlessness; “forgive me, forgive—I am a
 brute—a beast —oh dear, oh dear, that happiness should make me so
 wicked!”</p> <p>The New Zealander smiled and buried her thin yellow
 face in the masses of Anne’s dark crisp hair.</p> <p>“Will you
-remember me sometimes?” she asked; “I love you so much.”</p> <pb
-n="240" xml:id="VAB7107-236"/> <p>Anne kissed the poor, pale,
+remember me sometimes?” she asked; “I love you so much.”</p> <pb n="240" xml:id="VAB7107-236"/> <p>Anne kissed the poor, pale,
 tear‐stained cheeks.</p> <p>“Oh yes, I will always remember you,” she
-said.</p> <p>But she was already thinking of Hamlin.</p> </div> <pb
-n="241" xml:id="VAB7107-237"/> <div type="chapter"> <head>CHAPTER
+said.</p> <p>But she was already thinking of Hamlin.</p> </div> <pb n="241" xml:id="VAB7107-237"/> <div type="chapter"> <head>CHAPTER
 V.</head> <p><hi>DURING</hi> that last month at school Anne was
 indefatigable: in the face of the vague future which was so rapidly
 approaching, she felt bound to clutch hold of the present, thinking
@@ -3393,8 +3266,7 @@ folding her things. But the girl was much quicker than she, and Anne
 soon remained with nothing to do, looking on vacantly. She felt as if
 she would give worlds to get the girl away; she felt as if she ought
 to say to her, “Don’t do that for me; I am not a real lady; I am no
-better than you; I am a servant, a maid, myself<pb n="246"
-xml:id="VAB7107-242"/>,”—and as if every moment of silence were a kind
+better than you; I am a servant, a maid, myself<pb n="246" xml:id="VAB7107-242"/>,”—and as if every moment of silence were a kind
 of deceit. At last she could bear it no longer—</p> <p>“Please,” she
 cried, “let me pack my things myself; I have always packed them
 myself; I should be so glad if you would let me.”</p> <p>The girl rose
@@ -3408,8 +3280,7 @@ station, and the familiar faces were hidden by outhouses and
 locomotives, the sense of embarking on unknown waters rushed upon
 Anne; and when, that evening, her maid bade her good night at the
 hotel at Cologne, offering to brush her hair and help her to undress,
-she was seized with intolerable homesickness<pb n="247"
-xml:id="VAB7107-243"/> for the school,—the little room she had just
+she was seized with intolerable homesickness<pb n="247" xml:id="VAB7107-243"/> for the school,—the little room she had just
 left,—and she would have implored any one to take her back. But the
 next days she felt quite different: the excitement of novelty kept her
 up, and almost made it seem as if all these new things were quite
@@ -3462,8 +3333,7 @@ wharf, in the twilight, the breeze blowing in her face, all the people
 jostling and shouting around her. Then a voice said—“I fear you must
 be very tired, Miss Brown.” It was at once so familiar and so strange
 that it made her start; the dream seemed dispelled. She was in
-reality, and Hamlin was really by her side.</p> </div> </div> <pb
-n="251" xml:id="VAB7107-247"/> <div type="part"> <head>BOOK IV.</head>
+reality, and Hamlin was really by her side.</p> </div> </div> <pb n="251" xml:id="VAB7107-247"/> <div type="part"> <head>BOOK IV.</head>
 <pb n="253" xml:id="VAB7107-248"/> <div type="chapter"> <head>CHAPTER
 I.</head> <p><hi>IT</hi> is sad to think how little even the most
 fervently loving among us are able to reproduce, to keep within
@@ -3475,8 +3345,7 @@ sat in the carriage which was carrying her to her new home, the
 feeling which was strongest in her was, not joy to see Hamlin again,
 nor fear at entering on this new phase of existence, but a recurring
 shock of surprise at the voice which was speaking to her, the voice
-which she now recognised as that of the real Hamlin, but<pb n="254"
-xml:id="VAB7107-249"/> which was so undefinably different from the
+which she now recognised as that of the real Hamlin, but<pb n="254" xml:id="VAB7107-249"/> which was so undefinably different from the
 voice which had haunted her throughout those months of absence. Hamlin
 was seated by her side, the maid opposite. The carriage drove quickly
 through a network of dark streets, and then, on, on, along miles of
@@ -3490,8 +3359,7 @@ overhanging tree‐branches, and distant spectral towers and
 belfries.</p> <p>“You must be very tired,” said Hamlin.</p> <p>“Oh
 no,” answered Anne, that repeated revelation of the real voice still
 startling her—“ not at all.”</p> <p>He asked her how she had left
-those at Coblenz, and about her journey; she had to<pb n="255"
-xml:id="VAB7107-250"/> tell him about every picture and church she had
+those at Coblenz, and about her journey; she had to<pb n="255" xml:id="VAB7107-250"/> tell him about every picture and church she had
 seen at Cologne, Brussels, Bruges, and Antwerp. It is strange how
 people whose hearts have seemed full to bursting with things they have
 so long been waiting to say, will talk, when they meet again, like
@@ -3519,8 +3387,7 @@ dim room, with strange‐looking things all about. Some red embers sent
 a crimson flicker over the carpet; by the tall fireplace was a table
 with a shaded lamp, and at it was seated a tall, slender woman, with
 the figure of a young girl, but whose face, when Anne saw it, was
-parched and hollowed out, and surrounded by grey hair.</p> <pb n="257"
-xml:id="VAB7107-252"/> <p>“This is Miss Brown, Aunt Claudia,” said
+parched and hollowed out, and surrounded by grey hair.</p> <pb n="257" xml:id="VAB7107-252"/> <p>“This is Miss Brown, Aunt Claudia,” said
 Hamlin.</p> <p>The old lady rose, advanced, and kissed Anne frigidly
 on both cheeks.</p> <p>“I am glad to see you, my dear,” she said, in a
 tone which was neither cold nor insincere, but simply and utterly
@@ -3533,8 +3400,7 @@ dreamily.</p> <p>“Oh no,” answered Anne, faintly, “not at all bad,
 thank you.”</p> <p>“So much the better,” went on the old lady,
 absently. “Ring for some tea, Walter.”</p> <p>Hamlin rang. In a moment
 tea‐things were brought. Hamlin handed a cup to Anne, and offered her
-some cake.</p> <p>“It is a long drive,” said Mrs Macgregor—<pb n="258"
-xml:id="VAB7107-253"/> “a long drive—all the way from Charing
+some cake.</p> <p>“It is a long drive,” said Mrs Macgregor—<pb n="258" xml:id="VAB7107-253"/> “a long drive—all the way from Charing
 Cross.”</p> <p>“Miss Brown came by the Antwerp boat—St Catherine’s
 Wharf—in the City, aunt,” corrected Hamlin.</p> <p>“Ah, yes, to be
 sure—perhaps she would like some more milk in her tea. There is always
@@ -3546,8 +3412,7 @@ first time I am in England,” answered Anne, shyly; all this dim room,
 with its vague sense of beautiful things all round, this absent‐minded
 lady, all seemed to harmonise with her own dreamlike sensations.</p>
 <p>“Miss Brown was born in Italy,” explained Hamlin, probably for the
-hundredth time.</p> <p>“Oh yes, of course; how stupid I am! And,<pb
-n="259" xml:id="VAB7107-254"/> Walter, there are some letters for you
+hundredth time.</p> <p>“Oh yes, of course; how stupid I am! And,<pb n="259" xml:id="VAB7107-254"/> Walter, there are some letters for you
 on the hall table, and Mr Chough came while you were out, and a man
 from—what’s his name—the upholsterer who writes poetry.”</p> <p>“All
 right,” interrupted Hamlin.</p> <p>“Won’t you have another cup,
@@ -3564,8 +3429,7 @@ the old lady.</p> <pb n="260" xml:id="VAB7107-255"/> <p>“Yes,” added
 Hamlin, “and I must go. Good‐bye, aunt. Good night, Miss Brown; I hope
 you will have good dreams to welcome you home to England. I shall come
 in for lunch to‐morrow, Aunt Claudia. Good night. Good night, Miss
-Brown,” and he kissed her hand. “Good night, <foreign
-xml:lang="ita">buon riposo e sogni felici.</foreign>”</p> <p>The few
+Brown,” and he kissed her hand. “Good night, <foreign xml:lang="ita">buon riposo e sogni felici.</foreign>”</p> <p>The few
 words of Italian almost brought the tears to Anne’s eyes; she felt so
 strange here, so far from everything—and yet what had she left behind?
 nothing, and no one who loved her, except that little girl from New
@@ -3595,8 +3459,7 @@ but it is the misfortune of their lives. Good night, my dear.”</p>
 understand them. She soon fell asleep, and dreamed that Melton Perry
 had painted a picture, and that in a storm the ship’s crew said it
 must be used as a raft; and somehow it all took place at Florence, in
-the large pond in the Boboli Gardens.</p> </div> <pb n="263"
-xml:id="VAB7107-258"/> <div type="chapter"> <head>CHAPTER II.</head>
+the large pond in the Boboli Gardens.</p> </div> <pb n="263" xml:id="VAB7107-258"/> <div type="chapter"> <head>CHAPTER II.</head>
 <p><hi>ANNE BROWN</hi> awoke with a vague sense of gladness, but no
 very clear notion of where she was. Then it came upon her that this
 was Hamlin’s house, that she would actually see him again in a few
@@ -3607,8 +3470,7 @@ twittering birds, and the plash of the steamer‐paddles in the
 river. Anne looked round her and wondered. She had never seen such a
 room as this in her life: the wails were all panelled white, except
 where the panelling was interrupted by expanses of pale‐yellow chintz;
-the furniture also was of old‐fashioned chintz; the<pb n="264"
-xml:id="VAB7107-259"/> mirror was like what she had seen in the
+the furniture also was of old‐fashioned chintz; the<pb n="264" xml:id="VAB7107-259"/> mirror was like what she had seen in the
 illustrations to an old copy of ‘Sir Charles Grandison’ which had
 belonged to Miss Curzon; the tapered chairs and tables to match. There
 were blue‐and‐white jars and pots all about, and old‐fashioned china
@@ -3669,8 +3531,7 @@ time to take it all in. She stole to the piano, opened it gently, and
 played the accompaniment of a song of Carissimi’s, which Hamlin was
 fond of, but inaudibly, without letting her fingers press down the
 keys.  Then she looked at everything once more. She was beginning to
-get familiarised with the pictures on the wall; the pale, delicate<pb
-n="268" xml:id="VAB7107-263"/> bits of landscape; the deep‐coloured
+get familiarised with the pictures on the wall; the pale, delicate<pb n="268" xml:id="VAB7107-263"/> bits of landscape; the deep‐coloured
 pictures of ladies in wonderful jewel‐like robes, with mysterious
 landscapes behind them; the drawings of strange, beautiful, emaciated,
 cruel‐looking creatures, men or women, with wicked lips and combed‐out
@@ -3685,8 +3546,7 @@ Mrs Macgregor’s room, where she found the old lady in her
 dressing‐gown, before a table spread with eighteenth‐century china, or
 what to Anne seemed such.</p> <p>“What an hour you do get up at,
 Charlotte!”<corr/> said Mrs Macgregor, kissing Anne on both
-cheeks. “We never think of getting up<pb n="269"
-xml:id="VAB7107-264"/> here before half‐past nine.  Walter never comes
+cheeks. “We never think of getting up<pb n="269" xml:id="VAB7107-264"/> here before half‐past nine.  Walter never comes
 in till luncheon‐time, because he has so far to come, and is up so
 late every night. Turn round; let me see what you look like this
 morning.”</p> <p>And Mrs Macgregor made Anne turn round slowly. She
@@ -3746,8 +3606,7 @@ the time of the building of the house, aren’t they?”</p> <p>“Oh
 goodness, no,” answered Hamlin, sadly; “I only wish they were. They’re
 bran‐new, every stick of them. Everybody has them now; nobody makes
 anything except imitation old‐world things.”</p> <p>“Why don’t they
-try and make something good and new—something out of their own<pb
-n="273" xml:id="VAB7107-268"/> heads, as the old workmen did?”  asked
+try and make something good and new—something out of their own<pb n="273" xml:id="VAB7107-268"/> heads, as the old workmen did?”  asked
 Anne, looking with wonder upon these new things which seemed so
 old.</p> <p>“There is nothing to nourish art nowadays,” said Hamlin,
 seating himself opposite her and looking her full in the face as he
@@ -3761,8 +3620,7 @@ returning to her mind as it had never done when, in the letters which
 he used to write to her at Coblenz, Hamlin had said before what he was
 saying now.</p> <p>“I don’t know why it should be,” replied Hamlin,
 “but so it is.”</p> <p>“Can’t we prevent it?” asked Anne, scarcely
-thinking of what she was saying; conscious<pb n="274"
-xml:id="VAB7107-269"/> only that she was really once more in his
+thinking of what she was saying; conscious<pb n="274" xml:id="VAB7107-269"/> only that she was really once more in his
 presence.</p> <p>Hamlin shook his head sadly.</p> <p>“Why cannot we
 revive those?” he said, pointing to a bunch of delicate pale‐pink
 roses, which drooped withered in a Venetian glass. “What is dead is
@@ -3804,8 +3662,7 @@ brougham and take her to see a few of your friends, Walter,” suggested
 Mrs Macgregor.</p> <p>Poor Anne felt a sort of horror go all down
 her.</p> <p>“Oh, please don’t!” she cried—“not to‐day; don’t take me
 to see any one, please.”</p> <p>“It’s much wiser to let her rest,”
-said Hamlin, in a tone of annoyance.</p> <pb n="277"
-xml:id="VAB7107-272"/> <p>“Won’t you just take the poor girl to Mrs
+said Hamlin, in a tone of annoyance.</p> <pb n="277" xml:id="VAB7107-272"/> <p>“Won’t you just take the poor girl to Mrs
 Argiropoulo’s, Watty?” insisted his aunt. “It’s a sin to keep her
 mewed up at Hammersmith all day; and you know Mrs Argiropoulo was so
 anxious to see her at once.”</p> <p>“Confound Mrs Argiropoulo!”
@@ -3832,8 +3689,7 @@ a most entertaining fellow—his only weakness is that he is a great
 republican and democrat, but would like to be thought the son of a
 duke.”</p> <p>“The son of a duke? ” asked Anne, in surprise.</p>
 <p>“Oh, the natural son, of course—forgive me, my dear,” said Mrs
-Macgregor.  “People nowadays like anything illegitimate—it’s a<pb
-n="279" xml:id="VAB7107-274"/> distinction. It wasn’t in my day, but
+Macgregor.  “People nowadays like anything illegitimate—it’s a<pb n="279" xml:id="VAB7107-274"/> distinction. It wasn’t in my day, but
 things have changed; and Mr Cosmo Chough would dearly like to be
 thought a bastard, especially a duke’s.”</p> <p>Hamlin smiled.</p>
 <p>“Poor Chough! Some one told him he was like Richard Savage one day,
@@ -3862,8 +3718,7 @@ and drowsy afternoon’s talk, such as is possible only after a long
 correspondence between people become familiar without much personal
 intercourse, who, knowing each other’s mind, are now beginning to know
 each other’s face and ways and heart; and which has a charm quite
-peculiar to itself, like that of hearing<pb n="281"
-xml:id="VAB7107-276"/> for the first time, with full symphony of
+peculiar to itself, like that of hearing<pb n="281" xml:id="VAB7107-276"/> for the first time, with full symphony of
 voices and instruments, some piece of music which we have learned to
 know and love merely from the dry score.</p> <p>Anne had never felt so
 happy in all her life, and Hamlin not often happier in his, as they
@@ -3933,8 +3788,7 @@ understand Latin, Cosmo,” interrupted Hamlin, roughly, “and I am sure
 she would take no interest in Imperia or her epitaph.  Supposing you
 let Miss Brown hear some of that beautiful Jomelli Mass you were
 speaking about. Chough is one of the finest musicians I know,” he
-explained to Anne, “and he is quite famous<pb n="286"
-xml:id="VAB7107-281"/> for singing all sorts of forgotten old Italian
+explained to Anne, “and he is quite famous<pb n="286" xml:id="VAB7107-281"/> for singing all sorts of forgotten old Italian
 masters.”</p> <p>Chough sat down and began to sing, in a warbling
 falsetto, but with the most marvellous old‐world grace and finish.</p>
 <p>Anne did not attend. She was wondering about Imperia of Rome. Why
@@ -3947,8 +3801,7 @@ feelings had been much hurt. She felt rather sorry for the sharp way
 in which he had been treated, and terrified lest she should be a
 source of misunderstanding between Hamlin and his friends. She greatly
 praised Chough’s singing.</p> <p>“Will you sing?” cried the little
-poet, supplicatingly; “you must have a beautiful<pb n="287"
-xml:id="VAB7107-282"/> voice. I know it from your way of
+poet, supplicatingly; “you must have a beautiful<pb n="287" xml:id="VAB7107-282"/> voice. I know it from your way of
 speaking.”</p> <p>Anne refused in terror.</p> <p>“Do sing, Miss
 Brown,” urged Hamlin. So she took her courage with both hands, as she
 expressed it, and sang an air by Scarlatti, Chough accompanying. She
@@ -4021,8 +3874,7 @@ Hamlin’s generosity, ought she not to be grateful merely, and proud?
 and if his friends felt curious to see her, was it not natural, he
 being what he was; and had she a right to feel annoyed at their
 curiosity, at their knowing all about her? It had been mean and
-unworthy. Yet she could not help feeling a sort of vague anger<pb
-n="292" xml:id="VAB7107-287"/> at she knew not what, as the lady
+unworthy. Yet she could not help feeling a sort of vague anger<pb n="292" xml:id="VAB7107-287"/> at she knew not what, as the lady
 chattered away, in glib Greek‐English, about poets, and studios, and
 dinner‐parties; and she answered Mrs Argiropoulo only in
 monosyllables.</p> <p>“You must let me take your ward into society a
@@ -4050,8 +3902,7 @@ Hamlin, throwing himself back in his chair; “and so’s Mrs
 Argiropoulo. But a kind of grain that sets my nerves off. That’s the
 misfortune of London, that a lot of vulgar creatures, merely because
 they buy our pictures and give dinners, have come and invaded our set,
-showing us, like so many wild beasts, to<pb n="294"
-xml:id="VAB7107-289"/> the fashionable world. Positively, I shall have
+showing us, like so many wild beasts, to<pb n="294" xml:id="VAB7107-289"/> the fashionable world. Positively, I shall have
 to give up London. But you will find,” he added, turning to Anne, “one
 or two houses still remaining where one meets only superior people—the
 houses where artistic life really goes on.”</p> <p>“Upon whipped cream
@@ -4064,8 +3915,7 @@ smiled. “One must make a world for one’s self,” he said, and looked at
 Anne.</p> <p>When Mr Cosmo Chough had taken his seat next to Mrs
 Argiropoulo, the portly lady deluged him with questions and replies as
 her landau rolled away.</p> <p>“On the whole, I’m quite as well
-pleased not to take her out at once,” she said. “I’m<pb n="295"
-xml:id="VAB7107-290"/> not at all so sure about her.  She seems to me
+pleased not to take her out at once,” she said. “I’m<pb n="295" xml:id="VAB7107-290"/> not at all so sure about her.  She seems to me
 too big and lumpish and healthy‐looking. I should like to have one or
 two opinions first—one or two artists’, and young Posthlethwaite’s,
 and little O’Reilly’s—of course, they’ll see her at old Smith’s, or
@@ -4091,8 +3941,7 @@ shall walk home in less than a minute from there.”</p> <p>“To the
 corner of Park Lane,” ordered Mrs Argiropoulo of her footman, who
 knew, as well as his mistress and every other creature in what they
 called London, that Mr Cosmo Chough lived in a secluded terrace in
-Canonbury.</p> </div> <pb n="297" xml:id="VAB7107-292"/> <div
-type="chapter"> <head>CHAPTER IV.</head> <p><hi>ANNE BROWN</hi> found
+Canonbury.</p> </div> <pb n="297" xml:id="VAB7107-292"/> <div type="chapter"> <head>CHAPTER IV.</head> <p><hi>ANNE BROWN</hi> found
 that Hamlin, or, as he studiously put it, Mrs Macgregor, had made
 several engagements for her before her arrival; and before she could
 thoroughly realise that the school, the journey from Coblenz, were
@@ -4102,8 +3951,7 @@ hazy: Anne was informed that this and that person was coming to dinner
 or lunch at Hammersmith; that this or that person hoped she would come
 and dine or take tea somewhere or other; that such or such a lady was
 going to take her to see some one or other’s studio, or to introduce
-her at some other person’s house. She knew that they were all<pb
-n="298" xml:id="VAB7107-293"/> either distinguished poets, or critics,
+her at some other person’s house. She knew that they were all<pb n="298" xml:id="VAB7107-293"/> either distinguished poets, or critics,
 or painters, or musicians, or distinguished relations and friends of
 the above; that they all received her as if they had heard of her from
 their earliest infancy; that they pressed her to have tea, and
@@ -4118,8 +3966,7 @@ with no further differences; and, finally, that they were all
 intimately acquainted, and spoke of each other as being, or just
 having missed being, the most brilliant or promising specimens of
 whatever they happened to be.</p> <p>At first Anne felt very shy and
-puzzled; but after a few days the very vagueness which<pb n="299"
-xml:id="VAB7107-294"/> she felt about all these men and women, these
+puzzled; but after a few days the very vagueness which<pb n="299" xml:id="VAB7107-294"/> she felt about all these men and women, these
 artists, critics, poets, and relatives, who were perpetually
 reappearing as on a merry‐go‐round,—nay, the very cloudiness as to the
 identity of these familiar faces—the very confusion as to whether they
@@ -4150,8 +3997,7 @@ personalities, some of whom attracted, and some of whom repelled her,
 as we shall see further on; but to all these people, vague or
 distinct, attractive or repulsive, Miss Brown felt a kind of
 gratitude—something, in an infinitesimal degree, of the thankfulness
-for undeserved kindness and courtesy which<pb n="301"
-xml:id="VAB7107-296"/> constituted a large part of her love for
+for undeserved kindness and courtesy which<pb n="301" xml:id="VAB7107-296"/> constituted a large part of her love for
 Hamlin.</p> <p>It was a curious state of things, thus to be introduced
 by a man whom she knew at once so much and so little, to this
 exclusive and esoteric sort of people; and whenever the thought would
@@ -4179,8 +4025,7 @@ see—Mrs Argiropoulo invites comparatively few people, and—”</p>
 <p>“That she wants only celebrities, or great folk, or pretty girls,”
 interrupted Aunt Claudia, with her friendly cynicism, “or, as she
 expresses it, that she wants no padding. So you must go with Mrs
-Spencer or Miss Pringle, my dear.”</p> <pb n="303"
-xml:id="VAB7107-298"/> <p>“But it is abominable; it is most rude of
+Spencer or Miss Pringle, my dear.”</p> <pb n="303" xml:id="VAB7107-298"/> <p>“But it is abominable; it is most rude of
 Mrs Argiropoulo; and I certainly won’t go anywhere where Aunt Claudia
 has not been invited.”</p> <p>“Nonsense, Nan,” silenced the old lady;
 “you’re not up to this lion‐hunting world yet. Where there are so many
@@ -4193,8 +4038,7 @@ you ought not to wish me to go.”</p> <p>“As you choose, Miss Brown,”
 cried Hamlin, peevishly.</p> <p>“Don’t be absurd, Anne—you must go,”
 insisted Mrs Macgregor. “Listen: Watty has actually been addling his
 brains doing dressmaking; he has invented a dress for you to go to the
-party, so you will break his heart if you refuse.”</p> <pb n="304"
-xml:id="VAB7107-299"/> <p>Anne looked in amazement; and Hamlin
+party, so you will break his heart if you refuse.”</p> <pb n="304" xml:id="VAB7107-299"/> <p>Anne looked in amazement; and Hamlin
 reddened.</p> <p>“I hope you will not deem it a liberty on my part,
 Miss Brown,” he said; “but as I knew that this invitation was coming,
 I ventured to make a sketch of the sort of dress which I think would
@@ -4223,8 +4067,7 @@ amount of the Greek stuff of which it was made; but it was not till
 the very afternoon of Mrs Argiropoulo’s party that the costume was
 brought home finished. Miss Brown was by this time tolerably
 accustomed to the eccentric garb of æsthetic circles, and she firmly
-believed that it was the only one which a self‐respecting<pb n="306"
-xml:id="VAB7107-301"/> woman might wear; but when she saw the dress
+believed that it was the only one which a self‐respecting<pb n="306" xml:id="VAB7107-301"/> woman might wear; but when she saw the dress
 which Hamlin had designed for her, she could not help shrinking back
 in dismay. It was of that Cretan silk, not much thicker than muslin,
 which is woven in minute wrinkles of palest yellowy white; it was
@@ -4267,8 +4110,7 @@ paused and looked at her, where she stood before him, stooping her
 massive head sullenly—“you can’t think how beautiful you look,
 Anne!”</p> <p>It was the first time he had called her by her Christian
 name since that scene, long ago, in the studio at Florence.</p>
-<p>“Forgive me, dear Miss Brown,” he apologised<pb n="309"
-xml:id="VAB7107-304"/>. “I knew how such a dress must suit you, and
+<p>“Forgive me, dear Miss Brown,” he apologised<pb n="309" xml:id="VAB7107-304"/>. “I knew how such a dress must suit you, and
 yet it has given me quite a shock to see you in it.”</p> <p>“It was
 very kind of you to have it made for me,” said Anne, “and the stuff is
 very pretty also; and—and I am so glad you like me in it.”</p>
@@ -4296,8 +4138,7 @@ the fireplace, she could not repress an exclamation of admiration.</p>
 Florence and at Coblenz; “it is a very wonderful costume, isn’t it? Mr
 Hamlin designed it for me. I think it was so kind of him; don’t
 you?”</p> <p>“Kind? I see nothing kind about it. Walter” (she always
-spoke of him thus familiarly, because he had worked as a youth in<pb
-n="311" xml:id="VAB7107-306"/> her father’s studio) “is simply head
+spoke of him thus familiarly, because he had worked as a youth in<pb n="311" xml:id="VAB7107-306"/> her father’s studio) “is simply head
 over ears in love with you, my dear.”</p> <p>Anne shook her head.</p>
 <p>“Oh no,” she answered, with a sort of reasoned conviction, “he is
 merely very good to me, that’s all—and perhaps he likes me also, of

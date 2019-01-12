@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18630" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18630" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Mistress and Maid : ELTec edition</title>
-                <author>Craik, Dinah Marie (1826-1887).</author>
+                <author ref="viaf:46793285">Craik, Dinah Marie (1826-1887)</author>
                 <respStmt>
                     <resp>Original HTML version</resp>
                     <name>Robin Eugene Escovado</name>

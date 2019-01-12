@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18560">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18560">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The Daisy Chain : ELTec edition</title>
-<author>Yonge, Charlotte Mary (1823-1901).</author>
+<author ref="viaf:71399881">Yonge, Charlotte Mary (1823-1901)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -62,8 +60,7 @@ the limits of the periodical in which it was commenced; and, such as it has beco
 presented to those who have already made acquaintance with the May family, and may be willing to see
 more of them. It would beg to be considered merely as what it calls itself, a Family Chronicle—a
 domestic record of home events, large and small, during those years of early life when the character
-is chiefly formed, and as an endeavour to trace the effects of those aspirations which are <pb
-n="viii"/> a part of every youthful nature. That the young should take one hint, to think whether
+is chiefly formed, and as an endeavour to trace the effects of those aspirations which are <pb n="viii"/> a part of every youthful nature. That the young should take one hint, to think whether
 their hopes and upward-breathings are truly upwards, and founded in lowliness, may be called the
 moral of the tale.</p>
 <p>For those who may deem the story too long, and the characters too numerous, the Author can only
@@ -2983,8 +2980,7 @@ that Ethel uses, and there were ever so many rough copies of hers sticking in it
 <p>'Why, Anderson junior, was gaping about in despair for sense for his verses—he comes on that, and
 slyly copies a whole set of her old ones, done when she—Norman, I mean—was in the fifth form. His
 subject was a river, and hers Babylon; but, altering a line or two, it did just as well. He never
-guessed I saw him, and thought he had done it famously. He showed them up, and would have got <pb
-n="90"/> some noted good mark, but that, by great good luck, Ethel had made two of her pentameters
+guessed I saw him, and thought he had done it famously. He showed them up, and would have got <pb n="90"/> some noted good mark, but that, by great good luck, Ethel had made two of her pentameters
 too short, which he hadn't the wit to find out, thinking all Norman did must be right. So he has
 shown up a girl's verses—isn't that rare?' cried Harry, dancing on his chair with triumph.</p>
 <p>'I hope no one knows they were hers?'</p>
@@ -3828,8 +3824,7 @@ be beaten, and all the four others ought to be able to do it. I did not want or 
 but now I am, you could not bear me not to keep my place, and to miss the Randall scholarship, as I
 certainly shall, if I do not work these whole holidays.'</p>
 <p>'Norman, I know it,' said his father, kindly. 'I am very sorry for you, and I know I am asking of
-you what I could not have done at your age—indeed, I dont believe I could have done it for you a <pb
-n="116"/> few months ago. It is my fault that you have been let alone, to have an overstrain and
+you what I could not have done at your age—indeed, I dont believe I could have done it for you a <pb n="116"/> few months ago. It is my fault that you have been let alone, to have an overstrain and
 pressure on your mind, when you were not fit for it, and I cannot see any remedy but complete
 freedom from work. At the same time, if you fret and harass yourself about being surpassed, that is,
 as you say, much worse for you than Latin and Greek. Perhaps I may be wrong, and study might not do
@@ -3924,8 +3919,7 @@ positively ill, the task would have been easier, but the low intermittent fever 
 did not confine him to bed, only kept him lounging, listless and forlorn, through the weary day, not
 always able to go out with his father, and on Christmas-Day unfit even for Church.</p>
 <p>All this made the want of his mother, and the vacancy in his home, still more evident, and
-nothing was capable of relieving his sadness but his father's kindness, which was a continual <pb
-n="119"/> surprise to him. Dr. May was a parent who could not fail to be loved and honoured; but, as
+nothing was capable of relieving his sadness but his father's kindness, which was a continual <pb n="119"/> surprise to him. Dr. May was a parent who could not fail to be loved and honoured; but, as
 a busy man, trusting all at home to his wife, he had only appeared to his children either as a merry
 playfellow, or as a stern paternal authority, not often in the intermediate light of guiding friend,
 or gentle guardian; and it affected Norman exceedingly to find himself, a tall school-boy, watched
@@ -3984,8 +3978,7 @@ it makes him certain of the Randall scholarship too, I suppose. It is a great th
 have worked very hard.'</p>
 <p>'Yes, that he has,' said Flora; 'he is so fond of study, and that goes half way.'</p>
 <p>'So is dear Harvey. How earnest he is over his books! Mamma sometimes says, "Now Harvey, dear,
-you'll be quite stupified, you'll be ill; I really shall get Dr. May to forbid you." I suppose <pb
-n="121"/> Norman is very busy too; it is quite the fashion for boys not to be idle now.'</p>
+you'll be quite stupified, you'll be ill; I really shall get Dr. May to forbid you." I suppose <pb n="121"/> Norman is very busy too; it is quite the fashion for boys not to be idle now.'</p>
 <p>'Poor Norman can't help it,' said Ethel, piteously. 'Papa will not hear of his doing any Latin or
 Greek these whole holidays.'</p>
 <p>'He thinks he will come to it better again for entire rest,' said Flora, launching another look
@@ -4759,8 +4752,7 @@ great treat. Thank you with all my heart.'</p>
 <p>Margaret Rivers cast down her eyes, half smiled, and shrank back, thinking she had never felt
 anything like the left-handed grasp, so full of warmth and thankfulness. It gave her confidence to
 venture on the one question on which she was bent. Her father was in the hall, showing Norman his
-Greek nymph; and lifting her eyes to Dr. May's face, then casting them down, she coloured <pb
-n="145"/> deeper than ever, as she said, in a stammering whisper, 'O please— if you would tell me—do
+Greek nymph; and lifting her eyes to Dr. May's face, then casting them down, she coloured <pb n="145"/> deeper than ever, as she said, in a stammering whisper, 'O please— if you would tell me—do
 you think—is papa very ill?'</p>
 <p>Dr. May answered in his softest, most re-assuring tones: 'You need not be alarmed about him, I
 assure you. You must keep him from too much business,' he added, smiling; 'make him ride with you,
@@ -4860,8 +4852,7 @@ on high.</p>
 <p>'How very kind! What a lovely geranium, and oh, that fern! I never saw anything so choice. How
 came she to think of me?'</p>
 <p>'They asked me in because it rained, and she was making the prettiest things, leather leaves and
-flowers for picture frames. I thought it was work that would just suit you, and learnt how to do <pb
-n="148"/> it. That made them ask about you, and it ended by her sending you this nosegay.'</p>
+flowers for picture frames. I thought it was work that would just suit you, and learnt how to do <pb n="148"/> it. That made them ask about you, and it ended by her sending you this nosegay.'</p>
 <p>'How very kind everybody is! Well, Ethel, are you come home too?'</p>
 <p>'Papa picked me up—O Margaret, we have found such a nice room, a clean sanded kitchen—'</p>
 <p>'You never saw such a conservatory—'</p>
@@ -5695,8 +5686,7 @@ thought Anderson, junior, rather making up to him, and I don't know whether they
 tempting him over to them, would be the surest way of vexing me. I have an eye over him, and I hope
 he may get settled into the steadier sort before next half.'</p>
 <p>After a silence, Norman said; 'papa, there is a thing I can't settle in my own mind. Suppose
-there had been wrong things done when older boys, and excellent ones too, were at the head of <pb
-n="174"/> the school, yet they never interfered, do you think I ought to let it go on?'</p>
+there had been wrong things done when older boys, and excellent ones too, were at the head of <pb n="174"/> the school, yet they never interfered, do you think I ought to let it go on?'</p>
 <p>'Certainly not, or why is power given to you?'</p>
 <p>'So I thought,' said Norman; 'I can't see it otherwise. I wish I could, for it will be horrid to
 set about it, and they'll think it a regular shame in me to meddle.—O! I know what I came into the
@@ -6850,8 +6840,7 @@ with Mrs. Larpent. Both pairs were very good friends, and the two sisters admire
 with the beauty of the gardens and conservatories—Ethel laying up a rich store of intelligence for
 Margaret; but still she was not entirely happy; her papa was more and more on her mind. He had
 looked dispirited at breakfast; he had a long hard day's work before him; and she was increasingly
-uneasy at the thought that it would be a painful effort to him to join them in the evening. Her <pb
-n="210"/> mind was full of it when she was conducted, with Flora, to the room where they were to
+uneasy at the thought that it would be a painful effort to him to join them in the evening. Her <pb n="210"/> mind was full of it when she was conducted, with Flora, to the room where they were to
 dress; and when Flora began to express her delight, her answer was only that she hoped it was not
 very unpleasant to papa.</p>
 <p>'It is not worth while to be unhappy about that, Ethel. If it is an effort, it will be good for
@@ -7001,8 +6990,7 @@ ginger-beer!'</p>
 it a serious affair. 'You know, Larkins, I have given out that such things are not to be. It is a
 melancholy fact.'</p>
 <p>'Aye! so you must make an example of me!' said Larkins, pretending to look resigned. 'Better call
-all the fellows together, hadn't you, and make it more effective? It would be grateful to <pb
-n="215"/> one's feelings, you know—and June,' added he, with a ridiculous confidential air, 'if
+all the fellows together, hadn't you, and make it more effective? It would be grateful to <pb n="215"/> one's feelings, you know—and June,' added he, with a ridiculous confidential air, 'if
 you'll only lay it on soft, I'll take care it makes noise enough. Great cry, little wool, you
 know.'</p>
 <p>'Come with me,' said Norman. 'I'll take care you are example enough. What did you give for those
@@ -7193,8 +7181,7 @@ and the grasshoppers chirped clamorously, while the fern-owl purred, and the bee
 skimming swallows had given place to the soft-winged bat, and the large white owl floating over the
 fields as it moused in the long grass.</p>
 <p>The summer twilight was sobering every tint, when, as Norman crossed the cricket-field, he heard,
-in the distance, a loud shout. He looked up, and it seemed to him that he saw some black specks <pb
-n="221"/> dancing in the forbidden field, and something like the waving of a flag, but it was not
+in the distance, a loud shout. He looked up, and it seemed to him that he saw some black specks <pb n="221"/> dancing in the forbidden field, and something like the waving of a flag, but it was not
 light enough to be certain, and he walked quickly home.</p>
 <p>The front door was fastened, and, while he was waiting to be let in, Mr. Harrison walked by, and
 called out, 'You are late at home to-night—it is half-past nine.'</p>
@@ -7255,8 +7242,7 @@ about this unlucky business?'</p>
 <p>'Yes. The town-fellows were all up about it last evening, when we came out of school. Anderson
 senior himself began to put them up to having the fence down again. Yes, that he did—I remember his
 very words—that Tomkins could not bring it into Court, and so set old Hoxton at us. Well, I told
-them it would not do,—thought I had settled them—saw them off home—yes, Simpson, and Benson, <pb
-n="223"/> and Grey, up the High Street, and the others their way. I only left Axworthy going into a
+them it would not do,—thought I had settled them—saw them off home—yes, Simpson, and Benson, <pb n="223"/> and Grey, up the High Street, and the others their way. I only left Axworthy going into a
 shop when I set off on my walk. What could a fellow do more? How was I to know that that Axworthy
 would get them together again, and take them to this affair—pull up the stakes—saw them down—for
 they were hard to get down— shy all sorts of things over into the court—hoot at old Tomkins's man,
@@ -7533,8 +7519,7 @@ It will make us all uncomfortable whenever we meet the Andersons or Mr. Wilmot, 
 as to such tenderness to Harvey Anderson, I think it is thrown away.'</p>
 <p>'Thrown away on the object, perhaps,' said Margaret, 'but not in Norman.'</p>
 <p>'To be sure,' broke out Ethel. 'Better be than seem! Oh, dear! I am sorry I was vexed with dear
-old June when he told me. I had rather have him now than if he had gained everything and <pb n="232"
-/> everyone was praising him—that I had!' Harvey Anderson is welcome to be Dux and Randall scholar
+old June when he told me. I had rather have him now than if he had gained everything and <pb n="232"/> everyone was praising him—that I had!' Harvey Anderson is welcome to be Dux and Randall scholar
 for what I care, while Norman is—while he is, just what we thought of the last time we read that
 Gospel—you know, Margaret?'</p>
 <p>'He is—that he is,' said Margaret, 'and, indeed, it is most beautiful to see how what has
@@ -7887,8 +7872,7 @@ another.'</p>
 <p>Meta looked half puzzled, half thoughtful, and Margaret, who was a little uneasy at the style of
 counsel she found herself giving, changed the conversation.</p>
 <p>It was a memorable one to little Miss Rivers, opening out to her, as did almost all her meetings
-with that family, a new scope for thought and for duty. The code, to which she had been brought <pb
-n="243"/> up, taught that servants were the machines of their employer's convenience. Good-nature
+with that family, a new scope for thought and for duty. The code, to which she had been brought <pb n="243"/> up, taught that servants were the machines of their employer's convenience. Good-nature
 occasioned much kindliness of manner and intercourse, and every luxury and indulgence was afforded
 freely; but where there was any want of accordance between the convenience of the two parties, there
 was no question. The master must be the first object, the servants' remedy was in their own
@@ -8766,8 +8750,7 @@ for—for— and I shall never see mamma again! Margaret, it almost makes me af�
 hold of my hand, and Margaret will beg too, and when he sees how sorry you are, I am sure he will
 forgive, and let you be Confirmed.' She would have dragged him after her.</p>
 <p>'No, Mary,' said Harry, resisting her. 'It is not that he does not forgive. You don't understand.
-It is what is right. And he cannot help it, or make it right for me, if I am such a horrid <pb
-n="270"/> wretch that I can't keep grave thoughts in my head. I might do it again after that, just
+It is what is right. And he cannot help it, or make it right for me, if I am such a horrid <pb n="270"/> wretch that I can't keep grave thoughts in my head. I might do it again after that, just
 the same.'</p>
 <p>'You have been grave enough of late!' said Mary.</p>
 <p>'this was enough to make me so,' said Harry; 'but even at Church, since I came home, I have
@@ -8858,8 +8841,7 @@ unnecessary bustle, and happy confusion, from six o'clock till eleven, when Dr. 
 to visit patients some way further on the same road, carried off Harry and Mary, to set them down at
 the place.</p>
 <p>The rest were called for by Mr. Rivers's carriage and break. Mrs. Charles Wilmot and her little
-girl were the only additions to the party, and Meta, putting Blanche into the carriage to keep <pb
-n="273"/> company with her contemporary, went herself in the break. What a brilliant little fairy
+girl were the only additions to the party, and Meta, putting Blanche into the carriage to keep <pb n="273"/> company with her contemporary, went herself in the break. What a brilliant little fairy
 she was, in her pink summer robes, fluttering like a butterfly, and with the same apparent felicity
 in basking in joy, all gaiety, glee, and light-heartedness in making others happy. On they went,
 through honey-suckled lanes, catching glimpses of sunny fields of corn falling before the reaper,
@@ -8983,8 +8965,7 @@ together on the green bank, while the rest either sketched, or wandered, or bota
 the grown-up lady with Mrs. Wilmot, and Meta found herself sitting by Ethel, asking her a great many
 questions about Margaret, and her home, and what it could be like to be one of such a numerous
 family. Flora had always turned aside from personal matters, as uninteresting to her companion, and,
-in spite of Meta's admiration, and the mutual wish to be intimate, confidence did not spring up <pb
-n="277"/> spontaneously, as it had done with the Doctor, and, in that single hour, with Margaret.
+in spite of Meta's admiration, and the mutual wish to be intimate, confidence did not spring up <pb n="277"/> spontaneously, as it had done with the Doctor, and, in that single hour, with Margaret.
 Blunt as Ethel was, her heartiness of manner gave a sense of real progress in friendship. Their
 Confirmation vows seemed to make a link, and Meta's unfeigned enthusiasm for the Doctor was the sure
 road to Ethel's heart. She was soon telling how glad Margaret was that he had been drawn into taking
@@ -9226,8 +9207,7 @@ and could not rest, for thinking that it was useless in this world, that it soug
 gratification, and could do nothing that could conduce to the glory of its master. But, one night, a
 voice spoke to the little bird, "Why hast thou been placed here," it said, "but at the will of thy
 master? Was it not that he might delight himself in thy radiant plumage, and see thy joy in the
-sunshine? His gifts are thy buoyant wing, thy beauteous colours, the love of all around, <pb n="285"
-/> the sweetness of the honey drop in the flowers, the shade of the palm leaf. Esteem them, then, as
+sunshine? His gifts are thy buoyant wing, thy beauteous colours, the love of all around, <pb n="285"/> the sweetness of the honey drop in the flowers, the shade of the palm leaf. Esteem them, then, as
 his; value thine own bliss, while it lasts, as the token of his care and love; and while thy heart
 praises him for them, and thy wings quiver and dance to the tune of that praise, then, indeed, thy
 gladness conduces to no vain-glory of thine own, in beauty, or in graceful flight, but thou art a
@@ -9476,8 +9456,7 @@ generously, fondly attached, I cannot find it in my heart to send him away for f
 seeing her, and yet, poor things, it might be better for them both. O Ethel, if your mother were but
 here!'</p>
 <p>He rested his forehead on his hands, and Ethel stood aghast at his unexpected reception of the
-addresses for which she had so long hoped. She did not venture to speak, and presently he roused <pb
-n="293"/> himself as the dinner-bell rang. 'One comfort is,' he said, 'that Margaret has more
+addresses for which she had so long hoped. She did not venture to speak, and presently he roused <pb n="293"/> himself as the dinner-bell rang. 'One comfort is,' he said, 'that Margaret has more
 composure than I. Do you go to Cocksmoor this afternoon?'</p>
 <p>'I wished it.'</p>
 <p>'Take them all with you. You may tell them why when you are out. I must have the house quiet. I
@@ -9790,8 +9769,7 @@ called unhandy, to all his contrivances, and often floundered in upon his confer
 in a way that would have been very provoking, if she had not always blushed and looked so
 excessively discomfited, that they had only to laugh and reassure her.</p>
 <p>Alan was struck by finding that the casual words spoken on the way from Cocksmoor had been so
-strenuously acted on, and he brought on himself a whole torrent of Ethel's confused narratives, <pb
-n="303"/> which Richard and Flora would fain have checked; but Margaret let them continue, as she
+strenuously acted on, and he brought on himself a whole torrent of Ethel's confused narratives, <pb n="303"/> which Richard and Flora would fain have checked; but Margaret let them continue, as she
 saw him a willing listener, and was grateful to him for comprehending the ardent girl.</p>
 <p>He declared himself to have a share in the matter, reminding Ethel of her appeal to him to bind
 himself to the service of Cocksmoor. he sent a sovereign at once, to aid in a case of the sudden
@@ -10185,8 +10163,7 @@ dinner-hour, asking for his father, and, when he could not find him, shouting ou
 there is nothing amiss. He has looked thin and worn for some time, and yet his work at school is
 very easy to him.'</p>
 <p>'I wish there may be nothing wrong there again,' said Flora. 'There! there's the front door
-banging! He is off! Ethel!'— stepping to the door, and calling in her sister, who came from the <pb
-n="315"/> street door, her hair blowing about with the wind.—'What did Norman want?'</p>
+banging! He is off! Ethel!'— stepping to the door, and calling in her sister, who came from the <pb n="315"/> street door, her hair blowing about with the wind.—'What did Norman want?'</p>
 <p>'Only to know whether papa had left a note for Dr. Hoxton,' said Ethel, looking very confused and
 very merry.</p>
 <p>'That was not all,' said Flora. 'Now don't be absurd, Ethel—I hate mysteries.'</p>
@@ -11021,8 +10998,7 @@ her frequent visits to Mrs. Hoxton, made her glad to devolve, as much as she cou
 sister; and, "O Ethel, you will not mind just doing this for me," was said often enough to be a tax
 upon her time.</p>
 <p>Moreover, Ethel perceived that Aubrey's lessons were in an unsatisfactory state. Margaret could
-not always attend to them, and suffered from them when she did; and he was bandied about <pb n="345"
-/> between his sisters and Miss Bracy in a manner that made him neither attentive nor obedient.</p>
+not always attend to them, and suffered from them when she did; and he was bandied about <pb n="345"/> between his sisters and Miss Bracy in a manner that made him neither attentive nor obedient.</p>
 <p>On her own principle, that to embrace a task heartily, renders it no longer irksome, she called
 on herself to sacrifice her studies and her regularity as far as was needful, to make her available
 for home requirements. She made herself responsible for Aubrey, and, after a few battles with his
@@ -11866,8 +11842,7 @@ nine muses, which Flora answered, so as to make him laugh, he stopped Ethel, as 
 up-stairs, by saying, 'I do not know whether this letter is intended for Richard, or for me. At any
 rate, it concerns you most.'</p>
 <p>The envelope was addressed to the Reverend Richard May, D.D., Market Stoneborough, and the letter
-began, 'Reverend Sir.' So far Ethel saw, and exclaimed, with amusement, then, with a long-drawn <pb
-n="372"/> "Ah!" and an interjection, "My poor dear Una!" she became absorbed, the large tears—yes,
+began, 'Reverend Sir.' So far Ethel saw, and exclaimed, with amusement, then, with a long-drawn <pb n="372"/> "Ah!" and an interjection, "My poor dear Una!" she became absorbed, the large tears—yes,
 Ethel's reluctant tears gathering slowly and dropping.</p>
 <p>The letter was from a Clergyman far away in the north of England, who said he could not, though a
 stranger, resist the desire to send to Dr. May, an account of a poor girl, who seemed to have
@@ -12704,8 +12679,7 @@ all open-work, except a centre of the size of a crown-piece, and the only thing 
 Margaret's beautiful marking in embroidery. There was some compensation in the costly wedding
 presents—Flora had reaped a whole harvest from friends of her own, grateful patients of her father,
 and the whole Rivers and Langdale connection; but, in spite of the brilliant uselessness of most of
-these, the young ladies considered themselves ill-used, thought Dr. May never would have <pb n="399"
-/> been shabby, and were of opinion that, when Miss Ward had married her father's surgical pupil,
+these, the young ladies considered themselves ill-used, thought Dr. May never would have <pb n="399"/> been shabby, and were of opinion that, when Miss Ward had married her father's surgical pupil,
 her outfit had been a far more edifying spectacle.</p>
 <p>The same moderation influenced Flora's other arrangements. Dr. May was resigned to whatever might
 be thought most proper, stipulating only that he should not have to make a speech; but Flora felt
@@ -14128,8 +14102,7 @@ thieves?'</p>
 <p>'I am all of them,' said the innocent, daisy-faced Gertrude; and Ethel hastened towards the
 house, glad of the permission granted by his true good-breeding.</p>
 <p>There was a shriek of welcome from Mary, who sat working beside Margaret. Ethel was certain that
-no evil tidings had come to her eldest sister, so joyous was her exclamation of wonder and <pb
-n="444"/> rebuke to her home-sick Ethel. 'Naughty girl! running home at once! I did think you would
+no evil tidings had come to her eldest sister, so joyous was her exclamation of wonder and <pb n="444"/> rebuke to her home-sick Ethel. 'Naughty girl! running home at once! I did think you would
 have been happy there!'</p>
 <p>'So I was,' said Ethel, hastily; 'but who do you think I have brought home?' Margaret flushed
 with such a pink, that Ethel resolved never to set her guessing again, and hurried to explain; and
@@ -14162,8 +14135,7 @@ turmoil.</p>
 <p>Margaret seemed to guess nothing, that was one comfort; she evidently thought that her return was
 fully accounted for by the fascination of her papa's presence in a strange place. She gave Ethel no
 credit for the sacrifice, naturally supposing that she could not enjoy herself away from home. Ethel
-did not know whether to be glad or not; she was relieved, but it was flat. As to Norman <pb n="445"
-/> Ogilvie, one or two inquiries whether she liked him, and if Norman were going to Scotland with
+did not know whether to be glad or not; she was relieved, but it was flat. As to Norman <pb n="445"/> Ogilvie, one or two inquiries whether she liked him, and if Norman were going to Scotland with
 him, were all that passed, and it was very provoking to be made so hot and conscious by them.</p>
 <p>She could not begin to dress till late, and while she was unpacking, she heard her father come
 home, among the children's loud welcomes, and go to the drawing-room. He presently knocked at the
@@ -15130,8 +15102,7 @@ marry suitably elsewhere,—why—we will be contented.'</p>
 <p>'She is the most winning of humming birds, and what we see of her now, gives one double
 confidence in her. She is so far from the petted helpless girl, that he, poor man, would fain have
 made her! And she has a bright, brave, temper and elastic spirits that would be the very thing for
-him, poor boy, with that morbid sensitiveness—he would not hurt her, and she would brighten him. <pb
-n="475"/> It would be a very pretty thing—but we must never think about it again.'</p>
+him, poor boy, with that morbid sensitiveness—he would not hurt her, and she would brighten him. <pb n="475"/> It would be a very pretty thing—but we must never think about it again.'</p>
 <p>'If we can help it,' said Ethel.</p>
 <p>'Ah! I am sorry I have put it into your head too. We shall not so easily be unconscious now, when
 they talk about each other in the innocent way they do. We have had a lesson against being pleased
@@ -15292,8 +15263,7 @@ loving service.</p>
 Flora, whose sagacity continually amazed him, and who undertook to make her husband understand, and
 do what was needed.</p>
 <p>Meta meanwhile cross-questioned her brother on the pretty village, by the Thames, of which she
-had a fond, childish remembrance, and heard from him of the numerous kind messages from <pb n="480"
-/> all her relations. There were various invitations, but George repeated them unwillingly.</p>
+had a fond, childish remembrance, and heard from him of the numerous kind messages from <pb n="480"/> all her relations. There were various invitations, but George repeated them unwillingly.</p>
 <p>'You won't go, Meta,' he said. 'It would be a horrid nuisance to part with you.'</p>
 <p>'As long as you think so, dear George.—When I am in your way, or Flora's—'</p>
 <p>'That will never be! I say, Flora, will she ever be in our way?'</p>
@@ -15543,8 +15513,7 @@ of him; but Ethel did not feel as if he were the veritable Norman, and had an un
 discomfort, when she heard his brilliant repartees, and the laughter with which he accompanied them,
 so unlike his natural rare and noiseless laugh. She knew it was false excitement, to drive away the
 suspense that none dared to avow, but which did not press on them the less heavily, for being
-endured in silence. Indeed, Dr. May could not help now and then giving way to outbursts of <pb
-n="488"/> despondency, of which his friend, Dr. Spencer, who made it his special charge to try to
+endured in silence. Indeed, Dr. May could not help now and then giving way to outbursts of <pb n="488"/> despondency, of which his friend, Dr. Spencer, who made it his special charge to try to
 lighten his troubles, was usually the kind recipient.</p>
 <p>And though the bustle of the election was incongruous, and seemed to make the leaden weight the
 more heavy, there was a compensation in the tone of feeling that it elicited, which gave real and
@@ -15933,8 +15902,7 @@ to enjoy his short visit, which she truly called the greatest possible treat.</p
 <p>If it had not been for the momentary consternation that she had seen upon Dr. Spencer's face,
 Ethel would have been perfectly satisfied; but she could not help sometimes entertaining a dim fancy
 that this composure came from a sense that she was too near Alan to mourn for him. Could it be true
-that her frame was more wasted, that there was less capability of exertion, that her hours <pb
-n="500"/> became later in the morning, and that her nights were more wakeful? Would she fade away?
+that her frame was more wasted, that there was less capability of exertion, that her hours <pb n="500"/> became later in the morning, and that her nights were more wakeful? Would she fade away?
 Ethel longed to know what her father thought, but she could neither bear to inspire him with the
 apprehension, nor to ask Dr. Spencer's opinion, lest she should be confirmed in her own.</p>
 <p>The present affliction altered Dr. May more visibly than the death of his wife, perhaps, because
@@ -16154,8 +16122,7 @@ subject to Mr. Wilmot, and he and his Curates undertook the religious instructio
 chose the books—a state of affairs brought about with so much quietness, that Ethel knew not whether
 Flora, Dr. Spencer, or Mr. Wilmot, had been the chief mover.</p>
 <p>Mrs. Ledwich was made treasurer of a new coal club, and Miss Rich keeper of the lending library,
-occupations which delighted them greatly; and Ethel was surprised to find how much unity of <pb
-n="507"/> action was springing up, now that the period was over, of each "doing right in her own
+occupations which delighted them greatly; and Ethel was surprised to find how much unity of <pb n="507"/> action was springing up, now that the period was over, of each "doing right in her own
 eyes."</p>
 <p>'In fact,' said Dr. Spencer, 'when women have enough to do, they are perfectly tractable.'</p>
 <p>The Cocksmoor accounts were Ethel's chief anxiety. It seemed as if now there might be a
@@ -17216,8 +17183,7 @@ over the shoulder, welcomed him home with all his kind heart, told him he was pr
 and falling into a state of rapturous hospitality, rang the bell, and wanted to order all sorts of
 eatables and drinkables, but was sadly baffled to find him already satisfied.</p>
 <p>There was more open joy than even at home, and Flora was supremely happy as she sat between her
-brothers, listening and enquiring till far past one o'clock, when she perceived poor George <pb
-n="541"/> dozing off, awakened every now and then by a great nod, and casting a wishful glance of
+brothers, listening and enquiring till far past one o'clock, when she perceived poor George <pb n="541"/> dozing off, awakened every now and then by a great nod, and casting a wishful glance of
 resigned remonstrance, as if to appeal against sitting up all night.</p>
 <p>The meeting at breakfast was a renewal of pleasure. Flora was proud and happy in shewing off her
 little girl, a model baby, as she called her, a perfect doll for quietness, so that she could be
@@ -17759,8 +17725,7 @@ submission, whenever any little wish was thwarted.</p>
 <p>So Norman said she had turned into a fine lady! It was a sudden and surprising intimation, and
 made a change in the usually bright and calm current of her thoughts. She was not aware that there
 had been any alteration in herself, and it was a revelation that set her to examine where she had
-changed—poor little thing! She was not angry, she did not resent the charge, she took it for <pb
-n="558"/> granted that, coming from such a source, it must be true and reasonable—and what did it
+changed—poor little thing! She was not angry, she did not resent the charge, she took it for <pb n="558"/> granted that, coming from such a source, it must be true and reasonable—and what did it
 mean? Did they think her too gay, or neglectful of old friends? What had they been saying to Harry
 about her?</p>
 <p>'Ah!' thought Meta, 'I understand it. I am living a life of ease and uselessness, and with his
@@ -18232,8 +18197,7 @@ become bewildered. They tried reading to her, but she did not seem to listen, an
 eye had the expression of listless dejection, that her father knew betokened that, even as last
 night, her heart refused to accept promises of comfort as meant for her.</p>
 <p>For George, however, her attention was always ready, and was perpetually claimed. He was forlorn
-and at a loss without her, every moment; and, in the sorrow which he too felt most acutely, <pb
-n="573"/> could not have a minute's peace unless soothed by her presence; he was dependant on her to
+and at a loss without her, every moment; and, in the sorrow which he too felt most acutely, <pb n="573"/> could not have a minute's peace unless soothed by her presence; he was dependant on her to
 a degree which amazed and almost provoked the Doctor, who could not bear to have her continually
 harassed and disturbed, and yet was much affected by witnessing so much tenderness, especially in
 Flora, always the cold utilitarian member of his family.</p>
@@ -18427,8 +18391,7 @@ he succeeded in composing her into a sleep, which restored her balance, and so r
 she not only allowed Dr. Spencer to say what he pleased, but herself made light of the whole attack,
 little knowing how perilous was any shock to that delicate frame.</p>
 <p>Margaret's whole purpose was to wind herself up for the first interview with Flora; and, though
-she had returned to her usual state, she would not go down-stairs on the evening the party were <pb
-n="579"/> expected, believing it would be more grateful to her sister's feelings to meet her without
+she had returned to her usual state, she would not go down-stairs on the evening the party were <pb n="579"/> expected, believing it would be more grateful to her sister's feelings to meet her without
 witnesses.</p>
 <p>The travellers arrived, and Dr. May hurried up to her. She barely replied to his caresses and
 enquiries in her eagerness to hear of Flora, and to convince him that he must not forbid the
@@ -20358,8 +20321,7 @@ much acute suffering.'</p>
 arm round her, 'May God make it easy to her, and grant us "patient hearts." We will not grudge her
 to all that she loves best, my Ethel.'</p>
 <p>Ethel clung to him, as if to derive strength from him. But the strength that was in them then,
-did not come from earth. Dr. Spencer wrung his hand, and stepped back to the bed to try <pb n="640"
-/> another resource. Vain again, they only seemed to be tormenting her, and the silent helplessness
+did not come from earth. Dr. Spencer wrung his hand, and stepped back to the bed to try <pb n="640"/> another resource. Vain again, they only seemed to be tormenting her, and the silent helplessness
 prevailed again. Then Dr. May went down to Flora, told her the true state of the case, and urged on
 her to give up her plan of remaining. George joined with him, and she yielded submissively, but
 would not be refused going up once again and kissing her sister, standing beside her gazing at her,
@@ -20660,8 +20622,7 @@ undraw the curtain of reserve.</p>
 <p>'You do not know,' continued Flora, 'how greedy I was of credit and affection. It made me jealous
 of Ethel herself, as long as we were in the same sphere; and when I felt that she was more to papa
 than I could be, I looked beyond home for praise. I don't think the things I did were bad in
-themselves—brought up as I have been, they could hardly be so. I knew what merits praise and <pb
-n="650"/> blame too well for that—but oh! the motive. I do believe I cared very much for Cocksmoor.
+themselves—brought up as I have been, they could hardly be so. I knew what merits praise and <pb n="650"/> blame too well for that—but oh! the motive. I do believe I cared very much for Cocksmoor.
 I thought it would be a grand thing to bring about, but, you see, as it has turned out, all I
 thought I had done for it was in vain; and Ethel has been the real person and does not know it. I
 used to think Ethel so inferior to me. I left her all my work at home. If it had not been for that,

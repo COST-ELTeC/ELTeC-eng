@@ -30,8 +30,8 @@
     </xsl:template>  
     
     <xsl:template match="h:head">
-        <xsl:message>Generating header for Bassett title <xsl:value-of select="$bassettKey"/> (
-                <xsl:value-of select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:title"
+        <xsl:message>Generating header for Bassett title <xsl:value-of select="$bassettKey"/>
+                <xsl:text> (</xsl:text><xsl:value-of select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:title"
             />)</xsl:message>
         <xsl:variable name="sex">
             <xsl:value-of
@@ -90,11 +90,11 @@
                 <sourceDesc>
                     <bibl>
                         <title>
-                            <xsl:value-of select="h:head/h:title"/>
+                            <xsl:value-of select="h:title"/>
                         </title>
                          <ref target="{concat('gut:',$gutenKey)}">Gutenberg</ref>
                         <relatedItem>
-                            <bibl type="copyText">
+                            <bibl type="copyText" n='{$bassettKey}'>
                                 <title>
                                     <xsl:value-of select="$title"/>
                                 </title>
@@ -149,10 +149,27 @@
     
     <xsl:template match="h:div[@class='poem']">
         <quote>
-            <xsl:for-each select=".//h:div[not(@class)]">
-                <l><xsl:apply-templates/></l>
-            </xsl:for-each>
-        </quote>
+            <xsl:choose>
+                <xsl:when test=".//h:div[not(@class)]">
+                    <xsl:for-each select=".//h:div[not(@class)]">
+                        <l><xsl:apply-templates/></l>
+                    </xsl:for-each>
+                    
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+           </quote>     
+    </xsl:template>
+    
+    
+    <xsl:template match="h:div[@class='stanza']/h:p">      
+                        <l><xsl:apply-templates/></l>
+    </xsl:template>
+    
+    <xsl:template match="h:div[@class='stanza']">
+        <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="h:div[@class='block' or @class='block2']">
@@ -167,9 +184,11 @@
         </pb>
     </xsl:template>
    
-    <xsl:template match="h:span[@class='smcap']">
+    <xsl:template match="h:span[@class='smcap']|h:span[@class='sc']">
         <hi><xsl:apply-templates/></hi>
     </xsl:template>
+    
+    
     <xsl:template match="h:p[@class='title']">
         <milestone unit="subsection" n="{substring-after(.,' ')}"/>
     </xsl:template>
@@ -181,9 +200,12 @@
     
     <xsl:template match="h:i">
         <hi>
+            <xsl:apply-templates select="@xml:lang"/>
             <xsl:apply-templates/>
         </hi>
     </xsl:template>
+    
+   
     
     <xsl:template match="h:body">
         <text><body>

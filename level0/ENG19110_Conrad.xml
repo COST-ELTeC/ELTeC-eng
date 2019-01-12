@@ -1,9 +1,9 @@
-<TEI xml:id="ENG19110" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">    
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19110" xml:lang="en">    
+    <teiHeader>
     <fileDesc>
         <titleStmt>
             <title>Under Western Eyes : ELTec edition</title>
-            <author>Conrad, Joseph (1857-1924).</author>
+            <author ref="viaf:73862853">Conrad, Joseph (1857-1924)</author>
             <respStmt>
                 <resp>ELTeC conversion</resp>
                 <name>Lou Burnard</name>
@@ -175,7 +175,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>1</head>
 
@@ -663,7 +663,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>2</head>
 
@@ -2025,7 +2025,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>3</head>
 
@@ -3028,7 +3028,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>PART SECOND</head>
 
@@ -3604,7 +3604,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>2</head>
 
@@ -3961,7 +3961,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>3</head>
 
@@ -4255,7 +4255,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>4</head>
 
@@ -5489,7 +5489,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>5</head>
 
@@ -5988,7 +5988,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>PART THIRD</head>
 
@@ -6508,7 +6508,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>2</head>
 
@@ -7260,7 +7260,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>3</head>
 
@@ -8137,7 +8137,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>4</head>
 
@@ -8933,7 +8933,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>PART FOUR</head>
 
@@ -9543,7 +9543,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>2</head>
 
@@ -10103,7 +10103,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>3</head>
 
@@ -10739,7 +10739,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>4</head>
 
@@ -11169,7 +11169,7 @@
 
 
 
-        <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+        <div type="chapter">
 
             <head>5</head>
 
@@ -11497,8 +11497,7 @@
             <p>“Peter Ivanovitch is an inspired man.”</p>
         </div>
     </body></text>
-</TEI>
-<!--<p xmlns="http://www.tei-c.org/ns/1.0">This web edition published by:</p>
+</TEI><!--<p xmlns="http://www.tei-c.org/ns/1.0">This web edition published by:</p>
 
 <p xmlns="http://www.tei-c.org/ns/1.0">eBooks@Adelaide
 The University of Adelaide Library

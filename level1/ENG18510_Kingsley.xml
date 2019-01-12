@@ -1,10 +1,9 @@
-<?xml-model href="../../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="ENG18510" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18510" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Yeast: A Problem : ELTec edition</title>
-                <author>Kingsley, Charles (1819-1875).</author>
+                <author ref="viaf:27081838">Kingsley, Charles (1819-1875)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Lou Burnard</name>
@@ -23,7 +22,7 @@
             <sourceDesc>
                 <bibl><title>The Project Gutenberg eBook, Yeast: A Problem</title><author>Charles
                         Kingsley </author><idno type="PG">10364</idno><date>December 2, 2003</date>
-                    <relatedItem  type="copyText">
+                    <relatedItem type="copyText">
                         <bibl><title>Yeast: A Problem</title><author>Charles
                                 Kingsley </author><publisher>London: John W.
                                 Parker</publisher><date>1851</date></bibl>

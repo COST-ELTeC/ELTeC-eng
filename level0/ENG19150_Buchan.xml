@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19150" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19150" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
                     <title>The Thirty-nine Steps: ELTeC edition</title>
-                    <author>Buchan, John (1875-1940)</author>
+                    <author ref="viaf:66464527">Buchan, John (1875-1940)</author>
                </titleStmt>
                <extent><measure unit="words">40892</measure><measure unit="pages">221</measure></extent>
                <publicationStmt>
@@ -23,15 +22,15 @@
               </sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-0">
-               <p></p>
+               <p/>
           </encodingDesc>
           <profileDesc>
-               <langUsage><language ident="en"></language></langUsage>
+               <langUsage><language ident="en"/></langUsage>
                <textDesc>
-                    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                    <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-                    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                    <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
                </textDesc>
           </profileDesc>
           <revisionDesc>
@@ -738,7 +737,7 @@
                          approached the tiny booking-office and took a ticket for Dumfries.</p>
                     <p>The only occupants of the carriage were an old shepherd and his dog-a
                          wall-eyed brute that I mistrusted. The man was asleep, and on the cushions
-                         beside him was that morning's <hi >Scotsman</hi>. Eagerly I
+                         beside him was that morning's <hi>Scotsman</hi>. Eagerly I
                          seized on it, for I fancied it would tell me something.</p>
                     <p>There were two columns about the Portland Place Murder, as it was called. My
                          man Paddock had given the alarm and had the milkman arrested. Poor devil,
@@ -872,7 +871,7 @@
                          and a fisherman or two in the spring, and the shooting tenants in August.
                          There is not much material to be got out of that. I want to see life, to
                          travel the world, and write things like Kipling and Conrad. But the most
-                         I've done yet is to get some verses printed in <hi >Chambers's
+                         I've done yet is to get some verses printed in <hi>Chambers's
                               Journal</hi>.' I looked at the inn standing golden in the sunset
                          against the brown hills.</p>
                     <p>'I've knocked a bit about the world, and I wouldn't despise such a hermitage.
@@ -917,10 +916,10 @@
                          the late afternoon. I told him to keep his eyes skinned, and make note of
                          any strange figures he saw, keeping a special sharp look-out for motors and
                          aeroplanes. Then I sat down in real earnest to Scudder's note-book.</p>
-                    <p>He came back at midday with the <hi >Scotsman</hi>. There was
+                    <p>He came back at midday with the <hi>Scotsman</hi>. There was
                          nothing in it, except some further evidence of Paddock and the milkman, and
                          a repetition of yesterday's statement that the murderer had gone North. But
-                         there was a long article, reprinted from <hi >The Times</hi>,
+                         there was a long article, reprinted from <hi>The Times</hi>,
                          about Karolides and the state of affairs in the Balkans, though there was
                          no mention of any visit to England. I got rid of the innkeeper for the
                          afternoon, for I was getting very warm in my search for the cypher.</p>
@@ -957,7 +956,7 @@
                          positive.</p>
                     <p>I took a bit of paper and wrote these words in German as if they were part of
                          a letter-</p>
-                    <p >... 'Black Stone. Scudder had got on to this, but he could not
+                    <p>... 'Black Stone. Scudder had got on to this, but he could not
                          act for a fortnight. I doubt if I can do any good now, especially as
                          Karolides is uncertain about his plans. But if Mr T. advises I will do the
                          best I ...'</p>
@@ -2212,7 +2211,7 @@
                          behind him; and came in in the evening to sit silent in the chimney corner.
                          Not a soul came near the place. When I was getting better, he never
                          bothered me with a question. Several times he fetched me a two days' old
-                              <hi >Scotsman</hi>, and I noticed that the interest in
+                              <hi>Scotsman</hi>, and I noticed that the interest in
                          the Portland Place murder seemed to have died down. There was no mention of
                          it, and I could find very little about anything except a thing called the
                          General Assembly-some ecclesiastical spree, I gathered.</p>
@@ -2425,7 +2424,7 @@
                          too romantic. He had the artistic temperament, and wanted a story to be
                          better than God meant it to be. He had a lot of odd biases, too. Jews, for
                          example, made him see red. Jews and the high finance.</p>
-                    <p>'The Black Stone,' he repeated. '<hi >Der Schwarze Stein</hi>.
+                    <p>'The Black Stone,' he repeated. '<hi>Der Schwarze Stein</hi>.
                          It's like a penny novelette. And all this stuff about Karolides. That is
                          the weak part of the tale, for I happen to know that the virtuous Karolides
                          is likely to outlast us both. There is no State in Europe that wants him
@@ -2460,7 +2459,7 @@
                     <p>'I had a busy hour on the telephone after you went to bed,' he said. 'I got
                          my Chief to speak to the First Lord and the Secretary for War, and they are
                          bringing Royer over a day sooner. This wire clinches it. He will be in
-                         London at five. Odd that the code word for a <hi >Sous-chef
+                         London at five. Odd that the code word for a <hi>Sous-chef
                               d'état Major-General</hi> should be "Porker".'</p>
                     <p>He directed me to the hot dishes and went on.</p>
                     <p>'Not that I think it will do much good. If your friends were clever enough to
@@ -2777,7 +2776,7 @@
                     <p>'No,' said the Frenchman. 'You do not understand the habits of the spy. He
                          receives personally his reward, and he delivers personally his
                          intelligence. We in France know something of the breed. There is still a
-                         chance, <hi >mes amis</hi>. These men must cross the sea, and
+                         chance, <hi>mes amis</hi>. These men must cross the sea, and
                          there are ships to be searched and ports to be watched. Believe me, the
                          need is desperate for both France and Britain.'</p>
                     <p>Royer's grave good sense seemed to pull us together. He was the man of action
@@ -2788,8 +2787,8 @@
                     <p>'Where is Scudder's book?' I cried to Sir Walter. 'Quick, man, I remember
                          something in it.'</p>
                     <p>He unlocked the door of a bureau and gave it to me.</p>
-                    <p>I found the place. <hi >thirty-nine steps</hi>, I read, and
-                         again, <hi >thirty-nine steps</hi>-<hi >I counted
+                    <p>I found the place. <hi>thirty-nine steps</hi>, I read, and
+                         again, <hi>thirty-nine steps</hi>-<hi>I counted
                               them-high tide 10.17 P.M.</hi></p>
                     <p>The Admiralty man was looking at me as if he thought I had gone mad.</p>
                     <p>'Don't you see it's a clue,' I shouted. 'Scudder knew where these fellows
@@ -3008,7 +3007,7 @@
                          the yacht, which lay like a delicate white bird, ready at a moment to flee.
                          Scaife said she must be a fast boat for her build, and that she was pretty
                          heavily engined.</p>
-                    <p>Her name was the <hi >Ariadne</hi>, as I discovered from the cap
+                    <p>Her name was the <hi>Ariadne</hi>, as I discovered from the cap
                          of one of the men who was polishing brasswork. I spoke to him, and got an
                          answer in the soft dialect of Essex. Another hand that came along passed me
                          the time of day in an unmistakable English tongue. Our boatman had an
@@ -3121,7 +3120,7 @@
                     <p>On the little trim newly-made roads I met people in flannels coming back from
                          tennis and the beach, and a coastguard from the wireless station, and
                          donkeys and pierrots padding homewards. Out at sea in the blue dusk I saw
-                         lights appear on the <hi >Ariadne</hi> and on the destroyer
+                         lights appear on the <hi>Ariadne</hi> and on the destroyer
                          away to the south, and beyond the Cock sands the bigger lights of steamers
                          making for the Thames. The whole scene was so peaceful and ordinary that I
                          got more dashed in spirits every second. It took all my resolution to
@@ -3341,8 +3340,7 @@
                     <p>In an instant the lights were out. A pair of strong arms gripped me round the
                          waist, covering the pockets in which a man might be expected to carry a
                          pistol.</p>
-                    <p>'<hi >Schnell, Franz,</hi>' cried a voice, '<hi 
-                              >Das Boot, das Boot</hi>!' As it spoke I saw two of my fellows emerge
+                    <p>'<hi>Schnell, Franz,</hi>' cried a voice, '<hi>Das Boot, das Boot</hi>!' As it spoke I saw two of my fellows emerge
                          on the moonlit lawn.</p>
                     <p>The young dark man leapt for the window, was through it, and over the low
                          fence before a hand could touch him. I grappled the old chap, and the room
@@ -3359,7 +3357,7 @@
                     <p>Someone switched on the light.</p>
                     <p>The old man was looking at me with blazing eyes.</p>
                     <p>'He is safe,' he cried. 'You cannot follow in time ... He is gone ... He has
-                         triumphed ... <hi >Der Schwarze Stein ist in der
+                         triumphed ... <hi>Der Schwarze Stein ist in der
                               Siegeskrone.</hi>'</p>
                     <p>There was more in those eyes than any common triumph. They had been hooded
                          like a bird of prey, and now they flamed with a hawk's pride. A white
@@ -3367,8 +3365,7 @@
                          thing I had been up against. This man was more than a spy; in his foul way
                          he had been a patriot.</p>
                     <p>As the handcuffs clinked on his wrists I said my last word to him.</p>
-                    <p>'I hope Franz will bear his triumph well. I ought to tell you that the <hi
-                              >Ariadne</hi> for the last hour has been in our
+                    <p>'I hope Franz will bear his triumph well. I ought to tell you that the <hi>Ariadne</hi> for the last hour has been in our
                          hands.'</p>
 
                     <p>Three weeks later, as all the world knows, we went to war. I joined the New

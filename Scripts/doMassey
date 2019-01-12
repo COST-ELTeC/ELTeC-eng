@@ -1,0 +1,3 @@
+for f in c_esther*.htm ; do echo $f; \
+tidy -asxml -n -ascii $f > esther.tmp;\
+saxon esther.tmp  ../Scripts/masseyFix.xsl >> esther.xml; done

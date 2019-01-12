@@ -1,11 +1,9 @@
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18940"
-    xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18940" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
                 <title>The Story of a Modern Woman : ELTeC edition</title>
-                <author>Dixon, Ella Hepworth [Margaret Wynman](1855-1932)</author>
+                <author ref="viaf:14904505">Dixon, Ella Hepworth (1855-1932)</author>
                 <respStmt>
                     <resp>Transcribed, encoded, and proofed by </resp>
                     <name>Benjamin Roesch</name>
@@ -324,8 +322,7 @@
                     bed, with its hind legs straying out helplessly from under the child's arm, to
                     be presently concealed with all haste and caution under the white sheets and
                     blankets, from whence its sharp-pointed ears and wide black cheeks arose with
-                    the most exquisitely mirth-provoking effect. With what inscrutable<pb n="16"
-                        xml:id="VAB7169-015"/> amber eyes did the black cat gaze for hours into
+                    the most exquisitely mirth-provoking effect. With what inscrutable<pb n="16" xml:id="VAB7169-015"/> amber eyes did the black cat gaze for hours into
                     hers! how it imposed on her babyish imagination with its self-contained,
                     majestic manners, its air of detachment from the vain shows of the world! The
                     man with the kind smile, whom the child called ‘father,’ used to laugh at her
@@ -377,8 +374,7 @@
                     her in many flounces, with a headache; and certainly, no, certainly, mummy never
                     had any wings out of her back.</p>
                 <p>The child could recollect that, some little time before her mother went to Italy,
-                    they took her upstairs one day and showed her a baby, with<pb n="19"
-                        xml:id="VAB7169-018"/> a red, crinkled face, lying in an over-trimmed
+                    they took her upstairs one day and showed her a baby, with<pb n="19" xml:id="VAB7169-018"/> a red, crinkled face, lying in an over-trimmed
                     cradle. She did not care for babies, she would rather have had a nice, new,
                     fluffy kitten to replace the old black cat; but when they told her it was a
                     little brother, of course that altered matters. She was sorry her brother should
@@ -431,8 +427,7 @@
                     kind smile was fond of his little daughter, but he was always at work, either at
                     experiments in his laboratory or bending over his desk in the study. Nothing
                     happened in the way of experience as it does to other children. One night her
-                    father took her to the theatre for the first time. A<pb n="22"
-                        xml:id="VAB7169-021"/> famous actress, an old friend, was giving
+                    father took her to the theatre for the first time. A<pb n="22" xml:id="VAB7169-021"/> famous actress, an old friend, was giving
                             <bibl><title>Antony and Cleopatra</title></bibl>, and they went first
                     behind the scenes. They walked across a bare, lofty, cavern-like place, with
                     dusty wooden boards, which sloped upwards, and the child was lifted up to peep
@@ -449,8 +444,7 @@
                     about—a wig with long plaits, several serpent bracelets, a diadem, and a
                     beautiful golden girdle set with emeralds as big as pheasants' eggs. There was a
                     middle-aged gentleman, too, who sat at his ease in a shabby armchair, and drank
-                    some pinkish, sparkling wine out of a low, round glass. Some<pb n="23"
-                        xml:id="VAB7169-022"/> one said that he was the editor of a great paper. The
+                    some pinkish, sparkling wine out of a low, round glass. Some<pb n="23" xml:id="VAB7169-022"/> one said that he was the editor of a great paper. The
                     child had never seen an editor; she was glad to see one, because she had always
                     thought they were quite different from other people. She liked to see him laugh,
                     and whisper in a familiar, condescending way to the stout lady, and yet keep on
@@ -468,8 +462,7 @@
                     How the child's heart ached for you in your bare, dismal, Belgian schoolroom,
                     when Dr. John grew fickle; how she rejoiced when you found your ugly,
                     be-spectacled Fate; how choky she felt at the throat when she read those last
-                    pessimistic, despairing words—words full of the sound and<pb n="24"
-                        xml:id="VAB7169-023"/> fury of angry seas and moaning winds. Why, poor
+                    pessimistic, despairing words—words full of the sound and<pb n="24" xml:id="VAB7169-023"/> fury of angry seas and moaning winds. Why, poor
                     patient hypochondriacal soul, were you destined never to be happy? And all these
                     people were real to the child, much more real than the people she saw when she
                     went out to tea-parties in her best frock and sash. They were as real as the
@@ -554,8 +547,7 @@
                     first taste of power.</p>
                 <p>There is, too, the <foreign xml:lang="fre">joie de vivre</foreign>, the delight
                     of the young animal at play, the imperious will-to-live of a being in perfect
-                    health. The girl must dance till her feet ache horribly, the room swings<pb
-                        n="29" xml:id="VAB7169-028"/> round, and the pink dawn comes creeping in
+                    health. The girl must dance till her feet ache horribly, the room swings<pb n="29" xml:id="VAB7169-028"/> round, and the pink dawn comes creeping in
                     behind the drawn blinds; but still she must go on till that music stops, the
                     swaying, voluptuous heartrending music which draws her feet round and round. The
                     violins, with their <foreign xml:lang="fre">navrant</foreign> tones, the human,
@@ -572,8 +564,7 @@
                     dubious gaze of men about town, leaning against ball-room doors—nothing offends
                     her. It is simply incense burnt at the feet of her youth.</p>
                 <p>But at last, out of the vague crowd of black coats and wistful eyes, the first
-                    lover emerges. It is a little difficult to recall his face, after all<pb n="30"
-                        xml:id="VAB7169-029"/> these years. Looking back dispassionately, he seems
+                    lover emerges. It is a little difficult to recall his face, after all<pb n="30" xml:id="VAB7169-029"/> these years. Looking back dispassionately, he seems
                     to have been very like all the others, only that he made her suffer, while the
                     others, perhaps, suffered a little for her sake. There were the horrible
                     half-hours of torture when she waited, in some crowded party, for his sleek head
@@ -607,13 +598,11 @@
                     the girl. To find a smile with which to face her father at the dinner table; to
                     take a sisterly interest in Jim's exploits at school; to show due surprise each
                     time her brother announced the arrival of a new batch of rabbits; and a
-                    partisan's joy in the licking which Smith minor had administered to<pb n="32"
-                        xml:id="VAB7169-031"/> Jones major—these were the immediate duties which lay
+                    partisan's joy in the licking which Smith minor had administered to<pb n="32" xml:id="VAB7169-031"/> Jones major—these were the immediate duties which lay
                     before her.</p>
                 <p>Not feeling strong just now, the girl gave up going to balls; they reminded her
                     too much of that episode which she wished to forget; and now the prospect that
-                    opened out before her was a vista of years full of scientific <foreign
-                        xml:lang="fre">soirées</foreign> where one walked down long sparsely-peopled
+                    opened out before her was a vista of years full of scientific <foreign xml:lang="fre">soirées</foreign> where one walked down long sparsely-peopled
                     rooms and looked through microscopes at things which wriggled and squirmed.
                     Sometimes the girl felt strangely like one of those much-observed bacilli; the
                     daughter of a scientist, she knew well enough that her little troubles had about
@@ -626,8 +615,7 @@
                 <p>That she was thrown aside, dropped overboard, as it were, in the terrific battle
                     for existence mattered nothing to the young girl. Having no self-pity, she never
                     questioned the justice of the blow that had been dealt her. Afterwards, in the
-                    years to come, she might wonder why she should have been made to<pb n="33"
-                        xml:id="VAB7169-032"/> suffer so? But not then. One's first sorrow is a very
+                    years to come, she might wonder why she should have been made to<pb n="33" xml:id="VAB7169-032"/> suffer so? But not then. One's first sorrow is a very
                     precious thing. In those far-off days, she would gladly have sacrificed
                     everything—even life itself—for the young man who forgot to write, and whose
                     face, with its rather foolish smile, it is so difficult to recall exactly as it
@@ -644,8 +632,7 @@
                     who took her in to dinner, men who had tired eyes and a dubious smile, and who
                     were fond of starting doubtful topics with a side-long, tentative glance.</p>
                 <p>She works now regularly with her father, acting as his amanuensis when his eyes
-                    are tired, or verifying facts in the library. Jimmie,<pb n="34"
-                        xml:id="VAB7169-033"/> the little brother, has grown into a boy with
+                    are tired, or verifying facts in the library. Jimmie,<pb n="34" xml:id="VAB7169-033"/> the little brother, has grown into a boy with
                     charming, insinuating manners, who is curiously un-British in his
                     demonstrativeness. His sister, he says, is the most charming of girls. He
                     announces that he is always going to live with her. Nothing shall separate them.
@@ -716,8 +703,7 @@
                     a thinker, modernised by a slightly bored expression, and a little distinguished
                     way which at once made other women in her vicinity look dowdy or vulgar. Her
                     clothes always seemed to suit her,<pb n="38" xml:id="VAB7169-037"/> as its
-                    feathers do a bird. There are women who look like an <foreign xml:lang="fre"
-                        >édition de luxe</foreign> of a poor book; Alison Ives suggested that of a
+                    feathers do a bird. There are women who look like an <foreign xml:lang="fre">édition de luxe</foreign> of a poor book; Alison Ives suggested that of a
                     classic.</p>
                 <p>It had been her habit for a couple of years past to sit at the feet of Professor
                     Erle; she constantly announced, indeed, that he was the only man she wanted to
@@ -738,8 +724,7 @@
                     ignorant of billiard cues and guns, and hated playing the man, Alison had been
                     heard to murmur something like an oath. It was a habit which she had picked up
                     in Paris, when she was working in a sculptor's studio; and she always declared
-                    that <foreign xml:lang="fre">dame</foreign> and <foreign xml:lang="ita"
-                        >sapristi</foreign>, being in a foreign tongue, were notoriously less
+                    that <foreign xml:lang="fre">dame</foreign> and <foreign xml:lang="ita">sapristi</foreign>, being in a foreign tongue, were notoriously less
                     efficacious, and by inference more pardonable, than swearing in the vernacular.
                     For the rest, with the best heart in the world, she had a somewhat caustic
                     tongue, could interpret Chopin like an artist, and always had her hair
@@ -753,8 +738,7 @@
                     by-street in the Mile End Road, but she only stayed seven weeks, and, when she
                     appeared again, the expression on her face was sadder than before. ‘Of course,
                     one ought to <emph>know</emph> what it is like,’ she said, when Mary asked her
-                    why she had left so soon. ‘It's an experience—but a<pb n="40"
-                        xml:id="VAB7169-039"/> terrible one. It's not only the drunkenness, the
+                    why she had left so soon. ‘It's an experience—but a<pb n="40" xml:id="VAB7169-039"/> terrible one. It's not only the drunkenness, the
                     down-at-heel vice, the astounding absence of any thrift or forethought, and the
                     incredible repetition of one solitary adjective; but it seems to me that, when
                     one or two of us go and live down there, we absolutely do no permanent good at
@@ -772,8 +756,7 @@
                     Anyway, it will probably do me more good than it will them. The only real
                     slavery nowadays is the slavery of luxury. We are all getting so pampered that
                     we can't exist without it. People do the most incredible things. I have known a
-                    woman stay with a husband whom she loathed, and whom it was an<pb n="41"
-                        xml:id="VAB7169-040"/> outrage to live with, simply because she couldn't do
+                    woman stay with a husband whom she loathed, and whom it was an<pb n="41" xml:id="VAB7169-040"/> outrage to live with, simply because she couldn't do
                     her own hair. I'm going to get our cook at Ives Court to teach me how to broil a
                     mutton-chop, though, I daresay, she's too grand for that; and I shall go and
                     watch the laundry-maid at her work.’</p>
@@ -826,8 +809,7 @@
                     minor—the boy who keeps so many lop-eared rabbits, you remember—asking him to go
                     and spend a week with them in the country.’</p>
                 <p>‘And then?’ said Alison quickly. ‘Ah! I can see Jimmie saying he shouldn't dream
-                    of going, and then wandering round the room, asking if<pb n="44"
-                        xml:id="VAB7169-043"/> you were not perhaps going out of town yourself. And
+                    of going, and then wandering round the room, asking if<pb n="44" xml:id="VAB7169-043"/> you were not perhaps going out of town yourself. And
                     about seven o'clock an epistle was indited to say that he would be very pleased
                     to go, and the next morning Jimmie went off in a four-wheel cab, looking quite
                     cheerful.’</p>
@@ -908,12 +890,10 @@
                     people's saucepans and routing under their beds for fluff is simply
                     impertinence. Why, district visiting is nothing less than a gross breach of
                     manners—a little worse than electioneering, if that's possible. I'm just going
-                    up,’ she said, giving a rakish twist to her velvet hat-strings, ‘to the <foreign
-                        xml:lang="fre">crêche</foreign> in Kentish Town to see Evelina's baby. I'm
+                    up,’ she said, giving a rakish twist to her velvet hat-strings, ‘to the <foreign xml:lang="fre">crêche</foreign> in Kentish Town to see Evelina's baby. I'm
                     going on the top of one of those charming trams. I told Worth when I was in
                     Paris that I always went on the tops of omnibuses, and he designed me this
-                    little frock on purpose. It's pretty, isn't it, but a little too <foreign
-                        xml:lang="fre">ingénue</foreign> for me? It smacks of the Comédie Française.
+                    little frock on purpose. It's pretty, isn't it, but a little too <foreign xml:lang="fre">ingénue</foreign> for me? It smacks of the Comédie Française.
                     I think I see Reichemberg in it,’ said Alison doubtfully, smoothing down the
                     folds of her loose bodice. ‘Now, you've got to promise to come and dine with me
                     and mother in Portman Square; we shall have the house to ourselves. Good-bye.
@@ -1045,8 +1025,7 @@
                 <p>‘Let us go carefully over the books,’ she said, with a brusqueness which she
                     sometimes affected. ‘Help me to choose,’ she continued, mounting the steps, and
                     beginning to hand down the volumes. ‘I want that Lamb and the Heine, the Goethe
-                    and the Jean Paul Richter. Here, catch the <foreign xml:lang="gre"
-                        >Phædo</foreign>, and put it with the Marcus Aurelius and that little
+                    and the Jean Paul Richter. Here, catch the <foreign xml:lang="gre">Phædo</foreign>, and put it with the Marcus Aurelius and that little
                     Epictetus over there on the cabinet.’</p>
                 <p>‘My poor child, you will no doubt require such consolation as the philosophers
                     can afford,’ said Vincent Hemming, in his old-fashioned way.</p>
@@ -1094,8 +1073,7 @@
                     judgment of mere friendship. All the tragic potentialities of a woman's life,
                     the uncertainties and sorrows of her who gives her happiness into another's
                     keeping, flashed before her.... Why, why must it be? Only a minute ago, and she
-                    had been ready to face the world alone, to be herself, to express<pb n="59"
-                        xml:id="VAB7169-058"/> herself, to work out her own destiny. And now it was
+                    had been ready to face the world alone, to be herself, to express<pb n="59" xml:id="VAB7169-058"/> herself, to work out her own destiny. And now it was
                     all changed. Something held her against her will. This man—a minute ago her
                     friend, and now, in this infinitesimal atom of time, her lover, who stood before
                     her with red, flushed face, and looked with longing eyes into hers: this man had
@@ -1282,8 +1260,7 @@
                     everything worked smoothly. The advent of the headmaster was the signal for
                     general amenities. Every daub, every ill-drawn head, and every smeared, smooth
                     drapery received its meed of praise. There were no tears, such as water the
-                    upward path of the student in a Parisian <foreign xml:lang="fre"
-                        >atelier</foreign>; there were no ambitions, no heart-burnings, no
+                    upward path of the student in a Parisian <foreign xml:lang="fre">atelier</foreign>; there were no ambitions, no heart-burnings, no
                     rivalries. No one at the Central London had ever been known to have a theory to
                     express, or if he had, it remained locked in his own breast.</p>
                 <p>It had already begun to dawn upon Mary that the whole thing was a foolish
@@ -1292,8 +1269,7 @@
                     as it was destined to do, the appearance of a dotted engraving. She was
                     standing, somewhat desponding and disheartened, before this thing which had cost
                     her so much toil, and on the success of which so much depended, when the door
-                    burst open, and there appeared a radiant vision of velvet<pb n="70"
-                        xml:id="VAB7169-069"/> and sables, and of an audacious hat which only Alison
+                    burst open, and there appeared a radiant vision of velvet<pb n="70" xml:id="VAB7169-069"/> and sables, and of an audacious hat which only Alison
                     Ives in one of her ‘worldly’ fits could have invented.</p>
                 <p>‘<foreign xml:lang="fre">Nom d'un chien!</foreign>’ cried that young lady,
                     descending on Mary, and forcibly removing her drawing-board; ‘am I to stand by
@@ -1422,8 +1398,7 @@
                     noticeable. He looked tired, but not at all bored.</p>
                 <p>The doctor was understood to be devoted to Alison, and, for once, Alison seemed
                     pleased. Though she was good-looking and moved in a somewhat go-ahead set, she
-                    had never been known to have an ordinary flirtation. She used to say<pb n="78"
-                        xml:id="VAB7169-077"/> that she supposed she should have to marry some
+                    had never been known to have an ordinary flirtation. She used to say<pb n="78" xml:id="VAB7169-077"/> that she supposed she should have to marry some
                     day—the later the better—because it was absurd to suppose that old maids had any
                     influence on people's lives; and Power, to put it plainly, was what the modern
                     woman craved. She supposed, in that respect, that she wasn't any better than the
@@ -1440,8 +1415,7 @@
                     violets in his coat appeared in the doorway; ‘one of mother's young friends.
                     He's the new editor of the <bibl><title>Comet</title></bibl>.’</p>
                 <p>‘The editor,’ repeated Mary incredulously, emerging from a conversation with Dr.
-                    Strange, which she had carried on with difficulty, seeing<pb n="79"
-                        xml:id="VAB7169-078"/> that his eyes were fixed on Alison all the time. ‘The
+                    Strange, which she had carried on with difficulty, seeing<pb n="79" xml:id="VAB7169-078"/> that his eyes were fixed on Alison all the time. ‘The
                     editor of the <bibl><title>Comet</title></bibl>? Why, he looks a mere boy.’</p>
                 <p>?’My dear, he's seven-and-twenty. Besides, that's the new idea in journalism. You
                     pluck your editor nice and hot from Oxford—someone who has none of the old
@@ -1512,8 +1486,7 @@
                     voice of the unemotional grooms, and the sound of departing wheels. Dr. Dunlop
                     Strange was bending towards Alison, talking earnestly.</p>
                 <p>‘Charmin' rooms,’ said Mr. Beaufy Flower vaguely, terrified at finding himself
-                    alone with Mary, whom he took for his especial aversion, a <foreign
-                        xml:lang="fre">débutante</foreign>. His eye ran round the rather bare walls,
+                    alone with Mary, whom he took for his especial aversion, a <foreign xml:lang="fre">débutante</foreign>. His eye ran round the rather bare walls,
                     the fluted steel fenders, the marble mantelpieces topped by their huge mirrors.
                     ‘So nice and old-fashioned, aren't they? Should<pb n="83" xml:id="VAB7169-082"/>
                     you say early Victorian now, or late William the Fourth?’</p>
@@ -1559,8 +1532,7 @@
                     that used to strike her as she read, and which she would write out and pin up in
                     her pretty luxurious bed-room; the scraps of poetry in various tongues which she
                     would scribble hastily on the back of some young man's visiting card,and then
-                    pin up, with a slender gilt tack, on to her door; especially those lines<pb
-                        n="86" xml:id="VAB7169-085"/> of James Thomson's, which, about a year after
+                    pin up, with a slender gilt tack, on to her door; especially those lines<pb n="86" xml:id="VAB7169-085"/> of James Thomson's, which, about a year after
                     her first heart-ache, when all had ended in disappointment, it had given her
                     such ironical pleasure to nail up in her bed-room, to the bewilderment of the
                     new housemaid: <quote>
@@ -1618,16 +1590,14 @@
                     creaking boots, removed with much clattering the dishes, and Mary was left alone
                     with the firelight for a companion.</p>
                 <p>The photographs of her two friends looked down on her from the mantelpiece;
-                    Alison, with her capable expression and her distinguished<pb n="89"
-                        xml:id="VAB7169-088"/> air; Vincent Hemming, with his showily intellectual
+                    Alison, with her capable expression and her distinguished<pb n="89" xml:id="VAB7169-088"/> air; Vincent Hemming, with his showily intellectual
                     forehead, his weak mouth, and the slight frown which he sometimes affected. What
                     a long time it seemed since they had said good-bye, first on that long summer
                     day which they had spent at Haslemere, and finally at Tilbury, when the great P.
                     and 0. steamer had been swallowed up in the greyness of the wide river and
                     tearful sky. Yes, a long time; but he had grown more to her in his absence than
                     he had ever been, even at the last, for Mary was of the order of women who
-                    idealise the absent. Oddly enough, Vincent, pacing the deck of the <foreign
-                        xml:lang="unk">Sutlej</foreign> in his flapping ulster and his soft felt hat
+                    idealise the absent. Oddly enough, Vincent, pacing the deck of the <foreign xml:lang="unk">Sutlej</foreign> in his flapping ulster and his soft felt hat
                     (he was not one of those people who look their best in travelling costume), had
                     seemed more of a stranger than the man whose letters, arriving by the Indian
                     mail, lay beside her plate every Monday morning. She remembered with a smile how
@@ -1655,8 +1625,7 @@
                     from England; the fact alone that I anticipate with pleasure the advent of
                     breakfast will give you a fair idea of my improved state of health, and I think
                     I may say that, considering the somewhat trying nature of the climatic
-                    conditions, my appearance has wonderfully improved. But enough of my-<pb n="91"
-                        xml:id="VAB7169-090"/> self. I need not say that I am delighted to hear that
+                    conditions, my appearance has wonderfully improved. But enough of my-<pb n="91" xml:id="VAB7169-090"/> self. I need not say that I am delighted to hear that
                     you are bravely and earnestly attacking those art studies which, with due
                     application, will ensure you fame, and possibly wealth, and which will, my
                     dearest girl, be no mean factor in our (possible) future happiness.’</p>
@@ -1673,12 +1642,10 @@
                     dreams, and hopes. It is above all in studying the marvellous system of
                     government of a vast aggregation of human beings of divers nationalities, of
                     such widely-differing ethical standards as this great Indian Empire—’ and here
-                    the handwriting changed again to the slanting style and mean-<pb n="92"
-                        xml:id="VAB7169-091"/> dered on over three crisp pages which the girl let
+                    the handwriting changed again to the slanting style and mean-<pb n="92" xml:id="VAB7169-091"/> dered on over three crisp pages which the girl let
                     fall on her lap. Somehow she would not reconcile this lover, with his
                     old-fashioned phrases and copybook platitudes, with the Vincent Hemming who had
-                    held her in his arms in the cabin of the <foreign xml:lang="unk"
-                        >Sutlej</foreign>, crushing the breath out of her body in the supreme moment
+                    held her in his arms in the cabin of the <foreign xml:lang="unk">Sutlej</foreign>, crushing the breath out of her body in the supreme moment
                     of farewell. . . . Of the fine irony which results from the clash of human
                     passion and human ambition she had not, as yet, a conception. It is to be feared
                     that Mary, with all her somewhat worldly training, was, as far as her affections
@@ -1691,8 +1658,7 @@
                     from a desk, while she held her latest picture up for her husband to see. He was
                     not a judge of pictures, she remembered with a smile; he would probably think
                     her modest attempts masterpieces. Why, he had even liked the sketch she had made
-                    at Haslemere, on that last day they had spent in the<pb n="93"
-                        xml:id="VAB7169-092"/> country together. After all, Vincent and she together
+                    at Haslemere, on that last day they had spent in the<pb n="93" xml:id="VAB7169-092"/> country together. After all, Vincent and she together
                     would have enough to live quietly on; if she succeeded in her art, he might even
                     yet realise his ambition and enter on a political career. What, indeed, might
                     not the years bring forth? However dismal things seemed now, there was Hope—that
@@ -1899,8 +1865,7 @@
                     of <bibl><title>Illustrations</title></bibl>, but she had no idea of the
                     whereabouts of that popular weekly journal. She had in her pocket, too, a letter
                     of introduction to <bibl><title>The Fan</title></bibl>. For her first attempt at
-                    fiction had actually appeared in print, and she was curiously anxious<pb n="105"
-                        xml:id="VAB7169-104"/> to go on. For the first few hours, when she had sat
+                    fiction had actually appeared in print, and she was curiously anxious<pb n="105" xml:id="VAB7169-104"/> to go on. For the first few hours, when she had sat
                     staring helplessly at the sheets of white paper which she had torn into loose
                     pages, neatly folding down an inch border for corrections, she had imagined that
                     the thing was impossible. Then, pacing up and down the room, Mary tried hard to
@@ -1917,8 +1882,7 @@
                     for which the story was to be written, and Mary, before she began, had grown to
                     loathe the simpering young lady in tulle, eternally reading her love-letter. . .
                     . But at last, after hours of torment, an idea came, and then the girl wrote
-                    steadily on, with the easy facility of the amateur. She<pb n="106"
-                        xml:id="VAB7169-105"/> had not an idea that her story was like everybody
+                    steadily on, with the easy facility of the amateur. She<pb n="106" xml:id="VAB7169-105"/> had not an idea that her story was like everybody
                     else's story—her way of telling it like that of hundreds of third-rate authors
                     of fiction whom she had read.</p>
                 <p>After the clatter and roar of the street, the staircase which led to the editor's
@@ -1936,8 +1900,7 @@
                     Mary found herself in a small room, giving on Fleet Street, fronting a tall man
                     with a large, melancholy face, who was bending over a desk. With some
                     trepidation she remembered that the tall, melancholy man, according to Mr. Perry
-                    Jackson, had the reputation of being able to get people out of<pb n="107"
-                        xml:id="VAB7169-106"/> his office quicker than any other editor in
+                    Jackson, had the reputation of being able to get people out of<pb n="107" xml:id="VAB7169-106"/> his office quicker than any other editor in
                     London.</p>
                 <p>‘Professor Erle's daughter, I believe?’ said the editor severely, without looking
                     up from the proofs he was correcting.</p>
@@ -2076,11 +2039,9 @@
                     know? We don't want what the other ladies' papers have got: “Mrs. Townley
                     Tompkins gave a most successful ball at her beautiful house in Lancaster Gate,
                     or any of those God-forsaken places. Lady Jane Ives, Lady Blaythewaite—those are
-                    the sort of people. Really smart, don't you know, and the <foreign
-                        xml:lang="fre">vieile souche</foreign> as well. Now, I should have liked a
+                    the sort of people. Really smart, don't you know, and the <foreign xml:lang="fre">vieile souche</foreign> as well. Now, I should have liked a
                     smartly written account of Lady Jane Ives's party the other night. Of course, I
-                    knew lots of people there, but they haven't got the <foreign xml:lang="lat"
-                        >cacoëthes scribendi</foreign>, don't you know?’</p>
+                    knew lots of people there, but they haven't got the <foreign xml:lang="lat">cacoëthes scribendi</foreign>, don't you know?’</p>
                 <p>‘I think I could do you that, if you thought it interesting enough,’ said Mary,
                     ‘as I happened to be there.’</p>
                 <p>‘Oh, you were there?’ said the editor, with rising respect in his tone; and for
@@ -2187,8 +2148,7 @@
                 <p>‘It's doubtfully alluring—the London ball of to-day,’ assented Mary, ‘but why
                     go?’</p>
                 <p>‘I don't,’ said Alison, ‘it's what I remember out of the dim past. Well,
-                    good-bye, I'm off to explain Mantegna to my girls. I only hope<pb n="120"
-                        xml:id="VAB7169-119"/> they won't <emph>all</emph> come in ostrich feathers.
+                    good-bye, I'm off to explain Mantegna to my girls. I only hope<pb n="120" xml:id="VAB7169-119"/> they won't <emph>all</emph> come in ostrich feathers.
                     Your most becoming gown, remember, and your most angelic manners, please. This
                     is the supreme moment, remember.’</p>
                 <p>After she had gone, she put her head in at the door to say—</p>
@@ -2204,8 +2164,7 @@
                     was a velvety smoothness on the trim lawns, the green light filtered through a
                     canopy of broad chestnut leaves, and the beds were odorous with heliotrope,
                     purple with pansies, and aglow with geraniums. Half past four! Now perhaps the
-                    train was thundering into Euston Station. Vincent Hemming was getting out<pb
-                        n="121" xml:id="VAB7169-120"/> of his compartment, collecting his manifold
+                    train was thundering into Euston Station. Vincent Hemming was getting out<pb n="121" xml:id="VAB7169-120"/> of his compartment, collecting his manifold
                     baggage, hailing a cab. London was the richer for one important person; London
                     contained her lover!</p>
                 <p>The people who haunt the parks on fine afternoons were there as usual, but to-day
@@ -2275,8 +2234,7 @@
                     gas-globes would not have to be lighted. And then she had an idea. It was an
                     extravagance which she would not have permitted herself, but then——</p>
                 <p>‘Jimmie!’ she called out, as she stood at the looking-glass, her hands trembling
-                    as she tried to fasten the over-blown roses at her waist,<pb n="125"
-                        xml:id="VAB7169-124"/> while one by one the petals fell away and left a bare
+                    as she tried to fasten the over-blown roses at her waist,<pb n="125" xml:id="VAB7169-124"/> while one by one the petals fell away and left a bare
                     stalk.</p>
                 <p>‘Yes, dearest.’</p>
                 <p>‘Would you like, for a treat, to go to the theatre to-night? There's that piece
@@ -2356,8 +2314,7 @@
                 <p>Like all people who have been separated for a long time, they found little or
                     nothing to say.</p>
                 <p>‘And did you have a good passage across the Atlantic?’ asked Mary, when she had
-                    made him sit on the hard little sofa, and she had taken a<pb n="130"
-                        xml:id="VAB7169-129"/> stiff, high chair some little way off, and was
+                    made him sit on the hard little sofa, and she had taken a<pb n="130" xml:id="VAB7169-129"/> stiff, high chair some little way off, and was
                     looking at him with all her eyes. Was this neatly turned-out young man, in his
                     tightly-buttoned dog-skin gloves, the lover with whom she had corresponded all
                     these months and months? She felt strangely shy in the midst of her
@@ -2374,8 +2331,7 @@
                     are identical. Some day, Niagara will have dried up, retreated, become a mere
                     dribble among waterfalls. Some day, London will be a handful of ruins.’</p>
                 <p>‘What an unpleasant idea! said Mary, laughing; ‘what dreadful things you always
-                    think of!’ And then, with a childish, frank outburst, she<pb n="131"
-                        xml:id="VAB7169-130"/> crossed to the sofa, knelt down on the floor, and,
+                    think of!’ And then, with a childish, frank outburst, she<pb n="131" xml:id="VAB7169-130"/> crossed to the sofa, knelt down on the floor, and,
                     putting her two hands on his shoulders, she shook him gently.</p>
                 <p>‘Why didn't you come yesterday,’ she whispered. ‘You old silly, you stopped and
                     talked to somebody at the club, I suppose?’</p>
@@ -2393,8 +2349,7 @@
                 <p>‘Is that,’ said Mary, gently disengaging herself from his arms, ‘is that—why you
                     didn't come yesterday?’</p>
                 <p>‘My dear child, I had a thousand things to think of. I was obliged to see the
-                    Colonial Secretary on my arrival in London. I had a<pb n="132"
-                        xml:id="VAB7169-131"/> confidential message of the highest importance from
+                    Colonial Secretary on my arrival in London. I had a<pb n="132" xml:id="VAB7169-131"/> confidential message of the highest importance from
                     the Governor-General of Canada.’ Vincent Hemming had assumed his most official
                     manner —a manner that Mary had always instinctively disliked.</p>
                 <p>‘Ah!’ she said, looking down at her belt, where the roses had dropped off one by
@@ -2431,8 +2386,7 @@
                     mean many more frocks and much higher spirits than I've got just now. But we'll
                     go down and have long days in the country together, won't we? she asked
                     wistfully, twisting with two white fingers one of the buttons on his coat.
-                    ‘There's the river—the river at Goring or Marlowe,<pb n="134"
-                        xml:id="VAB7169-133"/> Vincent, so cool, and green, and quiet on a week-day!
+                    ‘There's the river—the river at Goring or Marlowe,<pb n="134" xml:id="VAB7169-133"/> Vincent, so cool, and green, and quiet on a week-day!
                     Or the Surrey Hills, places that are mauve with heather; and pine-woods,
                     beautiful, solemn pine-woods—don't you remember—like the place where we went the
                     day before you sailed? We'll go there again, won't we?’</p>
@@ -2467,11 +2421,9 @@
                     had spoken of her as ‘hardened.’ Well, that exactly described her state of mind.
                     Mary felt not only hardened, but petrified. What did it all mean? He was hers,
                     was he not, the man who had just left her? All her thoughts turned naturally to
-                    him; she was incapable now of comprehending a life which they<pb n="136"
-                        xml:id="VAB7169-135"/> were not to share together. She was perfectly aware
+                    him; she was incapable now of comprehending a life which they<pb n="136" xml:id="VAB7169-135"/> were not to share together. She was perfectly aware
                     of his little poses, his not altogether amiable peculiarities, but she had got
-                    to the stage when they made no difference. A French wit has it that ‘<foreign
-                        xml:lang="fre">C'est le ridicule qui tue</foreign>,’ an aphorism which may
+                    to the stage when they made no difference. A French wit has it that ‘<foreign xml:lang="fre">C'est le ridicule qui tue</foreign>,’ an aphorism which may
                     be true of politics, fashions, or art, but which, alack! does not apply to the
                     vagaries of human passion.</p>
                 <p>Vincent Hemming, once outside the door, felt in his breast-pocket for his cigar
@@ -2519,8 +2471,7 @@
                     had found them first, Mr., Mrs., and Miss Violet Higgins, of Northborough,
                     Lancashire, engaged in a protracted quarrel with the black porter in a train
                     bound New York-wards from Niagara. The Higgins family had wished to have the
-                    windows of the long compartment opened, but the black porter, having no per-<pb
-                        n="139" xml:id="VAB7169-138"/> sonal objection to tropical heat, had
+                    windows of the long compartment opened, but the black porter, having no per-<pb n="139" xml:id="VAB7169-138"/> sonal objection to tropical heat, had
                     insisted on shutting every aperture. Finally, Vincent had effected a compromise,
                     and the perspiring mayor and mayoress of Northborough had been, he thought,
                     somewhat unduly thankful. The daughter, a young lady with beady eyes, a high
@@ -2553,8 +2504,7 @@
                     and ask how she was. He had an idea they expected him, and so, it appeared, they
                     did. They not only expected him, but they expected him to stop to dinner.</p>
                 <p>The next day Mary received a note from Vincent, to the effect that he was running
-                    up north on parliamentary business, but that he<pb n="141" xml:id="VAB7169-140"
-                    /> hoped to see her very soon. The postscript was typical of the man: ‘I rejoice
+                    up north on parliamentary business, but that he<pb n="141" xml:id="VAB7169-140"/> hoped to see her very soon. The postscript was typical of the man: ‘I rejoice
                     to think that you are continuing your literary and artistic studies with your
                     usual courage and energy. Only I implore you to consider your health, mental and
                     physical. You tell me you are writing stories now—love stories, I presume.
@@ -2580,8 +2530,7 @@
                     moving about the polished parquet floor. Indeed, in a distant room there was
                     even a small crowd; but that, it appeared, was due to the fact that a buffet,
                     spread with a York ham, a magnificent display of bath buns, and several
-                    decanters of fiery-looking sherry, presided over<pb n="143" xml:id="VAB7169-142"
-                    /> by a young lady with arch manners and pendant ear-rings, had been provided to
+                    decanters of fiery-looking sherry, presided over<pb n="143" xml:id="VAB7169-142"/> by a young lady with arch manners and pendant ear-rings, had been provided to
                     seduce the austere journalist. Sounds of hilarity, as well as whiffs of tobacco
                     smoke, frequently penetrated to the large room where Mary Erle was taking notes.
                     Shaggy-looking men, with wide-awake hats and Inverness capes of dubious
@@ -2634,8 +2583,7 @@
                 <p>‘America is a wonderful country,’ said Mary gravely.</p>
                 <p>‘Of course,’ continued Perry, ‘you saw the picture in the Academy. Sold for two
                     thousand pounds at the private view. What fetches the public is a long price. ‘I
-                    hope,’ he added wistfully, ‘that you'll come and see my studio.<pb n="146"
-                        xml:id="VAB7169-145"/> I'm down Kensington way now—all among the Royal
+                    hope,’ he added wistfully, ‘that you'll come and see my studio.<pb n="146" xml:id="VAB7169-145"/> I'm down Kensington way now—all among the Royal
                     Academicians.’</p>
                 <p>‘I shall certainly come,’ said Mary.</p>
                 <p>‘Oh, when?’ demanded Mr. Jackson with an unmistakable show of eagerness. ‘I'm in
@@ -2712,8 +2660,7 @@
                 <p>‘I am quite sure it will be dreadful,’ said Mary; ‘but then I can't afford to say
                     no. I've got a big boy at Winchester, you know. Brothers are so expensive—they
                     want such a lot of neckties. And I dare say it doesn't matter much what one
-                    writes. It will all be forgotten soon enough. I used to have my little<pb
-                        n="150" xml:id="VAB7169-149"/> ideas about what was artistic and so on; but
+                    writes. It will all be forgotten soon enough. I used to have my little<pb n="150" xml:id="VAB7169-149"/> ideas about what was artistic and so on; but
                     then, as you say, one <emph>must</emph> think of the public,’ she added, rather
                     dismally, as her eye ran along the walls covered with smooth views of Rome, of
                     the Thames at Wargrave, impossible fisher-girls, and treacly sunsets. She was
@@ -2750,8 +2697,7 @@
                     her thoughts flew back to Vincent Hemming,—to Vincent, whose letters during the
                     last few weeks had somehow grown rarer and rarer.</p>
                 <p>And in the empty galleries the rays of an autumn sunset touched the threadbare
-                    ‘Romes’ and ‘Wargraves’ and ‘Cornish Fisher-scenes’<pb n="152"
-                        xml:id="VAB7169-151"/> with its delicate golden fingers. One by one the
+                    ‘Romes’ and ‘Wargraves’ and ‘Cornish Fisher-scenes’<pb n="152" xml:id="VAB7169-151"/> with its delicate golden fingers. One by one the
                     pressmen and the lady journalists had slipped away. The odour of tobacco was
                     evaporating. Even the buffet was deserted, save for one elderly gentleman, who,
                     as he stood talking to the presiding nymph as she washed up the glasses, leaned
@@ -2774,8 +2720,7 @@
                     characteristic of him that he addressed his sister with as much politeness as
                     any of his numerous loves. Everybody agreed that Jimmie Erle was a delightful
                     boy. Laudatory adjectives abounded when his name was mentioned. Just now,
-                    lounging in his cricketing blazer against the mantelpiece, he<pb n="154"
-                        xml:id="VAB7169-153"/> looked the picture of airy and irresponsible
+                    lounging in his cricketing blazer against the mantelpiece, he<pb n="154" xml:id="VAB7169-153"/> looked the picture of airy and irresponsible
                     youth.</p>
                 <p>‘As it's half-past-eleven,’ said Mary, laughing, blotting her MSS., and thrusting
                     it in an envelope, ‘Sarah may have some vague idea that you might be putting in
@@ -2866,8 +2811,7 @@
                             Roses</title></bibl>,’ said Perry, indignantly. ‘I'm blessed if you'd
                     know they were roses. Why, they might be—artichokes—or anything else.’</p>
                 <p>‘Well, we can't help that now,’ said Mary doggedly. ‘What I want to-day are just
-                    the last touches for my article—something to make<pb n="159"
-                        xml:id="VAB7169-158"/> the thing literary, with a meaning, you see. I should
+                    the last touches for my article—something to make<pb n="159" xml:id="VAB7169-158"/> the thing literary, with a meaning, you see. I should
                     be glad to know, for instance,’ continued Mary, glancing round the walls with a
                     slight smile, ‘if you have a Message?’</p>
                 <p>‘What's that?’ asked Perry, putting a flat high light on the golden hair of a
@@ -2904,8 +2848,7 @@
                     gorgeous for a damp journalist.’</p>
                 <p>He hurried forward imploringly, his sharp face whiter than ever with emotion, and
                     for years after she could not forget the painful scene which followed. She
-                    remembered how she had been intensely conscious of her damp<pb n="161"
-                        xml:id="VAB7169-160"/> boots and of the little spots of water which her
+                    remembered how she had been intensely conscious of her damp<pb n="161" xml:id="VAB7169-160"/> boots and of the little spots of water which her
                     dripping waterproof made on the polished floor, while Mr. Perry Jackson, who, in
                     moments of intense excitement, had an occasional difficulty with his aspirates,
                     proffered her his name and fortune, and the undisturbed possession of the
@@ -2956,8 +2899,7 @@
                 <p>It was the first night of a new comedy at a modish theatre. In the private boxes
                     the little canvas doors opened continually, revealing a glimpse of the begilded
                     corridor darkened by the figure of a man in evening dress. In some of the boxes,
-                    notably that of Lady Jane Ives, the door opened almost with the regularity of<pb
-                        n="164" xml:id="VAB7169-163"/> a machine, while a small procession of young
+                    notably that of Lady Jane Ives, the door opened almost with the regularity of<pb n="164" xml:id="VAB7169-163"/> a machine, while a small procession of young
                     gentlemen sidled in and out.</p>
                 <p>‘All mother's “boys” will be here before the evening's over,’ whispered Alison to
                     Mary. ‘I don't know whether our brains will hold out.’ But Alison, for once,
@@ -3031,15 +2973,13 @@
                 <p>‘My dear Beaufy, Lady Blaythewaite is quite good-looking enough to do these
                     things. Who are those curious-looking persons in the next box?’</p>
                 <p>‘Aren't they quite too delicious for words?’ cried that young gentleman, with
-                    some animation. ‘They're my discovery. There's a<pb n="168" xml:id="VAB7169-167"
-                    /> man—a political man—in the stalls who knows. It's the mayor of Northborough,
+                    some animation. ‘They're my discovery. There's a<pb n="168" xml:id="VAB7169-167"/> man—a political man—in the stalls who knows. It's the mayor of Northborough,
                     the mayoress of Northborough, and the heiress-apparent. They're as rich—well, as
                     rich as Americans. Their name is Higgins. Aren't they nice? I never saw a
                     provincial mayor before. I wonder if he is red all over, like his face? I'm sure
                     he wears his chains of office under his clothes. Look at the mayoress' gown,
                     dear Lady Jane. Do you see, it has a small V at the throat, and elbow sleeves,
-                    and you may swear it's high at the back! And the daughter—<foreign
-                        xml:lang="fre">qu'elle est fagotée, mon Dieu</foreign>, and with diamonds
+                    and you may swear it's high at the back! And the daughter—<foreign xml:lang="fre">qu'elle est fagotée, mon Dieu</foreign>, and with diamonds
                     put in all the wrong places. It is a relief to look at Lady Blay, who's got
                     hardly anything on at all.’</p>
                 <p>And so these were the Higginses; Vincent's friends, whom he had picked up in
@@ -3174,8 +3114,7 @@
                     organs are attacked as yet,’ he went on, ‘but there is a terrible want of tone.
                     If I were asked to describe you, I should say you were a bundle of nerves.
                     Slightly anæmic, too,’ continued the doctor, frowning. ‘You live too much in
-                    London. There is too much strain on the nervous system. You have,<pb n="176"
-                        xml:id="VAB7169-175"/> you see, an unfortunate previous history. Your
+                    London. There is too much strain on the nervous system. You have,<pb n="176" xml:id="VAB7169-175"/> you see, an unfortunate previous history. Your
                     father, you must remember, was not able to stand the strain; your poor mother
                     died when she was a mere girl. A mere girl,’ repeated the great man, shaking his
                     head.</p>
@@ -3362,8 +3301,7 @@
                     professional matters.</p>
                 <p>Inside the large bare hall, where a marble statue of the Queen loomed chillily
                     out of the vague half-light, Alison and Mary, the latter carrying a leather
-                    note-book, were already awaiting him. Dunlop Strange looked at Alison,<pb
-                        n="186" xml:id="VAB7169-185"/> taking in every detail of her radiant
+                    note-book, were already awaiting him. Dunlop Strange looked at Alison,<pb n="186" xml:id="VAB7169-185"/> taking in every detail of her radiant
                     personality with his swift professional glance. In the after years he always
                     preferred to think of her as he saw her that instant, standing by the white
                     marble statue of the Queen, for never again did she look at him with the same
@@ -3381,8 +3319,7 @@
                     would be the crowning act of a brilliantly successful career. He only hesitated
                     to speak until he had received the baronetcy which was in store for him. Not
                     that Alison herself would care; she had none of the usual small feminine
-                    ambitions; but the doctor was quite aware that it would influence<pb n="187"
-                        xml:id="VAB7169-186"/> Lady Jane, who had made up her mind that Alison, when
+                    ambitions; but the doctor was quite aware that it would influence<pb n="187" xml:id="VAB7169-186"/> Lady Jane, who had made up her mind that Alison, when
                     she married, should only make, if she could help it, what she called a ‘sensible
                     match.’</p>
                 <p>They went up a stone staircase, to which a somewhat false air of cheerfulness was
@@ -3655,8 +3592,7 @@
                     perienced in society delighted him—emotions heightened by a rare vintage, made
                     memorable by an elaborate dish, accentuated by a fine feminine smile. The half
                     chaffing, half caressing tone in which his patients addressed him (for Dunlop
-                    Strange was popular with great ladies); the <foreign xml:lang="fre"
-                        >rôle</foreign>, three-parts confessor and one-fourth adorer, which he
+                    Strange was popular with great ladies); the <foreign xml:lang="fre">rôle</foreign>, three-parts confessor and one-fourth adorer, which he
                     played with these beautiful victims of the vapours and the megrims, appealed
                     directly to his vanity. He had around him continually in his consulting-room of
                     a morning, during his afternoons spent rapidly driving from one enervating
@@ -3687,8 +3623,7 @@
                     fact knocking at his brain, he had to lend an attentive ear to his neighbour's
                     confidences about the Cambridgeshire, and how much ‘ready cash’ she expected to
                     ‘land’ by her somewhat elaborate transactions. Vaguely, as in a dream, the
-                    doctor heard about the favourite—a certain ‘Miss Gwendolen<pb n="204"
-                        xml:id="VAB7169-203"/> dolen’—who had just been ‘scratched,’ and some
+                    doctor heard about the favourite—a certain ‘Miss Gwendolen<pb n="204" xml:id="VAB7169-203"/> dolen’—who had just been ‘scratched,’ and some
                     foreign admirer, who, it appeared, ‘put’ Lady Blaythewaite on to various ‘good
                     things.’ On his other side an animated discussion on the subject of liqueurs was
                     in hand, in which Miss Ives was politely pretending to take an interest. The
@@ -3777,8 +3712,7 @@
                     presents—the tea-service, and the work-basket, and the new cot for the baby—see
                     that she has them, won't you?—Yours, ALISON.’</p>
                 <p>‘Tell the man,’ said Mary to the stolid maid-of-all-work, who was waiting, with
-                    pendant red hands and slightly open mouth, at the door,<pb n="209"
-                        xml:id="VAB7169-208"/> ‘that I shall be round in half an hour.’ There were
+                    pendant red hands and slightly open mouth, at the door,<pb n="209" xml:id="VAB7169-208"/> ‘that I shall be round in half an hour.’ There were
                     still another dozen lines to write. The thing must be neatly turned, made
                     acidulous and sparkling. It took some fifteen minutes of writing and scratching
                     out. Then mechanically she ran her eye once again over the lines, tied up the
@@ -3893,8 +3827,7 @@
                     girl—a shop assistant—when she first saw him. No, it isn't a pretty world!’</p>
                 <p>‘And Dr. Strange? Does he know?’</p>
                 <p>‘I told him that night at the dinner. I was furious. He tried to brave it out, to
-                    pretend he knew nothing about her. I hope,’ she added,<pb n="215"
-                        xml:id="VAB7169-214"/> while the anxious look deepened on her forehead,
+                    pretend he knew nothing about her. I hope,’ she added,<pb n="215" xml:id="VAB7169-214"/> while the anxious look deepened on her forehead,
                     ‘that I shall never have to see him again. You won't,’ she said excitedly, ‘let
                     them bring him up here, to me?’</p>
                 <p>‘No, no, of course not.’</p>
@@ -4102,8 +4035,7 @@
                     circle, seeing nothing, for her brain was busy with two overpowering thoughts,
                     the awful struggle with death, the protest against annihilation which was slowly
                     being fought out in that bedroom in Portman Square, and the fact that
-                    henceforward she was to walk alone, to fight the battle of life<pb n="227"
-                        xml:id="VAB7169-226"/> unaided—a moral starveling, whose natural instincts
+                    henceforward she was to walk alone, to fight the battle of life<pb n="227" xml:id="VAB7169-226"/> unaided—a moral starveling, whose natural instincts
                     were to be pinched, repressed, and neatly trimmed in conformity with the rules
                     of the higher civilisation. And, in sooth, it was in accordance with the
                     inexorable laws of the higher civilisation that so priceless a boon as a loyal
@@ -4174,8 +4106,7 @@
                     annihilated. Death made no more account of them than a schoolboy does of a
                     beetle, on whom, in passing by, he tramps wantonly in a ditch. A minute ago they
                     breathed, and hoped, and loved; another minute in the æons of time, and the
-                    insect was a mere blotch of slime, one's passionately loved idol lay<pb n="231"
-                        xml:id="VAB7169-230"/> rotting under the sod. And for a little while, if
+                    insect was a mere blotch of slime, one's passionately loved idol lay<pb n="231" xml:id="VAB7169-230"/> rotting under the sod. And for a little while, if
                     they were lucky, the idols were remembered, but more often their memories, too,
                     passed away.</p>
                 <p>The burden of sex, the lust of life, the torture of the ideal, the unslaked
@@ -4271,8 +4202,7 @@
                     found listeners that a young girl had fallen over her train while backing from
                     the Royal presence. A woman with pronounced Jewish features, who wore a smart
                     bonnet and a French frock, explained at some length to an indifferent group what
-                    had happened when she had been presented last year. And, as she stood talking<pb
-                        n="237" xml:id="VAB7169-236"/> to Mr. Bosanquet-Barry, who had, as usual,
+                    had happened when she had been presented last year. And, as she stood talking<pb n="237" xml:id="VAB7169-236"/> to Mr. Bosanquet-Barry, who had, as usual,
                     his air of not wishing to be detained, the lady whom Mary remembered in the old
                     days as a player on the harp, had placed a piece of music on the piano, and was
                     singing in an elderly, threadbare voice, and an accent which left much to be
@@ -4289,8 +4219,7 @@
                     and out. And only she, Mary, seemed to remember. Lady Jane, to be sure, had been
                     immersed in grief for some months after the death, but the next season she had
                     reappeared in mauve and black, and had resumed her round of drums and dinners.
-                    All that had happened five years ago. This was the second<pb n="238"
-                        xml:id="VAB7169-237"/> niece that she had successfully launched in society;
+                    All that had happened five years ago. This was the second<pb n="238" xml:id="VAB7169-237"/> niece that she had successfully launched in society;
                     the first had made an excellent match, and Lady Jane only hoped, in confidence
                     to all her intimate friends, that Victoria would not think of marrying quite so
                     soon, for it was charming, she said—it made her feel quite young again—to have a
@@ -4307,8 +4236,7 @@
                     will find all your pretty friends in there.’</p>
                 <p>And the face of the fashionable doctor, smooth, smug, successful, was seen here
                     and there chatting in the crowd. If the mouth was still hard, the smile was more
-                    insinuating than ever. A voluptuous feminine atmosphere surrounded him<pb
-                        n="239" xml:id="VAB7169-238"/> as he moved about, as pretty women bent
+                    insinuating than ever. A voluptuous feminine atmosphere surrounded him<pb n="239" xml:id="VAB7169-238"/> as he moved about, as pretty women bent
                     forward to whisper, meeting his eyes with an intimate look, or laying detaining,
                     half-caressing fingers on his arm. All of these charming ladies had been, were
                     now, or would be, his patients. His reputation had grown apace in the last five
@@ -4343,8 +4271,7 @@
                     unseated almost immediately—his agents, it would seem, not having been discreet
                     in the matter of beer; and he had had no opportunity of entering the House
                     since. Meanwhile, Mrs. Vincent Hemming had not made herself popular in London
-                    society, and her husband had always a somewhat uneasy air when she was in the<pb
-                        n="241" xml:id="VAB7169-240"/> same room. Lady Jane Ives, for one, openly
+                    society, and her husband had always a somewhat uneasy air when she was in the<pb n="241" xml:id="VAB7169-240"/> same room. Lady Jane Ives, for one, openly
                     snubbed her, and Vincent had arrived at that stage in an unsuccessful marriage
                     when a husband is not offended at being asked out to dinner without his wife. To
                     any other woman but Mary the thing would have been a personal triumph.</p>
@@ -4399,8 +4326,7 @@
                 <p>There was a movement of departure in the crowd. The monstrous trains were being
                     caught up, bouquets were seen moving towards the door. Mr. Beaufort Flower,
                     slipping in and out, was murmuring a last impertinence to a pretty woman on her
-                    way downstairs. Lady Jane was beginning to look tired, for at seventy, as<pb
-                        n="244" xml:id="VAB7169-243"/> she said, one wasn't in the first blush of
+                    way downstairs. Lady Jane was beginning to look tired, for at seventy, as<pb n="244" xml:id="VAB7169-243"/> she said, one wasn't in the first blush of
                     youth; and Miss Victoria, whose puffy cheeks had assumed a purplish hue,
                     announced to every one, as they made their farewells, that she and her aunt were
                     going to a ball that night, which she expected would be ‘splendid fun.’ Mr.
@@ -4479,8 +4405,7 @@
                 <p>Hemming got up and strode up and down the room, his mouth working nervously at
                     the corners as he answered—</p>
                 <p>‘Heaven knows you needn't reproach me about that. If you knew what my life is,
-                    Mary,’ he blurted out suddenly, his face turning a dark<pb n="249"
-                        xml:id="VAB7169-248"/> red, ‘the dreariness, the vulgarity, the commonplace
+                    Mary,’ he blurted out suddenly, his face turning a dark<pb n="249" xml:id="VAB7169-248"/> red, ‘the dreariness, the vulgarity, the commonplace
                     of it.’</p>
                 <p>‘You have your—your—wife, your child,’ she said slowly, her eyes fixed on the
                     empty teacup in her hand, ‘and I—I have nothing.’</p>
@@ -4498,8 +4423,7 @@
                     never loved Vincent Hemming so well.</p>
                 <p>‘My poor, poor dear,’ she muttered with a movement of exquisite maternal
                     tenderness, ‘it will come all right by and by. You will try, won't you, to
-                    be—nicer—to her?’ she added with an effort. ‘It must be so easy for husband<pb
-                        n="250" xml:id="VAB7169-249"/> and wife to make it up. And there is the
+                    be—nicer—to her?’ she added with an effort. ‘It must be so easy for husband<pb n="250" xml:id="VAB7169-249"/> and wife to make it up. And there is the
                     child—’</p>
                 <p>‘The child,’ he repeated blankly. ‘A thing three years old. And she is jealous if
                     I even look at the baby. Mary, her jealousy is infernal. I can't live with her,
@@ -4591,8 +4515,7 @@
                     indifferent.</p>
                 <p>‘Vincent,’ she said, in a grave voice, ‘I can't do it. I can't, I can't—not even
                     for you! It is not that I mind what people would say—that's nothing. It isn't
-                    that I don't love you. I—I—why, I have always loved you. But it's the<pb n="255"
-                        xml:id="VAB7169-254"/> other woman—your wife. I can't, I won't, deliberately
+                    that I don't love you. I—I—why, I have always loved you. But it's the<pb n="255" xml:id="VAB7169-254"/> other woman—your wife. I can't, I won't, deliberately
                     injure another woman. Think how she would suffer! Oh, the torture of women's
                     lives—the helplessness, the impotence, the emptiness! And, Vincent, she is the
                     mother of your child. <emph>Your child</emph>, dear,’ she went on, after a
@@ -4642,8 +4565,7 @@
                 <p>But it behoved her henceforward to be sensible—to be strong for both of them. She
                     must never see him again, must, above all, try and think of Vincent as she used
                     to do, before that afternoon in Harley Street—how many years ago now?—when he
-                    had first made love to her, and asked her to wait for him. How it spoiled<pb
-                        n="258" xml:id="VAB7169-257"/> everything—this eternal question of sex! It
+                    had first made love to her, and asked her to wait for him. How it spoiled<pb n="258" xml:id="VAB7169-257"/> everything—this eternal question of sex! It
                     was almost impossible for a woman to see a man as he really is. And, in
                     pursuance of the plan of being sensible, she went deliberately over Hemming's
                     faults. They were obvious enough. He was weak, vacillating; his phrases were
@@ -4678,8 +4600,7 @@
                     through a dark, leafy lane, she emerged on the open heath.</p>
                 <p>The after-glow of a crimson sunset still hung in the west. The Surrey Hills were
                     faintly blue, and the heath, with its broken ridges topped with gorse and
-                    bracken, swept in superb lines at her feet. The air was very still. Over<pb
-                        n="260" xml:id="VAB7169-259"/> yonder a mysterious hand had hung a silver
+                    bracken, swept in superb lines at her feet. The air was very still. Over<pb n="260" xml:id="VAB7169-259"/> yonder a mysterious hand had hung a silver
                     sickle in the pale twilight sky. Mary sank tired on to a seat. But presently two
                     vague figures approached in the growing darkness—the figures of a girl and a
                     young man, working people both, who sat awkwardly down at the other end of the
@@ -4715,8 +4636,7 @@
                     footsore with her long walk. For an hour she fell into a fitful sleep.</p>
                 <p>The night was warm, but she could hear the flapping of the window-blind, swaying
                     in a light breeze. Mary lay there a long time, every nerve in her body
-                    quivering. How long, how long the night was! Would it never end, never be<pb
-                        n="262" xml:id="VAB7169-261"/> daylight, when she could get up and work
+                    quivering. How long, how long the night was! Would it never end, never be<pb n="262" xml:id="VAB7169-261"/> daylight, when she could get up and work
                     again? To work was to forget. If only she could keep strong and not worry too
                     much.</p>
                 <p>She got up presently, weary with lying awake, and lit a couple of candles on the
@@ -4734,8 +4654,7 @@
                     haunting eyes. And to-night the woman looked at her appealingly. By the soft
                     candle-light the face was curiously young. The cheeks were delicately thin, but
                     the lips were those of a girl of eighteen; in the fluffy, fair head the few grey
-                    hairs were lost among the pale gold. There was the line<pb n="263"
-                        xml:id="VAB7169-262"/> of her throat, her beautiful white shoulders, the
+                    hairs were lost among the pale gold. There was the line<pb n="263" xml:id="VAB7169-262"/> of her throat, her beautiful white shoulders, the
                     delicate modelling of her satiny arms. And, as she looked, the woman in the
                     glass softened with a triumphant smile.</p>
                 <p>‘You may torture me, starve me, but you cannot make me unlovable. He loves me!’
@@ -4752,8 +4671,7 @@
                     to come, but I—<emph>I shall not be here</emph>. Nestlings will crouch,
                     chirruping, under the eaves; there will be dew on the meadow-sweet, sunshine in
                     the orchard; there will be lovers' glances, and the laughter of little children.
-                    But for me, <emph>for me it will all be dark</emph>. Yet we do have the<pb
-                        n="264" xml:id="VAB7169-263"/> present moment; let us keep it and hold it.
+                    But for me, <emph>for me it will all be dark</emph>. Yet we do have the<pb n="264" xml:id="VAB7169-263"/> present moment; let us keep it and hold it.
                     We are alive now. We love each other. Give him to me! Only a few short years am
                     I here,’ pleaded the haunting eyes: ‘I, and such as I, tearing our little hands
                     in the search for gold, shaking them at the heavens with impotent vengeance.
@@ -4805,12 +4723,10 @@
                     at hand.</p>
                 <p>Mary lit her lamp and searched about among her papers for the chapter of her
                     novel at which she had been at work yesterday before Vincent came. She had still
-                    to do another happy ending, the rapturous <foreign xml:lang="ita"
-                        >finale</foreign> which the public demanded. She tried to fix her thoughts,
+                    to do another happy ending, the rapturous <foreign xml:lang="ita">finale</foreign> which the public demanded. She tried to fix her thoughts,
                     but the great bunch of pinkish lilac irritated her with its dominant, sensuous
                     odour. Taking the dripping stalks in her hand she went to the open window and
-                    let them drop gently on the pavement below. And then, there was something<pb
-                        n="267" xml:id="VAB7169-266"/> thing else—the large, full-length, faded
+                    let them drop gently on the pavement below. And then, there was something<pb n="267" xml:id="VAB7169-266"/> thing else—the large, full-length, faded
                     photograph of Vincent Hemming, which stood just above the pigeon-holes on her
                     desk.</p>
                 <p>Raising the short silk curtain which hid the grate in the summer-time, Mary
@@ -4861,8 +4777,7 @@
                 <p>‘It gets all the wind and the rain, you see, Miss Erle,’ said the stonemason,
                     gazing critically at his work. ‘Yer father's tomb, it do stand so 'igh. Almost
                     the 'ighest in the cem'try, I may say. And a sight of rain we do 'ave up here in
-                    winter time. Soaks the clay, it does, and shifts<pb n="270" xml:id="VAB7169-269"
-                    /> the graves. Look at that angel with the trumpet over there. A bit squiffy, he
+                    winter time. Soaks the clay, it does, and shifts<pb n="270" xml:id="VAB7169-269"/> the graves. Look at that angel with the trumpet over there. A bit squiffy, he
                     looks, don't 'e? Some of them tombs 'ave to be repaired constant.’</p>
                 <p>‘I want this seen to at once,’ said Mary.</p>
                 <p>‘It'll be a matter of five pound to do it up properly, Miss,’ he said, after some

@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Dombey and Son : ELTeC edition</title>
                 <!--<author dates="1812 1870" sex="m" ><persName><surname>Dickens</surname>, <forename>Charles</forename></persName></author>
 -->
-                <author>Dickens, Charles John Huffam (1812-1870)</author>
+                <author ref="viaf:88666393">Dickens, Charles (1812-1870)</author>
                 <respStmt>
                     <resp>creation of HTML version</resp>
                     <name>Bibliomania.com</name>
@@ -88,10 +86,10 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <language ident="eng">English</language>
             </langUsage>
 <textDesc>
-    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-    <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-    <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+    <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+    <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -5143,8 +5141,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     there was already beautifully written on a card in round text—down strokes very
                     thick, and up strokes very fine—<hi rend="sc">dombey</hi>; while two other
                     little bed-steads in the same room were announced, through like means, as
-                    respectively appertaining unto <hi rend="sc">briggs</hi> and <hi rend="sc"
-                        >tozer</hi>. </p>
+                    respectively appertaining unto <hi rend="sc">briggs</hi> and <hi rend="sc">tozer</hi>. </p>
                 <p>Just as they got down stairs again into the hall, Paul saw the weak-eyed young
                     man who had given that mortal offence to Mrs. Pipchin, suddenly seize a very
                     large drumstick, and fly at a gong that was hanging up, as if he had gone mad,
@@ -13566,8 +13563,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     `because I trust I am not a fool. I make no claim to be considered a person of
                     superior intellect—though I believe some people have been extraordinary enough
                     to consider me so; one so little humoured as I am, would very soon be disabused
-                    of any such notion; but I trust I am not a downright fool. And to tell <hi
-                        rend="sc">me,</hi>´ said Mrs. Chick with ineffable disdain, `that my brother
+                    of any such notion; but I trust I am not a downright fool. And to tell <hi rend="sc">me,</hi>´ said Mrs. Chick with ineffable disdain, `that my brother
                     Paul Dombey could ever contemplate the possibility of uniting himself to
                     anybody—I don't care who´—she was more sharp and emphatic in that short clause
                     than in any other part of her discourse—`not possessing these requisites, would
@@ -21069,8 +21065,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     race for its delight and happiness, offended, sickened and disgusted, and made a
                     channel by which misery and death alone can enter. Vainly attempt to think of
                     any simple plant, or flower, or wholesome weed, that, set in this foetid bed,
-                    could have its natural growth, or put its little leaves off to the sun as <hi
-                        rend="sc">god</hi> designed it. And then, calling up some ghastly child,
+                    could have its natural growth, or put its little leaves off to the sun as <hi rend="sc">god</hi> designed it. And then, calling up some ghastly child,
                     with stunted form and wicked face, hold forth on its unnatural sinfulness, and
                     lament its being, so early, far away from Heaven—but think a little of its
                     having been conceived, and born and bred, in Hell! </p>
@@ -28430,8 +28425,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>And how goes the Wooden Midshipman in these changed days? Why, here he still is,
                     right leg foremost, hard at work upon the hackney coaches, and more on the alert
                     than ever, being newly painted from his cocked hat to his buckled shoes; and up
-                    above him, in golden characters, these names shine refulgent, <hi rend="sc"
-                        >gills and cuttle</hi>. </p>
+                    above him, in golden characters, these names shine refulgent, <hi rend="sc">gills and cuttle</hi>. </p>
                 <p>Not another stroke of business does the Midshipman achieve beyond his usual easy
                     trade. But they do say, in a circuit of some half-mile round the blue umbrella
                     in Leadenhall Market, that some of Mr. Gills's old investments are coming out

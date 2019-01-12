@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title> Sybil, Or the Two Nations : ELTeC edition</title>
-    <author>Disraeli, Benjamin (1804-1881)</author>
+    <author ref="viaf:49233448">Disraeli, Benjamin (1804-1881)</author>
     <respStmt>
      <resp>original HTML encoding</resp>
      <name>David G. Johnson</name>

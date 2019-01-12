@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18551">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18551">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The Warden : ELTec edition</title>
-<author>Trollope, Anthony (1815-1882).</author>
+<author ref="viaf:61683295">Trollope, Anthony (1815-1882)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -960,8 +958,7 @@ doubting conscience; such was not the case with Dr. Grantly. He did not believe 
 more assurance than he did in the sacred justice of all ecclesiastical revenues. When he put his
 shoulder to the wheel to defend the income of the present and future precentors of Barchester, he
 was animated by as strong a sense of a holy cause, as that which gives courage to a missionary in
-Africa, or enables a sister of mercy to give up the pleasures of the world for the wards of <pb
-n="66"/> a hospital. He was about to defend the holy of holies from the touch of the profane; to
+Africa, or enables a sister of mercy to give up the pleasures of the world for the wards of <pb n="66"/> a hospital. He was about to defend the holy of holies from the touch of the profane; to
 guard the citadel of his church from the most rampant of its enemies; to put on his good armour in
 the best of fights; and secure, if possible, the comforts of his creed for coming generations of
 ecclesiastical dignitaries. Such a work required no ordinary vigour; and the archdeacon was,
@@ -1767,8 +1764,7 @@ spend money without obtaining brilliancy or splendour. The urn was of thick and 
 were also the tea-pot, coffee-pot, cream-ewer, and sugar-bowl; the cups were old, dim dragon china,
 worth about a pound a piece, but very despicable in the eyes of the uninitiated. The silver forks
 were so heavy as to be disagreeable to the hand, and the bread-basket was of a weight really
-formidable to any but robust persons. The tea consumed was the very best, the coffee the <pb n="123"
-/> very blackest, the cream the very thickest; there was dry toast and buttered toast, muffins and
+formidable to any but robust persons. The tea consumed was the very best, the coffee the <pb n="123"/> very blackest, the cream the very thickest; there was dry toast and buttered toast, muffins and
 crumpets; hot bread and cold bread, white bread and brown bread, home-made bread and bakers' bread,
 wheaten bread and oaten bread, and if there be other breads than these, they were there; there were
 eggs in napkins, and crispy bits of bacon under silver covers; and there were little fishes in a
@@ -1947,8 +1943,7 @@ we'll say; one to look after the men, and the other to look after the money. You
 these two servants, and whether either of you be paid too much, or too little, more or less in fact
 than the founder willed, it's as clear as daylight that no one can fall foul of either of you for
 receiving an allotted stipend."</p>
-<p>"That does seem clear," said the bishop, who had winced visibly under the words servants and <pb
-n="136"/> stipend, which, however, appeared to have caused no uneasiness to the archdeacon.</p>
+<p>"That does seem clear," said the bishop, who had winced visibly under the words servants and <pb n="136"/> stipend, which, however, appeared to have caused no uneasiness to the archdeacon.</p>
 <p>"Quite clear," said he, "and very satisfactory. In point of fact, it being necessary to select
 such servants for the use of the hospital, the pay to be given to them must depend on the rate of
 pay for such services, according to their market value at the period in question; and those who
@@ -2022,8 +2017,7 @@ that he could with pleasure, if he were allowed, give up his place, abandon his 
 the hospital, and live poorly, happily, and with an unsullied name, on the small remainder of his
 means.</p>
 <p>He was a man somewhat shy of speaking of himself, even before those who knew him best, and whom
-he loved the most; but at last it burst forth from him, and with a somewhat jerking eloquence he <pb
-n="141"/> declared that he could not, would not, bear this misery any longer.</p>
+he loved the most; but at last it burst forth from him, and with a somewhat jerking eloquence he <pb n="141"/> declared that he could not, would not, bear this misery any longer.</p>
 <p>"If it can be proved," said he at last, "that I have a just and honest right to this, as God well
 knows I always deemed I had; if this salary or stipend be really my due, I am not less anxious than
 another to retain it. I have the well-being of my child to look to. I am too old to miss without
@@ -2557,8 +2551,7 @@ well."</p>
 <p>She did not absolutely kneel to him, but she followed him as he moved from his chair, and laid
 her soft hands imploringly upon his arm. Ah! at any other time how exquisitely valuable would have
 been that touch! but now he was distraught, dumbfounded, and unmanned. What could he say to that
-sweet suppliant; how explain to her that the matter now was probably beyond his control; how <pb
-n="178"/> tell her that he could not quell the storm which he had raised?</p>
+sweet suppliant; how explain to her that the matter now was probably beyond his control; how <pb n="178"/> tell her that he could not quell the storm which he had raised?</p>
 <p>"Surely, surely, John, you cannot refuse her," said his sister.</p>
 <p>"I would give her my soul," said he, "if it would serve her."</p>
 <p>"Oh, Mr. Bold," said Eleanor, "do not speak so; I ask nothing for myself; and what I ask for my
@@ -2571,8 +2564,7 @@ she now is, every nerve in my body suffers. No man can love better than I love h
 father from the evil you have brought upon him?"</p>
 <p>"Oh, Eleanor, I will do anything; let me tell you how I love you!"</p>
 <p>"No, no, no," she almost screamed; "this is unmanly of you, Mr. Bold. Will you, will you, will
-you leave my father to die in peace in his quiet home?" and seizing him by his arm and hand, she <pb
-n="179"/> followed him across the room towards the door. "I will not leave you till you promise me;
+you leave my father to die in peace in his quiet home?" and seizing him by his arm and hand, she <pb n="179"/> followed him across the room towards the door. "I will not leave you till you promise me;
 I'll cling to you in the street; I'll kneel to you before all the people. You shall promise me this,
 you shall promise me this, you shall—" And she clung to him with fixed tenacity, and reiterated her
 resolve with hysterical passion.</p>
@@ -2773,8 +2765,7 @@ go to the point at once—you're going to abandon this lawsuit?"—and he paused
 <p>"Having exposed a gentleman who was one of your father's warmest friends, to all the ignominy and
 insolence which the press could heap upon his name; having somewhat ostentatiously declared that it
 was your duty as a man of high public virtue to protect those poor old fools whom you have humbugged
-there at the hospital, you now find that the game costs more than it's worth, and so you make up <pb
-n="193"/> your mind to have done with it. A prudent resolution, Mr. Bold; but it is a pity you
+there at the hospital, you now find that the game costs more than it's worth, and so you make up <pb n="193"/> your mind to have done with it. A prudent resolution, Mr. Bold; but it is a pity you
 should have been so long coming to it. Has it struck you that we may not now choose to give over?
 that we may find it necessary to punish the injury you have done to us? Are you aware, sir, that we
 have gone to enormous expense to resist this iniquitous attempt of yours?"</p>
@@ -3065,8 +3056,7 @@ a monster to be pointed at by the finger!'</p>
 <p>Oh heavens! and this is Mount Olympus!</p>
 <p>It is a fact amazing to ordinary mortals that the Jupiter is never wrong. With what endless care,
 with what unsparing labour, do we not strive to get together for our great national council the men
-most fitting to compose it. And how we fail! Parliament is always wrong: look at the Jupiter, <pb
-n="214"/> and see how futile are their meetings, how vain their council, how needless all their
+most fitting to compose it. And how we fail! Parliament is always wrong: look at the Jupiter, <pb n="214"/> and see how futile are their meetings, how vain their council, how needless all their
 trouble! With what pride do we regard our chief ministers, the great servants of state, the
 oligarchs of the nation on whose wisdom we lean, to whom we look for guidance in our difficulties!
 But what are they to the writers of the Jupiter? They hold council together and with anxious thought
@@ -3311,8 +3301,7 @@ these kingdoms of Queen Victoria, and what the vouchsafed supply?'</p>
 <p>This was all very well; this gave us some hope. We might do better with our next poet, when we
 got one; and though the partridges might not be abandoned, something could perhaps be done as to the
 poachers. We were unwilling, however, to take lessons in politics from so misty a professor; and
-when he came to tell us that the heroes of Westminster were naught, we began to think that he <pb
-n="232"/> had written enough. His attack upon despatch boxes was not thought to have much in it; but
+when he came to tell us that the heroes of Westminster were naught, we began to think that he <pb n="232"/> had written enough. His attack upon despatch boxes was not thought to have much in it; but
 as it is short, the doctor shall again be allowed to speak his sentiments:—</p>
 <p>'Could utmost ingenuity in the management of red tape avail anything to men lying gasping—we may
 say, all but dead; could despatch boxes with never-so-much velvet lining and Chubb's patent, be of
@@ -4007,8 +3996,7 @@ better than a fool, but that he did not mind; he and the attorney-general had no
 between them; he knew also that others, whom he did care about, would think so too; but Eleanor, he
 was sure, would exult in what he had done, and the bishop, he trusted, would sympathise with
 him.</p>
-<p>In the meantime he had to meet the archdeacon, and so he walked slowly down Chancery Lane and <pb
-n="282"/> along Fleet Street, feeling sure that his work for the night was not yet over. When he
+<p>In the meantime he had to meet the archdeacon, and so he walked slowly down Chancery Lane and <pb n="282"/> along Fleet Street, feeling sure that his work for the night was not yet over. When he
 reached the hotel he rang the bell quietly, and with a palpitating heart; he almost longed to escape
 round the corner, and delay the coming storm by a further walk round St. Paul's Churchyard, but he
 heard the slow creaking shoes of the old waiter approaching, and he stood his ground manfully.</p>
@@ -4070,8 +4058,7 @@ conscience had driven him, after having purposely come to London to declare his 
 did not in the least doubt his resolution, but he greatly doubted his power of defending it against
 his son-in-law.</p>
 <p>"You must be very tired, Susan," said he: "would n't you like to go to bed?"</p>
-<p>But Susan didn't want to go till her husband went—she had an idea that her papa might be <pb
-n="287"/> bullied if she were away: she was n't tired at all, or at least she said so.</p>
+<p>But Susan didn't want to go till her husband went—she had an idea that her papa might be <pb n="287"/> bullied if she were away: she was n't tired at all, or at least she said so.</p>
 <p>The archdeacon was pacing the room, expressing, by certain noddles of his head, his opinion of
 the utter fatuity of his father-in-law.</p>
 <p>"Why," at last he said,—and angels might have blushed at the rebuke expressed in his tone and
@@ -4243,8 +4230,7 @@ anything that I may be called on to do."</p>
 act in opposition to the advice of such men as Sir Abraham Haphazard and the archdeacon; but in this
 matter I can take no advice, I cannot alter the resolution to which I have come."</p>
 <p>"But two days, papa—"</p>
-<p>"No,—nor can I delay it. You may add to my present unhappiness by pressing me, but you cannot <pb
-n="299"/> change my purpose; it will be a comfort to me if you will let the matter rest:" and,
+<p>"No,—nor can I delay it. You may add to my present unhappiness by pressing me, but you cannot <pb n="299"/> change my purpose; it will be a comfort to me if you will let the matter rest:" and,
 dipping his pen into the inkstand, he fixed his eyes intently on the paper.</p>
 <p>There was something in his manner which taught his daughter to perceive that he was in earnest;
 she had at one time ruled supreme in her father's house, but she knew that there were moments when,
@@ -4362,8 +4348,7 @@ his daughter would soon be freed from it, and she resolving that her father woul
 own house a ready means of escape from the solitude of the Crabtree vicarage.</p>
 <p>When the archdeacon left his wife and father-in-law at the Chapter Coffee House to go to Messrs.
 Cox and Cumming, he had no very defined idea of what he had to do when he got there. Gentlemen when
-at law, or in any way engaged in matters requiring legal assistance, are very apt to go to <pb
-n="306"/> their lawyers without much absolute necessity;— gentlemen when doing so, are apt to
+at law, or in any way engaged in matters requiring legal assistance, are very apt to go to <pb n="306"/> their lawyers without much absolute necessity;— gentlemen when doing so, are apt to
 describe such attendance as quite compulsory, and very disagreeable. The lawyers, on the other hand,
 do not at all see the necessity, though they quite agree as to the disagreeable nature of the
 visit;—gentlemen when so engaged are usually somewhat gravelled at finding nothing to say to their
@@ -4389,8 +4374,7 @@ and the end of all their hopes of triumph; nor need we repeat the various exclam
 with which the mournful intelligence was received. No tragedy occurred, though Mr. Cox, a short and
 somewhat bull-necked man, was very near a fit of apoplexy when he first attempted to ejaculate that
 fatal word—resign!</p>
-<p>Over and over again did Mr. Cox attempt to enforce on the archdeacon the propriety of urging <pb
-n="308"/> on Mr. Warden the madness of the deed he was about to do.</p>
+<p>Over and over again did Mr. Cox attempt to enforce on the archdeacon the propriety of urging <pb n="308"/> on Mr. Warden the madness of the deed he was about to do.</p>
 <p>"Eight hundred a-year!" said Mr. Cox.</p>
 <p>"And nothing whatever to do!" said Mr. Cumming, who had joined the conference.</p>
 <p>"No private fortune, I believe," said Mr. Cox.</p>
@@ -4405,8 +4389,7 @@ the fatuity of some people was past belief.</p>
 save it—let him exchange."</p>
 <p>"Exchange where?" said the archdeacon.</p>
 <p>"Exchange for a living. There's Quiverful, of Puddingdale; he has twelve children, and would be
-delighted to get the hospital. To be sure Puddingdale is only four hundred, but that would <pb
-n="309"/> be saving something out of the fire: Mr. Harding would have a curate, and still keep three
+delighted to get the hospital. To be sure Puddingdale is only four hundred, but that would <pb n="309"/> be saving something out of the fire: Mr. Harding would have a curate, and still keep three
 hundred or three hundred and fifty."</p>
 <p>The archdeacon opened his ears and listened; he really thought the scheme might do.</p>
 <p>"The newspapers," continued Mr. Cumming, "might hammer away at Quiverful every day for the next

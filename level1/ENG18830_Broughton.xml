@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18830">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18830">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Belinda: A Novel : ELTec edition</title>
-<author>Broughton, Rhoda (1840-1920).</author>
+<author ref="viaf:45106836">Broughton, Rhoda (1840-1920)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -597,8 +595,7 @@ the garden, beneath the fir-trees a pair of figures are seen soberly pacing.</p>
 break the strained silence; "is it possible that she has taken his arm? No; I thought it could not
 be! I wonder what progress she has made towards telling him that she does not mean to marry
 him."</p>
-<p>"Is that what she is telling him?" says Rivers, roused to interest by fellow-feeling, <pb n="49"
-/> and craning his neck to look; "unhappy old devil!"</p>
+<p>"Is that what she is telling him?" says Rivers, roused to interest by fellow-feeling, <pb n="49"/> and craning his neck to look; "unhappy old devil!"</p>
 <p>Belinda nods.</p>
 <p>"I think so; that is what she meant to tell him; and, if I do not mistake, his haggling over the
 luncheon gave him his <hi>coup de grâce</hi> ."</p>
@@ -1838,8 +1835,7 @@ writhing, shivering movement of her shoulders alone betrays what suffering her s
 irrepressible rummaging in her holy of holies is causing her.</p>
 <p>"We do not blame him," continues Sarah, with a candid air; "in fairness, I must say that we do
 not blame him. He is always trying to pour out his poor little tale like water out of a jug; and
-you, for reasons best known to yourself, are always corking it back again. Mark my words," <pb
-n="151"/> emphasizing the sentence with three pats on Slutty's chest—Slutty lying, as usual,
+you, for reasons best known to yourself, are always corking it back again. Mark my words," <pb n="151"/> emphasizing the sentence with three pats on Slutty's chest—Slutty lying, as usual,
 reversed and Cleopatra-like upon her lap— "you will do it once too often!"</p>
 <p>"What shall I do once too often?" cries poor Belinda in an agonised voice, wheeling suddenly
 round at bay. "What <hi>do</hi> I do? If you could only explain that to me! I believe," beginning to
@@ -2311,8 +2307,7 @@ the night,</l><l>   Brief even as bright."</l></quote>
 <p><hi>Had</hi> Miss Watson's eye been glued to her spy-glass, as for six or eight out of the
 twenty-four hours it invariably is, and as, strange to say, it is not about four o'clock in the
 ensuing afternoon, she would have seen Belinda Churchill setting off for a walk alone. Humanly
-speaking, not thirty seconds would have elapsed before that lady would have been across the <pb
-n="193"/> street and down it to ask why alone? why not with her sister? and why not with the dogs?
+speaking, not thirty seconds would have elapsed before that lady would have been across the <pb n="193"/> street and down it to ask why alone? why not with her sister? and why not with the dogs?
 The dogs ask the same question. A Dresden walk indeed, with their poor little snouts embedded in
 muzzles, is not by any means the same thing as an English one—free to dogs and men as English air;
 but such as it is, it is better than nothing. With a muzzle one can still scamper, and even give
@@ -2345,8 +2340,7 @@ can to any such of God's poor creatures as ask her?</p>
 tamely away to his cushion, returns to her with a sort of remorse. She is glad when she has passed
 through the town and reached the Grosse Garten; glad to see the long, broad, green drives quietly
 stretching away; glad to have left the city noises behind her. And yet even they have sounded
-melodiously to her to-day. There is perhaps only one sound in the whole world that would not now <pb
-n="196"/> echo agreeably on her ear—viz., Miss Watson's voice; and even toward Miss Watson how faint
+melodiously to her to-day. There is perhaps only one sound in the whole world that would not now <pb n="196"/> echo agreeably on her ear—viz., Miss Watson's voice; and even toward Miss Watson how faint
 and lessening is her ill-will. It is true that she continued to bestow her company upon them
 yesterday for the remainder of the afternoon; it is true that by her tyrannic overruling they were
 sent home in different vehicles; but could even she prevent their one moment snatched at parting,
@@ -2578,8 +2572,7 @@ sentence, which, though short, is not conspicuously tremulous.</p>
 trying to divert from her the brunt of Miss Watson's eyes and speech. "Probably he had bad
 news!"</p>
 <p>"I should not wonder," answers Miss Watson, looking down on the floor for a moment in inquisitive
-reflection. "I should not at all wonder. He looked like a man who had had bad news. In point <pb
-n="216"/> of fact, he looked shockingly ill. I never saw a man so changed in so short a time. I am
+reflection. "I should not at all wonder. He looked like a man who had had bad news. In point <pb n="216"/> of fact, he looked shockingly ill. I never saw a man so changed in so short a time. I am
 so annoyed with myself," in a tone of the sincerest vexation, "for not having asked him
 point-blank!"</p>
 <p>"I should have thought that you might have spared yourself that reproach," says Sarah; adding, as
@@ -2802,8 +2795,7 @@ hastily back to their first love, who sees them go and return with the same joyo
 speeches—any speeches intelligently, when one is continually doing a sum in one's head—36 and 5, 4I;
 I day from 4 days; 1 day from 3 days, etc.?</p>
 <p>The packing is not of so wholly occupying a nature as to exclude incidental amusements. It does
-not even forbid a farewell excursion to Tharandt; an excursion planned by Sarah and her rout of <pb
-n="236"/> Uhlans; with some necessary padding of a lenient chaperon, and compliant girls.</p>
+not even forbid a farewell excursion to Tharandt; an excursion planned by Sarah and her rout of <pb n="236"/> Uhlans; with some necessary padding of a lenient chaperon, and compliant girls.</p>
 <p>Belinda has believed herself equal to sharing it. Tharandt is rendered agonizing by no
 associations. She has never visited Tharandt in his company, but, at the last moment, a trifle robs
 her of her fortitude— the sight of her cobwebby Wesenstein gown, extended with unconscious tactless
@@ -2898,8 +2890,7 @@ can remember her!"</p>
 <p>"When first I made her acquaintance," he goes on, not heeding the interruption, "I of course
 became at once aware of her ignorance— <hi>that</hi> is patent; but she appeared to me to be not
 lacking in intellectual force, nor in a rather remarkable desire for self-improvement. On the very
-first evening I met her, she deplored to me the deficiency of her education, and asked me <pb
-n="244"/> in so many words to aid her in the formation of her mind."</p>
+first evening I met her, she deplored to me the deficiency of her education, and asked me <pb n="244"/> in so many words to aid her in the formation of her mind."</p>
 <p>Belinda drops the pen. It is not a nearly large enough shield to hide the convulsive mirth that
 this revelation of her sister's hideous hypocrisy has called forth.</p>
 <p>"I still cherish the hope," continues he, fortunately unaware of the character of his auditor's
@@ -3181,8 +3172,7 @@ sound that they are ever strained to catch. Not once has Rivers written. Not onc
 person to explain his silence. He is gone— simply gone out of her life. That is all!</p>
 <p>He was free, of course, to come or to go; as she tells herself, she cannot quarrel with him for
 that. The why she is at issue with him is that he has taken the taste out of her life with him. For
-her he has taken the colour out of the sunsets, and the music out of the larks. She looks <pb
-n="271"/> at the beauty of our mother earth with a grudging, sullen eye. The summers with the
+her he has taken the colour out of the sunsets, and the music out of the larks. She looks <pb n="271"/> at the beauty of our mother earth with a grudging, sullen eye. The summers with the
 glories of their roses, the autumns with the glories of their sheaves, are to her absolutely waste
 and worthless.</p>
 <p>"Even if he came back to me," she says to herself; "even if I lived to be ninety, and saw him
@@ -3242,8 +3232,7 @@ dressing-time, to sit down again and be amused.</p>
 chill; while the cheerful flames, upspringing, play upon the uncheerful beauty of her face, and lend
 a little of their own dancing to the "Eyes too expressive to be blue, Too lovely to be gray," that
 have no dancing of their own in them.</p>
-<p>"You are the worst person in the world to send out," says Mrs. Churchill, disappointed <pb
-n="276"/> and cross; "for all the news you bring back, you might as well stay at home."</p>
+<p>"You are the worst person in the world to send out," says Mrs. Churchill, disappointed <pb n="276"/> and cross; "for all the news you bring back, you might as well stay at home."</p>
 <p>A couple of years ago, Belinda would have pleasantly acquiesced in her own lack of observation;
 would have cheerfully tried to remedy it. Now she only answers, with a sullen look:</p>
 <p>"What is there to tell? What is there ever to tell about a drum? There was a mob of women, and a
@@ -3358,8 +3347,7 @@ and Slutty? Come here this instant."</p>
 <p>But Jane, though giving a slavish leer and a sycophantic wag of her disfigured tail, makes no
 movement towards exchanging her warm couch on the deep rug for the uncomfortable glories of the
 palette and the brush.</p>
-<p>"It may not be a bad little groove for those who like it," rejoins Belinda discontentedly; <pb
-n="285"/> "but it is pleasant to get a glimpse beyond it now and then. I do not know when I have
+<p>"It may not be a bad little groove for those who like it," rejoins Belinda discontentedly; <pb n="285"/> "but it is pleasant to get a glimpse beyond it now and then. I do not know when I have
 been so little bored as I have been this afternoon."</p>
 <pb/>
 </div>
@@ -3687,8 +3675,7 @@ really.</p>
 laugh; "I know that he can treat himself to stalls at the theatre, which is more than I can. I
 always go to the dress circle; one's legs are a little cramped in the front row, but one can see as
 well as in the best place in the house."</p>
-<p>Belinda has stooped over the table, and is nervously arranging, rearranging, disarranging <pb
-n="15"/> the exercise-books, grammars, pen-wipers upon it.</p>
+<p>Belinda has stooped over the table, and is nervously arranging, rearranging, disarranging <pb n="15"/> the exercise-books, grammars, pen-wipers upon it.</p>
 <p>"Did you see him at the play?" she asks hurriedly.</p>
 <p>"I saw him the other night at the St. James's," returns Miss Watson, inquisitively following with
 her eyes Belinda's unaccountable fidgetings. "What are you looking for? have you lost anything?
@@ -3912,8 +3899,7 @@ stipulate that you will allow her to visit me. You do not bear malice to her," s
 "for—for what happened formerly?"</p>
 <p>"I am not likely to bear malice," he answers with an arid smile, "for a course of action for
 which I at least, as it turns out, have so much reason to be thankful."</p>
-<p>"That is right," she answers carelessly, passing by his stiff <hi>politesse</hi> ; "then I <pb
-n="34"/> think that is all. I think there is nothing more to say, is there?"</p>
+<p>"That is right," she answers carelessly, passing by his stiff <hi>politesse</hi> ; "then I <pb n="34"/> think that is all. I think there is nothing more to say, is there?"</p>
 <p>She speaks with the same unemotional business air as if she were concluding the purchase of a
 piece of land, or of some yards of cloth. The room is, at the moment, empty of anyone but
 themselves. It is near closing-time, and the sparse visitors are trailing off. There is nothing to
@@ -4479,8 +4465,7 @@ Berkeley Square by the railings. Five or six times I was as nearly as possible r
 <p>"I never remember such a Christmas Day; do <hi>you</hi> ever remember such a Christmas Day? I
 have just been asking granny whether, in all her long experience, <hi>she</hi> ever remembers such a
 Christmas Day."</p>
-<p>"If you have been appealing to granny's long experience," rejoins Sarah sarcastically, <pb n="82"
-/> "no wonder you did not find her very bright; there is nothing in the world that she hates so
+<p>"If you have been appealing to granny's long experience," rejoins Sarah sarcastically, <pb n="82"/> "no wonder you did not find her very bright; there is nothing in the world that she hates so
 much."</p>
 <p>"I told her how ill I thought her looking," goes on the visitor comfortably, rubbing her knees,
 advanced in close proximity to the fire. "She tells me that it is the climate; that it is killing
@@ -4491,8 +4476,7 @@ tiresome hitch—something in the way; what is it—eh?"</p>
 and look towards her sister; "that is it."</p>
 <p>But a curiosity so robust as Miss Watson's is not to be blunted by a jest. That great Toledo
 blade is not to be turned aside by a light rapier.</p>
-<p>"No question of £ <hi>s. d</hi> ., eh?" says she persistently; "the Riviera grows dearer <pb
-n="83"/> every year! No? Anything about either of you, then?" trying to get a better idea of Belinda
+<p>"No question of £ <hi>s. d</hi> ., eh?" says she persistently; "the Riviera grows dearer <pb n="83"/> every year! No? Anything about either of you, then?" trying to get a better idea of Belinda
 than the rather drooped nape of her white neck and one homespun shoulder afford; "any little—little
 <hi>entanglement</hi> , eh?"</p>
 <p>"You have hit it!" cries Sarah jeeringly; "it is useless to try and conceal anything from you: we
@@ -4554,8 +4538,7 @@ as to omit tacking on some abusive adjective to the name of her future brother-i
 has occasion to mention him. Nor is it until she has exhausted every possible expletive that, as far
 as she knows, the English language contains, and applied them not only to him, but to his mother,
 that she desists at all. She relieves her feelings by putting all the dogs into mourning, tying a
-piece of black crape round each of their tails; a proceeding which fills Punch with fury, Slutty <pb
-n="89"/> with <hi>mauvaise honte</hi> , and Jane with pride. Jane has that love for finery which is
+piece of black crape round each of their tails; a proceeding which fills Punch with fury, Slutty <pb n="89"/> with <hi>mauvaise honte</hi> , and Jane with pride. Jane has that love for finery which is
 implanted in many plain persons.</p>
 <p>With a face set like a flint, Belinda marches to her doom. And neither dogs nor men can retard
 the approach of the date of that doom. There are no preparations to delay it. She has steadfastly
@@ -4589,8 +4572,7 @@ all the world is much more difficult of rupture than one to which only the three
 most nearly concerned are privy.</p>
 <p>"Belinda is so odd and crotchety," she says one afternoon, as she and Sarah are driving home
 through the Park together; "why, if she is in earnest, should she object to people being told? Do
-you think there would be any harm in my just giving a hint of it to the Crawfords, and Dalzells, <pb
-n="92"/> and Lady Hunt, and—and just our own intimates? They will be so hurt at being left out in
+you think there would be any harm in my just giving a hint of it to the Crawfords, and Dalzells, <pb n="92"/> and Lady Hunt, and—and just our own intimates? They will be so hurt at being left out in
 the cold; and I am sure that they would give her something handsome. Even if she does not care for
 personal ornaments, they might give her plate; I do not suppose," with an amused smile, "that there
 is likely to be much plate in the Forth family!"</p>
@@ -4672,8 +4654,7 @@ clergyman and two elderly men; for the bridegroom has brought with him a friend 
 calling, whom he has summoned from Oxbridge to support him. The Churchill cousin has never before
 seen the bridegroom, nor has the bridegroom's friend ever before seen the bride. The opposing
 parties now stare at each other in unaffected astonishment. All through the service, the young
-Churchill, who had once himself thrown out feelers in the direction of Belinda, and had them <pb
-n="99"/> civilly and firmly at once returned to him, is setting himself angrily in imagination by
+Churchill, who had once himself thrown out feelers in the direction of Belinda, and had them <pb n="99"/> civilly and firmly at once returned to him, is setting himself angrily in imagination by
 the side of the bridegroom, and wondering what the devil Belinda can have seen in this ugly old
 curmudgeon to prefer to himself.</p>
 <p>All through the service, the bridegroom's supporter is staring in gaping wonder at the beautiful
@@ -4948,8 +4929,7 @@ dismalness of the long day. They remove the terrible feeling of isolation from a
 hour by hour has been gaining ground upon her. There is a pile for the Professor; and for her a
 large fat envelope, bulging with enclosures, and directed in Sarah's hand. She draws her chair more
 closely to the hearth, and folds her soft furs warmlier about her. She will enjoy her letters at
-luxurious leisure. She unfastens the cover, and the enclosures fall out, six in number; <pb n="124"
-/> a note from Sarah herself, four letters addressed in well-known and on this occasion
+luxurious leisure. She unfastens the cover, and the enclosures fall out, six in number; <pb n="124"/> a note from Sarah herself, four letters addressed in well-known and on this occasion
 warmly-welcomed female hand-writings, and one in an unknown male hand. <hi>Is it unknown</hi> ?</p>
 <pb/>
 </div>
@@ -5018,8 +4998,7 @@ There was nothing for it but to give up whatever hopes one had of one's own! God
 or not that was a wrench. We took a little house in a dirty back street in Milnthorpe—I am writing
 in it now; but to-day it looks to me like a palace. I was fortunate enough to obtain a clerkship in
 a house, one of the partners in which had been an early friend of my father's; a clerkship which, as
-I was always very bad at quill-driving, and the confinement, to which I had not been used, <pb
-n="131"/> knocked me up, I soon exchanged for a place in the works. We got on as well as we could:
+I was always very bad at quill-driving, and the confinement, to which I had not been used, <pb n="131"/> knocked me up, I soon exchanged for a place in the works. We got on as well as we could:
 mother has infinite pluck, and the young ones did their best. Sometimes I thought of writing to you.
 If you had ever answered a note I scrawled to you just before I left Dresden, I think I should have
 done so; but you did not: of course you were right. For eighteen months I worked without a holiday.
@@ -5621,8 +5600,7 @@ the metals at the precise moment when an express train is due. The struggle betw
 a parent and as a pointsman is so mercilessly protracted, that the audience, unable to bear the
 prolonged strain upon their feelings, are relieving themselves by a good deal of <hi>sotto voce</hi>
 , or not quite <hi>sotto voce</hi> conversation. But the Prince sits immovably polite, not
-permitting himself even one aside to his <hi>sémillante</hi> hostess, who, all loyal smiles, is <pb
-n="185"/> posed in glory on a chair in the front rank beside him.</p>
+permitting himself even one aside to his <hi>sémillante</hi> hostess, who, all loyal smiles, is <pb n="185"/> posed in glory on a chair in the front rank beside him.</p>
 <p>Large as is the assemblage, so nobly proportioned is the great room, that there is no crowd.
 Every woman has put on her best gown; and every woman has the satisfaction of thinking that every
 other woman has seen, is seeing, or will fully see it; not, indeed, to do them justice, that this is
@@ -5704,8 +5682,7 @@ even fragments of her resonant speech: "Your equerry, sir!" "Newhaven!" "Sea-sic
 <p>"I should like to sit down," says Belinda, in a spent voice.</p>
 <p>This is easier said than done. By slow degrees, however, they succeed in edging out of the crowd;
 and are lucky enough to find an unoccupied sofa, upon which Belinda seats herself; and whither,
-presently, various of her acquaintance come and exchange remarks with her upon the success <pb
-n="192"/> of the entertainment, the excellence of the supper, the affability of the Prince, etc.</p>
+presently, various of her acquaintance come and exchange remarks with her upon the success <pb n="192"/> of the entertainment, the excellence of the supper, the affability of the Prince, etc.</p>
 <p>In one of the intervals between two of these fragments of conversation she perceives that her
 charge has left her side; but it requires no very distant excursion of the eye to discover her
 standing at the supper-table, an ice in her hand, having, by the agency of one of her just-made
@@ -6383,8 +6360,7 @@ coarse toil. There is nothing particularly affecting in a work-roughened palm: i
 which are subjected the hands of ninety-nine out of every hundred of the human race; and yet, as she
 looks at it, she has much ado to prevent the tears from springing to her eyes.</p>
 <p>"You know," he says, "I told you that I could not stand the confinement of an office life!"</p>
-<p>" <hi>We know</hi> ?" cries Sarah, pricking up her ears. " <hi>You told us</hi> ? What do you <pb
-n="249"/> mean? When have you ever had the chance of telling us?"</p>
+<p>" <hi>We know</hi> ?" cries Sarah, pricking up her ears. " <hi>You told us</hi> ? What do you <pb n="249"/> mean? When have you ever had the chance of telling us?"</p>
 <p>He stops—staggered and white. He had forgotten the presence of an auditor. Nor is Belinda in a
 plight to help him.</p>
 <p>"I mean," he says floundering, "that I—I intended to tell you; and so," hurriedly resuming his
@@ -6434,8 +6410,7 @@ not she look as if she were going to ask them to what she owes the pleasure of t
 not fly to the rescue, even now they will turn tail and run!"</p>
 <p>But Sarah for once is mistaken. They have no desire to turn tail and run. It is doubtful, indeed,
 whether, on their home-ward way, and over their evening cigars, their limited and artless vocabulary
-of encomium is more strained to find epithets of approval for Miss Churchill than for her <pb
-n="253"/> austerer sister. But indeed, to-day, Belinda is not austere.</p>
+of encomium is more strained to find epithets of approval for Miss Churchill than for her <pb n="253"/> austerer sister. But indeed, to-day, Belinda is not austere.</p>
 <p>"Why should she snub them?" she asks herself sadly; "has not she had enough of snubbing people
 for all her lifetime?"</p>
 <p>And so she is kind to them—too kind, Rivers begins presently to think with a jealous pang, as he
@@ -6494,8 +6469,7 @@ retrieving the tennis balls, and being warmly slapped by the heated players for 
 <p>"Well," says Belinda, with nervous asperity in her tone, "is there nothing more? Go on."</p>
 <p>"Others have invented machines of the same kind," he continues spiritlessly, for her jest has
 taken the heart out of his narration, "but they have turned out either complete failures, or only
-very partial successes; if mine has better luck, our firm holds out hopes of taking out a <pb
-n="258"/> patent, and giving me a small share of the business."</p>
+very partial successes; if mine has better luck, our firm holds out hopes of taking out a <pb n="258"/> patent, and giving me a small share of the business."</p>
 <p>"Did not I tell you so?" cries she, laughing rather stridently; "why, my prophecy is already
 half-way towards fulfilment."</p>
 <p>Again his face burns, but he deigns her no answer. If she can stoop to so unworthy a merriment,
@@ -6505,8 +6479,7 @@ have a kind of turn for mechanics. It was news to me that I had a turn for anyth
 money. If—if things had gone smoothly, I might have lain down in my grave without finding out where
 the bent of my genius lay: and that would have been a thousand pities, would not it?"</p>
 <p>He ends with a laugh. Her mirth, which had offended him, has long died; nor has she any answer
-ready to his question. Her long arms (even arms can look sad) lie listless on her lap, and her <pb
-n="259"/> great veiled eyes see visions. Vanished from before them are the little square garden and
+ready to his question. Her long arms (even arms can look sad) lie listless on her lap, and her <pb n="259"/> great veiled eyes see visions. Vanished from before them are the little square garden and
 the tennis-players. They see only his future life-path stretching before her; his life growing ever
 fuller, fuller, fuller of busy, prospering, eager work, with ever less and less room in it for the
 gap left by her. By-and-by that gap will close altogether. The sooner the better for him!</p>
@@ -6759,8 +6732,7 @@ narrative, "that some Poles had the apartment above ours at the hotel, their sal
 bedroom, and every night, at about ten o'clock, they began to dance sarabands, and cancans, and
 Highland schottisches, and the Lord knows what in it! You know how fond granny is of having her old
 head danced over when she is courting her beauty sleep."</p>
-<p>She pauses to see whether her hearer is listening; it is obvious that she is not, as <pb n="280"
-/> for a moment or two she makes no comment, and then, becoming aware of the silence, breaks into a
+<p>She pauses to see whether her hearer is listening; it is obvious that she is not, as <pb n="280"/> for a moment or two she makes no comment, and then, becoming aware of the silence, breaks into a
 factitious laugh. "Ha! ha!"</p>
 <p>"What are you laughing at?" asks Sarah sharply.</p>
 <p>"I had not come to the point yet."</p>
@@ -6830,8 +6802,7 @@ does the company say to Post, eh?"</p>
 with one-voiced effusion; and it is on the point of being carried into execution, when Miss
 Churchill suggests an improvement upon it.</p>
 <p>"Why not dance? dancing is better than any games! Surely some one can play, or even whistle a
-tune, or set the musical-box tinkling out its one waltz. Room? Plenty of room! too much room! <pb
-n="286"/> Wheel all the furniture out into the passage!"</p>
+tune, or set the musical-box tinkling out its one waltz. Room? Plenty of room! too much room! <pb n="286"/> Wheel all the furniture out into the passage!"</p>
 <p>No sooner said than done. Away trundles the early English suite of rush-bottomed chairs; away the
 Professor's sacred <hi>fauteuil</hi> ! away Belinda's work-table! everything but the piano and the
 music-stool, to which little De Lisle, having weakly admitted that he can play a little dance music,
@@ -6925,8 +6896,7 @@ instantaneous and entire muteness that has fallen upon the so boisterous little 
 in horror upon her stunned eyes.</p>
 <p>The door is half open, and through it Professor Forth is looking, with an expression hard to
 qualify upon his face, at the entertainment got up with such spirit and success in his absence. Not
-for long, however. In a moment he has softly closed the door again and withdrawn. For several <pb
-n="294"/> moments they stand staring at each other speechless and aghast.</p>
+for long, however. In a moment he has softly closed the door again and withdrawn. For several <pb n="294"/> moments they stand staring at each other speechless and aghast.</p>
 <p>Belinda's look wanders in consternation from one to other of the faces round her. Disordered
 hair, red-hot cheeks, panting breath, rampagious eyes! Bedlam might easily turn out a saner-looking
 party. In comparison of them Cornus' crew were an orderly Philistine band.</p>
@@ -7107,8 +7077,7 @@ seats herself at the writing-table, and Sarah walks to the window.</p>
 <p>"I can see them all at the corner of the road," she says, chuckling; "they dare not come any
 farther than the corner, and even there I can see that they are in a cold sweat of
 apprehension."</p>
-<p>Belinda writes on: that most <hi>unkillable</hi> of plants—hope—sending up a little fresh <pb
-n="13"/> shoot in her heart; after all, fate may be kind. It may have sent Mrs. Baker a previous
+<p>Belinda writes on: that most <hi>unkillable</hi> of plants—hope—sending up a little fresh <pb n="13"/> shoot in her heart; after all, fate may be kind. It may have sent Mrs. Baker a previous
 engagement, a headache—what not? But fate disdains to be dictated to. If it is kind to us, it is out
 of its own free will, and not at our bidding.</p>
 <p>"She will be delighted," says Sarah, returning in an impossibly short space of time; Sarah, who,
@@ -7176,8 +7145,7 @@ sometimes even in the room; and of information such as that her father has been 
 he were alive he would be one hundred and sixty years old!), and that it is wonderful how he keeps
 his memory.</p>
 <p>Belinda seats herself beside her.</p>
-<p>After all, it requires no great call upon the intellect to repeat at intervals in a slow, <pb
-n="19"/> loud voice (for, with the other faculties, hearing too is gone):</p>
+<p>After all, it requires no great call upon the intellect to repeat at intervals in a slow, <pb n="19"/> loud voice (for, with the other faculties, hearing too is gone):</p>
 <p>"I am Belinda! Belinda Forth—James's wife; your son James's wife!" varied occasionally by such
 answers as these, called forth by appropriate inquires, "He is dead!" "He died twenty-five years
 ago!" "Woking Cemetery!"</p>
@@ -7792,8 +7760,7 @@ whose incarceration lies in the hands of arbitrary death? If this be to go to th
 not only going there, but has long ago gone.</p>
 <p>She laughs sarcastically, and her feverish limbs carry her up and down the room. If Sarah had
 given her time, this is how she would have answered her—thus and thus. For a while she walks to and
-fro, muttering under her breath, framing withering sentences of self-exculpation, that must <pb
-n="74"/> carry conviction to any mind. But that mood, too, passes. As her wrath—spent and
+fro, muttering under her breath, framing withering sentences of self-exculpation, that must <pb n="74"/> carry conviction to any mind. But that mood, too, passes. As her wrath—spent and
 exhausted—subsides, another voice, lower yet more penetrating, takes its place. <hi>Going to the
 devil</hi> ! Is going to the devil to have a husband whose pursuits you abhor, whose infirmities you
 secretly deride, at whose accidental touch you shiver? Is going to the devil to be speeding with
@@ -7893,8 +7860,7 @@ under which you labour is an unnecessary one."</p>
 half-heartedly struggling to make to him, frozen back by his gibe.</p>
 <p>"You have evidently a most flattering confidence in me," she says, adopting his tone. "I do not
 quite know what I have done to deserve it."</p>
-<p>As a reply, the Professor turns thoughtfully back to his folios, weighing the dispensability <pb
-n="82"/> or indispensability as a travelling companion of each, with an air of having dismissed the
+<p>As a reply, the Professor turns thoughtfully back to his folios, weighing the dispensability <pb n="82"/> or indispensability as a travelling companion of each, with an air of having dismissed the
 subject, and of resolutely waiving further consideration of so senseless a matter.</p>
 <p>His wife stands dubiously watching him.</p>
 <p>"I do not know why we are sneering at each other," she says at last, in a disturbed voice. "I had
@@ -8216,8 +8182,7 @@ do not think I thought about it."</p>
 <p>Wide of the mark, as we usually are in our judgments of those who have either too much or too
 little interest for us, she attributes his verbal unreadiness to a cause far removed enough from the
 real one.</p>
-<p>"Sarah offered to stay with me," she says in an ungenial voice, sitting very upright, <pb n="111"
-/> and looking rigidly before her; "but I could not be so selfish as to accept such a sacrifice from
+<p>"Sarah offered to stay with me," she says in an ungenial voice, sitting very upright, <pb n="111"/> and looking rigidly before her; "but I could not be so selfish as to accept such a sacrifice from
 her. I could not condemn anyone to a life of such unredeemed dulness as mine now is."</p>
 <p>There is an acrimony in her tone that he knows not how to account for; but he does not interrupt
 her. As long as she will speak, he is ever most gladly silent. Why should the air be disturbed by
@@ -8250,8 +8215,7 @@ minds either them or anyone else hearing. What a comfort it is to have nothing t
 whole world!</p>
 <p>As the hours slip by, this happy and confident complacency deepens. But how fast they slip away!
 She cannot affect to be ignorant of their passage, since from the Cardinal's high tower, rising
-above the trees, the deep-mouthed bells tell the death of each little quarter. How closely <pb
-n="114"/> they tread upon each other's heels! How many of them have broken the Sabbath stillness of
+above the trees, the deep-mouthed bells tell the death of each little quarter. How closely <pb n="114"/> they tread upon each other's heels! How many of them have broken the Sabbath stillness of
 the mead? She ventures not to ask nor think. But why does she not venture? It is the same as upon
 other Sundays, for she always stays late. It is with a start that at length—seven solemn strokes
 having beaten the air—she rises to be gone.</p>
@@ -8369,8 +8333,7 @@ reservation as to her answer applying only to the second clause of her companion
 <p>"H'm!" says Miss Watson, biting her nails; "that in itself looks odd."</p>
 <p>Since this last remark is not a question, and since she is by no means assured of having even a
 tolerable mastery over her voice, Mrs. Forth allows it to go by uncommented upon.</p>
-<p>"What <hi>can</hi> he be doing up here?" continues the other, still biting her nails, and <pb
-n="125"/> in a tone of the most poignant inquisitiveness. "The very deadest time of the long
+<p>"What <hi>can</hi> he be doing up here?" continues the other, still biting her nails, and <pb n="125"/> in a tone of the most poignant inquisitiveness. "The very deadest time of the long
 vacation; not a soul to be seen about! Why, you might drive a coach-and-four along the side walk
 from St. Ursula's to King's! I shall never rest till I have got to the bottom of it!"</p>
 <p>Her guest's eyes are riveted upon Mrs. Forth with such an unwinking energy of stare, that she
@@ -8402,8 +8365,7 @@ of (if imagination could grasp the idea of such a hideous multiplication) a hund
 Watsons?</p>
 <p>The two hours are gone. It is a quarter to four; the time at which she usually begins to put on
 hat and gloves, and saunter, deliberately blissful, towards St. Bridget's. It is clear that it is
-not the hour at which she will begin to saunter thither to-day. Nothing looks less like <pb n="128"
-/> departure, more like a prolonged stay, than Miss Watson's bonnetless attitude, plunged recumbent
+not the hour at which she will begin to saunter thither to-day. Nothing looks less like <pb n="128"/> departure, more like a prolonged stay, than Miss Watson's bonnetless attitude, plunged recumbent
 in the Professor's chair.</p>
 <p>"I have been having a look round," she says cheerfully; "I like to get the bearings of a house.
 There was one door locked; the Professor's sanctum, eh?"</p>
@@ -8560,8 +8522,7 @@ believe it?— and yet I am speaking truth—once I had you in my arms, and <hi>
 there before I let you go!"</p>
 <p>The storm of his passion has carried her away.</p>
 <p>"Would to God you had!" she says, frenziedly; and so unresisting—nay, passionately complying—she
-gives him that two years and a half ago foregone kiss. One kiss! That is all. One drunk, <pb n="141"
-/> oblivious moment, and then the awaking! She, but now so consentingly embraced, has wrenched
+gives him that two years and a half ago foregone kiss. One kiss! That is all. One drunk, <pb n="141"/> oblivious moment, and then the awaking! She, but now so consentingly embraced, has wrenched
 herself out of his arms.</p>
 <p>"What—has—happened—to—us?" she says, staggering away from him.</p>
 <p>But he awakens slowlier than she.</p>
@@ -8573,8 +8534,7 @@ handling it, "that—it—has been—coming to this—all along—only— I did 
 one would believe me—but I did not see it; did you?"</p>
 <p>He makes no answer.</p>
 <p>He is still lapped in the Elysium of that long-promised and at last fulfilled embrace.</p>
-<p>"Is it possible," she says, looking piercingly at him, and with a sombre reproach in <pb n="142"
-/> her voice, "that you saw all along—you knew—you thought—"</p>
+<p>"Is it possible," she says, looking piercingly at him, and with a sombre reproach in <pb n="142"/> her voice, "that you saw all along—you knew—you thought—"</p>
 <p>"I thought nothing!" he cries, brought back to his senses by the sternness of her tone. "Oh, my
 dear, do you think so ill of me as to suppose that I was willingly leading you on? I tell you, I
 thought nothing! I only knew, that for two hours in every fortnight you allowed me to live! you let
@@ -8586,8 +8546,7 @@ living upon our Sundays." Then after a pause, with a sort of groan, "Oh, I thoug
 been trusted!"</p>
 <p>He has not sat down again, but stands before her in guilty, miserable humility, waiting for his
 doom.</p>
-<p>"I am not very sorry for you," she says, after a while, lifting her dull eyes to his <pb n="143"
-/> face. "You are mistaken if you think that I pity you very much. You have your work—often before
+<p>"I am not very sorry for you," she says, after a while, lifting her dull eyes to his <pb n="143"/> face. "You are mistaken if you think that I pity you very much. You have your work—often before
 now have I been jealous of it, and of the hold it is gaining over you! This is the best thing that
 could have happened to you—a sort of thing that your mother would rejoice at— the best test after
 all. No more distractions! No more senseless outlay in railway journeys! it is almost as good as
@@ -8854,8 +8813,7 @@ not his wits about him. But no. There is no tremulousness. Strong and decided is
 stroke. The man who penned that note was obviously in fullest possession of his intellect and
 mastery over his nerves. She is still poring over the few matter-of-fact words, vainly trying to
 wrench them into a sense that they cannot bear, when a high, light laugh, which cannot be ascribed
-to anyone but Miss Churchill, heard on the landing outside, makes her, in guilty haste, <pb n="170"
-/> thrust the document into her pocket. It is only just in time; for there is always a sort of
+to anyone but Miss Churchill, heard on the landing outside, makes her, in guilty haste, <pb n="170"/> thrust the document into her pocket. It is only just in time; for there is always a sort of
 whirlwind suddenness about Sarah's entries.</p>
 <p>"Well!" cries she, in high excitement, "have you kept a good look-out, as I told you? Has he
 discovered that I am here? Where is he? what has he been doing?"</p>
@@ -9343,8 +9301,7 @@ coming?"</p>
 have grim Coniston Old Man's younger brothers thrust themselves before him.</p>
 <p>From the bridge come sounds of rapturous manly merriment, which tell how far ahead of the banjo
 and its owner Sarah's tongue is triumphantly carrying her.</p>
-<p>Rivers has raised himself into a sitting posture, and in his hand he is bruising and <pb n="212"
-/> crushing a bit of the dwarf bracken that grows beside them.</p>
+<p>Rivers has raised himself into a sitting posture, and in his hand he is bruising and <pb n="212"/> crushing a bit of the dwarf bracken that grows beside them.</p>
 <p>"You—you would give me another chance, then?" he says indistinctly; "you —you would let me try
 again?"</p>
 <p>Is there any slightest doubt as to what her answer should be; and yet she hesitates.</p>
@@ -9974,8 +9931,7 @@ repulses all their efforts with a surly brevity. They shall not have to say afte
 them talk to her.</p>
 <p>And now the day— <hi>one</hi> day—is ended, and it is night. Oh, these nights! Dreadful are
 they—dream-haunted, nightmareridden! and yet neither dream nor nightmare are comparable for horror
-to their waking moments. And through them all, the waterfall pours, pours, in its maddening <pb
-n="266"/> monotony. Sometimes she feels as if she <hi>must</hi> tell some one; <hi>must</hi> rush
+to their waking moments. And through them all, the waterfall pours, pours, in its maddening <pb n="266"/> monotony. Sometimes she feels as if she <hi>must</hi> tell some one; <hi>must</hi> rush
 out to some of the sleeping strangers and tell them! Perhaps it would not sound so bad if it were
 told! After all, such things happen every day. Her loss will be no loss to her husband; an economy
 rather!</p>
@@ -10029,8 +9985,7 @@ himself. From beneath a lead-heavy pile of rain-clouds he is thrusting his head;
 tempered to a weird, moony splendour. About the hills' necks are thrown cobwebby kerchiefs of
 vapour; and to all these he lends a nameless plae opulence. In the sky he builds up an aërial city,
 augustly fair as that one seen in trance at Patmos; and on the waters his sovran feet have trodden a
-straight path of quivering diamond. Across this royal path a little boat has the presumption <pb
-n="271"/> to take its course; and at once is harmonized into a solemn unity with the transfigured
+straight path of quivering diamond. Across this royal path a little boat has the presumption <pb n="271"/> to take its course; and at once is harmonized into a solemn unity with the transfigured
 water and the mountain pinnacles—pinnacles as of the great City of God.</p>
 <p>Belinda looks at it all with a wild, dry eye, and a choked throat. Oh, beautiful, cruel, terrible
 world! Would not it be easier to endure if it were ugly and unsightly? if there were not this
@@ -10050,8 +10005,7 @@ carmines and purples that one usually associates with sunset; but of a paler, wh
 quality.</p>
 <p>Again those sobs rise in her throat. Oh, lovely, ironical world! when will you cease jeering us
 in our misery? And now it is night. She has gone to bid her husband good-night. Often, on previous
-occasions, she has omitted this ceremony as nugatory; but now a morbid impulse to be at <pb n="273"
-/> all events lacking in no little dues of courtesy towards him, possesses her.</p>
+occasions, she has omitted this ceremony as nugatory; but now a morbid impulse to be at <pb n="273"/> all events lacking in no little dues of courtesy towards him, possesses her.</p>
 <p>She finds him sitting stooped over his hearth, with his empty gruel-basin beside him, and his
 fleshless hands absorbing the last warmth of the expiring fire.</p>
 <p>"I have come to say good-night."</p>

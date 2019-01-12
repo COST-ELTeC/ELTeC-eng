@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG19120">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG19120">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Marriage : ELTec edition</title>
-<author>Wells, Herbert George (1866-1946)</author>
+<author ref="viaf:97006424">Wells, Herbert George (1866-1946)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -603,8 +601,7 @@ education and training. He had been to City Merchant's and Cambridge.</p>
 coach-building world. Mr. Pope's great-grandfather had been a North London wheelwright of
 conspicuous dexterity and integrity, who had founded the family business; his son, Mr. Pope's
 grandfather, had made that business the occupation of his life and brought it to the pinnacle of
-pre-eminence; his son, who was Marjorie's grandfather, had displayed a lesser enthusiasm,<pb n="30"
-/> left the house at the works for a home ten miles away and sent a second son into the Church. It
+pre-eminence; his son, who was Marjorie's grandfather, had displayed a lesser enthusiasm,<pb n="30"/> left the house at the works for a home ten miles away and sent a second son into the Church. It
 was in the days of the third Pope that the business ceased to expand, and began to suffer severely
 from the competition of an enterprising person who had originally supplied the firm with varnish,
 gradually picked up the trade in most other materials and accessories needed in coach-building, and
@@ -1423,8 +1420,7 @@ shopkeeper becomes a sort of propagandist of the charms and advantages of insolv
 retailers he dislikes the sight of cash, declines it, affects to regard it as a coarse ignorant
 truncation of a budding relationship, begs to be permitted to wait. So the youngster just up from
 home discovers that money may stay in the pocket, be used for cab and train fares and light
-refreshments; all the rest may be had for the asking. Marjorie, with her innate hunger for good<pb
-n="71"/> fine things, with her quite insufficient pocket-money, and the irregular habits of
+refreshments; all the rest may be had for the asking. Marjorie, with her innate hunger for good<pb n="71"/> fine things, with her quite insufficient pocket-money, and the irregular habits of
 expenditure a spasmodically financed, hard-up home is apt to engender, fell very readily into this
 new, delightful custom of having it put down (whatever it happened to be). She had all sorts of
 things put down. She and the elder Carmel girl used to go shopping together, having things put down.
@@ -1484,8 +1480,7 @@ But Aunt Plessington had made him a Haigite, which is one of the fiercer kinds o
 the nick of time. He had round shoulders, a large nose, and glasses that made him look
 astonished—and she said he had a great gift for practical things, and made him see after everything
 in that line while she did the lecturing. His directions to the porter finished, he came up to his
-niece. "Hello, Marjorie!" he said, in a peculiar voice that sounded as though his mouth was<pb
-n="74"/> full (though of course, poor dear, it wasn't), "how's the First Class?"</p>
+niece. "Hello, Marjorie!" he said, in a peculiar voice that sounded as though his mouth was<pb n="74"/> full (though of course, poor dear, it wasn't), "how's the First Class?"</p>
 <p>"A second's good enough for me, Uncle Hubert," said Marjorie, and asked if they would rather walk
 or go in the donkey cart, which was waiting outside with Daffy. Aunt Plessington, with an air of
 great <hi>bonhomie</hi> said she'd ride in the donkey cart, and they did. But no pseudo-twins or
@@ -1631,8 +1626,7 @@ rescuing the butter, restraining Theodore, and I am afraid not listening very ca
 Plessington. The children were marvellously silent and jumpily well-behaved, and Mr. Pope, in a very
 unusual state of subdued amiability, sat at the end of the table with the East Purblow experiment on
 the tip of his tongue. He liked Aunt Plessington, and she was good for him. They had the same
-inherent distrust of the intelligence and good intentions of their fellow creatures, and she<pb
-n="81"/> had the knack of making him feel that he too was getting on, that she was saying things on
+inherent distrust of the intelligence and good intentions of their fellow creatures, and she<pb n="81"/> had the knack of making him feel that he too was getting on, that she was saying things on
 his behalf in influential quarters, and in spite of the almost universal conspiracy (based on
 jealousy) to ignore his stern old-world virtues, he might still be able to battle his way to the
 floor of the House of Commons and there deliver himself before he died of a few sorely needed
@@ -1792,8 +1786,7 @@ as well as she could in her womanly way and in the time at her disposal just wha
 what it was for, and just what means it adopted and just what ends it had in view. Well, they all
 knew what Habits were, and that there were Good Habits and Bad Habits, and she supposed that the
 difference between a good man and a bad man was just that the good man had good habits and the bad
-one had bad habits. Everybody she supposed wanted to get on. If a man had good habits he got<pb
-n="89"/> on, and if he had bad habits he didn't get on, and she supposed it was the same with a
+one had bad habits. Everybody she supposed wanted to get on. If a man had good habits he got<pb n="89"/> on, and if he had bad habits he didn't get on, and she supposed it was the same with a
 country, if its people had good habits they got on, and if its people had bad habits they didn't get
 on. For her own part she and her husband (Hubert gave a little self-conscious jump) had always
 cultivated good habits, and she had to thank him with all her heart for his help in doing so.
@@ -1854,8 +1847,7 @@ men and women inspectors) would. The worker, on the other hand, would be enormou
 efficient under the new régime. His home, designed by qualified and officially recognized
 architects, would be prettier as well as more convenient and elevating to his taste, his children
 admirably trained and dressed in the new and more beautiful clothing with which Lady Petchworth
-(applause) had done so much to make them familiar, his vital statistics compared with current<pb
-n="92"/> results would be astonishingly good, his mind free from any anxiety but the proper anxiety
+(applause) had done so much to make them familiar, his vital statistics compared with current<pb n="92"/> results would be astonishingly good, his mind free from any anxiety but the proper anxiety
 of a man in his position, to get his work done properly and earn recognition from those competent
 and duly authorized to judge it. Of all this she spoke with the inspiring note of absolute
 conviction. All this would follow Payment in Kind and Continuous Occupation as days follow sunrise.
@@ -1873,8 +1865,7 @@ suddenly inquired, <hi>à propos</hi> of nothing: "What's the fare to America, B
 presumably Billy's, answered him: "Mor'n <hi>you'll</hi> ev 'av in <hi>you'</hi> pocket."</p>
 <p>The Rev. Jopling Baynes, before he called upon Mr. Pope for his promised utterance about East
 Purblow, could not refrain from pointing out how silly "in every sense of the word" these wanton
-interruptions were. What, he asked, had English social reform to do with the fare to America?—and<pb
-n="93"/> having roused the meeting to an alert silence by the length of his pause, answered in a
+interruptions were. What, he asked, had English social reform to do with the fare to America?—and<pb n="93"/> having roused the meeting to an alert silence by the length of his pause, answered in a
 voice of ringing contempt: "Nothing—<hi>whatsoever</hi>." Then Mr. Pope made his few remarks about
 East Purblow with the ease and finish that comes from long practice; much, he said, had to be
 omitted "in view of" the restricted time at his disposal, but he did not grudge that, the time had
@@ -2090,8 +2081,7 @@ verge of hysterics.</p>
 <p>Marjorie, with a skill her mother might have envied, wriggled into a half-sitting position in an
 embrasure and concentrated herself upon the broad wooded undulations that went about the horizon,
 and Mr. Magnet mopped his face with surreptitious gestures, and took deep restoring breaths.</p>
-<p>"I've always wanted to bring you here," he said, "ever since I found it in the spring."<pb
-n="104"/></p>
+<p>"I've always wanted to bring you here," he said, "ever since I found it in the spring."<pb n="104"/></p>
 <p>"It was very kind of you, Mr. Magnet," said Marjorie.</p>
 <p>"You see," he explained, "whenever I see anything fine or rich or splendid or beautiful now, I
 seem to want it for you." His voice quickened as though he were repeating something that had been
@@ -2251,8 +2241,7 @@ thwart and control. And he was always touching her! Whenever he came near her sh
 freedoms a large, kind hand might take with her elbow or wrist, at a possible sudden, clumsy pat at
 some erring strand of hair.</p>
 <p>Then there was an appraising satisfaction in his eye.</p>
-<p>On the third day of their engagement he began, quite abruptly, to call her "Magsy." "We'll end<pb
-n="112"/> this scandal of a Girl Pope," he said. "Magsy Magnet, you'll be—M.M. No women M.P.'s for
+<p>On the third day of their engagement he began, quite abruptly, to call her "Magsy." "We'll end<pb n="112"/> this scandal of a Girl Pope," he said. "Magsy Magnet, you'll be—M.M. No women M.P.'s for
 <hi>us</hi>, Magsy...."</p>
 <p>She became acutely critical of his intellectual quality. She listened with a new alertness to the
 conversations at the dinner-table, the bouts of wit with her father. She carried off utterances and
@@ -2730,8 +2719,7 @@ crystal gazing—I don't mean to see some silly revelation of some silly person'
 somewhere, but just for the things themselves. I wonder if you have ever been in the Natural History
 Museum at South Kensington, and looked at Ruskin's crystal collection? I saw it when I was a boy,
 and it became—I can't help the word—an obsession. The inclusions like moss and like trees, and all
-sorts of fantastic things, and the cleavages and enclosures with little bubbles, and the<pb n="135"
-/> lights and shimmer—What were we talking about? Oh, about the keen way your feminine perceptions
+sorts of fantastic things, and the cleavages and enclosures with little bubbles, and the<pb n="135"/> lights and shimmer—What were we talking about? Oh, about the keen way your feminine perceptions
 cut into things. And yet somehow I was throwing contempt on the feminine intelligence. I don't do
 justice to the order of my thoughts. Never mind. We've lost the thread. But I wish you knew my
 mother."</p>
@@ -3389,8 +3377,7 @@ explain about the Magnet affair. Can't one—converse?"</p>
 <p>For a time he contemplated a writ of Habeas Corpus. He saw reason to regret the gaps in his legal
 knowledge.</p>
 <p>"Can any one get a writ of Habeas Corpus for any one—it doesn't matter whom"—more especially if
-you are a young man of six-and-twenty, anxious to exchange a few richly charged words with<pb
-n="167"/> a girl of twenty who is engaged to someone else?</p>
+you are a young man of six-and-twenty, anxious to exchange a few richly charged words with<pb n="167"/> a girl of twenty who is engaged to someone else?</p>
 <p>The night had no answer.</p>
 <p>It was nearly dawn when he came to the entirely inadvisable conclusion—I use his own word's—to go
 and have it out with the old ruffian. He would sit down and ask him what he meant by it all—and
@@ -3475,8 +3462,7 @@ childish—"until—until I am one-and-twenty. I'd promise that."</p>
 of."</p>
 <p>"I know," said Marjorie, and added in a low voice, "and father."</p>
 <p>"My dear, you don't understand your father.... I believe—I do firmly believe—if anything happened
-to any of you girls—anything bad—he would kill himself.... And I know he means that you aren't<pb
-n="171"/> to go about so much as you used to do, unless we have the most definite promises. Of
+to any of you girls—anything bad—he would kill himself.... And I know he means that you aren't<pb n="171"/> to go about so much as you used to do, unless we have the most definite promises. Of
 course, your father's ideas aren't always my ideas, Marjorie; but it's your duty—You know how hasty
 he is and—quick. Just as you know how good and generous and kind he is"—she caught Marjorie's eye,
 and added a little lamely—"at bottom." ... She thought. "I think I could get him to let you say just
@@ -3802,8 +3788,7 @@ fretted through long terms alone, that he might be made into a man. She interest
 literary work and social affairs lest she should press upon him unduly. She listened for the crude
 expression of growing thought in him with an intensity that was almost anguish. She was too
 intelligent to dream of forming his mind, he browsed on every doctrine to find his own, but she did
-desire most passionately, she prayed, she prayed in the darkness of sleepless nights, that<pb
-n="187"/> the views, the breadths, the spacious emotions which had ennobled her husband in her eyes
+desire most passionately, she prayed, she prayed in the darkness of sleepless nights, that<pb n="187"/> the views, the breadths, the spacious emotions which had ennobled her husband in her eyes
 should rise again in him.</p>
 <p>There were years of doubt and waiting. He was a good boy and a bad boy, now brilliant, now
 touching, now disappointing, now gloriously reassuring, and now heart-rending as only the children
@@ -4536,8 +4521,7 @@ very agreeably with the process of house furnishing. She decided she would some 
 cost out of her dress allowance. The bookcase on which it stood was a happy discovery in Kensington,
 just five feet high, and with beautiful oval glass fronts, and its capacity was supplemented and any
 excess in its price at least morally compensated by a very tall, narrow, distinguished-looking set
-of open shelves that had been made for some special corner in another house, and which anyhow<pb
-n="225"/> were really and truly dirt cheap. The desk combined grace and good proportions to an
+of open shelves that had been made for some special corner in another house, and which anyhow<pb n="225"/> were really and truly dirt cheap. The desk combined grace and good proportions to an
 admirable extent, the fender of pierced brass looked as if it had always lived in immediate contact
 with the shapely old white marble fireplace, and the two arm-chairs were marvels of dignified
 comfort. By the fireplace were a banner-shaped needlework firescreen, a white sheepskin hearthrug, a
@@ -4992,8 +4976,7 @@ silly, ineffective, irritating bills really get drafted and messed about with an
 strength of it. Public affairs are still in the Dark Ages. Nobody now would think of getting
 together a scratch committee of rich old women and miscellaneous conspicuous people to design an
 electric tram, and jabbering and jabbering and jabbering, and if any one objects"—a note of personal
-bitterness came into his voice—"jabbering faster; but nobody thinks it ridiculous to attempt the<pb
-n="248"/> organization of poor people's affairs in that sort of way. This project of the
+bitterness came into his voice—"jabbering faster; but nobody thinks it ridiculous to attempt the<pb n="248"/> organization of poor people's affairs in that sort of way. This project of the
 supersession of Wages by Payment in Kind—oh! it's childish. If it wasn't it would be outrageous and
 indecent. Your uncle and aunt haven't thought for a moment of any single one of the necessary
 consequences of these things they say their confounded Movement aims at, effects upon the race, upon
@@ -5095,8 +5078,7 @@ oscillating processes in colloid bodies with especial reference to living matter
 a study of the melting and toughening of glass to the molecular structure of a number of elastic
 bodies, and so, by a characteristic leap into botanical physiology, to the states of resinous and
 gummy substances at the moment of secretion. He worked at first upon a false start, and then resumed
-to discover a growing illumination. He found himself in the presence of phenomena that seemed to<pb
-n="254"/> him to lie near the still undiscovered threshold to the secret processes of living
+to discover a growing illumination. He found himself in the presence of phenomena that seemed to<pb n="254"/> him to lie near the still undiscovered threshold to the secret processes of living
 protoplasm. He was, as it were, breaking into biology by way of molecular physics. He spent many
 long nights of deep excitement, calculating and arranging the development of these seductive
 intimations. It was this work which his marriage had interrupted, and to which he was now
@@ -5720,8 +5702,7 @@ whatever. In bad weather, or when the state of the roads made cycling abroad dis
 Home Bicycle could be placed in front of an open window and ridden furiously for any length of time.
 Whenever the rider tired, he could descend—comfortably at home again—and examine the cyclometer to
 see how far he had been. In exactly the same way the ordinary London Movement gives scope for the
-restless and progressive impulse in human nature without the risk of personal entanglements<pb
-n="286"/> or any inconvenient disturbance of the milieu.</p>
+restless and progressive impulse in human nature without the risk of personal entanglements<pb n="286"/> or any inconvenient disturbance of the milieu.</p>
 <p>Marjorie considered the Movements about her. She surveyed the accessible aspects of socialism,
 but that old treasure-house of constructive suggestion had an effect like a rich château which had
 been stormed and looted by a mob. For a time the proposition that "we are all Socialists nowadays"
@@ -6507,8 +6488,7 @@ with the sound of voices above and the faint rustle of skirts. Then came Christa
 slender grace beautifully contrasted with the fuller beauties of that great lady of the stage,
 Marion Rufus. Lady Solomonson descended confidently in a group of three, with Lady Mottersham and
 sharp-tongued little Mrs. Rex, all very rich and splendid. After a brief interval their hostess
-preceded Marjorie, and was so much of an artist that she had dressed herself merely as a foil<pb
-n="325"/> to this new creation. She wore black and scarlet, that made the white face and bright eyes
+preceded Marjorie, and was so much of an artist that she had dressed herself merely as a foil<pb n="325"/> to this new creation. She wore black and scarlet, that made the white face and bright eyes
 under her sombre hair seem the face of an inspiring spirit. A step behind her and to the right of
 her came Marjorie, tall and wonderful, as if she were the queen of earth and sunshine, swathed
 barbarically in gold and ruddy brown, and with her abundant hair bound back by a fillet of
@@ -6783,8 +6763,7 @@ furtive solicitude and wondered at her hesitations; she tried in vain to seem ch
 in his presence, with an anxiety, with premonitions that grew daily.</p>
 <p>There was no need to worry him unduly....</p>
 <p>But soon the matter was beyond all doubting. One night she gathered her courage together suddenly
-and came down into his study in her dressing-gown with her hair about her shoulders. She opened<pb
-n="339"/> the door and her heart failed her.</p>
+and came down into his study in her dressing-gown with her hair about her shoulders. She opened<pb n="339"/> the door and her heart failed her.</p>
 <p>"Rag," she whispered.</p>
 <p>"Yes," he said busily from his desk, without looking round.</p>
 <p>"I want to speak to you," she answered, and came slowly, and stood beside him silently.</p>
@@ -6847,8 +6826,7 @@ mustn't give up your professorship yet, Trafford. For the rest—I'm glad."</p>
 would."</p>
 <p>"I didn't," said Trafford. "Things have happened since."</p>
 <p>"Something was bound to happen. You're too good—for what it gave you. I didn't talk to you out
-there for nothing. I saw things.... Let's go into the other room, and smoke and talk it over." He<pb
-n="342"/> stood up as he spoke.</p>
+there for nothing. I saw things.... Let's go into the other room, and smoke and talk it over." He<pb n="342"/> stood up as he spoke.</p>
 <p>"I thought you would," he repeated, leading the way. "I knew you would. You see,—one <hi>has</hi>
 to. You can't get out of it."</p>
 <p>"It was all very well before you were married," said Solomonson, stopping short to say it, "but
@@ -6966,8 +6944,7 @@ absolutely unprotected, first a smashing demonstration of the unsoundness of Beh
 a lucid exposition of just what had to be done and what could be done to make an indiarubber
 absolutely indistinguishable from the natural product. The business man could not believe his
 ears.</p>
-<p>"My dear chap, positively—you mustn't," Solomonson had screamed, and he had opened his fingers<pb
-n="348"/> and humped his shoulders and for all his public school and university training lapsed
+<p>"My dear chap, positively—you mustn't," Solomonson had screamed, and he had opened his fingers<pb n="348"/> and humped his shoulders and for all his public school and university training lapsed
 undisguisedly into the Oriental. "Don't you <hi>see</hi> all you are throwing away?" he
 squealed.</p>
 <p>"I suppose it's our quality to throw such things away," said Trafford, when at last Solomonson's
@@ -7888,8 +7865,7 @@ researches. Lake had kept it there, for Lake was a man of generous appreciations
 to follow in the footsteps of an investigator of Trafford's subtlety and vigor. The old sink in the
 corner where Trafford had once swilled his watch glasses and filled his beakers had been replaced by
 one of a more modern construction, and the combustion cupboard was unfamiliar, until Durgan pointed
-out that it had been enlarged. The ground-glass window at the east end showed still the marks of<pb
-n="398"/> an explosion that had banished a clumsy student from this sanctuary at the very beginning
+out that it had been enlarged. The ground-glass window at the east end showed still the marks of<pb n="398"/> an explosion that had banished a clumsy student from this sanctuary at the very beginning
 of Trafford's career.</p>
 <p>"By Jove!" he said after a silence, "but I did some good work here."</p>
 <p>"You did, sir," said Durgan.</p>
@@ -8467,8 +8443,7 @@ and then, then become—<hi>this!</hi> Look at this room, this litter of little 
 your pretty books there, a hundred minds you have pecked at, bright things of the spirit that
 attracted you as jewels attract a jackdaw. Look at the glass and silver, and that silk from China!
 And we are in the full tide of our years, Marjorie. Now is the very crown and best of our lives. And
-this is what we do, we sample, we accumulate. For this we loved, for this we hoped. Do you<pb
-n="425"/> remember when we were young—that life seemed so splendid—it was intolerable we should ever
+this is what we do, we sample, we accumulate. For this we loved, for this we hoped. Do you<pb n="425"/> remember when we were young—that life seemed so splendid—it was intolerable we should ever
 die?... The splendid dream! The intimations of greatness!... The miserable failure!"</p>
 <p>He raised clenched fists. "I won't stand it, Marjorie. I won't endure it. Somehow, in some way, I
 will get out of this life—and you with me. I have been brooding upon this and brooding, but now I
@@ -8619,8 +8594,7 @@ herself. She found she was in an unwonted perplexing series of moods. All her fe
 now as being incorrect as well as unexpected; not only had life become suddenly full of novelty but
 she was making novel responses. She felt that she ought to be resentful and tragically sorry for her
 home and children. She felt this departure ought to have the quality of an immense sacrifice, a
-desperate and heroic undertaking for Trafford's sake. Instead she could detect little beyond<pb
-n="432"/> an adventurous exhilaration when presently she walked the deck of the steamer that was to
+desperate and heroic undertaking for Trafford's sake. Instead she could detect little beyond<pb n="432"/> an adventurous exhilaration when presently she walked the deck of the steamer that was to
 take her to St. John's. She had visited her cabin, seen her luggage stowed away, and now she
 surveyed the Mersey and its shipping with a renewed freshness of mind. She was reminded of the day,
 now nearly nine years ago, when she had crossed the sea for the first time—to Italy. Then, too,
@@ -9109,8 +9083,7 @@ had grown to an immense discontent. He had most of the things men sought, wealth
 children.... So many men might have blunted their heart-ache with—adventures. There were pretty
 women, clever women, unoccupied women. She felt she wouldn't have minded—<hi>much</hi>—if it made
 him happy.... It was so wonderful he loved her still.... It wasn't that he lacked occupation; on the
-whole he overworked. His business interests were big and wide. Ought he to go into politics?<pb
-n="456"/> Why was it that the researches that had held him once, could hold him now no more? That
+whole he overworked. His business interests were big and wide. Ought he to go into politics?<pb n="456"/> Why was it that the researches that had held him once, could hold him now no more? That
 was the real pity of it. Was she to blame for that? She couldn't state a case against herself, and
 yet she felt she was to blame. She had taken him away from those things, forced him to make
 money....</p>
@@ -9321,8 +9294,7 @@ A glorious fatigue, an immense self-satisfaction possessed Marjorie; she felt th
 done well.</p>
 <p>"I am not afraid of to-morrow now," she said at last—a thought matured. "<hi>No!</hi>"</p>
 <p>Trafford had the pipe and did not speak for a moment. "Nor I," he said at last. "Very likely
-we'll get through with it." He added after a pause: "I thought I was done for. A man—loses heart.<pb
-n="466"/> After a loss of blood."</p>
+we'll get through with it." He added after a pause: "I thought I was done for. A man—loses heart.<pb n="466"/> After a loss of blood."</p>
 <p>"The leg's better?"</p>
 <p>"Hot as fire." His humour hadn't left him. "It's a treat," he said. "The hottest thing in
 Labrador."</p>
@@ -9894,8 +9866,7 @@ Marjorie."...</p>
 <p>Marjorie sat red-lit, regarding him. "Queer things you say!" she said. "So much of this I've
 never thought out. I wonder why I've never done so.... Too busy with many things, I suppose. But go
 on and tell me more of these secrets you've kept from me!"</p>
-<p>"Well, we've got to talk of these things as mankind—or just leave them alone, and shoot<pb
-n="494"/> pheasants."...</p>
+<p>"Well, we've got to talk of these things as mankind—or just leave them alone, and shoot<pb n="494"/> pheasants."...</p>
 <p>"If I could shoot a pheasant now!" whispered Marjorie, involuntarily.</p>
 <p>"And where do we stand? What do we need—I mean the whole race of us—kings and beggars together?
 You know, Marjorie, it's this,—it's Understanding. That's what mankind has got to, the realization
@@ -9913,8 +9884,7 @@ we've no basis yet broad enough and strong enough on which to build. Religion an
 been impudent and quackish—quackish! They've been like the doctors, who have always pretended they
 could cure since the beginning of things, cure everything, and to this day even they haven't got
 more than the beginnings of knowledge on which to base a cure. They've lacked humility, they've
-lacked the honour to say they didn't know; the priests took things of wood and stone, the<pb n="495"
-/> philosophers took little odd arrangements of poor battered words, metaphors, analogies,
+lacked the honour to say they didn't know; the priests took things of wood and stone, the<pb n="495"/> philosophers took little odd arrangements of poor battered words, metaphors, analogies,
 abstractions, and said: "That's it! Think of their silly old Absolute,—ab-solutus, an untied parcel.
 I heard Haldane at the Aristotelian once, go on for an hour—no! it was longer than an hour—as glib
 and slick as a well-oiled sausage-machine, about the different sorts of Absolute, and not a soul of
@@ -10056,8 +10026,7 @@ mind about the qualities of artistic expression. His thought had come out to a c
 line to wider human understandings lies through a huge criticism and cleaning up of the existing
 methods of formulation, as a preliminary to the wider and freer discussion of those religious and
 social issues our generation still shrinks from. "It's grotesque," he said, "and utterly true that
-the sanity and happiness of all the world lies in its habits of generalization." There was not<pb
-n="502"/> even paper for him to make notes or provisional drafts of the new work. He hobbled about
+the sanity and happiness of all the world lies in its habits of generalization." There was not<pb n="502"/> even paper for him to make notes or provisional drafts of the new work. He hobbled about
 the camp fretting at these deprivations.</p>
 <p>"Marjorie," he said, "we've done our job. Why should we wait here on this frosty shelf outside
 the world? My leg's getting sounder—if it wasn't for that feeling of ice in it. Why shouldn't we
@@ -10159,8 +10128,7 @@ inordinate veracity....</p>
 realization. You demand the outcome. Oh! and I hate to turn aside and realize. I've had to do it for
 seven years. Damnable years! Men of my sort want to understand. We want to understand, and you ask
 us to make. We want to understand atoms, ions, molecules, refractions. You ask us to make rubber and
-diamonds. I suppose it's right that incidentally we should make rubber and diamonds. Finally,<pb
-n="507"/> I warn you, we will make rubber unnecessary and diamonds valueless. And again we want to
+diamonds. I suppose it's right that incidentally we should make rubber and diamonds. Finally,<pb n="507"/> I warn you, we will make rubber unnecessary and diamonds valueless. And again we want to
 understand how people react upon one another to produce social consequences, and you ask us to put
 it at once into a draft bill for the reform of something or other. I suppose life lies between us
 somewhere, we're the two poles of truth seeking and truth getting; with me alone it would be nothing
@@ -10178,8 +10146,7 @@ did so much to run the old militant suffragettes and burke the proper discussion
 You know. You used to have 'em in Chelsea—with their hats. Oh! 'Gawdsaking' is the curse of all
 progress, the hectic consumption that kills a thousand good beginnings. You see it in small things
 and in great. You see it in my life; Gawdsaking turned my life-work to cash and promotions,
-Gawdsaking——Look at the way the aviators took to flying for prizes and gate-money, the way<pb
-n="508"/> pure research is swamped by endowments for technical applications! Then that poor
+Gawdsaking——Look at the way the aviators took to flying for prizes and gate-money, the way<pb n="508"/> pure research is swamped by endowments for technical applications! Then that poor
 ghost-giant of an idea the socialists have;—it's been treated like one of those unborn lambs they
 kill for the fine skin of it, made into results before ever it was alive. Was there anything more
 pitiful? The first great dream and then the last phase! when your Aunt Plessington and the district
@@ -10415,8 +10382,7 @@ blankets—not the tent, it's too bulky; we'll leave a lot of the heavy gear."</
 here."</p>
 <p>"Bring back here?"</p>
 <p>"If you liked."</p>
-<p>For some moments Louis Napoleon was intently silent. When he spoke his voice was guttural with<pb
-n="520"/> emotion. "After," he said thoughtfully and paused, and then resolved to have it over
+<p>For some moments Louis Napoleon was intently silent. When he spoke his voice was guttural with<pb n="520"/> emotion. "After," he said thoughtfully and paused, and then resolved to have it over
 forthwith, "all you leave will be mine? Eh?"</p>
 <p>Trafford said that was the idea.</p>
 <p>Louis Napoleon's eye brightened, but his face preserved its Indian calm.</p>

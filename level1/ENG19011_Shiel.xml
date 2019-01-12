@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The purple cloud : ELTeC edition</title>
-<author>Shiel, Matthew Phipps (1865–1947)</author>
+<author ref="viaf:54194618">Shiel, Matthew Phipps (1865–1947)</author>
 </titleStmt>
 <extent>
 <measure unit="words">101612</measure>
@@ -17,7 +17,7 @@
 <date>1901</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-0"><p/></encodingDesc>
-<profileDesc><langUsage><language ident="en"></language></langUsage><textDesc>
+<profileDesc><langUsage><language ident="en"/></langUsage><textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
 <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
@@ -213,8 +213,7 @@ spirit eluded and baffled me: she resisted—she disobeyed: otherwise
 I might have sent you, not four note-books, but twenty, or forty.
 About the fifth year it struck me that it would be well to jot down
 her more connected utterances, since I knew shorthand.</p>
-<p>The note-book marked "I.," <ref target=
-"#purple-1">1</ref> which seems to me the
+<p>The note-book marked "I.," <ref target="#purple-1">1</ref> which seems to me the
 most curious, belongs to the seventh year. Its history, like those
 of the other three, is this: I heard her one afternoon murmuring in
 the intonation used when <hi>reading</hi>; the matter interested me;

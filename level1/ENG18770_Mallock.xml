@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>The New Republic : ELTec edition</title>
-                <author>Mallock, William Hurrell (1849-1923).</author>
+                <author ref="viaf:7455306">Mallock, William Hurrell (1849-1923)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Lou Burnard</name>

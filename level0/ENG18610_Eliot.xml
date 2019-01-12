@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18610">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18610">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Silas Marner: The Weaver of Raveloe : ELTec edition</title>
-<author>Eliot, George (pseud.) (1819-1880).</author>
+<author ref="viaf:89000553">Eliot, George (pseud.) (1819-1880)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -260,8 +258,7 @@ sin, but to confess and repent. The knife had been found in the bureau by the de
 bedside—found in the place where the little bag of church money had lain, which the minister himself
 had seen the day before. Some hand had removed that bag; and whose hand could it be, if not that of
 the man to whom the knife belonged? For some time Silas was mute with astonishment: then he said,
-"God will clear me: I know nothing about the knife being there, or the money being gone. Search <pb
-n="18"/> me and my dwelling: you will find nothing but three pound five of my own savings, which
+"God will clear me: I know nothing about the knife being there, or the money being gone. Search <pb n="18"/> me and my dwelling: you will find nothing but three pound five of my own savings, which
 William Dane knows I have had these six months." At this William groaned, but the minister said,
 "The proof is heavy against you, brother Marner. The money was taken in the night last past, and no
 man was with our departed brother but you, for William Dane declares to us that he was hindered by
@@ -312,8 +309,7 @@ testimony against him, her whole faith must be upset, as his was. To people accu
 about the forms in which their religious feeling has incorporated itself, it is difficult to enter
 into that simple, untaught state of mind in which the form and the feeling have never been severed
 by an act of reflection. We are apt to think it inevitable that a man in Marner's position should
-have begun to question the validity of an appeal to the divine judgment by drawing lots; but to <pb
-n="22"/> him this would have been an effort of independent thought such as he had never known; and
+have begun to question the validity of an appeal to the divine judgment by drawing lots; but to <pb n="22"/> him this would have been an effort of independent thought such as he had never known; and
 he must have made the effort at a moment when all his energies were turned into the anguish of
 disappointed faith. If there is an angel who records the sorrows of men as well as their sins, he
 knows how many and deep are the sorrows that spring from false ideas for which no man is
@@ -338,8 +334,7 @@ ideas—where their mother earth shows another lap, and human life has other for
 their souls have been nourished. Minds that have been unhinged from their old faith and love, have
 perhaps sought this Lethean influence of exile, in which the past becomes dreamy because its symbols
 have all vanished, and the present too is dreamy because it is linked with no memories. But even
-<hi>their</hi> experience may hardly enable them thoroughly to imagine what was the effect on <pb
-n="24"/> a simple weaver like Silas Marner, when he left his own country and people and came to
+<hi>their</hi> experience may hardly enable them thoroughly to imagine what was the effect on <pb n="24"/> a simple weaver like Silas Marner, when he left his own country and people and came to
 settle in Raveloe. Nothing could be more unlike his native town, set within sight of the wide-spread
 hill-sides than this low, wooded region, where he felt hidden even from the heavens by the screening
 trees and hedgerows. There was nothing here, when he rose in the deep morning quiet and looked out
@@ -400,8 +395,7 @@ hand had known the touch of hard-won money even before the palm had grown to its
 twenty years, mysterious money had stood to him as the symbol of earthly good, and the immediate
 object of toil. He had seemed to love it little in the years when every penny had its purpose for
 him; for he loved the <hi>purpose</hi> then. But now, when all purpose was gone, that habit of
-looking towards the money and grasping it with a sense of fulfilled effort made a loam that <pb
-n="29"/> was deep enough for the seeds of desire; and as Silas walked homeward across the fields in
+looking towards the money and grasping it with a sense of fulfilled effort made a loam that <pb n="29"/> was deep enough for the seeds of desire; and as Silas walked homeward across the fields in
 the twilight, he drew out the money, and thought it was brighter in the gathering gloom.</p>
 <p>About this time an incident happened which seemed to open a possibility of some fellowship with
 his neighbours. One day, taking a pair of shoes to be mended, he saw the cobbler's wife seated by
@@ -412,8 +406,7 @@ he promised Sally Oates to bring her something that would case her, since the do
 good. In this office of charity, Silas felt, for the first time since he had come to Raveloe, a
 sense of unity between his past and present life, which might have been the beginning of his rescue
 from the insect-like existence into which his nature had shrunk. But Sally Oates's disease had
-raised her into a personage of much interest and importance among the neighbours, and the fact <pb
-n="30"/> of her having found relief from drinking Silas Marner's "stuff" became a matter of general
+raised her into a personage of much interest and importance among the neighbours, and the fact <pb n="30"/> of her having found relief from drinking Silas Marner's "stuff" became a matter of general
 discourse. When Doctor Kimble gave physic, it was natural that it should have an effect; but when a
 weaver, who came from nobody knew where, worked wonders with a bottle of brown waters, the occult
 character of the process was evident. Such a sort of thing had not been known since the Wise Woman
@@ -700,8 +693,7 @@ ride him to the hunt to-morrow for you, with pleasure. I shouldn't look so hands
 saddle, but it's the horse they'll bid for, and not the rider."</p>
 <p>"Yes, I daresay—trust my horse to you!"</p>
 <p>"As you please," said Dunstan, rapping the window-seat again with an air of great unconcern.
-"It's <hi>you</hi> have got to pay Fowler's money; it's none of my business. You received <pb n="53"
-/> the money from him when you went to Bramcote, and <hi>you</hi> told the Squire it wasn't paid.
+"It's <hi>you</hi> have got to pay Fowler's money; it's none of my business. You received <pb n="53"/> the money from him when you went to Bramcote, and <hi>you</hi> told the Squire it wasn't paid.
 I'd nothing to do with that; you chose to be so obliging as give it me, that was all. If you don't
 want to pay the money, let it alone; it's all one to me. But I was willing to accommodate you by
 undertaking to sell the horse, seeing it's not convenient to you to go so far to-morrow."</p>
@@ -788,8 +780,7 @@ longer the interval, the more chance there was of deliverance from some, at leas
 consequences to which he had sold himself—the more opportunities remained for him to snatch the
 strange gratification of seeing Nancy, and gathering some faint indications of her lingering regard.
 Towards this gratification he was impelled, fitfully, every now and then, after having passed weeks
-in which he had avoided her as the far-off, bright-winged prize, that only made him spring <pb
-n="60"/> forward, and find his chain all the more galling. One of those fits of yearning was on him
+in which he had avoided her as the far-off, bright-winged prize, that only made him spring <pb n="60"/> forward, and find his chain all the more galling. One of those fits of yearning was on him
 now, and it would have been strong enough to have persuaded him to trust Wildfire to Dunstan rather
 than disappoint the yearning, even if he had not had another reason for his disinclination towards
 the morrow's hunt. That other reason was the fact that the morning's meet was near Batherley, the
@@ -817,8 +808,7 @@ looked very dreary at this season, with the moist trodden clay about it, and the
 high up in the deserted quarry. That was Dunstan's first thought as he approached it; the second
 was, that the old fool of a weaver, whose loom he heard rattling already, had a great deal of money
 hidden somewhere. How was it that he, Dunstan Cass, who had often heard talk of Marner's
-miserliness, had never thought of suggesting to Godfrey that he should frighten or persuade <pb
-n="63"/> the old fellow into lending the money on the excellent security of the young Squire's
+miserliness, had never thought of suggesting to Godfrey that he should frighten or persuade <pb n="63"/> the old fellow into lending the money on the excellent security of the young Squire's
 prospects? The resource occurred to him now as so easy and agreeable, especially as Marner's hoard
 was likely to be large enough to leave Godfrey a handsome surplus beyond his immediate needs, and
 enable him to accommodate his faithful brother, that he had almost turned the horse's head towards
@@ -905,8 +895,7 @@ when Dunstan held it, that the name <hi>Godfrey Cass</hi> was cut in deep letter
 handle—they could only see that it was a very handsome whip. Dunsey was not without fear that he
 might meet some acquaintance in whose eyes he would cut a pitiable figure, for mist is no screen
 when people get close to each other; but when he at last found himself in the well-known Raveloe
-lanes without having met a soul, he silently remarked that that was part of his usual good-luck. <pb
-n="70"/> But now the mist, helped by the evening darkness, was more of a screen than he desired, for
+lanes without having met a soul, he silently remarked that that was part of his usual good-luck. <pb n="70"/> But now the mist, helped by the evening darkness, was more of a screen than he desired, for
 it hid the ruts into which his feet were liable to slip—hid everything, so that he had to guide his
 steps by dragging his whip along the low bushes in advance of the hedgerow. He must soon, he
 thought, be getting near the opening at the Stone-pits: he should find it out by the break in the
@@ -1051,8 +1040,7 @@ his bed over, and shook it, and kneaded it; he looked in his brick oven where he
 When there was no other place to be searched, he kneeled down again and felt once more all round the
 hole. There was no untried refuge left for a moment's shelter from the terrible truth.</p>
 <p>Yes, there was a sort of refuge which always comes with the prostration of thought under an
-overpowering passion: it was that expectation of impossibilities, that belief in contradictory <pb
-n="82"/> images, which is still distinct from madness, because it is capable of being dissipated by
+overpowering passion: it was that expectation of impossibilities, that belief in contradictory <pb n="82"/> images, which is still distinct from madness, because it is capable of being dissipated by
 the external fact. Silas got up from his knees trembling, and looked round at the table: didn't the
 gold lie there after all? The table was bare. Then he turned and looked behind him—looked all round
 his dwelling, seeming to strain his brown eyes after some possible appearance of the bags where he
@@ -1311,8 +1299,7 @@ has been the name of it ever sin' I were a boy; that's to say, some said as it w
 Harry gev him from roasting, like. That's what my father told me, and he was a reasonable man,
 though there's folks nowadays know what happened afore they were born better nor they know their own
 business."</p>
-<p>"What do you say to that, eh, Dowlas?" said the landlord, turning to the farrier, who was <pb
-n="102"/> swelling with impatience for his cue. "There's a nut for <hi>you</hi> to crack."</p>
+<p>"What do you say to that, eh, Dowlas?" said the landlord, turning to the farrier, who was <pb n="102"/> swelling with impatience for his cue. "There's a nut for <hi>you</hi> to crack."</p>
 <p>Mr Dowlas was the negative spirit in the company, and was proud of his position.</p>
 <p>"Say? I say what a man <hi>should</hi> say as doesn't shut his eyes to look at a finger-post. I
 say, as I'm ready to wager any man ten pound, if he'll stand out wi' me any dry night in the pasture
@@ -1352,8 +1339,7 @@ through, I'd back him; and if anybody said as Cliff's Holiday was certain sure, 
 back <hi>him</hi> too. For the smell's what I go by."</p>
 <p>The landlord's analogical argument was not well received by the farrier—a man intensely opposed
 to compromise.</p>
-<p>"Tut, tut," he said, setting down his glass with refreshed irritation; "what's the smell got <pb
-n="105"/> to do with it? Did ever a ghost give a man a black eye? That's what I should like to know.
+<p>"Tut, tut," he said, setting down his glass with refreshed irritation; "what's the smell got <pb n="105"/> to do with it? Did ever a ghost give a man a black eye? That's what I should like to know.
 If ghos'es want me to believe in 'em, let 'em leave off skulking i' the dark and i' lone places —let
 'em come where there's company and candles."</p>
 <p>"As if ghos'es 'ud want to be believed in by anybody so ignirant!" said Mr Macey, in deep disgust
@@ -1370,8 +1356,7 @@ startled insects, and every man present, not excepting even the sceptical farrie
 that he saw, not Silas Marner in the flesh, but an apparition; for the door by which Silas had
 entered was hidden by the high-screened seats, and no one had noticed his approach. Mr Macey,
 sitting a long way off the ghost, might be supposed to have felt an argumentative triumph, which
-would tend to neutralise his share of the general alarm. Had he not always said that when <pb
-n="107"/> Silas Marner was in that strange trance of his, his soul went loose from his body? Here
+would tend to neutralise his share of the general alarm. Had he not always said that when <pb n="107"/> Silas Marner was in that strange trance of his, his soul went loose from his body? Here
 was the demonstration: nevertheless, on the whole, he would have been as well contented without it.
 For a few moments there was a dead silence, Marner's want of breath and agitation not allowing him
 to speak. The landlord, under the habitual sense that he was bound to keep his house open to all
@@ -1426,8 +1411,7 @@ any more than without us: there have been many circulations of the sap before we
 sign of the bud.</p>
 <p>The slight suspicion with which his hearers at first listened to him, gradually melted away
 before the convincing simplicity of his distress: it was impossible for the neighbours to doubt that
-Marner was telling the truth, not because they were capable of arguing at once from the <pb n="111"
-/> nature of his statements to the absence of any motive for making them falsely, but because, as Mr
+Marner was telling the truth, not because they were capable of arguing at once from the <pb n="111"/> nature of his statements to the absence of any motive for making them falsely, but because, as Mr
 Macey observed, "Folks as had the devil to back 'em were not likely to be so mushed" as poor Silas
 was. Rather, from the strange fact that the robber had left no traces, and had happened to know the
 nick of time, utterly incalculable by mortal agents, when Silas would go away from home without
@@ -1690,8 +1674,7 @@ indulgence which preceded these fits; <hi>that</hi> seemed to him natural enough
 just the chance, Godfrey thought, that his father's pride might see this marriage in a light that
 would induce him to hush it up, rather than turn his son out and make the family the talk of the
 country for ten miles round.</p>
-<p>This was the view of the case that Godfrey managed to keep before him pretty closely till <pb
-n="132"/> midnight, and he went to sleep thinking that he had done with inward debating. But when he
+<p>This was the view of the case that Godfrey managed to keep before him pretty closely till <pb n="132"/> midnight, and he went to sleep thinking that he had done with inward debating. But when he
 awoke in the still morning darkness he found it impossible to reawaken his evening thoughts; it was
 as if they had been tired out and were not to be roused to further work. Instead of arguments for
 confession, he could now feel the presence of nothing but its evil consequences: the old dread of
@@ -1729,8 +1712,7 @@ breakfast yet?" but there was no pleasant morning greeting between them; not bec
 unfriendliness, but because the sweet flower of courtesy is not a growth of such homes as the Red
 House.</p>
 <p>"Yes, sir," said Godfrey, "I've had my breakfast, but I was waiting to speak to you."</p>
-<p>"Ah! well," said the Squire, throwing himself indifferently into his chair, and speaking in <pb
-n="135"/> a ponderous coughing fashion, which was felt in Raveloe to be a sort of privilege of his
+<p>"Ah! well," said the Squire, throwing himself indifferently into his chair, and speaking in <pb n="135"/> a ponderous coughing fashion, which was felt in Raveloe to be a sort of privilege of his
 rank, while he cut a piece of beef, and held it up before the deer-hound that had come in with him,
 "Ring the bell for my ale, will you? You youngsters' business is your own pleasure, mostly. There's
 no hurry about it for anybody but yourselves."</p>
@@ -1878,8 +1860,7 @@ simpleton who may be cajoled into using his interest, a possible state of mind i
 person not yet forthcoming. Let him neglect the responsibilities of his office, and he will
 inevitably anchor himself on the chance, that the thing left undone may turn out not to be of the
 supposed importance. Let him betray his friend's confidence, and he will adore that same cunning
-complexity called Chance, which gives him the hope that his friend will never know; let him <pb
-n="146"/> forsake a decent craft that he may pursue the gentilities of a profession to which nature
+complexity called Chance, which gives him the hope that his friend will never know; let him <pb n="146"/> forsake a decent craft that he may pursue the gentilities of a profession to which nature
 never called him, and his religion will infallibly be the worship of blessed Chance, which he will
 believe in as the mighty creator of success. The evil principle deprecated in that religion, is the
 orderly sequence by which the seed brings forth a crop after its kind.</p>
@@ -2230,8 +2211,7 @@ him, when it was not on his side, without a general visitation of tricks to see 
 formed on sound principles: the whole being accompanied by a strong steaming odour of
 spirits-and-water.</p>
 <p>But the party on Christmas-day, being a strictly family party, was not the pre-eminently
-brilliant celebration of the season at the Red House. It was the great dance on New Year's <pb
-n="174"/> Eve that made the glory of Squire Cass's hospitality, as of his forefathers', time out of
+brilliant celebration of the season at the Red House. It was the great dance on New Year's <pb n="174"/> Eve that made the glory of Squire Cass's hospitality, as of his forefathers', time out of
 mind. This was the occasion when all the society of Raveloe and Tarley, whether old acquaintances
 separated by long rutty distances, or cooled acquaintances separated by misunderstandings concerning
 runaway calves, or acquaintances founded on intermittent condescension, counted on meeting and on
@@ -2425,8 +2405,7 @@ another better. I was willing to have <hi>your</hi> choice, you know I was," sai
 self-vindication.</p>
 <p>"Nonsense, child, you know you'd set your heart on this; and reason good, for you're the colour
 o' cream. It 'ud be fine doings for you to dress yourself to suit <hi>my</hi> skin. What I find
-fault with, is that notion o' yours as I must dress myself just like you. But you do as you <pb
-n="189"/> like with me—you always did, from when first you begun to walk. If you wanted to go the
+fault with, is that notion o' yours as I must dress myself just like you. But you do as you <pb n="189"/> like with me—you always did, from when first you begun to walk. If you wanted to go the
 field's length, the field's length you'd go; and there was no whipping you, for you looked as prim
 and innicent as a daisy all the while."</p>
 <p>"Priscy," said Nancy, gently, as she fastened a coral necklace, exactly like her own, round
@@ -2503,8 +2482,7 @@ and waved his hand in stiff rejection of the offer, "us old fellows may wish our
 to-night, when we see the mistletoebough in the White Parlour. It's true, most things are gone
 back'ard in these last thirty years—the country's going down since the old king fell ill. But when I
 look at Miss Nancy here, I begin to think the lasses keep up their quality;—ding me if I remember a
-sample to match her, not when I was a fine young fellow, and thought a deal about my pigtail. No <pb
-n="195"/> offence, to you, madam," he added, bending to Mrs Crackenthorp, who sat by him, "I didn't
+sample to match her, not when I was a fine young fellow, and thought a deal about my pigtail. No <pb n="195"/> offence, to you, madam," he added, bending to Mrs Crackenthorp, who sat by him, "I didn't
 know <hi>you</hi> when you were as young as Miss Nancy here."</p>
 <p>Mrs Crackenthorp—a small blinking woman, who fidgeted incessantly with her lace, ribbons, and
 gold chain, turning her head about and making subdued noises, very much like a guinea-pig, that
@@ -2623,8 +2601,7 @@ turban-shaped caps, nay, Mrs Crackenthorp herself, the summit of whose perpendic
 a level with the Squire's shoulder—luring fair lasses complacently conscious of very short waists
 and skirts blameless of front-folds—burly fathers, in large variegated waistcoats, and ruddy sons,
 for the most part shy and sheepish, in short nether garments and very long coattails.</p>
-<p>Already, Mr Macey and a few other privileged villagers, who were allowed to be spectators <pb
-n="204"/> on these great occasions, were seated on benches placed for them near the door; and great
+<p>Already, Mr Macey and a few other privileged villagers, who were allowed to be spectators <pb n="204"/> on these great occasions, were seated on benches placed for them near the door; and great
 was the admiration and satisfaction in that quarter when the couples had formed themselves for the
 dance, and the Squire led off with Mrs Crackenthorp, joining hands with the rector and Mrs Osgood.
 That was as it should be—that was what everybody had been used to—and the charter of Raveloe seemed
@@ -2828,8 +2805,7 @@ cottage, but he did not see the child. During the last few weeks, since he had l
 had contracted the habit of opening his door and looking out from time to time, as if he thought
 that his money might be somehow coming back to him, or that some trace, some news of it, might be
 mysteriously on the road, and be caught by the listening ear or the straining eye. It was chiefly at
-night, when he was not occupied in his loom, that he fell into this repetition of an act for <pb
-n="220"/> which he could have assigned no definite purpose, and which can hardly be understood
+night, when he was not occupied in his loom, that he fell into this repetition of an act for <pb n="220"/> which he could have assigned no definite purpose, and which can hardly be understood
 except by those who have undergone a bewildering separation from a supremely loved object. In the
 evening twilight, and later whenever the night was not dark, Silas looked out on that narrow
 prospect round the Stone-pits, listening and gazing, not with hope, but with mere yearning and
@@ -2841,8 +2817,7 @@ half-crazy oddities of a miser, but it had perhaps helped to throw Silas into a 
 excited state. Since the on-coming of twilight he had opened his door again and again, though only
 to shut it immediately at seeing all distance veiled by the falling snow. But the last time he
 opened it the snow had ceased, and the clouds were parting here and there. He stood and listened,
-and gazed for a long while—there was really something on the road coming towards him then, but <pb
-n="221"/> he caught no sign of it; and the stillness and the wide trackless snow seemed to narrow
+and gazed for a long while—there was really something on the road coming towards him then, but <pb n="221"/> he caught no sign of it; and the stillness and the wide trackless snow seemed to narrow
 his solitude, and touched his yearning with the chill of despair. He went in again, and put his
 right hand on the latch of the door to close it —but he did not close it: he was arrested, as he had
 been already since his loss, by the invisible wand of catalepsy, and stood like a graven image, with
@@ -2854,8 +2829,7 @@ the light had grown dim, and that he was chilled and faint. He thought he had be
 at the door and looking out. Turning towards the hearth, where the two logs had fallen apart, and
 sent forth only a red uncertain glimmer, he seated himself on his fireside chair, and was stooping
 to push his logs together, when, to his blurred vision, it seemed as if there were gold on the floor
-in front of the hearth. Gold!—his own gold—brought back to him as mysteriously as it had been <pb
-n="222"/> taken away! He felt his heart begin to beat violently, and for a few moments he was unable
+in front of the hearth. Gold!—his own gold—brought back to him as mysteriously as it had been <pb n="222"/> taken away! He felt his heart begin to beat violently, and for a few moments he was unable
 to stretch out his hand and grasp the restored treasure. The heap of gold seemed to glow and get
 larger beneath his agitated gaze. He leaned forward at last, and stretched forth his hand; but
 instead of the hard coin with the familiar resisting outline, his fingers encountered soft warm
@@ -2982,8 +2956,7 @@ some bitterness at the interruption, but drilled by the long habit of his profes
 to unpleasant calls, even when he was hardly sober.</p>
 <p>"It's a nasty business turning out now, eh, Kimble?" said the Squire. "He might ha' gone for your
 young fellow—the 'prentice, there—what's his name?"</p>
-<p>"Might? ay—what's the use of talking about might?" growled uncle Kimble, hastening out <pb
-n="232"/> with Marner, and followed by Mr Crackenthorp and Godfrey. "Get me a pair of thick boots,
+<p>"Might? ay—what's the use of talking about might?" growled uncle Kimble, hastening out <pb n="232"/> with Marner, and followed by Mr Crackenthorp and Godfrey. "Get me a pair of thick boots,
 Godfrey, will you? And stay, let somebody run to Winthrop's and fetch Dolly—she's the best woman to
 get. Ben was here himself before supper; is he gone?"</p>
 <p>"Yes, sir, I met him," said Marner; "but I couldn't stop to tell him anything, only I said I was
@@ -3126,8 +3099,7 @@ acceptable to Marner, for they were rendered without any show of bustling instru
 shown her the half-guinea given to him by Godfrey, and had asked her what he should do about getting
 some clothes for the child.</p>
 <p>"Eh, Master Marner," said Dolly, "there's no call to buy, no more nor a pair o' shoes; for I've
-got the little petticoats as Aaron wore five years ago, and it's ill spending the money <pb n="243"
-/> on them baby-clothes, for the child 'ull grow like grass i' May, bless it—that it will."</p>
+got the little petticoats as Aaron wore five years ago, and it's ill spending the money <pb n="243"/> on them baby-clothes, for the child 'ull grow like grass i' May, bless it—that it will."</p>
 <p>And the same day Dolly brought her bundle, and displayed to Marner, one by one, the tiny garments
 in their due order of succession, most of them patched and darned, but clean and neat as
 fresh-sprung herbs. This was the introduction to a great ceremony with soap and water, from which
@@ -3192,8 +3164,7 @@ taught her to scour, and mend, and the knitting, and everything. But I can teach
 Master Marner, when she gets old enough."</p>
 <p>"But she'll be <hi>my</hi> little un," said Marner, rather hastily. "She'll be nobody
 else's."</p>
-<p>"No, to be sure; you'll have a right to her if you're a father to her, and bring her up <pb
-n="248"/> according. But," added Dolly, coming to a point which she had determined beforehand to
+<p>"No, to be sure; you'll have a right to her if you're a father to her, and bring her up <pb n="248"/> according. But," added Dolly, coming to a point which she had determined beforehand to
 touch upon, "you must bring her up like christened folk's children, and take her to church, and let
 her learn her catechise, as my little Aaron can say off—the 'I believe,' and everything, and 'hurt
 nobody by word or deed,' —as well as if he was the clerk. That's what you must do, Master Marner, if
@@ -3320,8 +3291,7 @@ had run out at the open door where the sunshine was inviting her, while poor Sil
 be a better child than usual. It was not until he happened to need his scissors that the terrible
 fact burst upon him: Eppie had run out by herself—had perhaps fallen into the Stone-pit. Silas,
 shaken by the worst fear that could have befallen him, rushed out, calling "Eppie!" and ran eagerly
-about the unenclosed space, exploring the dry cavities into which she might have fallen, and <pb
-n="258"/> then gazing with questioning dread at the smooth red surface of the water. The cold drops
+about the unenclosed space, exploring the dry cavities into which she might have fallen, and <pb n="258"/> then gazing with questioning dread at the smooth red surface of the water. The cold drops
 stood on his brow. How long had she been out? There was one hope—that she had crept through the
 stile and got into the fields where he habitually took her to stroll. But the grass was high in the
 meadow, and there was no descrying her, if she were there, except by a close search that would be a
@@ -3467,8 +3437,7 @@ important members of the congregation to depart first, while their humbler neigh
 looked on, stroking their bent heads or dropping their curtsies to any large rate-payer who turned
 to notice them.</p>
 <p>Foremost among these advancing groups of well-clad people, there are some whom we shall
-recognise, in spite of Time, who has laid his hand on them all. The tall blonde man of forty is <pb
-n="272"/> not much changed in feature from the Godfrey Cass of six-and-twenty: he is only fuller in
+recognise, in spite of Time, who has laid his hand on them all. The tall blonde man of forty is <pb n="272"/> not much changed in feature from the Godfrey Cass of six-and-twenty: he is only fuller in
 flesh, and has only lost the indefinable look of youth —a loss which is marked even when the eye is
 undulled and the wrinkles are not yet come. Perhaps the pretty woman, not much younger than he, who
 is leaning on his arm, is more changed than her husband: the lovely bloom that used to be always on
@@ -3480,8 +3449,7 @@ been so cruel to Nancy. The firm yet placid mouth, the clear veracious glance of
 speak now of a nature that has been tested and has kept its highest qualities; and even the costume,
 with its dainty neatness and purity, has more significance now the coquetries of youth can have
 nothing to do with it.</p>
-<p>Mr and Mrs Godfrey Cass (any higher title has died away from Raveloe lips since the old <pb
-n="273"/> Squire was gathered to his fathers, and his inheritance was divided) have turned round to
+<p>Mr and Mrs Godfrey Cass (any higher title has died away from Raveloe lips since the old <pb n="273"/> Squire was gathered to his fathers, and his inheritance was divided) have turned round to
 look for the tall aged man and the plainly-dressed woman who are a little behind—Nancy having
 observed that they must wait for "father and Priscilla"—and now they all turn into a narrower path
 leading across the churchyard to a small gate opposite the Red House. We will not follow them now;
@@ -3634,8 +3602,7 @@ any readiness of interpretation in Dolly, whose narrow outward experience gave h
 customes, and made every novelty a source of wonder that arrested them at every step of the
 narrative. It was only by fragments, and at intervals which left Dolly time to revolve what she had
 heard till it acquired some familiarity for her, that Silas at last arrived at the climax of the sad
-story— the drawing of lots, and its false testimony concerning him; and this had to be repeated <pb
-n="285"/> in several interviews, under new questions on her part as to the nature of this plan for
+story— the drawing of lots, and its false testimony concerning him; and this had to be repeated <pb n="285"/> in several interviews, under new questions on her part as to the nature of this plan for
 detecting the guilty and clearing the innocent.</p>
 <p>"And yourn's the same Bible, you're sure o' that, Master Marner—the Bible as you brought wi' you
 from that country—it's the same as what they've got at church, and what Eppie's a-learning to read
@@ -3661,8 +3628,7 @@ somehow as sure as I do when I've laid something up though I can't justly put my
 there was a right in what happened to you, if one could but make it out; and you'd no call to lose
 heart as you did. But we'll talk on it again; for sometimes things come into my head when I'm
 leeching or poulticing, or such, as I could never think on when I was sitting still."</p>
-<p>Dolly was too useful a woman not to have many opportunities of illumination of the kind <pb
-n="287"/> she alluded to, and she was not long before she recurred to the subject.</p>
+<p>Dolly was too useful a woman not to have many opportunities of illumination of the kind <pb n="287"/> she alluded to, and she was not long before she recurred to the subject.</p>
 <p>"Master Marner," she said, one day that she came to bring home Eppie's washing, "I've been sore
 puzzled for a good bit wi' that trouble o' yourn and the drawing o' lots; and it got twisted
 back'ards and for'ards, as I didn't know which end to lay hold on. But it come to me all clear like,
@@ -3855,8 +3821,7 @@ it was entered by a new presiding spirit.</p>
 just as well stay with us?—such a beautiful evening as it's likely to be."</p>
 <p>The old gentleman had been talking with Godfrey about the increasing poor-rate and the ruinous
 times, and had not heard the dialogue between his daughters.</p>
-<p>"My dear, you must ask Priscilla," he said, in the once firm voice, now become rather <pb n="302"
-/> broken. "She manages me and the farm too."</p>
+<p>"My dear, you must ask Priscilla," he said, in the once firm voice, now become rather <pb n="302"/> broken. "She manages me and the farm too."</p>
 <p>"And reason good as I should manage you, father," said Priscilla, "else you'd be giving yourself
 your death with rheumatism. And as for the farm, if anything turns out wrong, as it can't but do in
 these times, there's nothing kills a man so soon as having nobody to find fault with but himself.
@@ -3907,8 +3872,7 @@ stone steps, passing the time in recalling to Godfrey what very fine points Spec
 master used to ride him.</p>
 <p>"I always <hi>would</hi> have a good horse, you know," said the old gentleman, not liking that
 spirited time to be quite effaced from the memory of his juniors.</p>
-<p>"Mind you bring Nancy to the Warrens before the week's out, Mr Cass," was Priscilla's <pb n="306"
-/> parting injunction, as she took the reins, and shook them gently, by way of friendly incitement
+<p>"Mind you bring Nancy to the Warrens before the week's out, Mr Cass," was Priscilla's <pb n="306"/> parting injunction, as she took the reins, and shook them gently, by way of friendly incitement
 to Speckle.</p>
 <p>"I shall just take a turn to the fields against the Stone-pits, Nancy, and look at the draining,"
 said Godfrey.</p>
@@ -3946,8 +3910,7 @@ Sunday afternoon. The first wandering of her thought from the text, which she st
 dutifully to follow with her eyes and silent lips, was into an imaginary enlargement of the defence
 she had set up for her husband against Priscilla's implied blame. The vindication of the loved
 object is the best balm affection can find for its wounds: —"A man must have so much on his mind,"
-is the belief by which a wife often supports a cheerful face under rough answers and unfeeling <pb
-n="309"/> words. And Nancy's deepest wounds had all come from the perception that the absence of
+is the belief by which a wife often supports a cheerful face under rough answers and unfeeling <pb n="309"/> words. And Nancy's deepest wounds had all come from the perception that the absence of
 children from their hearth was dwelt on in her husband's mind as a privation to which he could not
 reconcile himself.</p>
 <p>Yet sweet Nancy might have been expected to feel still more keenly the denial of a blessing to
@@ -4011,8 +3974,7 @@ experience—should have arrived by herself at a way of thinking so nearly akin 
 people, whose beliefs are held in the shape of a system quite remote from her knowledge—singular, if
 we did not know that human beliefs, like all other natural growths, elude the barriers of
 system.</p>
-<p>Godfrey had from the first specified Eppie, then about twelve years old, as a child suitable <pb
-n="314"/> for them to adopt. It had never occurred to him that Silas would rather part with his life
+<p>Godfrey had from the first specified Eppie, then about twelve years old, as a child suitable <pb n="314"/> for them to adopt. It had never occurred to him that Silas would rather part with his life
 than with Eppie. Surely the weaver would wish the best to the child he had taken so much trouble
 with, and would be glad that such good fortune should happen to her: she would always be very
 grateful to him, and he would be well provided for to the end of his life— provided for as the
@@ -4089,8 +4051,7 @@ hypothesis which covered a few imaginary calamities.</p>
 <p>"That girl is always terrifying me," thought Nancy; "I wish Godfrey would come in."</p>
 <p>She went to the front window and looked as far as she could see along the road, with an
 uneasiness which she felt to be childish, for there were now no such signs of excitement as Jane had
-spoken of, and Godfrey would not be likely to return by the village road, but by the fields. <pb
-n="320"/> She continued to stand, however, looking at the placid churchyard with the long shadows of
+spoken of, and Godfrey would not be likely to return by the village road, but by the fields. <pb n="320"/> She continued to stand, however, looking at the placid churchyard with the long shadows of
 the gravestones across the bright green hillocks, and at the glowing autumn colours of the Rectory
 trees beyond. Before such calm external beauty the presence of a vague fear is more distinctly
 felt—like a raven flapping its slow wing across the sunny air. Nancy wished more and more that
@@ -4137,8 +4098,7 @@ dishonour must be felt still more keenly by her husband.</p>
 <p>"There was the money in the pit," he continued —"all the weaver's money. Everything's being
 gathered up, and they're taking the skeleton to the Rainbow. But I came back to tell you: there was
 no hindering it; you must know."</p>
-<p>He was silent, looking on the ground for two long minutes. Nancy would have said some <pb n="324"
-/> words of comfort under this disgrace, but she refrained, from an instinctive sense that there was
+<p>He was silent, looking on the ground for two long minutes. Nancy would have said some <pb n="324"/> words of comfort under this disgrace, but she refrained, from an instinctive sense that there was
 something behind—that Godfrey had something else to tell her. Presently he lifted his eyes to her
 face, and kept them fixed on her, as he said—</p>
 <p>"Everything comes to light, Nancy, sooner or later. When God Almighty wills it, our secrets are
@@ -4151,8 +4111,7 @@ crisis which suspended affection.</p>
 <p>"Nancy," said Godfrey, slowly, "when I married you, I hid something from you—something I ought to
 have told you. That woman Marner found dead in the snow—Eppie's mother—that wretched woman—was my
 wife: Eppie is my child."</p>
-<p>He paused, dreading the effect of his confession. But Nancy sat quite still, only that her <pb
-n="325"/> eyes dropped and ceased to meet his. She was pale and quiet as a meditative statue,
+<p>He paused, dreading the effect of his confession. But Nancy sat quite still, only that her <pb n="325"/> eyes dropped and ceased to meet his. She was pale and quiet as a meditative statue,
 clasping her hands on her lap.</p>
 <p>"You'll never think the same of me again," said Godfrey, after a little while, with some tremor
 in his voice.</p>
@@ -4204,8 +4163,7 @@ away: it had only reached that stage when the keenness of the susceptibility mak
 intolerable —when there is no sense of weariness, but rather an intensity of inward life, under
 which sleep is an impossibility. Any one who has watched such moments in other men remembers the
 brightness of the eyes and the strange definiteness that comes over coarse features from that
-transient influence. It is as if a new fineness of ear for all spiritual voices had sent <pb n="329"
-/> wonder-working vibrations through the heavy mortal frame—as if "beauty born of murmuring sound"
+transient influence. It is as if a new fineness of ear for all spiritual voices had sent <pb n="329"/> wonder-working vibrations through the heavy mortal frame—as if "beauty born of murmuring sound"
 had passed into the face of the listener.</p>
 <p>Silas's face showed that sort of transfiguration, as he sat in his arm-chair and looked at Eppie.
 She had drawn her own chair towards his knees, and leaned forward, holding both his hands, while she
@@ -4296,8 +4254,7 @@ trouble of bringing her up so well. And it's right you should have every reward 
 I'm sure, will always love you and be grateful to you: she'd come and see you very often, and we
 should all be on the look-out to do everything we could towards making you comfortable."</p>
 <p>A plain man like Godfrey Cass, speaking under some embarrassment, necessarily blunders on words
-that are coarser than his intentions, and that are likely to fall gratingly on susceptible <pb
-n="336"/> feelings. While he had been speaking, Eppie had quietly passed her arm behind Silas's
+that are coarser than his intentions, and that are likely to fall gratingly on susceptible <pb n="336"/> feelings. While he had been speaking, Eppie had quietly passed her arm behind Silas's
 head, and let her hand rest against it caressingly: she felt him trembling violently. He was silent
 for some moments when Mr Cass had ended—powerless under the conflict of emotions, all alike painful.
 Eppie's heart was swelling at the sense that her father was in distress; and she was just going to
@@ -4555,8 +4512,7 @@ make 'em out; but I shall know the turning, because it's the third."</p>
 must go to the left again, and then straight for'ard for a bit, up Shoe Lane; and then we shall be
 at the entry next to the o'erhanging window, where there's the nick in the road for the water to
 run. Eh, I can see it all."</p>
-<p>"O father, I'm like as if I was stifled," said Eppie. "I couldn't ha' thought as any folks <pb
-n="356"/> lived i' this way, so close together. How pretty the Stone-pits 'ull look when we get
+<p>"O father, I'm like as if I was stifled," said Eppie. "I couldn't ha' thought as any folks <pb n="356"/> lived i' this way, so close together. How pretty the Stone-pits 'ull look when we get
 back!"</p>
 <p>"It looks comical to <hi>me</hi> , child, now—and smells bad. I can't think as it usened to smell
 so."</p>
@@ -4570,8 +4526,7 @@ were before an opening in front of a large factory, from which men and women wer
 their mid-day meal.</p>
 <p>"Father," said Eppie, clasping his arm, "what's the matter?"</p>
 <p>But she had to speak again and again before Silas could answer her.</p>
-<p>"It's gone, child," he said, at last, in strong agitation—"Lantern Yard's gone. It must ha' <pb
-n="357"/> been here, because here's the house with the o'erhanging window—I know that—it's just the
+<p>"It's gone, child," he said, at last, in strong agitation—"Lantern Yard's gone. It must ha' <pb n="357"/> been here, because here's the house with the o'erhanging window—I know that—it's just the
 same; but they've made this new opening; and see that big factory! It's all gone—chapel and
 all."</p>
 <p>"Come into that little brush-shop and sit down, father—they'll let you sit down," said Eppie,
@@ -4634,8 +4589,7 @@ the Red House to the humbler part of the village.</p>
 <p>Dolly Winthrop was the first to divine that old Mr Macey, who had been set in his arm-chair
 outside his own door, would expect some special notice as they passed, since he was too old to be at
 the wedding-feast.</p>
-<p>"Mr Macey's looking for a word from us," said Dolly; "he'll be hurt if we pass him and <pb
-n="362"/> say nothing—and him so racked with rheumatiz."</p>
+<p>"Mr Macey's looking for a word from us," said Dolly; "he'll be hurt if we pass him and <pb n="362"/> say nothing—and him so racked with rheumatiz."</p>
 <p>So they turned aside to shake hands with the old man. He had looked forward to the occasion, and
 had his premeditated speech.</p>
 <p>"Well, Master Marner," he said, in a voice that quavered a good deal, "I've lived to see my words

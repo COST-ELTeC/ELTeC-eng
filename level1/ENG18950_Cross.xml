@@ -1,10 +1,9 @@
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18950" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18950" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
                 <title>The Woman Who Didn't : ELTeC edition</title>
-                <author>Cross, Victoria (1868-1952)</author>
+                <author ref="viaf:67411362">Cross, Victoria (1868-1952)</author>
                 <respStmt>
                     <resp>Transcribed, encoded, and proofed by </resp>
                     <name>Jessica Loving</name>

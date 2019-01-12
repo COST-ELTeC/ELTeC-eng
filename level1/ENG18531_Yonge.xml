@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18531">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18531">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The Heir of Redclyffe : ELTec edition</title>
-<author>Yonge, Charlotte Mary (1823-1901).</author>
+<author ref="viaf:71399881">Yonge, Charlotte Mary (1823-1901)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -2322,8 +2320,7 @@ to meet the exigencies of the times. Guy had got hold of Mr. Edmonstone's specta
 putting its spring to a hard trial. Mrs. Edmonstone doubted whether to interfere again; she knew
 this was not the sort of thing that tried his temper, yet she particularly disliked playing him off,
 as it were, for Philip's amusement, and quite as much letting him go on, and lower himself in her
-nephew's estimation. The spectacle-case settled the matter—a crack was heard, it refused to <pb
-n="97"/> snap at all; and Guy, much discomfited, made many apologies.</p>
+nephew's estimation. The spectacle-case settled the matter—a crack was heard, it refused to <pb n="97"/> snap at all; and Guy, much discomfited, made many apologies.</p>
 <p>Amy laughed; Philip was much too well-bred to do anything but curl his lip unconsciously. Mrs.
 Edmonstone waited till he was gone, then, when she was wishing Guy 'good night' at Charles' door,
 she said:</p>
@@ -2515,8 +2512,7 @@ the singing not such mere milk and water; your reading the Prælectiones is an a
 to time, besides the mutton of to-day succeeding the beef of yesterday. Heigh ho! I'll tell you
 what, Guy, though I may carry it off with a high hand, 'tis no joke to be a helpless log all the
 best years of a man's life,—nay, for my whole life,—for at the very best of the contingencies the
-doctors are always flattering me with, I should make but a wretched crippling affair of <pb n="105"
-/> it. And if that is the best hope they give me, you may guess it is likely to be a pretty deal
+doctors are always flattering me with, I should make but a wretched crippling affair of <pb n="105"/> it. And if that is the best hope they give me, you may guess it is likely to be a pretty deal
 worse. Hope? I've been hoping these ten years, and much good has it done me. I say, Guy,' he
 proceeded, in a tone of extreme bitterness, though with a sort of smile, 'the only wonder is that I
 don't hate the very sight of you! There are times when I feel as if I could bite some men,—that
@@ -5395,8 +5391,7 @@ arm round her neck, and she rested her head on his shoulder.</p>
 fullness in his throat; 'and I hope you give me credit for amazing selfdenial in so doing.'</p>
 <p>'O Charlie,—dear Charlie!' and she kissed him, she could not blush more, poor little thing, for
 she had already reached her utmost capability of redness,—'it is no such thing.'</p>
-<p>'No such thing! What has turned you into a turkey-cock all at once, or what made him nearly <pb
-n="230"/> squeeze off my unfortunate fingers? No such thing, indeed!'</p>
+<p>'No such thing! What has turned you into a turkey-cock all at once, or what made him nearly <pb n="230"/> squeeze off my unfortunate fingers? No such thing, indeed!'</p>
 <p>'I-mean—I mean, it is not <hi>that</hi> . We are so very young, and I am so silly.'</p>
 <p>'Is that his reason?'</p>
 <p>'You must make me so much better and wiser! Oh, if I could but be good enough!'</p>
@@ -5901,8 +5896,7 @@ to know one whom he valued so highly. Guy thus found himself admitted into an en
 There were two sisters, together in everything. Jane, the younger, was a kind-hearted, commonplace
 person, who would never have looked beyond the ordinary range of duties and charities; but Elizabeth
 was one of those who rise up, from time to time, as burning and shining lights. It was not spending
-a quiet, easy life, making her charities secondary to her comforts, but devoting time, strength, <pb
-n="253"/> and goods; not merely giving away what she could spare, but actually sharing all with the
+a quiet, easy life, making her charities secondary to her comforts, but devoting time, strength, <pb n="253"/> and goods; not merely giving away what she could spare, but actually sharing all with the
 poor, reserving nothing for the future. She not only taught the young, and visited the distressed,
 but she gathered orphans into her house, and nursed the sick day and night. Neither the means nor
 the strength of the two sisters could ever have been supposed equal to what they were known to have
@@ -6251,8 +6245,7 @@ of the whole line felt more deadly fierceness than held sway over him, as he con
 revenge, looked forward with a dire complacency to the punishment he would wreak, not for this
 offence alone, but for a long course of enmity. He sat, absorbed in the plan of vengeance, perfectly
 still, for his physical exhaustion was complete; but as the pulsations of his heart grew less wild,
-his purpose became sterner and more fixed. He devised its execution, planned his sudden journey, <pb
-n="269"/> saw himself bursting on Philip early next morning, summoning him to answer for his
+his purpose became sterner and more fixed. He devised its execution, planned his sudden journey, <pb n="269"/> saw himself bursting on Philip early next morning, summoning him to answer for his
 falsehoods. The impulse to action seemed to restore his power over his senses. He looked round, to
 see where he was, raising his head from his hands.</p>
 <p>The sun was setting opposite to him, in a flood of gold,—a ruddy ball, surrounded with its pomp
@@ -6660,8 +6653,7 @@ that had been dropped, and went, without speaking.</p>
 have the spirit of a man and the limbs of a cripple. I know if I was good for anything, things would
 not long be in this state. I should be at St. Mildred's by this time, at the bottom of the whole
 story, and Philip would be taught to eat his words in no time, and make as few wry faces as suited
-his dignity. But what is the use of talking? This sofa'—and he struck his fist against it— <pb
-n="287"/> 'is my prison, and I am a miserable cripple, and it is' mere madness in me to think of
+his dignity. But what is the use of talking? This sofa'—and he struck his fist against it— <pb n="287"/> 'is my prison, and I am a miserable cripple, and it is' mere madness in me to think of
 being attended to.'</p>
 <p>'O Charlie!' cried Amy, caressingly, and much distressed, 'don't talk so. Indeed, I can't bear
 it! You know it is not so.'</p>
@@ -8984,8 +8976,7 @@ Easter Tuesday. 'If you will clear up the gambling story,' he wrote, 'all may ye
 <p>Guy sighed as he laid aside the letter. 'All in vain, kind Charlie,' said he to himself, 'vain as
 are my attempts to keep my poor uncle from sinking himself further! Is it fair, thought,' continued
 he, with vehemence, 'that the happiness of at least one life should be sacrificed to hide one step
-in the ruin of a man who will not let himself be saved? Is it not a waste of self-devotion? <pb
-n="32"/> Have I any right to sacrifice hers? Ought I not rather—and a flash of joy came over him—'to
+in the ruin of a man who will not let himself be saved? Is it not a waste of self-devotion? <pb n="32"/> Have I any right to sacrifice hers? Ought I not rather—and a flash of joy came over him—'to
 make my uncle give me back my promise of concealment? I can make it up to him. It cannot injure him,
 since only the Edmonstones will know it! But'— and he pressed his lips firmly together—'is this the
 spirit I have been struggling for this whole winter? Did I not see that patient waiting and yielding
@@ -9126,8 +9117,7 @@ be the clue to it. I begged to see the child, and in she came, the very image of
 sharp little thing that knew what she meant, but had not much idea of the shame, poor child, about
 her father. She told me the story of his coming home in the morning, and her mother being in great
 distress, and saying they were ruined, till you came and talked to her mother, and gave her
-something. I asked if it was money, and she said it was paper. I showed her a draft, and she <pb
-n="39"/> knew it was like that. So then I made her tell me where to find her father, whom I used to
+something. I asked if it was money, and she said it was paper. I showed her a draft, and she <pb n="39"/> knew it was like that. So then I made her tell me where to find her father, whom I used to
 know in old times, and had to write to, now and then. I hunted him up, and a creditable figure he
 was, to be sure; but I got the truth out of him at last, and when he heard you had got into disgrace
 on his account, he raved like a tragedy hero, and swore he would come and tell your guardian the
@@ -9170,8 +9160,7 @@ his fingers close on her white glove for one moment, but she only heard his voic
 'How are you, Charlie?' Her father came to her, gave her first his usual kiss of greeting, then, not
 letting her go, looked at her for a moment, and, as if he could not help it, kissed her on both
 cheeks, and said,—'How d'ye do, my little Amy?' in a voice that meant unutterable things. All the
-room was swimming round; there was nothing for it but to run away, and she ran, but from <pb n="41"
-/> the ante-room she heard the call outside, 'Sir Guy's bag to his room,' and she could not rush out
+room was swimming round; there was nothing for it but to run away, and she ran, but from <pb n="41"/> the ante-room she heard the call outside, 'Sir Guy's bag to his room,' and she could not rush out
 among the servants. At that moment, however, she spied Mary Ross and her father; she darted up to
 them, said something incoherent about Mary's bonnet, and took her up to her own room.</p>
 <p>'Amy, my dear, you look wild. What has come to you?'</p>
@@ -9425,8 +9414,7 @@ be a clever, strong-minded woman, such as one admires.'</p>
 wish it much more, and I have been trying to learn to bear things, and so'—out came something, very
 like a sunny smile, though some tears followed—'so if you do like such a silly little thing, it
 can't be helped, and we will try to make the best of her. Only don't say any more about my being
-happier without you; for one thing I am very sure of, Guy, I had rather bear anything with <pb
-n="53"/> you, than know you were bearing it alone. I am only afraid of being foolish and weak, and
+happier without you; for one thing I am very sure of, Guy, I had rather bear anything with <pb n="53"/> you, than know you were bearing it alone. I am only afraid of being foolish and weak, and
 making things worse for you.'</p>
 <p>'So much worse! But still,' he added, 'speak as you may, my Amy, I cannot, must not, feel that I
 have a right to think of you as my own, till you have heard all. You ought to know what my temper is
@@ -10674,8 +10662,7 @@ them from being either savage or sentimental, though at the expense of Charlotte
 for they had no umbrella, and she would not accept a share of Charles's carriage-cloak. She laughed,
 and drove on fast through the short cut, and arrived at the house-door just as the pelting hail was
 over, having battered her thin sleeves, and made her white bonnet look very deplorable. The first
-thing they saw was Guy, with Bustle close to him, for Bustle had found out that something <pb
-n="109"/> was going on that concerned his master, and followed him about more assiduously than ever,
+thing they saw was Guy, with Bustle close to him, for Bustle had found out that something <pb n="109"/> was going on that concerned his master, and followed him about more assiduously than ever,
 as if sensible of the decree, that he was to be left behind to Charlotte's care.</p>
 <p>'Charlotte, how wet you are.'</p>
 <p>'Never mind, Charlie is not.' She sprung out, holding his hand, and felt as if she could never
@@ -10850,8 +10837,7 @@ outline of the white-capped Jung Frau and her attendant mountains, wishing she c
 Laura, but intending her outline to aid in describing the scene to those whose eyes she longed to
 have with her. While she was drawing, Guy began to climb higher, and was soon out of sight, though
 she still heard him whistling. The mountains were not easy to draw, or rather, she grew discontented
-with her black lines and white paper, compared with the dazzling snow against the blue sky, <pb
-n="117"/> tinged by the roseate tints of the setting sun, and the dark fissures on the rocky sides,
+with her black lines and white paper, compared with the dazzling snow against the blue sky, <pb n="117"/> tinged by the roseate tints of the setting sun, and the dark fissures on the rocky sides,
 still blacker from the contrast.</p>
 <p>She put up her sketching materials, and began to gather some of the delightful treasury of
 mountain flowers. A gentle slope of grass was close to her, and on it grew, at some little distance
@@ -12669,8 +12655,7 @@ seemed to lose their effect, and the sinking was almost deathlike.</p>
 him almost unconsciously,—'Oh for one breath of Redclyffe sea-wind!' Indeed, it seemed as if the
 close air of the shut in valley, at the end of a long hot day, was almost enough to overwhelm him,
 weak as he had become. Every morning, when Amabel let in the fresh breeze at the window, she
-predicted it would be a cool day, and do him good; every afternoon, the wind abated, the <pb n="197"
-/> sun shone full in, the room was stifling, the faintness came on, and after a few vain attempts at
+predicted it would be a cool day, and do him good; every afternoon, the wind abated, the <pb n="197"/> sun shone full in, the room was stifling, the faintness came on, and after a few vain attempts at
 relieving it, Guy sighed that there was nothing for it but quiet, and Amy was obliged to acquiesce.
 As the sun set in, the breeze sprung up, it became cooler, he fell asleep, awoke revived, was
 comfortable all the evening, and Amy left him at eleven or twelve, with hopes of his having a good
@@ -13505,8 +13490,7 @@ writing his name below the old inscription, he added, 'And the date, Amy, and—
 write 'from G. M.'—'but put from A. F. M. too. Thank you! One thing more,' he hesitated, and spoke
 very low, 'You <hi>must</hi> write in it what you said when you came to fetch me that day,—'A
 broken'—</p>
-<p>As she finished writing, Mrs. Edmonstone came in. 'My Amy, all is ready. We must go. Good by, <pb
-n="234"/> Philip,' said she, in the tone of one so eager for departure as to fancy farewells would
+<p>As she finished writing, Mrs. Edmonstone came in. 'My Amy, all is ready. We must go. Good by, <pb n="234"/> Philip,' said she, in the tone of one so eager for departure as to fancy farewells would
 hasten it. However, she was not more eager than Mr. Edmonstone, who rushed in to hurry them off,
 shaking hands cordially with Philip, and telling him to make haste and recover his good looks.
 Amabel held out her hand. She would fain have said something cheering, but the power failed her. A
@@ -14987,8 +14971,7 @@ arms, and Amy, putting back her veil, gazed up with a wistful but serene look.</
 <p>'To her life's end!' Therewith came a vision of the sunrise at Recoara, and the more glorious
 dawn that had shone in Guy's dying smile, and Amabel knew what would be her best prayer for his
 little Mary Verena, as she took her back, the drops glistening on her brow, her eyes open, and arms
-outspread. It was at that moment that Amabel was first thrilled with a look in her child <pb n="301"
-/> that was like its father. She had earnestly and often sought a resemblance without being able
+outspread. It was at that moment that Amabel was first thrilled with a look in her child <pb n="301"/> that was like its father. She had earnestly and often sought a resemblance without being able
 honestly to own that she perceived any; but now, though she knew not in what it consisted, there was
 something in that baby face that recalled him more vividly than picture or memory.</p>
 <p>'Lord, now lettest Thou Thy servant depart in peace.'</p>
@@ -15101,8 +15084,7 @@ with poor Sir Guy, and was afraid the lovers had been in such haste as to pain L
 there was a staidness and want of <hi>épanchement du coeur</hi> of answering that was very unlike
 her usual warm manner. At dinner, Mr. Edmonstone was in high spirits, delighted at Amy's recovery,
 happy to have a young man about the house again, charmed to see two lovers together, pleased that
-Laura should be mistress of Redclyffe, since it could not belong to Amy's child; altogether, <pb
-n="306"/> as joyous as ever. His wife, being at ease about Amy, did her best to smile, and even
+Laura should be mistress of Redclyffe, since it could not belong to Amy's child; altogether, <pb n="306"/> as joyous as ever. His wife, being at ease about Amy, did her best to smile, and even
 laugh, though sad at heart all the time, as she missed the father from the christening feast, and
 thought how happy she had been in that far different reunion last year. It might be the same with
 Charles; but the outward effect was exhibited in lively nonsense; Charlotte's spirits were rising
@@ -15247,8 +15229,7 @@ she had but had one kiss, one touch that I could tell her of by and by, it would
 was so very fatherless. Oh no, baby, I must wait, that you may know something about him; for no one
 else can tell you so well what he was, though I can't tell much!' She presently returned to her
 seat. 'No, I don't believe I really wish I was like poor Alice,' said she; 'I hope not, I am sure I
-don't, for her sake. But Mary, I never knew till I was well again, how much I had reckoned <pb
-n="313"/> on dying when she was born. I did not think I was wishing it, but it seemed likely, and I
+don't, for her sake. But Mary, I never knew till I was well again, how much I had reckoned <pb n="313"/> on dying when she was born. I did not think I was wishing it, but it seemed likely, and I
 was obliged to arrange things in case of it. Then somehow, as he came back last spring, after that
 sad winter, it seemed as if this spring, though he would not come back to me, I might be going to
 him.'</p>

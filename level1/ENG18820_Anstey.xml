@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18820">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18820">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Vice Versa: or, A Lesson to Fathers : ELTec edition</title>
-<author>Anstey, F. (pseud.) (1856-1934).</author>
+<author ref="viaf:69063398">Anstey, F. (pseud.) (1856-1934)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -3199,8 +3197,7 @@ all, but it only makes him laugh. Once, you know, he would have been awfully ang
 hinted at it.</p><p>"Do you know, I really think that the real reason he was so cross and sharp with
 us that last week was because you were going away; for now the wrench of parting is over, he is
 quite light-hearted again. You know how he always hates showing his feelings.</p><p>"He is so
-altered now, you can't think. He has actually only once been up to the city since you left,<pb
-n="137"/> and then he came home at four o'clock, and he seems to quite like to have us all about
+altered now, you can't think. He has actually only once been up to the city since you left,<pb n="137"/> and then he came home at four o'clock, and he seems to quite like to have us all about
 him. Generally he stays at home all the morning and plays at soldiers with baby in the dining-room.
 You would laugh to see him loading the cannons with real powder and shot, and he didn't care a bit
 when some of it made holes in the sideboard and smashed the looking-glass.</p><p>"We had such fun
@@ -3219,8 +3216,7 @@ is all in yellow satin, which is rather bright, I think. I haven't seen the carp
 match the furniture; and there is a lovely hearthrug, with a lion-hunt worked on it.</p><p>"But that
 isn't the best of it; we are going to have the big children's party after all! No one but children
 invited, and everyone to do exactly what they like. I wanted so much to have you home for it, but
-papa says it would only unsettle you and take you away from your work.</p><p><pb n="138"
-/></p><p>"Had Dulcie forgotten you? I should like to see her so much. Now I really must leave off,
+papa says it would only unsettle you and take you away from your work.</p><p><pb n="138"/></p><p>"Had Dulcie forgotten you? I should like to see her so much. Now I really must leave off,
 as I am going to the Aquarium with papa. Mind you write me as good a letter as this is, if that old
 Doctor lets you. Minnie and Roly send love and kisses, and papa sends his kind regards, and I am to
 say he hopes you are settling down steadily to work.</p><p>"With best love, your affectionate
@@ -4346,8 +4342,7 @@ dawn to break.</p>
 incredible good fortune; in a few hours he would be travelling safely and comfortably home, with
 every facility for regaining his rights. He chuckled—though his sense of humour was not large—he
 chuckled, as he lay snugly in bed, to think of Dick's discomfiture on seeing him return so
-unexpectedly; he began to put it down, quite unwarrantably, to his own cleverness, as having <pb
-n="186"/>conceived and executed such a stroke of genius as procuring his own expulsion.</p>
+unexpectedly; he began to put it down, quite unwarrantably, to his own cleverness, as having <pb n="186"/>conceived and executed such a stroke of genius as procuring his own expulsion.</p>
 <p>He remained in bed until long after the getting-up bell had rung, feeling that his position
 ensured him perfect impunity in this, and when he rose at length it was in high spirits, and he
 dressed himself with a growing toleration for things in general, very unlike his ordinary frame of

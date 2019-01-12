@@ -1,11 +1,10 @@
-<?xml-model href="http://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18920" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18920" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The diary of a nobody : ELTeC edition</title>
-        <author ref="viaf:64144601">Grossmith, George (1847-1912) </author>
-        <author ref="viaf:56749462">Grossmith, Weedon (1852-1919) </author>
+        <author ref="viaf:64144601">Grossmith, George (1847-1912)</author>
+        <author ref="viaf:64144601">Grossmith, George (1847-1912)</author>
       <respStmt><resp>Original HTML version</resp>
       <name>Louise Hope</name></respStmt>
       <respStmt><resp>ELTeC encoding</resp>
@@ -21,22 +20,22 @@
         <bibl><title>The Diary of a Nobody
           by George Grossmith
           and Weedon Grossmith</title>
-          <ref target="http://fiftywordsforsnow.com/ebooks/nobody/"></ref>
+          <ref target="http://fiftywordsforsnow.com/ebooks/nobody/"/>
         <relatedItem type="copyText"><bibl><author>George Grossmith</author> and <author>Weedon Grossmith</author>
         <publisher>Simpkin, Marshall</publisher>
         <date>1892</date></bibl></relatedItem>
       </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
-      <langUsage><language ident="en"></language></langUsage>
+      <langUsage><language ident="en"/></langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc><revisionDesc>
       <change when="2018-09-23">LB made header</change>
@@ -88,8 +87,7 @@
           Laurels," Brickfield Terrace, Holloway-a nice six-roomed residence, not counting basement
           with a front breakfast-parlour. We have a little front garden; and there is a flight of
           ten steps up to the front door; which, by-the-by, we keep locked with the chain up.
-          Cummings, Gowing, and our other intimate friends always come to the little side <pb n="14"
-          /> entrance, which saves the servant the trouble of going up to the front door, thereby
+          Cummings, Gowing, and our other intimate friends always come to the little side <pb n="14"/> entrance, which saves the servant the trouble of going up to the front door, thereby
           taking her from her work. We have a nice little back garden which runs down to the
           railway. We were rather afraid of the noise of the trains at first, but the landlord said
           we should not notice them after a bit, and took £2 off the rent. He was certainly right;
@@ -261,8 +259,7 @@
           on <hi>Gardening</hi>. I procured and sowed some half-hardy annuals in what I fancy will
           be a warm, sunny border. I thought of a joke, and called out Carrie. Carrie came out
           rather testy, I thought. I said: "I have just discovered we have got a lodging-house." She
-          replied: "How do you mean?" I said: "Look at the <hi>boarders</hi>." Carrie said: "Is <pb
-            n="29"/> that all you wanted me for?" I said: "Any other time you would have laughed at
+          replied: "How do you mean?" I said: "Look at the <hi>boarders</hi>." Carrie said: "Is <pb n="29"/> that all you wanted me for?" I said: "Any other time you would have laughed at
           my little pleasantry." Carrie said: "Certainly-<hi>at any other time</hi>, but not when I
           am busy in the house." The stairs looked very nice. Gowing called, and said the stairs
           looked <hi>all right</hi>, but it made the banisters look <hi>all wrong</hi>, and
@@ -316,8 +313,7 @@
           having been insulted.</p>
         <p><label>April 18.</label>-Am in for a cold. Spent the whole day at the office sneezing. In
           the evening, the cold being intolerable, sent Sarah out for a bottle of Kinahan. Fell
-          asleep in the arm-chair, and woke with the shivers. Was startled by a loud knock at <pb
-            n="34"/> the front-door. Carrie awfully flurried. Sarah still out, so went up, opened
+          asleep in the arm-chair, and woke with the shivers. Was startled by a loud knock at <pb n="34"/> the front-door. Carrie awfully flurried. Sarah still out, so went up, opened
           the door, and found it was only Cummings. Remembered the grocer's boy had again broken the
           side-bell. Cummings squeezed my hand, and said: "I've just seen Gowing. All right. Say no
           more about it." There is no doubt they are both under the impression I have
@@ -510,8 +506,7 @@ Tussaud's."-->
           saw the tears in Carrie's eyes, and she said: "Charlie dear, it is <hi>I</hi> who have to
           be proud of you. And I am very, very proud of you. You have called me pretty; and as long
           as I am pretty in your eyes, I am happy. You, dear old Charlie, are <hi>not</hi> handsome,
-          but you are <hi>good</hi>, which is far more noble." I gave her a kiss, and she said: <pb
-            n="54"/> "I wonder if there will be any dancing? I have not danced with you for
+          but you are <hi>good</hi>, which is far more noble." I gave her a kiss, and she said: <pb n="54"/> "I wonder if there will be any dancing? I have not danced with you for
           years."</p>
         <p>I cannot tell what induced me to do it, but I seized her round the waist, and we were
           silly enough to be executing a wild kind of polka when Sarah entered, grinning, and said:
@@ -1043,8 +1038,7 @@ plaster-of-Paris.-->
           retreating from one of the bedroom windows.</p>
         <p><label>August 27.</label>-Carrie and Mrs. James went off shopping, and had not returned
           when I came back from the office. Judging from the subsequent conversation, I am afraid
-          Mrs. James is filling Carrie's head with a lot of nonsense about dress. I walked <pb
-            n="102"/> over to Gowing's, and asked him to drop in to supper, and make things
+          Mrs. James is filling Carrie's head with a lot of nonsense about dress. I walked <pb n="102"/> over to Gowing's, and asked him to drop in to supper, and make things
           pleasant.</p>
         <p>Carrie prepared a little extemporised supper, consisting of the remainder of the cold
           joint, a small piece of salmon (which I was to refuse, in case there was not enough to go
@@ -1588,8 +1582,7 @@ by Himself.-->
           mind pretty freely about Padge. Gowing said he had met him only once before that evening.
           He had been introduced by a friend, and as he (Padge) had "stood" a good dinner. Gowing
           wished to show him some little return. Upon my word. Gowing's coolness surpasses all
-          belief. Lupin came in before I could reply, and Gowing unfortunately enquired <pb n="152"
-          /> after Daisy Mutlar. Lupin shouted: "Mind your own business, sir!" and bounced out of
+          belief. Lupin came in before I could reply, and Gowing unfortunately enquired <pb n="152"/> after Daisy Mutlar. Lupin shouted: "Mind your own business, sir!" and bounced out of
           the room, slamming the door. The remainder of the night was Daisy Mutlar-Daisy
           Mutlar-Daisy Mutlar. Oh dear!</p>
         <p><label>November 26, Sunday.</label>-The curate preached a very good sermon to-day-very
@@ -1833,8 +1826,7 @@ by Himself.-->
           Gowing suddenly seized all the parsley off the cold mutton, and threw it full in my face.
           I looked daggers at Gowing, who replied: "I say, it's no good trying to look indignant,
           with your hair full of parsley." I rose from the table, and insisted that a stop should be
-          put to this foolery at once. Frank Mutlar shouted: "Time, gentlemen, please! time!" <pb
-            n="173"/> and turned out the gas, leaving us in absolute darkness.</p>
+          put to this foolery at once. Frank Mutlar shouted: "Time, gentlemen, please! time!" <pb n="173"/> and turned out the gas, leaving us in absolute darkness.</p>
         <p>I was feeling my way out of the room, when I suddenly received a hard intentional punch
           at the back of my head. I said, loudly: "Who did that?" There was no answer; so I repeated
           the question, with the same result. I struck a match, and lighted the gas. They were all
@@ -2118,8 +2110,7 @@ by Himself.-->
           everybody. He shouted to respectable people who were walking quietly in the road to get
           out of the way; he flicked at the horse of an old man who was riding, causing it to rear;
           and, as I had to ride backwards, I was compelled to face a gang of roughs in a
-          donkey-cart, whom Lupin had chaffed, and who turned and followed us for nearly <pb n="196"
-          /> a mile, bellowing, indulging in coarse jokes and laughter, to say nothing of
+          donkey-cart, whom Lupin had chaffed, and who turned and followed us for nearly <pb n="196"/> a mile, bellowing, indulging in coarse jokes and laughter, to say nothing of
           occasionally pelting us with orange-peel.</p>
         <p>Lupin's excuse-that the Prince of Wales would have to put up with the same sort of thing
           if he drove to the Derby-was of little consolation to either Carrie or myself. Frank
@@ -2288,8 +2279,7 @@ by Himself.-->
           appearance. I said: "Well, Lupin, how about Mr. Perkupp?" Lupin commenced his song:
           "What's the matter with Perkupp? He's all right!" I felt instinc­tively my boy was
           engaged. I went to Mr. Perkupp, but I could not speak. He said: "Well, Mr. Pooter, what is
-          it?" I must have looked a fool, for all I could say was: "Mr. Perkupp, you are a <pb
-            n="214"/> good man." He looked at me for a moment, and said: "No, Mr. Pooter,
+          it?" I must have looked a fool, for all I could say was: "Mr. Perkupp, you are a <pb n="214"/> good man." He looked at me for a moment, and said: "No, Mr. Pooter,
             <hi>you</hi> are the good man; and we'll see if we cannot get your son to follow such an
           excellent example." I said: "Mr. Perkupp, may I go home? I cannot work any more
           to-day."</p>
@@ -2304,8 +2294,7 @@ by Himself.-->
           together, and who knows but in the course of time he may take great interest in our little
           home. That he may help me to put a nail in here or a nail in there, or help his dear
           mother to hang a picture. In the summer he may help us in our little garden with the
-          flowers, and assist us to paint the stands and pots. (By-the-by, I must get <pb
-            n="215&#xA;216"/> in some more enamel paint.) All this I thought over and over again,
+          flowers, and assist us to paint the stands and pots. (By-the-by, I must get <pb n="215&#xA;216"/> in some more enamel paint.) All this I thought over and over again,
           and a thousand happy thoughts beside. I heard the clock strike four, and soon after fell
           asleep, only to dream of three happy people. Lupin, dear Carrie, and myself.</p>
       </div>
@@ -2598,8 +2587,7 @@ imitating birds.-->
         <p><label>April 29.</label>-I am getting quite accustomed to being snubbed by Lupin, and I
           do not mind being sat upon by Carrie, because I think she has a certain amount of right to
           do so; but I do think it hard to be at once snubbed by wife, son, and both my guests.</p>
-        <p>Gowing and Cummings had dropped in during the evening, and I suddenly remembered an <pb
-            n="242"/> extraordinary dream I had a few nights ago, and I thought I would tell them
+        <p>Gowing and Cummings had dropped in during the evening, and I suddenly remembered an <pb n="242"/> extraordinary dream I had a few nights ago, and I thought I would tell them
           about it. I dreamt I saw some huge blocks of ice in a shop with a bright glare behind
           them. I walked into the shop and the heat was overpowering. I found that the blocks of ice
           were on fire. The whole thing was so real and yet so supernatural I woke up in a cold
@@ -2962,8 +2950,7 @@ Smith James.-->
           was willing to be convinced.</p>
         <p>I firmly declined to take any part in it, with the result that my presence was ignored. I
           left the three sitting in the parlour at a small round table which they had taken out of
-          the drawing-room. I walked into the hall with the ultimate intention of taking <pb n="274"
-          /> a little stroll. As I opened the door, who should come in but Gowing!</p>
+          the drawing-room. I walked into the hall with the ultimate intention of taking <pb n="274"/> a little stroll. As I opened the door, who should come in but Gowing!</p>
         <p>On hearing what was going on, he proposed that we should join the circle and he would go
           into a trance. He added that he <hi>knew</hi> a few things about old Cummings, and would
             <hi>invent</hi> a few about Mrs. James. Knowing how dangerous Gowing is, I declined to
@@ -3127,8 +3114,7 @@ Smith James.-->
           never loses by a good address, and, to use his own expression, Brickfield Terrace is a bit
           "off." Whether he means it is "far off" I do not know. I have long since given up trying
           to understand his curious expressions. I said the neighbourhood had always been good
-          enough for his parents. His reply was: "It is no question of being good or bad. There <pb
-            n="288"/> is no money in it, and I am not going to rot away my life in the suburbs."</p>
+          enough for his parents. His reply was: "It is no question of being good or bad. There <pb n="288"/> is no money in it, and I am not going to rot away my life in the suburbs."</p>
         <p>We are sorry to lose him, but perhaps he will get on better by himself, and there may be
           some truth in his remark that an old and a young horse can't pull together in the same
           cart.</p>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18500" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18500" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Auriol, or The elixir of life : ELTeC edition</title>
-<author>Ainsworth, William Harrison (1805-1822)</author>
+<author ref="viaf:46894596">Ainsworth, William Harrison (1805-1822)</author>
 </titleStmt>
 <extent>
 <measure unit="words">46373</measure>
@@ -24,7 +22,7 @@
 <publisher>London: George Routledge and sons</publisher>
 <date>1850</date>
 <ref target="bod:600060841.pdf">Page images of Bodleian copy [1875 reprint]</ref></bibl>
-</relatedItem> ></bibl>
+</relatedItem> &gt;</bibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
@@ -385,8 +383,7 @@ revel, sing—life shall be one perpetual round of enjoyment. Now for the trial�
 the potion towards his lips, a sudden pang shot across his heart. “What is this?” he cried,
 staggering. “Can death assail me when I am just about to enter upon perpetual life? Help me, good
 grandson! Place the phial to my lips. Pour its contents down my throat—quick! quick!”</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“I am too weak to stir,” groaned Auriol. “You have delayed it too long.”</p>
 <p>“Oh, heavens! we shall both perish,” shrieked Darcy, vainly endeavouring to raise his palsied
 arm,—“perish with the blissful shore in view.”</p>
@@ -586,8 +583,7 @@ noiselessly upon the wall, and overtook his intended victim just before he gaine
 <p>Hearing a sound behind him, the young man turned, and only just became conscious of the presence
 of the Sandman, when the mallet descended upon his head, and he fell crushed and senseless to the
 ground.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“The vork’s done!” cried the Sandman to his companion, who instantly came up with the dark
 lantern; “let’s take him below, and strip him.”</p>
 <p>“Agreed,” replied the Tinker; “but first let’s see wot he has got in his pockets.”</p>
@@ -719,8 +715,7 @@ of pulls; while Mr. Ginger, seeing they were engaged, sauntered towards the card
 his four-footed companions.</p>
 <p>“And now,” said the Sandman, unable to control his curiosity longer, and taking out his
 pocket-book, “we’ll see what fortun’ has given us.”</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>So saying, he unclasped the pocket-book, while the Tinker bent over him in eager curiosity. But
 their search for money was fruitless. Not a single bank-note was forthcoming. There were several
 memoranda and slips of paper, a few cards, and an almanac for the year—that was all. It was a great
@@ -1128,8 +1123,7 @@ nearer at ‘and than he expected.”</p>
 <p>“Devil or not, I’ll have him back agin, or at all events the pocket-book!” cried the Tinker. And,
 dashing up the stairs, he caught hold of the railing above, and swinging himself up by a powerful
 effort, passed through an opening, occasioned by the removal of one of the banisters.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>Groping along the gallery, which was buried in profound darkness, he shouted to the dwarf, but
 received no answer to his vociferations; neither could he discover any one, though he felt on either
 side of the passage with outstretched hands. The occupants of the different chambers, alarmed by the
@@ -1229,8 +1223,7 @@ never saw before. If I could believe in the ‘evil eye,’ I should be sure he 
 <p>“’Tis he, there can be no doubt,” rejoined Auriol, in a sombre tone.</p>
 <p>“Who and what is he, then?” demanded Ebba.</p>
 <p>“He is a messenger of ill,” replied Auriol, “and I am thankful he is gone.”</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Are you quite sure of it?” she asked, glancing timorously up and down the road. But the
 mysterious individual could no longer be seen.</p>
 <p>“And so, after exciting my curiosity in this manner, you will not satisfy it?” she said.</p>
@@ -1782,8 +1775,7 @@ or I’ll commit you!’”</p>
 <p>“D—n Judge Learmouth!” cried the gentleman angrily. “If I were a judge, I’d hang such a careless
 fellow.”</p>
 <p>“Sarve him right!” screamed Mag—“sarve him right!”</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Beg pardon, sir,” cried Watts. “I’ll rectify you in a minute.”</p>
 <p>“Well, my little friend,” observed Trigge, “and what may be your object in coming to me? as the
 great conveyancer, Mr. Plodwell, observes to his clients—what may be your object?”</p>
@@ -1921,9 +1913,7 @@ fulfilled!”</p>
 <p>And he disappeared.</p>
 <p>Auriol tried to disengage himself from the grasp imposed upon him in vain. Uttering ejaculations
 of rage and despair, he was dragged forcibly backwards into the vault.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"
-/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 </div>
 <div type="chapter">
 <head>Chapter 10</head>
@@ -1999,8 +1989,7 @@ means by-and-by.”</p>
 sees?”</p>
 <p>“I’ll tell ‘ee, master,” rejoined the butcher’s apprentice; “they’re a tryin’ vich on ’em can see
 farthest into a millstone.”</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Only think of living all my life in London, and never examining this admirable work of art
 before!” cried Loftus, quite unconscious that he had become the object of general curiosity.</p>
 <p>“Look closer at it, old gem’man,” cried the porter. “The nearer you get, the more you’ll admire
@@ -2259,8 +2248,7 @@ her.</p>
 long.”</p>
 <p>“What crime have you committed?” demanded Ebba.</p>
 <p>“We have loved him,” replied the second figure.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Is that a crime?” cried Ebba. “If so, I am equally culpable with you.”</p>
 <p>“You will share our doom,” replied the third figure.</p>
 <p>“Heaven have mercy upon me!” exclaimed the agonised girl, dropping upon her knees.</p>
@@ -2364,8 +2352,7 @@ time is arrived. Old Cyprian must have foreseen what would happen, and evidently
 his heir. There was no occasion for the devil’s interference. And see, the key is in the lock. So!”
 And he turned it, and pushing against the door with some force, the rusty hinges gave way, and it
 fell inwards.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>From the aperture left by the fallen door, a soft and silvery light streamed forth, and, stepping
 forward, Rougemont found himself in a spacious vault, from the ceiling of which hung a large globe
 of crystal, containing in its heart a little flame, which diffused a radiance, gentle as that of the
@@ -2484,8 +2471,7 @@ chamber, surrounded with sofas of the most luxurious description. In the midst w
 writing materials were placed.</p>
 <p>“It were a fruitless boon to give you this house without the means of living in it,” said
 Rougemont, carefully closing the door. “This pocket-book will furnish you with them.”</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Notes to an immense amount!” cried Auriol, opening the pocket-book, and glancing at its
 contents.</p>
 <p>“They are yours, together with the house,” cried Rougemont, “if you will but sign a compact with
@@ -2751,8 +2737,7 @@ the Italian Opera; after which, the ball was opened by Auriol and his lovely bri
 dance was over, Auriol made a sign to an attendant, who instantly disappeared.</p>
 <p>“Are you prepared to quit this gay scene with me, Edith?” he asked, with a heart swelling with
 rapture.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Quite so,” she replied, gazing at him with tenderness; “I long to be alone with you.”</p>
 <p>“Come, then,” said Auriol.</p>
 <p>Edith arose, and passing her arm under that of her husband, they quitted the ball-room, but in
@@ -3057,8 +3042,7 @@ ludicrous and terrible, and his roaring within the casque sounded like the bello
 bull.</p>
 <p>Down came the second helmet, though rather more slowly, and the Sandman was eclipsed in the same
 manner as the Tinker, and roared as loudly.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>In both these instances the helmets had dropped without guidance, but in the case of Mr.
 Thorneycroft, a hand, thrust out of the hole in the ceiling, held the helmet suspended over his
 head, like the sword of Damocles. While the poor iron-merchant momentarily expected the same doom as
@@ -3428,8 +3412,7 @@ Rougemont—ha!”</p>
 <p>“Oh, that I could shake off the conviction that this were not so—that my soul, though heavily
 laden, might still be saved! Oh, that I dared to hope this!”</p>
 <p>“I must interrupt him if he pursues this strain,” said the listener.</p>
-<gap unit="graphic"
-n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
+<gap unit="graphic" n="images/auriolorelixirof00ains_0008.jpg images/auriolorelixirof00ains_0038.jpg images/auriolorelixirof00ains_0053.jpg images/auriolorelixirof00ains_0063.jpg images/auriolorelixirof00ains_0087.jpg images/auriolorelixirof00ains_0095.jpg images/auriolorelixirof00ains_0127.jpg images/auriolorelixirof00ains_0137.jpg images/auriolorelixirof00ains_0144.jpg images/auriolorelixirof00ains_0159.jpg images/auriolorelixirof00ains_0169.jpg images/auriolorelixirof00ains_0178.jpg images/auriolorelixirof00ains_0196.jpg images/auriolorelixirof00ains_0217.jpg images/auriolorelixirof00ains_0239.jpg"/>
 <p>“Whether my crimes are real or imaginary—whether I snatched the cup of immortality from my
 grandsire’s dying lips—whether I signed a compact with the Fiend, and delivered him a victim on each
 tenth year—I cannot now know; but if it is so, I deeply, bitterly regret them, and would expiate my

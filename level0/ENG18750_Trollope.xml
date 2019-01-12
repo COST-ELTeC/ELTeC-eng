@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="ENG18750" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18750" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The Way We Live Now : ELTec edition</title>
-<author>Trollope, Anthony (1815-1882).</author>
+<author ref="viaf:61683295">Trollope, Anthony (1815-1882)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -782,8 +780,7 @@ certainly very little in Madame Melmotte to recommend her, unless it was a readi
 on any object that might be suggested to her by her new acquaintances. It sometimes seemed that she
 had a commission from her husband to give away presents to any who would accept them. The world had
 received the man as Augustus Melmotte, Esq. The world so addressed him on the very numerous letters
-which reached him, and so inscribed him among the directors of three dozen companies to which he <pb
-n="22"/> belonged. But his wife was still Madame Melmotte. The daughter had been allowed to take her
+which reached him, and so inscribed him among the directors of three dozen companies to which he <pb n="22"/> belonged. But his wife was still Madame Melmotte. The daughter had been allowed to take her
 rank with an English title. She was now Miss Melmotte on all occasions.</p>
 <p>Marie Melmotte had been accurately described by Felix Carbury to his mother. She was not
 beautiful, she was not clever, and she was not a saint. But then neither was she plain, nor stupid,
@@ -1830,8 +1827,7 @@ longed for her with an amazing longing. He had spoken the simple truth when he d
 had become indifferent to him without her. No man in England could be less likely to throw himself
 off the Monument or to blow out his brains. But he felt numbed in all the joints of his mind by this
 sorrow. He could not make one thing bear upon another, so as to console himself after any fashion.
-There was but one thing for him;—to persevere till he got her, or till he had finally lost her. <pb
-n="51"/> And should the latter be his fate, as he began to fear that it would be, then, he would
+There was but one thing for him;—to persevere till he got her, or till he had finally lost her. <pb n="51"/> And should the latter be his fate, as he began to fear that it would be, then, he would
 live, but live only, like a crippled man.</p>
 <p>He felt almost sure in his heart of hearts that the girl loved that other, younger man. That she
 had never owned to such love he was quite sure. The man himself and Henrietta also had both assured
@@ -2261,8 +2257,7 @@ perfect good humour, extracted one from the mass which indicated Dolly Longestaf
 the amount of £50. "That's Longestaffe," said Felix, "and I'll change that of course." Then out of
 his pocket-book he extracted other minute documents bearing that M.G. which was so little esteemed
 among them,—and so made up the sum. "You seem to have £150 from Grasslough, £145 from Nidderdale,
-and £322 10 <hi>s.</hi> from Grendall," said the baronet. Then Sir Felix got up as though <pb n="63"
-/> he had paid his scoro. Fisker, with smiling good humour, arranged the little bits of paper before
+and £322 10 <hi>s.</hi> from Grendall," said the baronet. Then Sir Felix got up as though <pb n="63"/> he had paid his scoro. Fisker, with smiling good humour, arranged the little bits of paper before
 him and looked round upon the company.</p>
 <p>"This won't do, you know," said Nidderdale. "Mr. Fisker must have his money before he leaves.
 You've got it, Carbury."</p>
@@ -2922,8 +2917,7 @@ Longestaffe, devoted to opulent tradesmen. Even Belgrave Square, though its aris
 must be admitted, still smelt of the mortar. Many of those living there and thereabouts had never
 possessed in their families real family town-houses. The old streets lying between Piccadilly and
 Oxford Street, with one or two well-known localities to the south and north of these boundaries,
-were the proper sites for these habitations. When Lady Pomona, instigated by some friend of <pb
-n="81"/> high rank but questionable taste, had once suggested a change to Eaton Square, Mr.
+were the proper sites for these habitations. When Lady Pomona, instigated by some friend of <pb n="81"/> high rank but questionable taste, had once suggested a change to Eaton Square, Mr.
 Longestaffe had at once snubbed his wife. If Burton Street wasn't good enough for her and the girls
 then they might remain at Caversham. The threat of remaining at Caversham had been often made, for
 Mr. Longestaffe, proud as he was of his town-house, was, from year to year, very anxious to save the
@@ -3440,8 +3434,7 @@ entitled to such courtesy at Carbury. He held the place in trust for the use of 
 were one among all others to whom the house should be a house of refuge from care, not an abode of
 trouble, on whose behalf were it possible he would make the very air softer, and the flowers sweeter
 than their wont, to whom he would declare, were such words possible to his tongue, that of him and
-of his house, and of all things there she was the mistress, whether she would condescend to <pb
-n="95"/> love him or no,—that one was his cousin Hetta. And now he had been told by his guest that
+of his house, and of all things there she was the mistress, whether she would condescend to <pb n="95"/> love him or no,—that one was his cousin Hetta. And now he had been told by his guest that
 he had been so rough to her that she and her daughter must return to London!</p>
 <p>And he could not acquit himself. He knew that he had been rough. He had said very hard words. It
 was true that he could not have expressed his meaning without hard words, nor have repressed his
@@ -5739,8 +5732,7 @@ having no such fear, she could write warmly.</p>
 <p>"I have just got your note;—such a scrap! Of course papa would talk about money because he never
 thinks of anything else. I don't know anything about money, and I don't care in the least how much
 you have got. Papa has got plenty, and I think he would give us some if we were once married. I have
-told mamma, but mamma is always afraid of everything. Papa is very cross to her sometimes;— <pb
-n="158"/> more so than to me. I will try to tell him, though I can't always get at him. I very often
+told mamma, but mamma is always afraid of everything. Papa is very cross to her sometimes;— <pb n="158"/> more so than to me. I will try to tell him, though I can't always get at him. I very often
 hardly see him all day long. But I don't mean to be afraid of him, and will tell him that on my word
 and honour I will never marry any one except you. I don't think he will beat me, but if he does,
 I'll bear it,—for your sake. He does beat mamma sometimes, I know.</p>
@@ -9099,8 +9091,7 @@ to say, sir, as you was here?"</p>
 herself while he made up his mind what message he would leave for Mrs. Hurtle. "I'm afraid they are
 very unhappy about you down at Bungay, Miss Ruggles."</p>
 <p>"Then they've got to be unhappy; that's all about it, Mr. Montague. Grandfather is that provoking
-as a young woman can't live with him, nor yet I won't try never again. He lugged me all about <pb
-n="251"/> the room by my hair, Mr. Montague. How is a young woman to put up with that? And I did
+as a young woman can't live with him, nor yet I won't try never again. He lugged me all about <pb n="251"/> the room by my hair, Mr. Montague. How is a young woman to put up with that? And I did
 everything for him,—that careful that no one won't do it again;—did his linen, and his victuals, and
 even cleaned his boots of a Sunday, 'cause he was that mean he wouldn't have anybody about the place
 only me and the girl who had to milk the cows. There wasn't nobody to do anything, only me. And then
@@ -9206,8 +9197,7 @@ me. We had to settle something about the Moldavian loan. He came a quarter late,
 went a quarter late. And how is a man to catch a quarter of an hour? I never could do it." Montague
 assured the great man that the delay was of no consequence. "And I am so sorry to ask you into such
 a place as this. I had Brehgert in my room down-stairs, and then the house is so knocked about! We
-get into a furnished house a little way off in Bruton Street to-morrow. Longestaffe lets <pb n="254"
-/> me his house for a month till this affair of the dinner is over. By-the-bye, Montague, if you'd
+get into a furnished house a little way off in Bruton Street to-morrow. Longestaffe lets <pb n="254"/> me his house for a month till this affair of the dinner is over. By-the-bye, Montague, if you'd
 like to come to the dinner, I've got a ticket I can let you have. You know how they're run after."
 Montague had heard of the dinner, but had perhaps heard as little of it as any man frequenting a
 club at the west end of London. He did not in the least want to be at the dinner, and certainly did
@@ -10337,8 +10327,7 @@ the father could avail himself, —would turn him.</p>
 <p>On that same day Melmotte received two visits in the city from two of his fellow directors. At
 the time he was very busy. Though his electioneering speeches were neither long nor pithy, still he
 had to think of them beforehand. Members of his Committee were always trying to see him. Orders as
-to the dinner and the preparation of the house could not be given by Lord Alfred without some <pb
-n="286"/> reference to him. And then those gigantic commercial affairs which were enumerated in the
+to the dinner and the preparation of the house could not be given by Lord Alfred without some <pb n="286"/> reference to him. And then those gigantic commercial affairs which were enumerated in the
 last chapter could not be adjusted without much labour on his part. His hands were not empty, but
 still he saw each of these young men,—for a few minutes. "My dear young friend, what can I do for
 you?" he said to Sir Felix, not sitting down, so that Sir Felix also should remain standing.</p>
@@ -10780,8 +10769,7 @@ round your neck and have sworn that you should be my God upon earth, was that bi
 I have to fight my own battles. A woman's weapon is her tongue. Say but one word to me, Paul, as you
 know how to say it, and there will be soon an end to that bitterness. What shall I care for Mr.
 Carbury, except to make him the cause of some innocent joke, if you will speak but that one word.
-And think what it is I am asking. Do you remember how urgent were once your own prayers <pb n="298"
-/> to me;—how you swore that your happiness could only be secured by one word of mine? Though I
+And think what it is I am asking. Do you remember how urgent were once your own prayers <pb n="298"/> to me;—how you swore that your happiness could only be secured by one word of mine? Though I
 loved you, I doubted. There were considerations of money, which have now vanished. But I spoke it,
 —because I loved you, and because I believed you. Give me that which you swore you had given before
 I made my gift to you."</p>
@@ -10998,8 +10986,7 @@ pocket-book. She told herself that she ought to send it; but told herself as pla
 not bring herself to do so. It was early in the morning before she went to bed but she had admitted
 no one into the room after Montague had left her.</p>
 <p>Paul, when he escaped from her presence, roamed out on to the sea-shore, and then took himself to
-bed, having ordered a conveyance to take him to Carbury Manor early in the morning. At breakfast <pb
-n="304"/> he presented himself to the squire. "I have come earlier than you expected," he said.</p>
+bed, having ordered a conveyance to take him to Carbury Manor early in the morning. At breakfast <pb n="304"/> he presented himself to the squire. "I have come earlier than you expected," he said.</p>
 <p>"Yes, indeed;—much earlier. Are you going back to Lowestoffe?"</p>
 <p>Then he told the whole story. Roger expressed his satisfaction, recalling however the pledge
 which he had given as to his return. "Let her follow you, and bear it," he said. "Of course you must
@@ -12234,8 +12221,7 @@ be done out of all our settled arrangements by the folly of an idle girl. Will y
 morning about noon?" Lord Nidderdale thought of his position for a few moments and then said that
 perhaps he would come on Sunday morning. After that Melmotte proposed that they two should go and
 "get a bit of lunch" at a certain Conservative club in the City. There would be time before the
-meeting of the Railway Board. Nidderdale had no objection to the lunch, but expressed a strong <pb
-n="18"/> opinion that the Board was "rot." "That's all very well for you, young man," said the
+meeting of the Railway Board. Nidderdale had no objection to the lunch, but expressed a strong <pb n="18"/> opinion that the Board was "rot." "That's all very well for you, young man," said the
 chairman, "but I must go there in order that you may be able to enjoy a splendid fortune." Then he
 touched the young man on the shoulder and drew him back as he was passing out by the front stairs.
 "Come this way, Nidderdale;—come this way. I must get out without being seen. There are people
@@ -12337,8 +12323,7 @@ considerable difficulty in the operation.</p>
 wheel,—not to push the coach up any hill, but to prevent its being hurried along at a pace which was
 not only dangerous, but manifestly destructive. The Conservative party now and then does put its
 shoulder to the wheel, ostensibly with the great national object above named; but also actuated by a
-natural desire to keep its own head well above water and be generally doing something, so that <pb
-n="21"/> other parties may not suppose that it is moribund. There are, no doubt, members of it who
+natural desire to keep its own head well above water and be generally doing something, so that <pb n="21"/> other parties may not suppose that it is moribund. There are, no doubt, members of it who
 really think that when some object has been achieved,—when, for instance, a good old Tory has been
 squeezed into Parliament for the borough of Porcorum, which for the last three parliaments has been
 represented by a Liberal,—the coach has been really stopped. To them, in their delightful faith,
@@ -12442,8 +12427,7 @@ Parliament, who had been inoculated with the idea that the interests of the part
 in Parliament, but who would have given up his Scotch shooting rather than have undergone Molmotte's
 company for a day.</p>
 <p>"Something really must be done, Mr. Beauclerk," said Mr. Jones, who was the leading member of a
-very wealthy firm of builders in the borough, who had become a Conservative politician, who had <pb
-n="24"/> thoughts of the House for himself, but who never forgot his own position. "He is making a
+very wealthy firm of builders in the borough, who had become a Conservative politician, who had <pb n="24"/> thoughts of the House for himself, but who never forgot his own position. "He is making a
 great many personal enemies."</p>
 <p>"He's the finest old turkey cock out," said Lionel Lupton.</p>
 <p>Then it was decided that Mr. Beauclerk should speak a word to Lord Alfred. The rich man and the
@@ -12549,8 +12533,7 @@ allowed the merchant prince to return home with the resolution that his dinner s
 He would have repented probably before the next morning; and had he continued obdurate it would not
 have been difficult to explain to Celestial Majesty that something preferable had been found for
 that particular evening even to a banquet at the house of British commerce. The Government would
-probably have gained the seat for Westminster, as Melmotte would at once have become very <pb n="27"
-/> unpopular with the great body of his supporters. But Lord De Griffin was not the man to see this.
+probably have gained the seat for Westminster, as Melmotte would at once have become very <pb n="27"/> unpopular with the great body of his supporters. But Lord De Griffin was not the man to see this.
 He did make his way up to Mr. Wilson, and explained to the Amphytrion of the night the demand which
 was made on his hospitality. A thoroughly well-established and experienced political Minister of
 State always feels that if he can make a friend or appease an enemy without paying a heavy price he
@@ -13686,8 +13669,7 @@ himself in. He hunts, and Damask says that he is one of the best shots at Hurlin
 old Mr. Goldsheiner anywhere."</p>
 <p>"I have."</p>
 <p>"Oh, yes, I dare say. Mr. Melmotte, of course, entertains all the City people. I don't think Sir
-Damask would like me to ask Mr. Brehgert to dine here." Lady Monogram managed everything herself <pb
-n="59"/> with reference to her own parties; invited all her own guests, and never troubled Sir
+Damask would like me to ask Mr. Brehgert to dine here." Lady Monogram managed everything herself <pb n="59"/> with reference to her own parties; invited all her own guests, and never troubled Sir
 Damask,—who, again, on his side, had his own set of friends; but she was very clever in the use
 which she made of her husband. There were some aspirants who really were taught to think that Sir
 Damask was very particular as to the guests whom he welcomed to his own house.</p>
@@ -14553,8 +14535,7 @@ withdrawn,—and a question arose as to whether he had the legal power to withdr
 certain hour on the day before the ballot. An effort was made to convince a portion of the electors
 that he had withdrawn, or would have withdrawn, or should have withdrawn. When Melmotte was at
 Covent Garden, a large throng of men went to Whitehall Place with the view of ascertaining the
-truth. He certainly had made no attempt at withdrawal. They who propagated this report certainly <pb
-n="84"/> damaged Mr. Alf's cause. A second reaction set in, and there grew a feeling that Mr.
+truth. He certainly had made no attempt at withdrawal. They who propagated this report certainly <pb n="84"/> damaged Mr. Alf's cause. A second reaction set in, and there grew a feeling that Mr.
 Melmotte was being ill-used. Those evil things had been said of him,—many at least so declared,—not
 from any true motive, but simply to secure Mr. Alf's return. Tidings of the speech in Covent Garden
 were spread about at the various polling places, and did good service to the so-called conservative
@@ -14741,8 +14722,7 @@ reason of what it did not contain. The letter was unfriendly in its tone and per
 evidently from a hostile party. It had none of the feeling which had hitherto prevailed in the
 intercourse between these two well-known conservative gentlemen, Mr. Adolphus Longestaffe and Mr.
 Augustus Melmotte. But there was no allusion in it to forgery; no question of criminal proceedings;
-no hint at aught beyond the not unnatural desire of Mr. Longestaffe and Mr. Longestaffe's <pb n="89"
-/> son to be paid for the property at Pickering which Mr. Melmotte had purchased.</p>
+no hint at aught beyond the not unnatural desire of Mr. Longestaffe and Mr. Longestaffe's <pb n="89"/> son to be paid for the property at Pickering which Mr. Melmotte had purchased.</p>
 <p>"We have to remind you," said the letter, in continuation of paragraphs which had contained
 simply demands for the money, "that the title-deeds were delivered to you on receipt by us of
 authority to that effect from the Messrs. Longestaffe, father and son, on the understanding that the
@@ -15465,8 +15445,7 @@ now being pulled down and hauled away. And amidst the ruins Melmotte himself was
 now a member of Parliament, and was to take his place that night in the House. Nothing, at any rate,
 should prevent that. It might be but for a short time;—but it should be written in the history of
 his life that he had sat in the British House of Commons as member for Westminster. At the present
-moment he was careful to show himself everywhere. It was now noon, and he had already been into <pb
-n="110"/> the City. At this moment he was talking to the contractor for the work,—having just
+moment he was careful to show himself everywhere. It was now noon, and he had already been into <pb n="110"/> the City. At this moment he was talking to the contractor for the work,—having just
 propitiated that man by a payment which would hardly have been made so soon but for the necessity
 which these wretched stories had entailed upon him of keeping up his credit for the possession of
 money. Hetta timidly asked one of the workmen whether Miss Melmotte was there. "Do you want my
@@ -15541,8 +15520,7 @@ tell me." Hetta was still silent. "Have you nothing to say?"</p>
 is."</p>
 <p>"My name is—Hetta."</p>
 <p>"Hetta;—that's short for something. But it's very pretty. I have no brother, no sister. And I'll
-tell you, though you must not tell anybody again;—I have no real mother. Madame Melmotte is not <pb
-n="112"/> my mamma, though papa chooses that it should be thought so." All this she whispered, with
+tell you, though you must not tell anybody again;—I have no real mother. Madame Melmotte is not <pb n="112"/> my mamma, though papa chooses that it should be thought so." All this she whispered, with
 rapid words, almost into Hetta's ear. "And papa is so cruel to me! He beats me sometimes." The new
 friend, round whom Marie still had her arm, shuddered as she heard this. "But I never will yield a
 bit for that. When he boxes and thumps me I always turn and gnash my teeth at him. Can you wonder
@@ -16106,8 +16084,7 @@ Ruby on his arm. For the moment, Ruby had been triumphant, and was happy. She di
 consider whether her aunt would or would not open her door when she should return tired, and perhaps
 repentant. She was on her lover's arm, in her best clothes, and going to have a dinner given to her.
 And her lover had told her that he had ever so many things,— ever so many things to say to her! But
-she would ask no impertinent questions in the first hour of her bliss. It was so pleasant to <pb
-n="128"/> walk with him up to Pentonville;—so joyous to turn into a gay enclosure, half public-house
+she would ask no impertinent questions in the first hour of her bliss. It was so pleasant to <pb n="128"/> walk with him up to Pentonville;—so joyous to turn into a gay enclosure, half public-house
 and half tea-garden; so pleasant to hear him order the good things, which in his company would be so
 nice! Who cannot understand that even an urban Rosherville must be an Elysium to those who have
 lately been eating their meals in all the gloom of a small London underground kitchen? There we will
@@ -16586,8 +16563,7 @@ cottage. It is empty now. If you think that would save you you can try it for si
 <p>"And turn you out of your own house? No, Roger. I cannot do that. And, Roger;—what is to be done
 about Hetta?" Hetta herself had retreated, leaving Roger and her mother alone together, feeling sure
 that there would be questions asked and answered in her absence respecting Mrs. Hurtle, which her
-presence would prevent. She wished it could have been otherwise—that she might have been <pb n="142"
-/> allowed to hear it all herself—as she was sure that the story coming through her mother would not
+presence would prevent. She wished it could have been otherwise—that she might have been <pb n="142"/> allowed to hear it all herself—as she was sure that the story coming through her mother would not
 savour so completely of unalloyed truth as if told to her by her cousin Roger.</p>
 <p>"Hetta can be trusted to judge for herself," he said.</p>
 <p>"How can you say that when she has just accepted this young man? Is it not true that he is even
@@ -17337,8 +17313,7 @@ attached to it. After some hesitation she subscribed herself,</p>
 <p>"Most affectionately your own Hetta" would have been the form in which she would have wished to
 finish the first letter she had ever written to him.</p>
 <p>Paul received it at Liverpool on the Wednesday morning, and on the Wednesday evening he was in
-Welbeck Street. He had been quite aware that it had been incumbent on him to tell her the whole <pb
-n="163"/> history of Mrs. Hurtle. He had meant to keep back—almost nothing. But it had been
+Welbeck Street. He had been quite aware that it had been incumbent on him to tell her the whole <pb n="163"/> history of Mrs. Hurtle. He had meant to keep back—almost nothing. But it had been
 impossible for him to do so on that one occasion on which he had pleaded his love to her
 successfully. Let any reader who is intelligent in such matters say whether it would have been
 possible for him then to have commenced the story of Mrs. Hurtle and to have told it to the bitter
@@ -18261,8 +18236,7 @@ father had been guilty.</p>
 <head>CHAPTER LXXX. RUBY PREPARES FOR SERVICE.</head>
 <p><hi>Our</hi> poor old honest friend John Crumb was taken away to durance vile after his
 performance in the street with Sir Felix, and was locked up for the remainder of the night. This
-indignity did not sit so heavily on his spirits as it might have done on those of a quicker <pb
-n="188"/> nature. He was aware that he had not killed the baronet, and that he had therefore enjoyed
+indignity did not sit so heavily on his spirits as it might have done on those of a quicker <pb n="188"/> nature. He was aware that he had not killed the baronet, and that he had therefore enjoyed
 his revenge without the necessity of "swinging for it at Bury." That in itself was a comfort to him.
 Then it was a great satisfaction to think that he had "served the young man out" in the actual
 presence of his Ruby. He was not prone to give himself undue credit for his capability and
@@ -18560,8 +18534,7 @@ work.</p>
 <p>In little more than two hours he was followed by Melmotte, who thus reached the City late in the
 afternoon. It was he knew too late to raise the money on that day, but he hoped that he might pave
 the way for getting it on the next day, which would be Thursday. Of course the first news which he
-heard was of the defection of Mr. Cohenlupe. It was Croll who told him. He turned back, and his <pb
-n="196"/> jaw fell, but at first he said nothing. "It's a bad thing," said Mr. Croll.</p>
+heard was of the defection of Mr. Cohenlupe. It was Croll who told him. He turned back, and his <pb n="196"/> jaw fell, but at first he said nothing. "It's a bad thing," said Mr. Croll.</p>
 <p>"Yes;—it is bad. He had a vast amount of my property in his hands. Where has he gone?" Croll
 shook his head. "It never rains but it pours," said Melmotte. "Well; I'll weather it all yet. I've
 been worse than I am now, Croll, as you know, and have had a hundred thousand pounds at my
@@ -19753,8 +19726,7 @@ to pay them at this very hour. Of course they had none of them as yet heard of t
 Financier had made his last grand payment, and as they walked together to the door had been intent
 only in reference to their own money. Squercum, who had heard a good deal on the previous day, was
 very certain that the money would not be forthcoming, whereas Bideawhile was sanguine of success.
-"Don't we wish we may get it?" Dolly had said, and by saying so had very much offended his <pb
-n="229"/> father, who had resented the want of reverence implied in the use of that word "we." They
+"Don't we wish we may get it?" Dolly had said, and by saying so had very much offended his <pb n="229"/> father, who had resented the want of reverence implied in the use of that word "we." They
 had all been admitted together, and Dolly had at once loudly claimed an old acquaintance with some
 of the articles around him. "I knew I'd got a coat just like that," said Dolly, "and I never could
 make out what my fellow had done with it." This was the speech which Nidderdale had heard, standing
@@ -19825,8 +19797,7 @@ about the City respecting the Pickering property. It was asserted in Abchurch La
 at that moment touched the Pickering property, or entertained the Emperor, or stood for Westminster,
 he must, by the end of the autumn, have been able to do any or all of those things without danger,
 simply as the result of the money which would then have been realised by the railway. But he had
-allowed himself to become hampered by the want of comparatively small sums of ready money, <pb
-n="231"/> and in seeking relief had rushed from one danger to another, till at last the waters
+allowed himself to become hampered by the want of comparatively small sums of ready money, <pb n="231"/> and in seeking relief had rushed from one danger to another, till at last the waters
 around him had become too deep even for him, and had overwhelmed him. As to his immediate death,
 Herr Croll expressed not the slightest astonishment. It was just the thing, Herr Croll said, that he
 had been sure that Melmotte would do, should his difficulties ever become too great for him. "And
@@ -20450,8 +20421,7 @@ must have been worried much beyond her wont, when she allowed herself so far to 
 to bring against Mr. Alf the double charge of being too fond of the authoress in question, and of
 having sacrificed the justice of his columns to that improper affection.</p>
 <p>"At this moment I do not remember the name of the lady to whom you allude," said Mr. Alf, getting
-up to take his leave; "and I am quite sure that the gentleman who reviewed the book,—if there <pb
-n="249"/> be any such lady and any such book,—had never seen her!" And so Mr. Alf departed.</p>
+up to take his leave; "and I am quite sure that the gentleman who reviewed the book,—if there <pb n="249"/> be any such lady and any such book,—had never seen her!" And so Mr. Alf departed.</p>
 <p>Lady Carbury was very angry with herself, and very angry also with Mr. Alf. She had not only
 meant to be piteous, but had made the attempt and then had allowed herself to be carried away into
 anger. She had degraded herself to humility, and had then wasted any possible good result by a
@@ -22098,8 +22068,7 @@ return to her own country. In her heart of hearts she liked the somewhat stupid 
 life she saw, comparing it with the rough tempests of her past days. Mrs. Pipkin, she thought, was
 less intellectual than any American woman she had ever known; and she was quite sure that no human
 being so heavy, so slow, and so incapable of two concurrent ideas as John Crumb had ever been
-produced in the United States; —but, nevertheless, she liked Mrs. Pipkin, and almost loved John <pb
-n="296"/> Crumb. How different would her life have been could she have met a man who would have been
+produced in the United States; —but, nevertheless, she liked Mrs. Pipkin, and almost loved John <pb n="296"/> Crumb. How different would her life have been could she have met a man who would have been
 as true to her as John Crumb was to his Ruby!</p>
 <p>She loved Paul Montague with all her heart, and she despised herself for loving him. How weak he
 was;—how inefficient; how unable to seize glorious opportunities; how swathed and swaddled by
@@ -22211,8 +22180,7 @@ appearance of Mr. Carbury on the sands. Perhaps I went a little farther and hint
 had been arranged as affording you the easiest means of escape from me."</p>
 <p>"You do not believe that."</p>
 <p>"You see I had your welfare to look after; and the baser your conduct had been to me, the truer
-you were in her eyes. Do I not deserve some thanks for what I did? Surely you would not have <pb
-n="299"/> had me tell her that your conduct to me had been that of a loyal, loving gentleman. I
+you were in her eyes. Do I not deserve some thanks for what I did? Surely you would not have <pb n="299"/> had me tell her that your conduct to me had been that of a loyal, loving gentleman. I
 confessed to her my utter despair;—I abased myself in the dust, as a woman is abased who has been
 treacherously ill-used, and has failed to avenge herself. I knew that when she was sure that I was
 prostrate and hopeless she would be triumphant and contented. I told her on your behalf how I had
@@ -22748,8 +22716,7 @@ than whom few,—so she now told herself,—were greater or more powerful. Was i
 for any woman to be the wife of such a man, to receive his friends, and to shine with his reflected
 glory?</p>
 <p>Whether her hopes were realised, or,—as human hopes never are realised,—how far her content was
-assured, these pages cannot tell; but they must tell that, before the coming winter was over, <pb
-n="314"/> Lady Carbury became the wife of Mr. Broune, and, in furtherance of her own resolve, took
+assured, these pages cannot tell; but they must tell that, before the coming winter was over, <pb n="314"/> Lady Carbury became the wife of Mr. Broune, and, in furtherance of her own resolve, took
 her husband's name. The house in Welbeck Street was kept, and Mrs. Broune's Tuesday evenings were
 much more regarded by the literary world than had been those of Lady Carbury.</p>
 </div>

@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19080" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19080" xml:lang="en">
 
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>The man who was Thursday : ELTeC edition</title>
-                <author>Chesterton, Gilbert Keith (1874-1936)</author>
+                <author ref="viaf:14767719">Chesterton, Gilbert Keith (1874-1936)</author>
             </titleStmt>
             <extent>
                 <measure unit="words">57988</measure>
@@ -27,7 +25,7 @@
             </sourceDesc>
         </fileDesc>
 <encodingDesc n="eltec-1">
-    <p></p>
+    <p/>
 </encodingDesc>
         <!-- 
         <DC>
@@ -48,12 +46,12 @@
   </DC>
   -->
         <profileDesc>
-            <langUsage><language ident="en"></language></langUsage>
+            <langUsage><language ident="en"/></langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>

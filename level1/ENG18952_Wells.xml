@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>The Time Machine: An Invention : ELTec edition</title>
-<author>Wells, H. G. (1866-1946).</author>
+<author ref="viaf:97006424">Wells, Herbert George (1866-1946)</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
@@ -641,8 +639,7 @@ surveyed the hall at my leisure.</p>
 which displayed only a geometrical pattern, were broken in many places, and the curtains that hung
 across the lower end were thick with dust. And it caught my eye that the corner of the marble table
 near me was fractured. Nevertheless, the general effect was extremely rich and picturesque. There
-were, perhaps, a couple of hundred people dining in the hall, and most of them, seated as near <pb
-n="43"/> to me as they could come, were watching me with interest, their little eyes shining over
+were, perhaps, a couple of hundred people dining in the hall, and most of them, seated as near <pb n="43"/> to me as they could come, were watching me with interest, their little eyes shining over
 the fruit they were eating. All were clad in the same soft, and yet strong, silky material.</p>
 <p>"Fruit, by the bye, was all their diet. These people of the remote future were strict
 vegetarians, and while I was with them, in spite of some carnal cravings, I had to be frugivorous
@@ -765,8 +762,7 @@ and vegetable life to suit our human needs.</p>
 space of Time across which my machine had leapt. The air was free from gnats, the earth from weeds
 or fungi; everywhere were fruits and sweet and delightful flowers; brilliant butterflies flew hither
 and thither. The ideal of preventive medicine was attained. Diseases had been stamped out. I saw no
-evidence of any contagious diseases during all my stay. And I shall have to tell you later that <pb
-n="52"/> even the processes of putrefaction and decay had been profoundly affected by these
+evidence of any contagious diseases during all my stay. And I shall have to tell you later that <pb n="52"/> even the processes of putrefaction and decay had been profoundly affected by these
 changes.</p>
 <p>"Social triumphs, too, had been effected. I saw mankind housed in splendid shelters, gloriously
 clothed, and as yet I had found them engaged in no toil. There were no signs of struggle, neither
@@ -1255,8 +1251,7 @@ aluminium.</p>
 mouth and look downward, she seemed strangely disconcerted. 'Good-bye, little Weena,' I said,
 kissing her; and then, putting her down, I began to feel over the parapet for the climbing hooks.
 Rather hastily, I may as well confess, for I feared my courage might leak away! At first she watched
-me in amazement. Then she gave a most piteous cry, and, running to me, began to pull at me with <pb
-n="89"/> her little hands. I think her opposition nerved me rather to proceed. I shook her off,
+me in amazement. Then she gave a most piteous cry, and, running to me, began to pull at me with <pb n="89"/> her little hands. I think her opposition nerved me rather to proceed. I shook her off,
 perhaps a little roughly, and in another moment I was in the throat of the well. I saw her agonized
 face over the parapet, and smiled to reassure her. Then I had to look down at the unstable hooks to
 which I clung.</p>
@@ -1297,8 +1292,7 @@ entered a vast arched cavern, which stretched into utter darkness beyond the ran
 view I had of it was as much as one could see in the burning of a match.</p>
 <p>"Necessarily my memory is vague. Great shapes like big machines rose out of the dimness, and cast
 grotesque black shadows, in which dim spectral Morlocks sheltered from the glare. The place, by the
-bye, was very stuffy and oppressive, and the faint halitus of freshly-shed blood was in the air. <pb
-n="92"/> Some way down the central vista was a little table of white metal, laid with what seemed a
+bye, was very stuffy and oppressive, and the faint halitus of freshly-shed blood was in the air. <pb n="92"/> Some way down the central vista was a little table of white metal, laid with what seemed a
 meal. The Morlocks at any rate were carnivorous! Even at the time, I remember wondering what large
 animal could have survived to furnish the red joint I saw. It was all very indistinct: the heavy
 smell, the big unmeaning shapes, the obscene figures lurking in the shadows, and only waiting for
@@ -1475,8 +1469,7 @@ that my fear had been unreasonable. I stood up and found my foot with the loose 
 ankle and painful under the heel; so I sat down again, took off my shoes, and flung them away.</p>
 <p>"I awakened Weena, and we went down into the wood, now green and pleasant instead of black and
 forbidding. We found some fruit wherewith to break our fast. We soon met others of the dainty ones,
-laughing and dancing in the sunlight as though there was no such thing in nature as the night. <pb
-n="105"/> And then I thought once more of the meat that I had seen. I felt assured now of what it
+laughing and dancing in the sunlight as though there was no such thing in nature as the night. <pb n="105"/> And then I thought once more of the meat that I had seen. I felt assured now of what it
 was, and from the bottom of my heart I pitied this last feeble rill from the great flood of
 humanity. Clearly, at some time in the Long-Ago of human decay the Morlocks' food had run short.
 Possibly they had lived on rats and suchlike vermin. Even now man is far less discriminating and
@@ -1569,8 +1562,7 @@ interest of puzzles, and I could make only the vaguest guesses at what they were
 if I could solve their puzzles I should find myself in possession of powers that might be of use
 against the Morlocks.</p>
 <p>"Suddenly Weena came very close to my side. So suddenly that she startled me. Had it not been for
-her I do not think I should have noticed that the floor of the gallery sloped at all. <ref
-target="#notedown1"> 1</ref> The end I had come in at was quite above ground, and was lit by rare
+her I do not think I should have noticed that the floor of the gallery sloped at all. <ref target="#notedown1"> 1</ref> The end I had come in at was quite above ground, and was lit by rare
 slit-like windows. As you went down the length, the ground came up against these windows, until at
 last there was a pit like the 'area' of a London house before each, and only a narrow line of
 daylight at the top. I went slowly along, puzzling <pb n="112"/> about the machines, and had been
@@ -1798,8 +1790,7 @@ and the whitening and blackening tree stumps, and the diminishing numbers of the
 came the white light of the day.</p>
 <p>"I searched again for traces of Weena, but there were none. It was plain that they had left her
 poor little body in the forest. I cannot describe how it relieved me to think that it had escaped
-the awful fate to which it seemed destined. As I thought of that, I was almost moved to <pb n="128"
-/> begin a massacre of the helpless abominations about me, but I contained myself. The hillock, as I
+the awful fate to which it seemed destined. As I thought of that, I was almost moved to <pb n="128"/> begin a massacre of the helpless abominations about me, but I contained myself. The hillock, as I
 have said, was a kind of island in the forest. From its summit I could now make out through a haze
 of smoke the Palace of Green Porcelain, and from that I could get my bearings for the White Sphinx.
 And so, leaving the remnant of these damned souls still going hither and thither and moaning, as the
@@ -1866,8 +1857,7 @@ grasped the mental operations of the Morlocks. Suppressing a strong inclination 
 through the bronze frame and up to the Time Machine. I was surprised to find it had been carefully
 oiled and cleaned. I have suspected since that the Morlocks had even partially taken it to pieces
 while trying in their dim way to grasp its purpose.</p>
-<p>"Now as I stood and examined it, finding a pleasure in the mere touch of the contrivance, the <pb
-n="133"/> thing I had expected happened. The bronze panels suddenly slid up and struck the frame
+<p>"Now as I stood and examined it, finding a pleasure in the mere touch of the contrivance, the <pb n="133"/> thing I had expected happened. The bronze panels suddenly slid up and struck the frame
 with a clang. I was in the dark—trapped. So the Morlocks thought. At that I chuckled gleefully.</p>
 <p>"I could already hear their murmuring laughter as they came towards me. Very calmly I tried to
 strike the match. I had only to fix on the levers and depart then like a ghost. But I had overlooked
@@ -1925,8 +1915,7 @@ these grow in a perpetual twilight.</p>
 into a sharp bright horizon against the wan sky. There were no breakers and no waves, for not a
 breath of wind was stirring. Only a slight oily swell rose and fell like a gentle breathing, and
 showed that the eternal sea was still moving and living. And along the margin where the water
-sometimes broke was a thick incrustation of salt— pink under the lurid sky. There was a sense of <pb
-n="137"/> oppression in my head, and I noticed that I was breathing very fast. The sensation
+sometimes broke was a thick incrustation of salt— pink under the lurid sky. There was a sense of <pb n="137"/> oppression in my head, and I noticed that I was breathing very fast. The sensation
 reminded me of my only experience of mountaineering, and from that I judged the air to be more
 rarefied than it is now.</p>
 <p>"Far away up the desolate slope I heard a harsh scream, and saw a thing like a huge white
@@ -1983,8 +1972,7 @@ of an inner planet passing very near to the earth.</p>
 <p>"The darkness grew apace; a cold wind began to blow in freshening gusts from the east, and the
 showering white flakes in the air increased in number. From the edge of the sea came a ripple and
 whisper. Beyond these lifeless sounds the world was silent. Silent? It would be hard to convey the
-stillness of it. All the sounds of man, the bleating of sheep, the cries of birds, the hum of <pb
-n="141"/> insects, the stir that makes the background of our lives—all that was over. As the
+stillness of it. All the sounds of man, the bleating of sheep, the cries of birds, the hum of <pb n="141"/> insects, the stir that makes the background of our lives—all that was over. As the
 darkness thickened, the eddying flakes grew more abundant, dancing before my eyes; and the cold of
 the air more intense. At last, one by one, swiftly, one after the other, the white peaks of the
 distant hills vanished into blackness. The breeze rose to a moaning wind. I saw the black central

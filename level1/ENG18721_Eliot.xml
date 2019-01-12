@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18721">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18721">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Middlemarch: ELTeC edition </title>
-<author>Eliot, George (pseud. Mary Ann Evans) (1819-1880)</author>
+<author ref="viaf:89000553">Eliot, George (pseud.) (1819-1880)</author>
 </titleStmt>
 <extent>
 <measure unit="words">316163</measure>
@@ -27,15 +25,15 @@
 </sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 <profileDesc>
-<langUsage><language ident="en"></language></langUsage>
+<langUsage><language ident="en"/></langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
 <revisionDesc>
@@ -984,8 +982,7 @@ to live according to them."</p>
 there are oddities in things," continued Mr. Brooke, whose conscience was really roused to do the
 best he could for his niece on this occasion. "Life isn't cast in a mould—not cut out by rule and
 line, and that sort of thing. I never married myself, and it will be the better for you and yours.
-The fact is, I never loved any one well enough to put myself into a noose for them. It <hi
-rend="italic">is</hi> a noose, you know. Temper, now. There is temper. And a husband likes to be
+The fact is, I never loved any one well enough to put myself into a noose for them. It <hi rend="italic">is</hi> a noose, you know. Temper, now. There is temper. And a husband likes to be
 master."</p>
 <p>"I know that I must expect trials, uncle. Marriage is a state of higher duties. I never thought
 of it as mere personal ease," said poor Dorothea.</p>
@@ -1204,8 +1201,7 @@ something of the same way; I am apt to speak too strongly of those who don't ple
 astonishment as from her small criticisms. Of course all the world round Tipton would be out of
 sympathy with this marriage. Dorothea knew of no one who thought as she did about life and its best
 objects.</p>
-<p>Nevertheless before the evening was at an end she was very happy. In an hour's <hi
->tete-a-tete</hi> with Mr. Casaubon she talked to him with more freedom than she had ever felt
+<p>Nevertheless before the evening was at an end she was very happy. In an hour's <hi>tete-a-tete</hi> with Mr. Casaubon she talked to him with more freedom than she had ever felt
 before, even pouring out her joy at the thought of devoting herself to him, and of learning how she
 might best share and further all his great ends. Mr. Casaubon was touched with an unknown delight
 (what man would not have been?) at this childlike unrestrained ardor: he was not surprised (what
@@ -1274,8 +1270,7 @@ oblige you."</p>
 wicked Spanish fowls that eat their own eggs! Don't you and Fitchett boast too much, that is
 all!"</p>
 <p>The phaeton was driven onwards with the last words, leaving Mrs. Fitchett laughing and shaking
-her head slowly, with an interjectional "Sure<hi>ly</hi>, sure<hi
->ly</hi>!"—from which it might be inferred that she would have found the country-side somewhat
+her head slowly, with an interjectional "Sure<hi>ly</hi>, sure<hi>ly</hi>!"—from which it might be inferred that she would have found the country-side somewhat
 duller if the Rector's lady had been less free-spoken and less of a skinflint. Indeed, both the
 farmers and labourers in the parishes of Freshitt and Tipton would have felt a sad lack of
 conversation but for the stories about what Mrs. Cadwallader said and did: a lady of immeasurably
@@ -1303,8 +1298,7 @@ to the Papists at Middlemarch? I believe you bought it on purpose. You are a per
 if you are not burnt in effigy this 5th of November coming. Humphrey would not come to quarrel with
 you about it, so I am come."</p>
 <p>"Very good. I was prepared to be persecuted for not persecuting—not persecuting, you know."</p>
-<p>"There you go! That is a piece of clap-trap you have got ready for the hustings. Now, <hi
-rend="italic">do not</hi> let them lure you to the hustings, my dear Mr. Brooke. A man always makes
+<p>"There you go! That is a piece of clap-trap you have got ready for the hustings. Now, <hi rend="italic">do not</hi> let them lure you to the hustings, my dear Mr. Brooke. A man always makes
 a fool of himself, speechifying: there's no excuse but being on the right side, so that you can ask
 a blessing on your humming and hawing. You will lose yourself, I forewarn you. You will make a
 Saturday pie of all parties' opinions, and be pelted by everybody."</p>
@@ -1322,8 +1316,7 @@ indifference, but feeling rather unpleasantly conscious that this attack of Mrs.
 opened the defensive campaign to which certain rash steps had exposed him. "Your sex are not
 thinkers, you know—<hi>varium et mutabile semper</hi>—that kind of thing. You don't
 know Virgil. I knew"—Mr. Brooke reflected in time that he had not had the personal acquaintance of
-the Augustan poet—"I was going to say, poor Stoddart, you know. That was what <hi
->he</hi> said. You ladies are always against an independent attitude—a man's caring for nothing but
+the Augustan poet—"I was going to say, poor Stoddart, you know. That was what <hi>he</hi> said. You ladies are always against an independent attitude—a man's caring for nothing but
 truth, and that sort of thing. And there is no part of the county where opinion is narrower than it
 is here—I don't mean to throw stones, you know, but somebody is wanted to take the independent line;
 and if I don't take it, who will?"</p>
@@ -1701,8 +1694,7 @@ could ever have been much more than the shadow of a man. Look at his legs!"</p>
 don't understand women. They don't admire you half so much as you admire yourselves. Elinor used to
 tell her sisters that she married me for my ugliness—it was so various and amusing that it had quite
 conquered her prudence."</p>
-<p>"You! it was easy enough for a woman to love you. But this is no question of beauty. I don't <hi
-rend="italic">like</hi> Casaubon." This was Sir James's strongest way of implying that he thought
+<p>"You! it was easy enough for a woman to love you. But this is no question of beauty. I don't <hi rend="italic">like</hi> Casaubon." This was Sir James's strongest way of implying that he thought
 ill of a man's character.</p>
 <p>"Why? what do you know against him?" said the Rector laying down his reels, and putting his
 thumbs into his armholes with an air of attention.</p>
@@ -1969,8 +1961,7 @@ unceremonious fashion.</p>
 <p>"No, I only sketch a little. There is nothing fit to be seen there," said young Ladislaw,
 colouring, perhaps with temper rather than modesty.</p>
 <p>"Oh, come, this is a nice bit, now. I did a little in this way myself at one time, you know. Look
-here, now; this is what I call a nice thing, done with what we used to call <hi
->brio</hi>." Mr. Brooke held out towards the two girls a large coloured sketch of stony ground and
+here, now; this is what I call a nice thing, done with what we used to call <hi>brio</hi>." Mr. Brooke held out towards the two girls a large coloured sketch of stony ground and
 trees, with a pool.</p>
 <p>"I am no judge of these things," said Dorothea, not coldly, but with an eager deprecation of the
 appeal to her. "You know, uncle, I never see the beauty of those pictures which you say are so much
@@ -3334,8 +3325,7 @@ Frederic has not obtained any advance of money on bequests promised by Mr.
 Featherstone</hi>—promised? who said I had ever promised? I promise nothing—I shall make codicils as
 long as I like—<hi>and that considering the nature of such a proceeding, it is
 unreasonable to presume that a young man of sense and character would attempt it</hi>—ah, but the
-gentleman doesn't say you are a young man of sense and character, mark you that, sir!—<hi
-rend="italic">As to my own concern with any report of such a nature, I distinctly affirm that I
+gentleman doesn't say you are a young man of sense and character, mark you that, sir!—<hi rend="italic">As to my own concern with any report of such a nature, I distinctly affirm that I
 never made any statement to the effect that your son had borrowed money on any property that might
 accrue to him on Mr. Featherstone's demise</hi>—bless my heart! 'property'—accrue—demise! Lawyer
 Standish is nothing to him. He couldn't speak finer if he wanted to borrow. Well," Mr. Featherstone
@@ -3419,8 +3409,7 @@ feeling.</p>
 spekilations, I think. He's got a pretty strong string round your father's leg, by what I hear,
 eh?"</p>
 <p>"My father never tells me anything about his affairs, sir."</p>
-<p>"Well, he shows some sense there. But other people find 'em out without his telling. <hi
-rend="italic">He'll</hi> never have much to leave you: he'll most-like die without a will—he's the
+<p>"Well, he shows some sense there. But other people find 'em out without his telling. <hi rend="italic">He'll</hi> never have much to leave you: he'll most-like die without a will—he's the
 sort of man to do it—let 'em make him mayor of Middlemarch as much as they like. But you won't get
 much by his dying without a will, though you <hi>are</hi> the eldest son."</p>
 <p>Fred thought that Mr. Featherstone had never been so disagreeable before. True, he had never
@@ -3976,8 +3965,7 @@ in scales by a blind Justice. No man can judge what is good evidence on any part
 unless he knows that subject well. A lawyer is no better than an old woman at a post-mortem
 examination. How is he to know the action of a poison? You might as well say that scanning verse
 will teach you to scan the potato crops."</p>
-<p>"You are aware, I suppose, that it is not the coroner's business to conduct the <hi
->post-mortem</hi>, but only to take the evidence of the medical witness?" said Mr. Chichely, with
+<p>"You are aware, I suppose, that it is not the coroner's business to conduct the <hi>post-mortem</hi>, but only to take the evidence of the medical witness?" said Mr. Chichely, with
 some scorn.</p>
 <p>"Who is often almost as ignorant as the coroner himself," said Lydgate. "Questions of medical
 jurisprudence ought not to be left to the chance of decent knowledge in a medical witness, and the
@@ -4805,8 +4793,7 @@ friend's face for responding admiration, but going on volubly without waiting fo
 of its sensuous perfection: and here stands beauty in its breathing life, with the consciousness of
 Christian centuries in its bosom. But she should be dressed as a nun; I think she looks almost what
 you call a Quaker; I would dress her as a nun in my picture. However, she is married; I saw her
-wedding-ring on that wonderful left hand, otherwise I should have thought the sallow <hi
-rend="italic">Geistlicher</hi> was her father. I saw him parting from her a good while ago, and just
+wedding-ring on that wonderful left hand, otherwise I should have thought the sallow <hi rend="italic">Geistlicher</hi> was her father. I saw him parting from her a good while ago, and just
 now I found her in that magnificent pose. Only think! he is perhaps rich, and would like to have her
 portrait taken. Ah! it is no use looking after her—there she goes! Let us follow her home!"</p>
 <p>"No, no," said his companion, with a little frown.</p>
@@ -4861,8 +4848,7 @@ movement and tone. There is a difference in their very breathing: they change fr
 moment.—This woman whom you have just seen, for example: how would you paint her voice, pray? But
 her voice is much diviner than anything you have seen of her."</p>
 <p>"I see, I see. You are jealous. No man must presume to think that he can paint your ideal. This
-is serious, my friend! Your great-aunt! 'Der Neffe als Onkel' in a tragic sense—<hi
->ungeheuer!</hi>"</p>
+is serious, my friend! Your great-aunt! 'Der Neffe als Onkel' in a tragic sense—<hi>ungeheuer!</hi>"</p>
 <p>"You and I shall quarrel, Naumann, if you call that lady my aunt again."</p>
 <p>"How is she to be called then?"</p>
 <p>"Mrs. Casaubon."</p>
@@ -5443,12 +5429,10 @@ branch of knowledge in which Mr. Casaubon had not interested himself.</p>
 <p>"I think I would rather feel that painting is beautiful than have to read it as an enigma; but I
 should learn to understand these pictures sooner than yours with the very wide meaning," said
 Dorothea, speaking to Will.</p>
-<p>"Don't speak of my painting before Naumann," said Will. "He will tell you, it is all <hi
-rend="italic">pfuscherei</hi>, which is his most opprobrious word!"</p>
+<p>"Don't speak of my painting before Naumann," said Will. "He will tell you, it is all <hi rend="italic">pfuscherei</hi>, which is his most opprobrious word!"</p>
 <p>"Is that true?" said Dorothea, turning her sincere eyes on Naumann, who made a slight grimace and
 said—</p>
-<p>"Oh, he does not mean it seriously with painting. His walk must be <hi
->belles-lettres</hi>. That is wi-ide."</p>
+<p>"Oh, he does not mean it seriously with painting. His walk must be <hi>belles-lettres</hi>. That is wi-ide."</p>
 <p>Naumann's pronunciation of the vowel seemed to stretch the word satirically. Will did not half
 like it, but managed to laugh: and Mr. Casaubon, while he felt some disgust at the artist's German
 accent, began to entertain a little respect for his judicious severity.</p>
@@ -5953,8 +5937,7 @@ chin seeming to follow his hat-brim in a moderate inclination upwards, gave the 
 unchangeable sceptical smile, of all expressions the most tyrannous over a susceptible mind, and,
 when accompanied by adequate silence, likely to create the reputation of an invincible
 understanding, an infinite fund of humor—too dry to flow, and probably in a state of immovable
-crust,—and a critical judgment which, if you could ever be fortunate enough to know it, would be <hi
-rend="italic">the</hi> thing and no other. It is a physiognomy seen in all vocations, but perhaps it
+crust,—and a critical judgment which, if you could ever be fortunate enough to know it, would be <hi rend="italic">the</hi> thing and no other. It is a physiognomy seen in all vocations, but perhaps it
 has never been more powerful over the youth of England than in a judge of horses.</p>
 <p>Mr. Horrock, at a question from Fred about his horse's fetlock, turned sideways in his saddle,
 and watched the horse's action for the space of three minutes, then turned forward, twitched his own
@@ -7182,8 +7165,7 @@ have had him—do you think they would?"</p>
 <p>"She is a noble creature," said the loyal-hearted Sir James. He had just had a fresh impression
 of this kind, as he had seen Dorothea stretching her tender arm under her husband's neck and looking
 at him with unspeakable sorrow. He did not know how much penitence there was in the sorrow.</p>
-<p>"Yes," said Celia, thinking it was very well for Sir James to say so, but <hi
->he</hi> would not have been comfortable with Dodo. "Shall I go to her? Could I help her, do you
+<p>"Yes," said Celia, thinking it was very well for Sir James to say so, but <hi>he</hi> would not have been comfortable with Dodo. "Shall I go to her? Could I help her, do you
 think?"</p>
 <p>"I think it would be well for you just to go and see her before Lydgate comes," said Sir James,
 magnanimously. "Only don't stay long."</p>
@@ -8232,8 +8214,7 @@ that there was some alarm in her mind.</p>
 <p>"A very nice young fellow—Casaubon has done everything for him," explained Mr. Brooke. "He repays
 your expense in him, Casaubon," he went on, nodding encouragingly. "I hope he will stay with me a
 long while and we shall make something of my documents. I have plenty of ideas and facts, you know,
-and I can see he is just the man to put them into shape—remembers what the right quotations are, <hi
-rend="italic">omne tulit punctum</hi>, and that sort of thing—gives subjects a kind of turn. I
+and I can see he is just the man to put them into shape—remembers what the right quotations are, <hi rend="italic">omne tulit punctum</hi>, and that sort of thing—gives subjects a kind of turn. I
 invited him some time ago when you were ill, Casaubon; Dorothea said you couldn't have anybody in
 the house, you know, and she asked me to write."</p>
 <p>Poor Dorothea felt that every word of her uncle's was about as pleasant as a grain of sand in the
@@ -8609,8 +8590,7 @@ Let 'em wait, as their elders have done before 'em."</p>
 <p>"Rosamond will take it hard, Vincy, and you know you never could bear to cross her."</p>
 <p>"Yes, I could. The sooner the engagement's off, the better. I don't believe he'll ever make an
 income, the way he goes on. He makes enemies; that's all I hear of his making."</p>
-<p>"But he stands very high with Mr. Bulstrode, my dear. The marriage would please <hi
->him</hi>, I should think."</p>
+<p>"But he stands very high with Mr. Bulstrode, my dear. The marriage would please <hi>him</hi>, I should think."</p>
 <p>"Please the deuce!" said Mr. Vincy. "Bulstrode won't pay for their keep. And if Lydgate thinks
 I'm going to give money for them to set up housekeeping, he's mistaken, that's all. I expect I shall
 have to put down my horses soon. You'd better tell Rosy what I say."</p>
@@ -9183,8 +9163,7 @@ to her till she saw better reason for it.</p>
 "Mr. Casaubon must have overcome his dislike of you so far as his actions were concerned: and that
 is admirable."</p>
 <p>"Yes; he has shown a sense of justice in family matters. It was an abominable thing that my
-grandmother should have been disinherited because she made what they called a <hi
->mesalliance</hi>, though there was nothing to be said against her husband except that he was a
+grandmother should have been disinherited because she made what they called a <hi>mesalliance</hi>, though there was nothing to be said against her husband except that he was a
 Polish refugee who gave lessons for his bread."</p>
 <p>"I wish I knew all about her!" said Dorothea. "I wonder how she bore the change from wealth to
 poverty: I wonder whether she was happy with her husband! Do you know much about them?"</p>
@@ -9603,8 +9582,7 @@ you could bring that round."</p>
 might have got some power over him in time, and she was always uneasy about the estate. She had
 wonderfully good notions about such things. But now Casaubon takes her up entirely. Celia complains
 a good deal. We can hardly get her to dine with us, since he had that fit." Sir James ended with a
-look of pitying disgust, and Mrs. Cadwallader shrugged her shoulders as much as to say that <hi
-rend="italic">she</hi> was not likely to see anything new in that direction.</p>
+look of pitying disgust, and Mrs. Cadwallader shrugged her shoulders as much as to say that <hi rend="italic">she</hi> was not likely to see anything new in that direction.</p>
 <p>"Poor Casaubon!" the Rector said. "That was a nasty attack. I thought he looked shattered the
 other day at the Archdeacon's."</p>
 <p>"In point of fact," resumed Sir James, not choosing to dwell on "fits," "Brooke doesn't mean
@@ -9779,8 +9757,7 @@ impetuous manner, which had been subdued since her marriage. "If I were at home 
 to riding again, that I might go about with you and see all that! And you are going to engage Mr.
 Garth, who praised my cottages, Sir James says."</p>
 <p>"Chettam is a little hasty, my dear," said Mr. Brooke, colouring slightly; "a little hasty, you
-know. I never said I should do anything of the kind. I never said I should <hi
->not</hi> do it, you know."</p>
+know. I never said I should do anything of the kind. I never said I should <hi>not</hi> do it, you know."</p>
 <p>"He only feels confident that you will do it," said Dorothea, in a voice as clear and
 unhesitating as that of a young chorister chanting a credo, "because you mean to enter Parliament as
 a member who cares for the improvement of the people, and one of the first things to be made better
@@ -9974,8 +9951,7 @@ already had a misunderstanding with her husband since he had come home, and was 
 expecting the worst. But her husband was beforehand in answering.</p>
 <p>"No, nor he woon't hev the stick, whether you want it or no," pursued Dagley, throwing out his
 voice, as if he wanted it to hit hard. "You've got no call to come an' talk about sticks o' these
-primises, as you woon't give a stick tow'rt mending. Go to Middlemarch to ax for <hi
->your</hi> charrickter."</p>
+primises, as you woon't give a stick tow'rt mending. Go to Middlemarch to ax for <hi>your</hi> charrickter."</p>
 <p>"You'd far better hold your tongue, Dagley," said the wife, "and not kick your own trough over.
 When a man as is father of a family has been an' spent money at market and made himself the worse
 for liquor, he's done enough mischief for one day. But I should like to know what my boy's done,
@@ -10837,8 +10813,7 @@ the fate of women, seemed no more odd as a head-dress than the gold trencher we 
 present audience of two persons, no dramatic heroine could have been expected with more interest
 than Mrs. Casaubon. To Rosamond she was one of those county divinities not mixing with Middlemarch
 mortality, whose slightest marks of manner or appearance were worthy of her study; moreover,
-Rosamond was not without satisfaction that Mrs. Casaubon should have an opportunity of studying <hi
-rend="italic">her</hi>. What is the use of being exquisite if you are not seen by the best judges?
+Rosamond was not without satisfaction that Mrs. Casaubon should have an opportunity of studying <hi rend="italic">her</hi>. What is the use of being exquisite if you are not seen by the best judges?
 and since Rosamond had received the highest compliments at Sir Godwin Lydgate's, she felt quite
 confident of the impression she must make on people of good birth. Dorothea put out her hand with
 her usual simple kindness, and looked admiringly at Lydgate's lovely bride—aware that there was a
@@ -11327,8 +11302,7 @@ become the test of a rational procedure, and thus make the disorder of his pulmo
 general benefit to society.</p>
 <p>Mr. Trumbull acquiesced at once, and entered strongly into the view that an illness of his was no
 ordinary occasion for medical science.</p>
-<p>"Never fear, sir; you are not speaking to one who is altogether ignorant of the <hi
->vis medicatrix</hi>," said he, with his usual superiority of expression, made rather pathetic by
+<p>"Never fear, sir; you are not speaking to one who is altogether ignorant of the <hi>vis medicatrix</hi>," said he, with his usual superiority of expression, made rather pathetic by
 difficulty of breathing. And he went without shrinking through his abstinence from drugs, much
 sustained by application of the thermometer which implied the importance of his temperature, by the
 sense that he furnished objects for the microscope, and by learning many new words which seemed
@@ -12843,8 +12817,7 @@ dropped an additional lump of sugar into her basket on the strength of the new p
 <p>"As for you, Winny"—the Vicar went on—"I shall make no difficulty about your marrying any Lowick
 bachelor—Mr. Solomon Featherstone, for example, as soon as I find you are in love with him."</p>
 <p>Miss Winifred, who had been looking at her brother all the while and crying heartily, which was
-her way of rejoicing, smiled through her tears and said, "You must set me the example, Cam: <hi
-rend="italic">you</hi> must marry now."</p>
+her way of rejoicing, smiled through her tears and said, "You must set me the example, Cam: <hi rend="italic">you</hi> must marry now."</p>
 <p>"With all my heart. But who is in love with me? I am a seedy old fellow," said the Vicar, rising,
 pushing his chair away and looking down at himself. "What do you say, mother?"</p>
 <p>"You are a handsome man, Camden: though not so fine a figure of a man as your father," said the
@@ -13521,8 +13494,7 @@ which she would know again. Life would be no better than candle-light tinsel and
 our spirits were not touched by what has been, to issues of longing and constancy. It was true that
 Dorothea wanted to know the Farebrothers better, and especially to talk to the new rector, but also
 true that remembering what Lydgate had told her about Will Ladislaw and little Miss Noble, she
-counted on Will's coming to Lowick to see the Farebrother family. The very first Sunday, <hi
-rend="italic">before</hi> she entered the church, she saw him as she had seen him the last time she
+counted on Will's coming to Lowick to see the Farebrother family. The very first Sunday, <hi rend="italic">before</hi> she entered the church, she saw him as she had seen him the last time she
 was there, alone in the clergyman's pew; but <hi>when</hi> she entered his figure was
 gone.</p>
 <p>In the week-days when she went to see the ladies at the Rectory, she listened in vain for some
@@ -13689,8 +13661,7 @@ had annoyed him. And what would be the use of behaving otherwise? Indeed, Sir Ja
 much dislike from the association even in thought of Dorothea with Ladislaw as her possible lover,
 that he would himself have wished to avoid an outward show of displeasure which would have
 recognized the disagreeable possibility. If any one had asked him why he shrank in that way, I am
-not sure that he would at first have said anything fuller or more precise than "<hi
->That</hi> Ladislaw!"—though on reflection he might have urged that Mr. Casaubon's codicil, barring
+not sure that he would at first have said anything fuller or more precise than "<hi>That</hi> Ladislaw!"—though on reflection he might have urged that Mr. Casaubon's codicil, barring
 Dorothea's marriage with Will, except under a penalty, was enough to cast unfitness over any
 relation at all between them. His aversion was all the stronger because he felt himself unable to
 interfere.</p>
@@ -13867,8 +13838,7 @@ it would be to cut the Big Pasture in two, and turn it into three-cornered bits,
 <p>"The cows will all cast their calves, brother," said Mrs. Waule, in a tone of deep melancholy,
 "if the railway comes across the Near Close; and I shouldn't wonder at the mare too, if she was in
 foal. It's a poor tale if a widow's property is to be spaded away, and the law say nothing to it.
-What's to hinder 'em from cutting right and left if they begin? It's well known, <hi
->I</hi> can't fight."</p>
+What's to hinder 'em from cutting right and left if they begin? It's well known, <hi>I</hi> can't fight."</p>
 <p>"The best way would be to say nothing, and set somebody on to send 'em away with a flea in their
 ear, when they came spying and measuring," said Solomon. "Folks did that about Brassing, by what I
 can understand. It's all a pretence, if the truth was known, about their being forced to take one
@@ -14094,8 +14064,7 @@ bitter, and he snapped his fingers—"whether he was the prime minister or the r
 didn't do well what he undertook to do."</p>
 <p>"I can never feel that I should do that in being a clergyman," said Fred, meaning to take a step
 in argument.</p>
-<p>"Then let it alone, my boy," said Caleb, abruptly, "else you'll never be easy. Or, if you <hi
-rend="italic">are</hi> easy, you'll be a poor stick."</p>
+<p>"Then let it alone, my boy," said Caleb, abruptly, "else you'll never be easy. Or, if you <hi rend="italic">are</hi> easy, you'll be a poor stick."</p>
 <p>"That is very nearly what Mary thinks about it," said Fred, colouring. "I think you must know what
 I feel for Mary, Mr. Garth: I hope it does not displease you that I have always loved her better
 than any one else, and that I shall never love any one as I love her."</p>
@@ -14103,8 +14072,7 @@ than any one else, and that I shall never love any one as I love her."</p>
 a solemn slowness, and said—</p>
 <p>"That makes things more serious, Fred, if you want to take Mary's happiness into your
 keeping."</p>
-<p>"I know that, Mr. Garth," said Fred, eagerly, "and I would do anything for <hi
->her</hi>. She says she will never have me if I go into the Church; and I shall be the most
+<p>"I know that, Mr. Garth," said Fred, eagerly, "and I would do anything for <hi>her</hi>. She says she will never have me if I go into the Church; and I shall be the most
 miserable devil in the world if I lose all hope of Mary. Really, if I could get some other
 profession, business—anything that I am at all fit for, I would work hard, I would deserve your good
 opinion. I should like to have to do with outdoor things. I know a good deal about land and cattle
@@ -14174,8 +14142,7 @@ head and hands in accompaniment to some inward argumentation. At last he said—
 <p>"That would have made me very proud and happy, Susan, and I should have been glad for your sake.
 I've always felt that your belongings have never been on a level with you. But you took me, though I
 was a plain man."</p>
-<p>"I took the best and cleverest man I had ever known," said Mrs. Garth, convinced that <hi
-rend="italic">she</hi> would never have loved any one who came short of that mark.</p>
+<p>"I took the best and cleverest man I had ever known," said Mrs. Garth, convinced that <hi rend="italic">she</hi> would never have loved any one who came short of that mark.</p>
 <p>"Well, perhaps others thought you might have done better. But it would have been worse for me.
 And that is what touches me close about Fred. The lad is good at bottom, and clever enough to do, if
 he's put in the right way; and he loves and honours my daughter beyond anything, and she has given
@@ -14500,8 +14467,7 @@ class of men," said Mrs. Farebrother, majestically.</p>
 her," said Fred.</p>
 <p>"Well, I am glad at least that she makes an exception in favour of my son," said the old lady.</p>
 <p>Mary was wondering at Fred's piqued tone, when Mr. Farebrother came in and had to hear the news
-about the engagement under Mr. Garth. At the end he said with quiet satisfaction, "<hi
->That</hi> is right;" and then bent to look at Mary's labels and praise her handwriting. Fred felt
+about the engagement under Mr. Garth. At the end he said with quiet satisfaction, "<hi>That</hi> is right;" and then bent to look at Mary's labels and praise her handwriting. Fred felt
 horribly jealous—was glad, of course, that Mr. Farebrother was so estimable, but wished that he had
 been ugly and fat as men at forty sometimes are. It was clear what the end would be, since Mary
 openly placed Farebrother above everybody, and these women were all evidently encouraging the
@@ -14882,8 +14848,7 @@ objects immediately before her with no curve in her face disturbed, and yet with
 protest in her air against all people with unpleasant manners. For the moment he lost the sense of
 his wound in a sudden speculation about this new form of feminine impassibility revealing itself in
 the sylph-like frame which he had once interpreted as the sign of a ready intelligent sensitiveness.
-His mind glancing back to Laure while he looked at Rosamond, he said inwardly, "Would <hi
-rend="italic">she</hi> kill me because I wearied her?" and then, "It is the way with all women." But
+His mind glancing back to Laure while he looked at Rosamond, he said inwardly, "Would <hi rend="italic">she</hi> kill me because I wearied her?" and then, "It is the way with all women." But
 this power of generalizing which gives men so much the superiority in mistake over the dumb animals,
 was immediately thwarted by Lydgate's memory of wondering impressions from the behavior of another
 woman—from Dorothea's looks and tones of emotion about her husband when Lydgate began to attend
@@ -15114,8 +15079,7 @@ distance.</p>
 <p>"Pray don't say any more about it," said Will, in a hoarse undertone extremely unlike his usual
 light voice. "It is a foul insult to her and to me." Then he sat down absently, looking before him,
 but seeing nothing.</p>
-<p>"Now you are angry with <hi>me</hi>," said Rosamond. "It is too bad to bear <hi
-rend="italic">me</hi> malice. You ought to be obliged to me for telling you."</p>
+<p>"Now you are angry with <hi>me</hi>," said Rosamond. "It is too bad to bear <hi rend="italic">me</hi> malice. You ought to be obliged to me for telling you."</p>
 <p>"So I am," said Will, abruptly, speaking with that kind of double soul which belongs to dreamers
 who answer questions.</p>
 <p>"I expect to hear of the marriage," said Rosamond, playfully.</p>
@@ -15309,15 +15273,13 @@ appealed to by Mr. Trumbull.</p>
 <p>"Yes, Mr. Ladislaw, yes; this interests you as a connoiss<hi>ure</hi>, I think. It
 is some pleasure," the auctioneer went on with a rising fervor, "to have a picture like this to show
 to a company of ladies and gentlemen—a picture worth any sum to an individual whose means were on a
-level with his judgment. It is a painting of the Italian school—by the celebrated <hi
->Guydo</hi>, the greatest painter in the world, the chief of the Old Masters, as they are called—I
+level with his judgment. It is a painting of the Italian school—by the celebrated <hi>Guydo</hi>, the greatest painter in the world, the chief of the Old Masters, as they are called—I
 take it, because they were up to a thing or two beyond most of us—in possession of secrets now lost
 to the bulk of mankind. Let me tell you, gentlemen, I have seen a great many pictures by the Old
 Masters, and they are not all up to this mark—some of them are darker than you might like and not
 family subjects. But here is a <hi>Guydo</hi>—the frame alone is worth pounds—which
 any lady might be proud to hang up—a suitable thing for what we call a refectory in a charitable
-institution, if any gentleman of the Corporation wished to show his munifi<hi
->cence</hi>. Turn it a little, sir? yes. Joseph, turn it a little towards Mr. Ladislaw—Mr. Ladislaw,
+institution, if any gentleman of the Corporation wished to show his munifi<hi>cence</hi>. Turn it a little, sir? yes. Joseph, turn it a little towards Mr. Ladislaw—Mr. Ladislaw,
 having been abroad, understands the merit of these things, you observe."</p>
 <p>All eyes were for a moment turned towards Will, who said, coolly, "Five pounds." The auctioneer
 burst out in deep remonstrance.</p>
@@ -16075,8 +16037,7 @@ brewer. "I suppose his relations in the North back him up."</p>
 fond of. Hang it, one has a grudge against a man who carries off the prettiest girl in the
 town."</p>
 <p>"Ay, by God! and the best too," said Mr. Standish.</p>
-<p>"My friend Vincy didn't half like the marriage, I know that," said Mr. Chichely. "<hi
-rend="italic">He</hi> wouldn't do much. How the relations on the other side may have come down I
+<p>"My friend Vincy didn't half like the marriage, I know that," said Mr. Chichely. "<hi rend="italic">He</hi> wouldn't do much. How the relations on the other side may have come down I
 can't say." There was an emphatic kind of reticence in Mr. Chichely's manner of speaking.</p>
 <p>"Oh, I shouldn't think Lydgate ever looked to practice for a living," said Mr. Toller, with a
 slight touch of sarcasm, and there the subject was dropped.</p>
@@ -16270,8 +16231,7 @@ intellectual activity, the ardent kindness of his heart, as well as his strong f
 under tolerably easy conditions, have kept him above the petty uncontrolled susceptibilities which
 make bad temper. But he was now a prey to that worst irritation which arises not simply from
 annoyances, but from the second consciousness underlying those annoyances, of wasted energy and a
-degrading preoccupation, which was the reverse of all his former purposes. "<hi
->This</hi> is what I am thinking of; and <hi>that</hi> is what I might have been
+degrading preoccupation, which was the reverse of all his former purposes. "<hi>This</hi> is what I am thinking of; and <hi>that</hi> is what I might have been
 thinking of," was the bitter incessant murmur within him, making every difficulty a double goad to
 impatience.</p>
 <p>Some gentlemen have made an amazing figure in literature by general discontent with the universe
@@ -16377,8 +16337,7 @@ anything for you. But rather than that, you like giving up our house and furnitu
 Plymdale."</p>
 <p>There was something like fierceness in Lydgate's eyes, as he answered with new violence, "Well,
 then, if you will have it so, I do like it. I admit that I like it better than making a fool of
-myself by going to beg where it's of no use. Understand then, that it is what I <hi
->like to do.</hi>"</p>
+myself by going to beg where it's of no use. Understand then, that it is what I <hi>like to do.</hi>"</p>
 <p>There was a tone in the last sentence which was equivalent to the clutch of his strong hand on
 Rosamond's delicate arm. But for all that, his will was not a whit stronger than hers. She
 immediately walked out of the room in silence, but with an intense determination to hinder what
@@ -16398,8 +16357,7 @@ than the fear, "I shall love her no more." Hence, after that outburst, his inwar
 entirely to excuse her, and to blame the hard circumstances which were partly his fault. He tried
 that evening, by petting her, to heal the wound he had made in the morning, and it was not in
 Rosamond's nature to be repellent or sulky; indeed, she welcomed the signs that her husband loved
-her and was under control. But this was something quite distinct from loving <hi
->him</hi>. Lydgate would not have chosen soon to recur to the plan of parting with the house; he was
+her and was under control. But this was something quite distinct from loving <hi>him</hi>. Lydgate would not have chosen soon to recur to the plan of parting with the house; he was
 resolved to carry it out, and say as little more about it as possible. But Rosamond herself touched
 on it at breakfast by saying, mildly—</p>
 <p>"Have you spoken to Trumbull yet?"</p>
@@ -18168,8 +18126,7 @@ dialogue, and to take such fantastic shapes as heaven pleased.</p>
 Tankard in Slaughter Lane, who had often to resist the shallow pragmatism of customers disposed to
 think that their reports from the outer world were of equal force with what had "come up" in her
 mind. How it had been brought to her she didn't know, but it was there before her as if it had been
-"scored with the chalk on the chimney-board—" as Bulstrode should say, "his inside was <hi
-rend="italic">that black</hi> as if the hairs of his head knowed the thoughts of his heart, he'd
+"scored with the chalk on the chimney-board—" as Bulstrode should say, "his inside was <hi rend="italic">that black</hi> as if the hairs of his head knowed the thoughts of his heart, he'd
 tear 'em up by the roots."</p>
 <p>"That's odd," said Mr. Limp, a meditative shoemaker, with weak eyes and a piping voice. "Why, I
 read in the 'Trumpet' that was what the Duke of Wellington said when he turned his coat and went
@@ -18514,8 +18471,7 @@ hinders you from being taken in. And that is the good of having a brother instea
 husband would not let you have your plans."</p>
 <p>"As if I wanted a husband!" said Dorothea. "I only want not to have my feelings checked at every
 turn." Mrs. Casaubon was still undisciplined enough to burst into angry tears.</p>
-<p>"Now, really, Dodo," said Celia, with rather a deeper guttural than usual, "you <hi
->are</hi> contradictory: first one thing and then another. You used to submit to Mr. Casaubon quite
+<p>"Now, really, Dodo," said Celia, with rather a deeper guttural than usual, "you <hi>are</hi> contradictory: first one thing and then another. You used to submit to Mr. Casaubon quite
 shamefully: I think you would have given up ever coming to see me if he had asked you."</p>
 <p>"Of course I submitted to him, because it was my duty; it was my feeling for him," said Dorothea,
 looking through the prism of her tears.</p>
@@ -20282,8 +20238,7 @@ ill:"—there was a voice within her saying this to some imagined audience in th
 door was opened, and she saw Will before her.</p>
 <p>She did not move, and he came towards her with more doubt and timidity in his face than she had
 ever seen before. He was in a state of uncertainty which made him afraid lest some look or word of
-his should condemn him to a new distance from her; and Dorothea was afraid of her <hi
->own</hi> emotion. She looked as if there were a spell upon her, keeping her motionless and
+his should condemn him to a new distance from her; and Dorothea was afraid of her <hi>own</hi> emotion. She looked as if there were a spell upon her, keeping her motionless and
 hindering her from unclasping her hands, while some intense, grave yearning was imprisoned within
 her eyes. Seeing that she did not put out her hand as usual, Will paused a yard from her and said
 with embarrassment, "I am so grateful to you for seeing me."</p>
@@ -20610,15 +20565,12 @@ beaming on her. "I almost thought you would not come to me."</p>
 <p>"I have not brought Arthur, because I was in a hurry," said Celia, and they sat down on two small
 chairs opposite each other, with their knees touching.</p>
 <p>"You know, Dodo, it is very bad," said Celia, in her placid guttural, looking as prettily free
-from humors as possible. "You have disappointed us all so. And I can't think that it ever <hi
-rend="italic">will</hi> be—you never can go and live in that way. And then there are all your plans!
+from humors as possible. "You have disappointed us all so. And I can't think that it ever <hi rend="italic">will</hi> be—you never can go and live in that way. And then there are all your plans!
 You never can have thought of that. James would have taken any trouble for you, and you might have
 gone on all your life doing what you liked."</p>
 <p>"On the contrary, dear," said Dorothea, "I never could do anything that I liked. I have never
 carried out any plan yet."</p>
-<p>"Because you always wanted things that wouldn't do. But other plans would have come. And how <hi
-rend="italic">can</hi> you marry Mr. Ladislaw, that we none of us ever thought you <hi
->could</hi> marry? It shocks James so dreadfully. And then it is all so different from what you have
+<p>"Because you always wanted things that wouldn't do. But other plans would have come. And how <hi rend="italic">can</hi> you marry Mr. Ladislaw, that we none of us ever thought you <hi>could</hi> marry? It shocks James so dreadfully. And then it is all so different from what you have
 always been. You would have Mr. Casaubon because he had such a great soul, and was so old and dismal
 and learned; and now, to think of marrying Mr. Ladislaw, who has got no estate or anything. I
 suppose it is because you must be making yourself uncomfortable in some way or other."</p>
@@ -20807,16 +20759,14 @@ to live at Stone Court, and managing the land there?"</p>
 She wants to do the lad good, and it might be a fine thing for him. With saving, he might gradually
 buy the stock, and he has a turn for farming."</p>
 <p>"Oh, Fred would be so happy! It is too good to believe."</p>
-<p>"Ah, but mind you," said Caleb, turning his head warningly, "I must take it on <hi
->my</hi> shoulders, and be responsible, and see after everything; and that will grieve your mother a
+<p>"Ah, but mind you," said Caleb, turning his head warningly, "I must take it on <hi>my</hi> shoulders, and be responsible, and see after everything; and that will grieve your mother a
 bit, though she mayn't say so. Fred had need be careful."</p>
 <p>"Perhaps it is too much, father," said Mary, checked in her joy. "There would be no happiness in
 bringing you any fresh trouble."</p>
 <p>"Nay, nay; work is my delight, child, when it doesn't vex your mother. And then, if you and Fred
 get married," here Caleb's voice shook just perceptibly, "he'll be steady and saving; and you've got
 your mother's cleverness, and mine too, in a woman's sort of way; and you'll keep him in order.
-He'll be coming by-and-by, so I wanted to tell you first, because I think you'd like to tell <hi
-rend="italic">him</hi> by yourselves. After that, I could talk it well over with him, and we could
+He'll be coming by-and-by, so I wanted to tell you first, because I think you'd like to tell <hi rend="italic">him</hi> by yourselves. After that, I could talk it well over with him, and we could
 go into business and the nature of things."</p>
 <p>"Oh, you dear good father!" cried Mary, putting her hands round her father's neck, while he bent
 his head placidly, willing to be caressed. "I wonder if any other girl thinks her father the best

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18970" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18970" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Lying Prophets: ELTec edition</title>
-        <author>Phillpotts, Eden (1862-1960)</author>
+        <author ref="viaf:56811483">Phillpotts, Eden (1862-1960)</author>
         <respStmt>
           <resp>ELTeC conversion</resp>
           <name>Lou Burnard</name>

@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19201" xml:lang="en">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19201" xml:lang="en">
+  <teiHeader>
     <fileDesc>
         <titleStmt>
             <title>The London venture : ELTec edition</title>
-            <author>Arlen, Michael (Dikran Kouyoumdjian) (1857-1924).</author>
+            <author ref="viaf:19715803">Arlen, Michael (pseud.) (1857-1924)</author>
             <respStmt>
                 <resp>ELTeC conversion</resp>
                 <name>Lou Burnard</name>
@@ -16,8 +16,7 @@
         </publicationStmt>
         <sourceDesc>
             <bibl><title>The Project Gutenberg eBook of The London Venture, by Michael Arlen.
-            </title><ref target="http://www.gutenberg.org/4/0/3/7/40375/
-                "/>
+            </title><ref target="http://www.gutenberg.org/4/0/3/7/40375/                 "/>
                 <!--Produced by Clarity, Ernest Schaal, and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
@@ -236,8 +235,7 @@ by The Internet Archive/American Libraries.)
             quickly passing sunshine on the low hills, I found that, after all, those last few
             months of peace had passed, perhaps, too lightly, too carelessly; but it was pleasant to
             think back to those days when lunches and dinners and week-ends took up so much of one's
-            time. I was glad now that I had not spent the three summer months in Yorkshire <pb
-                n="023"/> on the moors, where I should have been uncomfortable; and had to be for
+            time. I was glad now that I had not spent the three summer months in Yorkshire <pb n="023"/> on the moors, where I should have been uncomfortable; and had to be for
             ever sending postcards to Hatchard's to post me this or that book, which would come when
             my mood for it had passed.</p>
         <p>And how dreadful it is to want to read suddenly "Love in the Valley," and have to be
@@ -278,8 +276,7 @@ by The Internet Archive/American Libraries.)
             anything about them at all.</p>
         <p>The same thing happens with regard to books, for one often meets people who seem to have
             read every modern novel, and can discuss quite prettily whether Mr. Wells is a man or a
-            machine, or whether Mr. Arnold Bennett, ever since he wrote the last lines to <pb
-                n="029"/> "The Old Wives' Tales," has not decided that it is better to be a merchant
+            machine, or whether Mr. Arnold Bennett, ever since he wrote the last lines to <pb n="029"/> "The Old Wives' Tales," has not decided that it is better to be a merchant
             than a writer, or whether Mr. E. V. Lucas thinks he is the second Charles Lamb, and what
             other grounds than his splendid edition has he for thinking so, or whether Mr. George
             Moore does or does not think that indiscretion is the better part of literature, or
@@ -292,8 +289,7 @@ by The Internet Archive/American Libraries.)
             had spoken to no one but a little old woman who said that she wasn't a beggar but that
             God blessed the charitable, I sat down and wrote a long, conceited letter to
             Shelmerdene; for to her I can write whether I am gay or depressed, and be sure that she
-            will not be impatient with me. I told her how I had a great fund of ambition, <pb
-                n="030"/> but had it not in me to satisfy a tenth part of it; for that is in the
+            will not be impatient with me. I told her how I had a great fund of ambition, <pb n="030"/> but had it not in me to satisfy a tenth part of it; for that is in the
             character of all my people, they promise much greater things in their youth than they
             can fulfil in their mature age. From twenty onwards they are continually growing stale,
             and bitter with their staleness; the little enthusiasm of their youth will not stretch
@@ -332,8 +328,7 @@ by The Internet Archive/American Libraries.)
             the blood gushed out of his body as the teeth of seals tore the life out of him, he
             heard from far away the cold, white notes of the Dán-nan-Rón.</p>
         <p>This tale always brings to me that many men, in some sudden moment which even M.
-            Maeterlinck would hesitate to define as "a treasure of the humble," hear the playing <pb
-                n="033"/> of a tune such as that, which tells them of some ending, unknown and
+            Maeterlinck would hesitate to define as "a treasure of the humble," hear the playing <pb n="033"/> of a tune such as that, which tells them of some ending, unknown and
             indefinite, just as, in the moments of greatest love, a man will feel for a terrible
             second the shivering white ice of sanity, which tells him a different tale to that which
             he is murmuring to the woman in his arms. Men who have heard it must have become morose
@@ -385,8 +380,7 @@ by The Internet Archive/American Libraries.)
             was her company over lunch on this particular day of the week, she could not play him
             false, even though the day was so beautiful. But I told her that I would not be loving
             her faithfully for ten years, and that she must take the best of me while she could, and
-            that on such a day as this it would be a shame to lunch with an inarticulate <pb n="037"
-            /> lover; for a man who had loved her faithfully for more than ten years, and wanted
+            that on such a day as this it would be a shame to lunch with an inarticulate <pb n="037"/> lover; for a man who had loved her faithfully for more than ten years, and wanted
             only her company over lunch once a week, must be inarticulate, or perhaps a knave whose
             subtle cunning her innocence had failed to unveil. So in the end we lunched together in
             Knightsbridge, and then walked slowly through the Park.</p>
@@ -477,8 +471,7 @@ by The Internet Archive/American Libraries.)
             mean the material distance of yards and furlongs and miles, but the distance of
             necessary strangeness, of inevitable mystery, and of a rigid mental etiquette, the good
             manners of the mind. And that is why Henry James was a great man, and with a great
-            propaganda. He was subtle with his propaganda—an ugly word which can be used for <pb
-                n="047"/> other things than the bawling of tiresome men in this Park on Sunday
+            propaganda. He was subtle with his propaganda—an ugly word which can be used for <pb n="047"/> other things than the bawling of tiresome men in this Park on Sunday
             afternoons—for he could do nothing without an almost obvious subtlety; but it is there
             in all his work, a teaching for all who care to be taught. In the world of Henry James,
             for he was more fastidious than Meredith or Mr. Hardy and would have nothing to do with
@@ -715,8 +708,7 @@ by The Internet Archive/American Libraries.)
             like, and you can spill tea on every cover or you can use them as table props, because
             all these books from Chaucer to Pater are absolute nonsense at this moment, for in not
             one of them is there anything about a dark-haired young woman with blue eyes and a
-            tentative mouth, and the indolent caress of a Latin ancestress somewhere in her <pb
-                n="067"/> voice, standing on a doorstep in a dingy road, calling on a man who might
+            tentative mouth, and the indolent caress of a Latin ancestress somewhere in her <pb n="067"/> voice, standing on a doorstep in a dingy road, calling on a man who might
             quite easily be a murderer, for all you know."</p>
         <p>But enough of that, for the situation of a young man and a young woman in a third-floor
             flat miles away from anywhere that mattered, at eleven o'clock on such a warm autumn
@@ -729,8 +721,7 @@ by The Internet Archive/American Libraries.)
             Guards, it seems, did at least acknowledge my habitual presence in her house by emptying
             Solomon's glory into her flower vases; and if there's a better reason than gratitude for
             getting into debt, tell it to me, please.</p>
-        <p>But Phyllis, like many another good woman of these Liberal times, turned her <pb n="068"
-            /> bored back on "county," and only remembered what was "done" the better not to do it;
+        <p>But Phyllis, like many another good woman of these Liberal times, turned her <pb n="068"/> bored back on "county," and only remembered what was "done" the better not to do it;
             fought for, and won a latchkey; asserted her right to come home at night as late as she
             pleased, and <emph>how</emph> she pleased—for she had come home from a dance one night on a
             benevolent motor lorry, which she had begged to pick her up on Piccadilly in pity for
@@ -819,8 +810,7 @@ by The Internet Archive/American Libraries.)
             of Henry James' is the very incarnation of a Divine Sociability, but in actual life
             there is no artist perfect enough to give himself so wholly to others that he literally
             does not exist to himself.</p>
-        <p>I am not selfish, then, with my moods; with a little revision and polishing I can <pb
-                n="077"/> make them presentable enough to give to my friends as, to say vulgarly,
+        <p>I am not selfish, then, with my moods; with a little revision and polishing I can <pb n="077"/> make them presentable enough to give to my friends as, to say vulgarly,
             the real article, the real me. And of them all there is one special mood, a
             neutral-tinted, tired, sceptical thing, which I have come to reserve exclusively for my
             friend Nikolay, who lives in a studio in Fitzroy Street, and faintly despises people for
@@ -847,8 +837,7 @@ by The Internet Archive/American Libraries.)
             until he turned to me and said, "Tea, Dikran?" I would watch him through my smoke, as
             though fascinated by the bent, slight figure as it drew and painted, with so delicate a
             precision of movement, those unreal and intangible illustrations, which tried at first
-            to impress one by their drawing or colouring, but seemed to me mainly expressions <pb
-                n="079"/> of the artist's grim and ironic detachment from other men; a
+            to impress one by their drawing or colouring, but seemed to me mainly expressions <pb n="079"/> of the artist's grim and ironic detachment from other men; a
                 <foreign>macabre</foreign> observer, as it were, of their passions, himself passionless, but
             widely, almost wickedly, tolerant. An erect satyr in topsy-turvydom.</p>
         <p>If it were any other man than Nikolay, I would know him well, for I have seen much of
@@ -1040,8 +1029,7 @@ by The Internet Archive/American Libraries.)
             was the comfortable sort of woman 'born to be a mother,' sleep, as we know it, would
             never have happened; unnecessary, gluttonous sleep, the mind-sleep!</p>
         <p>"Lilith was a real woman, and very beautiful. She was the first and greatest and most
-            mysterious of all courtesans—as, indeed, the devil's mistress would have to be, <pb
-                n="096"/> or lose her job. She must have had the eyes of a Phœnix, veiled and
+            mysterious of all courtesans—as, indeed, the devil's mistress would have to be, <pb n="096"/> or lose her job. She must have had the eyes of a Phœnix, veiled and
             secret, but their secret was only the secret of love and danger—Danger! Jehovah never
             had a chance against Lucifer, who was, after all, a man of the world, in his fight for
             the soul of Lilith. She never had a soul, and it was of Lilith Swinburne must have been
@@ -1194,8 +1182,7 @@ by The Internet Archive/American Libraries.)
             to come when he would offer to risk his career for me; I wanted him to offer me his
             ambition, and then I would consider whether to give it back to him or not. But he
             didn't. I lost.</p>
-        <p>"And I had seemed so like winning during that six weeks between that horrible <pb n="110"
-            /> lunch and his going away! London love affairs are always scrappy, hole-in-the-corner
+        <p>"And I had seemed so like winning during that six weeks between that horrible <pb n="110"/> lunch and his going away! London love affairs are always scrappy, hole-in-the-corner
             things, but we managed to live together now and again. And then, <foreign>mon Dieu</foreign>! he
             suddenly clung to me and said he wasn't seeing enough of me, that London was getting
             between us, and that we must go away somewhere into the country for at least a week
@@ -1287,8 +1274,7 @@ by The Internet Archive/American Libraries.)
         <p>"I stayed my week out in Wales, because I always try to do what is expected of me. When I
             got home, right on the top of a pile of letters—I had given orders for nothing, not even
             wires, to be sent on to me—was a wire, which had arrived one hour after I had left for
-            Wales. It was from Southampton, and it said: 'Just arrived. Am going straight <pb
-                n="117"/> up to the little palace in Wales because of memories. Will arrive there
+            Wales. It was from Southampton, and it said: 'Just arrived. Am going straight <pb n="117"/> up to the little palace in Wales because of memories. Will arrive there
             dinner-time. Shall we dine together by the window?'</p>
         <p>"And so, you see, I had won and lost and won again, but how pathetically.... Am I such a
             bad woman, d'you think?"</p>
@@ -1307,8 +1293,7 @@ by The Internet Archive/American Libraries.)
             them all, and steadily ripen with the years into a maturity of companionship, which has
             such a quality and nobility of its own that no other relation, not even that of
             passionate love, can ever take its place when it is gone.</p>
-        <p>I have not happened to mention Louis before in these papers for the reason that he <pb
-                n="122"/> had actually come very little into my life in London. In fact, we retained
+        <p>I have not happened to mention Louis before in these papers for the reason that he <pb n="122"/> had actually come very little into my life in London. In fact, we retained
             our intimacy against the aggression of our different lives, which was rather paradoxical
             for the casual people we believed ourselves to be. (Without a sincere belief in his own
             casualness the modern youth would be the most self-important ass of all generations.)
@@ -1346,8 +1331,7 @@ by The Internet Archive/American Libraries.)
             Louis," she said. And she retained her surprise at our friendship.</p>
         <p>It was, perhaps, rather surprising; surprising not so much that we were friends, but how
             we ever became friends; for there are many people in this world, who could be great
-            friends with each other if they could but once surmount the first barrier, if they <pb
-                n="125"/> could but <emph>wish</emph> to surmount that barrier—and between Louis and me
+            friends with each other if they could but once surmount the first barrier, if they <pb n="125"/> could but <emph>wish</emph> to surmount that barrier—and between Louis and me
             there was much more than a simple barrier to surmount. We became friends in spite of
             ourselves, then; though Louis, as you may believe, had nothing at all to do with the
             affair; he just sat tight and let things happen, to him, for his was not the nature
@@ -1387,8 +1371,7 @@ by The Internet Archive/American Libraries.)
             myself and study had reasonable grounds for deciding that "that sloppy-haired new long
             bug was a conceited young swine," and that he was trading rather too much on being at
             the bottom of the school.</p>
-        <p>There was a dark-haired, sallow-faced youth, one Marsden, who had come the same <pb
-                n="128"/> term as we three; he had at first shared our study, but had been fired out
+        <p>There was a dark-haired, sallow-faced youth, one Marsden, who had come the same <pb n="128"/> term as we three; he had at first shared our study, but had been fired out
             for being a cub. And, by intimating to the House-Master that if he was put back in our
             study, new bugs or no, we wouldn't answer for his mother's knowing him, we had fired him
             out in such a way that he couldn't ever get back. But he didn't try to get back. He just
@@ -1400,8 +1383,7 @@ by The Internet Archive/American Libraries.)
             soon, things came to such a pass that we had to put lumps of salt into the potato dish
             before handing it down to them. And even that didn't seem to have much effect, for one
             tea-time I distinctly heard a murmur resembling "Armenian Jew" escape from Marsden's
-            lips; that, of course, couldn't be borne, and I couldn't then explain to him <pb n="129"
-            /> that there was no such person as an Armenian Jew for I wasn't myself quite certain
+            lips; that, of course, couldn't be borne, and I couldn't then explain to him <pb n="129"/> that there was no such person as an Armenian Jew for I wasn't myself quite certain
             about it—all I knew was that I wasn't a Jew, and it wasn't Marsden who was going to call
             me one in vain. So there and then I upped and threw my pot of jam at his head, striking
             him neatly just above the right eye; I didn't do it in anger, I didn't know why I did
@@ -1453,8 +1435,7 @@ by The Internet Archive/American Libraries.)
             outrageously, much to Louis' disgust and envy. I have already written of those months,
             how I walked in the Green Park, and sat in picture galleries, and was lonely.</p>
         <p>That first loneliness was lightened only by the occasional visits to London of Louis. He
-            was by now a subaltern in the Rifle Brigade, with an indefinite but cultured <pb n="133"
-            /> growth somewhere between his nose and upper lip, and a negligent way of wearing
+            was by now a subaltern in the Rifle Brigade, with an indefinite but cultured <pb n="133"/> growth somewhere between his nose and upper lip, and a negligent way of wearing
             mufti, as though to say, "God, it's good to be back in civilised things again!" They
             were jolly, sudden evenings, those! London was still careless then. Of an evening, a
             couple of young men in dress suits with top hats balanced over their eyebrows and eyes
@@ -1466,8 +1447,7 @@ by The Internet Archive/American Libraries.)
             to suit your Marxian craniums by one Locke, who has an ancient shop at the lower end of
             St. James's Street and did at one time dictate the headwear of the beaux of White's and
             Crockford's. I warrant the life of my top hat, made by that same artist to withstand the
-            impact of the fattest woman on earth, against all the battering eloquence of <pb n="134"
-            /> all the orators in all the Albert Halls of all the Red Flag countries. With it on my
+            impact of the fattest woman on earth, against all the battering eloquence of <pb n="134"/> all the orators in all the Albert Halls of all the Red Flag countries. With it on my
             head I will finesse any argument whatsoever with you any night of the week. And at the
             end of the argument, if you are still obstinate, I will cram my blessed top hat on your
             head and, lo and behold! you are at once a Labour Minister in the Cabinet, and a most
@@ -1479,8 +1459,7 @@ by The Internet Archive/American Libraries.)
             Sands"-and I temporarily forgot Shelmerdene, and we dined right royally. I don't know
             what we talked about, perhaps we talked of nothing at all; but we talked all the time,
             and we laughed a great deal, and we still had the good old "<foreign>blasted roué</foreign>" touch
-            about us. We were very, very old indeed, so old that we decided that the first <pb
-                n="135"/> act of no play or revue in the world could compensate one for a hurried
+            about us. We were very, very old indeed, so old that we decided that the first <pb n="135"/> act of no play or revue in the world could compensate one for a hurried
             dinner; and we were old enough to know that a confidential manner to <foreign>maitres
                 d'hotels</foreign> is a thing to be cultivated, else a chicken is apt to be wizened and
             the sweet an unconscionable long time in coming. After dinner, a show, and then perhaps
@@ -1710,8 +1689,7 @@ by The Internet Archive/American Libraries.)
             and beautiful as the ancestral memories which must lurk somewhere in you, but which you
             can't express because you have not learnt yet how to be really natural with yourself.
             And when you have learnt that you will have learnt the secret of great writing, for
-            literature is the natural raw material which every man secretes within himself, but <pb
-                n="155"/> only a few can express it to the world. But I may be wrong about all that,
+            literature is the natural raw material which every man secretes within himself, but <pb n="155"/> only a few can express it to the world. But I may be wrong about all that,
             and anyway you must know a great deal more about great thinking and great writing than I
             do, for you have read about it in dull books while I have only sensed it in my trivial
             way...."</p>
@@ -1751,8 +1729,7 @@ by The Internet Archive/American Libraries.)
                 <foreign>monde</foreign> and <foreign>demimonde</foreign>, and a threatening murmur of
                 '<foreign>revanche</foreign>' and '<foreign>Alsace-Lorraine</foreign>'—as though threats and hatred
             could wipe out the memory of that day of surrender at Sedan, when he stood not ten yards
-            away among only too polite Prussian aides-de-camp while Napoleon put the seal <pb
-                n="158"/> on his last mistake, and signed away an empire.... And allowing for
+            away among only too polite Prussian aides-de-camp while Napoleon put the seal <pb n="158"/> on his last mistake, and signed away an empire.... And allowing for
             exaggeration, and the white-hot excitement to which folk who fuss about honour, etc.,
             are liable, there may have been something in his point of view about it all, for I once
             heard a man with a lot of letters behind his name say that when a country gives up a
@@ -1951,8 +1928,7 @@ by The Internet Archive/American Libraries.)
             I was young and because he loved me, and, stripped of all his honour and guardianship,
             because he loved me just as Solomon loved his wives, and Lucifer loved Lilith, and as
             you love me now....</p>
-        <p>"There it was, then, the whole damnable world, and I, only eighteen, in the middle <pb
-                n="173"/> of it! And there he was, my dear old man, more rigid and more adorable
+        <p>"There it was, then, the whole damnable world, and I, only eighteen, in the middle <pb n="173"/> of it! And there he was, my dear old man, more rigid and more adorable
             than ever; for, cruel as I was in seeing through him, I loved him all the more for his
             sweet naïveté and for his old, so old illusions about his motives. While as for being
             shocked at the way he loved me, I've never been shocked by anything but the vulgarity
@@ -2058,8 +2034,7 @@ by The Internet Archive/American Libraries.)
             had ever a decent thought about, I suppose. (His name wasn't really Raoul, you know, but
             it is a sort of convention that all young Frenchmen with the title of Vicomte and with
             languid eyes and fragile natures are called Raoul.) For he wasn't by any means a nice
-            young man, except facially, but how was I to know that! And besides, the man <pb n="181"
-            /> could sit a horse as gallantly as any young prince who ever went crusading, and I
+            young man, except facially, but how was I to know that! And besides, the man <pb n="181"/> could sit a horse as gallantly as any young prince who ever went crusading, and I
             strained my eyes in prolonging the little thrill I had when, the morning after he came,
             I saw him from a window riding out of the gates and down into the valley, very much the
             young lord of the manor, on the huge white stallion which, with such a master, defied a
@@ -2124,8 +2099,7 @@ by The Internet Archive/American Libraries.)
             unrestrained, fiercely independent.... Oh, Dikran! what idiocies we do for the fancied
             sake of independence!</p>
         <p>"It was time to dress for dinner, so I left Raoul and went straight to my room. A minute
-            later came a knock on the door, and as I turned sharply from the mirror, it <pb n="186"
-            /> opened and Raoul stood there, rather shy, smiling. I wasn't old enough to know the
+            later came a knock on the door, and as I turned sharply from the mirror, it <pb n="186"/> opened and Raoul stood there, rather shy, smiling. I wasn't old enough to know the
             proper way of dealing with young men in one's bedroom, even if I had overpoweringly
             wanted to.</p>
         <p>"'I had an impulse,' he said, but he still stood in the doorway, a little question
@@ -2218,8 +2192,7 @@ by The Internet Archive/American Libraries.)
             so ahead of us and was giving his horse rein, and so I put mine to the gallop—and
             heigh-ho! there were the three of us racing away on the Breton sands—until, with
             wonderful and dangerous horsemanship, my guardian's horse leapt a yard or so ahead and
-            swung broadside round in front of our startled horses. Near as anything there were <pb
-                n="193"/> broken collar-bones. Our horses reared high up, almost fell backwards,
+            swung broadside round in front of our startled horses. Near as anything there were <pb n="193"/> broken collar-bones. Our horses reared high up, almost fell backwards,
             nearly braining the old man with their frantic hoofs, and then at last took the ground,
             startled and panting. My guardian didn't wait. He pointed his whip at Raoul and said
             sternly, 'If I were not a guest at your mother's house I would thrash you, for that is

@@ -1,10 +1,9 @@
-<?xml-model href="../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19010" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19010" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Clementina : ElTeC edition</title>
-                <author>Mason, A.E.W. (1865-1948)</author>
+                <author ref="viaf:89734277">Mason, Alfred Edward Woodley (1865-1948)</author>
             </titleStmt>
             <extent><measure unit="words">89033</measure></extent>
             <publicationStmt><p>Published as part of ELTeC <date>2018-11-12</date></p></publicationStmt>
@@ -30,15 +29,15 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
-            <p></p>
+            <p/>
         </encodingDesc>
         <profileDesc>
-            <langUsage><language ident="en"></language></langUsage>
+            <langUsage><language ident="en"/></langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -975,8 +974,7 @@
                 But earlier in the evening Wogan's foot had slipped upon the polished boards; there
                 had been no mat or skin at all. It had been pushed there since. Wogan could not
                 doubt for what reason. It was to conceal the light of a lamp or candle within the
-                room. Someone, in a word, was prying in Wogan's room, and Wogan began to <pb n="48"
-                /> consider who. It was not the Countess, who was engaged upon her harp, but the
+                room. Someone, in a word, was prying in Wogan's room, and Wogan began to <pb n="48"/> consider who. It was not the Countess, who was engaged upon her harp, but the
                 Countess had tried to detain him. Wogan was startled as he understood the reason of
                 her harp becoming so suddenly untuned. She had spoken to him with so natural a
                 spontaneity, she had accepted the Prince's aid with so complete an absence of
@@ -1156,8 +1154,7 @@
                 avoided Prague and hurried towards Schlestadt.</p>
             <p>He rode watchfully, avoiding towns, and with an eye alert for every passer-by. That
                 he was ahead of any courier from the Emperor at Vienna he did not doubt, but, on the
-                other hand, the Countess of Berg and Lady Featherstone had the advantage of <pb
-                    n="58"/> him by some four days. There would be no lack of money to hinder him;
+                other hand, the Countess of Berg and Lady Featherstone had the advantage of <pb n="58"/> him by some four days. There would be no lack of money to hinder him;
                 there would be no scruple as to the means. Wogan remembered the moment in his
                 bedroom when he had seen the dagger bright in the moon's rays. If he could not be
                 arrested, there were other ways to stop him. Accidents may happen to any man.</p>
@@ -1292,8 +1289,7 @@
                 loneliness, and pity of that sort, he recognised, was a discreditable quality; the
                 matter was altogether very disquieting. He propped his sword against the chair and
                 undressed. Wogan cast back in his memories for the first sensations of loneliness.
-                They were recent, since he had left Ohlau, indeed. He opened the window; <pb n="65"
-                /> the rain splashed in on the sill, pattered in the street puddles below, and fell
+                They were recent, since he had left Ohlau, indeed. He opened the window; <pb n="65"/> the rain splashed in on the sill, pattered in the street puddles below, and fell
                 across the country with a continuous roar as though the level plain was a stretched
                 drum. No; he had only felt lonely since he had come near to Schlestadt, since, in a
                 word, he had deemed himself to have outstripped pursuit. He got into his bed and
@@ -1410,8 +1406,7 @@ BACK OF THE HAND."—Page 69.-->
             <p>"There was no key in the door," he thought. "I should have noticed it. Misset, the
                 man of resources, would have tilted a chair backwards against that door with its top
                 bar wedged beneath the door handle." Certainly Wogan needed Misset if he was to
-                succeed in his endeavour. He was sunk in humiliation; his very promise to rescue <pb
-                    n="71"/> the Princess shrank from its grandeur and became a mere piece of
+                succeed in his endeavour. He was sunk in humiliation; his very promise to rescue <pb n="71"/> the Princess shrank from its grandeur and became a mere piece of
                 impertinence. But he still had his letter in his pocket, and in time that served to
                 enhearten him. Only two more days, he thought. On the third night he would sleep in
                 Schlestadt.</p>
@@ -1776,8 +1771,7 @@ BACK OF THE HAND."—Page 69.-->
                 His companion drew back; he himself uttered a cry and wrenched at his foot. Wogan
                 with his left hand drew his sword from the scabbard, and with the same movement
                 passed it through his opponent's body. The man stood swaying, pinned there by his
-                foot and held erect. Then he made one desperate lunge, fell forward across <pb
-                    n="90"/> the barricade, and hung there. Wogan parried the lunge; the sword fell
+                foot and held erect. Then he made one desperate lunge, fell forward across <pb n="90"/> the barricade, and hung there. Wogan parried the lunge; the sword fell
                 from the man's hand and clattered onto the floor within the barricade. Wogan stamped
                 upon it with his heel and snapped the blade. He had still two opponents; and as they
                 advanced again he suddenly sprung onto the edge of the table, gave one sweeping cut
@@ -1795,8 +1789,7 @@ BACK OF THE HAND."—Page 69.-->
                 his opponent's shoulder he saw his first polite antagonist cross to the table and
                 pick up from the ground the broken sword. One small consolation Wogan had; the
                 fellow picked it up with his left hand, his right elbow was still useless. But even
-                that consolation lasted him for no long time, for out of the tail of his eye he <pb
-                    n="91"/> could see the big fellow creeping up with his stick raised along the
+                that consolation lasted him for no long time, for out of the tail of his eye he <pb n="91"/> could see the big fellow creeping up with his stick raised along the
                 wall at his right.</p>
             <p>Wogan suddenly pressed upon his opponent, delivering thrust upon thrust, and forced
                 him to give ground. As the swordsman drew back, Wogan swept his weapon round and
@@ -2727,8 +2720,7 @@ WIDE OPEN AND HOPEFUL."—Page 136.-->
                 Why did you give him leave to rescue her?"</p>
             <p>"Could I refuse? I did delay him; I did hesitate. Only to-day Gaydon receives the
                 passport, and even so I have delayed too long. Indeed, Maria, I dare not think of
-                the shame, the danger, her Highness has endured for me, lest my presence <pb n="138"
-                /> here, even for this farewell, should too bitterly reproach me."</p>
+                the shame, the danger, her Highness has endured for me, lest my presence <pb n="138"/> here, even for this farewell, should too bitterly reproach me."</p>
             <p>At that all Maria Vittoria's vehemence left her. She fell to beseechings and
                 entreaties. With her vehemence went also her dignity. She dropped upon her knees and
                 dragged herself across the room to him. To James her humility was more terrible than
@@ -3259,8 +3251,7 @@ WITH HIM."—Page 161.-->
                 everywhere they clashed with artilleries of hail and sleet.</p>
             <p>The man and woman staggered hand in hand and floundered in the deep snow. They were
                 soaked to the skin, frozen by the cold, and whipped by the stinging hail. Though
-                they bent their heads and bodies, though they clung hand in hand, though <pb n="166"
-                /> they struggled with all their strength, there were times when they could not
+                they bent their heads and bodies, though they clung hand in hand, though <pb n="166"/> they struggled with all their strength, there were times when they could not
                 advance a foot and must needs wait for a lull in the shelter of a porch. At such
                 times the man would perhaps quote a line of Virgil about the cave of the winds, and
                 the woman curse like a grenadier. They, however, were not the only people who were
@@ -3526,8 +3517,7 @@ WITH HIM."—Page 161.-->
                 said, "the King is well served;" and she stood there without so much as offering him
                 her hand. Wogan had not counted on so cold a greeting, but he understood the reason,
                 and was not sure but what he approved of it. After all, she had encountered perils
-                on the King's account; she had some sort of a justification to believe the King <pb
-                    n="180"/> would do the like for her. It had not occurred to him or indeed to
+                on the King's account; she had some sort of a justification to believe the King <pb n="180"/> would do the like for her. It had not occurred to him or indeed to
                 anyone before; but now that he saw the chosen woman so plainly wounded, he felt a
                 trifle hot against his King for having disappointed her. He set his wits to work to
                 dispel the disappointment.</p>
@@ -3565,8 +3555,7 @@ WITH HIM."—Page 161.-->
                 taper and before their faces lit my pipe with it."</p>
             <p>Clementina's eyes were fixed steadily and intently upon Wogan's face. When he ended
                 she drew a deep breath, but otherwise she did not move. The Princess-mother,
-                however, was unmistakably relieved. She spoke with a kindliness she had never <pb
-                    n="182"/> shown before to Wogan; she even smiled at him in a friendly way.</p>
+                however, was unmistakably relieved. She spoke with a kindliness she had never <pb n="182"/> shown before to Wogan; she even smiled at him in a friendly way.</p>
             <p>"We do not doubt you, Mr. Wogan, but that written letter, giving my daughter leave to
                 go, I needs must have before I let her go. A father's authority! I cannot take that
                 upon myself."</p>
@@ -3667,8 +3656,7 @@ WITH HIM."—Page 161.-->
             <p>Wogan had his one argument. This one argument was his last resource. He had chosen it
                 carefully with an eye to the woman whom it was to persuade. It was not couched as an
                 inducement; it did not claim the discharge of an obligation; it was not a reply to
-                any definite objection. Such arguments would only have confirmed her in her <pb
-                    n="187"/> stubbornness. He made accordingly an appeal to sentiment.</p>
+                any definite objection. Such arguments would only have confirmed her in her <pb n="187"/> stubbornness. He made accordingly an appeal to sentiment.</p>
             <p>"Your Highness's daughter," said he, "spoke a minute since of the hazards my friends
                 and I have run to compass her escape. As regards four of us, the words reached
                 beyond our deserts. For we are men. Such hazards are our portion; they are seldom
@@ -3725,8 +3713,7 @@ WITH HIM."—Page 161.-->
             <p>The Princess-mother screamed; Wogan hastened to interfere.</p>
             <p>"Jenny, there's the bedroom; to bed with you!" and he took out his watch. At once he
                 uttered an exclamation of affright. Wogan had miscalculated the time which he would
-                require. It had taken longer than he had anticipated to reach the villa <pb n="190"
-                /> against the storm; his conflict with Jenny in the portico had consumed valuable
+                require. It had taken longer than he had anticipated to reach the villa <pb n="190"/> against the storm; his conflict with Jenny in the portico had consumed valuable
                 minutes; he had been at some pains to over-persuade the Princess-mother; Jenny
                 herself amongst the trees in the darkness had waited more than the quarter of an
                 hour demanded of her; Wogan himself, absorbed each moment in that moment's
@@ -3923,8 +3910,7 @@ WITH HIM."—Page 161.-->
                 the curtain.</p>
             <p>"Your Highness, that was bravely done," said he, and kneeling he kissed her hand. He
                 went back into the embrasure, slipped the bundle over his arm, and opened the window
-                very silently. He saw the snow was still falling, the wind still moaning <pb n="200"
-                /> about the crannies and roaring along the streets. He set his knee upon the
+                very silently. He saw the snow was still falling, the wind still moaning <pb n="200"/> about the crannies and roaring along the streets. He set his knee upon the
                 window-ledge, climbed out, and drew the window to behind him.</p>
             <p>The Princess-mother waited in the room with her hand upon her heart. She waited, it
                 seemed to her, for an eternity. Then she heard the sound of a heavy fall, and the
@@ -4101,8 +4087,7 @@ WITH HIM."—Page 161.-->
                 down the road.</p>
             <p>At daybreak the snow stopped; the carriage rolled on high among the mountains under a
                 grey sky; and here and there, at a wind of the road, Wogan caught a glimpse of the
-                towers and chimney-tops of Innspruck, or had within his view a stretch of the <pb
-                    n="209"/> slope they had climbed. But there was never a black speck visible upon
+                towers and chimney-tops of Innspruck, or had within his view a stretch of the <pb n="209"/> slope they had climbed. But there was never a black speck visible upon
                 the white of the snow; as yet no courier was overtaking them, as yet Innspruck did
                 not know its captive had escaped. At eight o'clock in the morning they came to
                 Nazareth, and found their own berlin ready harnessed at the post-house door, the
@@ -4262,8 +4247,7 @@ WITH HIM."—Page 161.-->
                 darkness, to have composed the melody on which her voice rose and sank.</p>
             <p>The carriage drew up at an inn; the horses were changed; the flight was resumed.
                 Wogan had not moved during this delay, neither had Misset nor O'Toole come to the
-                door. But an ostler had flashed a lantern into the berlin, and for a second <pb
-                    n="217"/> the light had fallen upon Wogan's face and open eyes. Clementina,
+                door. But an ostler had flashed a lantern into the berlin, and for a second <pb n="217"/> the light had fallen upon Wogan's face and open eyes. Clementina,
                 however, did not cease; she sang on until the lights had been left behind and the
                 darkness was about them. Then she stopped and said,—</p>
             <p>"How long is it since you woke?"</p>
@@ -4647,8 +4631,7 @@ WITH HIM."—Page 161.-->
                 had seldom seen Wogan so moved.</p>
             <p>The berlin was brought round to the door; the Princess, rosy with sleep, stepped into
                 it; Wogan had brought with him a muff, and he slipped it over Clementina's feet to
-                keep her warm during the night; Misset took Gaydon's place, and the postillion <pb
-                    n="237"/> cracked his whip and set off towards Trent. Gaydon, sitting before the
+                keep her warm during the night; Misset took Gaydon's place, and the postillion <pb n="237"/> cracked his whip and set off towards Trent. Gaydon, sitting before the
                 fire in the parlour, heard the wheels grate upon the road; he had a vision of the
                 berlin thundering through the night with a trail of sparks from the wheels; and he
                 wondered whether Misset was asleep or merely leaning back with his eyes shut, and
@@ -4672,8 +4655,7 @@ WITH HIM."—Page 161.-->
                 saviour. The sun leaped down the mountain-peaks, and the grey of the light was now a
                 sparkling gold. Wogan bade her Highness look from the carriage window, and she could
                 not restrain a cry of delight. On her left, mountain-ridge rose behind
-                mountain-ridge, away to the towering limestone cliffs of Monte Scanupia; <pb n="239"
-                /> on her right, the white peaks of the Orto d'Abram flashed to the sun; and between
+                mountain-ridge, away to the towering limestone cliffs of Monte Scanupia; <pb n="239"/> on her right, the white peaks of the Orto d'Abram flashed to the sun; and between
                 the hills the broad valley of the Adige rolled southwards,—a summer country of
                 villages and vines, of mulberry-trees and fields of maize, in the midst of which
                 rose the belfries of an Italian town.</p>
@@ -4793,8 +4775,7 @@ WITH HIM."—Page 161.-->
                 nature but you must change your mind. Indeed, your Highness would have laughed."</p>
             <p>But at all events her Highness did not laugh now. On the contrary, her eyes lost all
                 their merriment, and her blood rushed hotly into her cheeks. She became for that
-                afternoon a creature of moods, now talking quickly and perhaps a trifle wildly, <pb
-                    n="245"/> now relapsing into long silences. Wogan was troubled by a thought that
+                afternoon a creature of moods, now talking quickly and perhaps a trifle wildly, <pb n="245"/> now relapsing into long silences. Wogan was troubled by a thought that
                 the strain of her journey was telling its tale even upon her vigorous youth. It may
                 be that she noted his look of anxiety, but she said to him abruptly and with a sort
                 of rebellion,—</p>
@@ -4875,8 +4856,7 @@ WITH HIM."—Page 161.-->
             <p>"Madam," said Wogan, "the chivalry of to-day has the same intention."</p>
             <p>"But in its effect," said she, "it is more rheumatical."</p>
             <p>Wogan searched in the carriage and drew out a coil of rope which he slung across his
-                shoulders like a bandolier. Clementina laughed at him for his precautions, <pb
-                    n="249"/> but Wogan was very serious. "I would not part with it," said he. "I
+                shoulders like a bandolier. Clementina laughed at him for his precautions, <pb n="249"/> but Wogan was very serious. "I would not part with it," said he. "I
                 never travelled for four days without being put to it for a piece of rope."</p>
             <p>They left the postillion to make what he could of the berlin and walked forward in
                 the clear night to Ala. The shock of the tumble had alarmed Mrs. Misset; the fatigue
@@ -5139,8 +5119,7 @@ WITH HIM."—Page 161.-->
             <p>"There is no sign of Captain Misset," said he.</p>
             <p>Wogan was puzzled by the way in which Clementina received the news. For a moment he
                 thought that her eyes lightened, and that she was glad; then it seemed to him that
-                her eyes clouded and suddenly as if with pain. Nor was her voice a guide to him, <pb
-                    n="263"/> for she spoke her simple question without significance,—</p>
+                her eyes clouded and suddenly as if with pain. Nor was her voice a guide to him, <pb n="263"/> for she spoke her simple question without significance,—</p>
             <p>"Must we wait, then, till the morning?"</p>
             <p>"There is a chance that they may come before the morning. I will watch on the top
                 stair, and if they come I will make bold to wake your Highness."</p>
@@ -5430,8 +5409,7 @@ WITH HIM."—Page 161.-->
                 yield to his point. "The Emperor's arm is weak, too, one might believe," he laughed,
                 and he drove his sword home. The man fell upon the stairs; but as Wogan spoke the
                 leader crouched on the step plucked violently at his cloak below his knees. Wogan
-                had not recovered from his lunge; the jerk at the cloak threw him off his <pb
-                    n="278"/> balance, his legs slipped forward under him, in another moment he
+                had not recovered from his lunge; the jerk at the cloak threw him off his <pb n="278"/> balance, his legs slipped forward under him, in another moment he
                 would have come crashing down the stairs upon his back, and at the bottom of the
                 flight there stood one man absolutely unharmed supporting his comrade who had been
                 wounded in the throat. Wogan felt the jerk, understood the danger, and saw its
@@ -6216,8 +6194,7 @@ WITH HIM."—Page 161.-->
             <p>"Then you admit," she cried, "you <hi>urged</hi> the King."</p>
             <p>"Should I have travelled over Europe to search for a wife and lit on you? Should I
                 have ridden to Ohlau and pestered your father till he yielded? Should I have ridden
-                across Europe to Strasbourg? Should I have endangered my friends in the rush <pb
-                    n="318"/> to Innspruck? No, no, no! From first to last you were the chosen
+                across Europe to Strasbourg? Should I have endangered my friends in the rush <pb n="318"/> to Innspruck? No, no, no! From first to last you were the chosen
                 woman."</p>
             <p>The vehemence and fire of sincerity with which he spoke had its effect on her. She
                 turned again towards him with a gleam of hopefulness in her face, but midway in the
@@ -6660,8 +6637,7 @@ WITH HIM."—Page 161.-->
                 she scornfully rejects that for which she has so stoutly ventured, whose name, whose
                 cause, will suffer most? It will be one more misfortune, one more disaster, to add
                 to the crushing weight under which the King labours. There will be ignominy; who
-                will be dwarfed by it? There will be laughter; whom will it souse? There will be <pb
-                    n="340"/> scandal; who will be splashed by it? The Princess or the King?"</p>
+                will be dwarfed by it? There will be laughter; whom will it souse? There will be <pb n="340"/> scandal; who will be splashed by it? The Princess or the King?"</p>
             <p>Maria Vittoria stood with her brows drawn together in a frown. "I will not go," she
                 said after a pause. "Never was there so presumptuous a request. No, I will not."</p>
             <p>Wogan made his bow and retired. But he was at the Caprara Palace again in the
@@ -7016,8 +6992,7 @@ WITH HIM."—Page 161.-->
                 forenoon set out for Rome.</p>
             <p>She was not the only witness of the ceremony to take that road that day. For some
                 three hours later, to be precise, at half-past two, Maria Vittoria stepped into her
-                coach before the Pilgrim Inn. Wogan held the carriage door open for her. He was <pb
-                    n="358"/> still in the bravery of his wedding clothes, and Maria Vittoria looked
+                coach before the Pilgrim Inn. Wogan held the carriage door open for her. He was <pb n="358"/> still in the bravery of his wedding clothes, and Maria Vittoria looked
                 him over whimsically from the top of his peruke to his shoe-buckles.</p>
             <p>"I came to see a fool-woman," said she, "and I saw a fool-man. Well, well!" and she
                 suddenly lowered her voice to a passionate whisper. "Why, oh, why did you not take
@@ -7176,8 +7151,7 @@ WITH HIM."—Page 161.-->
                 intellect. Matters of the heart he left alone, and meddled with no more. Nor did any
                 woman ever ride on his black horse into his city of dreams. He lived and died a
                 bachelor. The memory of that week when he had rescued his Princess and carried her
-                through the snows was to the last too vivid in his thoughts. The thunderous roll <pb
-                    n="367"/> of the carriage down the slopes, the sparks striking from the wheels,
+                through the snows was to the last too vivid in his thoughts. The thunderous roll <pb n="367"/> of the carriage down the slopes, the sparks striking from the wheels,
                 the sound of Clementina's voice singing softly in the darkness of the carriage, the
                 walk under the stars to Ala, the coming of the dawn about that lonely hut,
                 high-placed amongst the pines. These recollections bore him company through many a

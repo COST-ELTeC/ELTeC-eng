@@ -1,10 +1,9 @@
-<?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Vanity Fair: A Novel without a Hero: ELTeC edition</title>
-                <author>Thackeray, William Makepeace (1811-1863).</author>               
+                <author ref="viaf:95208604">Thackeray, William Makepeace (1811-1863)</author>               
             </titleStmt>
             <extent>
                 <measure unit="words">298740</measure>
@@ -26,12 +25,12 @@
         </fileDesc>
         <encodingDesc n="eltec-1"><p/></encodingDesc>
         <profileDesc>
-            <langUsage><language ident="en"></language></langUsage>
+            <langUsage><language ident="en"/></langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -72,7 +71,7 @@ Neilson, William Allan, 1869–1946, ed.
 CITATION:	Thackeray, William Makepeace. Vanity Fair, A Novel without a Hero. Vols. V & VI. Harvard Classics Shelf of Fiction. New York: P.F. Collier & Son, 1917; Bartleby.com, 2000. www.bartleby.com/305/. [Date of Printout].
 ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleby.com, Inc. (Terms of Use).
  --> </teiHeader>
-<text >
+<text>
     <front>
         <div type="titlepage">
             <p>Vanity Fair </p>
@@ -134,7 +133,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
     </front>
     <body>
         <div type="volume" n="1">
-            <div  type="chapter">
+            <div type="chapter">
                 <head>I. Chiswick Mall</head>
                 <p>WHILE the present century was in its teens, and on one sunshiny morning in June,
                     there drove up to the great iron gate of Miss Pinkerton’s academy for young
@@ -356,7 +355,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     lesson. The world is before the two young ladies; and so, farewell to Chiswick
                     Mall.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>II. In Which Miss Sharp and Miss Sedley Prepare to Open the Campaign</head>
                 <p>WHEN Miss Sharp had performed the heroical act mentioned in the last chapter, and
                     had seen the Dixonary, flying over the pavement of the little garden, fall at
@@ -658,7 +657,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “No, it doesn’t,” said Amelia. “Come in, don’t be frightened. Papa won’t do you
                     any harm.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>III. Rebecca Is in Presence of the Enemy</head>
                 <p>A VERY stout, puffy man, in buckskins and Hessian boots, with several immense
                     neckcloths, that rose almost to his nose, with a red striped waistcoat and an
@@ -897,7 +896,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “Miss Sharp has frightened him away,” said Mrs. Sedley. “Poor Joe, why
                         <hi>will</hi> he be so shy?”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>IV. The Green Silk Purse</head>
                 <p>POOR Joe’s panic lasted for two or three days; during which he did not visit the
                     house, nor during that period did Miss Rebecca ever mention his name. She was
@@ -1327,7 +1326,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     and Sedley, too, had communed with his soul, and said to himself, “’Gad, I’ll
                     pop the question at Vauxhall.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>V. Dobbin of Ours</head>
                 <p>CUFF’S fight with Dobbin, and the unexpected issue of that contest, will long be
                     remembered by every man who was educated at Dr. Swishtail’s famous school. The
@@ -1677,7 +1676,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “He’s priming himself,” Osborne whispered to Dobbin, and at length the hour and
                     the carriage arrived for Vauxhall.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>VI. Vauxhall</head>
                 <p>I KNOW that the tune I am piping is a very mild one (although there are some
                     terrific chapters coming presently), and must beg the good-natured reader to
@@ -2101,7 +2100,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     called into requisition—Rebecca and Amelia parted, the former vowing to love her
                     friend for ever and ever and ever.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>VII. Crawley of Queen’s Crawley</head>
                 <p>AMONG the most respected of the names beginning in C, which the
                         <hi>Court-Guide</hi> contained, in the year 18—, was that of Crawley, Sir
@@ -2363,7 +2362,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     Crawley without further divagation, and see how Miss Rebecca Sharp speeds
                     there.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>VIII. Private and Confidential</head>
                 <p>  Everything considered, I think it is quite as well for our dear Amelia Sedley,
                     in Russell Square, that Miss Sharp and she are parted. Rebecca is a droll funny
@@ -2422,7 +2421,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     and it was to combat and expose such as those, no doubt, that Laughter was
                     made.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>IX. Family Portraits</head>
                 <p>SIR PITT CRAWLEY was a philosopher with a taste for what is called low life. His
                     first marriage with the daughter of the noble Binkie had been made under the
@@ -2653,7 +2652,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     her, and my Julia and I would make her comfortable! Sweet—sweet vision!
                     Foolish—foolish dream!</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>X. Miss Sharp Begins to Make Friends</head>
                 <p>AND now, being received as a member of the amiable family whose portraits we have
                     sketched in the foregoing pages, it became naturally Rebecca’s duty to make
@@ -2849,7 +2848,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     would say, “and is worth far more than that puling hypocrite of a brother of
                     his.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XI. Arcadian Simplicity</head>
                 <p>BESIDES these honest folks at the Hall (whose simplicity and sweet rural purity
                     surely show the advantage of a country life over a town one), we must introduce
@@ -3346,7 +3345,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     Sir Pitt,” he added, after a pause.</p>
                 <p>  And so, in truth, she was—for father and son too.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XII. Quite a Sentimental Chapter</head>
                 <p>WE must now take leave of Arcadia, and those amiable people practising the rural
                     virtues there, and travel back to London, to inquire what has become of Miss
@@ -3616,7 +3615,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     you all know the difference between trimeter and tetrameter, may all Poetry go
                     to the deuce, and every schoolmaster perish miserably!</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XIII. Sentimental and Otherwise</head>
                 <p>I FEAR the gentleman to whom Miss Amelia’s letters were addressed was rather an
                     obdurate critic. Such a number of notes followed Lieutenant Osborne about the
@@ -4018,7 +4017,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     perused the missive—“and Gad, what a headache that mixed punch has given me!”
                     Poor little Emmy, indeed.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XIV. Miss Crawley at Home</head>
                 <p>ABOUT this time there drove up to an exceedingly snug and well appointed house in
                     Park Lane, a travelling chariot with a lozenge on the panels, a discontented
@@ -4639,7 +4638,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     of the most genuine tears that ever fell from her eyes.</p>
                 <p>  “Oh, Sir Pitt!” she said. “Oh, sir—I—I’m <hi>married already.”</hi></p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XV. In Which Rebecca’s Husband Appears for a Short Time</head>
                 <p>EVERY reader of a sentimental turn (and we desire no other) must have been
                     pleased with the <hi>tableau</hi> with which the last act of our little drama
@@ -4925,7 +4924,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     to fetch these letters from the saddler’s), wore brass spurs, and large curling
                     mustachios, and was indeed no other than Captain Rawdon Crawley.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XVI. The Letter on the Pincushion</head>
                 <p>HOW they were married is not of the slightest consequence to anybody. What is to
                     hinder a Captain who is a major, and a young lady who is of age, from purchasing
@@ -5213,7 +5212,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “You can do anything,” he said, kissing the little hand. “By Jove you can; and
                     we’ll drive down to the Star and Garter, and dine, by Jove.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XVII. How Captain Dobbin Bought a Piano</head>
                 <p>IF there is any exhibition in all Vanity Fair which Satire and Sentiment can
                     visit arm in arm together; where you light on the strangest contrasts laughable
@@ -5485,7 +5484,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “I daresay she’ll recover it;” Becky said with a smile—and they drove on and
                     talked about something else.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XVIII. Who Played on the Piano Captain Dobbin Bought</head>
                 <p>OUR surprised story now finds itself for a moment among very famous events and
                     personages, and hanging on to the skirts of history. When the eagles of Napoleon
@@ -5880,7 +5879,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     come to me.”</p>
                 <p>  George and her mother were outside, waiting until she had read the letter.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XIX. Miss Crawley at Nurse</head>
                 <p>WE have seen how Mrs. Firkin, the lady’s maid, as soon as any event of importance
                     to the Crawley family came to her knowledge, felt bound to communicate it to
@@ -6222,7 +6221,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     determined that it was most necessary for her dear friend’s health, that they
                     should leave town for a while, and recommended Brighton very strongly.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XX. In Which Captain Dobbin Acts As the Messenger of Hymen</head>
                 <p>WITHOUT knowing how, Captain William Dobbin found himself the great promoter,
                     arranger, and manager of the match between George Osborne and Amelia. But for
@@ -6542,7 +6541,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     during his visit. But he was content, so that he saw her happy; and thankful to
                     have been the means of making her so.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXI. A Quarrel about an Heiress</head>
                 <p>LOVE may be felt for any young lady endowed with such qualities as Miss Swartz
                     possessed; and a great dream of ambition entered into old Mr. Osborne’s soul,
@@ -6849,7 +6848,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “I’ll marry her to-morrow,” he said with an oath. “I love her more every day,
                     Dobbin.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXII. A Marriage and Part of a Honeymoon</head>
                 <p>ENEMIES the most obstinate and courageous can’t hold out against starvation: so
                     the elder Osborne felt himself pretty easy about his adversary in the encounter
@@ -7145,7 +7144,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     embark from Chatham next week.” This news of war could not but come with a shock
                     upon our lovers, and cause all these gentlemen to look very serious.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXIII. Captain Dobbin Proceeds on His Canvass</head>
                 <p>WHAT is the secret mesmerism which friendship possesses, and under the operation
                     of which a person ordinarily sluggish, or cold, or timid, becomes wise, active,
@@ -7350,7 +7349,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     off, I saw Peggy with the infantine procession at her tail, marching with great
                     dignity towards the stall of a neighbouring lollipop-woman.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXIV. In Which Mr. Osborne Takes down the Family Bible</head>
                 <p>SO having prepared the sisters, Dobbin hastened away to the City to perform the
                     rest and more difficult part of the task which he had undertaken. The idea of
@@ -7789,7 +7788,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     taken to secure quiet did not seem to have succeeded as yet, and the events of
                     the past two days had visibly shattered him.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXV. In Which All the Principal Personages Think Fit to Leave Brighton</head>
                 <p>CONDUCTED to the ladies, at the Ship Inn, Dobbin assumed a jovial and rattling
                     manner, which proved that this young officer was becoming a more consummate
@@ -8438,7 +8437,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  Though it told against themselves, the joke was too good and Becky burst out
                     laughing at Rawdon’s discomfiture.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXVI. Between London and Chatham</head>
                 <p>ON quitting Brighton, our friend George, as became a person of rank and fashion
                     travelling in a barouche with four horses, drove in state to a fine hotel in
@@ -8697,7 +8696,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     preparation, and he paid Amelia’s purchases with cheques on his agents, and with
                     the splendour of a lord.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXVII. In Which Amelia Joins Her Regiment</head>
                 <p>WHEN Jos’s fine carriage drove up to the inn door at Chatham, the first face
                     which Amelia recognized was the friendly countenance of Captain Dobbin, who had
@@ -8913,7 +8912,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     the ships in the river, where the transports were already taking in their
                     cargoes preparatory to dropping down the Thames.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXVIII. In Which Amelia Invades the Low Countries</head>
                 <p>THE REGIMENT with its officers was to be transported in ships provided by His
                     Majesty’s government for the occasion: and in two days after the festive
@@ -9222,7 +9221,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     was a brilliant sunset, and one, of the brightest and most beautiful days at the
                     end of May.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXIX. Brussels</head>
                 <p>MR. JOS had hired a pair of horses for his open carriage, with which cattle, and
                     the smart London vehicle, he made a very tolerable figure in the drives about
@@ -9661,7 +9660,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     through the town; and amidst the drums of the infantry, and the shrill pipes of
                     the Scotch, the whole city awoke.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXX. “The Girl I Left behind Me”</head>
                 <p>WE do not claim to rank among the military novelists. Our place is with the
                     noncombatants. When the decks are cleared for action we go below and wait
@@ -9973,7 +9972,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     Ensigns—then George came marching at the head of his company. He looked up, and
                     smiled at Amelia, and passed on; and even the sound of the music died away.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXI. In Which Jos Sedley Takes Care of His Sister</head>
                 <p>THUS all the superior officers being summoned on duty elsewhere, Jos Sedley was
                     left in command of the little colony at Brussels, with Amelia invalided, Isidor,
@@ -10359,7 +10358,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     from other casements. And presently it seemed as if the whole population of the
                     city rushed into the streets.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXII. In Which Jos Takes Flight and the War Is Brought to a Close</head>
                 <p>WE of peaceful London City have never beheld—and please God never shall
                     witness—such a scene of hurry and alarm, as that which Brussels presented.
@@ -10903,7 +10902,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     came down on the field and city: and Amelia was praying for George, who was
                     lying on his face, dead, with a bullet through his heart.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXIII. In Which Miss Crawley’s Relations Are Very Anxious about Her</head>
                 <p>THE KIND reader must please to remember—while the army is marching from Flanders,
                     and, after its heroic actions there, is advancing to take the fortifications on
@@ -11246,7 +11245,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     Pantry,” “The Frying Pan and the Fire,” and “The Livery of Sin,” of a much
                     stronger kind.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXIV. James Crawley’s Pipe Is Put Out</head>
                 <p>THE AMIABLE behaviour of Mr. Crawley, and Lady Jane’s kind reception of her,
                     highly flattered Miss Briggs, who was enabled to speak a good word for the
@@ -11810,7 +11809,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     shall see thee no more. Let us hope that Lady Jane supported her kindly, and led
                     her with gentle hand out of the busy struggle of Vanity Fair.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXV. Widow and Mother</head>
                 <p>THE NEWS of the great fights of Quatre Bras and Waterloo reached England at the
                     same time. The <hi>Gazette</hi> first published the result of the two battles;
@@ -12168,7 +12167,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
             </div>
         </div>
         <div type="volume" n="2">
-            <div  type="chapter">
+            <div type="chapter">
                 <head>I. How to Live Well on Nothing A-Year</head>
                 <p>I SUPPOSE there is no man in this Vanity Fair of ours so little observant as not
                     to think sometimes about the worldly affairs of his acquaintances, or so
@@ -12445,7 +12444,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     Curzon Street, May Fair, that they really showed the skill which must be
                     possessed by those who would live on the resources above named.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>II. The Subject Continued</head>
                 <p>IN the first place, and as a matter of the greatest necessity, we are bound to
                     describe how a house may be got for nothing a-year. These mansions are to be had
@@ -12935,7 +12934,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     the good-natured Corporal; and the Colonel, the Corporal, and old Mr. Sedley
                     with his umbrella, walked by the side of the children.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>III. A Family in a Very Small Way</head>
                 <p>WE must suppose little George Osborne has ridden from Knightsbridge towards
                     Fulham, and will stop and make inquiries at that village regarding some friends
@@ -13404,7 +13403,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     scarcely spoke a word during the whole of the drive—though she was so very happy
                     indeed.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>IV. A Cynical Chapter</head>
                 <p>OUR duty now takes us back for a brief space to some old Hampshire acquaintances
                     of ours, whose hopes respecting the disposal of their rich kinswoman’s property
@@ -13713,7 +13712,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     slunk off silently through the night, and gave up possession of the house of
                     Queen’s Crawley.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>V. In Which Becky Is Recognised by the Family</head>
                 <p>THE HEIR of Crawley arrived at home, in due time, after this catastrophe, and
                     henceforth may be said to have reigned in Queen’s Crawley. For though the old
@@ -14004,7 +14003,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     went to live with Mrs. Rawdon the next week, and had lent Rawdon Crawley six
                     hundred pounds upon annuity before six months were over.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>VI. In Which Becky Revisits the Halls of Her Ancestors</head>
                 <p>SO the mourning being ready, and Sir Pitt Crawley warned of their arrival,
                     Colonel Crawley and his wife took a couple of places in the same old Highflyer
@@ -14392,7 +14391,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     and Briggs had made a beautiful fire in Curzon Street, and little Rawdon was up
                     to welcome back his papa and mamma.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>VII. Which Treats of the Osborne Family</head>
                 <p>CONSIDERABLE time has elapsed since we have seen our respectable friend, old Mr.
                     Osborne of Russell Square. He has not been the happiest of mortals since last we
@@ -14635,7 +14634,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     as beautiful as an angel—and so like him!” The old man opposite to her did not
                     say a word, but flushed up, and began to tremble in every limb.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>VIII. In Which the Reader Has to Double the Cape</head>
                 <p>THE ASTONISHED reader must be called upon to transport himself ten thousand miles
                     to the military station of Bundlegunge, in the Madras division of our Indian
@@ -14939,7 +14938,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     very good spirits: and your little godson overate himself at our house. Mamma
                     sends her love with that of your affectionate, Ann Dobbin.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>IX. A Roundabout Chapter between London and Hampshire</head>
                 <p>OUR old friends the Crawleys’ family house, in Great Gaunt Street, still bore
                     over its front the hatchment which had been placed there as a token of mourning
@@ -15276,7 +15275,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     scraped in stone; and where old Mrs. Lock, for the first time these many long
                     years, had tight doors, sound roofs, and whole windows.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>X. Between Hampshire and London</head>
                 <p>SIR PITT CRAWLEY had done more than repair fences and restore dilapidated lodges
                     on the Queen’s Crawley estate. Like a wise man he had set to work to rebuild the
@@ -15572,7 +15571,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  And poor Lady Jane was aware that Rebecca had captivated her husband: although
                     she and Mrs. Rawdon mydeared and my-loved each other every day they met.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XI. Struggles and Trials</head>
                 <p>OUR friends at Brompton were meanwhile passing their Christmas after their
                     fashion, and in a manner by no means too cheerful.</p>
@@ -15837,7 +15836,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     restored to competency: and the boy raised to fortune. O what a conviction it
                     was to that tender and stricken heart!</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XII. Gaunt House</head>
                 <p>ALL the world knows that Lord Steyne’s town palace stands in Gaunt Square, out of
                     which Great Gaunt Street leads, whither we first conducted Rebecca, in the time
@@ -16114,7 +16113,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     as you the reader (do not say nay) or I the writer hereof would go if we had an
                     invitation.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XIII. In Which the Reader Is Introduced to the Very Best of Company</head>
                 <p>AT last Becky’s kindness and attention to the chief of her husband’s family were
                     destined to meet with an exceeding great reward; a reward which, though
@@ -16489,7 +16488,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     museum she placed the one note which Messrs. Jones and Robinson’s cashier had
                     given her.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XIV. In Which We Enjoy Three Courses and a Dessert</head>
                 <p>WHEN the ladies of Gaunt House were at breakfast that morning, Lord Stere (who
                     took his chocolate in private, and seldom disturbed the females of his
@@ -16737,7 +16736,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     conquest of Lady Gaunt by going up to her Ladyship, and praising her delightful
                     friend’s first-rate singing.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XV. Contains a Vulgar Incident</head>
                 <p>THE MUSE, whoever she be, who presides over this Comic History, must now descend
                     from the genteel heights in which she has been soaring, and have the goodness to
@@ -17031,7 +17030,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     glorious psalmody. His mother could not see him for awhile, through the mist
                     that dimmed her eyes.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XVI. In Which a Charade Is Acted Which May or May Not Puzzle the Reader</head>
                 <p>AFTER Becky’s appearance at my Lord Steyne’s private and select parties, the
                     claims of that estimable woman as regards fashion were settled; and some of the
@@ -17637,7 +17636,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “Good night,” said Rawdon ruefully. And Wenham walked away—and Rawdon Crawley
                     finished his cigar as the cab drove under Temple Bar.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XVII. In Which Lord Steyne Shows Himself in a Most Amiable Light</head>
                 <p>WHEN Lord Steyne was benevolently disposed, he did nothing by halves, and his
                     kindness towards the Crawley family did the greatest honour to his benevolent
@@ -17964,7 +17963,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     that the incident occurred which was mentioned in the last chapter; and the
                     unfortunate Colonel found himself a prisoner away from home.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XVIII. A Rescue and a Catastrophe</head>
                 <p>FRIEND RAWDON drove on then to Mr. Moss’s mansion in Cursitor Street, and was
                     duly inducted into that dismal place of hospitality. Morning was breaking over
@@ -18265,7 +18264,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     been lying on the floor since Rebecca dropped them there at her husband’s
                     orders, and Lord Steyne went away.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XIX. Sunday after the Battle</head>
                 <p>THE MANSION of Sir Pitt Crawly, in Great Gaunt Street, was just beginning to
                     dress itself for the day, as Rawdon, in his evening costume, which he had now
@@ -18561,7 +18560,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     his appearance at breakfast, and asked if he was going to be married that
                     Sunday?</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XX. In Which the Same Subject Is Pursued</head>
                 <p>BECKY did not rally from the state of stupor and confusion in which the events of
                     the previous night had plunged her intrepid spirit, until the bells of the
@@ -19070,7 +19069,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     and rode out with Sir Huddlestone’s hounds, which he admired so on his first
                     well-remembered visit to Hampshire.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXI. Georgy Is Made a Gentleman</head>
                 <p>GEORGY OSBORNE was now fairly established in his grandfather’s mansion in Russell
                     Square: occupant of his father’s room in the house, and heir-apparent of all the
@@ -19464,7 +19463,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “Your mother has talked to you about me—has she?” he said.</p>
                 <p>  “That she has,” Georgy answered, “hundreds and hundreds of times.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXII. Eothen</head>
                 <p>IT was one of the many causes for personal pride with which old Osborne chose to
                     recreate himself, that Sedley, his ancient rival, enemy, and benefactor, was in
@@ -19737,7 +19736,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     pilot came on board. Good God, how his heart beat as the two friendly spires of
                     Southampton came in sight.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXIII. Our Friend the Major</head>
                 <p>OUR Major had rendered himself so popular on board the Ramchunder, that when he
                     and Mr. Sedley descended into the welcome shore-boat which was to take them from
@@ -20116,7 +20115,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     hour, it is on record, that Major Dobbin treated himself to half-price at the
                     Haymarket Theatre that evening, where let us hope he enjoyed himself.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXIV. The Old Piano</head>
                 <p>THE MAJOR’S visit left old John Sedley in a great state of agitation and
                     excitement. His daughter could not induce him to settle down to his customary
@@ -20471,7 +20470,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     poor boy at school who has no money may sigh after the contents of the
                     tart-woman’s tray.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXV. Returns to the Genteel World</head>
                 <p>GOOD fortune now begins to smile upon Amelia. We are glad to get her out of that
                     low sphere in which she has been creeping hitherto, and introduce her into a
@@ -20665,7 +20664,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  “I wish you would let me buy you some,” thought the Major. “I should like to
                     see any that were too good for you.”</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXVI. In Which Two Lights Are Put Out</head>
                 <p>THERE came a day when the round of decorous pleasures and solemn gaieties in
                     which Mr. Jos Sedley’s family indulged was interrupted by an event which happens
@@ -21120,7 +21119,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  But this sort of society was too cruelly genteel for Emmy; and all jumped for
                     joy when a foreign tour was proposed.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXVII. Am Rhein</head>
                 <p>THE ABOVE every-day events had occurred, and a few weeks had passed, when on one
                     fine morning, Parliament being over, the summer advanced, and all the good
@@ -21469,7 +21468,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     bedward, followed by Kirsch with a flambeau. We rather hoped that nice-looking
                     woman would be induced to stay some time in the town.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXVIII. In Which We Meet an Old Acquaintance</head>
                 <p>SUCH polite behaviour as that of Lord Tapeworm did not fail to have the most
                     favourable effect upon Mr. Sedley’s mind, and the very next morning, at
@@ -21858,7 +21857,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     into the moonlight, where the illuminations were winking out, and the
                     transparency over our mission was scarcely visible.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXIX. A Vagabond Chapter</head>
                 <p>WE must pass over a part of Mrs. Rebecca Crawley’s biography with that lightness
                     and delicacy which the world demands—the moral world, that has, perhaps, no
@@ -22394,7 +22393,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     Neapolitan and French bonds, &amp;c., found in his lordship’s secretaire, and
                     claimed by his heirs from that injured woman.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXX. Full of Business and Pleasure</head>
                 <p>THE DAY after the meeting at the play-table, Jos had himself arrayed with unusual
                     care and splendour, and without thinking it necessary to say a word to any
@@ -22661,7 +22660,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     embraced her and kissed her with all her heart. Ah, poor wretch, when was your
                     lip pressed before by such pure kisses?</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXI. Amantium Iræ</head>
                 <p>FRANKNESS and kindness like Amelia’s were likely to touch even such a hardened
                     little reprobate as Becky. She returned Emmy’s caresses and kind speeches with
@@ -23176,7 +23175,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                 <p>  As for Emmy, had she not done her duty? She had her picture of George for a
                     consolation.</p>
             </div>
-            <div  type="chapter">
+            <div type="chapter">
                 <head>XXXII. Which Contains Births, Marriages, and Deaths</head>
                 <p>WHATEVER Becky’s private plan might be by which Dobbin’s true love was to be
                     crowned with success the little woman thought that the secret might keep, and
