@@ -209,6 +209,9 @@
     
     <xsl:template match="h:body">
         <text><body>
+            <xsl:choose>
+                <xsl:when test="h:h2">
+          
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
                     <xsl:for-each select="current-group()">
@@ -217,6 +220,18 @@
                         
                     </xsl:for-each></div>
             </xsl:for-each-group>
+                </xsl:when>
+                <xsl:when test="h:hr[@class='chap']">
+                    <xsl:for-each-group select="*" group-starting-with="h:hr[@class='chap']">
+                        <div type="chapter">
+                            <xsl:for-each select="current-group()">
+                                
+                                <xsl:apply-templates select="."/>
+                                
+                            </xsl:for-each></div>
+                    </xsl:for-each-group>
+                </xsl:when>
+            </xsl:choose>
         </body></text>
     </xsl:template>
     
@@ -224,10 +239,14 @@
         <head><xsl:value-of select="."/></head>
     </xsl:template>
     
+  <!-- added for nesbit -->
+    <xsl:template match="h:span[@style]">
+        <l><xsl:apply-templates/></l>
+    </xsl:template>
     
-    
-    
-    
+    <xsl:template match="h:span[h:img]">
+        <xsl:value-of select="h:img/@alt"/>
+    </xsl:template>    
     
     <!-- <xsl:template match="h:small/h:font">       
         <pb>
