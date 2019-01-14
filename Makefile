@@ -31,4 +31,5 @@ driver:
 report:
 	echo report on corpus balance
 	saxon -xi $(CORPUS)/driver.tei $(REPORTER) corpus=$(LANG) >$(CORPUS)/balance_report.html
+authorList:
 	saxon -xi $(CORPUS)/driver.tei $(AUTHORS) >$(CORPUS)/authorList.xml
