@@ -147,6 +147,29 @@
         <quote><xsl:apply-templates/></quote>
     </xsl:template>
     
+    <xsl:template match="h:blockquote/h:blockquote">
+        <div type='liminal'><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="h:hr[@class='full'][2]">
+        <div type='notes'>
+            <xsl:for-each select="//h:table[@class='fn']">
+                <note>
+                    <xsl:attribute name="xml:id">
+                        <xsl:value-of select="h:tr/h:td/h:p/h:a/@id[1]"/>
+                    </xsl:attribute>
+                    <xsl:apply-templates select="h:tr/h:td/h:p"/>
+                </note>
+            </xsl:for-each>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="h:p/h:a[@href][not(contains(.,'Return'))]">
+        <ref target="{@href}"><xsl:value-of select="."/></ref>
+    </xsl:template>
+
+    <xsl:template match="h:b"/>
+    
     <xsl:template match="h:div[@class='poem']">
         <quote>
             <xsl:choose>
@@ -184,10 +207,13 @@
         </pb>
     </xsl:template>
    
-    <xsl:template match="h:span[@class='smcap']|h:span[@class='sc']">
+    <xsl:template match="h:span[@class='smcap']|h:span[@class='sc']|h:span[@class='smallcaps']">
         <hi><xsl:apply-templates/></hi>
     </xsl:template>
     
+    <xsl:template match="h:span[@class='nowrap']">
+       <xsl:apply-templates/>
+    </xsl:template>
     
     <xsl:template match="h:p[@class='title']">
         <milestone unit="subsection" n="{substring-after(.,' ')}"/>
@@ -210,7 +236,7 @@
     <xsl:template match="h:body">
         <text><body>
             <xsl:choose>
-                <xsl:when test="h:h2">
+     <!--           <xsl:when test="h:h2">
           
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
@@ -220,6 +246,18 @@
                         
                     </xsl:for-each></div>
             </xsl:for-each-group>
+                </xsl:when>
+                -->
+                <xsl:when test="h:h3">
+                    
+                    <xsl:for-each-group select="*" group-starting-with="h:h3">
+                        <div type="chapter">
+                            <xsl:for-each select="current-group()">
+                                
+                                <xsl:apply-templates select="."/>
+                                
+                            </xsl:for-each></div>
+                    </xsl:for-each-group>
                 </xsl:when>
                 <xsl:when test="h:hr[@class='chap']">
                     <xsl:for-each-group select="*" group-starting-with="h:hr[@class='chap']">
@@ -235,7 +273,7 @@
         </body></text>
     </xsl:template>
     
-    <xsl:template match="h:h2|h:h1|h:h3|h:big|h4">   
+    <xsl:template match="h:h2|h:h1|h:h3|h:big|h:h4">   
         <head><xsl:value-of select="."/></head>
     </xsl:template>
     
@@ -248,6 +286,15 @@
         <xsl:value-of select="h:img/@alt"/>
     </xsl:template>    
     
+    <xsl:template match="h:div[@class='center']">
+        <quote>
+            <xsl:for-each select=".//text()">
+                <xsl:if test="string-length(.) gt 2">
+                    <l><xsl:copy-of select="."/></l></xsl:if>
+            </xsl:for-each>
+        </quote>
+        
+    </xsl:template>    
     <!-- <xsl:template match="h:small/h:font">       
         <pb>
             <xsl:if test="string-length(substring-before(substring-after(., 'age '), ' ]')) gt 1"
