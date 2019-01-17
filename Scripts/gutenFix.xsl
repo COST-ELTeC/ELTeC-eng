@@ -236,7 +236,8 @@
     <xsl:template match="h:body">
         <text><body>
             <xsl:choose>
-     <!--           <xsl:when test="h:h2">
+    
+                <xsl:when test="h:h2">
           
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
@@ -247,7 +248,7 @@
                     </xsl:for-each></div>
             </xsl:for-each-group>
                 </xsl:when>
-                -->
+                
                 <xsl:when test="h:h3">
                     
                     <xsl:for-each-group select="*" group-starting-with="h:h3">
