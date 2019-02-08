@@ -9,12 +9,12 @@
     <xsl:param name="bassettBase">/home/lou/Public/bookLists/Bassett/bassettPlus.xml</xsl:param>
     <xsl:param name="bassettKey">B1984</xsl:param>
     <xsl:param name="gutenKey">7926</xsl:param>
-<xsl:variable name="pageCount">?</xsl:variable>
+    <xsl:variable name="pageCount">?</xsl:variable>
     <!--   <xsl:value-of select="count(//t:hi[@rend = 'small'])"/>
     </xsl:variable>
     -->
     <xsl:variable name="wordCount">?</xsl:variable>
-       <!-- <xsl:value-of
+    <!-- <xsl:value-of
             select="
                 string-length(normalize-space(//t:body))
                 -
@@ -22,16 +22,15 @@
         />
     </xsl:variable>
     -->
-    
     <xsl:template match="h:html">
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd">
             <xsl:apply-templates/>
         </TEI>
-    </xsl:template>  
-    
+    </xsl:template>
     <xsl:template match="h:head">
         <xsl:message>Generating header for Bassett title <xsl:value-of select="$bassettKey"/>
-                <xsl:text> (</xsl:text><xsl:value-of select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:title"
+            <xsl:text> (</xsl:text><xsl:value-of
+                select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:title"
             />)</xsl:message>
         <xsl:variable name="sex">
             <xsl:value-of
@@ -56,7 +55,7 @@
             </xsl:choose>
         </xsl:variable>
         <xsl:variable name="size">?</xsl:variable>
-           <!-- <xsl:choose>
+        <!-- <xsl:choose>
                 <xsl:when test="xs:integer($wordCount) le 50000">short</xsl:when>
                 <xsl:when test="xs:integer($wordCount) le 100000">medium</xsl:when>
                 <xsl:when test="xs:integer($wordCount) gt 100000">long</xsl:when>
@@ -92,9 +91,9 @@
                         <title>
                             <xsl:value-of select="h:title"/>
                         </title>
-                         <ref target="{concat('gut:',$gutenKey)}">Gutenberg</ref>
+                        <ref target="{concat('gut:',$gutenKey)}">Gutenberg</ref>
                         <relatedItem>
-                            <bibl type="copyText" n='{$bassettKey}'>
+                            <bibl type="copyText" n="{$bassettKey}">
                                 <title>
                                     <xsl:value-of select="$title"/>
                                 </title>
@@ -134,26 +133,28 @@
             </revisionDesc>
         </teiHeader>
     </xsl:template>
-    
-    
     <xsl:template
-        match="h:pre|h:blockquote|h:p[@class='toc']|h:br|h:a|h:eg|h:table|h:hr|h:div[h:br]"/>
-    
+        match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | h:a | h:eg | h:table | h:hr | h:div[h:br]"/>
     <xsl:template match="h:pre[preceding-sibling::h:h2]">
-        <quote><l><xsl:apply-templates/></l></quote>
+        <quote>
+            <l>
+                <xsl:apply-templates/>
+            </l>
+        </quote>
     </xsl:template>
-    
     <xsl:template match="h:blockquote[preceding-sibling::h:h2]">
-        <quote><xsl:apply-templates/></quote>
+        <quote>
+            <xsl:apply-templates/>
+        </quote>
     </xsl:template>
-    
     <xsl:template match="h:blockquote/h:blockquote">
-        <div type='liminal'><xsl:apply-templates/></div>
+        <div type="liminal">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
-    
-    <xsl:template match="h:hr[@class='full'][2]">
-        <div type='notes'>
-            <xsl:for-each select="//h:table[@class='fn']">
+    <xsl:template match="h:hr[@class = 'full'][2]">
+        <div type="notes">
+            <xsl:for-each select="//h:table[@class = 'fn']">
                 <note>
                     <xsl:attribute name="xml:id">
                         <xsl:value-of select="h:tr/h:td/h:p/h:a/@id[1]"/>
@@ -163,59 +164,63 @@
             </xsl:for-each>
         </div>
     </xsl:template>
-    
-    <xsl:template match="h:p/h:a[@href][not(contains(.,'Return'))]">
-        <ref target="{@href}"><xsl:value-of select="."/></ref>
+    <xsl:template match="h:p/h:a[@href][not(contains(., 'Return'))]">
+        <ref target="{@href}">
+            <xsl:value-of select="."/>
+        </ref>
     </xsl:template>
-
     <xsl:template match="h:b"/>
-    
-    <xsl:template match="h:div[@class='poem']">
+    <xsl:template match="h:div[@class = 'poem']">
         <quote>
             <xsl:choose>
                 <xsl:when test=".//h:div[not(@class)]">
                     <xsl:for-each select=".//h:div[not(@class)]">
-                        <l><xsl:apply-templates/></l>
+                        <l>
+                            <xsl:apply-templates/>
+                        </l>
                     </xsl:for-each>
-                    
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:apply-templates/>
                 </xsl:otherwise>
             </xsl:choose>
-           </quote>     
+        </quote>
     </xsl:template>
-    
-    
-    <xsl:template match="h:div[@class='stanza']/h:p">      
-                        <l><xsl:apply-templates/></l>
+    <xsl:template match="h:div[@class = 'stanza']/h:p">
+        <l>
+            <xsl:apply-templates/>
+        </l>
     </xsl:template>
-    
-    <xsl:template match="h:div[@class='stanza']">
+    <xsl:template match="h:div[@class = 'stanza']">
         <xsl:apply-templates/>
     </xsl:template>
-    
-    <xsl:template match="h:div[@class='block' or @class='block2']">
+    <xsl:template match="h:div[@class = 'block' or @class = 'block2']">
         <xsl:apply-templates/>
     </xsl:template>
-    
-    <xsl:template match="h:span[@class='pagenum']">
+    <xsl:template match="h:span[@class = 'pagenum']">
         <pb>
             <xsl:attribute name="n">
-                <xsl:value-of select="substring-after(h:a/@name, 'Page_')"/>
+                <xsl:choose>
+                    <xsl:when test="h:a">
+                        <xsl:value-of select="substring-after(h:a/@name, 'Page_')"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="substring-after(normalize-space(.), 'p.')"/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </xsl:attribute>
         </pb>
     </xsl:template>
-   
-    <xsl:template match="h:span[@class='smcap']|h:span[@class='sc']|h:span[@class='smallcaps']">
-        <hi><xsl:apply-templates/></hi>
+    <xsl:template
+        match="h:span[@class = 'smcap'] | h:span[@class = 'sc'] | h:span[@class = 'smallcaps']">
+        <hi>
+            <xsl:apply-templates/>
+        </hi>
     </xsl:template>
-    
-    <xsl:template match="h:span[@class='nowrap']">
-       <xsl:apply-templates/>
+    <xsl:template match="h:span[@class = 'nowrap']">
+        <xsl:apply-templates/>
     </xsl:template>
-    
-    <xsl:template match="h:p[@class='title']">
+    <xsl:template match="h:p[@class = 'title']">
         <milestone unit="subsection" n="{substring-after(.,' ')}"/>
     </xsl:template>
     <xsl:template match="h:p">
@@ -223,21 +228,17 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    
     <xsl:template match="h:i">
         <hi>
             <xsl:apply-templates select="@xml:lang"/>
             <xsl:apply-templates/>
         </hi>
     </xsl:template>
-    
-   
-    
     <xsl:template match="h:body">
-        <text><body>
-            <xsl:choose>
-    
-                <xsl:when test="h:h2">
+        <text>
+            <body>
+                <xsl:choose>
+                  <xsl:when test="h:h2">
           
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
@@ -248,54 +249,66 @@
                     </xsl:for-each></div>
             </xsl:for-each-group>
                 </xsl:when>
-                
-                <xsl:when test="h:h3">
-                    
-                    <xsl:for-each-group select="*" group-starting-with="h:h3">
-                        <div type="chapter">
-                            <xsl:for-each select="current-group()">
-                                
-                                <xsl:apply-templates select="."/>
-                                
-                            </xsl:for-each></div>
-                    </xsl:for-each-group>
-                </xsl:when>
-                <xsl:when test="h:hr[@class='chap']">
-                    <xsl:for-each-group select="*" group-starting-with="h:hr[@class='chap']">
-                        <div type="chapter">
-                            <xsl:for-each select="current-group()">
-                                
-                                <xsl:apply-templates select="."/>
-                                
-                            </xsl:for-each></div>
-                    </xsl:for-each-group>
-                </xsl:when>
-            </xsl:choose>
-        </body></text>
+                    <xsl:when test="h:h3">
+                        <xsl:for-each-group select="*" group-starting-with="h:h3">
+                            <div type="chapter">
+                                <xsl:for-each select="current-group()">
+                                    <xsl:apply-templates select="."/>
+                                </xsl:for-each>
+                            </div>
+                        </xsl:for-each-group>
+                    </xsl:when>
+                    <xsl:when test="h:hr[@class = 'chap']">
+                        <xsl:for-each-group select="*" group-starting-with="h:hr[@class = 'chap']">
+                            <div type="chapter">
+                                <xsl:for-each select="current-group()">
+                                    <xsl:apply-templates select="."/>
+                                </xsl:for-each>
+                            </div>
+                        </xsl:for-each-group>
+                    </xsl:when>
+                </xsl:choose>
+            </body>
+        </text>
     </xsl:template>
-    
-    <xsl:template match="h:h2|h:h1|h:h3|h:big|h:h4">   
+    <xsl:template match="h:h2 | h:h1 | h:big | h:h4">
+        <head>
+            <xsl:apply-templates/>
+        </head>
+    </xsl:template>
+    <xsl:template match="h:h3">
+        <xsl:apply-templates select="h:span[@class = 'pagenum']"/>
         <head><xsl:value-of select="."/></head>
+       <!-- <head>
+            <xsl:value-of select="h:span[@class = 'GutSmall']"/>
+        </head>-->
     </xsl:template>
-    
-  <!-- added for nesbit -->
-    <xsl:template match="h:span[@style]">
-        <l><xsl:apply-templates/></l>
+    <xsl:template match="h:span[matches(@class, 'i\d')]">
+        <xsl:text>
+      </xsl:text>
+        <l>
+            <xsl:apply-templates/>
+        </l>
     </xsl:template>
-    
+    <xsl:template match="h:span[@class = 'GutSmall']">
+        <hi><xsl:apply-templates/></hi>
+    </xsl:template>
     <xsl:template match="h:span[h:img]">
         <xsl:value-of select="h:img/@alt"/>
-    </xsl:template>    
-    
-    <xsl:template match="h:div[@class='center']">
+    </xsl:template>
+    <xsl:template match="h:div[@class = 'center']">
         <quote>
             <xsl:for-each select=".//text()">
                 <xsl:if test="string-length(.) gt 2">
-                    <l><xsl:copy-of select="."/></l></xsl:if>
+                    <l>
+                        <xsl:copy-of select="."/>
+                    </l>
+                </xsl:if>
             </xsl:for-each>
         </quote>
-        
-    </xsl:template>    
+    </xsl:template>
+    <xsl:template match="h:div[@class='gapspace']"/>
+    
     <!-- <xsl:template match="h:small/h:font">       
         <pb>
             <xsl:if test="string-length(substring-before(substring-after(., 'age '), ' ]')) gt 1"
@@ -359,7 +372,6 @@
     <xsl:template match="h:br"/>
     <xsl:template match="h:p"><p><xsl:apply-templates/></p></xsl:template>
     <xsl:template match="h:strong|h:em"><hi><xsl:apply-templates/></hi></xsl:template>-->
-    
     <xsl:template match="* | @* | processing-instruction()">
         <xsl:copy>
             <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
@@ -367,6 +379,5 @@
     </xsl:template>
     <xsl:template match="text()">
         <xsl:value-of select="."/>
-        
     </xsl:template>
 </xsl:stylesheet>
