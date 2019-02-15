@@ -135,6 +135,24 @@
     </xsl:template>
     <xsl:template
         match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | h:a | h:eg | h:table | h:hr | h:div[h:br]"/>
+    
+    <xsl:template match="h:p[h:br]">
+        <quote>
+            <xsl:for-each-group select="*" group-ending-with="h:br">
+                <l>
+                    <xsl:for-each select="current-group()">
+                        <xsl:apply-templates select="preceding-sibling::text()[1]"/>
+                        <xsl:value-of select="."/>
+                    </xsl:for-each>
+                </l>
+            </xsl:for-each-group>
+        </quote>
+    </xsl:template>
+    
+    <xsl:template match="h:h4/h:a">
+        <xsl:value-of select="."/>
+    </xsl:template>
+    
     <xsl:template match="h:pre[preceding-sibling::h:h2]">
         <quote>
             <l>
@@ -238,7 +256,7 @@
         <text>
             <body>
                 <xsl:choose>
-                  <xsl:when test="h:h2">
+               <!--   <xsl:when test="h:h2">
           
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
@@ -257,7 +275,7 @@
                                 </xsl:for-each>
                             </div>
                         </xsl:for-each-group>
-                    </xsl:when>
+                    </xsl:when>-->
                     <xsl:when test="h:hr[@class = 'chap']">
                         <xsl:for-each-group select="*" group-starting-with="h:hr[@class = 'chap']">
                             <div type="chapter">
@@ -271,7 +289,7 @@
             </body>
         </text>
     </xsl:template>
-    <xsl:template match="h:h2 | h:h1 | h:big | h:h4">
+    <xsl:template match="h:h2 | h:h1 | h:big | h:h4 ">
         <head>
             <xsl:apply-templates/>
         </head>
