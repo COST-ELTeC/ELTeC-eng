@@ -32,11 +32,12 @@ driver:
 
 report:
 	echo report on corpus balance
-	saxon -xi $(CORPUS)/driver.tei $(REPORTER) corpus=$(LANG) >$(CORPUS)/balance_report.html
-authorList:
-	saxon -xi $(CORPUS)/driver.tei $(AUTHORS) >$(CORPUS)/authorList.xml
+	saxon -xi $(CORPUS)/driver.tei $(REPORTER) corpus=$(LANG) >$(CORPUS)/index.html
 expose:
 	cd $(CORPUS);
 	find level? | grep $(PREFIX) | sort | while read f; do \
-	echo $$f; \
-	saxon fileName=$$f $$f $(EXPOSE) > $(EXPOSEDIR)/`basename $$f .xml`.html; done
+	g=`echo $$f  | cut -d_ -f1`;\
+	id=`echo $$g  | cut -d/ -f2`;\
+	echo $$id; \
+	saxon fileName=$$f $$f $(EXPOSE) > $(EXPOSEDIR)/$$id.html; \
+	done
