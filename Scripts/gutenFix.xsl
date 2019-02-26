@@ -1,5 +1,5 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs h"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs h e"
     xmlns:h="http://www.w3.org/1999/xhtml" xmlns:t="http://www.tei-c.org/ns/1.0"
     xmlns:e="http://distantreading.net/eltec/ns" xmlns="http://www.tei-c.org/ns/1.0" version="2.0">
     <xsl:output exclude-result-prefixes="h t xs e"/>
@@ -23,7 +23,7 @@
     </xsl:variable>
     -->
     <xsl:template match="h:html">
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd">
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd" xml:lang="en">
             <xsl:apply-templates/>
         </TEI>
     </xsl:template>
@@ -93,7 +93,7 @@
                         </title>
                         <ref target="{concat('gut:',$gutenKey)}">Gutenberg</ref>
                         <relatedItem>
-                            <bibl type="copyText" n="{$bassettKey}">
+                            <bibl type="firstEdition" n="{$bassettKey}">
                                 <title>
                                     <xsl:value-of select="$title"/>
                                 </title>
@@ -152,6 +152,15 @@
     <xsl:template match="h:h4/h:a">
         <xsl:value-of select="."/>
     </xsl:template>
+    
+    <xsl:template match="h:a[starts-with(@name,'Page_')]">
+        <pb>
+            <xsl:attribute name="n">
+                <xsl:value-of select="substring-after(@name,'Page_')"/>
+            </xsl:attribute>
+        </pb>
+    </xsl:template>
+    
     
     <xsl:template match="h:pre[preceding-sibling::h:h2]">
         <quote>
@@ -238,6 +247,11 @@
     <xsl:template match="h:span[@class = 'nowrap']">
         <xsl:apply-templates/>
     </xsl:template>
+    
+    <xsl:template match="h:div[@class='stanza']/h:span[h:br]">
+        <l><xsl:value-of select="."/></l>
+    </xsl:template>
+
     <xsl:template match="h:p[@class = 'title']">
         <milestone unit="subsection" n="{substring-after(.,' ')}"/>
     </xsl:template>
@@ -256,8 +270,8 @@
         <text>
             <body>
                 <xsl:choose>
-               <!--   <xsl:when test="h:h2">
-          
+               <xsl:when test="h:h2">
+        
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
                     <xsl:for-each select="current-group()">
@@ -275,7 +289,7 @@
                                 </xsl:for-each>
                             </div>
                         </xsl:for-each-group>
-                    </xsl:when>-->
+                    </xsl:when>
                     <xsl:when test="h:hr[@class = 'chap']">
                         <xsl:for-each-group select="*" group-starting-with="h:hr[@class = 'chap']">
                             <div type="chapter">
