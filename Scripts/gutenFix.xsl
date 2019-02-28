@@ -136,7 +136,7 @@
     <xsl:template
         match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | h:a | h:eg | h:table | h:hr | h:div[h:br]"/>
     
-    <xsl:template match="h:p[h:br]">
+   <!-- <xsl:template match="h:p[h:br]">
         <quote>
             <xsl:for-each-group select="*" group-ending-with="h:br">
                 <l>
@@ -147,8 +147,12 @@
                 </l>
             </xsl:for-each-group>
         </quote>
-    </xsl:template>
+    </xsl:template>-->
     
+    <xsl:template match="h:p/h:br">
+        <lb/>
+    </xsl:template>
+        
     <xsl:template match="h:h4/h:a">
         <xsl:value-of select="."/>
     </xsl:template>
@@ -170,6 +174,12 @@
         </quote>
     </xsl:template>
     <xsl:template match="h:blockquote[preceding-sibling::h:h2]">
+        <quote>
+            <xsl:apply-templates/>
+        </quote>
+    </xsl:template>
+    
+    <xsl:template match="h:div[@class='blockquot']">
         <quote>
             <xsl:apply-templates/>
         </quote>
@@ -281,7 +291,7 @@
                     </xsl:for-each></div>
             </xsl:for-each-group>
                 </xsl:when>
-                    <xsl:when test="h:h3">
+                    <!--<xsl:when test="h:h3">
                         <xsl:for-each-group select="*" group-starting-with="h:h3">
                             <div type="chapter">
                                 <xsl:for-each select="current-group()">
@@ -289,7 +299,7 @@
                                 </xsl:for-each>
                             </div>
                         </xsl:for-each-group>
-                    </xsl:when>
+                    </xsl:when>-->
                     <xsl:when test="h:hr[@class = 'chap']">
                         <xsl:for-each-group select="*" group-starting-with="h:hr[@class = 'chap']">
                             <div type="chapter">
@@ -340,6 +350,10 @@
         </quote>
     </xsl:template>
     <xsl:template match="h:div[@class='gapspace']"/>
+    
+    <xsl:template match="h:p[@class='center' and h:img]">
+        <gap unit="graphic"/>
+    </xsl:template>
     
     <!-- <xsl:template match="h:small/h:font">       
         <pb>
