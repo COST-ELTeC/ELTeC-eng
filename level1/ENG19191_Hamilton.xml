@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19190"
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19191"
  xml:lang="en">
  <teiHeader>
   <fileDesc>
@@ -21,13 +21,13 @@
    <sourceDesc>
     <bibl><title>William — an Englishman</title><ref target="gut:7926">Gutenberg</ref>
      <respStmt><resp>Produced by</resp>
-     <name>Al Haines</name></respStmt>
+     <name>Al Haines</name></respStmt></bibl>
       <bibl type="firstEdition"><title>William — an Englishman</title>
        <author>Cicely Hamilton</author><publisher>London: Skeffington</publisher><date>1919</date></bibl>
-     </bibl>
+   
    </sourceDesc>
   </fileDesc>
-  <encodingDesc n="eltec-0">
+  <encodingDesc n="eltec-1">
    <p/>
   </encodingDesc>
   <profileDesc>
