@@ -134,7 +134,7 @@
         </teiHeader>
     </xsl:template>
     <xsl:template
-        match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | h:a | h:eg | h:table | h:hr | h:div[h:br]"/>
+        match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | h:a | h:eg | h:table | h:hr | h:div[h:br] "/>
     
    <!-- <xsl:template match="h:p[h:br]">
         <quote>
@@ -160,11 +160,17 @@
     <xsl:template match="h:a[starts-with(@name,'Page_')]">
         <pb>
             <xsl:attribute name="n">
-                <xsl:value-of select="substring-after(@name,'Page_')"/>
+                <xsl:value-of select="substring-after(@name,'age_')"/>
             </xsl:attribute>
         </pb>
     </xsl:template>
-    
+    <xsl:template match="h:a[starts-with(@name,'page_')]">
+        <pb>
+            <xsl:attribute name="n">
+                <xsl:value-of select="substring-after(@name,'age_')"/>
+            </xsl:attribute>
+        </pb>
+    </xsl:template>
     
     <xsl:template match="h:pre[preceding-sibling::h:h2]">
         <quote>
@@ -206,7 +212,17 @@
             <xsl:value-of select="."/>
         </ref>
     </xsl:template>
-    <xsl:template match="h:b"/>
+    
+    <xsl:template match="h:p[@class='figcenter']">
+        <gap unit="graphic"/>
+    </xsl:template>
+    
+    <xsl:template match="h:b|h:small"><xsl:apply-templates/></xsl:template>
+    <xsl:template match="h:span[@class='letra']|h:span[@class='letraa']">
+        <xsl:apply-templates/></xsl:template>
+    
+    <xsl:template match="h:span[@class='caption']"/>
+    
     <xsl:template match="h:div[@class = 'poem']">
         <quote>
             <xsl:choose>
@@ -279,8 +295,10 @@
     <xsl:template match="h:body">
         <text>
             <body>
+                
                 <xsl:choose>
-               <xsl:when test="h:h2">
+                    
+            <xsl:when test="h:h2">
         
             <xsl:for-each-group select="*" group-starting-with="h:h2">
                 <div type="chapter">
@@ -291,7 +309,7 @@
                     </xsl:for-each></div>
             </xsl:for-each-group>
                 </xsl:when>
-                    <!--<xsl:when test="h:h3">
+                    <xsl:when test="h:h3">
                         <xsl:for-each-group select="*" group-starting-with="h:h3">
                             <div type="chapter">
                                 <xsl:for-each select="current-group()">
@@ -299,7 +317,8 @@
                                 </xsl:for-each>
                             </div>
                         </xsl:for-each-group>
-                    </xsl:when>-->
+                    </xsl:when>
+                
                     <xsl:when test="h:hr[@class = 'chap']">
                         <xsl:for-each-group select="*" group-starting-with="h:hr[@class = 'chap']">
                             <div type="chapter">
