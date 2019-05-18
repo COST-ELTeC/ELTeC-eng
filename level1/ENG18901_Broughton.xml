@@ -4,22 +4,27 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alas!  A Novel : ELTec edition</title>
+<title>Alas! A Novel : ELTec edition</title>
 <author>Broughton, Rhoda (1840-1920).</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
 <name>Lou Burnard</name>
 </respStmt>
 </titleStmt>
-<extent><measure unit="words">149508</measure></extent>
+<extent>
+<measure unit="words">149508</measure>
+</extent>
 <publicationStmt>
 <p>Published as part of ELTeC <date>2019-02-08</date></p>
 </publicationStmt>
 <sourceDesc>
-<bibl><title>The Project Gutenberg eBook of Alas!, by Rhoda Broughton.</title><ref target="gut:7926"
->Gutenberg</ref>
-<respStmt><resp>Original data capture</resp><name>Meredith Bach, Mary Meehan and the Online Distributed Proofreading Team</name></respStmt><relatedItem>
-<bibl type="firstEdition" n="B4520"><title>Alas!: A Novel</title><author>Broughton, Rhoda
+<bibl><title>The Project Gutenberg eBook of Alas!, by Rhoda Broughton.</title>
+<ref target="gut:7926">Gutenberg</ref>
+<respStmt>
+<resp>Original data capture</resp>
+<name>Meredith Bach, Mary Meehan and the Online Distributed Proofreading Team</name>
+</respStmt><relatedItem>
+<bibl type="firstEdition" n="B4520"><title>Alas! : A Novel</title><author>Broughton, Rhoda
 (1840-1920).</author><publisher>London: Bentley</publisher><date>1890</date></bibl>
 </relatedItem></bibl>
 </sourceDesc>
@@ -42,24 +47,26 @@
 <change when="2019-02-08">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
-<text><front>
+<text>
+<front>
 <div type="titlepage">
 <p>ALAS!</p>
 <p>A Novel</p>
-
 <p>BY RHODA BROUGHTON</p>
 <p>AUTHOR OF 'COMETH UP AS A FLOWER,' 'RED AS A ROSE IS SHE,' 'SECOND THOUGHTS,' 'GOOD-BYE,
 SWEETHEART!,' 'NANCY,' 'DOCTOR CUPID,' ETC.</p>
 <p>A NEW EDITION</p>
-<p>LONDON RICHARD BENTLEY AND SON Publishers in Ordinary to Her Majesty the Queen 1891 [All
-rights reserved]</p></div><div type="liminal"><p>TO MRS. ANDREW SPOTTISWOODE</p></div>
+<p>LONDON RICHARD BENTLEY AND SON Publishers in Ordinary to Her Majesty the Queen 1891 [All rights
+reserved]</p>
+</div>
+<div type="liminal">
+<p>TO MRS. ANDREW SPOTTISWOODE</p>
+</div>
 </front>
 <body>
-
 <div type="part">
 <head>PART I.</head>
 <head>Amelia.</head>
-
 <div type="chapter">
 <head>CHAPTER I.</head>
 <p>"If you will allow me, I shall have the pleasure of reading aloud to you some passages from 'Mrs.
@@ -6977,11 +6984,11 @@ the Antipodes, and because she seemed to expect it.</p>
 <p>Three days later Burgoyne leaves Florence; and, as his arrival in the City of Flowers had been
 motived by Amelia alive, so is his departure to companion her dead.</p>
 <trailer>END OF PART ONE.</trailer>
-</div></div>
+</div>
+</div>
 <div type="part">
 <head>PART II.</head>
 <head>Elizabeth.</head>
-
 <div type="chapter">
 <head>CHAPTER I.</head>
 <quote>
@@ -7278,13 +7285,11 @@ visions are, they have yet such a solid vividness that, at his first waking, he 
 sense of unsureness as to which of the two women that have beset his pillow is the dead, and which
 the living one. In dreams, how often our lost ones, and those whom we still possess, take hands
 together on equal terms! Even when he is wide awake, nay more, dressed and breakfasted, that feeling
-of uncertainty, that something akin to the
-<quote>
+of uncertainty, that something akin to the <quote>
 <l>"Blank misgivings of a creature,</l>
 <l>Moving about in worlds not realized,"</l>
-</quote>
-remains strong enough to drive him once again to the list of visitors in the entrance-hall, in
-order to assure himself that his brain has not been the dupe of his eye.</p>
+</quote> remains strong enough to drive him once again to the list of visitors in the entrance-hall,
+in order to assure himself that his brain has not been the dupe of his eye.</p>
 <p>M. Cipriani has been as good as his word. The corrected list, promised overnight, has replaced
 the incomplete one, and almost the first names that Jim's eye alights upon are those of "Mr., Mrs.,
 and Miss Le Marchant, England." His own name immediately follows, and he takes as a good augury what
@@ -10518,7 +10523,8 @@ once. Dares he? The response comes at last—comes slowly, comes solemnly, yet c
 <p>"Elizabeth! Elizabeth!"—he cannot get further than that at first—"you—you are the worst-used
 woman in the world! and I—I have not the least desire to see the Escurial!"</p>
 <trailer>THE END.</trailer>
-</div></div>
+</div>
+</div>
 </body>
 </text>
 </TEI>
