@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Propher's Mantle : ELTec edition</title>
+                <title>The Prophet's Mantle : ELTec edition</title>
                 <author  ref="viaf:7394811">Nesbit, Edith (1858-1924)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
@@ -16,13 +16,15 @@
                 <p>Published as part of ELTeC <date>2019-01-13</date></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl><title>The Project Gutenberg eBook of The Propher's Mantle, by Fabian
-                        Bland.</title><ref target="gut:55244">Gutenberg</ref><relatedItem>
-                        <bibl type="copyText" n="B8322"><title>The Prophet's
+                <bibl><title>The Project Gutenberg eBook of The Prophet's Mantle, by Fabian
+                        Bland.</title><ref target="gut:55244">Gutenberg</ref>
+                    </bibl>
+            
+                        <bibl type="firstEdition" n="B8322"><title>The Prophet's
                                 Mantle</title><author>Fabian Bland</author>
                             <publisher>London: H. J. Drane</publisher>
                             <date>1889</date></bibl>
-                    </relatedItem></bibl>
+                    
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0"> <p/></encodingDesc>
@@ -31,7 +33,7 @@
                 <language ident="eng">English</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="U"/>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
                 <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
