@@ -134,7 +134,8 @@
         </teiHeader>
     </xsl:template>
     <xsl:template
-        match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | h:a | h:eg | h:table | h:hr | h:div[h:br] "/>
+        match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | 
+        h:a | h:eg | h:table | h:hr | h:div[h:br] "/>
     
    <!-- <xsl:template match="h:p[h:br]">
         <quote>
@@ -186,6 +187,11 @@
     </xsl:template>
     
     <xsl:template match="h:div[@class='blockquot']">
+        <quote>
+            <xsl:apply-templates/>
+        </quote>
+    </xsl:template>
+    <xsl:template match="h:p[@class='blockquot']">
         <quote>
             <xsl:apply-templates/>
         </quote>
@@ -337,6 +343,11 @@
             <xsl:apply-templates/>
         </head>
     </xsl:template>
+   
+    <xsl:template match="h:h2/h:a[@name]">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <xsl:template match="h:h3">
         <xsl:apply-templates select="h:span[@class = 'pagenum']"/>
         <head><xsl:value-of select="."/></head>
@@ -344,7 +355,7 @@
             <xsl:value-of select="h:span[@class = 'GutSmall']"/>
         </head>-->
     </xsl:template>
-    <xsl:template match="h:span[matches(@class, 'i\d')]">
+ <xsl:template match="h:span[starts-with(@class, 'i') ]">
         <xsl:text>
       </xsl:text>
         <l>
@@ -354,6 +365,8 @@
     <xsl:template match="h:span[@class = 'GutSmall']">
         <hi><xsl:apply-templates/></hi>
     </xsl:template>
+    <xsl:template match="h:span[@class = 'firstwords']">
+        <xsl:apply-templates/></xsl:template>
     <xsl:template match="h:span[h:img]">
         <xsl:value-of select="h:img/@alt"/>
     </xsl:template>
@@ -369,7 +382,12 @@
         </quote>
     </xsl:template>
     <xsl:template match="h:div[@class='gapspace']"/>
-    
+    <xsl:template match="h:div[@class='centerpoem']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="h:span[contains(@class,'keepright')]">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
     <xsl:template match="h:p[@class='center' and h:img]">
         <gap unit="graphic"/>
     </xsl:template>
