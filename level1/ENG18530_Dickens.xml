@@ -10,8 +10,8 @@
 </respStmt>
 <respStmt>
 <resp>Original TEI encoding</resp>
-<name><name>Apex Data Services, Inc.</name><name>Andrew Leiter</name><name>, and Natalia
-Smith</name></name>
+<name>Apex Data Services, Inc.</name><name>Andrew Leiter</name>
+<name> Natalia Smith</name>
 </respStmt>
 </titleStmt>
 <extent>
@@ -21,10 +21,10 @@ Smith</name></name>
 <p>Published as part of ELTeC <date>22 Nov 2018</date></p>
 </publicationStmt>
 <sourceDesc>
-<bibl><title>Bleak House</title>
+<bibl><title>Bleak House (TEI P5 edition)</title>
 <idno type="url">https://github.com/lb42/Dickens</idno>
 <relatedItem type="copyText">
-<bibl>
+<bibl type="firstEdition">
 <title>Bleak House [monthly parts]</title>
 <author>Charles Dickens</author>
 <publisher>Bradbury &amp; Evans, Bouverie Street.</publisher>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18410">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18410">
 <!-- epigraphs missing from this edition -->
 <teiHeader>
 <fileDesc>
@@ -15,13 +15,13 @@
 <p>Published as part of ELTeC <date>2019-01-12</date></p>
 </publicationStmt>
 <sourceDesc>
-<bibl><title>Modern Flirtations, A Novel, by Catherine Sinclair—A Project Gutenberg
+<bibl type="digitalSource"><title>Modern Flirtations, A Novel, by Catherine Sinclair—A Project Gutenberg
 eBook</title><respStmt><resp>Original data capture</resp><name>Robert Cicconetti and the Online Distributed
-Proofreading Team</name></respStmt><ref target="gut:43358">Gutenberg</ref><relatedItem>
-<bibl type="copyText" n="B4292"><title>Modern Flirtations: or, A Month at
+Proofreading Team</name></respStmt><ref target="gut:43358">Gutenberg</ref></bibl>
+    <bibl type="printSource" n="B4292"><title>Modern Flirtations: or, A Month at
 Harrowgate</title><author>Sinclair, Catherine (1800-1864).</author><publisher>London: C. H.
 Clarke</publisher><date>1841</date></bibl>
-</relatedItem></bibl>
+
 </sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
@@ -71,8 +71,8 @@ their hard-working minds, and the idlest occupy their idleness. It becomes a dee
 therefore, of which the author trusts she has ever felt duly sensible, to claim the leisure hours of
 so many, while it is her first desire that whatever be the defect of these pages, no actual evil may
 be intermingled, and the cause of sound religion and morality supported, for her feelings are best
-expressed in the words of the poet,</p>
-<p>"If I one soul improve, I have not liv'd in vain."</p>
+expressed in the words of the poet,
+<quote><l>"If I one soul improve, I have not liv'd in vain."</l></quote></p>
 <p>Novel-reading, formerly considered the lowest resource of intellectual vacuity, has been lately
 promoted to a new place in the literary world, since men of the brightest genius as well as of the
 highest attainments in learning and philosophy, allow their pens occasionally to wander in the
@@ -89,7 +89,7 @@ they convey very important truths in a form more popular than a dry sententious 
 precepts, and perhaps history itself can scarcely afford so graphic a portrait of human life as many
 of those fictitious volumes, written under the inspiration of genius, which portray in vivid
 coloring, the thoughts and motives by which men are internally influenced.</p>
-<p>The Life of Cleopatra, or the Memoirs of Agrippina, can afford scarcely so much direction to
+<p>The <title>Life of Cleopatra</title>, or the <title>Memoirs of Agrippina</title>, can afford scarcely so much direction to
 young ladies respecting their views of life and manners in the present day, as might be conveyed by
 a judiciously-drawn portrait of that world as it is, on the stage of which they are about to be
 personally introduced; and a large proportion of those elaborate volumes dignified with the name of
@@ -102,8 +102,8 @@ to write the history of last year, every fact recorded, and every individual men
 inevitably be represented, or misrepresented, according to the writer's own private feelings, while
 each would believe he was writing unadulterated truth.</p>
 <p>Thus poetry and fiction, when true to the principles of human life, exhibit the mind and soul of
-man visibly to the senses; and history, which has been called "the Newgate Calendar of Kings and
-Emperors," supplies the facts of human existence, and may be considered a portrait of men's persons
+man visibly to the senses; and history, which has been called <quote>"the Newgate Calendar of Kings and
+Emperors,"</quote> supplies the facts of human existence, and may be considered a portrait of men's persons
 and external actions.</p>
 <p>In writing a story of domestic life, it is singular to reflect how commonly men are remembered by
 their eccentricities, and loved for their very faults, while the most difficult task in fiction is,
