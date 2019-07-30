@@ -134,7 +134,7 @@
                     if he knew whether his hair was black like mine, or, as it was, a bright brown
                     like ripe nuts in the sunshine. After catechism was over he stood out before the
                     rest, just in his rough country clothes as he vas, and said very respectfully to
-                        the<pb n="5" xml:id="VAB7083-008"/> Vicar, Mr. Grand:<ref target="#linton-joshuanote00">*</ref> “If you please sir, I would like to
+                        the<pb n="5" xml:id="VAB7083-008"/> Vicar, Mr. Grand:<ref target="#linton-joshuanote00" n="*"/> “If you please sir, I would like to
                     ask you a few questions.”</p>
                 <p>“Certainly, my lad, what have you to say?” said Mr. Grand rather shortly. He did
                     not seem over well pleased at the boy's addressing him; but he could not well
@@ -143,12 +143,7 @@
                     everybody do pretty much as they liked.</p>
                 <p>“If we say, sir, that Jesus Christ was God,” said Joshua, “surely all that He
                     said and did must be the real right? There cannot be a better way than His?”</p>
-                <note anchored="true" xml:id="linton-joshuanote00">* I do not mind giving this name
-                    of the clergyman, because it was not his own; only one that we lads gave him
-                    behind backs, as it were; else I do not intend to give the names of any living
-                    actors in this history. The scene I am now describing was told me by Joshua's
-                    mother, who wrote it down as soon, as she got home.</note>
-                <pb n="6" xml:id="VAB7083-009"/>
+                    <pb n="6" xml:id="VAB7083-009"/>
                 <p>“Surely not, my lad,” Mr. Grand made answer; “what else have you been taught all
                     your life? what else have you been saying in your catechism just now?”</p>
                 <p>“And His apostles and disciples, they showed the way too?” said Joshua.</p>
@@ -3053,5 +3048,11 @@
             <trailer>THE END.</trailer>
             <trailer>BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS.</trailer>
         </body>
+        <back><div type="notes">   <note xml:id="linton-joshuanote00">* I do not mind giving this name
+            of the clergyman, because it was not his own; only one that we lads gave him
+            behind backs, as it were; else I do not intend to give the names of any living
+            actors in this history. The scene I am now describing was told me by Joshua's
+            mother, who wrote it down as soon, as she got home.</note>
+        </div></back>
     </text>
 </TEI>

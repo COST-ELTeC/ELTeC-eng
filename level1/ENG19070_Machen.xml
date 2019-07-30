@@ -17,18 +17,18 @@
             </titleStmt>
             <extent>
                 <measure unit="words">65739</measure>
-                <measure unit="pages" type="fromFacs">309</measure>
+                <measure unit="pages">309</measure>
             </extent>
             <publicationStmt>
                 <p/>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital">
-                    <title>The Project Gutenberg eBook, The Hill of Dreams,</title>
+                <bibl type="digitalSource">
+                    <title>The Project Gutenberg eBook The Hill of Dreams,</title>
                     <author>Arthur Machen</author>
                     <idno type="PG">13969</idno>
                 </bibl>
-                <bibl type="copyText"><title>The hill of dreams</title><author>Arthur
+                <bibl type="firstEdition"><title>The hill of dreams</title><author>Arthur
                         Machen</author><publisher>E. Grant Richards</publisher><date>1907</date><ref target="https://archive.org/details/hillofdreams00machrich"/></bibl>
             </sourceDesc>
         </fileDesc>

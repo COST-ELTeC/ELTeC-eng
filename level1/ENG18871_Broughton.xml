@@ -6393,8 +6393,8 @@
                     an unblown life? Why are so many little toddling children, not yet come into the
                     heritage of reason to which we are all by our human birth entitled, borne from
                     their mother's emptied arms to their small short graves? Is it, as
-                            <bibl><author>Hartley Coleridge</author> very nobly, whether truly or
-                        untruly, said—</bibl>
+                           Hartley Coleridge very nobly, whether truly or
+                        untruly, said—
                     <quote><l rend="ti-3">"God only made them for his Christ to save?"</l></quote>
                 </p>
                 <p>Very wasteful is the mighty mother, knowing that her materials are inexhaustible.
@@ -6460,9 +6460,8 @@
                     Mrs. Brandon, squeezing Esther's hand.</p>
                 <p>"We have set apart a special day with several Christian friends," says Bessy,
                     with animation, "to wrestle in prayer for you, that this searching dispensation
-                    may be blessed to your conversion—that you may find the Lord."</p>
-                <note xml:id="note_001"><hi>* A fact.</hi></note>
-                <pb n="238" xml:id="VAB7385-242"/>
+                    may be blessed to your conversion—that you may find the Lord."<ref target="#note_001" rend="*"/></p>
+                 <pb n="238" xml:id="VAB7385-242"/>
                 <p>"Thanks," answers Esther, meekly, too broken-down to resent even the indignity of
                     being set up on a metaphorical stool of repentance, amid a select circle of Miss
                     Bessy's Christian friends.</p>
@@ -7028,8 +7027,7 @@
                     <l n="13">" 'Why live so niggardly and poor?—</l>
                     <l rend="ti-1" n="14">Your bank contains a plenty? </l>
                     <l n="15">Why come and take a one-pound note</l>
-                    <l rend="ti-1" n="16">When you might have a twenty?</l>
-                    <note xml:id="note_002"><hi>*</hi> A real Revivalist hymn.</note>
+                    <l rend="ti-1" n="16">When you might have a twenty?</l><ref target="#note_002"/>
                     <pb n="259" xml:id="VAB7385-263"/>
                     <l n="17">"'Yea, twenty thousand, ten times told,</l>
                     <l rend="ti-1" n="18">Is but a trifling sum</l>
@@ -8477,7 +8475,7 @@
                     story; or, if they did, they were forbidden to tell of it; silence was laid like
                     a seal upon their lips.</p>
                 <p>It is not in the most edifying books that the grandest sayings are to be found.
-                    What can be nobler than this of <bibl><author>Rousseau</author>'s dying Julie: </bibl>
+                    What can be nobler than this of  Rousseau's dying Julie:
                     <quote><foreign xml:lang="fr">"Qui s'endort dans le sein d'un père, n'est pas en
                             souci du réveil?" </foreign></quote>
                 </p>
@@ -10107,7 +10105,7 @@
                     me—both causes for special thankfulness," he says to himself, with a sort of
                     sardonic philosophy, after his decisive interview with his betrothed.
                         <quote>"'On this day two years I married: Whom the Lord loveth He
-                        chasteneth.'</quote><bibl>Will<author>Byron</author></bibl>'s summary of
+                        chasteneth.'</quote> Will Byron's summary of
                     wedded felicity be mine also ? Probably. I suppose one may think oneself
                     tolerably lucky nowadays if one steer clear of Sir James Wilde, and if one's
                     children do not bear a very striking resemblance to one's neighbour."</p>
@@ -11990,7 +11988,7 @@
                     that he must needs abandon that idea. He cannot choose but undertake her
                     commission at her bidding.</p>
                 <p>And St. John comes. They are singing the "Nunc Dimittis," which, saith
-                            <bibl><author>Bacon</author>,</bibl>
+                            Bacon,
                     <quote> "is ever the sweetest canticle"</quote> in the Church, as he crosses the
                     threshold of that room, and draws near that bed on which, but a few short nights
                     ago, he had seen her, with his covetous lover's eyes, lying in all her round
@@ -12238,12 +12236,19 @@
                     stoutly fought life's hard battle:</p>
                 <quote><l rend="ti-4">"Surrenders his fair soul</l>
                     <l rend="ti-4">Unto his Captain—Christ!" </l></quote>
-                <p rend="center">THE END.</p>
-                <note>
-                    <bibl rend="center">BILLING AND SONS, PRINTERS, GUILDFORD. J. D. &amp;
-                        Co.</bibl>
-                </note>
+                <trailer>THE END.</trailer>
+                <trailer>
+                    BILLING AND SONS, PRINTERS, GUILDFORD. J. D. &amp;  Co.
+                </trailer>
             </div>
         </body>
+        <back>
+            <div type="notes">
+                <note xml:id="note_001"><hi>A fact.</hi></note>
+                
+                <note xml:id="note_002"><hi>*</hi> A real Revivalist hymn.</note>
+                
+            </div>
+        </back>
     </text>
 </TEI>
