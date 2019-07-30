@@ -6,7 +6,7 @@ xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Twins: A Domestic Novel : ELTec edition</title>
+<title>The Twins: A Domestic Novel : ELTeC edition</title>
 <author>Tupper, Martin Farquhar (1810-1889).</author>
 <respStmt>
 <resp>ELTeC conversion</resp>
@@ -23,10 +23,10 @@ F.R.S..</title><ref target="gut:16574">Gutenberg</ref>
 <respStmt>
 <resp>Produced by </resp>
 <name>Jonathan Ingram, Janet Blenkinship and the Online Distributed Proofreading Team </name>
-</respStmt><relatedItem>
+</respStmt></bibl>
 <bibl type="firstEdition" n="B7392"><title>The Twins: A Domestic Novel</title><author>Tupper, Martin
 Farquhar (1810-1889).</author><publisher>London: Bentley</publisher><date>1841</date></bibl>
-</relatedItem></bibl>
+
 </sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
