@@ -46,10 +46,10 @@ company)</publisher><date>2000</date></bibl>
 <div type="chapter">
 <head>New Grub Street: A Novel: By George Gissing ... In Three Volumes: Second Edition</head>
 </div>
-<div type="chapter">
+<div type="group">
 <head>VOL. I.</head>
 <pb/>
-</div>
+
 <div type="chapter">
 <head>CHAPTER I A MAN OF HIS DAY</head>
 <p><hi>As</hi> the Milvains sat down to breakfast the clock of Wattleborough parish church struck
@@ -4428,11 +4428,11 @@ writing.'</p>
 <p>'I wish to Heaven I knew!'</p>
 <p>END OF THE FIRST VOLUME.</p>
 <pb/>
-</div>
-<div type="chapter">
+</div></div>
+<div type="group">
 <head>VOL. II.</head>
 <pb/>
-</div>
+
 <div type="chapter">
 <head>CHAPTER XIII A WARNING</head>
 <p><hi>In</hi> the spring list of Mr. Jedwood's publications, announcement was made of a new work by
@@ -9023,11 +9023,11 @@ of lodgings would be effected.</p>
 profound meditation.</p>
 <p>END OF THE SECOND VOLUME.</p>
 <pb/>
-</div>
-<div type="chapter">
+</div></div>
+<div type="group">
 <head>VOL. III.</head>
 <pb/>
-</div>
+
 <div type="chapter">
 <head>CHAPTER XXV A FRUITLESS MEETING</head>
 <p><hi>Refuge</hi> from despair is often found in the passion of self-pity and that spirit of
@@ -13884,7 +13884,7 @@ my nightingale!'</p>
 <p>So Amy first played, and then sang, and Jasper lay back in dreamy bliss.</p>
 <trailer>THE END</trailer>
 
-
+</div>
 </div>
 </body>
 </text>
