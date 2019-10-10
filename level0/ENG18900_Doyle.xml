@@ -43,11 +43,11 @@ company)</publisher><date>2000</date><relatedItem>
 </revisionDesc>
 </teiHeader>
 <text>
-<front><p>The Sign of Four:</p><p> By A. Conan Doyle [etc.]</p></front>
+<front><div type="titlepage"><p>The Sign of Four:</p><p> By A. Conan Doyle [etc.]</p></div></front>
 <body>
 
 
-<div>
+<div type="chapter">
 <head>CHAPTER I. THE SCIENCE OF DEDUCTION.</head>
 <p><hi>Sherlock Holmes</hi> took his bottle from the corner of the mantelpiece, and his hypodermic
 syringe from its neat morocco case. With his long, white, nervous fingers he adjusted the delicate
@@ -268,7 +268,7 @@ bearing a card upon the brass salver.</p>
 step up, Mrs. Hudson. Don't go, doctor. I should prefer that you remain.'</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER II. THE STATEMENT OF THE CASE.</head>
 <p><hi>Miss Morstan</hi> entered the room with a firm step and an outward composure of manner. She
 was a blonde young lady, small, dainty, well gloved, and dressed in the most perfect taste. There
@@ -419,7 +419,7 @@ future were black, it was better surely to face it like a man than to attempt to
 will-o'-the-wisps of the imagination.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER III. IN QUEST OF A SOLUTION.</head>
 <p><hi>It</hi> was half-past five before Holmes returned. He was bright, eager, and in excellent
 spirits, a mood which in his case alternated with fits of the blackest depression.</p>
@@ -549,7 +549,7 @@ inner room.</p>
 <p>'Show them in to me, khitmutgar,' it cried. 'Show them straight in to me.'</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER IV. THE STORY OF THE BALD-HEADED MAN.</head>
 <p><hi>We</hi> followed the Indian down a sordid and common passage, ill-lit and worse furnished,
 until he came to a door upon the right, which he threw open. A blaze of yellow light streamed out
@@ -813,7 +813,7 @@ door.</p>
 <p>'This, Miss Morstan, is Pondicherry Lodge,' said Mr. Thaddeus Sholto, as he handed her out.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER V. THE TRAGEDY OF PONDICHERRY LODGE.</head>
 <p><hi>It</hi> was nearly eleven o'clock when we reached this final stage of our night's adventures.
 We had left the damp fog of the great city behind us, and the night was fairly fine. A warm wind
@@ -1011,7 +1011,7 @@ to assist them in every way. We shall wait here until your return.'</p>
 the dark.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER VI. SHERLOCK HOLMES GIVES A DEMONSTRATION.</head>
 <p>'Now, Watson,' said Holmes, rubbing his hands, 'we have half an hour to ourselves. Let us make
 good use of it. My case is, as I have told you, almost complete; but we must not err on the side of
@@ -1260,7 +1260,7 @@ methods and listen to his not too delicate sarcasms. " <hi>Wir sind gewohnt dass
 verhöhnen was sie nicht verstehen</hi> ." Goethe is always pithy.'</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER VII. THE EPISODE OF THE BARREL.</head>
 <p><hi>The</hi> police had brought a cab with them, and in this I escorted Miss Morstan back to her
 home. After the angelic fashion of women, she had borne trouble with a calm face as long as there
@@ -1574,7 +1574,7 @@ trolley were smeared with a dark liquid, and the whole air was heavy with the sm
 uncontrollable fit of laughter.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER VIII. THE BAKER STREET IRREGULARS.</head>
 <p>' <hi>What</hi> now?' I asked. 'Toby has lost his character for infallibility.'</p>
 <p>'He acted according to his lights,' said Holmes, lifting him down from the barrel and walking him
@@ -1836,7 +1836,7 @@ seemed to be floated peacefully away upon a soft sea of sound, until I found mys
 with the sweet face of Mary Morstan looking down upon me.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER IX. A BREAK IN THE CHAIN.</head>
 <p><hi>It</hi> was late in the afternoon before I woke, strengthened and refreshed. Sherlock Holmes
 still sat exactly as I had left him, save that he had laid aside his violin and was deep in a book.
@@ -2112,7 +2112,7 @@ and a brace of grouse, with something a little choice in white wines.—Watson, 
 recognized my merits as a housekeeper.'</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER X. THE END OF THE ISLANDER.</head>
 <p><hi>Our</hi> meal was a merry one. Holmes could talk exceedingly well when he chose, and that
 night he did choose. He appeared to be in a state of nervous exaltation. I have never known him so
@@ -2350,7 +2350,7 @@ at it and shrugged his shoulders in his easy fashion, but I confess that it turn
 of the horrible death which had passed so close to us that night.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER XI. THE GREAT AGRA TREASURE.</head>
 <p><hi>Our</hi> captive sat in the cabin opposite to the iron box which he had done so much and
 waited so long to gain. He was a sunburned, reckless-eyed fellow, with a network of lines and
@@ -2508,7 +2508,7 @@ riches, sealed my lips. Now that they are gone I can tell you how I love you. Th
 <p>Whoever had lost a treasure, I knew that night that I had gained one.</p>
 <pb n=""/>
 </div>
-<div>
+<div type="chapter">
 <head>CHAPTER XII. THE STRANGE STORY OF JONATHAN SMALL.</head>
 <p><hi>A very</hi> patient man was that inspector in the cab, for it was a weary time before I
 rejoined him. His face clouded over when I showed him the empty box.</p>

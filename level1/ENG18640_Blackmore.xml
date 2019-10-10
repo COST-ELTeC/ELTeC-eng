@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -129,7 +130,8 @@
                             attacks will be milder, and the intervals longer, when she has turned
                             fourteen. For the intellect you need have no fear whatever. Only keep
                             her quiet, and never force her to learn. She must only learn when it
-                            comes as it were with the wind. She will never forget what she <hi rend="italic">does</hi> learn."</p>
+                            comes as it were with the wind. She will never forget what she <hi
+                                rend="italic">does</hi> learn."</p>
                         <p>Hereupon, unless I am much mistaken, my father and mother fell to and
                             kissed and hugged one another, and I heard a sound like sobbing; then
                             they caught me up, and devoured me, as if I were born anew; and staring
@@ -356,7 +358,8 @@
                             follow me. The Gloucester physician said that since the disease of my
                             mind had taken that shape, it would be more dangerous to thwart than to
                             indulge it.</p>
-                        <p>It was the evening of the third day, and weary with but never <hi rend="italic">of</hi> my search, I was groping down the great
+                        <p>It was the evening of the third day, and weary with but never <hi
+                                rend="italic">of</hi> my search, I was groping down the great
                             oak-staircase in the dusk, hand after hand, and foot by foot, when
                             suddenly the main door-bell rang. The snow was falling heavily, and had
                             deadened the sound of wheels. At once I slid (as my father had taught me
@@ -1488,7 +1491,8 @@
                             worded; neither did it contain those powers to meet family exigencies,
                             which I am told a proper practitioner would have inserted.</p>
                         <p>There was no reason to suppose that the testator had contemplated
-                            anything more than a strict settlement of the usual kind, <hi rend="italic">i.e.</hi> a common estate entail, expectant upon a
+                            anything more than a strict settlement of the usual kind, <hi
+                                rend="italic">i.e.</hi> a common estate entail, expectant upon a
                             life-interest; and under which I should have succeeded my father, as his
                             heiress, in the ordinary course. But it is the chief fault of smatterers
                             in the law (and country attorneys at that time were no better) that they
@@ -1654,7 +1658,8 @@
                             minute's command of my faculties, I would have sold them for ever; but I
                             felt them ebbing from me, as the life does from a wound. The hemispheres
                             of my brain were parting one from the other, and a grey void spreading
-                            between them. I tried to think, but could not. I strove to say <hi rend="italic">anything</hi>, but failed. Fainter and fainter grew
+                            between them. I tried to think, but could not. I strove to say <hi
+                                rend="italic">anything</hi>, but failed. Fainter and fainter grew
                             the room, the lamp, the ceiling, the face at which I tried to look.
                             Things went to and fro with a quicker quiver, like flame in the wind,
                             then, round and round like whirling water; my mouth grew stiff, and the
@@ -2114,12 +2119,13 @@
                             Miss Clerer, it be oney that there aul mazed ramscallion, Beany Dawe.
                             Her makth what girt scholards, laike you, karls potry, or zum such
                             stoof. Her casn' oppen the drort of him nohow, but what her must spake
-                            potry. Pote[#] indeed! No tino, I'd pote un out of ouze if I was the
-                            waife of un. 'Zee zaw, Beany Dawe!' that be arl the name he hath airned
-                            vor his rhaiming and rubbish, and too good for 'un too! Rhaime, rhaime,
-                            drash, drash, like two girt gawks in a barn! Oh fai, oh fai; and a
-                            maight have aimed two zhillings a dai and his zider!"</p>
-                        <note>[#] "Pote." Danmonic for to "kick."</note>
+                            potry. Pote<ref target="ENG18640_N1"/> indeed! No tino, I'd pote un out
+                            of ouze if I was the waife of un. 'Zee zaw, Beany Dawe!' that be arl the
+                            name he hath airned vor his rhaiming and rubbish, and too good for 'un
+                            too! Rhaime, rhaime, drash, drash, like two girt gawks in a barn! Oh
+                            fai, oh fai; and a maight have aimed two zhillings a dai and his
+                            zider!"</p>
+
                         <p>The subject of these elegant strictures regarded her all the time, with
                             that pleased pity which none but a great Poet so placed can feel. Then
                             swinging slowly on his tripod, and addressing the back of the chimney,
@@ -2141,10 +2147,10 @@
                             thiccy jingle jangle, the very zame for arl the world as e be used to
                             droon in the zawpit, 'Zee, zaw, Margery Daw,' with the arms of e a gwayn
                             up and doon, up and doon, and your oyes and maouth most chokked with
-                            pilm[#] and the vace of e a hurning laike a taypot, and never a drop of
-                            out to aise the crickles of your barck. That's the steet you potes be
-                            in, and zawyers."</p>
-                        <note>[#] Pilm, Londinicè, "dust."</note>
+                                pilm<ref target="#ENG18640_N2"/> and the vace of e a hurning laike a
+                            taypot, and never a drop of out to aise the crickles of your barck.
+                            That's the steet you potes be in, and zawyers."</p>
+
                         <p>As she delivered this comment, she swung to and fro on her chair, in weak
                             imitation of the impressive roll, with which he enforced his rhyme. This
                             plagiarism annoyed him much more than her words: but he vindicated his
@@ -3192,17 +3198,17 @@
                             inyons. 'Now, wull e let me lone?' zaith he, zo zoon as a coom barck, wi
                             his brath a little quicker by rason of the exarcise, 'wull 'e let me
                             lone?' 'Ee's fai, wull I,' zaith the man avoot. 'Hor,' zaith Tom Gundry,
-                            who had been a[#] shopping zumwhere, 'thee cans't do a gude dai's work,
-                            my man, tak that vor thee's wages.' And wi' that a lets fly at Maister's
-                            vace wi' a light hash stick a carr'd, maning to raide off avore Maister
-                            cud coom to's brath again. In a crack Jan Uxtable zet both his hons
-                            under the stommick of the nag, one avore the starrup and one behaind,
-                            zame as I maight to this here little tabble, and haved un, harse and
-                            man, clane over hadge into Muster Yeo's turmot falde. Then with wan
-                            heft, a kitched up tother chap, and zent un sprarling after un, zame as
-                            if 'twor this here stule after the tabble."</p>
-                        <note>[#] <hi rend="italic">i.e.</hi> dealing commercially where the staples
-                            are liquid.</note>
+                            who had been a<ref target="#ENG18640_N3"/> shopping zumwhere, 'thee
+                            cans't do a gude dai's work, my man, tak that vor thee's wages.' And wi'
+                            that a lets fly at Maister's vace wi' a light hash stick a carr'd,
+                            maning to raide off avore Maister cud coom to's brath again. In a crack
+                            Jan Uxtable zet both his hons under the stommick of the nag, one avore
+                            the starrup and one behaind, zame as I maight to this here little
+                            tabble, and haved un, harse and man, clane over hadge into Muster Yeo's
+                            turmot falde. Then with wan heft, a kitched up tother chap, and zent un
+                            sprarling after un, zame as if 'twor this here stule after the
+                            tabble."</p>
+
                         <p>I thought poor Tim, in the excitement of his story, would have thrown
                             table and stool over the settle to illustrate it; and if he had, Mrs.
                             Huxtable would have forgiven him.</p>
@@ -3240,9 +3246,7 @@
                             thee mouth fust."</p>
                         <p>"Ah," said Tim, favouring me with a wink, in the excess of his glory,
                             "rackon they Carnishers 'll know the wai off Tossil's Barton varm next
-                            taime, wi'out no saign postesses."[#]</p>
-                        <p rend="left pfirst small">[#] Every word of Tim's story is true, except as
-                            regards the names.</p>
+                            taime, wi'out no saign postesses."<ref target="#ENG18640_N4"/></p>
                     </div>
                     <div type="chapter">
                         <head>CHAPTER VI.</head>
@@ -7301,10 +7305,10 @@
                             some one, whom I think of, is not hard to please. Straight upon the
                             thought of him—Ah well.</p>
                         <p>My father used to quote from the "Hero and Leander" a beautiful verse,
-                            which neither he nor any other could in English render duly,</p>
-                        <note>[Greek: <hi rend="italic">Aidoûs hyròn éreuphos apostazousa
-                                prosôpou</hi>.]—v. 173. "Showering from her cheek the flowing
-                            carmine of her shame."</note>
+                            which neither he nor any other could in English render duly,
+                                <quote>[Greek: Aidoûs hyròn éreuphos apostazousa prosôpou.]—v. 173.
+                                "Showering from her cheek the flowing carmine of her
+                            shame."</quote></p>
                     </div>
                     <div type="chapter">
                         <head>CHAPTER XII.</head>
@@ -7394,10 +7398,10 @@
                             guineas for it. As a gentleman he should not have made the offer, after
                             what I had told him. But the love of science—falsely so called by
                             collectors—drives men to discern propriety "by the wire-drawn line of
-                            their longings."[#] However, I was not quite so blind upon right and
-                            wrong, as to mean to keep all the money. I offered Mr. Dawe half, if the
-                            plaything should be sold.</p>
-                        <note>[#] "Exiguo fine libidinum."</note>
+                            their longings."<ref target="#ENG18640_N5"/> However, I was not quite so
+                            blind upon right and wrong, as to mean to keep all the money. I offered
+                            Mr. Dawe half, if the plaything should be sold.</p>
+
                         <p>I knew not why, but I could not bear the idea of a bargain and sale with
                             Conrad's father, wide apart as the two always were in my mind. I rather
                             hoped that Beany Dawe, though sorely tempted, would refuse.</p>
@@ -7437,11 +7441,11 @@
                             slept with that beneath my pillow for fear the priest should get it.
                             Lord, how they did fight over the poor old lady's rags and bones, that
                             leathery priest and three yellow kites of cousins, they said they was,
-                            as come from Portugal. At last they got a ministration[#] with the
-                            testament and text, and they robbed me shameful, shameful, my good
-                            friend. Never catch me going to mass again, or you may tell me of
-                            it."</p>
-                        <note>[#] ? Letters of Administration cum testamento annexo.</note>
+                            as come from Portugal. At last they got a ministration<ref
+                                target="#ENG18640_N6"/> with the testament and text, and they robbed
+                            me shameful, shameful, my good friend. Never catch me going to mass
+                            again, or you may tell me of it."</p>
+
                         <p>"And what became of the marrow bone, Mrs. Shelfer?"</p>
                         <p>At this inquiry, she winked both eyes rapidly, and screwed up her little
                             mouth.</p>
@@ -7490,9 +7494,8 @@
                             talk of something else. Did you hear what Tom did to your Judy
                             to-day?"</p>
                         <p>Ah, poor little thing! But I am not going to moralise. Shall I ever know
-                            the history of that marrow bone?[#]</p>
-                        <note>[#] I have now ascertained that a roving dog popped in and away with
-                            the marrow bone, sovereigns, guineas, and all.—C.V. 1864.</note>
+                            the history of that marrow bone?<ref target="#ENG18640_N7"/></p>
+
                     </div>
                     <div type="chapter">
                         <head>CHAPTER XIII.</head>
@@ -9899,15 +9902,12 @@
                             and gonfalon, and she could see bright cavalcades winding through the
                             greenwood shade. In "coat and waistcoat" novels her soul took no
                             delight. Not a shilling would she squeeze from her little beaded purse
-                            for all the quicksilver of Dickens, or the frosted gold[#] of Thackeray.
-                            Yet she was not by any means what fast young ladies call a "spooney;"
-                            she had plenty of common sense upon the things of daily life, plenty of
-                            general information, and no lack of gentle self-respect.</p>
-                        <note>[#] "Ice-tempered steel" I had written. But alas, the great author is
-                            dead, and they say that his kind heart was grieved by nothing so much as
-                            the charge of Cynicism. If he were a Cynic, would that we all were
-                            dogs!—"[Greek: <hi rend="italic">Kynòs ómmat' echôn, kradíen d'
-                                eláphoio</hi>.]"—C.V. 1864.</note>
+                            for all the quicksilver of Dickens, or the frosted gold<ref
+                                target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
+                            what fast young ladies call a "spooney;" she had plenty of common sense
+                            upon the things of daily life, plenty of general information, and no
+                            lack of gentle self-respect.</p>
+
                         <p>Now she was wending through an upland meet for gray-clad reverie, where
                             she might dream for days and days, and none but silly deer intrude. As
                             we passed along in the gloaming of the May, through bosomed lawn and
@@ -10839,20 +10839,21 @@
                         </quote>
                         <p rend="pfirst">The Corsicans, on the contrary, have always been famous for
                             candour, whose very soul is truth, and for superstition, the wen or hump
-                            of religion. For my own part, loving not that unprincipled[#] fellow
-                            hard labour, towards whom these noble islanders entertain a like
-                            antipathy, and loving much any freedom not hostile to my own, I got on
-                            with the natives admirably, for a certain time. Time had reconciled me
-                            to their custom of carrying, instead of cane or umbrella, long
-                            double-barrelled guns, whose muzzle they afford the stranger full
-                            opportunity of inspecting. First-rate marksmen are they, but they sling
-                            their guns at hap-hazard on their backs, and cheek to jowl we come upon
-                            the cold metal at the corner of the narrow streets. Tall and powerful
-                            men they are, especially the mountaineers; with all the Spaniard's
-                            dignity and the Italian's native grace. The women are lithe, erect, and
-                            beautifully formed, with a swan-like carriage, and a free and courteous
-                            bearing, such as very few of our high-born damsels own.</p>
-                        <note>[#] "Labor improbus" of Virgil.</note>
+                            of religion. For my own part, loving not that unprincipled<ref
+                                target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
+                            islanders entertain a like antipathy, and loving much any freedom not
+                            hostile to my own, I got on with the natives admirably, for a certain
+                            time. Time had reconciled me to their custom of carrying, instead of
+                            cane or umbrella, long double-barrelled guns, whose muzzle they afford
+                            the stranger full opportunity of inspecting. First-rate marksmen are
+                            they, but they sling their guns at hap-hazard on their backs, and cheek
+                            to jowl we come upon the cold metal at the corner of the narrow streets.
+                            Tall and powerful men they are, especially the mountaineers; with all
+                            the Spaniard's dignity and the Italian's native grace. The women are
+                            lithe, erect, and beautifully formed, with a swan-like carriage, and a
+                            free and courteous bearing, such as very few of our high-born damsels
+                            own.</p>
+
                         <p>The olive-growers frankly gave me all their little information about that
                             tree whose typical virtues they have never cared to learn. The variety
                             chiefly grown, or rather which chiefly grows itself, is one they call
@@ -12712,16 +12713,16 @@
                     </div>
                     <div type="chapter">
                         <head>CHAPTER XVIII.EDGAR VAUGHAN's STORY CONCLUDED. </head>
-                        <p>&gt;They put me in the very hammock where that murderer of all my happiness
-                            had slept, and no wonder that I could find no rest there. Soon as I knew
-                            the reason, I was allowed to change, and crept into the little berth
-                            where my innocent pets had lain in each other's arms. Here I slept much
-                            better than a king, for I even fancied that it smelt of Lily. If little
-                            Lily, as she shall be called, whatever the rogues have christened her,
-                            if my little beauty—for that I am sure she must be—ever comes to light,
-                            when I am in my grave, remember one thing, Clara, you will find her
-                            breath and general fragrance just as her mother's were. Such things are
-                            hereditary, especially among women.</p>
+                        <p>&gt;They put me in the very hammock where that murderer of all my
+                            happiness had slept, and no wonder that I could find no rest there. Soon
+                            as I knew the reason, I was allowed to change, and crept into the little
+                            berth where my innocent pets had lain in each other's arms. Here I slept
+                            much better than a king, for I even fancied that it smelt of Lily. If
+                            little Lily, as she shall be called, whatever the rogues have christened
+                            her, if my little beauty—for that I am sure she must be—ever comes to
+                            light, when I am in my grave, remember one thing, Clara, you will find
+                            her breath and general fragrance just as her mother's were. Such things
+                            are hereditary, especially among women.</p>
                         <p>After a long and stormy passage, and a fortnight spent in repairing at
                             Bordeaux, we passed the familiar Essex marshes by night, and were off
                             the Custom House by the last day of the year. When that tedious work was
@@ -14512,18 +14513,18 @@
                             narrate its own achievements. When, after that adventure, he discovered
                             who we were, he avoided us because he believed that his father had slain
                             mine. It was not till a later date, when he became of age—as the
-                            Corsicans reckon manhood[#]—that Lepardo Della Croce told him all he
-                            knew of his history, dwelt on the foul shame wrought to the Della Croce
-                            by his bigamist father, and tried in vain to force on him the awful oath
-                            of Vendetta. The youth had too much English blood in his heart to accept
-                            the black inheritance. Thenceforth he could not bear the sight of the
-                            man who had killed, as they both supposed, his father, although, in his
-                            wrath for his mother's wrongs and his own, he would not resent the deed.
-                            What marvel then that he spurned me, and was maddened with himself, at
-                            finding that he, the illegitimate, was in love with me, his legitimate
-                            sister? But now, we are only half-cousins, and nature has never misled
-                            us.</p>
-                        <note>[#] <hi rend="italic">i.e.</hi> the age of twenty.</note>
+                            Corsicans reckon manhood<ref target="#ENG18640_N10"/>—that Lepardo Della
+                            Croce told him all he knew of his history, dwelt on the foul shame
+                            wrought to the Della Croce by his bigamist father, and tried in vain to
+                            force on him the awful oath of Vendetta. The youth had too much English
+                            blood in his heart to accept the black inheritance. Thenceforth he could
+                            not bear the sight of the man who had killed, as they both supposed, his
+                            father, although, in his wrath for his mother's wrongs and his own, he
+                            would not resent the deed. What marvel then that he spurned me, and was
+                            maddened with himself, at finding that he, the illegitimate, was in love
+                            with me, his legitimate sister? But now, we are only half-cousins, and
+                            nature has never misled us.</p>
+
                         <p>All that evening, my Uncle was in the most glorious spirits, and I am not
                             sure that Lily and I were very far behind him. He played us all sorts of
                             boyish tricks, and we made reprisals with girlish ones, till Lily's
@@ -15123,7 +15124,8 @@
                             cross. My gaze was rivetted on a pair of boots, fixed in a ledge with
                             horse-shoe bays; on the sole of one I perceived a cross of metal inlaid;
                             I drew nearer to see it more closely, when something fell over my head.
-                            All down me, and round me, and twisted behind in a tight <hi rend="italic">tourniquet</hi>, before I could guess what it was. I
+                            All down me, and round me, and twisted behind in a tight <hi
+                                rend="italic">tourniquet</hi>, before I could guess what it was. I
                             am not weak, for a girl; but I could no more lift my arms than a swathed
                             mummy can. Neither could I kick, although as a child I had been famous
                             for that accomplishment; if I lifted either foot, I must tumble
@@ -15992,7 +15994,8 @@
                             ought to be very thankful, and what's more, I am. All of you likes Miss
                             Lily, unless they tell me stories, John.' 'Sir,' says I, 'we wusships
                             her, though not like our own Miss Vaughan.'"</p>
-                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi rend="italic">ex post facto</hi>?</p>
+                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi
+                                rend="italic">ex post facto</hi>?</p>
                         <p>"So he looked very pleased at that, Miss, and he says again, 'John, let
                             all that love her know that she is the living image of her mother. Now
                             go and send her quickly; but John, take care not to frighten my little
@@ -16635,12 +16638,31 @@
                             up now with writing.</p>
                         <p>"Darlings, I love all three of you, to-day, to-morrow, and for ever. Only
                             don't pull me to pieces."</p>
-                        <p>THE END.</p>
-                        <p>LONDON: R. CLAY, SON, AND
-                            TAYLOR, PRINTERS, BREAD STREET HILL.</p>
+                        <trailer>THE END.</trailer>
                     </div>
                 </div>
             </div>
         </body>
+        <back>
+            <div type="notes">
+                <note xml:id="ENG18640_N1"> "Pote." Danmonic for to "kick."</note>
+                <note xml:id="ENG18640_N2"> Pilm, Londinicè, "dust."</note>
+                <note xml:id="ENG18640_N3"> i.e. dealing commercially where the staples are
+                    liquid.</note>
+                <note xml:id="ENG18640_N4"> Every word of Tim's story is true, except as regards the
+                    names.</note>
+                <note xml:id="ENG18640_N5"> "Exiguo fine libidinum."</note>
+                <note xml:id="ENG18640_N6"> ? Letters of Administration cum testamento
+                    annexo.</note>
+                <note xml:id="ENG18640_N7"> I have now ascertained that a roving dog popped in and
+                    away with the marrow bone, sovereigns, guineas, and all.—C.V. 1864.</note>
+                <note xml:id="ENG18640_N8"> "Ice-tempered steel" I had written. But alas, the great
+                    author is dead, and they say that his kind heart was grieved by nothing so much
+                    as the charge of Cynicism. If he were a Cynic, would that we all were
+                    dogs!—"[Greek: Kynòs ómmat' echôn, kradíen d' eláphoio.]"—C.V. 1864.</note>
+                <note xml:id="ENG18640_N9"> "Labor improbus" of Virgil.</note>
+                <note xml:id="ENG18640_N10"> i.e. the age of twenty.</note>
+            </div>
+        </back>
     </text>
 </TEI>
