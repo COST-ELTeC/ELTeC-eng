@@ -35,7 +35,7 @@
                     </bibl>
                </sourceDesc>
           </fileDesc>
-          <encodingDesc n="eltec-0">
+          <encodingDesc n="eltec-1">
                <p/>
           </encodingDesc>
           <profileDesc>
@@ -74,7 +74,7 @@
                          <head>CHAPTER THE FIRST</head>
                          <head>OF BLADESOVER HOUSE, AND MY MOTHER; AND THE CONSTITUTION OF
                               SOCIETY</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>Most people in this world seem to live "in character"; they have a
                               beginning, a middle and an end, and the three are congruous one with
                               another and true to the rules of their type. You can speak of them as
@@ -177,7 +177,7 @@
                               table littered with working drawings, and amid fragments of models and
                               notes about velocities and air and water pressures and trajectories—of
                               an altogether different sort from that of Tono-Bungay.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>I write that much and look at it, and wonder whether, after all, this is
                               any fair statement of what I am attempting in this book. I've given, I
                               see, an impression that I want to make simply a hotch-potch of
@@ -217,7 +217,7 @@
                               method in what follows, and I think I had better tell without further
                               delay of my boyhood and my early impressions in the shadow of
                               Bladesover House.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>There came a time when I realised that Bladesover House was not all it
                               seemed, but when I was a little boy I took the place with the entirest
                               faith as a complete authentic microcosm. I believed that the
@@ -473,7 +473,7 @@
                               Esquire, was of the gentlefolk, and he came near being a King. It was
                               Plutarch, you know, and nothing intrinsically American that prevented
                               George Washington being a King....</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>I hated teatime in the housekeeper's room more than anything else at
                               Bladesover. And more particularly I hated it when Mrs. Mackridge and
                               Mrs. Booch and Mrs. Latude-Fernay were staying in the house. They
@@ -610,7 +610,7 @@
                               thought, suffer these aristocratic invaders as a quaint anachronism,
                               but as for being gratified—!</p>
                          <p>I don't jeer now. I'm not so sure.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>It is a little difficult to explain why I did not come to do what was
                               the natural thing for any one in my circumstances to do, and take my
                               world for granted. A certain innate scepticism, I think, explains it
@@ -740,7 +740,7 @@
                               the idea of a state and the germ of public spirit, in such a furtive
                               fashion; queer, too, that it should rest with an old Greek, dead these
                               eighteen hundred years to teach that.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>The school I went to was the sort of school the Bladesover system
                               permitted. The public schools that add comic into existence in the
                               brief glow of the Renascence had been taken possession of by the
@@ -856,7 +856,7 @@
                               inseparable yarning friends. We merged our intellectual stock so
                               completely that I wonder sometimes how much I did not become Ewart,
                               how much Ewart is not vicariously and derivatively me.</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>And then when I had newly passed my fourteenth birthday, came my tragic
                               disgrace.</p>
                          <p>It was in my midsummer holidays that the thing happened, and it was
@@ -954,7 +954,7 @@
                          <p>One other holiday there was when I saw something of her-oddly enough my
                               memory of that second holiday in which she played a part is vague-and
                               then came a gap of a year, and then my disgrace.</p>
-                         <milestone type="subChapter" n="VIII"/>
+                         <milestone unit="subchapter" n="VIII"/>
                          <p>Now I sit down to write my story and tell over again things in their
                               order, I find for the first time how inconsecutive and irrational a
                               thing the memory can be. One recalls acts and cannot recall motives;
@@ -1189,7 +1189,7 @@
                               with me. That would not be after the rules of their game. I resolved
                               in this difficult situation upon a sulky silence, and to take whatever
                               consequences might follow.</p>
-                         <milestone type="subChapter" n="IX"/>
+                         <milestone unit="subchapter" n="IX"/>
                          <p>The powers of justice in Bladesover made an extraordinary mess of my
                               case.</p>
                          <p>I have regretfully to admit that the Honourable Beatrice Normandy did,
@@ -1242,7 +1242,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE SECOND</head>
                          <head>OF MY LAUNCH INTO THE WORLD AND THE LAST I SAW OF BLADESOVER</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>When I was thus banished from Bladesover House, as it was then thought
                               for good and all, I was sent by my mother in a vindictive spirit,
                               first to her cousin Nicodemus Frapp, and then, as a fully indentured
@@ -1490,7 +1490,7 @@
                               So far as any fear of Divine injustice goes, I sleep soundly, and
                               shall, I know, to the end of things. That declaration was an epoch in
                               my spiritual life.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>But I didn't expect to have the whole meeting on Sunday turned on to
                               me.</p>
                          <p>It was. It all comes back to me, that convergence of attention, even the
@@ -1529,7 +1529,7 @@
                               well fixed in my memory, and got up and started for Bladesover about
                               five on Sunday morning while my two bed mates were still fast
                               asleep.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>I remember something, but not so much of it as I should like to recall,
                               of my long tramp to Bladesover House. The distance from Chatham is
                               almost exactly seventeen miles, and it took me until nearly one. It
@@ -1581,7 +1581,7 @@
                               stamped home. I wished very much now that I had run away to sea, in
                               spite of the coal dust and squalour Rochester had revealed to me.
                               Perhaps over seas one came to different lands.</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>I do not remember much of my journey to Wimblehurst with my mother
                               except the image of her as sitting bolt upright, as rather disdaining
                               the third-class carriage in which we traveled, and how she looked away
@@ -1712,7 +1712,7 @@
                               a chair for my mother, raised the blind of the little window, lowered
                               it again, and returned to his hearthrug. "I'm sure," he said, as one
                               who decides, "I'm very glad to see you."</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>As they talked I gave my attention pretty exclusively to my uncle.</p>
                          <p>I noted him in great detail. I remember now his partially unbuttoned
                               waistcoat, as though something had occurred to distract him as he did
@@ -1793,7 +1793,7 @@
                               corner."</p>
                          <p>He watched me out of sight.</p>
                          <p>So I never heard what they said about my father after all.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>When I returned, my uncle had in some remarkable way become larger and
                               central. "Tha'chu, George?" he cried, when the shop-door bell sounded.
                               "Come right through"; and I found him, as it were, in the chairman's
@@ -1881,7 +1881,7 @@
                               habitual, sternly narrow soul! poor difficult and misunderstanding
                               son! it was the first time that ever it dawned upon me that my mother
                               also might perhaps feel.</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>My mother died suddenly and, it was thought by Lady Drew,
                               inconsiderately, the following spring. Her ladyship instantly fled to
                               Folkestone with Miss Somerville and Fison, until the funeral should be
@@ -1946,7 +1946,7 @@
                          <p>Stamped across this memory are the little black figures of my uncle and
                               Rabbits, telling Avebury, the sexton and undertaker, that "it had all
                               passed off very well—very well indeed."</p>
-                         <milestone type="subChapter" n="VIII"/>
+                         <milestone unit="subchapter" n="VIII"/>
                          <p>That is the last I shall tell of Bladesover. The dropscene falls on
                               that, and it comes no more as an actual presence into this novel. I
                               did indeed go back there once again, but under circumstances quite
@@ -1999,7 +1999,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE THIRD</head>
                          <head>THE WIMBLEHURST APPRENTICESHIP</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>So far as I can remember now, except for that one emotional phase by the
                               graveside, I passed through all these experiences rather callously. I
                               had already, with the facility of youth, changed my world, ceased to
@@ -2141,7 +2141,7 @@
                               anything everybody wants and hasn't got? I mean something you could
                               turn out retail under a shilling, say? Well, YOU think, whenever you
                               haven't got anything better to do. See?"</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>So I remember my uncle in that first phase, young, but already a little
                               fat, restless, fretful, garrulous, putting in my fermenting head all
                               sorts of discrepant ideas. Certainly he was educational....</p>
@@ -2374,7 +2374,7 @@
                          <p>"Earthquake and a pestilence before you get that," my uncle would
                               mutter, to the infinite delight of every one, and add something
                               inaudible about "Cold Mutton Fat."...</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>We were torn apart by a financial accident to my uncle of which I did
                               not at first grasp the full bearings. He had developed what I regarded
                               as an innocent intellectual recreation which he called stock-market
@@ -2585,7 +2585,7 @@
                               Snape, the hairdresser, inside his store regarding its departure with
                               a quiet satisfaction and exchanging smiles and significant headshakes
                               with Mr. Marbel.</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>I was left, I say, as part of the lock, stock, and barrel, at
                               Wimblehurst with my new master, a Mr. Mantell; who plays no part in
                               the progress of this story except in so far as he effaced my uncle's
@@ -2669,7 +2669,7 @@
                               hurrying men. Down a turning I found the Temperance Hotel Mr. Mantell
                               had recommended to me. The porter in a green uniform who took over my
                               portmanteau, seemed, I thought, to despise me a good deal.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>Matriculation kept me for four full days and then came an afternoon to
                               spare, and I sought out Tottenham Court Road through a perplexing
                               network of various and crowded streets. But this London was vast! it
@@ -2799,7 +2799,7 @@
                          <p>But where has my story got to? My uncle, I say, decided I must be shown
                               London, and out we three went as soon as my aunt had got her hat on,
                               to catch all that was left of the day.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>It pleased my uncle extremely to find I had never seen London before. He
                               took possession of the metropolis forthwith. "London, George," he
                               said, "takes a lot of understanding. It's a great place. Immense. The
@@ -2897,7 +2897,7 @@
                          <p>My uncle sighed, and leant back in his chair. "I wish I could make all
                               this business as clear to you as it is to me," he said. "However-Go
                               on! Say what you have to say."</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>After I left my uncle that evening I gave way to a feeling of profound
                               depression. My uncle and aunt seemed to me to be leading-I have
                               already used the word too often, but I must use it again-DINGY lives.
@@ -3120,7 +3120,7 @@
                               fine responses. I did not want simply to live or simply to live
                               happily or well; I wanted to serve and do and make-with some nobility.
                               It was in me. It is in half the youth of the world.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>I had come to London as a scholar. I had taken the Vincent Bradley
                               scholarship of the Pharmaceutical Society, but I threw this up when I
                               found that my work of the Science and Art Department in mathematics,
@@ -3253,7 +3253,7 @@
                               half-forgotten Chatham), and wishing all the sisters were not so
                               obviously engaged....</p>
                          <p>Then on the remote hill of this boundless city-world I found Ewart.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>How well I remember the first morning, a bright Sunday morning in early
                               October, when I raided in upon Ewart! I found my old schoolfellow in
                               bed in a room over an oil-shop in a back street at the foot of
@@ -3528,7 +3528,7 @@
                               and invincible.</p>
                          <p>"These socialists have no sense of proportion," he said. "What can you
                               expect of them?"</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>Ewart, as the embodiment of talk, was certainly a leading factor in my
                               conspicuous failure to go on studying. Social theory in its first
                               crude form of Democratic Socialism gripped my intelligence more and
@@ -3663,7 +3663,7 @@
                               mattered if it had been positively unwholesome. I had extraordinarily
                               limited, extraordinarily painful, desires. I longed intolerably to
                               kiss her lips.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>The affair was immensely serious and commanding to me. I don't remember
                               that in these earlier phases I had any thought of turning back at all.
                               It was clear to me that she regarded me with an eye entirely more
@@ -3822,7 +3822,7 @@
                          <p>"But," I said "Love-!"</p>
                          <p>"One has to be sensible," she replied. "I like going about with you.
                               Can't we keep as we are?'"</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>Well, you begin to understand my breakdown now, I have been copious
                               enough with these apologia. My work got more and more spiritless, my
                               behaviour degenerated, my punctuality declined; I was more and more
@@ -3907,7 +3907,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE SECOND</head>
                          <head>THE DAWN COMES, AND MY UNCLE APPEARS IN A NEW SILK HAT</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>Throughout my student days I had not seen my uncle. I refrained from
                               going to him in spite of an occasional regret that in this way I
                               estranged myself from my aunt Susan, and I maintained a sulky attitude
@@ -4146,7 +4146,7 @@
                          <p>"Come and change it, George," said my uncle, with sudden fervour "Come
                               here and make a machine of it. You can. Make it all slick, and then
                               make it woosh. I know you can. Oh! I know you can."</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>I seem to remember very quick changes of mind after that lunch. The
                               muzzy exaltation of the unaccustomed stimulants gave way very rapidly
                               to a model of pellucid and impartial clairvoyance which is one of my
@@ -4245,7 +4245,7 @@
                          <p>And he smiled endearingly.</p>
                          <p>"I got to dictate a letter," he said, ending the smile, and vanished
                               into the outer room.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>I didn't succumb without a struggle to my uncle's allurements. Indeed, I
                               held out for a week while I contemplated life and my prospects. It was
                               a crowded and muddled contemplation. It invaded even my sleep.</p>
@@ -4335,7 +4335,7 @@
                               uncle's master-stroke, his admirable touch of praise: "Make it all
                               slick-and then make it go Woosh. I know you can! Oh! I KNOW you
                               can!"</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>Ewart as a moral influence was unsatisfactory. I had made up my mind to
                               put the whole thing before him, partly to see how he took it, and
                               partly to hear how it sounded when it was said. I asked him to come
@@ -4372,7 +4372,7 @@
                          <p>"Wholesale grocer. I'll put it on his corners,-four mustard pots. I dare
                               say he'd be glad of a mustard plaster now to cool him, poor devil,
                               where he is. But anyhow,-here goes!"</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>It came to me in the small hours that the real moral touchstone for this
                               great doubting of mind was Marion. I lay composing statements of my
                               problem and imagined myself delivering them to her-and she,
@@ -4462,7 +4462,7 @@
                               It's odd that in writing this down my memory passed over all that
                               intervened and I feel it all again, and once again I'm Marion's boyish
                               lover taking great joy in such rare and little things.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>At last I went to the address my uncle had given me in Gower Street, and
                               found my aunt Susan waiting tea for him.</p>
                          <p>Directly I came into the room I appreciated the change in outlook that
@@ -4553,7 +4553,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE THIRD</head>
                          <head>HOW WE MADE TONO-BUNGAY HUM</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>So I made my peace with my uncle, and we set out upon this bright
                               enterprise of selling slightly injurious rubbish at
                               one-and-three-halfpence and two-and-nine a bottle, including the
@@ -4779,7 +4779,7 @@
                               box partitions when everybody else was using expensive young men to
                               pack through the top of the box with straw, many breakages and much
                               waste and confusion.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>As I look back at them now, those energetic years seem all compacted to
                               a year or so; from the days of our first hazardous beginning in
                               Farringdon Street with barely a thousand pounds' worth of stuff or
@@ -5083,7 +5083,7 @@
                               demurely as "A Certain Person." I was rumoured to be dreadfully
                               "clever," and there were doubts-not altogether without
                               justification-of the sweetness of my temper.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>Well, these general explanations will enable the reader to understand
                               the distressful times we two had together when presently I began to
                               feel on a footing with Marion and to fumble conversationally for the
@@ -5267,7 +5267,7 @@
                          <p>She leant forward over the table, staring blankly. But presently her
                               half-averted face began to haunt me as she had sat at the table, and
                               her arm and the long droop of her shoulder.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>The next day I did an unexampled thing. I sent a telegram to my uncle,
                               "Bad temper not coming to business," and set off for Highgate and
                               Ewart. He was actually at work-on a bust of Millie, and seemed very
@@ -5502,7 +5502,7 @@
                               knuckly affair-Grundy the terror!-the little wrinkles and the thumb!
                               Only it ought to hold all the others together-in a slightly disturbing
                               squeeze....Like Rodin's great Hand-you know the thing!"</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>I forget how many days intervened between that last breaking off of our
                               engagement and Marion's surrender. But I recall now the sharpness of
                               my emotion, the concentrated spirit of tears and laughter in my throat
@@ -5675,7 +5675,7 @@
                               end of purblind Nature, the relentless immediacy of her desire, and
                               held, far short of happiness, Marion weeping and reluctant in my
                               arms.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>Who can tell the story of the slow estrangement of two married people,
                               the weakening of first this bond and then that of that complex
                               contact? Least of all can one of the two participants. Even now, with
@@ -5854,7 +5854,7 @@
                               adolescent ambitions, my Wimblehurst dreams. My circumstances had an
                               air of finality, and I asked myself in vain why I had forced myself
                               into them.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>The end of our intolerable situation came suddenly and unexpectedly, but
                               in a way that I suppose was almost inevitable.</p>
                          <p>My alienated affections wandered, and I was unfaithful to Marion.</p>
@@ -5921,7 +5921,7 @@
                          <p>We met and had our talk that evening, a talk in whispers when there was
                               none to overhear; we came to an understanding. It was strangely unlike
                               any dream of romance I had ever entertained.</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>I came back after a week's absence to my home again-a changed man. I had
                               lived out my first rush of passion for Effie, had come to a
                               contemplation of my position. I had gauged Effie's place in the scheme
@@ -6017,7 +6017,7 @@
                               one and then at the other of us. Neither of us used his name. You see
                               we had called him Miggles, and made a sort of trio in the baby-talk of
                               Mutney and Miggles and Ming.</p>
-                         <milestone type="subChapter" n="VIII"/>
+                         <milestone unit="subchapter" n="VIII"/>
                          <p>Then presently we resumed our monstrous, momentous dialogue. I can't now
                               make out how long that dialogue went on. It spread itself, I know, in
                               heavy fragments over either three days or four. I remember myself
@@ -6109,7 +6109,7 @@
                          <p>"And all this life you've hated"</p>
                          <p>I looked up at her wrung and bitter face. "I haven't hated it," I lied,
                               my voice near breaking with the pain of it all. "Have you?"</p>
-                         <milestone type="subChapter" n="IX"/>
+                         <milestone unit="subchapter" n="IX"/>
                          <p>The perplexing thing about life is the irresolvable complexity of
                               reality, of things and relations alike. Nothing is simple. Every wrong
                               done has a certain justice in it, and every good deed has dregs of
@@ -6205,7 +6205,7 @@
                               jumped up, craned out and looked at the door.</p>
                          <p>It was wide open, but she had disappeared....</p>
                          <p>I wonder-I suppose she ran upstairs.</p>
-                         <milestone type="subChapter" n="X"/>
+                         <milestone unit="subchapter" n="X"/>
                          <p>So I parted from Marion at an extremity of perturbation and regret, and
                               went, as I had promised and arranged, to Effie, who was waiting for me
                               in apartments near Orpington. I remember her upon the station
@@ -6401,7 +6401,7 @@
                               worshipful, enduring, mine profoundly and fundamentally, and the utter
                               redemption of myself; I don't know-all I can tell is that it is
                               something I have ever failed to find.</p>
-                         <milestone type="subChapter" n="XI"/>
+                         <milestone unit="subchapter" n="XI"/>
                          <p>But before I finish this chapter and book altogether and go on with the
                               great adventure of my uncle's career. I may perhaps tell what else
                               remains to tell of Marion and Effie, and then for a time set my
@@ -6472,7 +6472,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE FIRST</head>
                          <head>THE HARDINGHAM HOTEL, AND HOW WE BECAME BIG PEOPLE</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>But now that I resume the main line of my story it may be well to
                               describe the personal appearance of my uncle as I remember him during
                               those magnificent years that followed his passage from trade to
@@ -6558,7 +6558,7 @@
                               he took up the Domestic Convenience Campaign that, coupled with his
                               equatorial rotundity and a certain resolute convexity in his bearings
                               won my uncle his Napoleonic title.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>It illustrates the romantic element in modern commerce that my uncle met
                               young Moggs at a city dinner-I think it was the Bottle-makers'
                               Company-when both were some way advanced beyond the initial sobriety
@@ -6765,7 +6765,7 @@
                               hands. But I thought so little of these later things that I never
                               fully appreciated the peculiar inconveniences of that until it was too
                               late to help him.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>When I think of my uncle near the days of his Great Boom and in
                               connection with the actualities of his enterprises, I think of him as
                               I used to see him in the suite of rooms he occupied in the Hardingham
@@ -6938,7 +6938,7 @@
                               bidding, blue marble came from Canada, and timber from New Zealand;
                               and beneath it all, you know, there was nothing but fictitious values
                               as evanescent as rainbow gold.</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>I pass the Hardingham ever and again and glance aside through the great
                               archway at the fountain and the ferns, and think of those receding
                               days when I was so near the centre of our eddy of greed and
@@ -7144,7 +7144,7 @@
                               of quap, like sanded moist-sugar mixed with clay in which there stirs
                               something-</p>
                          <p>One must feel it to understand.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>All sorts of things came to the Hardingham and offered themselves to my
                               uncle. Gordon-Nasmyth stands but only because he played a part at last
                               in the crisis of our fortunes. So much came to us that it seemed to me
@@ -7208,7 +7208,7 @@
                               Sacred Grove-the quiet conservatism of the one element embedded in the
                               aggressive brilliance of the other; the contrasted notes of bold
                               physiological experiment and extreme mental immobility.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>There comes back, too, among these Hardingham memories, an impression of
                               a drizzling November day, and how we looked out of the windows upon a
                               procession of the London unemployed.</p>
@@ -7236,7 +7236,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE SECOND</head>
                          <head>OUR PROGRESS FROM CAMDEN TOWN TO CREST HILL</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>So far my history of my aunt and uncle has dealt chiefly with his
                               industrial and financial exploits. But side by side with that history
                               of inflation from the infinitesimal to the immense is another
@@ -7338,7 +7338,7 @@
                               her superintending the loading of two big furniture vans. "Go up and
                               say good-bye to 'Martin Luther,' and then I'll see what you can do to
                               help me."</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>I look into the jumbled stores of the middle distance of memory, and
                               Beckenham seems to me a quite transitory phase. But really they were
                               there several years; through nearly all my married life, in fact, and
@@ -7495,7 +7495,7 @@
                               peeping through the blind at the assembly on the lawn until it was
                               altogether gone....</p>
                          <p>The clergymen, I thought, were wonderful.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>A few such pictures of those early days at Beckenham stand out, and then
                               I find myself among the Chiselhurst memories. The Chiselhurst mansion
                               had "grounds" rather than a mere garden, and there was a gardener's
@@ -7594,7 +7594,7 @@
                               cigars are good for the mind.... What do YOU think of it all? We got
                               to adapt ourselves. We have-so far.... Not going to be beat by these
                               silly things."</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>"What do you think of it, George?" he insisted.</p>
                          <p>What I said I thought of it I don't now recall. Only I have very
                               distinctly the impression of meeting for a moment my aunt's
@@ -7688,7 +7688,7 @@
                               already mentioned, a short figure, compactly immense, hugely goggled,
                               wearing a sort of brown rubber proboscis, and surmounted by a
                               table-land of motoring cap.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>So it was we recognised our new needs as fresh invaders of the upper
                               levels of the social system, and set ourselves quite consciously to
                               the acquisition of Style and Savoir Faire. We became part of what is
@@ -7794,7 +7794,7 @@
                               and never anywhere has there been such a thing as house and
                               furnishings native and natural to the women and men who made use of
                               them....</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>For me, at least, it marked an epoch in my uncle's career when I learnt
                               one day that he had "shopped" Lady Grove. I realised a fresh, wide,
                               unpreluded step. He took me by surprise with the sudden change of
@@ -8068,7 +8068,7 @@
                               and beginning to feel at home."</p>
                          <p>My uncle turned his goggles to her. "Ah! THIS time it is home, Susan....
                               We got there."</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>It seems to me now but a step from the buying of Lady Grove to the
                               beginning of Crest Hill, from the days when the former was a
                               stupendous achievement to the days when it was too small and dark and
@@ -8161,7 +8161,7 @@
                          <p>In those measurelessly long hot afternoons in the little shop at
                               Wimblehurst he had talked and dreamt of the Romance of Modern
                               Commerce. Here, surely, was his romance come true.</p>
-                         <milestone type="subChapter" n="VIII"/>
+                         <milestone unit="subchapter" n="VIII"/>
                          <p>People say that my uncle lost his head at the crest of his fortunes, but
                               if one may tell so much truth of a man one has in a manner loved, he
                               never had very much head to lose. He was always imaginative, erratic,
@@ -8350,7 +8350,7 @@
                               idees-you sneer at me. You do. You don't see-it's a big thing. It's a
                               big thing. You got to get used to new circumstances. You got to face
                               what lies before us. You got to drop that tone."</p>
-                         <milestone type="subChapter" n="IX"/>
+                         <milestone unit="subchapter" n="IX"/>
                          <p>My uncle was not altogether swallowed up in business and ambition. He
                               kept in touch with modern thought. For example, he was, I know,
                               greatly swayed by what he called "This Overman idee, Nietzsche-all
@@ -8483,7 +8483,7 @@
                               gamekeeper's. She got together a library of old household books that
                               were in the vein of the place. She revived the still-room, and became
                               a great artist in jellies and elder and cowslip wine.</p>
-                         <milestone type="subChapter" n="X"/>
+                         <milestone unit="subchapter" n="X"/>
                          <p>And while I neglected the development of my uncle's finances-and my own,
                               in my scientific work and my absorbing conflict with the difficulties
                               of flying,-his schemes grew more and more expansive and hazardous, and
@@ -8703,7 +8703,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE THIRD</head>
                          <head>SOARING</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>For nearly all the time that my uncle was incubating and hatching Crest
                               Hill I was busy in a little transverse valley between that great
                               beginning and Lady Grove with more and more costly and ambitious
@@ -8900,7 +8900,7 @@
                               legitimate development of my proper work that presently I turned a
                               part of my energies and the bulk of my private income to the problem
                               of the navigable balloon.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>I had gone far beyond that initial stage; I had had two smashes and a
                               broken rib which my aunt nursed with great energy, and was getting
                               some reputation in the aeronautic world when, suddenly, as though she
@@ -8985,7 +8985,7 @@
                               Garvell again that had, indeed, recalled nothing except a boyish
                               antagonism and our fight. Now when my senses were full of her, it
                               seemed incredible that I could ever have forgotten....</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>"Oh, Crikey!" said my aunt, reading a letter behind her coffee-machine.
                               "HERE'S a young woman, George!"</p>
                          <p>We were breakfasting together in the big window bay at Lady Grove that
@@ -9193,7 +9193,7 @@
                          <p>"Whenever you please. Only let me know"</p>
                          <p>"I'll take my chance some day. Some day soon." She looked at me
                               thoughtfully, smiled, and our talk was at an end.</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>All my later work in aeronautics is associated in my memory with the
                               quality of Beatrice, with her incidental presence, with things she
                               said and did and things I thought of that had reference to her.</p>
@@ -9376,7 +9376,7 @@
                               since. It's exactly forty-three yards further.</p>
                          <p>"Lord Carnaby looked at her pretty straight," said Cothope, finishing
                               the picture; "and then he give in."</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>But my story has made a jump from June to October, and during that time
                               my relations with Beatrice and the countryside that was her setting
                               had developed in many directions. She came and went, moving in an
@@ -9495,7 +9495,7 @@
                               something had been shouted from the sky.</p>
                          <p>Cothope had gone twenty paces perhaps when she uncovered her face. "I
                               shan't want any water," she said. "Call him back."</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>After that the spirit of our relations changed. The old ease had gone.
                               She came to me less frequently, and when she came she would have some
                               one with her, usually old Carnaby, and he would do the bulk of the
@@ -9656,7 +9656,7 @@
                               hand.</p>
                          <p>"I don't care what difficulties there are," I said, and I shut my
                               eyes.</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>But I was only beginning to gauge the unaccountable elements in
                               Beatrice. For a week after my return to Lady Grove I had no sign of
                               her, and then she called with Lady Osprey and brought a huge bunch of
@@ -9813,7 +9813,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE FOURTH</head>
                          <head>HOW I STOLE THE HEAPS OF QUAP FROM MORDET ISLAND</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>"We got to make a fight for it," said my uncle. "We got to face the
                               music!"</p>
                          <p>I remember that even at the sight of him I had a sense of impending
@@ -9928,7 +9928,7 @@
                          <p>"That's all right," I said at last.</p>
                          <p>"Eh?" said my uncle.</p>
                          <p>"I'M going. I'll get that quap or bust."</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>I had a ridiculous persuasion that I was "saving the situation."</p>
                          <p>"I'm going," I said quite consciously and dramatically. I saw the whole
                               affair-how shall I put it?-in American colours.</p>
@@ -10216,7 +10216,7 @@
                          <p>"Yes, GO!" she said, and vanished and slammed the door upon me, leaving
                               me alone like a man new fallen from fairyland in the black darkness of
                               the night.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>That expedition to Mordet Island stands apart from all the rest of my
                               life, detached, a piece by itself with an atmosphere of its own. It
                               would, I suppose, make a book by itself-it has made a fairly
@@ -10387,7 +10387,7 @@
                               my soaring in the air and my habitual wide vision of swift effectual
                               things, became as remote as if they were in some world I had left for
                               ever....</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>All these African memories stand by themselves. It was for me an
                               expedition into the realms of undisciplined nature out of the world
                               that is ruled by men, my first bout with that hot side of our mother
@@ -10520,7 +10520,7 @@
                               myself imagining fresh obstacles with the men and talking aloud in
                               anticipatory rehearsal of the consequent row.</p>
                          <p>The malaria of the quap was already in my blood.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>Sooner or later the ridiculous embargo that now lies upon all the coast
                               eastward of Mordet Island will be lifted and the reality of the
                               deposits of quap ascertained. I am sure that we were merely taking the
@@ -10647,7 +10647,7 @@
                               inflamed imagination, I dreamt of my uncle's face, only that it was
                               ghastly white like a clown's, and the throat was cut from ear to ear-a
                               long ochreous cut. "Too late," he said; "Too late!..."</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>A day or so after we had got to work upon the quap I found myself so
                               sleepless and miserable that the ship became unendurable. Just before
                               the rush of sunrise I borrowed Pollack's gun, walked down the planks,
@@ -10768,7 +10768,7 @@
                               they proclaimed, through Edwards, their spokesman, "We've had enough
                               of this, and we mean it," I answered very readily, "So have I. Let's
                               go."</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>We were none too soon. People had been reconnoitring us, the telegraph
                               had been at work, and we were not four hours at sea before we ran
                               against the gunboat that had been sent down the coast to look for us
@@ -10870,7 +10870,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE FIRST</head>
                          <head>THE STICK OF THE ROCKET</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>That evening I talked with my uncle in the Hardingham for the last time.
                               The atmosphere of the place had altered quite shockingly. Instead of
                               the crowd of importunate courtiers there were just half a dozen
@@ -10949,7 +10949,7 @@
                          <p>He looked up as though he hoped that would end our talk.</p>
                          <p>"For the week-end?" I asked.</p>
                          <p>"For the week-end. Thank God for week-ends, George!"</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>My return home to Lady Grove was a very different thing from what I had
                               anticipated when I had got out to sea with my load of quap and fancied
                               the Perfect-Filament was safe within my grasp. As I walked through the
@@ -11110,7 +11110,7 @@
                               a time I could think of no other interpretation. This was Life! It
                               came to me like a revelation, a revelation at once incredible and
                               indisputable of the abysmal folly of our being.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>I was roused from such thoughts by the sound of footsteps behind me.</p>
                          <p>I turned half hopeful-so foolish is a lover's imagination, and stopped
                               amazed. It was my uncle. His face was white-white as I had seen it in
@@ -11187,7 +11187,7 @@
                          <p>His little bloodshot eyes stared at Crest Hill.</p>
                          <p>"That chap Wittaker Wright," he said, "he had his stuff ready. I
                               haven't. Now you got it, George. That's the sort of hole I'm in."</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>That memory of my uncle at the gate is very clear and full. I am able to
                               recall even the undertow of my thoughts while he was speaking. I
                               remember my pity and affection for him in his misery growing and
@@ -11268,7 +11268,7 @@
                               If it hadn't been for a sort of anchoring trolley device of Cothope's,
                               a sort of slip anchor running on a rail, we should never have got
                               clear at all.</p>
-                         <milestone type="subChapter" n="V"/>
+                         <milestone unit="subchapter" n="V"/>
                          <p>The incidents of our flight in Lord Roberts B do not arrange themselves
                               in any consecutive order. To think of that adventure is like dipping
                               haphazard into an album of views. One is reminded first of this and
@@ -11405,7 +11405,7 @@
                               water and heavy, and so became deflated and sank.</p>
                          <p>It was never found, and there was never a report of anyone seeing it
                               after it escaped from me.</p>
-                         <milestone type="subChapter" n="VI"/>
+                         <milestone unit="subchapter" n="VI"/>
                          <p>But if I find it hard to tell the story of our long flight through the
                               air overseas, at least that dawn in France stands cold and clear and
                               full. I see again almost as if I saw once more with my bodily eyes the
@@ -11471,7 +11471,7 @@
                               organise nursing and a sick-room. I installed a religieuse in the
                               second bedroom of the inn, and took a room for myself in the inn of
                               Port de Luzon, a quarter of a mile away.</p>
-                         <milestone type="subChapter" n="VII"/>
+                         <milestone unit="subchapter" n="VII"/>
                          <p>And now my story converges on what, in that queer corner of refuge out
                               of the world, was destined to be my uncle's deathbed. There is a
                               background of the Pyrenees, of blue hills and sunlit houses, of the
@@ -11718,7 +11718,7 @@
                               died-greatly comforted by my assurance. I do not know when he died.
                               His hand relaxed insensibly. Suddenly, with a start, with a shock, I
                               found that his mouth had fallen open, and that he was dead....</p>
-                         <milestone type="subChapter" n="VIII"/>
+                         <milestone unit="subchapter" n="VIII"/>
                          <p>It was dark night when I left his deathbed and went back to my own inn
                               down the straggling street of Luzon.</p>
                          <p>That return to my inn sticks in my memory also as a thing apart, as an
@@ -11762,7 +11762,7 @@
                               walker in the darkness, what shapes, what lights, it might be, loomed
                               about him as he went his way from our last encounter on earth-along
                               the paths that are real, and the way that endures for ever?</p>
-                         <milestone type="subChapter" n="IX"/>
+                         <milestone unit="subchapter" n="IX"/>
                          <p>Last belated figure in that grouping round my uncle's deathbed is my
                               aunt. When it was beyond all hope that my uncle could live I threw
                               aside whatever concealment remained to us and telegraphed directly to
@@ -11821,7 +11821,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE SECOND</head>
                          <head>LOVE AMONG THE WRECKAGE</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>When I came back I found that my share in the escape and death of my
                               uncle had made me for a time a notorious and even popular character.
                               For two weeks I was kept in London "facing the music," as he would
@@ -11941,7 +11941,7 @@
                          <p>"Beatrice!" I said. "Beatrice!"</p>
                          <p>"My dear," she whispered, nearly breathless, with her arms about me.
                               "Oh! my dear!"</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>Love, like everything else in this immense process of social
                               disorganisation in which we live, is a thing adrift, a fruitless thing
                               broken away from its connexions. I tell of this love affair here
@@ -12067,7 +12067,7 @@
                               Look at the warm evening light in the sky. Who cares if the canoe
                               upsets? Come nearer to me. Oh, my love! come near! So."</p>
                          <p>She drew me to her and our lips met.</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>I asked her to marry me once again.</p>
                          <p>It was our last morning together, and we had met very early, about
                               sunrise, knowing that we were to part. No sun shone that day. The sky
@@ -12190,7 +12190,7 @@
                          <p>What could I do? What was there to do?</p>
                          <p>"I wish-" I said, and stopped.</p>
                          <p>"Good-bye."</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>That should have been the last I saw of her, but, indeed, I was destined
                               to see her once again. Two days after I was at Lady Grove, I forget
                               altogether upon what errand, and as I walked back to the station
@@ -12227,7 +12227,7 @@
                     <div type="chapter">
                          <head>CHAPTER THE THIRD</head>
                          <head>NIGHT AND THE OPEN SEA</head>
-                         <milestone type="subChapter" n="I"/>
+                         <milestone unit="subchapter" n="I"/>
                          <p>I have tried throughout all this story to tell things as they happened
                               to me. In the beginning-the sheets are still here on the table, grimy
                               and dogs-eared and old-looking-I said I wanted to tell MYSELF and the
@@ -12261,7 +12261,7 @@
                          <p>How they will look in history I do not know, how time and chance will
                               prove them I cannot guess; that is how they have mirrored themselves
                               on one contemporary mind.</p>
-                         <milestone type="subChapter" n="II"/>
+                         <milestone unit="subchapter" n="II"/>
                          <p>Concurrently with writing the last chapter of this book I have been much
                               engaged by the affairs of a new destroyer we have completed. It has
                               been an oddly complementary alternation of occupations. Three weeks or
@@ -12454,7 +12454,7 @@
                               Kingdom, Britain and the Empire, the old prides and the old devotions,
                               glide abeam, astern, sink down upon the horizon, pass-pass. The river
                               passes-London passes, England passes...</p>
-                         <milestone type="subChapter" n="III"/>
+                         <milestone unit="subchapter" n="III"/>
                          <p>This is the note I have tried to emphasise, the note that sounds clear
                               in my mind when I think of anything beyond the purely personal aspects
                               of my story.</p>
@@ -12491,7 +12491,7 @@
                               formless, into doubts and dreams that have no words, and it seemed
                               good to me to drive ahead and on and or through the windy starlight,
                               over the long black waves.</p>
-                         <milestone type="subChapter" n="IV"/>
+                         <milestone unit="subchapter" n="IV"/>
                          <p>It was morning and day before I returned with the four sick and starving
                               journalists who had got permission to come with me, up the shining
                               river, and past the old grey Tower....</p>
