@@ -2376,7 +2376,7 @@
                               and he had exactly described the rig of the bark hours and hours
                               before the vessel herself hove in view. Now you know, Mr. Germaine,
                               how my wife’s far-away cousin kept an appointment with a ghost, and
-                              what came of it.” <ref target="#EN1624_N1">*</ref></p>
+                              what came of it.” <ref target="#ENG18760_N1" n="*"/></p>
                          <p>Concluding his story in these words, the doctor helped himself to
                               another glass of the “sherry wine.” I was not satisfied yet; I wanted
                               to know more.</p>
@@ -2437,13 +2437,7 @@
                               doctor, “though I own I’m anxious to hear what comes of your
                               expedition—understand at the same time, so far as the lady is
                               concerned, that I wash my hands of the consequences.”—</p>
-                         <note xml:id="EN1624_N1"> * The doctor’s narrative is not imaginary. It
-                              will be found related in full detail, and authenticated by names and
-                              dates, in Robert Dale Owen’s very interesting work called “Footfalls
-                              on the Boundary of Another World.” The author gladly takes this
-                              opportunity of acknowledging his obligations to Mr. Owen’s remarkable
-                              book. </note>
-
+                        
 
                     </div>
                     <div type="chapter">
@@ -8217,6 +8211,12 @@
                     <p>That is all. Permit us to wish you good-by. We are off to Naples.</p>
                </div>
           </body>
-          <back> </back>
+         <back><div type="notes"> <note xml:id="ENG18760_N1"> * The doctor’s narrative is not imaginary. It
+             will be found related in full detail, and authenticated by names and
+             dates, in Robert Dale Owen’s very interesting work called “Footfalls
+             on the Boundary of Another World.” The author gladly takes this
+             opportunity of acknowledging his obligations to Mr. Owen’s remarkable
+             book. </note>
+         </div> </back>
      </text>
 </TEI>
