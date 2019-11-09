@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="ENG19071"
-xml:lang="en">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19071" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -13,15 +15,9 @@ xml:lang="en">
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">115274</measure><measure unit="pages">364</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-02-28</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Project Gutenberg eBook of The Good Comrade, by Una L. Silberrad</title><ref
-target="gut:18060">Gutenberg</ref></bibl>
-<bibl type="firstEdition"><title>The good comrade</title>
-<author>Una Silberrad</author><publisher/><date>1907</date></bibl>
-</sourceDesc>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-28--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Good Comrade, by Una L. Silberrad</title><ref target="gut:18060">Gutenberg</ref></bibl><bibl type="firstEdition"><title>The good comrade</title>
+<author>Una Silberrad</author><publisher/><date>1907</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-0">
 <p/>
@@ -33,11 +29,11 @@ target="gut:18060">Gutenberg</ref></bibl>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-02-28">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -354,8 +350,7 @@ bending her brows as she looked at her father—"unless you borrowed—did you b
 <p>"Yes, yes," he said, rather eagerly; "I borrowed—that was it; of course I was going to pay back—I
 am going to pay back."</p>
 <p>"From whom did you borrow?" Another pause, and the question again, then the Captain explained
-confusedly: "The cheque—it came a day early—I merely meant to make use of it for the day—"<pb n="15"
-/></p>
+confusedly: "The cheque—it came a day early—I merely meant to make use of it for the day—"<pb n="15"/></p>
 <p>"The cheque!" Julia repeated, with dawning comprehension. "The cheque from Slade &amp; Slade that
 mother was speaking of this morning. Our cheque, the money we have to live on for the next three
 months?"</p>
@@ -375,8 +370,7 @@ coherent explanations and excuses, to which she did not listen, and then relapse
 Johnny sat opposite, rubbing his hands in nervous sympathy, and looking from father to daughter; he
 took the silence of the one to be as hopeless as that of the other.</p>
 <p>"We thought," he ventured at last, tugging at the parcel now firmly wedged in his pocket. "We
-hoped, that is, we thought perhaps we might raise a trifle, it wouldn't be much help—"<pb n="16"
-/></p>
+hoped, that is, we thought perhaps we might raise a trifle, it wouldn't be much help—"<pb n="16"/></p>
 <p>But neither of the others were listening to him, and Captain Polkington interrupted with his own
 remedy, "We shall have to manage on credit," he said; "we can get credit for this three months."</p>
 <p>"We can't," Julia assured him; "the greater part of that money was to have paid outstanding
@@ -442,8 +436,7 @@ and again, at cards and so on; a trifling accommodation."</p>
 <p>Julia nodded; this was bad, but it might have been worse. Mr. Rawson-Clew was not a personal
 friend of the Polkingtons, and he was not a man in an inferior position who might presume upon his
 loan to the Captain to establish a friendly footing. On the contrary, he was in a superior position,
-so much so that for a moment Julia was at a loss to understand how he came to accommodate <pb n="19"
-/>her father. Then she recalled his face—he had been pointed out to her—he looked a good-natured
+so much so that for a moment Julia was at a loss to understand how he came to accommodate <pb n="19"/>her father. Then she recalled his face—he had been pointed out to her—he looked a good-natured
 fool; probably he had met the Captain somewhere and been sorry for him, or perhaps he did not like
 to say "no." In any case he had lent the money and, so Julia fancied, would have to wait a very long
 time before he saw it again. She dismissed the young man from her mind and fell to working out plans
@@ -462,8 +455,7 @@ world need not know he was a guest that paid.</p>
 <p>Julia was not satisfied with these plans; they would barely meet the difficulty she knew, even
 with credit stretched to the uttermost and the household crippled for some time; but she could think
 of nothing better, and determined to suggest them to Mrs. Polkington. With these thoughts in her
-mind, she went up-stairs; as she passed the drawing-room, she noticed that the blinds had<pb n="20"
-/> not been pulled down; she went to the window to remedy the omission, and so saw in the street
+mind, she went up-stairs; as she passed the drawing-room, she noticed that the blinds had<pb n="20"/> not been pulled down; she went to the window to remedy the omission, and so saw in the street
 below the young man who, with the debt owing to him, she had lately dismissed from her mind. There
 was a street lamp directly below the window, and she stood a moment by the curtain looking down. Mr.
 Rawson-Clew was riding past, but slowly; it was quite possible to see his face, which did not
@@ -880,8 +872,7 @@ can cook like a Frenchwoman, and that is something. As for Joost, it is surely o
 to him, he is too quiet to say anything to her; she talks little; she must be shy."</p>
 <p>Denah had nothing to say to this, although, seeing in which person her own interest in the Van
 Heigens lay, she possibly found some comfort in the assurance. After a little she remarked, "That
-girl has no accomplishments; she is as old-fashioned as our Aunt Barje, a <hi>huisvrouw</hi>, <pb
-n="41"/>no more. It is strange, for the English women make fun of us for this, and pretend that they
+girl has no accomplishments; she is as old-fashioned as our Aunt Barje, a <hi>huisvrouw</hi>, <pb n="41"/>no more. It is strange, for the English women make fun of us for this, and pretend that they
 are educated and advanced above us; she is not, she can do nothing but speak a few languages; she
 cannot sing nor play, she has read no science, she cannot draw, nor model in wax, nor make paper
 flowers, nor do bead work; she could not even crochet till I showed her how. I wonder if she has
@@ -1489,8 +1480,7 @@ remaining gaps in both.</p>
 <p>The letters came on Tuesday, as Julia expected, a little before dinner time; she was still
 reading them when Mijnheer and his son came in from the office. Joost smiled sympathetically when he
 saw she had them, glad on her account; and she, almost unconsciously, crumpled together the sheets
-that lay on the table beside her, as if she were afraid they would betray their contents to him.<pb
-n="71"/></p>
+that lay on the table beside her, as if she were afraid they would betray their contents to him.<pb n="71"/></p>
 <p>"You have good news from home?" said Mijnheer; "your parents are well?"</p>
 <p>"Quite well, thank you," Julia answered. She had just come to the place in her father's letter
 where he regretted that such very light refreshments were the fashion at wedding receptions. "It is,
@@ -1650,8 +1640,7 @@ about the weather, and the road, and the quantity of soup that had been spilled.
 <p>She pulled herself together, and, feeling the situation to be beyond remedy, determined to bear
 herself bravely, and carry it off with what credit she could. She glanced at the more than
 half-empty soup can. "I am afraid you are right," she said; "there is a great deal of it gone;
-still, that is not without advantage—I shall be sent to take some more in a day or two."<pb n="79"
-/></p>
+still, that is not without advantage—I shall be sent to take some more in a day or two."<pb n="79"/></p>
 <p>"You wish that?" he inquired.</p>
 <p>"Yes," she answered, "I find the exercise beneficial; I have had too much pudding lately."</p>
 <p>He looked politely surprised, and she went on to explain.</p>
@@ -2034,8 +2023,7 @@ words do not."</p>
 <p>"Yes; it is full of notes like a violin, and speaks more than words. I suppose all voices have
 many notes really, but people do not often use them; they use only a few. You use many; that is why
 I like to listen to you when you talk to my parents, or any one. It is like a master playing on an
-instrument; you make simple words mean much, more than I understand sometimes; you can caress<pb
-n="98"/> and you can laugh with your voice; I have heard you do it when I have not been able to
+instrument; you make simple words mean much, more than I understand sometimes; you can caress<pb n="98"/> and you can laugh with your voice; I have heard you do it when I have not been able to
 understand what you caress, or at what you laugh, any more than an ignorant person can understand
 what the violin says, although he may enjoy to hear it. To-night you do not caress or laugh; there
 is something black in your thoughts."</p>
@@ -2216,8 +2204,7 @@ systematically, and without haste; she did not hurry past the resting-place of t
 they were safe from her now and always.</p>
 <p>It was not till some weeks later that she saw, and not then without also seeing it was quite
 impossible to disprove the proposition, that there was something grimly absurd in the idea which had
-possessed her that night—the thought of stealing to prove a lie, and acting dis<pb n="107"
-/>honourably to pay a debt of honour. At the time she did not think at all, she acted on instinct
+possessed her that night—the thought of stealing to prove a lie, and acting dis<pb n="107"/>honourably to pay a debt of honour. At the time she did not think at all, she acted on instinct
 only. Thank God for those dumb instincts, making for righteousness, which, in spite of theologians,
 are implanted somewhere in the heart of man.</p>
 <p>So she went the rounds, fastened the barns, and came out of the last one, locking the door after
@@ -2262,8 +2249,7 @@ sure of that, but they did not want the trouble of attempting to convert her, an
 they could do much better without her, and Mrs. Polkington wrote and intimated as much politely. She
 gave several excellent reasons, all of which were perfectly transparent to Julia, though that did
 not matter, seeing that she was sufficiently hurt in her feelings, or her pride, to at once
-determine to fulfil her mother's wishes and do anything rather than go where she was not wanted.<pb
-n="110"/></p>
+determine to fulfil her mother's wishes and do anything rather than go where she was not wanted.<pb n="110"/></p>
 <p>There was not much said of the plans and doings in Mrs. Polkington's letter, but a little crept
 in almost without the writer's knowledge, enough to rouse Julia's suspicions. Why, she asked
 herself, was her mother suddenly enamoured with the beauty of Chippendale furniture? How did she
@@ -2283,8 +2269,7 @@ away.</p>
 <p>These two disturbing letters arrived on the day that Joost came home from Germany, after the
 English mail for the day had gone. Julia comforted herself with this last fact when she was called
 before she had time to write to her mother; she could write when she went to bed that night; the
-letter would go just as soon as if it was written now; so she went to answer Mevrouw's summons to<pb
-n="111"/> admire the carved crochet hook her son had brought her as a present from Germany. Joost
+letter would go just as soon as if it was written now; so she went to answer Mevrouw's summons to<pb n="111"/> admire the carved crochet hook her son had brought her as a present from Germany. Joost
 had brought several small presents besides the crochet hook, a pipe for his father, and two other
 trifles—a small vase and a photograph of a plant which was the pride of the Berlin gardens that
 year—an aloe, no yucca, but one of the true rare blooming sort, in full flower. Julia was asked to
@@ -2324,8 +2309,7 @@ pocket, and as she went she kept turning and turning their news in her mind thou
 result. There seemed very little she could do except prevent the banishing of her father to London.
 She would write to her mother about that, and, what might be rather more effective, to Mr. Gillat.
 She could tell him it must not happen, and instruct him how to place obstacles in the way; he would
-do his best to fulfil her requests, she was sure, even to going down to Marbridge and establish<pb
-n="113"/>ing himself there about the time of her father's intended departure. But with regard to the
+do his best to fulfil her requests, she was sure, even to going down to Marbridge and establish<pb n="113"/>ing himself there about the time of her father's intended departure. But with regard to the
 rest of her mother's plans, or Chèrie's, whichever it might be, there seemed nothing to be done. To
 write would be useless; to go home, even if she swallowed her pride and did so, very little better;
 of course she had not anything very definite to go upon, only a hint here and there, yet she guessed
@@ -2432,8 +2416,7 @@ indicated, my morality is rather mechanical and my experience much as other men'
 have graduated in the study of humanity in the university of cosmopolis; I don't think my degree is
 as high as yours, and I certainly did not take it so young, but I believe I know an adventuress when
 I see one. You will never do in that walk of life; I don't mean to insinuate that you haven't brains
-enough, or that you would ever lose your head; it isn't that you would lose, it's your heart."<pb
-n="118"/></p>
+enough, or that you would ever lose your head; it isn't that you would lose, it's your heart."<pb n="118"/></p>
 <p>"I haven't;" Julia cried hotly. "I have not lost my heart; that has nothing to do with it."</p>
 <p>"I did not say that you had," Rawson-Clew reminded her; "of course not, you have not lost it, and
 could not easily. I did not mean that; I only meant that it would interfere with your success as an
@@ -2496,8 +2479,7 @@ rather; they are to be had on each of the three days."</p>
 <p>"Never heard of them," the old man exclaimed. "They do not have them, I suppose, on an English
 bank holiday? Then certainly you must have them here; we will go and eat them on the first day of
 the fair, when everything is nice and clean, and there are not too many people about. I will find a
-nice quiet place, and we will go and eat them together, after tea, before there are great crowds.<pb
-n="121"/> Will you come with me? I shall be taking my young lady to the fair like a gay dog."</p>
+nice quiet place, and we will go and eat them together, after tea, before there are great crowds.<pb n="121"/> Will you come with me? I shall be taking my young lady to the fair like a gay dog."</p>
 <p>He chuckled at the idea, and Julia readily agreed. "I shall be delighted," she said.</p>
 <p>When Denah came, a little later, it seemed she would be delighted too, although she was not
 specially asked. But when she heard of the plan, she announced that her father had promised to take
@@ -2718,8 +2700,7 @@ passed it, there was no one about, every one had gone to the fair, except one ta
 brought the required things and then shut herself in the house. The meal was spread under the trees
 on a little green-painted table, with legs buried deep in sand; there were two high, straight chairs
 set up to the table, and a wooden footstool put by one for Julia, who, seeing it, said this was
-certainly a picnic, and it was really necessary to eat the <hi>broodje</hi> in the correct<pb
-n="132"/> picnic way. Rawson-Clew tried, with much gravity, but she laughed till the taciturn old
+certainly a picnic, and it was really necessary to eat the <hi>broodje</hi> in the correct<pb n="132"/> picnic way. Rawson-Clew tried, with much gravity, but she laughed till the taciturn old
 woman looked out of window, and wondered who they were, and how they came to be here.</p>
 <p>When the meal was done, they went back again up the steep slope, and then away on the left. The
 country on this side was less open, and more hilly, deeper hollows and larger woods, still there was
@@ -2905,8 +2886,7 @@ shall be able to find the way quite as easily from one place as another when the
 <p>They found as sheltered a spot as they could, and sat down under a big tree; as they did so his
 hand came in contact with Julia's wet sleeve and cold arm. "How cold you are!" he said. "You have
 nothing on."</p>
-<p>"Oh, yes, I have," she assured him. "I did not avail myself of your permission this morning."<pb
-n="141"/></p>
+<p>"Oh, yes, I have," she assured him. "I did not avail myself of your permission this morning."<pb n="141"/></p>
 <p>He took off his coat and put it round her.</p>
 <p>But she threw it off again. "That won't do at all," she said; "now you have nothing on, and that
 is much more improper; women may sit in their shirt sleeves, men may not."</p>
@@ -3063,8 +3043,7 @@ must do it alone." And before he realised what she was doing, she had run off, d
 an empty flower-bed and among some brushes behind.</p>
 <p>In considerable anger he turned to follow her, but he pulled himself up; there was very little
 use in that and no need for it either; he was sure she was far too skilful a tactician to imperil an
-affair by unwise flight; this was a blind merely—unless, of course, she thought of setting<pb
-n="149"/> out to find these Dutch people, wherever they might be. He asked the staring servant where
+affair by unwise flight; this was a blind merely—unless, of course, she thought of setting<pb n="149"/> out to find these Dutch people, wherever they might be. He asked the staring servant where
 her master and mistress were; it took time for him to make out her answers, but at last he did.
 Mijnheer was at a place (or house) with a name he had never before heard, and would have been
 puzzled to say now from this one hearing. It was a distant bulb farm, and Mijnheer had gone there on
@@ -3082,8 +3061,7 @@ way that led to the market, not the residential part of the town.</p>
 little short of absurd, if, indeed, it had not been seriously compromising to Julia, for him to
 present himself at the house of the notary—when he could find it—and tell Vrouw Van Heigen he had
 brought Julia home and she was afraid to appear with him. Either he and she must act together and
-appear together, or else he must, as she desired and now made necessary, keep out of it alto<pb
-n="150"/>gether. Considerably annoyed with the girl, but at the same time uneasy about her, he went
+appear together, or else he must, as she desired and now made necessary, keep out of it alto<pb n="150"/>gether. Considerably annoyed with the girl, but at the same time uneasy about her, he went
 to his hotel.</p>
 <p>As the morning wore on, the annoyance lessened and the uneasiness grew. After all he was not sure
 that Julia had thrown away much by refusing to have the support of his company; had they two been
@@ -3262,8 +3240,7 @@ know the English girl in her true colours now, and be justly disgusted and shock
 had ever ridden beside her on a merry-go-round.</p>
 <p>Just then Julia passed carrying a tray of cups. "Denah," she said, pitching her voice soft and
 low in the tone the Dutch girl hated most, "I will give you a piece of advice; take care how you
-tell Joost about my wickedness; you want to be ever so clever to abuse another girl to a<pb n="159"
-/> man; it is one of the most difficult things in the world—and you are not very clever, you know,
+tell Joost about my wickedness; you want to be ever so clever to abuse another girl to a<pb n="159"/> man; it is one of the most difficult things in the world—and you are not very clever, you know,
 not even clever enough to take my advice."</p>
 <p>Denah was not clever enough to take the advice nor in any humour to do so; she stared angrily at
 Julia, who unconcernedly put the cups on the table and vanished into the kitchen.</p>
@@ -3372,8 +3349,7 @@ bushes, and he would never know how to take care of himself.</p>
 <p>"Well?" she said, when she had taken up this discreet position. But as he did not seem ready she
 went on, "I really don't think there is anything to say; I did wrong yesterday, not quite as much
 wrong as your mother and Denah think, still wrong—what my own people would have disapproved, at
-least if it were found out; that's the biggest crime on their list—and what I knew your peo<pb
-n="164"/>ple would condemn utterly. I am afraid I have no excuse to offer; I knew what I was doing,
+least if it were found out; that's the biggest crime on their list—and what I knew your peo<pb n="164"/>ple would condemn utterly. I am afraid I have no excuse to offer; I knew what I was doing,
 and I did it with my eyes open. I did not see any harm in it myself but I knew other people would,
 so I meant to say nothing. I had deceived your parents before, and I meant to keep on doing it. You
 know I had walked with that man lots of times before yesterday; all the time your mother thought me
@@ -3831,8 +3807,7 @@ dry, not strong at all, more a memory than a scent. He did not recognise what it
 it came, but it reminded him of something, he could not think what.</p>
 <p>He puzzled over it as he cut the flower stalks, then all at once he laid hold on the edge of a
 recollection—a pair of dark eyes, in which mirthful, mocking lights flickered, as the sun splashes
-flicker on the ground under trees—a voice, many-noted as a violin, that grew softest when it<pb
-n="187"/> was going to strike hardest, that expressed a hundred things unsaid.</p>
+flicker on the ground under trees—a voice, many-noted as a violin, that grew softest when it<pb n="187"/> was going to strike hardest, that expressed a hundred things unsaid.</p>
 <p>He looked across at the owner of the carnations, and wondered by what perversity of fate it was
 decreed that any one who could buy such good boots, should have such ill-shaped feet to put into
 them; and why, if fate so handicapped her, why she should exhibit them by crossing her knees. He
@@ -3947,8 +3922,7 @@ had still another chance of hearing something; she would soon have to take the c
 laboratory; they might be speaking of it then. She remembered once before Van de Greutz had spoken
 of it to a scientific guest at such a time; she had then heard some unenlightening technical
 details, which might have been of some value to a chemist, but were of no use at all to her
-ignorance. It was hard to come thus near, and yet be as far off as ever, but such things are<pb
-n="193"/> likely to occur when one is in pursuit of anything, Julia knew that; she was prepared to
+ignorance. It was hard to come thus near, and yet be as far off as ever, but such things are<pb n="193"/> likely to occur when one is in pursuit of anything, Julia knew that; she was prepared to
 wait, by and by she would find out what it was she wanted, and then—</p>
 <p>A bell rang peremptorily; she hastily poured the strong black coffee into the two cups, and put a
 bottle of Schiedam on the tray. As she did so she noticed that it was nearly empty, so she fetched
@@ -4069,8 +4043,7 @@ it—if he received it anonymously, so that he could not tell from whence it cam
 divide the credit of getting it between him and another. He wanted it, and he had been good to her.
 He had been kind when she was in trouble; he had not believed her when she had called herself
 dishonest; he had treated her as an equal, in spite of the affair at Marbridge, and he had asked her
-to marry him when he thought she was compromised by the holiday in the Dunes. For a moment her<pb
-n="199"/> mind strayed from the point at issue, to that offer of marriage. She remembered the exact
+to marry him when he thought she was compromised by the holiday in the Dunes. For a moment her<pb n="199"/> mind strayed from the point at issue, to that offer of marriage. She remembered the exact
 wording of the letter as if she had but just received it, and it pleased her afresh. She did not
 regret that she had refused him; nothing else had been possible. She did not want to marry him;
 albeit, when they had sat together under his coat, she had not shrunk from contact with him as she
@@ -4405,8 +4378,7 @@ about the legacy.</p>
 <p>"It is more than I thought," she said, before they were half down the street. "Fifty pounds a
 year, a small house—not much more than a cottage—and a garden and field; that's about what it comes
 to. The house is not worth much; it is in an unget-at-able part of Norfolk, in the sandy district
-towards the sea—the man spoke as if I knew where that was, but I don't—and the garden and<pb n="216"
-/> field are not fertile. I don't suppose one could let the place, but one could live in it, if one
+towards the sea—the man spoke as if I knew where that was, but I don't—and the garden and<pb n="216"/> field are not fertile. I don't suppose one could let the place, but one could live in it, if one
 wanted to."</p>
 <p>"Yes, yes," Johnny said, "of course; you will have your own estate to retire to; quite an
 heiress—your mother will be pleased."</p>
@@ -4616,8 +4588,7 @@ to be burdened. But the Captain's feelings were hurt; he was surprised and injur
 of little besides the hardness of fate and the fact that his brother-in-law misunderstood him. He
 turned to his wife for support, and she supported, corroborating both what he said and what her
 brother did too, though they were diametrically opposed. It looked rather as if the discussion were
-going to wander off into side issues, but Julia brought it back by inquiring of her uncle<pb n="227"
-/>—</p>
+going to wander off into side issues, but Julia brought it back by inquiring of her uncle<pb n="227"/>—</p>
 <p>"What part have I in this scheme?"</p>
 <p>"You will help your mother," he answered, "and of course the concern will be nominally yours;
 that is to say, you will put your money in it, invest it in that instead of railways or whatever it
@@ -4804,8 +4775,7 @@ had a chance of doing before.</p>
 <p>So everything was decided. The house in East Street was to be given up, and most of its contents
 sold; as Julia's cottage was furnished already with Aunt Jane's things, she need only take a few
 extras from the home. The debts were to be paid as far as possible now, and the small income was to
-be divided; part was to go as pin money to Mrs. Polkington, the main part of the re<pb n="236"
-/>mainder to go to the debts, and a very small modicum to come with the Captain to the cottage.</p>
+be divided; part was to go as pin money to Mrs. Polkington, the main part of the re<pb n="236"/>mainder to go to the debts, and a very small modicum to come with the Captain to the cottage.</p>
 <p>Julia was quite satisfied, and let it be apparent. This, with her obvious cheerfulness, rather
 incensed Violet, who regarded the sale of their effects as rather a disgrace, and Julia's plans for
 the future, as a great one.</p>
@@ -5023,8 +4993,7 @@ be quite as bad; you know, she is not in the least ashamed of herself."</p>
 <p>Mrs. Polkington did know it. "I believe you are right," she said, with the air of one convinced
 against her will; "Julia has voluntarily cut herself adrift from her own class; it would be
 unpleasant and embarrassing for her as well as for other people to force her into any connection
-with it again; I don't think any purpose can be served by reopening an acquaintance with Mr. Raw<pb
-n="247"/>son-Clew, we did not know him at Marbridge"—she never forgot that his circle there did not
+with it again; I don't think any purpose can be served by reopening an acquaintance with Mr. Raw<pb n="247"/>son-Clew, we did not know him at Marbridge"—she never forgot that his circle there did not
 think her good enough to know. "I cannot imagine that it would be advantageous for Julia to write to
 him or hear from him under the present circumstances. He comes of a Norfolk family, too (Mrs.
 Polkington always knew about people's families even when she did not know them personally; it was
@@ -5231,8 +5200,7 @@ gentleman. It is true he did not get fir-cones that day, but he really meant to 
 <p>Julia, in the meantime, did her shopping, and, having loaded herself with as much as she could
 carry—more than most people could except those Continental maids and mistresses who do their own
 marketing, she started for home. It was a long walk—a long way to Halgrave and a good bit beyond
-that to the cottage. She did not expect to reach the village till dusk, but she thought very<pb
-n="258"/> probably she would find her father or Mr. Gillat there; she had suggested that one or both
+that to the cottage. She did not expect to reach the village till dusk, but she thought very<pb n="258"/> probably she would find her father or Mr. Gillat there; she had suggested that one or both
 of them should come to meet her and help carry the parcels the rest of the way.</p>
 <p>Johnny fell in with the suggestion; she saw him through the twilight before she reached the
 village. Her father, she concluded, was still sulky at her refusal to have his company earlier and
@@ -5859,8 +5827,7 @@ did not attempt to hide it.</p>
 expected, but the rogue in her made her wary even of the seemingly simple and safe. "I called it
 after three friends," she said, "who were good comrades to me—you, Johnny and Joost Van Heigen. Why
 do you ask?"</p>
-<p>"Because I wondered if it was a case of telepathy; I also named something 'The Good Comrade.'"<pb
-n="289"/></p>
+<p>"Because I wondered if it was a case of telepathy; I also named something 'The Good Comrade.'"<pb n="289"/></p>
 <p>"You?" she said. "What did you name? Was it a dog?"</p>
 <p>"No, a bottle—small, wide-necked, stopper fastened with a piece of torn handkerchief, about
 two-thirds full of a white powder!"</p>
@@ -5880,8 +5847,7 @@ man. He is not content with a manifestation any more than with a spiritual prese
 corporal fact."</p>
 <p>Julia looked up; the talk was taking an unforseen turn that she did not quite follow, so she
 looked up. And then she read something in his face that set her heart beating, that made her afraid,
-less perhaps of him than of herself, and the thrill that ran like fire through her body.<pb n="290"
-/></p>
+less perhaps of him than of herself, and the thrill that ran like fire through her body.<pb n="290"/></p>
 <p>"I don't quite understand," she said, and dropped a cup.</p>
 <p>It was meant to fall on the flagged floor and break; it would create a diversion, and picking up
 the pieces would give her time to get used to the suffocating heart-beats. She had enough of the
@@ -6169,8 +6135,7 @@ the whole of my income, doing without everything but the barest necessaries, wit
 that are necessaries in my state of health, what your mother is doing, how she has given up her
 home, her husband, to live almost on charity in her son-in-law's house. When you think of all that,
 I say, and of what your sisters have done, it does seem strange that you should grudge this bulb,
-simply and solely because it was given you by some people for whom you care nothing."<pb n="304"
-/></p>
+simply and solely because it was given you by some people for whom you care nothing."<pb n="304"/></p>
 <p>Julia agreed; she never saw the purpose of contradicting when conviction was out of the question.
 "It does seem strange," she said; "but there is one comfort, the worst of the debts will be cleared
 off by the end of the year. Uncle William knows that and has arranged for it in his own mind; I
@@ -6268,8 +6233,7 @@ occurred to him before—because it was the Van Heigens' present, and one cannot
 perfectly understood the scruple, honoured it even; but he also saw quite plainly that, though it
 prevented her from selling the daffodil, it did not stand in the way of its being sold. She could
 not, of course, authorise the sale, any more than she could conduct it; but that was no reason why
-she should not be very pleased to have it sold. Indeed, not only was this a probability,<pb n="309"
-/> practically a certainty, but more than likely she had had some such idea in her mind when she
+she should not be very pleased to have it sold. Indeed, not only was this a probability,<pb n="309"/> practically a certainty, but more than likely she had had some such idea in her mind when she
 spoke of the matter to her father—in all likelihood she was wondering now why he had not taken the
 hint.</p>
 <p>Thus Captain Polkington reasoned, seeing light at last in the dimness of the depression which had
@@ -6468,8 +6432,7 @@ for him to grudge that to himself.</p>
 <p>So he lunched and then the trouble began. He was not clear quite how it happened; at least, owing
 to the confusion there always was in his mind between facts as they were, as he wished them to be,
 and as they appeared in retrospect—he was never able to explain it thoroughly. There were other men
-lunching at the same time; he still had the Polkington faculty for making friends and ac<pb n="319"
-/>quaintances; he still, too, had the appearance and manner of a gentleman, if of somewhat reduced
+lunching at the same time; he still had the Polkington faculty for making friends and ac<pb n="319"/>quaintances; he still, too, had the appearance and manner of a gentleman, if of somewhat reduced
 circumstances. He apparently made acquaintances; exactly how many and what sort is not certain, the
 account was very confused here. There was a whisky and soda in it, two whiskies and sodas, or even
 three; a cigar, a game of billiards—perhaps there was more than one game, or some other game besides
@@ -6611,8 +6574,7 @@ the words kept coming to her—and he, the man whom she never named to herself, 
 good comrade! She bowed her face to her knees and sat motionless.</p>
 <p>She had told him the truth about herself; she had not been ashamed; she would not have been even
 if she had taken the daffodil. But her father! She was ashamed for him with a bitter shame; ashamed
-of herself and him too, in thought and intention at least they were one, <pb n="327"
-/>double-dealers. "Two grubby little people," as she had seen them long ago when they first stood in
+of herself and him too, in thought and intention at least they were one, <pb n="327"/>double-dealers. "Two grubby little people," as she had seen them long ago when they first stood in
 company with that man.</p>
 <p>"But you don't know; you have not our temptations." She almost spoke aloud, unconsciously
 addressing the dewy silence as her mind called the man plainly before her. "You have never wanted
@@ -7199,8 +7161,7 @@ proper feeling. It is conceivable she would have found satisfaction in being shi
 aristocratic company, without at the same time, suffering less than she ought to suffer.</p>
 <p>After the funeral they returned to the cottage and had a repast of Julia's providing, eminently
 suitable to the occasion. Everything was eminently suitable, every one's behaviour, every one's
-clothes; Mr. Frazer's grave face, the banker's jerky manner—the manner of a man con<pb n="356"
-/>cerned with the world's money market and ill at ease in the intrusive presence of death. Mrs.
+clothes; Mr. Frazer's grave face, the banker's jerky manner—the manner of a man con<pb n="356"/>cerned with the world's money market and ill at ease in the intrusive presence of death. Mrs.
 Polkington's voice, face, feelings, sayings, everything. Julia's own behaviour was perfect, though
 all the time she saw how it looked as plainly as if she had been another and disinterested person,
 and once or twice she had an hysterical desire to applaud a good stroke of her mother's or prompt a
@@ -7239,8 +7200,7 @@ not be long before he saw her; Mrs. Polkington reiterated the remark, kissing he
 they drove away and Julia went into the house. She went into the back kitchen; Mr. Gillat was not
 there; the dishes were all put away and the place was quite tidy. Julia went through to the front
 kitchen; there she saw Johnny; he was kneeling by the Captain's old chair, his arms thrown across
-the seat, his silly pink face buried in them, his rounded shoulders shaking with sobs.<pb n="358"
-/></p>
+the seat, his silly pink face buried in them, his rounded shoulders shaking with sobs.<pb n="358"/></p>
 <p>Johnny loved as a dog loves, without reason, without thought of return; not for wisdom, worth or
 deserts, just because he did love and, having once loved, loved always; forgiving everything,
 expecting nothing—foolish, faithful, true. So he loved his friend, so he mourned him now,

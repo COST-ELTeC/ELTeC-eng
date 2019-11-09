@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18890">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>The Prophet's Mantle : ELTeC edition</title>
-                <author  ref="viaf:7394811">Nesbit, Edith (1858-1924)</author>
+                <author ref="viaf:7394811">Nesbit, Edith (1858-1924)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Lou Burnard</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">97965</measure><measure unit="pages"
-                >320</measure></extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC <date>2019-01-13</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl><title>The Project Gutenberg eBook of The Prophet's Mantle, by Fabian
+            <extent><measure unit="words">97965</measure><measure unit="pages">320</measure></extent>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-13--></publicationStmt>
+            <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Prophet's Mantle, by Fabian
                         Bland.</title><ref target="gut:55244">Gutenberg</ref>
-                    </bibl>
-            
-                        <bibl type="firstEdition" n="B8322"><title>The Prophet's
+                    </bibl><bibl type="firstEdition" n="B8322"><title>The Prophet's
                                 Mantle</title><author>Fabian Bland</author>
                             <publisher>London: H. J. Drane</publisher>
-                            <date>1889</date></bibl>
-                    
-            </sourceDesc>
+                            <date>1889</date></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0"> <p/></encodingDesc>
         <profileDesc>
@@ -39,7 +35,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2019-01-13">LB convert to ELTeC-1</change>
         </revisionDesc>
     </teiHeader>
@@ -180,8 +176,7 @@
                 <p>Count Litvinoff had been away ten days, and would be away as long again. He had
                     gone to a meeting of friends of the cause at Odessa, and Percival felt the
                     strength of his enthusiasm beginning to give way before the appalling deadly
-                    dulness of his perfectly solitary life. There was not a creature to speak to<pb
-                        n="6"/> within miles except the servants, and Russian servants, as a class,
+                    dulness of his perfectly solitary life. There was not a creature to speak to<pb n="6"/> within miles except the servants, and Russian servants, as a class,
                     are not much of a resource against <hi>ennui</hi>.</p>
                 <p>He flung down his pen at last, leaned back in his chair, and poured himself out
                     some more wine. He held it up to the light to admire its ruby colour, and then
@@ -1668,8 +1663,7 @@
                     for having incurred the personal spite of some members of the police, aged men
                     and tender girls had been, and were, at that moment while he spoke to them,
                     being delivered over to the torture chambers of the Russian monarch, to be
-                    scourged and starved, to be devoured by disease and riven by madness. He<pb
-                        n="64"/> told them how tyranny always had treated—how while it exists,
+                    scourged and starved, to be devoured by disease and riven by madness. He<pb n="64"/> told them how tyranny always had treated—how while it exists,
                     tyranny always will treat the sons of men.</p>
                 <p>Then, when many among his audience had broken out into groans of indignation and
                     cries of 'Shame!' the usual note of an indignant English audience, the speaker
@@ -2226,8 +2220,7 @@
                     that it made round the supports of the bridge. The lights along the Embankment,
                     with their perfect reflections, might have seemed almost Venetian to anyone
                     inclined to take a more rose-coloured view of things than she. To her they only
-                    brought a maddening remembrance of the time when she—not alone then—had first<pb
-                        n="88"/> seen them from the windows of the Arundel Hotel. The noise of the
+                    brought a maddening remembrance of the time when she—not alone then—had first<pb n="88"/> seen them from the windows of the Arundel Hotel. The noise of the
                     water against the bridge was very like the sound of the waters rushing round the
                     stones in the Derbyshire streams—only those waters had always made a song that
                     was to be enjoyed, not understood—and this dark tide, as it broke against the
@@ -2334,8 +2327,7 @@
                 <p>'Have some of this,' was his answer, and soon Alice began to feel a returning
                     sense of physical comfort steal through her, as she sat resting by the cheering
                     fire, drinking the hot coffee from a tin mug, with a slice of bread and cheese
-                    on her knee, while her companion kept up a constant ripple of somewhat<pb n="92"
-                    /> inconsequent talk, which was his notion of 'making conversation' for his
+                    on her knee, while her companion kept up a constant ripple of somewhat<pb n="92"/> inconsequent talk, which was his notion of 'making conversation' for his
                     guest. She took her part in the dialogue with an ease which surprised herself.
                     It seems very strange that people should not be more affected than they
                     generally are by having been face to face with death. The fact is, that it is so
@@ -3019,8 +3011,7 @@
                     visible agency, in defiance of the laws of gravitation.</p>
                 <p>'Now then, my good man,' she began, in answer to Petrovitch's tap at the open
                     door, 'we don't want no Scripture reading here. Thank the Lord, I knows my Bible
-                    duty, and does it, which wasn't I up this very morning afore five, which is<pb
-                        n="118"/> more than you can say, I'll go bail. There's some needs talking
+                    duty, and does it, which wasn't I up this very morning afore five, which is<pb n="118"/> more than you can say, I'll go bail. There's some needs talking
                     to. Why don't you go after my master an' teach him the ten commanders if you
                         <hi>wants</hi> to Bible read?'</p>
                 <p>'But I don't want to Bible read,' said Petrovitch, as she ended with a snap of
@@ -3464,8 +3455,7 @@
                     have still some hopes that are not forlorn, and the position of an English
                     landowner is not unenviable. It would at anyrate enable one to give cheques with
                     a freer hand to any mysterious stranger with dirty linen whose anonymous lady
-                    friends may happen to be hard up. Hullo, my friend!'—as his eye fell on<pb
-                        n="135"/> the cigar-case—'I'd almost forgotten you. I suppose I must be
+                    friends may happen to be hard up. Hullo, my friend!'—as his eye fell on<pb n="135"/> the cigar-case—'I'd almost forgotten you. I suppose I must be
                     about my business. There are very few men, I am convinced, who work as hard for
                     "the daily crust" as I do.' He flung the end of his cigarette in the fire, and
                     put on his coat.</p>
@@ -3516,8 +3506,7 @@
                     ended Litvinoff, raising his eyebrows ingenuously.</p>
                 <p>Richard's first impulse was to request the Count to mind his own business, but he
                     remembered that the interferer was a foreigner, and besides, Litvinoff's manner
-                    was so honest, and what he said was true enough. He certainly must be disin<pb
-                        n="137"/>terested. So he constrained himself to say, with very little change
+                    was so honest, and what he said was true enough. He certainly must be disin<pb n="137"/>terested. So he constrained himself to say, with very little change
                     of manner,—</p>
                 <p>'If my brother wishes to disprove any charges I may bring, he'd better disprove
                     them to me.'</p>
@@ -3866,8 +3855,7 @@
                 <p>But he knew that now this rivalry could not be successful. His great love for her
                     prevented his seeing the realities that underlay the superficial side of her
                     character, so that he actually believed her to be the last woman in the world
-                    one could dare to ask to share poverty. He knew that his own chance,<pb n="151"
-                    /> such as it had been, was lost; but he knew, too, that his brother's chance
+                    one could dare to ask to share poverty. He knew that his own chance,<pb n="151"/> such as it had been, was lost; but he knew, too, that his brother's chance
                     was also at an end. This did not make him less determined that the quarrel
                     should be <hi>à outrance</hi>.</p>
                 <p>'Cutting off one's nose to spite one's face' is such a wildly irrational act that
@@ -4732,8 +4720,7 @@
                     'show his guest over' the mill, and Litvinoff, always glad of a new experience,
                     joyfully consented. The mill was charmingly situated in a little hollow in the
                     hills, with a big reservoir above it and a little stream below. On one side was
-                    a wood, where a good many hollies kept up the impression of greenness,<pb
-                        n="184"/> though all the other trees were sere and brown. On the other side
+                    a wood, where a good many hollies kept up the impression of greenness,<pb n="184"/> though all the other trees were sere and brown. On the other side
                     was a very steep incline which shot up almost like a high wall, and was bare and
                     rugged and rocky, and from the top some rude steps cut out of the grey rock led
                     down to the mill. While the workings of the machinery were being explained, and
@@ -5998,8 +5985,7 @@
                 <p>'Count Litvinoff?' from Cora.</p>
                 <p>'No—oh no. It was Mr Petrovitch, and when he saw me he hustled the poor little
                     things out of the shop as though he were ashamed of them, and he stayed talking
-                    to me ever so long, and was quite delightful, and—Clare, my sweet, this will<pb
-                        n="231"/> please you, you were so much taken with him—he is coming to see us
+                    to me ever so long, and was quite delightful, and—Clare, my sweet, this will<pb n="231"/> please you, you were so much taken with him—he is coming to see us
                     this evening. Won't that be charming?'</p>
                 <p>'I am very glad,' said Claire simply, while Cora busied herself in loosening her
                     mother's cloak, and waiting on her in various little ways. 'I seemed to learn so
@@ -6153,8 +6139,7 @@
                     enough, liked her still better. Hirsch had been set going by one of Mr Quaid's
                     broad-based questions, and Miss Stanley and Petrovitch were virtually alone. And
                     yet, though each had wished often enough to see the other again, now that they
-                    were side by side it seemed to be not so easy to talk. It is always so<pb
-                        n="237"/> difficult to chatter about trifles when one is anxious to talk
+                    were side by side it seemed to be not so easy to talk. It is always so<pb n="237"/> difficult to chatter about trifles when one is anxious to talk
                     seriously, and it is difficult, almost up to the point of impossibility, to
                     plunge into reasonable conversation in a room full of inconsequent prattle.
                     Added to this, Petrovitch felt an unaccustomed and unaccountable shyness, and to
@@ -6982,8 +6967,7 @@
                     floor.</p>
                 <p>To return to a house where we have been happy, even if we have left it for
                     greater happiness, is always sad if not painful; but to go back to a house that
-                    seems to hold within its desolate walls, not only all our memories but<pb
-                        n="269"/> all our possibilities of happiness—when we have left it in sorrow,
+                    seems to hold within its desolate walls, not only all our memories but<pb n="269"/> all our possibilities of happiness—when we have left it in sorrow,
                     to take back to it an added load of new, unexpected, intolerable trouble—this,
                     let us be thankful, is not given to many of us.</p>
                 <p>John Hatfield could not bear it. He cast one look round at the dark, fireless
@@ -7628,8 +7612,7 @@
                     Secretary.'</p>
                 <p>'I hate to think of it,' said the man who had borne the Litvinoff name for three
                     years, and who, it seemed, was to bear it a little while longer. 'Whenever I
-                    think of that night, I see nothing but your face—dead, as I thought—turned up<pb
-                        n="294"/> from the snow in the hateful dawn. Oh, my friend!' his voice
+                    think of that night, I see nothing but your face—dead, as I thought—turned up<pb n="294"/> from the snow in the hateful dawn. Oh, my friend!' his voice
                     faltered, and he held his hand out to Petrovitch again. After a pause, he
                     resumed, 'I tried all I knew to revive you, but you were as cold as ice, and
                     your heart did not beat. I stayed by you a long, long time. It did not occur to
@@ -7761,8 +7744,7 @@
                     there <hi>is</hi> much to be said. I wish to God there could be some way of
                     wiping out the past, or rather of atoning for it. Do you know, it seems to me
                     that I shall have a chance of seeing my way to doing something <hi>worth</hi>
-                    doing now you have come back. I could almost swear at this moment that<pb
-                        n="299"/> I believed as heartily as ever in liberty, humanity, progress, and
+                    doing now you have come back. I could almost swear at this moment that<pb n="299"/> I believed as heartily as ever in liberty, humanity, progress, and
                     all the other things you taught me to swear by, but in my soul I know it is
                         <hi>you</hi> I believe in—always have believed in— I've never believed in
                     anything but you for more than three months at a time. Peculiar, isn't it?'</p>
@@ -7822,8 +7804,7 @@
                     our readers through his "Social Enigma," his "Hopes and Fears for Liberty," and
                     his many revolutionary <hi>brochures</hi>, has never been a familiar figure in
                     London society, his literary labours having compelled him to live in strict
-                    retirement. It will be remembered that he was the hero of an adventure on the<pb
-                        n="302"/> Russian frontier some years ago, was wounded, captured, and sent
+                    retirement. It will be remembered that he was the hero of an adventure on the<pb n="302"/> Russian frontier some years ago, was wounded, captured, and sent
                     to a Russian prison, from which he escaped to England.'</p>
                 <p>It was also settled that the money for the journey should be taken from the
                     remainder of the Litvinoff capital.</p>
@@ -7932,8 +7913,7 @@
                     returning with a basket, in which her butter lay, under cool green leaves, she
                     began to walk more slowly and to consider two pounds of butter heavier than she
                     had thought it before. She had been revelling among the primroses and dog
-                    violets, and had filled up her basket with the pale, yellow primrose<pb n="306"
-                    /> stars and the delicate pink and white wind-flowers. She was tired, certainly,
+                    violets, and had filled up her basket with the pale, yellow primrose<pb n="306"/> stars and the delicate pink and white wind-flowers. She was tired, certainly,
                     and she turned aside and sat down on a felled tree, in a certain little pine
                     copse that runs along by the road-side. The pine needles lay brown, and soft,
                     and thick under her feet. A little bright-eyed, red-brown squirrel came half-way
@@ -8080,8 +8060,7 @@
                     the previous night in his usual spirits. There is no clue to any explanation of
                     the catastrophe, save that the man Hatfield was formerly employed in this mill,
                     and had been heard to say that he considered himself personally aggrieved at the
-                    closing of it. He was supposed to be in the south of England, and it is<pb
-                        n="313"/> rumoured that he secretly returned to wreak vengeance on the young
+                    closing of it. He was supposed to be in the south of England, and it is<pb n="313"/> rumoured that he secretly returned to wreak vengeance on the young
                     masters of the mill for the part they had taken in closing it.'</p>
                 <p>Clare read it through; her face grew white, and she passed it to Petrovitch. He
                     read it silently, his brow contracting. When he laid the paper down he looked at

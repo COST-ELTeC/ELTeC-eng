@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18840" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18840" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -18,23 +23,23 @@
                 </respStmt>
                 <respStmt>
                     <resp>Corrected By</resp>
-                    <name xml:id="elizabethmunson">Elizabeth Munson</name>
+                    <name>Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
             <extent>
                 <measure unit="words">151035</measure>
                 <measure unit="pages">949</measure>
             </extent>
-            <publicationStmt><p>Published as part of ELTeC</p></publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
             
             
-            <sourceDesc><bibl><title>Miss Brown : VWWP edition
+            <sourceDesc><bibl type="unspecified"><title>Miss Brown : VWWP edition
 </title><author>Lee, Vernon, 1856-1935</author><publisher>Digital
 Library Program, Indiana University</publisher><pubPlace>Bloomington,
-IN</pubPlace><idno>VAB7107</idno><relatedItem type="copyText"><bibl><title>Miss
-Brown</title><author>Lee, Vernon, 1856-1935</author><publisher/><pubPlace>London </pubPlace><date when="1884">1884</date></bibl></relatedItem></bibl></sourceDesc>
+IN</pubPlace><idno>VAB7107</idno></bibl><bibl type="unspecified"><title>Miss
+Brown</title><author>Lee, Vernon, 1856-1935</author><publisher/><pubPlace>London </pubPlace><date when="1884">1884</date></bibl></sourceDesc>
 </fileDesc> <encodingDesc n="eltec-1"><p/></encodingDesc>
-<profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc> <revisionDesc><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-09-01">elizabethmunson: Added genre term</change><change when="2010-08-02">elizabethmunson: Removed date from fileDesc
+<profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc> <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-09-01">elizabethmunson: Added genre term</change><change when="2010-08-02">elizabethmunson: Removed date from fileDesc
 title</change><change when="2010-08-02">elizabethmunson: Normalized
 "volume" in fileDesc title</change><change when="2010-08-02">elizabethmunson: Added LCNAF form of author name to
 sourceDesc (hyphen adjusted for both sourceDesc and
@@ -46,7 +51,7 @@ OF ‘EUPHORION,’ ‘BELCARO,’ ETC.</p> <p>IN THREE VOLUMES</p>
 <p>VOL. I.</p> <p> WILLIAM BLACKWOOD AND SONS EDINBURGH AND LONDON
 </p> <p>MDCCLXXXIV</p> <p>All Rights Reserved</p> </div> <pb xml:id="VAB7107-001"/> <div type="liminal"> <p>TO HENRY JAMES, I
 DEDICATE, FOR GOOD LUCK, MY FIRST ATTEMPT AT A NOVEL.</p> </div>
-</front> <body> <pb xml:id="VAB7107-002"/> <div type="part">
+</front> <body> <pb xml:id="VAB7107-002"/> <div type="group">
 <head>BOOK I.</head> <pb n="3" xml:id="VAB7107-003"/> <head>MISS
 BROWN.</head> <div type="chapter"> <head>CHAPTER I.</head>
 <p><hi>IT</hi> was melancholy to admit that Italy also had ceased to
@@ -1544,7 +1549,7 @@ cleared into a kind of radiance.</p> <pb n="111" xml:id="VAB7107-111"/> <p>“Th
 it often.”</p> <p>“And think of me sometimes and the trouble I gave
 you?”</p> <p>“It was my duty, since Mrs Perry wished it,
 sir. Good‐bye—a good journey to you.”</p> <p>“Good‐bye, Miss
-Brown.”</p> </div> </div> <pb n="113" xml:id="VAB7107-112"/> <div type="part"> <head>BOOK II.</head> <pb n="115" xml:id="VAB7107-113"/>
+Brown.”</p> </div> </div> <pb n="113" xml:id="VAB7107-112"/> <div type="group"> <head>BOOK II.</head> <pb n="115" xml:id="VAB7107-113"/>
 <div type="chapter"> <head>CHAPTER I.</head> <p><hi>WALTER HAMLIN</hi>
 did not go to America. On leaving the Villa Arnolfini, he met at
 Florence some artist friends, who, in his condition of utter absence
@@ -2594,7 +2599,7 @@ himself to marry you whenever you may call upon him to do so. You will
 doubtless know how to turn this to profit. Good‐bye.”</p> <p>Anne sank
 into a chair, excited, exhausted, all her blood in movement, she
 scarcely knew why—insulted, maligned, and yet with a great sense of
-joyfulness in her heart.</p> </div> </div> <pb n="195" xml:id="VAB7107-192"/> <div type="part"> <head>BOOK III.</head> <pb n="197" xml:id="VAB7107-193"/> <div type="chapter"> <head>CHAPTER
+joyfulness in her heart.</p> </div> </div> <pb n="195" xml:id="VAB7107-192"/> <div type="group"> <head>BOOK III.</head> <pb n="197" xml:id="VAB7107-193"/> <div type="chapter"> <head>CHAPTER
 I.</head> <p><hi>A MONTH</hi> later, the little Perrys were being
 taken for their walk in the Boboli Gardens by a Swiss <foreign xml:lang="fre">bonne</foreign> in a quilted cap; and Anne Brown was
 unpacking her things in a room overlooking the yellowish‐green Rhine,
@@ -3333,7 +3338,7 @@ wharf, in the twilight, the breeze blowing in her face, all the people
 jostling and shouting around her. Then a voice said—“I fear you must
 be very tired, Miss Brown.” It was at once so familiar and so strange
 that it made her start; the dream seemed dispelled. She was in
-reality, and Hamlin was really by her side.</p> </div> </div> <pb n="251" xml:id="VAB7107-247"/> <div type="part"> <head>BOOK IV.</head>
+reality, and Hamlin was really by her side.</p> </div> </div> <pb n="251" xml:id="VAB7107-247"/> <div type="group"> <head>BOOK IV.</head>
 <pb n="253" xml:id="VAB7107-248"/> <div type="chapter"> <head>CHAPTER
 I.</head> <p><hi>IT</hi> is sad to think how little even the most
 fervently loving among us are able to reproduce, to keep within
@@ -4150,7 +4155,7 @@ nothing.”</p> <p>“I think you are mistaken,” said Anne, quietly.</p>
 beautiful woman Walter has ever seen.”</p> </div> </div>
       
 
-            <div type="part">
+            <div type="group">
                 <head>BOOK IV.</head>
                 <head type="sub">(Continued)</head>
                 <pb n="1" xml:id="VAB7108-002"/>
@@ -4772,7 +4777,7 @@ beautiful woman Walter has ever seen.”</p> </div> </div>
                 </div>
             </div>
             <pb n="45" xml:id="VAB7108-045"/>
-            <div type="part">
+            <div type="group">
                 <head>BOOK V.</head>
                 <pb n="47" xml:id="VAB7108-046"/>
                 <div type="chapter">
@@ -6537,7 +6542,7 @@ beautiful woman Walter has ever seen.”</p> </div> </div>
                 </div>
             </div>
             <pb n="171" xml:id="VAB7108-170"/>
-            <div type="part">
+            <div type="group">
                 <head>BOOK VI.</head>
                 <pb n="173" xml:id="VAB7108-171"/>
                 <div type="chapter">
@@ -8441,7 +8446,7 @@ beautiful woman Walter has ever seen.”</p> </div> </div>
                 </div>
             </div>
             <pb n="305" xml:id="VAB7108-303"/>
-            <div type="part">
+            <div type="group">
                 <head>BOOK VII.</head>
                 <pb n="307" xml:id="VAB7108-304"/>
                 <div type="chapter">
@@ -8841,7 +8846,7 @@ beautiful woman Walter has ever seen.”</p> </div> </div>
           <trailer>PRINTED BY WILLIAM BLACKWOOD AND SONS.</trailer>
 	     </div>
 
-            <div type="part">
+            <div type="group">
                 <head>BOOK VII.</head>
                 <head type="sub">(Continued)</head>
                 <pb n="3" xml:id="VAB7109-002"/>
@@ -10955,7 +10960,7 @@ beautiful woman Walter has ever seen.”</p> </div> </div>
                 </div>
             </div>
             <pb n="151" xml:id="VAB7109-149"/>
-            <div type="part">
+            <div type="group">
                 <head>BOOK VIII.</head>
                 <pb n="153" xml:id="VAB7109-150"/>
                 <div type="chapter">

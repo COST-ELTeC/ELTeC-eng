@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19190"
-xml:lang="en">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19190" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -12,15 +15,9 @@ xml:lang="en">
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">43395</measure><measure unit="pages">264</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-02-27</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Project Gutenberg eBook of Living Alone, by Stella Benson.</title><ref
-target="gut:14907">Gutenberg</ref></bibl>
-<bibl type="firstEdition" ><title>Living Alone</title><author>Stella
-Benson</author><publisher>Macmillan</publisher><date>1919</date></bibl>
-</sourceDesc>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-27--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of Living Alone, by Stella Benson.</title><ref target="gut:14907">Gutenberg</ref></bibl><bibl type="firstEdition"><title>Living Alone</title><author>Stella
+Benson</author><publisher>Macmillan</publisher><date>1919</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -32,11 +29,11 @@ Benson</author><publisher>Macmillan</publisher><date>1919</date></bibl>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-02-27">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -225,8 +222,7 @@ among soft substances most beautiful to touch; and sometimes they sell honest-sm
 sometimes they chop cheeses, and thus reach the glory of the butcher's calling, without its
 painfulness. Also they handle shining tins, marvellously illustrated.</p>
 <p>Mayors and grocers were of course nothing to Miss Ford, but Chairmen were very important. She
-nodded curtly to the Mayor and grocer, but she pushed the seventh chair towards the Chairman.<pb
-n="12"/></p>
+nodded curtly to the Mayor and grocer, but she pushed the seventh chair towards the Chairman.<pb n="12"/></p>
 <p>"May I just finish with this applicant?" she asked in her thin inclusive committee voice, and
 then added in the direction of the Stranger: "It's no use talking nonsense. We all see through you,
 you cannot deceive a committee. But to a certain extent we believe your story, and are willing, if
@@ -434,8 +430,7 @@ printing in red ink.</p>
 <quote>
 <p>The name of this house is Living Alone.</p>
 <p>It is meant to provide for the needs of those who dislike
-hotels, clubs, settlements, hostels, boarding-houses, and lodgings only less than their own <pb
-n="32"/>homes; who detest landladies, waiters, husbands and wives, charwomen, and all forms of
+hotels, clubs, settlements, hostels, boarding-houses, and lodgings only less than their own <pb n="32"/>homes; who detest landladies, waiters, husbands and wives, charwomen, and all forms of
 lookers after. This house is a monastery and a convent for monks and nuns dedicated to unknown gods.
 Men and women who are tired of being laboriously kind to their bodies, who like to be a little
 uncomfortable and quite uncared for, who love to live from week to week without speaking, except to
@@ -449,8 +444,7 @@ cell has whitewashed walls, and contains a small deal table, one wooden chair, a
 bath, and a little inconvenient fireplace. No guest may bring into the house more than can be
 carried out again in one large suit-case. Carpets, rugs, mirrors, and any single garment costing
 more than three guineas, are prohibited. Any guest proved to have made use of a taxi, or to have
-travelled anywhere first class, or to have bought cigarettes or sweets costing more than <pb n="33"
-/>three shillings a hundred or eighteenpence a pound respectively, or to have paid more than three
+travelled anywhere first class, or to have bought cigarettes or sweets costing more than <pb n="33"/>three shillings a hundred or eighteenpence a pound respectively, or to have paid more than three
 and sixpence (war-tax included) for a seat in any place of entertainment, will be instantly
 expelled. Dogs, cats, goldfish, and other superhuman companions are encouraged.</p>
 <p>Working guests are preferred, but if not at work, guests must
@@ -842,8 +836,7 @@ remembered 'ow often 'e'd tol' me things thet seemed too 'istorical for sich as 
 honest, tales about blokes in 'istory — nanecdotes 'e'd use to pass acrost about Admiral Nelson, or
 Queen Bess — she use to make 'im chuckle, she did — an' a chap called Shilly or Shally, 'oo was
 drownded. An' I got struck all of an 'eap, to think 'e was some sort of an everlasting boy, an'
-p'raps 'e was a devil, I thought, an' p'raps I'd sold me soul without knowin' it. I never took <pb
-n="67"/>much stock of me soul, but I always 'ad that debt o' mine in me mind, an' I wanted to pay it
+p'raps 'e was a devil, I thought, an' p'raps I'd sold me soul without knowin' it. I never took <pb n="67"/>much stock of me soul, but I always 'ad that debt o' mine in me mind, an' I wanted to pay it
 clean. For them London mists agin the sky in the Spring, an' for the moonlight, an' for the sky just
 before a thunderstorm — all them things seemed to 'ave come out of the same box, like, an' I didn't
 like feelin' as 'ow they was all jest charity.... 'Owever, I got this idee about Elbert, an' I
@@ -1018,8 +1011,7 @@ tired. Therefore, I think, she was a predestined victim of magic, and it seems u
 witch should have missed such an opportunity to dispense spells.</p>
 <p>After the first bite at the first sandwich, Sarah Brown was conscious of a Joke somewhere. This
 feeling in itself was akin to delirium, for there are no two facts so remote as a Joke and a Charity
-Society. The office table confronted Sarah Brown, and she wondered that she could ever have seen <pb
-n="85"/>it as anything but a butt. She wondered how she had been able to sit daily in front of that
+Society. The office table confronted Sarah Brown, and she wondered that she could ever have seen <pb n="85"/>it as anything but a butt. She wondered how she had been able to sit daily in front of that
 stout and earnest index without poking it in the ribs and making a fool of it. The office clock,
 alone among clocks, had never played a practical joke. The sad fire below it, conscious of a
 Mission, was overloaded with coal and responsibility.</p>
@@ -1030,8 +1022,7 @@ silver sky contradicted all the doctrines preached in offices. There was in the 
 the old raw simplicity and mirth that always haunts the sea, and penetrates inland only on rare
 spring days. The high white clouds crossed the sky like galleons, like old stories out of the
 innocent Eden-like past of the sea, before she learnt the ways of steam and secret killing. Old
-names of ships came to Sarah Brown's mind ... Castle-of-Comfort ... Cloud-i'-the-Sun....<pb n="86"
-/></p>
+names of ships came to Sarah Brown's mind ... Castle-of-Comfort ... Cloud-i'-the-Sun....<pb n="86"/></p>
 <p>"I am doing wrong," said Sarah Brown. She took a third bite.</p>
 <p>And then she felt the spirit of the Naughty Poor in the room; there was laughter, as of the
 registered, in the ears of the Registrar. It is not really permissible for the Naughty Poor to
@@ -1163,8 +1154,7 @@ met in the middle of the car. As nobody opened the gates or rang the bells, the 
 stood for hours at Mornington Crescent before any member of the watching public could find the heart
 to interrupt the pretty scene. It is patent that a magic person must have been the more or less
 deliberate cause of this episode. Then again, there is the story of the 'bus that went mad, just as
-it was leaving its burrow at Dalston. It got the idea that the kindly public was its enemy.<pb
-n="100"/> You should have seen the astonishment of Liverpool Street and the Bank as it rushed by
+it was leaving its burrow at Dalston. It got the idea that the kindly public was its enemy.<pb n="100"/> You should have seen the astonishment of Liverpool Street and the Bank as it rushed by
 them. Old ladies about to ask it whether it went to Clapham — its label said it was bound for Barnes
 — stood aghast, and their questions died on their lips. Policemen put up their hands against it, —
 it ran over them. It even learned the trick of avoiding the nimble business man by a cunning little
@@ -1200,8 +1190,7 @@ dome. Sarah Brown and the witch put on their cathedral look at once, by mistake,
 chins upon their umbrellas gazed reverently upward.</p>
 <p>"Too dretful, a house of this size without servants," said Lady Arabel. "The fourth footman was
 the last to go. He said even the Army would be better than this. He liked spooks, he said, at second
-hand, but not otherwise. Too funny how people take dear Rrchud seriously. I'm glad to say <pb
-n="103"/>the orchestra has stayed with us. Come into Rrchud's study, won't you, while I just go and
+hand, but not otherwise. Too funny how people take dear Rrchud seriously. I'm glad to say <pb n="103"/>the orchestra has stayed with us. Come into Rrchud's study, won't you, while I just go and
 help the first violin to dish up the soup."</p>
 <p>Sarah Brown and the witch were left in a small room that opened on to the great hall. It was
 furnished rather like a lodging-house parlour. There was a thermometer elaborately disguised as a
@@ -1284,8 +1273,7 @@ gravely. Lady Arabel turned scarlet, and murmured to Sarah Brown: "So dretfully 
 merry."</p>
 <p>Sarah Brown took pity on her, and began talking at random. The orchestra was busy again, and to
 the tune of a loud elusive rag-time, she shouted: "Do you know, I gave my job the sack this morning.
-I shall be on the brink of starvation in three and a half days' time. That's counting a box <pb
-n="110"/>of Oxo Cubes I have by me. You don't happen to know of a suitable job. I can't cook, and if
+I shall be on the brink of starvation in three and a half days' time. That's counting a box <pb n="110"/>of Oxo Cubes I have by me. You don't happen to know of a suitable job. I can't cook, and if
 I sew a button on it comes off quicker than if I hadn't. But I once learnt to play the big
 drum."</p>
 <p>"My dear," said Lady Arabel, instantly motherly. "How too dretful. I wish I knew of something
@@ -1321,8 +1309,7 @@ I promised Pinehurst — my husband — never to remain in this house during an 
 fault, the dear thing; he had a craze for windows; this house has more glass space than wall, I
 think, and Pinehurst, in his spare time, used always to be making plans for squeezing in more
 windows. Our room is like a conservatory — so dretfully embarrassing. So I always take my knitting
-across the road to the crypt of St. Sebastian's, and I'm sure you won't mind coming too.<pb n="113"
-/> You might have brought a box of spellicans, or a set of table croquet, but I'm afraid the Vicar
+across the road to the crypt of St. Sebastian's, and I'm sure you won't mind coming too.<pb n="113"/> You might have brought a box of spellicans, or a set of table croquet, but I'm afraid the Vicar
 wouldn't like it. A nice man but dretfully particular. We must wait for the end of this piece, the
 first violin is so touchy."</p>
 <p>They all waited patiently while the piece continued. It was a plain uneventful piece, composed by
@@ -1410,8 +1397,7 @@ mind this mornin' when 'e turned saucy to the sugar queue. I ses to 'im — — 
 I may feel thankful that hastiness of recrimination was never one of mine. All my life I have made
 it an unalterable rule never to make a statement without first asking myself: Is it <hi>TRUE</hi>?
 Is it <hi>JUST</hi>? Is it <hi>KIND</hi>?"</p>
-<p>"You may well say so," replied Lady Arabel pleasantly. "I only wish the younger <pb n="120"
-/>generation would follow your example. Nowadays it is much more likely to be: Is it true? No. Is it
+<p>"You may well say so," replied Lady Arabel pleasantly. "I only wish the younger <pb n="120"/>generation would follow your example. Nowadays it is much more likely to be: Is it true? No. Is it
 just? No. Is it kind? No. Is it <hi>FUNNY</hi>? Yes. And out it comes."</p>
 <p>"Be that as it may," said the ladylike creature. (One could see she was a Real Lady even through
 the sheet. Obviously she read the <hi>Morning Post</hi> daily.) "Be that as it may, perhaps you can
@@ -1422,8 +1408,7 @@ must say I should be so interested to hear the defence of the late churchwarden 
 <p>"Ah, please, please," said Lady Arabel, "don't talk in that dretful way. Don't let your mind
 dwell on the worst. I assure you that you will be all right."</p>
 <p>"Of course I shall be all right, as you put it," said the elderly lady, coldly drawing herself
-up. "Everybody can be my witness that I have kept my candle burning in my small corner — — "<pb
-n="121"/></p>
+up. "Everybody can be my witness that I have kept my candle burning in my small corner — — "<pb n="121"/></p>
 <p>"Good gracious," shrieked the kittenish mother. "A candle burning to-night. And probably
 unshaded. Don't you know that those fiends in the sky are always on the watch for the slightest
 illumination?"</p>
@@ -1488,8 +1473,7 @@ the mysterious family in one glance, spoke in a clerical yet embarrassed voice.<
 submit blindly to my guidance in a matter strangely difficult to explain, even as I — myself in much
 confusion — bow to the advice of my reverend friend here. It would be out of place — — "</p>
 <p>The spinster interrupted, and, by the way she did it, one saw that she was Chapel. "Excuse me,
-Canon," she said acidly, "but is not all discussion out of place at this solemn moment?"<pb n="126"
-/></p>
+Canon," she said acidly, "but is not all discussion out of place at this solemn moment?"<pb n="126"/></p>
 <p>"Believe me, madam," replied the aged Burstley-Ripp. "You overrate the solemnity of the moment. I
 must earnestly ask you all to return with me to the places whence — labouring under an extraordinary
 error — we came to-night. I see that Mrs. Parachute trusts me, and is prepared to lead her little
@@ -1500,8 +1484,7 @@ not call. She bowed to Lady Arabel, and became satirical, even arch. "Good after
 I am assured that the moment is not solemn, and therefore solemn it shall not be. To turn to lighter
 subjects, I hope I shall have the pleasure of meeting you and your delightful son and daughter again
 at no distant date, the moment then being genuinely solemn. I fear I have no visiting card on me,
-but — er — perhaps my slab just outside — very superior granite — would do as a substitute...."<pb
-n="127"/></p>
+but — er — perhaps my slab just outside — very superior granite — would do as a substitute...."<pb n="127"/></p>
 <p>The pale party filed out of the crypt and disappeared. The remaining Vicar smote his brow, and
 addressed the now calm Rupert in a low voice, but with such unaccountable warmth that that harassed
 animal disappeared precipitately in the direction of his home.</p>
@@ -1555,8 +1538,7 @@ the fight began. The two broomsticks reared and circled round each other, and ov
 other. From their riders' finger-tips magic of the most explosive kind crackled, and incantations of
 such potency were exchanged that, I am told, the tiles and chimney-pots of the streets below
 suffered a good deal. Round and round and over and under whirled the broomsticks, till the very
-spaces went mad, and London seemed to rush down nightmare slopes into a stormy sky, while <pb
-n="135"/>its lights swung from pole to pole and were entangled with the stars.</p>
+spaces went mad, and London seemed to rush down nightmare slopes into a stormy sky, while <pb n="135"/>its lights swung from pole to pole and were entangled with the stars.</p>
 <p>Both broomsticks were by now so uproariously excited that neither witch was able to aim her magic
 missiles very carefully, and indeed it was not long before Harold passed entirely beyond control.
 After bucking violently once or twice, he gave a wild high cry that was like the wind howling
@@ -1614,8 +1596,7 @@ holding aloft this fragile delusion that is our world. There is no power that ca
 there is no enchantment that is not lost between us and the moon, and all magic people know — and
 tremble to know — that in a breath, between one second and another, that Hand may close, and the
 shell of time first crack and then be crushed, and magic be one with nothingness and death and all
-other delusions. This is why magic, which treats the other elements as its servants, <pb n="140"
-/>bows before space, and has to call such a purely independent contrivance as a broomstick to its
+other delusions. This is why magic, which treats the other elements as its servants, <pb n="140"/>bows before space, and has to call such a purely independent contrivance as a broomstick to its
 help in the matter of air-travel.</p>
 <p>The witches faced each other on their little unstable sanctuary in the kingdom of space. Our
 witch felt secretly sick, and at the same time she tore fear from her mind, and knew that death was
@@ -1652,8 +1633,7 @@ head.</p>
 <p>The tide of space was coming in. The edge of the cloud was barely six inches from her hand. Our
 witch's mind overflowed with the thought of invasions and the coming in of tides. It seemed that all
 her life she had been living on a narrowing shore. She remembered all her dawns as precarious
-footholds of peace on a threatened rock, and all her evenings as golden sands sloping <pb n="143"
-/>down into encroaching sleep. She realised Everything as a little hopeless garrison against the
+footholds of peace on a threatened rock, and all her evenings as golden sands sloping <pb n="143"/>down into encroaching sleep. She realised Everything as a little hopeless garrison against the
 army of Nothing.</p>
 <p>She clutched a pinch of cloud nervously, and it broke off in her hand. She recalled her senses
 with a devastating effort.</p>
@@ -1735,8 +1715,7 @@ other side of eternity. The rough head of Harold appeared over the cloud's edge,
 itself pathetically under her arm. Very carefully and very painfully the witch reached a kneeling
 position, damaging her refuge with every movement in spite of her care. She gasped with pain, and
 Harold tried to look very strong and hopeful to comfort her. He straightened his back, and she
-crawled into the saddle. The tremor of their launching split the cloud into several parts, which <pb
-n="150"/>disintegrated. There was no more foot-hold on it; the tide had come up and submerged
+crawled into the saddle. The tremor of their launching split the cloud into several parts, which <pb n="150"/>disintegrated. There was no more foot-hold on it; the tide had come up and submerged
 it.</p>
 <p>Harold the Broomstick was crippled, he stumbled as he flew, sometimes he dropped a score of feet,
 and span. He did stunts by mistake.</p>
@@ -1886,8 +1865,7 @@ mistake. He had just met one of the castle dogs, one of those tremulous-tailed c
 themselves in a rather pathetic effort to sustain an imaginary reputation for humour. David retorted
 to this dog's first facetious onslaught with a kindly quip, they trod on each other once or twice
 with extravagant gestures, and then parted hysterically, each supposing himself to be pursued by the
-other. It was then that David tripped over the dragon's barbed tail. David squeaked, and <pb n="166"
-/>the dragon awoke. It uncoiled itself suddenly like a broken spring.</p>
+other. It was then that David tripped over the dragon's barbed tail. David squeaked, and <pb n="166"/>the dragon awoke. It uncoiled itself suddenly like a broken spring.</p>
 <p>"Gosh," it said. "Asleep again! I was waiting for you, and the sun on my back always makes me
 sleepy. I am the foreman. Higgins telephoned that you were coming."</p>
 <p>It preceded her through the little green archway that led to the farm. The sight reminded Sarah
@@ -2109,8 +2087,7 @@ morning while I was shaving. I think any one stricken might find it rather usefu
 <p>"Ah, give it to me. Give it to me," said Sarah Brown.</p>
 <p>The pain was like a wave breaking upon her, carrying her away from her safe shore of shadow, to
 be lost in seething and suffocating seas without rest. Her eyes felt dried up with fever, and
-whenever she shut them, the darkness was filled with a jumble of nauseating squares in blue upon <pb
-n="184"/>a mustard-coloured background. The smell of beans was terrible.</p>
+whenever she shut them, the darkness was filled with a jumble of nauseating squares in blue upon <pb n="184"/>a mustard-coloured background. The smell of beans was terrible.</p>
 <p>Richard fumbled with something very badly folded up in newspaper. He also tried ineffectively to
 light a match by wiping it helplessly against his riding breeches. He seemed to have none of the
 small skill in details that comes to most people before they grow up. He did everything as if he
@@ -2134,8 +2111,7 @@ matter to him. He also notices that those same feet of his would not be able to 
 within a reasonable time, therefore the moon does not matter to him.</p>
 <p>But Sarah Brown had disappeared, and therefore could not measure anything. The spider strode from
 hill to hill, with the wind rushing through the hair on his back. The blue sky was just a lampshade,
-clipped on to the earth to shield it from the glare of the gods, beyond it was a mere roof of <pb
-n="186"/>eternity, pricked with a few billion stars to keep it well ventilated.</p>
+clipped on to the earth to shield it from the glare of the gods, beyond it was a mere roof of <pb n="186"/>eternity, pricked with a few billion stars to keep it well ventilated.</p>
 <p>Sarah Brown had for a while all the fun of being a god. She was nowhere and she was everywhere.
 She could have counted the hairs on David's head. The world waved like a flower upon a thin purple
 stalk of smoke....</p>
@@ -2221,8 +2197,7 @@ all good business men keep their souls.</p>
 <p>Sarah Brown thought if rather a curious coincidence that so soon after they had spoken of the
 dead Keats they should see him alive. They saw him framed in a little pale aisle of the Forest, a
 faintly defined fragile ghost, crouched against the trunk of a tree, bent awkwardly into an attitude
-of pain forgotten and ecstatic attention. It was his dearest moment that they saw, a <pb n="193"
-/>moment without death. For he was a prisoner in a perfect spell; he was utterly entangled in the
+of pain forgotten and ecstatic attention. It was his dearest moment that they saw, a <pb n="193"/>moment without death. For he was a prisoner in a perfect spell; he was utterly entangled in the
 looped and ensnaring song of a nightingale. The song was like beaten gold wire. Never again in her
 life did Sarah Brown profane with her poor voice the words that a perfect singer begot in a marriage
 with a perfect song. But in unhappiness, and in the horrible nights, the song came to her,
@@ -2259,8 +2234,7 @@ business as a trust from God, like you said, I never dremp of such a thing, alth
 Chapel regular for ten years. But I see now there was a lot in what you said, and when I come to
 think of it, there was no need to make such a terrible lot of extra hay, 'owever much the sun might
 be shinin'. When you put it like that, I couldn't say why I was so set on more money, 'aving quite
-enough. Well, I says to meself, after shutting meself up to think it out, like you <pb n="199"
-/>said, 'ere am I giving up all my life an' all my jolly days an' 'olidays, an' I'm damned if I know
+enough. Well, I says to meself, after shutting meself up to think it out, like you <pb n="199"/>said, 'ere am I giving up all my life an' all my jolly days an' 'olidays, an' I'm damned if I know
 what for. For money, — just money stewin' in its own juice in a bank, — not money I can use. Well,
 everybody's trained so, I'm thinkin'. Anyway I took it friendly of you to put it so delicate, so
 fanciful as you did, so as them charity ladies didn't smell a rat. I appreciated that, an' thought
@@ -2295,8 +2269,7 @@ the world failed to grasp exactly what he was, or rather exactly what he was not
 <p>"I have often wondered," interrupted the witch, "talking of kissing — what would happen if two
 snipes wanted to kiss each other? It would have to be at such awfully long range, wouldn't it. Or —
 — "</p>
-<p>"Come off it," ordered the Mayor irritably. "What about gettin' out of this and — — "<pb n="202"
-/></p>
+<p>"Come off it," ordered the Mayor irritably. "What about gettin' out of this and — — "<pb n="202"/></p>
 <p>"Don't you think this is becoming rather a tiresome scene?" said the witch. "Somehow over
 luscious, don't you think? I wish those apple dumplings would hurry up."</p>
 <p>"'Ere, miss," said the Mayor ungraciously to a passing whirlwind. "'Urry them dumplings."</p>
@@ -2308,8 +2281,7 @@ But the witch found no fault with them when they came. She gave them her whole a
 minutes.</p>
 <p>"Well, well," she said, laying down her fork and spoon, "that's good. I feel awfully grown-up,
 having had a proposal. When real girls ask me now how many I've had, I shall be able to say One. But
-I met a girl the other day who had had six. She had six photographs, but she called them <pb n="203"
-/>scalps. If you would give me your photograph I could label it A Scalp, and hang it in the Shop.
+I met a girl the other day who had had six. She had six photographs, but she called them <pb n="203"/>scalps. If you would give me your photograph I could label it A Scalp, and hang it in the Shop.
 That would be very grown-up, wouldn't it?"</p>
 <p>"You will 'ave your joke," said the Mayor in a hollow voice. "I never met such a gurl as you for
 a bit of fun. I don't believe you've got any 'eart."</p>
@@ -2461,8 +2433,7 @@ Our committee sees so many applicants."</p>
 <p>"You are Lady A. 'Iggins, I believe," said the policeman impassively. "Well, my lady, may I ask
 you whether you are aware thet the cherecter in question was seen to leave your 'ouse last night, at
 nine forty-five P.M., after the warning of approaching enemy atteck was given, and to disappear in
-an easterly direction, on a miniature 'eavier than air machine, make and number unknown?"<pb n="215"
-/></p>
+an easterly direction, on a miniature 'eavier than air machine, make and number unknown?"<pb n="215"/></p>
 <p>The threads of curious smoke in the fireplace were increasing. They shivered as though with
 laughter, and flowed like crimped hair up the chimney.</p>
 <p>"I had a dinner-party last night certainly," stammered Lady Arabel. A trembling seized the sock
@@ -2555,8 +2526,7 @@ these names: Iris 'Yde, T.B. Watkins, Hangela the Witch, possibly a male in fema
 believed to conduct a general shop and boardin' 'ouse on Mitten Island?"</p>
 <p>"There is only one shop on Mitten Island," said Richard. "And one boarding house. All in one. I
 own it. I can recite you the prospectus if you like. I have a superintendent there. I have known her
-all my life. I did not know she was believed to be a male in female disguise. I did not <pb n="225"
-/>know she had any name at all, let alone half-a-dozen."</p>
+all my life. I did not know she was believed to be a male in female disguise. I did not <pb n="225"/>know she had any name at all, let alone half-a-dozen."</p>
 <p>The policeman seemed to be troubled all the time by mosquitoes. He slapped his face and his ears
 and the back of his neck. He succeeded in killing one insect upon the bridge of his nose, and left
 it there by mistake, a strangely ignoble corpse. Sarah Brown suspected Richard of some
@@ -2578,8 +2548,7 @@ know I've heard it; I've tried and tried to learn it at my mother's knee. It beg
 think. That's the worst of not being able to read or write. I can describe the place to you exactly,
 a house with a lot of windows, that sees a long way. If you turn your back on the Marble Arch, and
 go on till you get to a big poster saying Eat Less Meat, and then turn to your right — (pointing to
-the left) — or again, if you go by air as the crow flies — or rather as the witch flies — — "<pb
-n="227"/></p>
+the left) — or again, if you go by air as the crow flies — or rather as the witch flies — — "<pb n="227"/></p>
 <p>"You shall 'ear of this foolery, my fine feller," said the distressed policeman, almost with a
 break in his voice. "Seein' as 'ow you refuse information, an' this ferryman thinks fit to defy the
 law, I 'ave no course open but to whistle for my mate, and leave 'im 'ere while I telephone for a
@@ -2668,8 +2637,7 @@ they were like grey bats in a cave. The breeze blew out the open lantern. Ah, ho
 desolate....</p>
 <p>A piece of paper was impaled upon the counter by means of a headless hatpin. There was something
 very largely and badly written on it. Sarah Brown read: "Well Soup it looks like my Night's come and
-what dyou think Sherry's come too. Im an me as gone off to a place e knows that's a fine <pb n="234"
-/>place for such a boy as Elbert to be born in so no more at present from your true Peony."</p>
+what dyou think Sherry's come too. Im an me as gone off to a place e knows that's a fine <pb n="234"/>place for such a boy as Elbert to be born in so no more at present from your true Peony."</p>
 <p>Sarah Brown climbed up the short stairway, painful step by painful step, to her cell. She sat on
 her bed holding her throbbing side, and breathing with fearful caution. She looked at the empty
 grate. She put a cigarette in her mouth, the unconscious and futile answer of the Dweller Alone to
@@ -2846,8 +2814,7 @@ easy it was to dismiss that gross grocer from sight. He was just a bit of backgr
 him out."</p>
 <p>The drapery department on the ceiling was ablaze now, and flakes of ashy petticoat, and the metal
 frames of buttons, showered to the floor.</p>
-<p>"I will go and get help," said Sarah Brown, and hurried out of doors, followed <pb n="248"
-/>feverishly by David, who was not a very brave dog in moments of crisis, and yet liked to appear
+<p>"I will go and get help," said Sarah Brown, and hurried out of doors, followed <pb n="248"/>feverishly by David, who was not a very brave dog in moments of crisis, and yet liked to appear
 busy and helpful. It was to the ferryman's telephone that they returned. Sarah Brown knew that the
 fire was a magic fire, and that an appeal to the L.C.C. Fire Brigade would only bring defeat and
 unnecessary bewilderment upon a deserving organisation.</p>
@@ -2960,8 +2927,7 @@ extinguished by the presence of five hundred Americans, not one of whom had ever
 "magic" used, except by advertisers in connection with their wares.</p>
 <p>Miss Ford had been left behind, cured for ever of nerve-storms. She had become unexpectedly
 engaged to Mr. Bernard Tovey while looking for a porter on Lime Street Station, Liverpool, and had
-returned with him to London to celebrate the event by means of a Super-Wednesday. The Mayor <pb
-n="260"/>also had failed to embark. Indeed the unfortunate man had not been heard of since his
+returned with him to London to celebrate the event by means of a Super-Wednesday. The Mayor <pb n="260"/>also had failed to embark. Indeed the unfortunate man had not been heard of since his
 seizure on the night of the fire, and I believe that the London police are still trying to arrest
 him as a German spy.</p>
 <p>"Here we are," said the witch to Sarah Brown. "At least, I suppose this City on its Tiptoes is
@@ -2997,8 +2963,7 @@ Harold made that bad landing on a policeman, I thought perhaps you were a sort o
 driving me away from my house and heritage. At first I thought of arguing the matter, but then I
 remembered that villains always have a rotten time, without being bullied and persecuted by the rest
 of us. Besides solid things are never worth fighting over. So I have been patient with you all this
-time, and have fallen in courteously with all your fiendish plans — as I thought — and now I am <pb
-n="263"/>glad I was patient, for I see you meant well. Dear Sarah Brown, you did mean well. How sad
+time, and have fallen in courteously with all your fiendish plans — as I thought — and now I am <pb n="263"/>glad I was patient, for I see you meant well. Dear Sarah Brown, you did mean well. How sad
 it is that people who have once lived in the House of Living Alone can never make a success of
 friendship. You say you left all you loved — what business have you with love? Thank you, my dear,
 for meaning so well, and for these fair days at sea. But I mustn't stay with you. I mustn't set foot

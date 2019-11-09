@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18800">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18800">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -10,15 +15,9 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">171240</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-01-07</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>Project Gutenberg text of Endymion</title><ref target="gut:7926">Gutenberg</ref><relatedItem>
-<bibl type="copyText"><title>Endymion</title><author>Disraeli, Benjamin
-(1804-1881).</author><publisher>London: Longmans, Green, and co</publisher><date>1880</date></bibl>
-</relatedItem></bibl>
-</sourceDesc>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-07--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>Project Gutenberg text of Endymion</title><ref target="gut:7926">Gutenberg</ref></bibl><bibl type="printSource"><title>Endymion</title><author>Disraeli, Benjamin
+(1804-1881).</author><publisher>London: Longmans, Green, and co</publisher><date>1880</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-0"> <p/></encodingDesc>
 <profileDesc>
@@ -32,7 +31,7 @@
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-01-07">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -50,7 +49,7 @@
 </div>
 </front>
 <body>
-<div type="vol">
+<div type="group">
 <head>VOL. I.</head>
 <div type="chapter">
 <head>CHAPTER I</head>
@@ -3792,7 +3791,7 @@ something startling. I will venture to say, if there be anything in it, it has b
 some individual of whom you never heard.”</p>
 </div>
 </div>
-<div type="vol">
+<div type="group">
 <head>VOL. II.</head>
 <div type="chapter">
 <head>CHAPTER XXXVII</head>
@@ -7649,7 +7648,7 @@ brought you no luck, Endymion; I have done you nothing but mischief; I am misera
 attached yourself to Lady Beaumaris, you might have been a member of parliament.”</p>
 </div>
 </div>
-<div type="vol">
+<div type="group">
 <head>VOL. III.</head>
 <div type="chapter">
 <head>CHAPTER I</head>

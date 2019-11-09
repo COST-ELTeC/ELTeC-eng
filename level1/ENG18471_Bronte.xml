@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="file:/home/lou/Public/WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18471" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18471" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,18 +13,15 @@
             <extent>
                 <measure unit="words">115398</measure><measure unit="pages">764</measure>
             </extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC <date>2018-12-12</date></p>
-            </publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-12-12--></publicationStmt>
             
-            <sourceDesc>
-               <bibl><title>Wuthering Heights (1st edition) : wikisource edition</title>
+            <sourceDesc><bibl type="unspecified"><title>Wuthering Heights (1st edition) : wikisource edition</title>
                       <ref target="https://en.wikisource.org/wiki/Wuthering_Heights_(1st_edition)"/>
                
-                <relatedItem type="copyText"><bibl><title>Wuthering Heights</title><title>A novel by</title>
+                 </bibl><bibl type="unspecified"><title>Wuthering Heights</title><title>A novel by</title>
                     <author>Ellis Bell</author>
                     <publisher>London: T. C. Newby</publisher>
-                    <date>1847</date></bibl></relatedItem> </bibl></sourceDesc>
+                    <date>1847</date></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -35,7 +37,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-12-12">LB added header</change>
         </revisionDesc>
     </teiHeader>
@@ -50,7 +52,7 @@
         </div></front>
         <body>
             
-            <div type="part" n="volume1">
+            <div type="group">
                 <div type="chapter">
 
                     <pb n="1"/>
@@ -4768,7 +4770,7 @@
                         turned out a second edition of the mother!</p>
                 </div>
             </div>
-            <div type="part" n="volume2">
+            <div type="group">
                 <div type="chapter">
                     <pb n="1"/>
 

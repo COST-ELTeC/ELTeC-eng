@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18930">
 <teiHeader>
 <fileDesc>
@@ -12,15 +15,9 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">82117</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-02-15</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Project Gutenberg eBook of Dodo, A Detail of the Day, by E.F. Benson.</title><ref
-target="gut:44486">Gutenberg</ref></bibl>
-<bibl type="firstEdition" n="B6730"><title>Dodo: A Detail of the Day</title><author>E.F. Benson.</author>
-<publisher>London: Methuen</publisher><date>1893</date></bibl>
-</sourceDesc>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-15--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of Dodo, A Detail of the Day, by E.F. Benson.</title><ref target="gut:44486">Gutenberg</ref></bibl><bibl type="firstEdition" n="B6730"><title>Dodo: A Detail of the Day</title><author>E.F. Benson.</author>
+<publisher>London: Methuen</publisher><date>1893</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -36,7 +33,7 @@ target="gut:44486">Gutenberg</ref></bibl>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-02-15">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -61,7 +58,7 @@ one is right as the other.'—The Professor of Ignorance.</p></quote>
 </div>
 </front>
 <body>
-<div type="part">
+<div type="group">
 <head>VOL I.</head>
 <div type="chapter">
 <head>CHAPTER ONE</head>
@@ -2819,7 +2816,7 @@ again to-morrow and I will see him. You don't mind my seeing him, do you, Cheste
 <p>"So I was," he answered. "Dodo asked me to come and see her."</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>VOL. II</head>
 <div type="chapter">
 <head>CHAPTER ELEVEN</head>

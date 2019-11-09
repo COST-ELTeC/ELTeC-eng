@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18971" xml:lang="en">
       <teiHeader>
             <fileDesc>
@@ -18,20 +21,13 @@ Distributed Proofreading Team-->
                         <measure unit="words">28892</measure>
                         <measure unit="pages">211</measure>
                   </extent>
-                  <publicationStmt>
-                        <p>Published as part of ELTeC <date>2019-06-09</date></p>
-                  </publicationStmt>
-                  <sourceDesc>
-                        <bibl type="digitalSource"><title>The Project Gutenberg eBook of A Devotee,
-                                    by Mary Cholmondeley.</title><ref target="gut:40408"
-                                    >Gutenberg</ref>
-                        </bibl>
-                        <bibl type="firstEdition" n="B8109"><title>A Devotee: An Episode in the Life
+                  <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-06-09--></publicationStmt>
+                  <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of A Devotee,
+                                    by Mary Cholmondeley.</title><ref target="gut:40408">Gutenberg</ref>
+                        </bibl><bibl type="firstEdition" n="B8109"><title>A Devotee: An Episode in the Life
                                     of a Butterfly</title><author>Cholmondeley, Mary
                                     (1859-1925).</author><publisher>London: Edward
-                                    Arnold</publisher><date>1897</date></bibl>
-
-                  </sourceDesc>
+                                    Arnold</publisher><date>1897</date></bibl></sourceDesc>
             </fileDesc>
             <encodingDesc n="eltec-1">
                   <p/>
@@ -43,11 +39,11 @@ Distributed Proofreading Team-->
                   <textDesc>
                         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                        <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
                   </textDesc>
             </profileDesc>
-            <revisionDesc>
+            <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
                   <change when="2019-06-09">LB convert to ELTeC-1</change>
             </revisionDesc>
       </teiHeader>
@@ -204,8 +200,7 @@ Distributed Proofreading Team-->
                               moment's uneasiness; who may be trusted never to do anything very
                               right or very wrong; who will get on tolerably well in any position,
                               and with any woman, provided there are means to support it
-                                    and—<hi>her</hi>; who have enough worldliness to marry<pb n="19"
-                              /> money, and enough good feeling to make irreproachable husbands
+                                    and—<hi>her</hi>; who have enough worldliness to marry<pb n="19"/> money, and enough good feeling to make irreproachable husbands
                               afterwards; in short, the kind of young men who are invented by
                               Providence on purpose to marry heiresses, and who, if they fall below
                               their vocation, dwindle, when their youth is over, into the padded
@@ -295,8 +290,7 @@ Distributed Proofreading Team-->
                               money.</p>
                         <p>As he looked mournfully at Sibyl, an expression came into her wide eyes
                               like that which he had seen in the eyes of some timid wild animal
-                              brought to bay. He recognised that, like a shy bird near its<pb n="26"
-                              /> nest, she was defending in impotent despair of broken white wings
+                              brought to bay. He recognised that, like a shy bird near its<pb n="26"/> nest, she was defending in impotent despair of broken white wings
                               something which was part of her life, which was going from her, which
                                     <hi>he</hi> was taking away.</p>
                         <p>'It is you I love,' she said, and her small hand ceased trembling and
@@ -335,8 +329,7 @@ Distributed Proofreading Team-->
                               which it was beating its butterfly heart out.</p>
                         <p>'To see you happy,' he went on, with authority as well as tenderness in
                               his level voice. 'I should never see that; I should have no real'—he
-                              hesitated—'affection for you at all if I allowed you to make<pb n="29"
-                              /> such a woeful mistake in your early youth before you know what love
+                              hesitated—'affection for you at all if I allowed you to make<pb n="29"/> such a woeful mistake in your early youth before you know what love
                               and life are. They are terrible things, Sibyl; I have known them. This
                               beautiful generous feeling which you have for me is not love, and I
                               should be base indeed to allow you to wreck your life upon it, your
@@ -500,8 +493,7 @@ Distributed Proofreading Team-->
                         <p>'Pretty, delicate, impulsive creature, so generous, so ignorant, so full
                               of the ephemeral enthusiasms of youth which have no staying power. The
                               real enthusiasms of life are made of sterner stuff than she, poor
-                              child! guesses. What will become of her? What man in the future<pb
-                                    n="43"/> will take her ardent, fragile devotion, and hold it
+                              child! guesses. What will become of her? What man in the future<pb n="43"/> will take her ardent, fragile devotion, and hold it
                               without breaking it, and bask in the green springtide of her love
                               without desecrating it, like those poor outcasts in the Park?'</p>
                         <p>Lady Pierpoint was at home, and he was presently ushered into the
@@ -636,8 +628,7 @@ Distributed Proofreading Team-->
                               only taken her hand out of yours. Be comforted.</p>
                         <p>But Sibyl refused to be comforted. Her love for Mr. Loftus, if small
                               things may be called by large names, was the first violent emotion of
-                              a feeble and impulsive mind in a feeble body, both swayed by<pb n="54"
-                              /> veering influences, both shaken by the changing currents of early
+                              a feeble and impulsive mind in a feeble body, both swayed by<pb n="54"/> veering influences, both shaken by the changing currents of early
                               womanhood, as a silver birch is shaken with its leaves.</p>
                         <p>A woman with a deeper heart, and with a slight perception of Mr. Loftus's
                               character, would have reverently folded her devotion in her heart and
@@ -686,8 +677,7 @@ Distributed Proofreading Team-->
                               had awakened those exquisite feelings in her.</p>
                         <p>And now either she would not, or could not, get up. She clung to her
                               imaginary passion with all the obstinacy which is inherent in weak
-                              natures. The disappointment had undermined her delicately-poised<pb
-                                    n="58"/> health. As she walked down towards the Spey alone on
+                              natures. The disappointment had undermined her delicately-poised<pb n="58"/> health. As she walked down towards the Spey alone on
                               this particular June afternoon, she looked more fragile and ethereal
                               than ever. The faint colour had gone from her cheek, and with it half
                               her evanescent prettiness had departed. Her slight, willowy figure
@@ -870,8 +860,7 @@ Distributed Proofreading Team-->
                         <p>Others who knew Mr. Loftus were puzzled and were silent. To know him at
                               all was to believe him to be incapable of an ignoble action; yet this
                               marriage had the appearance of being ignoble—not, perhaps, for another
-                              man, but certainly for him. His intimate friends were dis<pb n="73"
-                              />tressed, and greeted him with grave cordiality and affection, and
+                              man, but certainly for him. His intimate friends were dis<pb n="73"/>tressed, and greeted him with grave cordiality and affection, and
                               hoped for an explanation. He gave none. And they remembered that never
                               in his public or in his private life had he been known to give an
                               explanation of his conduct, and came to the conclusion that they must
@@ -918,8 +907,7 @@ Distributed Proofreading Team-->
                               the object of it, the measure of her romantic attachment to himself.
                               It was perhaps safer in his hands than in those of a younger man. For
                               youth perpetrates many murders and mutilations in the name of love, as
-                              the schoolboy's love of a butterfly finds expression in a pin and<pb
-                                    n="77"/> a cork. But it would have cut Sibyl to the heart if she
+                              the schoolboy's love of a butterfly finds expression in a pin and<pb n="77"/> a cork. But it would have cut Sibyl to the heart if she
                               had even guessed that his tranquil mind took for granted that her
                               adoration would not last until the stars fell from heaven and the
                               earth fell into the sun. For 'Les esprits faibles ne sont jamais
@@ -1118,8 +1106,7 @@ Distributed Proofreading Team-->
                               away. But perhaps his wife may be a Christian, James. They say she is
                               quite a young girl, and that her aunt has brought her up well.'</p>
                         <p>And when Sibyl's sweet face and black velvet hat, and a wonderful flowing
-                              gown of white and lilac, appeared in the carved <pb n="93"
-                              />Wilderleigh pew beside Mr. Loftus's familiar profile, the Gresleys
+                              gown of white and lilac, appeared in the carved <pb n="93"/>Wilderleigh pew beside Mr. Loftus's familiar profile, the Gresleys
                               hoped many things; though Mrs. Gresley expressed herself, after
                               service, as much shocked at the bride's style of dress, which she
                               pronounced to be too showy. Mrs. Gresley's views on dress were
@@ -1130,8 +1117,7 @@ Distributed Proofreading Team-->
                         <p>It was fortunate that Mr. Loftus admired his wife's style of dress, as he
                               had always admired Sibyl herself, from her graceful, fringeless head
                               to her slender, low-heeled shoes. She pleased his fastidious taste as
-                              perhaps no other woman could have done. She was one of the few <pb
-                                    n="94"/>Englishwomen who can wear French gowns as if they are
+                              perhaps no other woman could have done. She was one of the few <pb n="94"/>Englishwomen who can wear French gowns as if they are
                               part of them, and not put on for the occasion.</p>
                         <p>After a becoming interval Mr. and Mrs. Gresley called, and this time Mrs.
                               Gresley was somewhat mollified by what she called the very 'suitable'
@@ -1142,8 +1128,7 @@ Distributed Proofreading Team-->
                               enhanced by the subject under discussion.</p>
                         <p>They also made the discovery that Mr. Loftus was, in his wife's opinion,
                               infallible. And Mrs. Gresley looked with some astonishment at a bride
-                              who actually entertained towards a 'layman' the unique <pb n="95"
-                              />sentiments which she did for her apostolic James.</p>
+                              who actually entertained towards a 'layman' the unique <pb n="95"/>sentiments which she did for her apostolic James.</p>
                         <p>'She is a nice young creature,' said Mrs. Gresley, half an hour later,
                               as, with her hands full of orchids, she accompanied her lord back to
                               the Vicarage, 'and her views, James, are beautiful—just what I think
@@ -1154,8 +1139,7 @@ Distributed Proofreading Team-->
                               almost made one smile.'</p>
                         <p>Mr. Loftus and Crack had, in the meanwhile, remained in the gardens, he
                               leaning back in a long deck-chair, looking dreamily up into the
-                              perspective of moving green above him, while Crack, who had <pb n="96"
-                              />only just arrived from Scotland, snapped mournfully at the English
+                              perspective of moving green above him, while Crack, who had <pb n="96"/>only just arrived from Scotland, snapped mournfully at the English
                               flies, which tasted very much the same as those of Strathspey, so few
                               new things are there under the sun.</p>
                         <p>Sibyl had wished to bring Peter, the poodle, also to Wilderleigh, but
@@ -1278,8 +1262,7 @@ Distributed Proofreading Team-->
                               the turning up of worms.</p>
                         <p>The struggles, the despair, the hope and the aspiration, through which
                               his youth had climbed, and out of which it had forged its tools, were
-                              not a part of Sibyl's youth. She liked the tools now that they were<pb
-                                    n="106"/> made, and desired them for her own small uses. She was
+                              not a part of Sibyl's youth. She liked the tools now that they were<pb n="106"/> made, and desired them for her own small uses. She was
                               naturally drawn to those of deeper convictions and larger faiths. She
                               liked the luxury of being moved by them, stirred by them, lifted
                               beyond herself by a power outside of herself. She loved to nibble the
@@ -1553,8 +1536,7 @@ Distributed Proofreading Team-->
                               felt that on this occasion her dear 'mummy' was rather in the way,
                               especially when the whole party assembled in the hall in their masks
                               and dominoes, and Peggy could not sufficiently admire Doll's
-                              flame-coloured garment with a black devil outlined on the <pb n="129"
-                              />back and a hood with pointed ears. She had no eyes for Captain
+                              flame-coloured garment with a black devil outlined on the <pb n="129"/>back and a hood with pointed ears. She had no eyes for Captain
                               Charrington, the tallest man in the Guards, magnificent in crimson
                               silk from head to foot, with crimson mask as well, or for another of
                               Doll's companions in arms in a chessboard domino of black and white
@@ -1896,8 +1878,7 @@ Distributed Proofreading Team-->
                               paused a moment, and then went on quietly:</p>
                         <p>'Sibyl is most generous about money—too generous. I am almost afraid of
                               taking an unfair advantage of it, though she presses me to do so. But
-                              I am pushing on the repairs everywhere; and I am re<pb n="156"
-                              />building Greenfields and Springlands from the ground. They will get
+                              I am pushing on the repairs everywhere; and I am re<pb n="156"/>building Greenfields and Springlands from the ground. They will get
                               to work again directly the frost is over. I have the plans here, if
                               you would like to look at them.'</p>
                         <p>He drew a roll out of the writing-table drawer, and spread it on the
@@ -2001,8 +1982,7 @@ Distributed Proofreading Team-->
                         <p>It is at this stage that the unprincipled invalid becomes 'the terror of
                               the household and its shame.' It is at this stage that lengths of felt
                               are laid down in passages by tender and injudicious parents, because
-                              no sound can be borne by sensitive ears, that the children are<pb
-                                    n="165"/> 'hushed,' the blinds are drawn down, and doctors who
+                              no sound can be borne by sensitive ears, that the children are<pb n="165"/> 'hushed,' the blinds are drawn down, and doctors who
                               encourage exercise and light are speedily discovered to have
                               misunderstood the delicate constitution with which they have to
                               deal.</p>
@@ -2040,8 +2020,7 @@ Distributed Proofreading Team-->
                               which ever lurks in sofas and couches whispered in her ear, when it
                               pressed the cushions, that she was indeed miserable, that her husband
                               avoided her, that she was an unloved martyr, that no one felt for her
-                              or sympathized with her. It did not tell her that she had been<pb
-                                    n="168"/> married for her money, simply because no sane person
+                              or sympathized with her. It did not tell her that she had been<pb n="168"/> married for her money, simply because no sane person
                               could look at Mr. Loftus and believe that. But she changed in manner
                               towards him. She was cold, formal. She turned away her head when he
                               came into the room, and then when he had left it wept in secret
@@ -2286,8 +2265,7 @@ Distributed Proofreading Team-->
                               beneath so many years? Can any man whose wife has forsaken him ever
                               quite forget that he has once been deserted, that the road which leads
                               away from him has known a woman's footsteps, and another may walk in
-                              it? He stood still and listened. The spirit had over-<pb n="188"
-                              />mastered the flesh. All suffering had vanished.</p>
+                              it? He stood still and listened. The spirit had over-<pb n="188"/>mastered the flesh. All suffering had vanished.</p>
                         <p>From the next room, Sibyl's sitting-room, which opened out of her
                               bedroom, a faint sound came. He noiselessly crossed, and looked
                               through the half-open door, and thanked God.</p>
@@ -2420,8 +2398,7 @@ Distributed Proofreading Team-->
                         <p>Spring had returned at last. But you might have walked through the wood
                               and not known she was there: have seen only the naked trees, and the
                               gray twigs of the alder, bleached white where the rabbits had bitten
-                              them in the frost. But if you had stopped to listen and look as Mr.<pb
-                                    n="199"/> Loftus did, you would have seen and heard her; seen
+                              them in the frost. But if you had stopped to listen and look as Mr.<pb n="199"/> Loftus did, you would have seen and heard her; seen
                               her in the blue haze, and the mystery of change that lurked among the
                               gray twigs, and in the rare primroses among the brown leaves; heard
                               her in the persistent double-tongue of the chiff-chaff, and, not near
@@ -2568,8 +2545,7 @@ Distributed Proofreading Team-->
                         <p>For some years, while her daughter remained an only child, she was
                               passionately devoted to her. But when her son was born she ceased to
                               take much interest in the little girl, who was by this, time rather
-                              spoilt, and consequently tiresome. Doll, who proved exemplary in<pb
-                                    n="211"/> domestic life, took to her when Sibyl forgot her, and
+                              spoilt, and consequently tiresome. Doll, who proved exemplary in<pb n="211"/> domestic life, took to her when Sibyl forgot her, and
                               became deeply attached to her. Later in life Sibyl became inconsolably
                               jealous of her daughter.</p>
                         <p>THE END.</p>
@@ -2577,8 +2553,7 @@ Distributed Proofreading Team-->
                   </div>
             </body>
       </text>
-</TEI>
-<!--<pb n="212"/><quote><l>NOVELS
+</TEI><!--<pb n="212"/><quote><l>NOVELS
 FROM</l><l>MR. EDWARD
 ARNOLD'S LIST.</l></quote><p>By the Author of 'The Red Badge of
 Courage.'</p></div><div type="chapter"><head>GEORGE'S

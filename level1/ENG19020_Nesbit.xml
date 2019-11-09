@@ -1,6 +1,9 @@
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19020"
-    xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19020" xml:lang="en">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -21,29 +24,22 @@
                 </respStmt>
                 <respStmt>
                     <resp>Corrected By</resp>
-                    <name xml:id="elizabethmunson">Elizabeth Munson</name>
+                    <name>Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
             <extent>
                 <measure unit="words">56931</measure>
                 <measure unit="pages">287</measure>
             </extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC</p>
-            </publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
 
 
-            <sourceDesc>
-                <bibl><title>The Red House : VWWP edition </title><author>Nesbit, E. (Edith),
+            <sourceDesc><bibl type="unspecified"><title>The Red House : VWWP edition </title><author>Nesbit, E. (Edith),
                         1858-1924</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7142</idno><relatedItem>
-                        <bibl type="copyText"><title>The Red House</title><author>Nesbit, E. (Edith),
+                        IN</pubPlace><idno>VAB7142</idno></bibl><bibl type="printSource"><title>The Red House</title><author>Nesbit, E. (Edith),
                                  1858-1924</author><publisher>Harper &amp;
-                                Brothers</publisher><pubPlace>London and New York</pubPlace><date
-                                when="1902">1902</date></bibl>
-                    </relatedItem></bibl>
-            </sourceDesc>
+                                Brothers</publisher><pubPlace>London and New York</pubPlace><date when="1902">1902</date></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -59,7 +55,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2011-06-29">kateboeree: Added div type="book"</change>
             <change when="2010-09-02">elizabethmunson: Added genre term</change>
@@ -90,7 +86,7 @@
         </front>
         <body>
             <pb n="1" xml:id="VAB7142-004"/>
-            <div type="part">
+            <div type="group">
                 <head>THE RED HOUSE</head>
                 <div type="chapter">
                     <head>I</head>
@@ -104,8 +100,7 @@
                         gayly, eager to fulfil the destiny set as the end of our wooing's fairy
                         story, and to “live happy ever after.”</p>
                     <p>And now all that was six months ago; and instead of attending to that
-                        destiny, the fairy princess and her unworthy prince were plunged<pb n="2"
-                            xml:id="VAB7142-005"/> over head and ears in their first quarrel—their
+                        destiny, the fairy princess and her unworthy prince were plunged<pb n="2" xml:id="VAB7142-005"/> over head and ears in their first quarrel—their
                         first serious quarrel—about the real and earnest things of life; for the
                         other little quarrels about matters of sentiment and the affections really
                         did not count. They were only play and make-believe; still, they had got our
@@ -165,8 +160,7 @@
                         folded its wings there had spread them on a flight from which it would,
                         perhaps, never return. I had quarrelled with my wife—about a shaving-brush;
                         but that episode had now shrunk to less than nothing in the presence of the
-                        new, the wonderful danger that threatened our home.<pb n="5"
-                            xml:id="VAB7142-008"/> I looked at the neat breakfast-table, bright with
+                        new, the wonderful danger that threatened our home.<pb n="5" xml:id="VAB7142-008"/> I looked at the neat breakfast-table, bright with
                         our wedding-presents—cruet-stands, butter-dishes, and silver-plated
                         teaspoons. I looked at the row of shelves over the mantel-piece, where the
                         more attractive of our crockery stood displayed; at the corner cupboard,
@@ -222,8 +216,7 @@
                         very, very hard. However much in love one may be, one does not like to work
                         ten hours a day. Though two may not grudge it as the price of life together.
                         I wrote, Chloe illustrated—we worked hard—hard—hard, and earned enough to
-                        keep body and soul and the two of us together in our microscopic house.<pb
-                            n="8" xml:id="VAB7142-011"/> “The Bandbox” we called it, but on its
+                        keep body and soul and the two of us together in our microscopic house.<pb n="8" xml:id="VAB7142-011"/> “The Bandbox” we called it, but on its
                         gatepost it called itself Ross Villa. And now—a hundred a year, and a
                         house—such a house. It came back to me out of my youth, a monument of
                         comfortable affluence, with vineries and pineries, and pits and frames,
@@ -361,8 +354,7 @@
                         chestnut-trees, pyramids of green fan-leaves and miraculous-scented
                         flowers—a green gate.</p>
                     <p>“This is it,” I said, and Chloe brought down the brake in that reckless way
-                        of hers, and sprang to the ground. The sun-blistered, old, green gate<pb
-                            n="15" xml:id="VAB7142-018"/> swung long and wide on loud, red, rusty
+                        of hers, and sprang to the ground. The sun-blistered, old, green gate<pb n="15" xml:id="VAB7142-018"/> swung long and wide on loud, red, rusty
                         hinges as we led our beasts in. We left them under the biggest of the
                         chestnut-trees, and walked up the wide, moss-grown drive to where the front
                         door, fortified by heavy stone pillars, seemed to defy us, the
@@ -467,8 +459,7 @@
                     <p>We had down those shutters, and looked out through the dingy windows on the
                         moat.</p>
                     <p>“Oh, Len, what a place!” she said, and kissed me again. “Just look at the
-                        roasting-jack, and the rack for guns, and the hooks in the roof to<pb n="20"
-                            xml:id="VAB7142-024"/> hang hams and things—and, oh—there's a great
+                        roasting-jack, and the rack for guns, and the hooks in the roof to<pb n="20" xml:id="VAB7142-024"/> hang hams and things—and, oh—there's a great
                         bacon-rack. It is <emph>too</emph> beautiful!”</p>
                     <p>We explored the pantry and the servants' hall, the little bedrooms above, and
                         then along the flagged passage to the great hall, tiled with white and red
@@ -486,11 +477,9 @@
                     <p>We went. The old garden had always been beautiful to me, even in the days
                         when I used secretly to eat gooseberries there, and plums, and peaches in an
                         unripe state; and it was beautiful now, even as I remembered it, only now
-                        its trees and bushes were incredibly grown—moss-<pb n="21"
-                            xml:id="VAB7142-025"/> cushioned its paths. Its fountains were dry and
+                        its trees and bushes were incredibly grown—moss-<pb n="21" xml:id="VAB7142-025"/> cushioned its paths. Its fountains were dry and
                         weed grown, and its sun-dial was covered with briony and woody nightshade. I
-                        put aside the green trails to show Chloe the motto, <foreign xml:lang="lat"
-                            >Horas numero nisi serenas</foreign> (“I chronicle only the sunny
+                        put aside the green trails to show Chloe the motto, <foreign xml:lang="lat">Horas numero nisi serenas</foreign> (“I chronicle only the sunny
                         hours”).</p>
                     <p>She leaned her elbows on the top of the sundial, and looked at me.</p>
                     <p>“There now, you see,” she said. “We <emph>must</emph> live here! We simply
@@ -506,8 +495,7 @@
                     <p>“But you promised to be reasonable.”</p>
                     <p>“I <emph>am</emph>; it's you who aren't; and if I did I don't care. It's what
                         I've wanted all my life. Oh, Len, you <emph>must</emph>.”</p>
-                    <p>“If you're so keen on the place we might live<pb n="22" xml:id="VAB7142-026"
-                        /> in one of the cottages.” There were four on the estate.</p>
+                    <p>“If you're so keen on the place we might live<pb n="22" xml:id="VAB7142-026"/> in one of the cottages.” There were four on the estate.</p>
                     <p>“I hate the cottages. Poky little things.”</p>
                     <p>“They're bigger than the Bandbox,” I said.</p>
                     <p>“I hate the Bandbox,” she said, mutinously. Then I laughed.</p>
@@ -593,8 +581,7 @@
                         sighed.</p>
                     <p>“When do you wish to move in?”</p>
                     <p>“On your birthday, of course.”</p>
-                    <p>And so it was decided. The blow I had dreaded<pb n="26" xml:id="VAB7142-030"
-                        /> had fallen. My own hands had guided it. On the 6th of June we were to
+                    <p>And so it was decided. The blow I had dreaded<pb n="26" xml:id="VAB7142-030"/> had fallen. My own hands had guided it. On the 6th of June we were to
                         take possession of an immense mansion, standing in its own grounds, replete
                         with every possible inconvenience. Chloe dropped her work and sewed curtains
                         all day. I had never known her so happy. And indeed, now that the die was
@@ -707,8 +694,7 @@
                         and lodging and the comforts of a home for a month or two?”</p>
                     <p>Of course we would, gladly, and we said so. And then we talked—always of the
                         Red House.</p>
-                    <p>“You'll have a good deal of fun for your money<pb n="32" xml:id="VAB7142-036"
-                        /> in your new house,” Yolande said, at last, “but, oh, you make me feel as
+                    <p>“You'll have a good deal of fun for your money<pb n="32" xml:id="VAB7142-036"/> in your new house,” Yolande said, at last, “but, oh, you make me feel as
                         if you were the Babes in the Wood and I were the wicked uncle. I do wish I
                         could stay and help you, but I've three pupils waiting in Florence with
                         their mouths wide open, and a mere temporary chaperon guarding them, and I
@@ -726,8 +712,7 @@
                     <p>Then Yolande said good-bye, and pinned her hat on to her bright hair. At the
                         door she turned to say:</p>
                     <p>“By-the-way, you won't mind my asking you to keep my things aired, will you?
-                        The furniture-warehouse people always let them<pb n="33"
-                            xml:id="VAB7142-037"/> get mothy, and give the piano a cold in its head.
+                        The furniture-warehouse people always let them<pb n="33" xml:id="VAB7142-037"/> get mothy, and give the piano a cold in its head.
                         You might hang up the pictures, if you don't mind the trouble; they've all
                         got cords, and they keep better hung up, like meat or game, you know. And
                         furniture keeps best when it's being used. You'll sit on my chairs now and
@@ -744,8 +729,7 @@
                         the furniture horribly when she takes it away.”</p>
                     <p>“Don't grumble,” said Chloe. “We shall have all her lovely things for months
                         and months, and by the time she comes back we shall have made some money to
-                        buy things. I'm going to work like a nigger directly we get settled.<pb
-                            n="34" xml:id="VAB7142-038"/> And so must you. Oh, here are the men at
+                        buy things. I'm going to work like a nigger directly we get settled.<pb n="34" xml:id="VAB7142-038"/> And so must you. Oh, here are the men at
                         last. Two hours late!”</p>
                     <p>“Perhaps it is as well,” I said. “Harriet is only just ready.”</p>
                     <p>Our fat-faced maid-servant, who had rigidly refused during the whole morning
@@ -763,8 +747,7 @@
                         us. His clothes and those of his friends smelled strange and stuffy, as
                         though they had been smeared with putty and mutton fat, and locked away for
                         years in a cupboard full of pickled onions and yellow soap and mice. The
-                        clothes of the unskilled laborer always have this strange<pb n="35"
-                            xml:id="VAB7142-039"/> scent. It lingers about everything they touch in
+                        clothes of the unskilled laborer always have this strange<pb n="35" xml:id="VAB7142-039"/> scent. It lingers about everything they touch in
                         passing through a house, and after days its freshness is still unimpaired.
                         But I never knew any scent so overpowering as that which clung to the
                         clothes of Charley and his mates. They strayed loudly up the uncarpeted
@@ -973,8 +956,7 @@
                         should hang the pictures, we looked at each other, almost speechless with
                         wonder and gratitude. They hung the pictures, they asked for a broom, and,
                         if ours had not been wet, they would have swept up the dust their careful
-                        feet had not been able to help bringing in. They dusted the furniture<pb
-                            n="46" xml:id="VAB7142-050"/> ture, and asked if there was anything else
+                        feet had not been able to help bringing in. They dusted the furniture<pb n="46" xml:id="VAB7142-050"/> ture, and asked if there was anything else
                         they could do. I said there was not, and felt in my pocket for silver, far
                         more than I could afford. But Chloe said:</p>
                     <p>“Oh yes! How kind of you! Do please ask every one you know if they know of a
@@ -1028,8 +1010,7 @@
                     <p>For she was crying—with her head on my shoulder and my arms round her.</p>
                     <p>“I'm so tired,” she said, presently.</p>
                     <p>“I know you are. Now we're going to sit down on this dear, old stone bench
-                        under the red may-tree, and, if you're good, I'll tell you<pb n="49"
-                            xml:id="VAB7142-053"/> things. We won't try to get a servant again till
+                        under the red may-tree, and, if you're good, I'll tell you<pb n="49" xml:id="VAB7142-053"/> things. We won't try to get a servant again till
                         the kitchen's straight. And we'll shut up all the rooms except the kitchen,
                         and we'll move our bedroom things into one of the down-stairs rooms, so as
                         not to have to use the stairs at all. And the little room that opens out of
@@ -1048,8 +1029,7 @@
                         well, but she carried a covered basket, and it cost us too much in tea and
                         butter.</p>
                     <p>All this time we had never had a moment for gardening, and Chloe's dream of
-                        growing our own vegetables was being swiftly hidden by the<pb n="50"
-                            xml:id="VAB7142-054"/> weeds of oblivion. There were flowers in plenty,
+                        growing our own vegetables was being swiftly hidden by the<pb n="50" xml:id="VAB7142-054"/> weeds of oblivion. There were flowers in plenty,
                         though, now. Hundreds of roses, red and white and yellow. Thousands of pink
                         roses. Canterbury-bells, red daisy-flowers, lupins, columbines, and giant
                         larkspurs. Chloe kept the house a flowery bower. I cleaned the boots and the
@@ -1094,8 +1074,7 @@
                     <p>I had always resolved that in no straits would I ever, barefooted, face a
                         burglar. Think of the horrible advantage of hobnailed burglar-boots over
                         shrinking, bare toes.</p>
-                    <p>“But there <emph>is</emph> no poker up here,” Chloe said.<pb n="53"
-                            xml:id="VAB7142-057"/> “You know we never could find the bedroom
+                    <p>“But there <emph>is</emph> no poker up here,” Chloe said.<pb n="53" xml:id="VAB7142-057"/> “You know we never could find the bedroom
                         fire-irons. My umbrella; you know—the one with the purple knob.”</p>
                     <p>One of the ugliest of our wedding presents, the umbrella with the
                         rock-amethyst handle the size of a fives-ball, stood in the wardrobe corner.
@@ -1115,8 +1094,7 @@
                         candle,” said I. “Now, then—”</p>
                     <p>We opened the door slowly and softly, and very softly and slowly crept along
                         the dark passage hand in hand.</p>
-                    <p>At the stair-foot we stood still and listened.<pb n="54" xml:id="VAB7142-058"
-                        /> Not a sound but the drip-drip-dripping. It seemed to come from the white
+                    <p>At the stair-foot we stood still and listened.<pb n="54" xml:id="VAB7142-058"/> Not a sound but the drip-drip-dripping. It seemed to come from the white
                         parlor.</p>
                     <p>My wife clutched my hand in both hers.</p>
                     <p>“I <emph>can't</emph>,” she whispered, and struck a match. Her hands trembled
@@ -1177,8 +1155,7 @@
                     <p>“The ghost must have done this,” said I. “You said you'd make it run errands,
                         but I never thought you'd get it to light fires.”</p>
                     <p>“But I did, you see,” said Chloe. “I taught it—little odd minutes when you
-                        were carrying buckets and sticking up damp books on<pb n="57"
-                            xml:id="VAB7142-062"/> their poor tails, so that you shouldn't notice
+                        were carrying buckets and sticking up damp books on<pb n="57" xml:id="VAB7142-062"/> their poor tails, so that you shouldn't notice
                         what I was doing. Isn't it a clever ghost? Aren't I a good teacher?”</p>
                     <p>“You are an angel,” I said. “I'll make the tea.”</p>
                     <p>“Aren't I a noble wife? Aren't you proud of me? Don't you love me very, very,
@@ -1235,8 +1212,7 @@
                         dam lay the tank of water, but my dam held firm.</p>
                     <p>“And now a broom-handle, soul of my soul—or, I'll tell you what, that garden
                         rake we've never used, and some clothes-line.”</p>
-                    <p>I spliced the dust-pan's handle at right angles<pb n="60"
-                            xml:id="VAB7142-065"/> gles to the handle of the rake, and laid this
+                    <p>I spliced the dust-pan's handle at right angles<pb n="60" xml:id="VAB7142-065"/> gles to the handle of the rake, and laid this
                         last across the embrasure. The parapet held its ends securely, and the
                         dust-pan, face downward, projected itself out through the opening. I made
                         all fast with clay and then called Chloe to come up the step-ladder and
@@ -1308,8 +1284,7 @@
                         Brush my frockcoat, please, if you have any idea where it is, and my high
                         hat, if you can find it. I am going to town this afternoon. In my absence I
                         expect you to finish your illustration for the <title>Lady's
-                            Battalion</title>—the one where the duchess is discharging<pb n="64"
-                            xml:id="VAB7142-069"/> charging her butler for shaving in the boudoir,
+                            Battalion</title>—the one where the duchess is discharging<pb n="64" xml:id="VAB7142-069"/> charging her butler for shaving in the boudoir,
                         and leaving his shaving-brush on the marble console-table.”</p>
                     <p>“You're not nice. You know it is a humble companion refusing a duke's offer
                         of marriage. He does look like a footman, I know; her arm is all wrong, and
@@ -1329,8 +1304,7 @@
                     <p>“Then you've corrupted me?”</p>
                     <p>“And you've redeemed me, or are redeeming. When we've quite converted each
                         other we can begin again and change back. But the coat, and the hat. I
-                            <emph>must</emph> shave, and there's only<pb n="65" xml:id="VAB7142-070"
-                        /> just time to catch the 11.32. For the sake of our home, for the sake of
+                            <emph>must</emph> shave, and there's only<pb n="65" xml:id="VAB7142-070"/> just time to catch the 11.32. For the sake of our home, for the sake of
                         our future, for the peace of our domestic existence, Chloe, do try to find
                         that hat and that coat!”</p>
                     <p>The hat was all right, but the coat was full of creases. It was not in the
@@ -1412,8 +1386,7 @@
                     <p>So that was settled. I felt the warm point of triumph which punctuates the
                         career of the born organizer.</p>
                     <p>“Monday, then,” said I; “and send your box by Carter Paterson.” And with that
-                        I left well alone, and went back to Cannon Street <foreign xml:lang="lat"
-                            >via</foreign> the Twopenny Tube.</p>
+                        I left well alone, and went back to Cannon Street <foreign xml:lang="lat">via</foreign> the Twopenny Tube.</p>
                     <p>I had to wait half an hour for a train. On the platform was the usual dingy,
                         mixed crowd of clerks, type-writing girls, art students, and City men, and
                         among them, her red hair shining at me down the length of the gloomy
@@ -1584,8 +1557,7 @@
                         your story finished. There's no obligation either way.”</p>
                     <p>I bit the end of my fountain-pen till it cracked.</p>
                     <p>“Suppose we ask Yolande?” said I. Chloe laughed. And I wrote to Yolande that
-                        evening. Chloe wrote, too—about a pattern for a <foreign xml:lang="fre"
-                            >fichu</foreign>, I believe—and we posted the letters in the village.
+                        evening. Chloe wrote, too—about a pattern for a <foreign xml:lang="fre">fichu</foreign>, I believe—and we posted the letters in the village.
                         When we came home we found an unattractive working-man slouching by our
                         gate. As we approached, he touched his hat with a grudging gesture.</p>
                     <p>“You the governor?” he inquired.</p>
@@ -1655,8 +1627,7 @@
                         showed us the “bits of sticks” already dumped down on the cottage-garden
                         flower-beds, and a slatternly drab of a woman carrying them slowly in? The
                         furniture looked very dirty.</p>
-                    <p>“Not, I fear, the most desirable of tenants,”<pb n="82" xml:id="VAB7142-087"
-                        /> I murmured, as we delicately withdrew. “The furniture looks as if it had
+                    <p>“Not, I fear, the most desirable of tenants,”<pb n="82" xml:id="VAB7142-087"/> I murmured, as we delicately withdrew. “The furniture looks as if it had
                         come out of the dustbin, and so does the lady.”</p>
                     <p>“Oh, don't be so harsh,” said my wife; “remember what <emph>our</emph>
                         furniture looked like—all dusty and forlorn and friendless—when it sat
@@ -1673,8 +1644,7 @@
                     <p>“We must try to arrange it,” she answered, gayly. “And now cheer up—the
                         Prossers will be better when they get straight. That girl's coming to-day—I
                         must get her room ready. You might just clean the front doorstep—it's done
-                        with hearth-stone, just like the kitchen hearth.<pb n="83"
-                            xml:id="VAB7142-088"/> It is enough to discourage any girl to come to a
+                        with hearth-stone, just like the kitchen hearth.<pb n="83" xml:id="VAB7142-088"/> It is enough to discourage any girl to come to a
                         house wrapped in a mantle of decay, with green mould on the doorstep. Then
                         afterwards we'll do the kitchen together.”</p>
                     <p>It was with but half a heart that I collected pail, hearth-stone, and
@@ -1712,8 +1682,7 @@
                         crockery, well spread out upon the two large dressers, made a brave show.
                         Our bedroom hearth-rug, also woven of reds and greens, showed up the beauty
                         of the chintz flounce, which in its turn, by its neat newness, added lustre
-                        and importance to the hearth-rug. It was indeed a beautiful picture<pb
-                            n="85" xml:id="VAB7142-090"/> —a poem, even, set to music by the singing
+                        and importance to the hearth-rug. It was indeed a beautiful picture<pb n="85" xml:id="VAB7142-090"/> —a poem, even, set to music by the singing
                         of the new kitchen kettle, and I did not grudge the sacrifice of the parlor
                         table-cloth to the completion of that radiant harmony.</p>
                     <p>We had our lunch in a very great hurry, so as to get the plates washed up
@@ -1829,8 +1798,7 @@
                     <p>She did not answer.</p>
                     <p>Then I caught at my lost temper and secured it. I laughed.</p>
                     <p>“What!” I said, “take part with a nasty, stuck-up ghost against your own
-                        husband—so talented, yet so modest? If I am to have a rival, let it be<pb
-                            n="91" xml:id="VAB7142-097"/> flesh and blood, and not a ghost whose
+                        husband—so talented, yet so modest? If I am to have a rival, let it be<pb n="91" xml:id="VAB7142-097"/> flesh and blood, and not a ghost whose
                         head I cannot punch, whose back I cannot horsewhip!”</p>
                     <p>“Well, then,” she said, trying to balance a teaspoon on the milk-jug, “I
                         think the ghost only meant to be kind, and I don't like to hear you speak as
@@ -1908,8 +1876,7 @@
                         very dirty blanket hung out of the bedroom window, and on the doorstep,
                         among dust and flue, bones, crusts, and the miscellaneous sweepings of a
                         filthy floor, three indescribably unengaging children, with dirty noses,
-                        were playing moodily and without smiles. Their playthings were a<pb n="95"
-                            xml:id="VAB7142-101"/> blade-bone of mutton, two muddy clothes-pegs, and
+                        were playing moodily and without smiles. Their playthings were a<pb n="95" xml:id="VAB7142-101"/> blade-bone of mutton, two muddy clothes-pegs, and
                         a dead mouse.</p>
                     <p>Chloe is absurdly fond of children, but—or, perhaps, therefore—she turned
                         away with a shudder. We went home boiling with indignation, but in the
@@ -1927,8 +1894,7 @@
                         one of the less agreeable comic songs of the year before the year before
                         last.</p>
                     <p>I went down at once to give him, personally, that notice to quit which I
-                        found him in no fit state to receive. Another call, in the morning,<pb
-                            n="96" xml:id="VAB7142-102"/> found my tenant conscious, indeed, but
+                        found him in no fit state to receive. Another call, in the morning,<pb n="96" xml:id="VAB7142-102"/> found my tenant conscious, indeed, but
                         little amenable.</p>
                     <p>“I gave you written notice to quit last week,” said I. “How is it you've not
                         gone?”</p>
@@ -1957,8 +1923,7 @@
                         voice of our tenant might desecrate the moonlit stillness with coarse echoes
                         of transpontine musichalls. The knowledge of Mr. Prosser's nearness seemed
                         to smirch the clean sweetness of life. The very jasmine stars seemed less
-                        white for the presence of our tenant's sordid <foreign xml:lang="fre"
-                            >ménage</foreign> on the other side of our red wall. And Mary, day by
+                        white for the presence of our tenant's sordid <foreign xml:lang="fre">ménage</foreign> on the other side of our red wall. And Mary, day by
                         day, tormented us with fresh tales of what was being said in the village of
                         our tenant's antecedents and character, and, by implication, of ours. And
                         all the time my inability to set steadfastly to work was fretting at my
@@ -1966,8 +1931,7 @@
                         work, and the inability to conquer the thousand tiny obstacles that fate
                         erects—fate, backed by one's own folly in having “bitten off a larger chunk
                         than one can chew”;—I still think that a most excellent phrase, and not
-                        vulgar, only homely, going straight to the mark as the homely expression<pb
-                            n="98" xml:id="VAB7142-104"/> of a great truth may be permitted to do.
+                        vulgar, only homely, going straight to the mark as the homely expression<pb n="98" xml:id="VAB7142-104"/> of a great truth may be permitted to do.
                         Chloe was worried also—her editors were clamoring for the illustrations
                         which she was now incapable of working at. And Mr. Prosser was a live
                         blister, and, like a blister, he hurt more and more the longer we had to
@@ -1985,8 +1949,7 @@
                         not, however, the force of these natural desires, because it was not a
                         desire for the thing in itself—not a desire to achieve, to attain—but
                         depended for its vitality on a secondary motive. I longed to write the
-                        stories because I wanted the money they would bring<pb n="99"
-                            xml:id="VAB7142-105"/> to me. The longing was keen enough to be painful,
+                        stories because I wanted the money they would bring<pb n="99" xml:id="VAB7142-105"/> to me. The longing was keen enough to be painful,
                         not strong enough to get itself satisfied. So I sat idle, and drew fancy
                         portraits of Chloe on the blotting-paper. I turned it over hastily as I
                         heard her footstep on the kitchen floor, and I was bending over a virgin
@@ -2005,8 +1968,7 @@
                     <p>“Everything. She's going to leave.”</p>
                     <p>“Why?”</p>
                     <p>“I don't know. I was too upset to ask her. I just came to you.”</p>
-                    <p>I resisted an impulse to put aside the six remunerative<pb n="100"
-                            xml:id="VAB7142-106"/> munerative stories and spend the rest of the day
+                    <p>I resisted an impulse to put aside the six remunerative<pb n="100" xml:id="VAB7142-106"/> munerative stories and spend the rest of the day
                         in consoling my wife.</p>
                     <p>“I don't know what it is. We've been nice to her, I'm sure! She likes us—at
                         least I thought she did. It's Destiny—it's like Maeterlinck—whatever we do
@@ -2087,8 +2049,7 @@
                         cave. Through the open door I could see the feathery flowers of the Spanish
                         chestnut; through one window I could see the copper-beech, wine-dark, and
                         through the other a gap in the avenue showed me a square of blue sky backing
-                        a single pillar of Normandy poplar, straight, slender, self-<pb n="104"
-                            xml:id="VAB7142-110"/> possessed. The garden was full of bird noises and
+                        a single pillar of Normandy poplar, straight, slender, self-<pb n="104" xml:id="VAB7142-110"/> possessed. The garden was full of bird noises and
                         the faint rustle of leaves. In the kitchen sounded the clink of silver—of
                         electro-plate, to be more accurate—and the chime of china. The tapping of my
                         Remington hardly did more than underline a silence which it might have
@@ -2166,8 +2127,7 @@
                     <p>“Chloe,” I said, “come here!”</p>
                     <p>“I can't. I'm making the coffee.” And indeed she had lighted the spirit-lamp
                         to that end.</p>
-                    <p>“Do you know that you are blushing as though<pb n="108" xml:id="VAB7142-114"
-                        /> you had been detected in pocket-picking, or in some generous act? Why are
+                    <p>“Do you know that you are blushing as though<pb n="108" xml:id="VAB7142-114"/> you had been detected in pocket-picking, or in some generous act? Why are
                         you embarrassed? Why are you shy? Why do you screen yourself behind a
                         spirit-lamp? Why have you done this? And why don't you rush into my arms as
                         a dutiful wife should, and confess how you came to have such a beautiful
@@ -2224,8 +2184,7 @@
                         least the untidiness would never be more than one day deep. It's letting the
                         litter of the days overlap that makes everything so hopeless. And I thought,
                         perhaps, I should get some work done here.”</p>
-                    <p>“You are a genius,” I said, “and I am Prince<pb n="111" xml:id="VAB7142-117"
-                        /> Fortunate. I only regret one thing, and that is, that I did not think of
+                    <p>“You are a genius,” I said, “and I am Prince<pb n="111" xml:id="VAB7142-117"/> Fortunate. I only regret one thing, and that is, that I did not think of
                         it myself.”</p>
                     <p>“If you had you wouldn't have done it,” she said, quickly—“that's just it.
                         Because you thought I—and so I did—but— Anyway, you're pleased?”</p>
@@ -2282,8 +2241,7 @@
                         was because they held such full measure of life's good things.</p>
                     <p>Chloe raised her head suddenly. “I told you I was silly,” she said, “but
                         since I <emph>am</emph> silly I'll say one silly thing more. I don't think
-                        any one in this world was ever so happy as I am.<pb n="114"
-                            xml:id="VAB7142-120"/> And when I get worried and cross, you know—Oh,
+                        any one in this world was ever so happy as I am.<pb n="114" xml:id="VAB7142-120"/> And when I get worried and cross, you know—Oh,
                         why am I saying all the things that you know perfectly, and that one doesn't
                         say? You must get back to your work, and I'll try to do that drawing of the
                         duke. And to-night we'll have a consultation about Mary. Yolande shall
@@ -2300,8 +2258,7 @@
                         pleasure in caricaturing those who sit in the seats of the mighty, and in
                         idealizing those who stand behind the counters of the pastry-cook. Also, in
                         the days when I dreamed legal dreams in the Temple, and spent my idle days
-                        in the law courts, I had made constant use of<pb n="115"
-                            xml:id="VAB7142-121"/> the excellent quills and stationery provided by
+                        in the law courts, I had made constant use of<pb n="115" xml:id="VAB7142-121"/> the excellent quills and stationery provided by
                         the state, to draw portraits of the leading legal lights. And I could see
                         the shapes of things. I knew how the arm should go. I knew also how a man's
                         clothes hang when he is in them, which Chloe never could grasp. So I rubbed
@@ -2375,8 +2332,7 @@
                         you very much.”</p>
                     <p>“Strike here,” said my wife, with her hands to her heart.</p>
                     <p>“May I? Thanks, awfully. Well, then, you all-round people, who can turn your
-                        hand to anything, you're always chopping firewood with razors<pb n="119"
-                            xml:id="VAB7142-125"/> zors; you're always diverting your energies from
+                        hand to anything, you're always chopping firewood with razors<pb n="119" xml:id="VAB7142-125"/> zors; you're always diverting your energies from
                         their proper channel, and doing a dozen people's work indifferent well,
                         because you haven't time to do it properly. Len cleans boots and door-steps
                         and candlesticks, and comes to his real work with only half a heart; Chloe
@@ -2476,8 +2432,7 @@
                         hives where once the bees followed their sweet industry. I caught her arm,
                         and she turned to me with a smile.</p>
                     <p>“Chloe, Chloe, I've put the nasty black dog up the chimney. I'm the happiest
-                        man alive! I'm King of the Universe, and you're Queen!<pb n="124"
-                            xml:id="VAB7142-130"/> Yolande doesn't belong to the reigning house.
+                        man alive! I'm King of the Universe, and you're Queen!<pb n="124" xml:id="VAB7142-130"/> Yolande doesn't belong to the reigning house.
                         Poor Yolande! we can't do less than let her be our vizier.”</p>
                     <p>I was holding her hands now, and we were looking at each other with that
                         unquenchable amazement which still comes to us at odd moments in life's
@@ -2547,8 +2502,7 @@
                         a hollow whisper, answering Chloe's agonized glance in the church porch.
                         “I've been reading about it in the prayer-book, and it says, ‘In the face of
                         this congregation,’ and that means afore a churchful. We 'ain't got no
-                        friends here to ask, so we thought we'd have it done after<pb n="128"
-                            xml:id="VAB7142-135"/> service, so as to be sure of the congregation
+                        friends here to ask, so we thought we'd have it done after<pb n="128" xml:id="VAB7142-135"/> service, so as to be sure of the congregation
                         anyway.”</p>
                     <p>The congregation looked at us with interest. There was no mistaking Mary's
                         gray cashmere dress—a wedding-garment, if ever there was one—trimmed with
@@ -2584,8 +2538,7 @@
                         conversation of others, so it's no use offering to talk to me while I do it.
                         I know my limitations, and I abide by them.”</p>
                     <p>“<emph>I'm</emph> not proud of <emph>my</emph> limitations,” said Chloe.</p>
-                    <p>“No, dear,” Yolande answered, sweetly; “that's<pb n="130"
-                            xml:id="VAB7142-137"/> because you haven't any. Why don't you get some?
+                    <p>“No, dear,” Yolande answered, sweetly; “that's<pb n="130" xml:id="VAB7142-137"/> because you haven't any. Why don't you get some?
                         They are a great convenience.”</p>
                     <p>“You speak as though one could decide one's limitations for one's self.”</p>
                     <p>“And can't one? A clever woman like you—”</p>
@@ -2683,8 +2636,7 @@
                     <p>I own that it was with an invigorating sense of something pleasant promised
                         that I awoke next morning. The feeling deepened as I stole down-stairs and
                         lighted the kitchen fire. Mary—may her honey-moon last her life long!—had
-                        dried a little stack of wood and piled it in the<pb n="135"
-                            xml:id="VAB7142-142"/> wash-house ready for us. I filled the kettle,
+                        dried a little stack of wood and piled it in the<pb n="135" xml:id="VAB7142-142"/> wash-house ready for us. I filled the kettle,
                         swept up the hearth, and had finished laying the cloth for breakfast when
                         Chloe appeared.</p>
                     <p>I do not know which of us most enjoyed the house-work that followed. Chloe
@@ -2821,8 +2773,7 @@
                         the clergy.’”</p>
                     <p>“Did he really? How discerning!”</p>
                     <p>“Yes, he did indeed. But, on the other hand, we learn in our catechism to do
-                        our duty in that state of life to which it has pleased God to call us.<pb
-                            n="142" xml:id="VAB7142-150"/> And, of course, we all have our appointed
+                        our duty in that state of life to which it has pleased God to call us.<pb n="142" xml:id="VAB7142-150"/> And, of course, we all have our appointed
                         stations.”</p>
                     <p>“<emph>Shall</emph> please, not has pleased,” corrected Chloe; “we are not
                         forbidden to rise if we can, even from domestic service to the level of the
@@ -2898,8 +2849,7 @@
                     <p>“His name is Bates. He is a perfectly respectable ferret. I gave him a hint
                         to give Prosser a hint, and Prosser took it.”</p>
                     <p>“Let's go and tell Chloe.”</p>
-                    <p>“I've told her. And she wants to work. Let's<pb n="146" xml:id="VAB7142-154"
-                        /> go into Prosser's house and look over it. I'm afraid it will want doing
+                    <p>“I've told her. And she wants to work. Let's<pb n="146" xml:id="VAB7142-154"/> go into Prosser's house and look over it. I'm afraid it will want doing
                         up. Mrs. Bates has given it what she calls a rough cleaning down already.
                         Mrs. Bates is a woman after my own heart.”</p>
                     <p>We went over the cottage and decided that it must be repapered
@@ -2936,8 +2886,7 @@
                         aunt George. I think I have had occasion to name her before, in connection
                         with a certain patch-work quilt. She gave us the quilt and a pewter teapot
                         on our marriage. She now, quite suddenly, announced that she was coming to
-                        see us. My aunt George is fidgety, inquisitive, interfering, unforgiving,<pb
-                            n="148" xml:id="VAB7142-156"/> and dictatorial. She is also generous,
+                        see us. My aunt George is fidgety, inquisitive, interfering, unforgiving,<pb n="148" xml:id="VAB7142-156"/> and dictatorial. She is also generous,
                         affectionate to such as will sue to her <foreign xml:lang="lat">in forma
                             pauperis</foreign>, and is an excellent sick-nurse. We, being neither
                         sick nor indigent, and finding our home-grown stock of affection sufficient
@@ -3030,8 +2979,7 @@
                         made such a fuss about a few apples or plums. Now, all the land-owner welled
                         up within me, and I understood it all—with an understanding as full as it
                         was bitter. I thought of netting, of man-traps, of a fierce bull-dog, of men
-                        with guns—myself and Jim by turns—incessantly patrolling<pb n="153"
-                            xml:id="VAB7142-161"/> ling my garden. All other crimes in the decalogue
+                        with guns—myself and Jim by turns—incessantly patrolling<pb n="153" xml:id="VAB7142-161"/> ling my garden. All other crimes in the decalogue
                         might, I felt, admit of some valid excuse, some reasonable explanation. But
                         breaking the eighth commandment—and with peaches—my peaches—it was
                         intolerable! I felt myself cut off once and forever from the communion of
@@ -3048,8 +2996,7 @@
                         the room, Chloe laid down her fork, and with sparkling eyes turned to
                         Yolande.</p>
                     <p>“Now,” she said, and there was just that suppressed fire about her that I had
-                        hoped to waken by my tale of the fruit-stealers—“now,<pb n="154"
-                            xml:id="VAB7142-162"/> I think we might tell him. You tell him, Yolande,
+                        hoped to waken by my tale of the fruit-stealers—“now,<pb n="154" xml:id="VAB7142-162"/> I think we might tell him. You tell him, Yolande,
                         because it's your doing, you clever, intelligent—”</p>
                     <p>“Spare me,” Yolande interrupted; “whatever my faults may be, I'm not
                         intelligent. That's what the police always are when they can't find out the
@@ -3062,8 +3009,7 @@
                         you don't tell him I shall.”</p>
                     <p>“It's nothing,” said Yolande, nonchalantly, crumbling her bread and looking
                         down so as to express indifference with her eyelashes—a very graceful
-                        accomplishment. “It's really nothing—only you gave me <foreign
-                            xml:lang="fre">carte blanche</foreign> as your land agent, and I've let
+                        accomplishment. “It's really nothing—only you gave me <foreign xml:lang="fre">carte blanche</foreign> as your land agent, and I've let
                         the big cottage for you—not Prosser's—the one on the other side.”</p>
                     <p>“You have? Chloe, I know it seems the basest ingratitude to Yolande,
                         but—think of Prosser, fairest of land agents, and tell me frankly, has he
@@ -3169,8 +3115,7 @@
                         looked. So the rest of the day passed in washing, dyeing, and ironing her
                         primrose-colored liberty silk.</p>
                     <p>The dye was pale pink, a brilliant scarlet, or a deep crimson, according to
-                        the measure of its dilution. Several minor articles were irrevocably<pb
-                            n="160" xml:id="VAB7142-168"/> ocably ruined, and gallons of ruddy dye
+                        the measure of its dilution. Several minor articles were irrevocably<pb n="160" xml:id="VAB7142-168"/> ocably ruined, and gallons of ruddy dye
                         stood about the bath-room in pails, before the right shade of delicate pink
                         was achieved in one of my best white silk ties. Then the primrose gown
                         became rose-colored, and was rinsed and dried and ironed till it looked like
@@ -3187,8 +3132,7 @@
                         uncle would kick it over inadvertently, no aunt absently sit down on it.</p>
                     <p>And now it was the day of the house-warming. It was a fine day, and, acting
                         on a sudden inspiration, Yolande and I rode over to Blackheath on our
-                        bicycles, returning laden with light, enormous<pb n="161"
-                            xml:id="VAB7142-169"/> mous parcels. They were colored Chinese lanterns.
+                        bicycles, returning laden with light, enormous<pb n="161" xml:id="VAB7142-169"/> mous parcels. They were colored Chinese lanterns.
                         We hung them from the trees near the house. And then, further inspired, I
                         tore off for more, and we strung them on wires and made the house beautiful
                         with them. The big drawing-room, with its evergreen garlands, its little
@@ -3667,8 +3611,7 @@
                             <emph>might</emph> be earning money instead and keeping whole armies of
                         competent professional nurses. Now your property—”</p>
                     <p>“Yes, I know,” Yolande interrupted; “my property's in consols—what there is
-                        of it—and I love it for itself alone. It has no sentimental<pb n="186"
-                            xml:id="VAB7142-196"/> claims. Don't throw it up at me. But even if I
+                        of it—and I love it for itself alone. It has no sentimental<pb n="186" xml:id="VAB7142-196"/> claims. Don't throw it up at me. But even if I
                         had a house and a garden and cottages and all the rest of it—”</p>
                     <p>“If you had a husband,” said Chloe, looking up suddenly from the red heart of
                         the fire at which she had been blinking, “wouldn't you like to sew on his
@@ -3764,8 +3707,7 @@
                         like wraiths among the trees, and the scent of wet earth had mingled with
                         itself the perfume of sadness and regret and memory. In spring the wet earth
                         smells of hope and joy and the green future. I had stood in contemplation
-                        for some moments before the golden-pippin tree,<pb n="191"
-                            xml:id="VAB7142-201"/> and was really beginning to know its gnarled face
+                        for some moments before the golden-pippin tree,<pb n="191" xml:id="VAB7142-201"/> and was really beginning to know its gnarled face
                         by heart, when I heard a scratch and a squeak, and a voice said, “Got
                         'im!”</p>
                     <p>I moved cautiously round my tree. In the open space beyond the orchard the
@@ -3948,8 +3890,7 @@
                     <p>I never regretted that rabbit. In three days it was perfectly tame; in a week
                         it played with the cats and sat up on the hearth-rug, unconcernedly washing
                         its face. At the end of a fortnight it flopped after Chloe, in and out,
-                        up-stairs and down-stairs, like a small and very plump<pb n="200"
-                            xml:id="VAB7142-211"/> kangaroo. When the cats grew too catty in their
+                        up-stairs and down-stairs, like a small and very plump<pb n="200" xml:id="VAB7142-211"/> kangaroo. When the cats grew too catty in their
                         play the rabbit would turn round and use his deadly hind foot. They
                         presently learned to respect this, and the rabbit was master of the
                         hearth-rug.</p>
@@ -3985,8 +3926,7 @@
                         wildest confusion.</p>
                     <p>“I know,” she said one day, when I opened a drawer and silently confronted
                         her with a swollen mass of lace, ribbons, handkerchiefs, scarfs, bead
-                        necklaces, letters, collars, wristbands, brass-<pb n="202"
-                            xml:id="VAB7142-213"/> headed nails, and the long-lost hammer, all
+                        necklaces, letters, collars, wristbands, brass-<pb n="202" xml:id="VAB7142-213"/> headed nails, and the long-lost hammer, all
                         inextricably tangled up with the ball of twine I had been looking for—“I
                         know. You see, it is so important to keep the house tidy—and I
                             <emph>do</emph> tidy up.”</p>
@@ -4135,8 +4075,7 @@
                     <p>“Oh, don't be tiresome!”</p>
                     <p>“What, do words fail you in a crisis? Mine are at flood.”</p>
                     <p>“No, don't! You know what I mean.”</p>
-                    <p>“I understand you to mean that you rejoice to<pb n="209" xml:id="VAB7142-220"
-                        /> see Othello's occupation gone. You are glad that your friend has
+                    <p>“I understand you to mean that you rejoice to<pb n="209" xml:id="VAB7142-220"/> see Othello's occupation gone. You are glad that your friend has
                         renounced her dearest pastime and will finger her neighbors' pies no
                         more.”</p>
                     <p>“Dog in the manger!” said my wife.</p>
@@ -4164,8 +4103,7 @@
                         “that's because you're all soul. As for me, I must warm my hands in the
                         tea-cozy before I can carve the eggs.”</p>
                     <p>The white parlor, with its dark-panelled walls, its olive-green curtains, its
-                        sparkling brass and silver, and nothing white about it save the ceiling<pb
-                            n="211" xml:id="VAB7142-222"/> ing and the table-cloth, was a delightful
+                        sparkling brass and silver, and nothing white about it save the ceiling<pb n="211" xml:id="VAB7142-222"/> ing and the table-cloth, was a delightful
                         picture of a breakfast-room. Chloe's loose gown of turquoise-colored soft
                         stuff with its brown furry trimmings became her to distraction. I told her
                         so.</p>
@@ -4204,8 +4142,7 @@
                                 the Cociety to walk £ through your groundsa nd inspect from without
                                 of course your beauriful house, which is as you are doubtless aware
                                 of ? great ihstoric interest having been ½ for some years. We feel
-                                sure it was the 7; residence of the<pb n="213" xml:id="VAB7142-224"
-                                /> celebrated amn you know who I mean. We hope if the frost ohlds
+                                sure it was the 7; residence of the<pb n="213" xml:id="VAB7142-224"/> celebrated amn you know who I mean. We hope if the frost ohlds
                                 you will not mind us skating on yuor moat.</p>
                             <p>I; am dear Sir, Yours faithfully, Edward Turnbull Hon. Sec.</p>
                             <p>P%S¼ Please excuse mistakes% ihave not learned the typewriter
@@ -4263,8 +4200,7 @@
                         paddock broke into golden flower, and the skylarks sang in the pale blue
                         above the orchard. The 20th was a day of cloudless beauty, and even in the
                         midst of my mental congratulations to the members of the Antiquarian Society
-                        on their royal weather, I found room for a pang of sympathy<pb n="216"
-                            xml:id="VAB7142-227"/> pathy for those among them who might have had
+                        on their royal weather, I found room for a pang of sympathy<pb n="216" xml:id="VAB7142-227"/> pathy for those among them who might have had
                         their skates ground.</p>
                     <p>I recurred again that day, I remember, to our old life at the Bandbox. We
                         were sitting in the loafery, now made cosey with curtains and a big wood
@@ -4330,8 +4266,7 @@
                         the chestnut-trees, and overran everything. I've not forgotten it; I'll go
                         myself.”</p>
                     <p>She ran down the stairs, slipped her feet into the wooden sabots that she
-                        keeps for sudden winter garden excursions, and stumped off<pb n="219"
-                            xml:id="VAB7142-230"/> angrily down the path under the cedars. I took a
+                        keeps for sudden winter garden excursions, and stumped off<pb n="219" xml:id="VAB7142-230"/> angrily down the path under the cedars. I took a
                         short-cut between Jim's celery-trenches. Chloe is terrible in her wrath, but
                         if it grows too hot it boils over in tears of rage; and I did not wish Chloe
                         to cry, and I not there.</p>
@@ -4390,8 +4325,7 @@
                     <p>“Well—when we were staying in the country some Antiquaries wrote to Albert's
                         uncle—this is Albert”—he pushed forward a shy boy in velvet
                         knickerbockers—“and asked him to let them come and see his house. And we
-                        thought we should be feeling a bit slack in the<pb n="222"
-                            xml:id="VAB7142-233"/> holidays, so we thought we'd play at being
+                        thought we should be feeling a bit slack in the<pb n="222" xml:id="VAB7142-233"/> holidays, so we thought we'd play at being
                         antiquaries. And Albert's uncle showed us this place once from the train
                         when we were going to Bexley Heath, and he said some great person lived here
                         once, and it was a historic place, and we can't remember who it was. And he
@@ -4408,8 +4342,7 @@
                         it didn't matter. And if you'd rather we'd been Mr. Turnbull, you wouldn't
                         have if you'd seen how thin his legs are, and how he couldn't laugh because
                         his mouth was so tight.”</p>
-                    <p>“I'd much rather have you,” said Chloe, smiling<pb n="223"
-                            xml:id="VAB7142-234"/> ing; and as she smiled I could see how deeply all
+                    <p>“I'd much rather have you,” said Chloe, smiling<pb n="223" xml:id="VAB7142-234"/> ing; and as she smiled I could see how deeply all
                         present fell in love with her on the instant. “I'm sorry I didn't
                         understand. We won't interfere any more. You'd like to go on reading your
                         papers. Who wrote them?”</p>
@@ -4667,8 +4600,7 @@
                         tenant, but when the gong summoned us to tea and the
                         wages-of-superintendence-scones, we found our tenant working at one end of
                         the wreath, and Yolande busy at the other. It was not such a very long
-                        wreath as to have needed two pairs of hands, <pb n="236"
-                            xml:id="VAB7142-248"/> either. To do Miss Riseborough justice, she
+                        wreath as to have needed two pairs of hands, <pb n="236" xml:id="VAB7142-248"/> either. To do Miss Riseborough justice, she
                         looked very much ashamed of this lapse from the principles of a
                         lifetime.</p>
                     <p>“My hands are very dirty,” she made haste to say, “and I think that many of
@@ -4725,8 +4657,7 @@
                         awful cold if she stays out there much longer. It's a terrible thing to
                         celebrate your betrothal by a cold in the head.”</p>
                     <p>So we spoke out into the starlit twilight of the balcony, and begged to be
-                        excused, and then we crept up-stairs and raked together the red<pb n="239"
-                            xml:id="VAB7142-251"/> embers of our loafery fire, and put logs on and
+                        excused, and then we crept up-stairs and raked together the red<pb n="239" xml:id="VAB7142-251"/> embers of our loafery fire, and put logs on and
                         crouched happily in low chairs on the hearthrug of our very own fire. Chloe
                         knitted and I smoked happily and quietly till it seemed that we must no
                         longer delay to go down and speed our parting tenant. It was, in fact,
@@ -5017,8 +4948,7 @@
                         but <emph>yours</emph>. Yolande was quite right.”</p>
                     <p>“Then for the future you must put your name to the stories.”</p>
                     <p>“Oh, must I?” she asked, wistfully. “I thought it would be so nice if we put
-                        both our names. And to the drawings, too. Because<pb n="254"
-                            xml:id="VAB7142-267"/> you do invent plots better than I do, and I can
+                        both our names. And to the drawings, too. Because<pb n="254" xml:id="VAB7142-267"/> you do invent plots better than I do, and I can
                         do sketches. Then it would all be <emph>our</emph> work—not just yours or
                         mine, but ours.”</p>
                     <p>“Very well,” I said; “better than well! Ours be it. As you've said once, or
@@ -5137,8 +5067,7 @@
                         us two! Look at us two!’ They are absurdly happy.”</p>
                     <p>“So they ought to be,” I said; “it's a happy day. There's no doubt at all now
                         that spring will come again. I've only half believed it all these winter
-                        months. How neat that market-gardener man has made everything! I do hope<pb
-                            n="261" xml:id="VAB7142-274"/> we sha'n't loathe it in the summer when
+                        months. How neat that market-gardener man has made everything! I do hope<pb n="261" xml:id="VAB7142-274"/> we sha'n't loathe it in the summer when
                         we walk in it and remember how sweet and untidy and all-over-the-place it
                         was last year. <emph>That</emph> would be a happening, indeed.”</p>
                     <p>“If we are both alive and in this garden together in the summer we sha'n't
@@ -5389,8 +5318,7 @@
                         cessation of interest, “you mean <emph>her</emph>.”</p>
                     <p>He indicated Chloe by a not discourteous gesture, and instantly asked if they
                         might not go and see the pig. (Have I mentioned that Jim kept a pig?)</p>
-                    <p>Permission given, they swept away like a tidal<pb n="274"
-                            xml:id="VAB7142-288"/> wave, and we heard their boots sound fainter and
+                    <p>Permission given, they swept away like a tidal<pb n="274" xml:id="VAB7142-288"/> wave, and we heard their boots sound fainter and
                         fainter on the stairs.</p>
                     <p>Chloe and I were left alone with the cradle.</p>
                     <p>“It is hard, isn't it,” I said, meeting her eyes across the cradle, “to lose

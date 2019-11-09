@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,63 +21,22 @@
                 </respStmt>
             </titleStmt>
             <extent><measure unit="words">348793</measure></extent>
-           <publicationStmt>
-                <p>Published as part of ELTeC <date>September 2018</date></p>
-                <!--<authority>deposited by <name type="institution">Bibliomania.com Ltd</name>
-<name type="place">Oxford</name>
-<address>
-<addrLine>21 Beaumont Street</addrLine>
-<addrLine>Oxford</addrLine>
-<addrLine>OX2 2NH </addrLine>
-<addrLine>Tel: +44 (0)1865 207620</addrLine>
-</address>
-<date>1996</date>
-</authority>-->
-                <!--<distributor>
-<name>University of Oxford Text Archive</name>
-<address>
-<addrLine>Oxford University Computing Services</addrLine>
-<addrLine>13 Banbury Road</addrLine>
-<addrLine>Oxford</addrLine>
-<addrLine>OX2 6NN</addrLine>
-</address>
-<email>ota@oucs.ox.ac.uk</email>
-</distributor>-->
-
-                <!--<idno type="ota">http://ota.ox.ac.uk/id/3164</idno>
-<idno type="isbn10">110600163X</idno>
-<idno type="isbn13">9781106001634</idno>
--->
-                <!--<availability status="free">
-<licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed by the University of
-Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
-</availability>-->
-             
-            </publicationStmt>
-            <sourceDesc>
-                <bibl><title>Dombey and Son</title>
+           <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC September 2018--></publicationStmt>
+            <sourceDesc><bibl type="unspecified"><title>Dombey and Son</title>
                     <idno type="ota">http://ota.ox.ac.uk/id/3164</idno>
                     <publisher>Oxford Text Archive</publisher>
                     <respStmt>
                         <resp>Depositor</resp>
                         <name>Bibliomania.com Ltd</name>
                     </respStmt>
-                    <relatedItem type="recodedFrom">
-                        <bibl><title>Dombey and Son / by Charles Dickens</title>
-                            <ref target="http://ota.ox.ac.uk/id/2128"/></bibl>
-                    </relatedItem>
-                    <relatedItem type="copyText">
-                        <bibl><title>Dealing with the firm of Dombey and Son, 
+                    
+                    
+                </bibl><bibl type="digitalSource"><title>Dombey and Son / by Charles Dickens</title>
+                            <ref target="http://ota.ox.ac.uk/id/2128"/></bibl><bibl type="unspecified"><title>Dealing with the firm of Dombey and Son, 
                             wholesale, retail, and for exportation</title>
                             <author>Charles Dickens</author>
                             <publisher>Chapman and Hall</publisher>
-                            <date>1848</date></bibl>
-                    </relatedItem>
-                </bibl>
-
-<!-- originally published in parts from 1846 -->
-                    
-            </sourceDesc>
+                            <date>1848</date></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
             <p/>
@@ -92,7 +56,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2010-09-29">Header normalised</change>
         </revisionDesc>
     </teiHeader>
@@ -107,7 +71,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
 </titlePage>
 </front>-->
         <body>
-            <div xml:id="c1" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER I</head>
                 <head>Dombey and Son</head>
                 <p>DOMBEY sat in the corner of the darkened room in the great arm-chair by the
@@ -447,7 +411,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>Thus, clinging fast to that slight spar within her arms, the mother drifted out
                     upon the dark and unknown sea that rolls round all the world. </p>
             </div>
-            <div xml:id="c2" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER II</head>
                 <head>In which Timely Provision is made for an Emergency that will sometimes arise
                     in the best-regulated Families</head>
@@ -783,7 +747,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     himself preferred to ride behind among the spikes, as being the mode of
                     conveyance to which he was best accustomed. </p>
             </div>
-            <div xml:id="c3" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER III</head>
                 <head>In which Mr. Dombey, as a Man and a Father, is seen at the Head of the
                     Home-Department</head>
@@ -1143,7 +1107,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     though there's a excellent party-wall between this house and the next, I mayn't
                     exactly like to go to it, Mrs. Richards, notwithstanding!´ </p>
             </div>
-            <div xml:id="c4" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER IV</head>
                 <head>In which some more First Appearances are made on the Stage of these
                     Adventures</head>
@@ -1553,7 +1517,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     about her, I shall make bold to amend the toast. So here's to Dombey—and Son—and
                     Daughter!´ </p>
             </div>
-            <div xml:id="c5" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER V</head>
                 <head>Paul's Progress and Christening</head>
                 <p>LITTLE Paul, suffering no contamination, from the blood of the Toodles, grew
@@ -2146,7 +2110,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     glancing through the dreary windown, pressed the little fellow closer to her
                     breast, the withered leaves came showering down. </p>
             </div>
-            <div xml:id="c6" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER VI</head>
                 <head>Paul's Second Deprivation</head>
                 <p>POLLY was beset by so many misgivings in the morning, that but for the incessant
@@ -2851,7 +2815,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     and true a friend. But that is quite beside the question. Let us waste no words
                     about it. </p>
             </div>
-            <div xml:id="c7" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER VII</head>
                 <head>A Bird's-eye Glimpse of Miss Tox's Dwelling-place; also of the State of Miss
                     Tox's Affections</head>
@@ -3032,7 +2996,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     early sorrows of his sister, and the stern visions of his father; and innocent
                     that any spot of earth contained a Dombey or a Son. </p>
             </div>
-            <div xml:id="c8" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER VIII</head>
                 <head>Paul's further Progress, Growth, and Character</head>
                 <p>BENEATH the watching and attentive eyes of Time—so far another Major—Paul's
@@ -3720,7 +3684,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     understand what it was that the waves were always saying; and would rise up in
                     his couch to look towards that invisible region, far away. </p>
             </div>
-            <div xml:id="c9" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER IX</head>
                 <head>In which the Wooden Midshipman gets into Trouble</head>
                 <p>THAT spice of romance and love of the marvellous, of which there was a pretty
@@ -4169,7 +4133,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     without a minute's delay, and repeatedly assured him, on the road, that he would
                     stick by him to the last. </p>
             </div>
-            <div xml:id="c10" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER X</head>
                 <head>Containing the Sequel of the Midshipman's Disaster</head>
                 <p>MAJOR BAGSTOCK, after long and frequent observation of Paul, across Princess's
@@ -4555,7 +4519,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     the time was close at hand when he must seek the abode of the dreadful Mrs.
                     MacStinger. </p>
             </div>
-            <div xml:id="c11" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XI</head>
                 <head>Paul's Introduction to a New Scene</head>
                 <p>MRS. PIPCHIN'S constitution was made of such hard metal, in spite of its
@@ -5038,7 +5002,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     sat as if he had taken life unfurnished, and the upholsterer were never coming.
                 </p>
             </div>
-            <div xml:id="c12" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XII</head>
                 <head>Paul's Education</head>
                 <p>AFTER the lapse of some minutes, which appeared an immense time to little Paul
@@ -5638,7 +5602,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     the window of his solitary cage when birds flew by, as if he would have emulated
                     them, and soared away! </p>
             </div>
-            <div xml:id="c13" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XIII</head>
                 <head>Shipping Intelligence and Office Business</head>
                 <p>MR. DOMBEY'S offices were in a court where there was an old-established stall of
@@ -6031,7 +5995,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     Mrs. Perch's own eating, in the course of her recovery from her next
                     confinement? </p>
             </div>
-            <div xml:id="c14" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XIV</head>
                 <head>Paul grows more and more Old-fashioned, and goes Home for the Holidays</head>
                 <p>WHEN the Midsummer vacation approached, no indecent manifestations of joy were
@@ -6838,7 +6802,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>`I'm very glad he didn't cry,´ said little Paul. `I thought he did. Don't tell
                     them that I asked.´ </p>
             </div>
-            <div xml:id="c15" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XV</head>
                 <head>Amazing Artfulness of Captain Cuttle, and a new Pursuit for Walter Gay</head>
                 <p>WALTER could not, for several days, decide what to do in the Barbados business;
@@ -7337,7 +7301,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     him, and begged him to return. Walter retraced his steps as quickly as he could,
                     and entered the gloomy house with a sorrowful foreboding. </p>
             </div>
-            <div xml:id="c16" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XVI</head>
                 <head>What the Waves were always saying</head>
                 <p>PAUL had never risen from his little bed. He lay there, listening to the noises
@@ -7514,7 +7478,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     look upon us, angels of young children, with regards not quite estranged, when
                     the swift river bears us to the ocean! </p>
             </div>
-            <div xml:id="c17" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XVII</head>
                 <head>Captain Cuttle does a little Business for the Young People</head>
                 <p>CAPTAIN CUTTLE, in the exercise of that surprising talent for deep-laid and
@@ -7898,7 +7862,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     door, and refused to come out to the contemplation of her blessed infants, until
                     he was securely lodged in his own room. </p>
             </div>
-            <div xml:id="c18" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XVIII</head>
                 <head>Father and Daughter</head>
                 <p>THERE is a hush through Mr. Dombey's house. Servants gliding up and downstairs
@@ -8524,7 +8488,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     down, out of the tops of his eyes, until from winking and winking he fell asleep
                     himself, and dreamed, with gruff barks, of his enemy. </p>
             </div>
-            <div xml:id="c19" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XIX</head>
                 <head>Walter goes away</head>
                 <p>THE Wooden Midshipman at the Instrument-maker's door, like the hard-hearted
@@ -8958,7 +8922,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     known its dangers of the deep, lay silently beneath its dust and cobwebs, in the
                     meanwhile, undisturbed. </p>
             </div>
-            <div xml:id="c20" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XX</head>
                 <head>Mr. Dombey goes upon a Journey</head>
                 <p>`MR. DOMBEY, Sir,´ said Major Bagstock, `Joey B. is not in general a man of
@@ -9424,7 +9388,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     excusing himself for another day, as he had thought of doing when alone, walked
                     out with the Major arm-in-arm. </p>
             </div>
-            <div xml:id="c21" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXI</head>
                 <head>New Faces</head>
                 <p>THE Major, more blue-faced and staring—more over-ripe, as it were, than ever—and
@@ -9795,7 +9759,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     dark, and the clouds are gathering, and threaten to discharge themselves in
                     hail! </p>
             </div>
-            <div xml:id="c22" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXII</head>
                 <head>A Trifle of Management by Mr. Carker the Manager</head>
                 <p>MR. CARKER the Manager sat at his desk, smooth and soft as usual, reading those
@@ -10446,7 +10410,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     Another, as he picks his way along! You have a good scent, Di,—cats, boy, cats!
                 </p>
             </div>
-            <div xml:id="c23" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXIII</head>
                 <head>Florence solitary, and the Midshipman mysterious</head>
                 <p>FLORENCE lived alone in the great dreary house, and day succeeded day, and still
@@ -11191,7 +11155,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     wooden mariner, the Captain headed for Brig Place, resolving to weigh anchor
                     betimes in the morning. </p>
             </div>
-            <div xml:id="c24" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXIV</head>
                 <head>The Study of a Loving Heart</head>
                 <p>SIR BARNET and Lady Skettles, very good people, resided in a pretty villa at
@@ -11575,7 +11539,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     Mr. Carker, turning a corner, on the instant, looked back, and bowed, and
                     disappeared, as if he rode off to the churchyard straight, to do it. </p>
             </div>
-            <div xml:id="c25" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXV</head>
                 <head>Strange News of Uncle Sol</head>
                 <p>CAPTAIN CUTTLE, though no sluggard, did not turn out so early on the morning
@@ -11890,7 +11854,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     changes come upon them, thought musingly of Walter, and of Solomon Gills, and
                     even of Mrs. MacStinger herself, as among the things that had been. </p>
             </div>
-            <div xml:id="c26" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXVI</head>
                 <head>Shadows of the Past and Future</head>
                 <p>`YOUR most obedient, Sir,´ said the Major. `Damme, Sir, a friend of my friend
@@ -12430,7 +12394,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     them: looking down, maliciously enough: but trod upon no upturned face—as yet.
                 </p>
             </div>
-            <div xml:id="c27" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXVII</head>
                 <head>Deeper Shadows</head>
                 <p>Mr. CARKER the Manger rose with the lark, and went out, walking in the summer
@@ -13003,7 +12967,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     have put on paralysis with her flannel gown, collected the ashes of Cleopatra,
                     and carried them away in the other, ready for tomorrow's revivification. </p>
             </div>
-            <div xml:id="c28" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXVIII</head>
                 <head>Alterations</head>
                 <p>`SO the day has come at length, Susan,´ said Florence to the excellent Nipper,
@@ -13358,7 +13322,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     old home, her own Mama smiled radiantly upon the hope, and blessed it. Dreaming
                     Florence! </p>
             </div>
-            <div xml:id="c29" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXIX</head>
                 <head>The Opening of the Eyes of Mrs. Chick</head>
                 <p>MISS TOX, all unconscious of any such rare appearances in connexion with Mr.
@@ -13754,7 +13718,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     to the magnificence of Mr. Dombey—while poor excommunicated Miss Tox watered her
                     plants with her tears, and felt that it was winter in Princess's Place. </p>
             </div>
-            <div xml:id="c30" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXX</head>
                 <head>The Interval before the Marriage</head>
                 <p>ALTHOUGH the enchanted house was not more, and the working world had broken into
@@ -14267,7 +14231,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>Thus Edith Granger passed the night before her bridal. Thus the sun found her on
                     her bridal morning. </p>
             </div>
-            <div xml:id="c31" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXI</head>
                 <head>The Wedding</head>
                 <p>DAWN, with its passionless blank face, steals shivering to the church beneath
@@ -14808,7 +14772,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>The very words that Mr. Carker rides into town repeating, with his mouth
                     stretched to the utmost, as he picks his dainty way. </p>
             </div>
-            <div xml:id="c32" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXII</head>
                 <head>The Wooden Midshipman goes to Pieces</head>
                 <p>HONEST Captain Cuttle, as the weeks flew over him in his fortified retreat, by no
@@ -15403,7 +15367,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     back parlour, and stopping now and then to wipe his eyes, the Captain, in a true
                     and simple spirit, committed Walter's body to the deep. </p>
             </div>
-            <div xml:id="c33" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXIII</head>
                 <head>Contrasts</head>
                 <p>TURN we our eyes upon two homes; not lying side by side, but wide apart, though
@@ -15830,7 +15794,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     her black hair, and disordered head-gear, fluttering round her reckless face.
                 </p>
             </div>
-            <div xml:id="c34" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXIV</head>
                 <head>Another Mother and Daughter</head>
                 <p>IN an ugly and dark room, an old woman, ugly and dark too, sat listening to the
@@ -16235,7 +16199,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>Say, Edith Dombey! And Cleopatra, best of mothers, let us have your testimony!
                 </p>
             </div>
-            <div xml:id="c35" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXV</head>
                 <head>The Happy Pair</head>
                 <p>THE dark blot on the street is gone. Mr. Dombey's mansion, if it be a gap among
@@ -16636,7 +16600,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     of the fire were on the hearth, and that she was alone. </p>
                 <p>So passed the night on which the happy pair came home. </p>
             </div>
-            <div xml:id="c36" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXVI</head>
                 <head>Housewarming</head>
                 <p>MANY succeeding days passed in like manner; except that there were numerous
@@ -17031,7 +16995,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     night of the return; and often since; and which deepened on it now as he looked
                     up. </p>
             </div>
-            <div xml:id="c37" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXVII</head>
                 <head>More Warnings than One</head>
                 <p>FLORENCE, Edith, and Mrs. Skewton were together next day, and the carriage was
@@ -17394,7 +17358,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     influence, they never blushed upon her loveliness irradiated by a smile, or
                     softened by the light of filial love, in its stern beauty. </p>
             </div>
-            <div xml:id="c38" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXVIII</head>
                 <head>Miss Tox improves an Old Acquaintance</head>
                 <p>THE forlorn Miss Tox, abandoned by her friend Louisa Chick, and bereft of Mr.
@@ -17702,7 +17666,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     of those objectors out of hand, and established the glory of the Grinders'
                     Institution. </p>
             </div>
-            <div xml:id="c39" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XXXIX</head>
                 <head>Further Adventures of Captain Edward Cuttle, Mariner</head>
                 <p>TIME, sure of foot and strong of will, had so pressed onward, that the year
@@ -18276,7 +18240,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     neighbours noticed how the seafaring man in the glazed hat, stood at the
                     shop-door of an evening, looking up and down the street. </p>
             </div>
-            <div xml:id="c40" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XL</head>
                 <head>Domestic Relations</head>
                 <p>IT was not in the nature of things that a man of Mr. Dombey's mood, opposed to
@@ -18816,7 +18780,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     looks won't save us. And you're a proud woman; but pride won't save us. We had
                     need to know each other when we meet again!´ </p>
             </div>
-            <div xml:id="c41" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLI</head>
                 <head>New Voices in the Waves</head>
                 <p>ALL is going on as it was wont. The waves are hoarse with repetition of their
@@ -19166,7 +19130,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     listening to its waves, has dank weed cast up at her feet, to strew her path in
                     life withal. </p>
             </div>
-            <div xml:id="c42" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLII</head>
                 <head>Confidential and Accidental</head>
                 <p>ATTIRED on more in Captain Cuttle's sable and slops sou'wester hat, but dressed
@@ -19682,7 +19646,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     giant-like, before her, one resented figure marshalled them against her. And
                     that figure was her husband. </p>
             </div>
-            <div xml:id="c43" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLIII</head>
                 <head>The Watches of the Night</head>
                 <p>FLORENCE, long since awakened from her dream, mournfully observed the
@@ -19970,7 +19934,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     waking, with the placid hand in hers, and sometimes whispered, as she looked at
                     the hushed face, `Be near me, Florence, I have no hope but in you!´ </p>
             </div>
-            <div xml:id="c44" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLIV</head>
                 <head>A Separation</head>
                 <p>WITH the day, though not so early as the sun, uprose Miss Susan Nipper. There was
@@ -20312,7 +20276,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>`Thank'ee!´ said Mr. Toots. `It's of no consequence. Good night. It's of no
                     consequence, thank'ee!´ </p>
             </div>
-            <div xml:id="c45" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLV</head>
                 <head>The Trusty Agent</head>
                 <p>EDITH went out alone that day, and returned home early. It was but a few minutes
@@ -20584,7 +20548,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     and kissed it, and withdrew. And when he had closed the door, he waved the hand
                     with which he had taken hers, and thrust it in his breast. </p>
             </div>
-            <div xml:id="c46" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLVI</head>
                 <head>Recognizant and Reflective</head>
                 <p>AMONG sundry minor alterations in Mr. Carker's life and habits that began to take
@@ -21014,7 +20978,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     was going, he was still; and not a footprint did she mark upon it, but he set
                     his own there, straight. </p>
             </div>
-            <div xml:id="c47" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLVII</head>
                 <head>The Thunderbolt</head>
                 <p>THE barrier between Mr. Dombey and his wife was not weakened by time.
@@ -21685,7 +21649,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     and Florence, with her head bent down to hide her agony of tears, was in the
                     streets. </p>
             </div>
-            <div xml:id="c48" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLVIII</head>
                 <head>The Flight of Florence</head>
                 <p>IN the wildness of her sorrow, shame, and terror, the forlorn girl hurried
@@ -22078,7 +22042,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     him sometimes to her door; but by degrees she slept more peacefully, and the
                     Captain's watch was undisturbed. </p>
             </div>
-            <div xml:id="c49" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER XLIX</head>
                 <head>The Midshipman makes a Discovery</head>
                 <p>IT was long before Florence awoke. The day was in its prime, the day was in its
@@ -22667,7 +22631,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     MacStinger, and kept prisoner by that lady in a secret chamber on a short
                     allowance of victuals. </p>
             </div>
-            <div xml:id="c50" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER L</head>
                 <head>Mr. Toots's Complaint</head>
                 <p>THERE was an empty room above-stairs at the Wooden Midshipman's, which, in days
@@ -23255,7 +23219,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>`Ed'ard Cuttle, my lad, you never shaped a better course in your life, than when
                     you made that there little property over, jintly!´ </p>
             </div>
-            <div xml:id="c51" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LI</head>
                 <head>Mr. Dombey and the World</head>
                 <p>WHAT is the proud man doing, while the days go by? Does he ever think of his
@@ -23522,7 +23486,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>Everything that is said and done about it, except by Mr. Dombey, is done in
                     chorus. Mr. Dombey and the world are alone together. </p>
             </div>
-            <div xml:id="c52" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LII</head>
                 <head>Secret Intelligence</head>
                 <p>GOOD Mrs. Brown and her daughter Alice kept silent company together, in their own
@@ -24034,7 +23998,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     its master's danger, and was wild to force a passage out, and fly away to warn
                     him of it. </p>
             </div>
-            <div xml:id="c53" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LIII</head>
                 <head>More Intelligence</head>
                 <p>THERE were two of the traitor's own blood—his renounced brother and sister—on
@@ -24568,7 +24532,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     eyes; her hand was gone from Harriet's arm; and the place where she had been was
                     empty. </p>
             </div>
-            <div xml:id="c54" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LIV</head>
                 <head>The Fugitives</head>
                 <p>THE time, an hour short of midnight; the place, a French apartment, comprising
@@ -24939,7 +24903,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     street, and having put it in a corner, went out where the stars were shining.
                 </p>
             </div>
-            <div xml:id="c55" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LV</head>
                 <head>Rob the Grinder loses his Place</head>
                 <p>THE porter at the iron gate which shut the court-yard from the street, had left
@@ -25351,7 +25315,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     board, between four men, and saw that others drove some dogs away that sniffed
                     upon the road, and soaked his blood up, with a train of ashes. </p>
             </div>
-            <div xml:id="c56" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LVI</head>
                 <head>Several People delighted, and the Game Chicken disgusted</head>
                 <p>THE Midshipman was all alive. Mr. Toots and Susan had arrived at last. Susan has
@@ -26124,7 +26088,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     had thought of him as her friend upon the last night of her maiden life, and who
                     had sent him her dear love. </p>
             </div>
-            <div xml:id="c57" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LVII</head>
                 <head>Another Wedding</head>
                 <p>MR. SOWNDS the beadle, and Mrs. Miff the pew-opener, are early at their posts in
@@ -26388,7 +26352,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     but ranging still, beyond the sea, beyond the sky, to the invisible country far
                     away! </p>
             </div>
-            <div xml:id="c58" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LVIII</head>
                 <head>After a Lapse</head>
                 <p>THE sea had ebbed and flowed, through a whole year. Through a whole year, the
@@ -26898,7 +26862,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                 <p>Nothing lay there, any longer, but the ruin of the mortal house on which the rain
                     had beaten, and the black hair that had fluttered in the wintry wind. </p>
             </div>
-            <div xml:id="c59" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LIX</head>
                 <head>Retribution</head>
                 <p>CHANGES have come again upon the great house in the long dull street, once the
@@ -27531,7 +27495,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     baulking any nearer inquiries with the staring announcement that the lease of
                     this desirable Family Mansion was to be disposed of. </p>
             </div>
-            <div xml:id="c60" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LX</head>
                 <head>Chiefly Matrimonial</head>
                 <p>THE grand half-yearly festival holden by Doctor and Mrs. Blimber, on which
@@ -27950,7 +27914,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     spoken with great feeling and high admiration, `all I ask is, that you'll
                     remember the medical man, and not exert yourself too much.´ </p>
             </div>
-            <div xml:id="c61" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LXI</head>
                 <head>Relenting</head>
                 <p>FLORENCE had need of help. Her father's need of it was sore, and made the aid of
@@ -28372,7 +28336,7 @@ Oxford under a Creative Commons Attribution-ShareAlike 3.0 Unported License </li
                     time, and with whom my friend Gay is no doubt acquainted—that it's like the
                     shadow of a dream.´ </p>
             </div>
-            <div xml:id="c62" type="chapter">
+            <div type="chapter">
                 <head>CHAPTER LXII</head>
                 <head>Final</head>
                 <p>A BOTTLE that has been long excluded from the light of day, and is hoary with

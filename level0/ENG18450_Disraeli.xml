@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -15,15 +20,11 @@
     <measure unit="pages">787</measure>
     
    </extent>
-   <publicationStmt>
-    <p>Published as part of ELTeC<date>Sept 2018</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>The Project Gutenberg EBook of Sybil, by Benjamin Disraeli</title> EBook #3760
-     translated from HTML to TEI<relatedItem type="copyText"><bibl><title>Sybil; Or, The Two
+   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeCSept 2018--></publicationStmt>
+   <sourceDesc><bibl type="unspecified"><title>The Project Gutenberg EBook of Sybil, by Benjamin Disraeli</title> EBook #3760
+     translated from HTML to TEI</bibl><bibl type="digitalSource"><title>Sybil; Or, The Two
         Nations</title><author>B. Disraeli, M.P.</author><publisher>Henry
-        Colburn</publisher><date>1845</date><ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl></relatedItem></bibl>
-   </sourceDesc>
+        Colburn</publisher><date>1845</date><ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
    <p/>
@@ -35,19 +36,19 @@
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-    <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+    <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
    </textDesc>
   </profileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2018-09-29">LB checked pagenumbers against original</change>
    <change when="2018-09-18">LB working on header</change>
   </revisionDesc>
  </teiHeader>
  <text>
   <body>
-  <div type="volume" n="1">
-   <div type="titlepage">
+  <div type="group">
+   <div type="unrecognized">
     <p> SYBIL,</p>
     <p> or THE TWO NATIONS</p>
     <p> By Benjamin Disraeli</p>
@@ -74,10 +75,10 @@
      throw over these pages, might deter many from their perusal.</p>
     <p> Grosvenor-Gate, May Day, 1845.</p>
    </div>
-   <div type="part">
+   <div type="group">
     <pb n="[1]"/>
     <head>Sybil, or the Two Nations</head><head> BOOK I</head>
-   <div type="chapter" xml:id="ENG3760001"><head>CHAPTER I.</head>
+   <div type="chapter"><head>CHAPTER I.</head>
      
      <p> “I’ll take the odds against Caravan.”</p>
      <p> “In poneys?”</p>
@@ -207,7 +208,7 @@
       arrived, he would have found probably hearts as bold and spirits as reckless as he encountered
       in Andalusia.</p>
     </div>
-    <pb n="12"/><div type="chapter" xml:id="ENG3760002"><head>CHAPTER II.</head>
+    <pb n="12"/><div type="chapter"><head>CHAPTER II.</head>
      
      <p> “Will any one do anything about Hybiscus?” sang out a gentleman in the ring at Epsom. It
       was full of eager groups; round the betting post a swarming cluster, while the magic circle
@@ -306,7 +307,7 @@
       he poured the champagne into the glass of Egremont.</p>
      <p> “By Jove!” said Lord Milford, “Only think of Cockie Graves having gone and done it!”</p>
     </div>
-    <pb n="20"/><div type="chapter" xml:id="ENG3760003"><head>CHAPTER III.</head>
+    <pb n="20"/><div type="chapter"><head>CHAPTER III.</head>
      
      <p> Egremont was the younger brother of an English earl, whose nobility being of nearly three
       centuries’ date, ranked him among our high and ancient peers, although its origin was more
@@ -743,7 +744,7 @@
       under all the circumstances an euthanasia; he expired leaning as it were on his white wand and
       babbling of strawberry leaves.</p>
     </div>
-    <pb n="57"/><div type="chapter" xml:id="ENG3760004"><head>CHAPTER IV.</head>
+    <pb n="57"/><div type="chapter"><head>CHAPTER IV.</head>
      
      <p> “My dear Charles,” said Lady Marney to Egremont the morning after the Derby, as
       breakfasting with her in her boudoir he detailed some of the circumstances of the race, “we
@@ -825,7 +826,7 @@
        quadrille, and how charming it will be! Let me know if you hear anything further from your
        unmentionable quarter. “Ever your affectionate “C.M.”</p>
     </div>
-    <pb n="64"/><div type="chapter" xml:id="ENG3760005"><head>CHAPTER V.</head>
+    <pb n="64"/><div type="chapter"><head>CHAPTER V.</head>
      
      <p> Lord Marney left several children; his heir was five years older than the next son Charles
       who at the period of his father’s death was at Christchurch and had just entered the last year
@@ -1018,7 +1019,7 @@
       considerable amount the horse that ought to have won, but which nevertheless only ran a
       second.</p>
     </div>
-    <pb n="81"/><div type="chapter" xml:id="ENG3760006"><head>CHAPTER VI.</head>
+    <pb n="81"/><div type="chapter"><head>CHAPTER VI.</head>
      
      <p> Notwithstanding the confidence of Lady St Julians, and her unrivalled information, the
       health of the king did not improve: but still it was the hay fever, only the hay fever. An
@@ -1176,9 +1177,9 @@
    </div>
   <pb/>
    <pb n="95"/>
-   <div type="part">
+   <div type="group">
     <head> BOOK II.</head>
-    <div type="chapter" xml:id="ENG3760007"><head>CHAPTER I.</head>
+    <div type="chapter"><head>CHAPTER I.</head>
      
      <p> The building which was still called MARNEY ABBEY, though remote from the site of the
       ancient monastery, was an extensive structure raised at the latter end of the reign of James
@@ -1349,7 +1350,7 @@
      <p> “She might yet rally round the throne a body of men”—</p>
      <p> “Then we will go to the ladies,” said the earl, abruptly disturbing his guest.</p>
     </div>
-    <pb n="109"/><div type="chapter" xml:id="ENG3760008"><head>CHAPTER II.</head>
+    <pb n="109"/><div type="chapter"><head>CHAPTER II.</head>
      
      <p> There was music as they re-entered the drawing-room. Sir Vavasour attached himself to
       Egremont.</p>
@@ -1439,7 +1440,7 @@
       are the only individual I have yet met out of the Order, who has taken a sensible view of this
       great question, which, after all, is the question of the day.”</p>
     </div>
-    <pb n="116"/><div type="chapter" xml:id="ENG3760009"><head>CHAPTER III.</head>
+    <pb n="116"/><div type="chapter"><head>CHAPTER III.</head>
      
      <p> The situation of the rural town of Marney was one of the most delightful easily to be
       imagined. In a spreading dale, contiguous to the margin of a clear and lively stream,
@@ -1553,7 +1554,7 @@
       been introduced into the parish of Marney; and last night the primest stacks of the Abbey farm
       had blazed a beacon to the agitated neighbourhood.</p>
     </div>
-    <pb n="126"/><div type="chapter" xml:id="ENG3760010"><head>CHAPTER IV.</head>
+    <pb n="126"/><div type="chapter"><head>CHAPTER IV.</head>
      
      <p> “It is not so much the fire, sir,” said Mr Bingley of the Abbey farm to Egremont, “but the
       temper of the people that alarms me. Do you know, sir, there were two or three score of them
@@ -1688,7 +1689,7 @@
      <p> There was something in the appearance of the stranger that interested Egremont; and <pb n="137"/>waiting till he had established himself in his pleasant resting place, Egremont
       descended into the cloister garden and determined to address him.</p>
     </div>
-    <pb n="138"/><div type="chapter" xml:id="ENG3760011"><head>CHAPTER V.</head>
+    <pb n="138"/><div type="chapter"><head>CHAPTER V.</head>
      
      <p> “You lean against an ancient trunk,” said Egremont, carelessly advancing to the stranger,
       who looked up at him without any expression of surprise, and then replied. “They say ‘tis the
@@ -1862,7 +1863,7 @@
       pardoned for believing her a seraph, that had lighted on this sphere, or the fair phantom of
       some saint haunting the sacred ruins of her desecrated fane.</p>
     </div>
-    <pb n="152"/><div type="chapter" xml:id="ENG3760012"><head>CHAPTER VI.</head>
+    <pb n="152"/><div type="chapter"><head>CHAPTER VI.</head>
      
      <p> “I understand, then,” said Lord Marney to his brother, as on the evening of the same day
       they were seated together in the drawing-room, in close converse “I understand then, that you
@@ -2101,7 +2102,7 @@
       towards the farm, but did not overtake them; reached it, but learned nothing of them; and
       arrived at his brother’s full of a strange yet sweet perplexity.</p>
     </div>
-    <pb n="171"/><div type="chapter" xml:id="ENG3760013"><head>CHAPTER VII.</head>
+    <pb n="171"/><div type="chapter"><head>CHAPTER VII.</head>
      
      <p> In a commercial country like England, every half century developes some new and vast source
       of public wealth, which brings into national notice a new and powerful class. A couple of
@@ -2245,7 +2246,7 @@
       of the means by which we got a man of genius for a minister, was elevating Lord Fitz-Warene in
       the peerage, by the style and title of Earl de Mowbray of Mowbray Castle.</p>
     </div>
-    <pb n="184"/><div type="chapter" xml:id="ENG3760014"><head>CHAPTER VIII.</head>
+    <pb n="184"/><div type="chapter"><head>CHAPTER VIII.</head>
      
      <p> We must now for a while return to the strangers of the Abbey ruins. When the two men had
       joined the beautiful Religious, whose apparition had so startled Egremont, they all three
@@ -2367,7 +2368,7 @@
      <p> “Good night, mine own child,” said Gerard.</p>
      <p> “I could believe in saints when I am with thee,” murmured Stephen; “Good night,—SYBIL.”</p>
     </div>
-    <pb n="194"/><div type="chapter" xml:id="ENG3760015"><head>CHAPTER IX.</head>
+    <pb n="194"/><div type="chapter"><head>CHAPTER IX.</head>
      
      <p> When Gerard and his friend quitted the convent they proceeded at a brisk pace, into the
       heart of the town. The streets were nearly empty; and with the exception of some occasional
@@ -2509,7 +2510,7 @@
       deeply mused. “‘tis the children gets the wages,” she added after a profound pause, “and there
       it is.”</p>
     </div>
-    <pb n="206"/><div type="chapter" xml:id="ENG3760016"><head>CHAPTER X.</head>
+    <pb n="206"/><div type="chapter"><head>CHAPTER X.</head>
      
      <p> In the meantime Gerard and Stephen stopped before a tall, thin, stuccoed house,
       ballustraded and friezed, very much lighted both within and without, and, from the sounds that
@@ -2801,7 +2802,7 @@
      <p> “I tell you what,” said Mick, with a knowing look, and in a lowered tone, “The only thing,
       my hearties, that can save this here nation, is—a—good strike.”</p>
     </div>
-    <pb n="230"/><div type="chapter" xml:id="ENG3760017"><head>CHAPTER XI.</head>
+    <pb n="230"/><div type="chapter"><head>CHAPTER XI.</head>
      
      <p> “Your lordship’s dinner is served,” announced the groom of the chambers to Lord de Mowbray;
       and the noble lord led out Lady Marney. The rest followed. Egremont found himself seated next
@@ -3016,7 +3017,7 @@
       bishop, Mowbray received a humble vicar in the shape of Aubrey St Lys, who came among a
       hundred thousand heathens to preach “the Unknown God.”</p>
     </div>
-    <pb n="247"/><div type="chapter" xml:id="ENG3760018"><head>CHAPTER XII.</head>
+    <pb n="247"/><div type="chapter"><head>CHAPTER XII.</head>
      
      <p> “And how do you find the people about you, Marney?” said Lord de Mowbray seating himself on
       a sofa by his guest.</p>
@@ -3149,7 +3150,7 @@
       blessed above all <pb n="258"/>women, I never heard she was a Roman maiden. No, I should look
       to a land more distant than Italy, to a city more sacred even than Rome.”</p>
     </div>
-    <pb n="259"/><div type="chapter" xml:id="ENG3760019"><head>CHAPTER XIII.</head>
+    <pb n="259"/><div type="chapter"><head>CHAPTER XIII.</head>
      
      <p> It was a cloudy, glimmering dawn. A cold withering east wind blew through the silent
       streets of Mowbray. The sounds of the night had died away, the voices of the day had not
@@ -3322,7 +3323,7 @@
      <p> “Pray enter.”</p>
      <p> And there entered SYBIL.</p>
     </div>
-    <pb n="272"/><div type="chapter" xml:id="ENG3760020"><head>CHAPTER XIV.</head>
+    <pb n="272"/><div type="chapter"><head>CHAPTER XIV.</head>
      
      <p> “Your wife is ill?” said Sybil.</p>
      <p> “Very!” replied Warner’s wife. “Our daughter has behaved infamously to us. She has quitted
@@ -3488,7 +3489,7 @@
       goodness. She, observing that the squall seemed to have ceased, bade him farewell, and calling
       Harold, quitted the chamber.</p>
     </div>
-    <pb n="285"/><div type="chapter" xml:id="ENG3760021"><head>CHAPTER XV.</head>
+    <pb n="285"/><div type="chapter"><head>CHAPTER XV.</head>
      
      <p> “Where have you been all the morning, Charles?” said Lord Marney coming into his brother’s
       dressing-room a few minutes before dinner; “Arabella had made the nicest little riding party
@@ -3660,7 +3661,7 @@
      <p> “I am too old; at least, I am afraid so,” said the Duke of Fitz-Aquitaine, with a relenting
       smile.</p>
     </div>
-    <pb n="299"/><div type="chapter" xml:id="ENG3760022"><head>CHAPTER XVI.</head>
+    <pb n="299"/><div type="chapter"><head>CHAPTER XVI.</head>
      
      <p> About three miles before it reaches the town, the river Mowe undulates through a plain. The
       scene, though not very picturesque, has a glad and sparkling character. A stone bridge unites
@@ -3865,11 +3866,11 @@
     </div>
    </div>
   </div>
-   <div type="volume" n="2">
+   <div type="group">
    <pb n="[1]"/>
-   <div type="part">
+   <div type="group">
     <head> BOOK III.</head>
-    <div type="chapter" xml:id="ENG3760023"><head>CHAPTER I.</head>
+    <div type="chapter"><head>CHAPTER I.</head>
      
      <p> The last rays of the sun, contending with clouds of smoke that drifted across the country,
       partially illumined a peculiar landscape. Far as the eye could reach, and the region was
@@ -4070,7 +4071,7 @@
       I’d be sorry to see even our butty among them, for he is a sort of a Christian when he has
       taken a glass of ale.”</p>
     </div>
-    <pb n="17"/><div type="chapter" xml:id="ENG3760024"><head>CHAPTER II.</head>
+    <pb n="17"/><div type="chapter"><head>CHAPTER II.</head>
      
      <p> Two days after the visit of Egremont to the cottage of Walter Gerard, the visit of the
       Marney family to Mowbray terminated, and they returned to the Abbey.</p>
@@ -4325,7 +4326,7 @@
       prevent any one entering; partially opening it, he said Lady Marney was unwell and desired her
       maid; returning, he found Arabella insensible on the ground, and Egremont vanished!</p>
     </div>
-    <pb n="37"/><div type="chapter" xml:id="ENG3760025"><head>CHAPTER III.</head>
+    <pb n="37"/><div type="chapter"><head>CHAPTER III.</head>
      
      <p> It was a wet morning; there had been a heavy rain since dawn, which impelled by a gusty
       south-wester came driving on a crowd of women and girls who were assembled before the door of
@@ -4506,7 +4507,7 @@
       let you and I take him in our arms, and carry him up stairs through your private door. Every
       minute is precious.” And so saying, Morley and the elder Diggs entered the house.</p>
     </div>
-    <pb n="52"/><div type="chapter" xml:id="ENG3760026"><head>CHAPTER IV.</head>
+    <pb n="52"/><div type="chapter"><head>CHAPTER IV.</head>
      
      <p> Wodgate, or Wogate, as it was called on the map, was a district that in old days had been
       consecrated to Woden, and which appeared destined through successive ages to retain its
@@ -4671,7 +4672,7 @@
      <p> “Ah! me,” thought Morley, “and could not they spare one Missionary from Tahiti for their
       fellow countrymen at Wodgate!”</p>
     </div>
-    <pb n="66"/><div type="chapter" xml:id="ENG3760027"><head>CHAPTER V.</head>
+    <pb n="66"/><div type="chapter"><head>CHAPTER V.</head>
      
      <p> The summer twilight had faded into sweet night; the young and star-attended moon glittered
       like a sickle in the deep purple sky; of all the luminous host, Hesperus alone was visible;
@@ -4862,7 +4863,7 @@
       Sybil will sing to us a requiem that I love: it stills the spirit before we sink into the
       slumber which may this night be death, and which one day must be.”</p>
     </div>
-    <pb n="81"/><div type="chapter" xml:id="ENG3760028"><head>CHAPTER VI.</head>
+    <pb n="81"/><div type="chapter"><head>CHAPTER VI.</head>
      
      <p> A bloom was spread over the morning sky. A soft golden light bathed with its fresh beam the
       bosom of the valley, except where a delicate haze, rather than a mist, still partially
@@ -4954,7 +4955,7 @@
       thought.”</p>
      <p> “I feel these are enough,” said Sybil; “too great, as it is, for my brain.”</p>
     </div>
-    <pb n="89"/><div type="chapter" xml:id="ENG3760029"><head>CHAPTER VII.</head>
+    <pb n="89"/><div type="chapter"><head>CHAPTER VII.</head>
      
      <p> At the end of a court in Wodgate, of rather larger dimensions than usual in that town, was
       a high and many-windowed house, of several stories in height, which had been added to it at
@@ -5038,7 +5039,7 @@
       inform me: and where he was; and that you have not been able to inform me.”</p>
      <p> “Why, you’re a regular muff!” said the bishop.</p>
     </div>
-    <pb n="96"/><div type="chapter" xml:id="ENG3760030"><head>CHAPTER VIII.</head>
+    <pb n="96"/><div type="chapter"><head>CHAPTER VIII.</head>
      
      <p> A few days after his morning walk with Sybil, it was agreed that Egremont should visit Mr
       Trafford’s factory, which he had expressed a great desire to inspect. Gerard always left his
@@ -5342,7 +5343,7 @@
       a man came forth from the garden to greet them; Sybil gave an exclamation of pleasure; it was
       MORLEY.</p>
     </div>
-    <pb n="121"/><div type="chapter" xml:id="ENG3760031"><head>CHAPTER IX.</head>
+    <pb n="121"/><div type="chapter"><head>CHAPTER IX.</head>
      
      <p> Morley greeted Gerard and his daughter with great warmth, and then looked at Egremont. “Our
       companion in the ruins of Marney Abbey,” said Gerard; “you and our friend Franklin here should
@@ -5409,7 +5410,7 @@
      <p> “It is all very fine,” said Gerard, “and I dare say you are right, Stephen; but I like
       stretching my feet on my own hearth.”</p>
     </div>
-    <pb n="127"/><div type="chapter" xml:id="ENG3760032"><head>CHAPTER X.</head>
+    <pb n="127"/><div type="chapter"><head>CHAPTER X.</head>
      
      <p> Time passes with a measured and memorable wing during the first period of a sojourn in a
       new place, among new characters and new manners. Every person, every incident, every feeling,
@@ -5628,9 +5629,9 @@
     </div>
    </div>
    <pb n="145"/>
-   <div type="part">
+   <div type="group">
     <head>BOOK IV.</head>
-   <div type="chapter" xml:id="ENG3760033"><head>CHAPTER I.</head>
+   <div type="chapter"><head>CHAPTER I.</head>
      
      <p> “Are you going down to the house, Egerton?” enquired Mr Berners at Brookes, of a brother
       M.P., about four o’clock in the early part of the spring of 1839.</p>
@@ -5799,7 +5800,7 @@
      <p> “No division, of course?”</p>
      <p> “Not a chance; a regular covey ready on both sides.”</p>
     </div>
-    <pb n="158"/><div type="chapter" xml:id="ENG3760034"><head>CHAPTER II.</head>
+    <pb n="158"/><div type="chapter"><head>CHAPTER II.</head>
      
      <p> On the morning of the same day that Mr Egerton and his friend Mr Berners walked down
       together to the House of Commons, as appears in our last chapter, Egremont had made a visit to
@@ -5879,7 +5880,7 @@
      <p> “Well, the vision shall still hover before you,” said his mother; “and you shall find this
       portrait to-morrow over your chimney in the Albany.”</p>
     </div>
-    <pb n="165"/><div type="chapter" xml:id="ENG3760035"><head>CHAPTER III.</head>
+    <pb n="165"/><div type="chapter"><head>CHAPTER III.</head>
      
      <p> “Strangers must withdraw.”</p>
      <p> “Division: clear the gallery. Withdraw.”</p>
@@ -6020,7 +6021,7 @@
       experience of your insolent recognition, is to be a reward for great exertions, or if
       necessary an inducement to infamous tergiversation.”</p>
     </div>
-    <pb n="176"/><div type="chapter" xml:id="ENG3760036"><head>CHAPTER IV.</head>
+    <pb n="176"/><div type="chapter"><head>CHAPTER IV.</head>
      
      <p> It was night: clear and serene, though the moon had not risen; and a vast concourse of
       persons were assembling on Mowbray Moor. The chief gathering collected in the vicinity of some
@@ -6190,7 +6191,7 @@
       robe and presented with a torch, and then ranged in order with his companions. Thus terminated
       the initiation of Dandy Mick into a TRADES UNION.</p>
     </div>
-    <pb n="190"/><div type="chapter" xml:id="ENG3760037"><head>CHAPTER V.</head>
+    <pb n="190"/><div type="chapter"><head>CHAPTER V.</head>
      
      <p> “His lordship has not yet rung his bell, gentlemen.”</p>
      <p> It was the valet of Lord Milford that spoke, addressing from the door of a house in
@@ -6407,7 +6408,7 @@
       ready to receive them, ushered into the presence of Egremont—WALTER GERARD and STEPHEN
       MORLEY.</p>
     </div>
-    <pb n="208"/><div type="chapter" xml:id="ENG3760038"><head>CHAPTER VI.</head>
+    <pb n="208"/><div type="chapter"><head>CHAPTER VI.</head>
      
      <p> It is much to be deplored that our sacred buildings are generally closed except at the
       stated periods of public resort. It is still more to be regretted that when with difficulty
@@ -6568,7 +6569,7 @@
       of the neighbourhood. As Egremont was opening the gate of the courtyard, Gerard ascended the
       steps of this passage and approached them.</p>
     </div>
-    <pb n="222"/><div type="chapter" xml:id="ENG3760039"><head>CHAPTER VII.</head>
+    <pb n="222"/><div type="chapter"><head>CHAPTER VII.</head>
      
      <p> When Gerard and Morley quitted the Albany after their visit to Egremont, they separated,
       and Stephen, whom we will accompany, proceeded in the direction of the Temple, in the vicinity
@@ -6783,7 +6784,7 @@
      <p> Mr Hatton was buried for a few moments in a reverie, during which he played with the tail
       of the Persian cat.</p>
     </div>
-    <pb n="240"/><div type="chapter" xml:id="ENG3760040"><head>CHAPTER VIII.</head>
+    <pb n="240"/><div type="chapter"><head>CHAPTER VIII.</head>
      
      <p> We left Sybil and Egremont just at the moment that Gerard arrived at the very threshold
       which they had themselves reached.</p>
@@ -6880,7 +6881,7 @@
       the occasion. Even the otherwise embarrassing presence of Gerard would not have prevented—but
       just at this moment the door opened, and Morley and another person entered the room.</p>
     </div>
-    <pb n="248"/><div type="chapter" xml:id="ENG3760041"><head>CHAPTER IX.</head>
+    <pb n="248"/><div type="chapter"><head>CHAPTER IX.</head>
      
      <p> Morley paused as he recognised Egremont; then advancing to Gerard, followed by his
       companion, he said, “This is Mr Hatton of whom we were speaking last night, and who claims to
@@ -7013,7 +7014,7 @@
       in the world, and seeing you again, and talking of old times—I really am scarcely fit <pb n="259"/>for business. Go, however, I must; I have an appointment at the House of Lords. Good
       bye. I must say farewell to the Lady Sybil.”</p>
     </div>
-    <pb n="260"/><div type="chapter" xml:id="ENG3760042"><head>CHAPTER X.</head>
+    <pb n="260"/><div type="chapter"><head>CHAPTER X.</head>
      
      <p> “You can’t have that table, sir, it is engaged,” said a waiter at the Athenaeum to a member
       of the club who seemed unmindful of the type of appropriation which in the shape of an
@@ -7092,7 +7093,7 @@
       again; of the old blood, and the old names, and the old faith,—by holy Mary it is a glorious
       vision!”</p>
     </div>
-    <pb n="267"/><div type="chapter" xml:id="ENG3760043"><head>CHAPTER XI.</head>
+    <pb n="267"/><div type="chapter"><head>CHAPTER XI.</head>
      
      <p> On the evening of the day that Egremont had met Sybil in the Abbey of Westminster, and
       subsequently parted from her under circumstances so distressing, the Countess of Marney held a
@@ -7247,7 +7248,7 @@
      <p> “Very well, we will talk then. Lady Charlotte has heard something; nous verrons.”</p>
      <p> “Courage; we have the Court with us, and the Country cares for nothing.”</p>
     </div>
-    <pb n="280"/><div type="chapter" xml:id="ENG3760044"><head>CHAPTER XII.</head>
+    <pb n="280"/><div type="chapter"><head>CHAPTER XII.</head>
      
      <p> “It is all right,” said Mr Tadpole. “They are out. Lord Melbourne has been with the Queen
       and recommended her Majesty to send for the Duke, and the Duke has recommended her Majesty to
@@ -7374,7 +7375,7 @@
      <p> “I am sorry, my dear Lord, but I have an appointment in the city. I have got to go to the
       Temple, and I am already behind my time.”</p>
     </div>
-    <pb n="291"/><div type="chapter" xml:id="ENG3760045"><head>CHAPTER XIII.</head>
+    <pb n="291"/><div type="chapter"><head>CHAPTER XIII.</head>
      
      <p> And why was Lord de Mowbray going to the Temple? He had received the day before when he
       came home to dress a very disagreeable letter from some lawyers, apprising him that they were
@@ -7485,7 +7486,7 @@
       box and in the same cabinet: the muniment room in the great tower of Mowbray Castle! They
       exist and I know their whereabouts. I’ll have ‘em.”</p>
     </div>
-    <pb n="300"/><div type="chapter" xml:id="ENG3760046"><head>CHAPTER XIV.</head>
+    <pb n="300"/><div type="chapter"><head>CHAPTER XIV.</head>
      
      <p> Two and even three days had rolled over since Mr Tadpole had reported Sir Robert on his way
       to the palace, and marvellously little had transpired. It was of course known that a cabinet
@@ -7612,7 +7613,7 @@
       Bolingbroke shed his last tear, to bring back strength to the Crown, liberty to the Subject,
       and to announce that power has only one duty—to secure the social welfare of the PEOPLE.</p>
     </div>
-    <pb n="311"/><div type="chapter" xml:id="ENG3760047"><head>CHAPTER XV.</head>
+    <pb n="311"/><div type="chapter"><head>CHAPTER XV.</head>
      
      <p> During the week of political agitation which terminated with the inglorious catastrophe of
       the Bedchamber plot, Sybil remained tranquil, and would have been scarcely conscious of what
@@ -7781,11 +7782,11 @@
      <trailer> END OF THE FOURTH BOOK</trailer>
     </div>
    </div>
- </div><div type="volume" n="3">
+ </div><div type="group">
    <pb n="[1]"/>
-   <div type="part">
+   <div type="group">
     <head> BOOK V</head>
-   <div type="chapter" xml:id="ENG3760048"><head>CHAPTER I.</head>
+   <div type="chapter"><head>CHAPTER I.</head>
      
      <p> “Terrible news from Birmingham,” said Mr Egerton at Brookes’. “They have massacred the
       police, beat off the military, and sacked the town. News just arrived.”</p>
@@ -8101,7 +8102,7 @@
       hand, she laid on it the other with tenderness, and looked up to breathe as it were for
       relief. Before her stood the orator himself.</p>
     </div>
-    <pb n="28"/><div type="chapter" xml:id="ENG3760049"><head>CHAPTER II.</head>
+    <pb n="28"/><div type="chapter"><head>CHAPTER II.</head>
      
      <p> Egremont had recognized Sybil as she entered the garden. He was himself crossing the park
       to attend a committee of the House of Commons which had sat for the first time that morning.
@@ -8181,7 +8182,7 @@
       “Here we must part,” and extended to him her hand.</p>
      <p> “Heaven will guard over you!” said Egremont, “for you are a celestial charge.”</p>
     </div>
-    <pb n="35"/><div type="chapter" xml:id="ENG3760050"><head>CHAPTER III.</head>
+    <pb n="35"/><div type="chapter"><head>CHAPTER III.</head>
      
      <p> As Sybil approached her home, she recognized her father in the court before their house,
       accompanied by several men, with whom he seemed on the point of going forth. She was so
@@ -8308,7 +8309,7 @@
       his kindness and her own soothed feelings, but she said nothing; and bidding her now to be of
       good cheer, Gerard quitted the apartment.</p>
     </div>
-    <pb n="46"/><div type="chapter" xml:id="ENG3760051"><head>CHAPTER IV.</head>
+    <pb n="46"/><div type="chapter"><head>CHAPTER IV.</head>
      
      <p> The clock of St John’s church struck three, and the clock of St John’s church struck four;
       and the fifth hour sounded from St John’s church; and the clock of St John’s was sounding six.
@@ -8546,7 +8547,7 @@
       suffused the cheek of Sybil. “She loves him,” exclaimed Morley, wildly, and he rushed
       franticly from the room.</p>
     </div>
-    <pb n="64"/><div type="chapter" xml:id="ENG3760052"><head>CHAPTER V.</head>
+    <pb n="64"/><div type="chapter"><head>CHAPTER V.</head>
      
      <p> Agitated and overcome by these unexpected and passionate appeals, and these outrageous
       ebullitions acting on her at a time when she herself was labouring under no ordinary
@@ -8701,7 +8702,7 @@
       neighbourhood; but you go of your own accord.”</p>
      <p> “Yes, yes. Good night.”</p>
     </div>
-    <pb n="77"/><div type="chapter" xml:id="ENG3760053"><head>CHAPTER VI.</head>
+    <pb n="77"/><div type="chapter"><head>CHAPTER VI.</head>
      
      <p> Urged by Sybil’s entreaties the cab-driver hurried on. With all the skilled experience of a
       thorough cockney charioteer he tried to conquer time and space by his rare knowledge of short
@@ -8802,7 +8803,7 @@
       was the court she was told to enter. It was well lit, and descending the steps she stopped at
       the first door on her left, and knocked.</p>
     </div>
-    <pb n="86"/><div type="chapter" xml:id="ENG3760054"><head>CHAPTER VII.</head>
+    <pb n="86"/><div type="chapter"><head>CHAPTER VII.</head>
      
      <p> On the same night that Sybil was encountering so many dangers, the saloons of Deloraine
       House blazed with a thousand lights to welcome the world of power and fashion to a festival of
@@ -8981,7 +8982,7 @@
       likely to forget my friends.”</p>
      <p> “That I am sure you are not!” said Lady Firebrace.</p>
     </div>
-    <pb n="99"/><div type="chapter" xml:id="ENG3760055"><head>CHAPTER VIII.</head>
+    <pb n="99"/><div type="chapter"><head>CHAPTER VIII.</head>
      
      <p> Behind the printing office in the alley at the door of which we left Sybil, was a yard
       which led to some premises that had once been used as a work-shop, but were now generally
@@ -9203,7 +9204,7 @@
      <p> adding that superscription the sight of which had so agitated Egremont at Deloraine
       House.</p>
     </div>
-    <pb n="116"/><div type="chapter" xml:id="ENG3760056"><head>CHAPTER IX.</head>
+    <pb n="116"/><div type="chapter"><head>CHAPTER IX.</head>
      
      <p> Night waned: and Sybil was at length slumbering. The cold that precedes the dawn had stolen
       over her senses, and calmed the excitement of her nerves. She was lying on the ground, covered
@@ -9346,7 +9347,7 @@
       to the throbbing heart of Egremont, nor shrinking from the embrace which expressed the
       tenderness of his devoted love!</p>
     </div>
-    <pb n="129"/><div type="chapter" xml:id="ENG3760057"><head>CHAPTER X.</head>
+    <pb n="129"/><div type="chapter"><head>CHAPTER X.</head>
      
      <p> Mowbray was in a state of great excitement. It was Saturday evening: the mills were closed;
       the news had arrived of the arrest of the Delegate.</p>
@@ -9476,7 +9477,7 @@
      <p> The last light of the sun was shed over the Moor when Gerard reached it, and the Druids’
       altar and its surrounding crags were burnished with its beam.</p>
     </div>
-    <pb n="140"/><div type="chapter" xml:id="ENG3760058"><head>CHAPTER XI.</head>
+    <pb n="140"/><div type="chapter"><head>CHAPTER XI.</head>
      
      <p> It was the night following the day after the return of Gerard to Mowbray. Morley, who had
       lent to him and Sybil his cottage in the dale, was at the office of his newspaper, the Mowbray
@@ -9621,9 +9622,9 @@
     </div>
    </div>
    <pb n="151"/>
-   <div type="part">
+   <div type="group">
     <head> BOOK VI</head>
-   <div type="chapter" xml:id="ENG3760059"><head>CHAPTER I.</head>
+   <div type="chapter"><head>CHAPTER I.</head>
      
      <p> “Another week,” exclaimed a gentleman in Downing Street on the 5th of August, 1842, “and we
       shall be prorogued. You can surely keep the country quiet for another week.”</p>
@@ -9710,7 +9711,7 @@
       explicit;’ that is the right line to take when you wish to conceal your own mind and to
       confuse the minds of others. Good morning!”</p>
     </div>
-    <pb n="158"/><div type="chapter" xml:id="ENG3760060"><head>CHAPTER II.</head>
+    <pb n="158"/><div type="chapter"><head>CHAPTER II.</head>
      
      <p> Two days after this conversation in Downing Street, a special messenger arrived at Marney
       Abbey from the Lord Lieutenant of the county, the Duke of Fitz-Aquitaine. Immediately after
@@ -9802,7 +9803,7 @@
       at Mowbray, whither her father and Morley had attended her the eve of the day she had first
       visited the ruins of Marney Abbey.</p>
     </div>
-    <pb n="166"/><div type="chapter" xml:id="ENG3760061"><head>CHAPTER III.</head>
+    <pb n="166"/><div type="chapter"><head>CHAPTER III.</head>
      
      <p> “I have seen a many things in my time Mrs Trotman,” said Chaffing Jack as he took the pipe
       from his mouth in the silent bar room of the Cat and Fiddle; “but I never see any like this. I
@@ -9967,7 +9968,7 @@
      <p> “No, by jingo!” said Mick, and tossing his cap into the air he snapped his fingers with
       delight at the anticipated amusement.</p>
     </div>
-    <pb n="179"/><div type="chapter" xml:id="ENG3760062"><head>CHAPTER IV.</head>
+    <pb n="179"/><div type="chapter"><head>CHAPTER IV.</head>
      
      <p> “I don’t think I can stand this much longer,” said Mr Mountchesney, the son-in-law of Lord
       de Mowbray, to his wife, as he stood before the empty fire-place with his back to the
@@ -10108,7 +10109,7 @@
      <p> “Well at last I have got something to do,” said Mr Mountchesney. “I will ride over to
       Mowbray, find out the beautiful singer, and bring her to the Castle.”</p>
     </div>
-    <pb n="191"/><div type="chapter" xml:id="ENG3760063"><head>CHAPTER V.</head>
+    <pb n="191"/><div type="chapter"><head>CHAPTER V.</head>
      
      <p> The beam of the declining sun, softened by the stained panes of a small gothic window,
       suffused the chamber of the Lady Superior of the convent of Mowbray. The vaulted room, of very
@@ -10312,7 +10313,7 @@
       communities. But as the only community of which I have personal experience is a gaol, I am not
       much more inclined to his theory than heretofore.”</p>
     </div>
-    <pb n="208"/><div type="chapter" xml:id="ENG3760064"><head>CHAPTER VI.</head>
+    <pb n="208"/><div type="chapter"><head>CHAPTER VI.</head>
      
      <p> The reader may not have altogether forgotten Mr Nixon and his comates, the miners and
       colliers of that district not very remote from Mowbray, which Morley had visited at the
@@ -10455,7 +10456,7 @@
       paradise of artizans, that Utopia of Toil, embalmed in those ringing words, sounds cheerful to
       the Saxon race—“A fair day’s wage for a fair day’s work.”</p>
     </div>
-    <pb n="220"/><div type="chapter" xml:id="ENG3760065"><head>CHAPTER VII.</head>
+    <pb n="220"/><div type="chapter"><head>CHAPTER VII.</head>
      
      <p> During the strike in Lancashire the people had never plundered, except a few provision
       shops, chiefly rifled by boys, and their acts of violence had been confined to those with whom
@@ -10599,7 +10600,7 @@
       an infernal cheer; then some part of the building falling in, there rose a vast cloud of smoke
       and rubbish, and he was seen no more.</p>
     </div>
-    <pb n="232"/><div type="chapter" xml:id="ENG3760066"><head>CHAPTER VIII.</head>
+    <pb n="232"/><div type="chapter"><head>CHAPTER VIII.</head>
      
      <p> “Life’s a tumbleabout thing of ups and downs,” said Widow Carey stirring her tea, “but I
       have been down this time longer than I can ever remember.”</p>
@@ -10747,7 +10748,7 @@
       them in this town, and if every mill and work in it and ten mile round is not stopped, my name
       is not MICK RADLEY!”</p>
     </div>
-    <pb n="243"/><div type="chapter" xml:id="ENG3760067"><head>CHAPTER IX.</head>
+    <pb n="243"/><div type="chapter"><head>CHAPTER IX.</head>
      
      <p> It was Monday morning. Hatton, enveloped in his chamber robe and wearing his velvet cap,
       was lounging in the best room of the principal commercial inn of Mowbray, over a breakfast
@@ -10945,7 +10946,7 @@
       Traffords; they have old blood in their veins. Before sunset their settlement will be razed to
       the ground. Can we prevent it? And why not attack the castle instead of the mill?”</p>
     </div>
-    <pb n="259"/><div type="chapter" xml:id="ENG3760068"><head>CHAPTER X.</head>
+    <pb n="259"/><div type="chapter"><head>CHAPTER X.</head>
      
      <p> About noon of this day there was a great stir in Mowbray. It was generally whispered about
       that the Liberator at the head of the Hell-cats and all others who chose to accompany them was
@@ -11138,7 +11139,7 @@
       a sulky voice he must have a glass of ale.</p>
      <p> “Drink a glass of ale with Lord de Mowbray,” said Devilsdust.</p>
     </div>
-    <pb n="275"/><div type="chapter" xml:id="ENG3760069"><head>CHAPTER XI.</head>
+    <pb n="275"/><div type="chapter"><head>CHAPTER XI.</head>
      
      <p> When the news had arrived in the morning at Mowbray, that the messengers of the Bishop had
       met with a somewhat queer reception at the Mowedale works, Gerard prescient that some trouble
@@ -11259,7 +11260,7 @@
       scout immediately for news of your father. In the mean time let us believe the best!” Sybil
       thanked him with cordiality, and then she entered—Mowbray Castle.</p>
     </div>
-    <pb n="285"/><div type="chapter" xml:id="ENG3760070"><head>CHAPTER XII.</head>
+    <pb n="285"/><div type="chapter"><head>CHAPTER XII.</head>
      
      <p> Less than an hour after the arrival of Sybil at Mowbray Castle the scout that Mr
       Mountchesney had sent off to gather news returned, and with intelligence of the triumph of
@@ -11633,7 +11634,7 @@
      <p> “We will never part again,” said Egremont.</p>
      <p> “Never,” murmured Sybil.</p>
     </div>
-    <pb n="316"/><div type="chapter" xml:id="ENG3760071"><head>CHAPTER XIII.</head>
+    <pb n="316"/><div type="chapter"><head>CHAPTER XIII.</head>
      
      <p> It was the Spring of last year, and Lady Bardolf was making a morning visit to Lady St
       Julians.</p>

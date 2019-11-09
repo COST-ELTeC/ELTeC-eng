@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18941" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18941" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -14,26 +19,20 @@
                 </respStmt>
                 <respStmt>
                     <resp>Corrected By</resp>
-                    <name xml:id="elizabethmunson">Elizabeth Munson</name>
+                    <name>Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
             <extent>
                 <measure unit="words">154953</measure>
                 <measure unit="pages">487</measure>
             </extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+            <sourceDesc><bibl type="unspecified"><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
                         Mona</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7047</idno><relatedItem type="copyText">
-                        <bibl><title>The Daughters of Danaus</title><author>Caird,
+                        IN</pubPlace><idno>VAB7047</idno></bibl><bibl type="unspecified"><title>The Daughters of Danaus</title><author>Caird,
                                 Mona</author><publisher>Bliss, Sands, and
-                                Foster</publisher><pubPlace>London </pubPlace><date when="1894">1894</date></bibl>
-                    </relatedItem></bibl>
-            </sourceDesc>
+                                Foster</publisher><pubPlace>London </pubPlace><date when="1894">1894</date></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -49,7 +48,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2011-06-28">kateboeree: Added div type="book"</change>
             <change when="2010-08-25">elizabethmunson: Added genre term</change>
@@ -74,10 +73,10 @@
             </div>
         </front>
         <body>
-            <div type="part">
+            <div type="group">
                 <pb n="5" xml:id="VAB7047-001"/>
                 <head>THE DAUGHTERS OF DANAUS</head>
-                <div type="part">
+                <div type="group">
                     <head>Part I.</head>
                     <div type="chapter">
                         <head>CHAPTER I.</head>
@@ -4409,7 +4408,7 @@
                     </div>
                 </div>
                 <pb n="145" xml:id="VAB7047-141"/>
-                <div type="part">
+                <div type="group">
                     <head>Part II.</head>
                     <div type="chapter">
                         <head>CHAPTER XVI.</head>
@@ -9025,7 +9024,7 @@
                     </div>
                 </div>
                 <pb n="294" xml:id="VAB7047-290"/>
-                <div type="part">
+                <div type="group">
                     <head>Part III.</head>
                     <div type="chapter">
                         <head>CHAPTER XXXII.</head>

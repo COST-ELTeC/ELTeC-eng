@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18511" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18511" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -18,28 +23,22 @@
                 </respStmt>
                 <respStmt>
                     <resp>Corrected By</resp>
-                    <name xml:id="elizabethmunson">Elizabeth Munson</name>
+                    <name>Elizabeth Munson</name>
                 </respStmt>
             </titleStmt>
             <extent>
                 <measure unit="words">99479</measure>
                 <measure unit="pages">631</measure>
             </extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC</p>
-            </publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
 
 
-            <sourceDesc>
-                <bibl><title>The Tutor’s Ward : VWWP edition </title><author>Skene, Felicia,
+            <sourceDesc><bibl type="unspecified"><title>The Tutor’s Ward : VWWP edition </title><author>Skene, Felicia,
                         1821-1899</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7183</idno><relatedItem type="copyText">
-                        <bibl><title>The Tutor’s Ward</title><author>Skene, Felicia,
+                        IN</pubPlace><idno>VAB7183</idno></bibl><bibl type="unspecified"><title>The Tutor’s Ward</title><author>Skene, Felicia,
                                 1821-1899</author><publisher>Colburn and Co.
-                                </publisher><pubPlace>London </pubPlace><date when="1851">1851</date></bibl>
-                    </relatedItem></bibl>
-            </sourceDesc>
+                                </publisher><pubPlace>London </pubPlace><date when="1851">1851</date></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -55,7 +54,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2010-09-03">elizabethmunson: Added genre term</change>
             <change when="2010-08-04">elizabethmunson: Removed date and "a machine readable
@@ -89,7 +88,7 @@
             <pb xml:id="VAB7183-001"/>
         </front>
         <body>
-            <div type="part">
+            <div type="group">
                 <head>THE TUTOR’S WARD.</head>
                 <div type="chapter">
                     <pb n="1" xml:id="VAB7183-002"/>
@@ -4351,7 +4350,7 @@
             </div>
 
 
-            <div type="part">
+            <div type="group">
                 <pb n="1" xml:id="VAB7184-002"/>
                 <div type="chapter">
                     <head>CHAPTER I.</head>

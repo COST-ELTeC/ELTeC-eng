@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18901">
 <teiHeader>
 <fileDesc>
@@ -14,20 +17,14 @@
 <extent>
 <measure unit="words">149508</measure>
 </extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-02-08</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Project Gutenberg eBook of Alas!, by Rhoda Broughton.</title>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-08--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of Alas!, by Rhoda Broughton.</title>
 <ref target="gut:7926">Gutenberg</ref>
 <respStmt>
 <resp>Original data capture</resp>
 <name>Meredith Bach, Mary Meehan and the Online Distributed Proofreading Team</name>
-</respStmt></bibl>
-<bibl type="firstEdition" n="B4520"><title>Alas! : A Novel</title><author>Broughton, Rhoda
-(1840-1920).</author><publisher>London: Bentley</publisher><date>1890</date></bibl>
-
-</sourceDesc>
+</respStmt></bibl><bibl type="firstEdition" n="B4520"><title>Alas! : A Novel</title><author>Broughton, Rhoda
+(1840-1920).</author><publisher>London: Bentley</publisher><date>1890</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -39,11 +36,11 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-02-08">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -64,7 +61,7 @@ reserved]</p>
 </div>
 </front>
 <body>
-<div type="part">
+<div type="group">
 <head>PART I.</head>
 <head>Amelia.</head>
 <div type="chapter">
@@ -6986,7 +6983,7 @@ motived by Amelia alive, so is his departure to companion her dead.</p>
 <trailer>END OF PART ONE.</trailer>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>PART II.</head>
 <head>Elizabeth.</head>
 <div type="chapter">

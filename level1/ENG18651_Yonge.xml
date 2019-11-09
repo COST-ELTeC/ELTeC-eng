@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18651">
 <teiHeader>
 <fileDesc>
@@ -12,20 +15,13 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">181915</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-01-17</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Clever Woman of the Family, by Charlotte M. Yonge</title><ref target="gut:3292"
->Gutenberg</ref><respStmt><resp>Data capture</resp><name>Produced by Sandra Laythorpe, and David Widger</name></respStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-17--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Clever Woman of the Family, by Charlotte M. Yonge</title><ref target="gut:3292">Gutenberg</ref><respStmt><resp>Data capture</resp><name>Produced by Sandra Laythorpe, and David Widger</name></respStmt>
 <!--<p>From the 1880 edition published by MacMillan and Co., London.
 italics not captured </p>-->
-<relatedItem>
-<bibl type="copyText" n="B5540"><title>The Clever Woman of the Family</title><author>Yonge,
+</bibl><bibl type="printSource" n="B5540"><title>The Clever Woman of the Family</title><author>Yonge,
 Charlotte Mary (1823-1901).</author><publisher>London: Macmillan</publisher><date>1865</date>
-</bibl>
-</relatedItem></bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -41,7 +37,7 @@ Charlotte Mary (1823-1901).</author><publisher>London: Macmillan</publisher><dat
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-01-17">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>

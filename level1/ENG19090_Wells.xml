@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19090" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19090" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -19,21 +24,15 @@
                     <measure unit="words">133529</measure>
                     
                </extent>
-               <publicationStmt>
-                    <p/>
-               </publicationStmt>
-               <sourceDesc>
-                    <bibl>
+               <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+               <sourceDesc><bibl type="digitalSource">
                          <title>The Project Gutenberg EBook of Tono Bungay, by H. G. Wells</title>
                          <ref target="http://www.gutenberg.org/ebooks/718"/>
-                         <relatedItem type="copyText">
-                              <bibl><title>Tono-Bungay</title>
+                         
+                    </bibl><bibl type="unspecified"><title>Tono-Bungay</title>
                                    <author>H.G. Wells</author>
                                    <publisher>Macmillan and Co</publisher>
-                                   <date>1909</date></bibl>
-                         </relatedItem>
-                    </bibl>
-               </sourceDesc>
+                                   <date>1909</date></bibl></sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-1">
                <p/>
@@ -55,7 +54,7 @@
                smarten quotes
                turns CAPS to emph where app
                -->
-          <revisionDesc>
+          <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
                <change when="2018-08-31">LB First TEI version</change>
           </revisionDesc>
      </teiHeader>
@@ -2951,7 +2950,7 @@
                               Wimblehurst.</p>
                     </div>
                </div>
-               <div type="part">
+               <div type="group">
                     <head>BOOK THE SECOND</head>
                     <head>THE RISE OF TONO-BUNGAY</head>
                     <div type="chapter">
@@ -6466,7 +6465,7 @@
                               the vision of the world these things have given me.</p>
                     </div>
                </div>
-               <div type="part">
+               <div type="group">
                     <head>BOOK THE THIRD</head>
                     <head>THE GREAT DAYS OF TONO-BUNGAY</head>
                     <div type="chapter">
@@ -10864,7 +10863,7 @@
                               resounded to my uncle's bankruptcy.</p>
                     </div>
                </div>
-               <div type="part">
+               <div type="group">
                     <head>BOOK THE FOURTH</head>
                     <head>THE AFTERMATH OF TONO-BUNGAY</head>
                     <div type="chapter">

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18741">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18741">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -10,21 +15,15 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">252553</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-01-09</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>Project Gutenberg's The Parisians, Complete, by Edward Bulwer-Lytton</title><respStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-09--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>Project Gutenberg's The Parisians, Complete, by Edward Bulwer-Lytton</title><respStmt>
 <resp>Original data capture</resp>
 <name>David Widger</name>
 </respStmt>
 <ref target="gut:7749">Gutenberg</ref>
-<relatedItem>
-<bibl type="copyText" n="B5873"><title>The Parisians</title><author>Lytton, Edward Bulwer
+</bibl><bibl type="printSource" n="B5873"><title>The Parisians</title><author>Lytton, Edward Bulwer
 (1803-1873).</author>
-<publisher>Edinburgh: Blackwood</publisher><date>1874</date></bibl>
-</relatedItem></bibl>
-</sourceDesc>
+<publisher>Edinburgh: Blackwood</publisher><date>1874</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -40,7 +39,7 @@
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-01-09">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -182,7 +181,7 @@ of the Coming Race and be reduced into cinders for the sake of the common good!<
 </div>
 </front>
 <body>
-<div type="part">
+<div type="group">
 <head>BOOK I.</head>
 <div type="chapter">
 <head>CHAPTER I.</head>
@@ -1670,7 +1669,7 @@ of proportion. We lose sight of beauty if we exaggerate the feature most beautif
 <p>E——- G———-. </p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK II.</head>
 <div type="chapter">
 <head>CHAPTER I.</head>
@@ -3164,7 +3163,7 @@ sense than Graham’s, but more of poetic sentiment and fascinating romance.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK III.</head>
 <p/>
 <div type="chapter">
@@ -4355,7 +4354,7 @@ not know what is love.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK IV.</head>
 <p/>
 <div type="chapter">
@@ -5670,7 +5669,7 @@ poverty. “Thou shalt hear of his news soon.” </l></quote>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK V.</head>
 <p/>
 <div type="chapter">
@@ -7386,7 +7385,7 @@ home? No, no!—woe is me, no!”</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK VI.</head>
 <p/>
 <div type="chapter">
@@ -8741,7 +8740,7 @@ hour of the twenty-four sigh to myself, ‘What are other women to me? Isaura, I
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK VII.</head>
 <p/>
 <div type="chapter">
@@ -9739,7 +9738,7 @@ Italian proverb, and means much the same thing.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK VIII.</head>
 <p/>
 <div type="chapter">
@@ -10585,7 +10584,7 @@ you, it will be with the gaze of one who beholds his happiness. You do not weep 
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK IX.</head>
 <p/>
 <div type="chapter">
@@ -11908,7 +11907,7 @@ Love—in dreams evermore over now.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK X.</head>
 <p/>
 <div type="chapter">
@@ -12778,7 +12777,7 @@ gone.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK XI.</head>
 <p/>
 <div type="chapter">
@@ -15125,7 +15124,7 @@ woman’s cry was heard at the entrance—the mother’s cry, “My son! my son!
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>BOOK XII.</head>
 <p/>
 <div type="chapter">

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19111" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19111" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,24 +15,19 @@
         </respStmt>
       </titleStmt>
       <extent><measure unit="words">71393</measure><measure unit="pages">316</measure></extent>
-      <publicationStmt>
-        <p>Published as part of ELTeC</p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>The Camera Fiend</title>
           <publisher>Project Gutenberg</publisher>
           <date>September 26, 2009</date>
           <idno type="etext-no">30096</idno>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <title>The Camera Fiend</title>
           <author>E. W. Hornung</author>
           <pubPlace>London</pubPlace>
           <publisher>T. Fisher Unwin, Ltd.</publisher>
           <date>1911</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
 
     </fileDesc>
 
@@ -46,7 +46,7 @@
 
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
       <change when="2018-10-21">TEI ELTeC version</change>
       <change when="2009-09-26">Project Gutenberg edition 10</change>
     </revisionDesc>

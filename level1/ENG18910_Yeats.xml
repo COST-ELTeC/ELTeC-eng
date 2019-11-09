@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18910">
   <teiHeader>
     <fileDesc>
@@ -12,19 +15,13 @@
         </respStmt>
       </titleStmt>
       <extent><measure unit="words">24676</measure><measure unit="pages">151</measure></extent>
-      <publicationStmt>
-        <p>Published as part of ELTeC <date>2019-01-15</date></p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>The Project Gutenberg eBook of John Sherman and Dhoya, by Ganconagh (William
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-15--></publicationStmt>
+      <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of John Sherman and Dhoya, by Ganconagh (William
             Butler Yeats)</title>
-          <ref target="gut:49109">Gutenberg</ref><relatedItem>
-            <bibl type="copyText" n="B8426"><title>John Sherman and Dhoya</title>
+          <ref target="gut:49109">Gutenberg</ref></bibl><bibl type="printSource" n="B8426"><title>John Sherman and Dhoya</title>
               <author>Ganconagh [pseud.]</author>
              <publisher>London: T. Fisher Unwin,</publisher> <date>1891</date>
-          </bibl>
-          </relatedItem></bibl>
-      </sourceDesc>
+          </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -36,11 +33,11 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
       <change when="2019-01-15">LB convert to ELTeC-1</change>
     </revisionDesc>
   </teiHeader>
@@ -48,7 +45,7 @@
 
   <text>
     <front>
-      <div type="title-page">
+      <div type="titlepage">
 
         <p>JOHN SHERMAN AND DHOYA</p>
 
@@ -132,7 +129,7 @@ T. FISHER UNWIN
       </div>
     </front>
     <body>
-      <div type="part">
+      <div type="group">
         <head> PART I. JOHN SHERMAN LEAVES BALLAH.</head>
         <div type="chapter">
           <head> I.</head>
@@ -528,7 +525,7 @@ T. FISHER UNWIN
             people—for what have we in this life but a mouthful of air?”</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <head> PART II. MARGARET LELAND.</head>
         <div type="chapter">
           <head> I.</head>
@@ -713,8 +710,7 @@ T. FISHER UNWIN
           <p>It is not to be denied that as this love grew serious it grew mercenary. Now active,
             now latent, the notion had long been in Sherman’s mind, as we know, that he should marry
             money. A born lounger, riches tempted him greatly. When those eyes haunted him from the
-            fourteen flies on the ceiling, he would say, “I should be rich; I should have a <pb
-              n="63"/> house in the country; I should hunt and shoot, and have a garden and three
+            fourteen flies on the ceiling, he would say, “I should be rich; I should have a <pb n="63"/> house in the country; I should hunt and shoot, and have a garden and three
             gardeners; I should leave this abominable office.” Then the eyes became even more
             beautiful. It was a new kind of belladonna.</p>
           <p>He shrank a little, however, from choosing even this pleasant pathway. He had planned
@@ -735,8 +731,7 @@ T. FISHER UNWIN
             chimneys on the further side; beside him a band of osiers swayed softly, the deserted
             and full river lapping their stems. He looked on all these things with foreign eyes. He
             had no sense of possession. Indeed it seemed to him that everything in London was owned
-            by too many to be owned by any one. Another river that he did seem to possess flowed <pb
-              n="65"/> through his memory with all its familiar sights—boys riding in the stream to
+            by too many to be owned by any one. Another river that he did seem to possess flowed <pb n="65"/> through his memory with all its familiar sights—boys riding in the stream to
             the saddle-girths, fish leaping, water-flies raising their small ripples, a swan asleep,
             the wallflowers growing on the red brick of the margin. He grew very sad. Suddenly a
             shooting star, fiery and vagabond, leaped from the darkness. It brought his mind again
@@ -931,7 +926,7 @@ T. FISHER UNWIN
             laugh as she went over, and looked at herself in the mirror over the mantlepiece.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <head> PART III. JOHN SHERMAN REVISITS BALLAH.</head>
         <div type="chapter">
           <head> I.</head>
@@ -1005,8 +1000,7 @@ T. FISHER UNWIN
             Her hand on the edge of the chair trembled.</p>
           <p>Sherman looked at her, and went on in a bewildered, mechanical way—“My betrothed is a
             Miss Leland. She has a good deal of money. You know my mother always wished me to marry
-            some one with money. Her father, when alive, was an old client of Sherman and <pb n="93"
-            /> Saunders. She is much admired in society.” Gradually his voice became a mere murmur.
+            some one with money. Her father, when alive, was an old client of Sherman and <pb n="93"/> Saunders. She is much admired in society.” Gradually his voice became a mere murmur.
             He did not seem to know that he was speaking. He stopped entirely. He was looking at
             Mary Carton.</p>
           <p>Everything around him was as it had been some three years before. The table was covered
@@ -1061,8 +1055,7 @@ T. FISHER UNWIN
             servants. They told him of everything that had happened since he had gone. He was not
             interested, and went up to his room. “I must go home and do what people expect of me;
             one must be careful to do that.”</p>
-          <p>Through all the journey home his problem troubled him. He saw the figure of Mary <pb
-              n="98"/> Carton perpetually passing through a round of monotonous duties. He saw his
+          <p>Through all the journey home his problem troubled him. He saw the figure of Mary <pb n="98"/> Carton perpetually passing through a round of monotonous duties. He saw his
             own life among aliens going on endlessly, wearily.</p>
           <p>From Holyhead to London his fellow-travellers were a lady and her three young
             daughters, the eldest about twelve. The smooth faces shining with well-being became to
@@ -1077,7 +1070,7 @@ T. FISHER UNWIN
             and memory became a blank; his mind was full of the sound of rain-drops.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <head> PART IV. THE REV. WILLIAM HOWARD.</head>
         <div type="chapter">
           <head> I.</head>
@@ -1146,8 +1139,7 @@ T. FISHER UNWIN
           <p>“I really like him,” he answered. “You were always prejudiced against the Howards.
             Forgive me, but I really want very much to have him here.”</p>
           <p>“Well, if you like him, I suppose I have no objection.”</p>
-          <p>“I do like him. He is very clever,” said her son, “and knows a great deal. I wonder <pb
-              n="109"/> he does not marry. Do you not think he would make a good husband?—for you
+          <p>“I do like him. He is very clever,” said her son, “and knows a great deal. I wonder <pb n="109"/> he does not marry. Do you not think he would make a good husband?—for you
             must admit he is sympathetic.”</p>
           <p>“It is not difficult to sympathize with every one if you have no true principles and
             convictions.”</p>
@@ -1424,8 +1416,7 @@ T. FISHER UNWIN
           <p>He leant forward and took her hand, timidly and doubtingly. She did not draw it away.
             He leant nearer and kissed her on the forehead. She gave a joyful cry, and, casting her
             arms round his neck, burst out, “Ah! you—and I. We were made for each other. I hate
-            Sherman. He is an egotist. He is a beast. He is selfish and foolish.” Releasing <pb
-              n="137"/> one of her arms she struck the seat with her hand, excitedly, and went on,
+            Sherman. He is an egotist. He is a beast. He is selfish and foolish.” Releasing <pb n="137"/> one of her arms she struck the seat with her hand, excitedly, and went on,
             “How angry he will be! But it serves him right! How badly he is dressing. He does not
             know anything about anything. But you—you—I knew you were meant for me the moment I saw
             you.”</p>
@@ -1491,7 +1482,7 @@ T. FISHER UNWIN
           <p>“Nonsense,” answered Miss Leland, somewhat snappishly.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <head> PART V. JOHN SHERMAN RETURNS TO BALLAH.</head>
         <div type="chapter">
           <head> I.</head>
@@ -1535,8 +1526,7 @@ T. FISHER UNWIN
             called by children “Peggie’s leg.”</p>
           <p>Now, as two months earlier he was occasionally recognized and greeted, and, as before,
             went on without knowing, his eyes full of unintelligent sadness because the mind was
-            making merry afar. They had the look we see in the eyes of animals and dreamers. <pb
-              n="150"/> Everything had grown simple, his problem had taken itself away. He was
+            making merry afar. They had the look we see in the eyes of animals and dreamers. <pb n="150"/> Everything had grown simple, his problem had taken itself away. He was
             thinking what he would say to Mary Carton. Now they would be married, they would live in
             a small house with a green door and new thatch, and a row of beehives under a hedge. He
             knew where just such a house stood empty. The day before he and his mother had
@@ -1757,7 +1747,7 @@ T. FISHER UNWIN
             mother for the child at the breast.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <head> DHOYA.</head>
         <div type="chapter">
           <head> I.</head>
@@ -1873,8 +1863,7 @@ T. FISHER UNWIN
             always without change. I have left them for thee, Dhoya, for they cannot love. Only the
             changing, and moody, and angry, and weary can love. I am beautiful; love me, Dhoya. Do
             you hear me? I left the places where they dance, Dhoya, for thee!” For long she poured
-            out a tide of words, he answering at first little, then more and more as she <pb n="184"
-            /> melted away the silence of so many inarticulate years; and all the while she gazed on
+            out a tide of words, he answering at first little, then more and more as she <pb n="184"/> melted away the silence of so many inarticulate years; and all the while she gazed on
             him with eyes, no ardour could rob of the mild and mysterious melancholy that watches us
             from the eyes of animals—sign of unhuman reveries.</p>
           <p>Many days passed over these strangely wedded ones. Sometimes when he asked her, “Do you
@@ -1906,12 +1895,11 @@ T. FISHER UNWIN
             carried away by some spell unknown the most beautiful of our bands—you who have neither
             laughter nor singing. Restore her, Dhoya, and go free.” Dhoya answered him no word, and
             the other rose and again thrust at him with the spear. They fought to and fro upon the
-            sands until the dawn touched with olive the distant sky, and then his anger <pb n="187"
-            /> fit, long absent, fell on Dhoya, and he closed with his enemy and threw him, and put
+            sands until the dawn touched with olive the distant sky, and then his anger <pb n="187"/> fit, long absent, fell on Dhoya, and he closed with his enemy and threw him, and put
             his knee on his chest and his hands on his throat, and would have crushed all life out
             of him, when lo! he held beneath his knee no more than a bundle of reeds.</p>
           <p>Nearing home in the early morning he heard the voice he loved, singing—</p>
-          <quote xmlns="http://www.tei-c.org/ns/1.0">
+          <quote>
             <l>“Full moody is my love and sad,</l><l>His moods bow low his sombre crest,</l><l>I
               hold him dearer than the glad,</l><l>And he shall slumber on my breast.</l>
             <l>“My love hath many an evil mood</l><l>Ill words for all things soft and fair,</l><l>I
@@ -1992,8 +1980,7 @@ T. FISHER UNWIN
             quicken berry. On over the plains, on northward, mile after mile, the wild gigantic
             horse leaping cliff and chasm in his terrible race; on until the mountains of what is
             now Donegal rose before them—over these among the clouds, driving rain blowing in their
-            faces from the sea, Dhoya knowing not whither he went, or why he rode. On—the <pb
-              n="195"/> stones loosened by the hoofs rumbling down into the valleys—till far in the
+            faces from the sea, Dhoya knowing not whither he went, or why he rode. On—the <pb n="195"/> stones loosened by the hoofs rumbling down into the valleys—till far in the
             distance he saw the sea, a thousand feet below him; then, fixing his eyes thereon, and
             using the spear-point as a goad, he roused his black horse into redoubled speed, and
             with a wild leap horse and rider plunged headlong into the Western Sea.</p>

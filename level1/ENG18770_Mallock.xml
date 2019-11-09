@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,14 +21,10 @@
             <extent>
                 <measure unit="words">77630</measure>
            </extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl><title>The New Republic by W.H. Mallock : HTML version</title>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+            <sourceDesc><bibl type="unspecified"><title>The New Republic by W.H. Mallock : HTML version</title>
                     <idno type="url">https://www.pseudopodium.org/repress/mallock/index.html</idno>
-                    <relatedItem type="copyText">
-                        <bibl>
+                    </bibl><bibl type="unspecified">
                             <title>The New Republic : or, Culture, Faith, and Philosophy in a Country
                             House</title>
                             <author>[W.H. Mallock]</author>
@@ -31,9 +32,7 @@
                             <date>1877</date>
                             <ref target="ia:newrepublicorcul01mall">Internet Archive : vol 1</ref>
                             <ref target="ia:newrepublicorcul02mall">Internet Archive : vol 2</ref>
-                        </bibl>
-                    </relatedItem></bibl>
-            </sourceDesc>
+                        </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -49,7 +48,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-08-14">LB add header; start checking against IA edition; supply suppressed footnote</change>
             <change when="2018-08-12">LB auto convert from HTML to ELTeC-1</change>
         </revisionDesc>
@@ -83,7 +82,7 @@
             </div>
         </front>
         <body>
-            <div type="part">
+            <div type="group">
                 <div type="chapter">
                     <head>BOOK I.</head>
                     <head>CHAPTER I.</head>
@@ -1703,7 +1702,7 @@
 
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
                 <div type="chapter">
                     <head>BOOK II.</head>
                     <head>CHAPTER I.</head>
@@ -2852,7 +2851,7 @@
 
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
                 <div type="chapter">
                     <head>BOOK III.</head>
                     <head>CHAPTER I.</head>
@@ -4690,7 +4689,7 @@
 
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
                 <div type="chapter">
                     <head>BOOK IV.</head>
                     <head>CHAPTER I.</head>

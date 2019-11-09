@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18540">
 <teiHeader>
 <fileDesc>
@@ -11,29 +15,22 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">104105</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-02-08</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>Hard Times, by Charles Dickens</title><ref target="gut:7926">Gutenberg</ref>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-08--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>Hard Times, by Charles Dickens</title><ref target="gut:7926">Gutenberg</ref>
 <respStmt>
 <resp>Transcription</resp>
 <name>David Price ccx074@pglaf.org</name>
 </respStmt>
-<relatedItem>
-<bibl type="printSource">
+
+</bibl><bibl type="firstEdition" n="B7471"><title>Hard Times: For These Times</title><author>Dickens,
+Charles </author><publisher>London: Bradbury and Evans</publisher>
+<date>1854</date></bibl><bibl type="printSource">
 <title>Hard Times. And Reprinted Pieces</title>
 <author>Charles Dickens</author>
 <publisher>London: Chapman &amp; Hall</publisher><publisher>New York: Charles Scribner's
 Sons.</publisher>
 <date>1905</date>
-</bibl>
-</relatedItem>
-</bibl>
-<bibl type="firstEdition" n="B7471"><title>Hard Times: For These Times</title><author>Dickens,
-Charles </author><publisher>London: Bradbury and Evans</publisher>
-<date>1854</date></bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -49,7 +46,7 @@ Charles </author><publisher>London: Bradbury and Evans</publisher>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-02-08">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -67,7 +64,7 @@ Charles </author><publisher>London: Bradbury and Evans</publisher>
 </front>
 <body>
 <pb n=" 3"/>
-<div type="part">
+<div type="group">
 <head>BOOK THE FIRST <hi>SOWING</hi></head>
 <div type="chapter">
 <head>CHAPTER I THE ONE THING NEEDFUL</head>
@@ -1977,8 +1974,7 @@ spared her patient face.</p>
 through such a cause.  He ate and drank, for he was exhausted — but he little knew or cared what; and
 he wandered about in the chill rain, thinking and thinking, and brooding and brooding.</p>
 <p>No word of a new marriage had ever passed between them; but Rachael had taken great pity on him
-years ago, and to her alone he had opened his closed heart all this time, on the subject of his <pb
-n=" 63"/>miseries; and he knew very well that if he were free to ask her, she would take him.  He
+years ago, and to her alone he had opened his closed heart all this time, on the subject of his <pb n=" 63"/>miseries; and he knew very well that if he were free to ask her, she would take him.  He
 thought of the home he might at that moment have been seeking with pleasure and pride; of the
 different man he might have been that night; of the lightness then in his now heavy-laden breast; of
 the then restored honour, self-respect, and tranquillity all torn to pieces.  He thought of the
@@ -2038,7 +2034,7 @@ not the man to cast the last stone, Stephen, when she is brought so low.’</p>
 <p>‘O Rachael, Rachael!’</p>
 <p>‘Thou hast been a cruel sufferer, Heaven reward thee!’ she said, in compassionate accents.  ‘I am
 thy poor friend, with all my heart and mind.’</p>
-<p><ref target="images/p64b.jpg"/></p>
+<p/>
 <p>The wounds of which she had spoken, seemed to be about the neck of the self-made outcast.  She
 dressed them now, still without showing her.  She steeped a piece of linen in a basin, into which
 she poured some liquid from a bottle, and laid it with a gentle hand upon the sore.  The
@@ -2658,7 +2654,7 @@ you, when you come back.  I say, my dear Loo!  <hi>An’t</hi> it uncommonly j
 <trailer>END OF THE FIRST BOOK</trailer>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <pb n=" 84"/>
 <head>BOOK THE SECOND <hi>REAPING</hi></head>
 <div type="chapter">
@@ -3194,7 +3190,7 @@ communications, Mr. Harthouse encouraged him much in the course of the evening, 
 unusual liking for him.  At last, when he rose to return to his hotel, and was a little doubtful
 whether he knew the way by night, the whelp immediately proffered his services as guide, and turned
 out with him to escort him thither.</p>
-<p><ref target="images/p100b.jpg"/></p>
+<p/>
 </div>
 <div type="chapter">
 <pb n=" 101"/>
@@ -4230,7 +4226,7 @@ pastime, and his colour changed.</p>
 that they all three walked towards the house together, ‘have you been carving on the trees?’</p>
 <p>‘Whose name?’ returned Tom.  ‘Oh!  You mean what girl’s name?’</p>
 <p>‘You have a suspicious appearance of inscribing some fair creature’s on the bark, Tom.’</p>
-<p><ref target="images/p132b.jpg"/></p>
+<p/>
 <p>‘Not much of that, Mr. Harthouse, unless some fair creature with a slashing fortune at her own
 disposal would take a fancy to me.  Or she might be as ugly as she was rich, without any fear of
 losing me.  I’d carve her name as often as she liked.’</p>
@@ -5321,7 +5317,7 @@ his feet.</p>
 <trailer>END OF THE SECOND BOOK</trailer>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <pb n=" 167"/>
 <head>BOOK THE THIRD <hi>GARNERING</hi></head>
 <div type="chapter">
@@ -6611,7 +6607,7 @@ workin’ brothers, so mistook.  If Mr. Bounderby had ever know’d me right �
 aw — he would’n ha’ took’n offence wi’ me.  He would’n ha’ suspect’n me.  But look up yonder,
 Rachael!  Look aboove!’</p>
 <p>Following his eyes, she saw that he was gazing at a star.</p>
-<p><ref target="images/p206b.jpg"/></p>
+<p/>
 <p>‘It ha’ shined upon me,’ he said reverently, ‘in my pain and trouble down below.  It ha’ shined
 into my mind.  I ha’ look’n at ’t and thowt o’ thee, Rachael, till the muddle in my mind have
 cleared awa, above a bit, I hope.  If soom ha’ been wantin’ in unnerstan’in me better, I, too, ha’

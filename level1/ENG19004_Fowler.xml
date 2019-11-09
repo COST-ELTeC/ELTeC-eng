@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19004"
-xml:lang="en">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19004" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -13,18 +15,12 @@ xml:lang="en">
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">104660</measure><measure unit="pages">367</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-05-15</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Project Gutenberg eBook of The Farringdons, by Ellen Thorneycroft
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-05-15--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Farringdons, by Ellen Thorneycroft
 Fowler.</title><ref target="gut:19798">Gutenberg</ref>
 <respStmt><resp>Produced by </resp> <name>Chuck Greif, Sigal Alon and the Online
-Distributed Proofreading Team</name> </respStmt></bibl>
-<bibl type="firstEdition" n="B12907"><title>The Farringdons</title><author>Fowler, Ellen
-Thorneycroft (1860-1929).</author><publisher>London: Hutchinson</publisher><date>1900</date></bibl>
-
-</sourceDesc>
+Distributed Proofreading Team</name> </respStmt></bibl><bibl type="firstEdition" n="B12907"><title>The Farringdons</title><author>Fowler, Ellen
+Thorneycroft (1860-1929).</author><publisher>London: Hutchinson</publisher><date>1900</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -40,7 +36,7 @@ Thorneycroft (1860-1929).</author><publisher>London: Hutchinson</publisher><date
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-05-15">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -238,8 +234,7 @@ sanctuary was a sort of reredos in oils, in memory of a dead and gone Farringdon
 gigantic urn, surrounded by a forest of cypress, through the shades whereof flitted "young-eyed
 cherubims" with dirty wings and bilious complexions, these last mentioned blemishes being, it is but
 fair to add, the fault of the atmosphere and not of the artist. For years Elisabeth firmly believed
-that this altar-piece was a trustworthy representation of heaven; and she felt, therefore,<pb n="10"
-/> a pleasant, proprietary interest in it, as the view of an estate to which she would one day
+that this altar-piece was a trustworthy representation of heaven; and she felt, therefore,<pb n="10"/> a pleasant, proprietary interest in it, as the view of an estate to which she would one day
 succeed.</p>
 <p>There was also a stained-glass window in East Lane Chapel, given by the widow of a leading
 official. The baptismal name of the deceased had been Jacob; and the window showed forth Jacob's
@@ -394,8 +389,7 @@ let Elisabeth see that he admired her. He considered it "unmanly" to admire girl
 pretend it was the execution of Mary Queen of Scots, and find it most awfully exciting."</p>
 <p>"How you do go on about Mary Queen of Scots! Not long ago you were always bothering about heathen
 goddesses, and now you have no thought for anything but Mary."</p>
-<p>"Oh! but I'm still immensely interested in goddesses, Chris; and I do wish, when you are doing<pb
-n="18"/> Latin and Greek at school, you'd find out what colour Pallas Athene's hair was. Couldn't
+<p>"Oh! but I'm still immensely interested in goddesses, Chris; and I do wish, when you are doing<pb n="18"/> Latin and Greek at school, you'd find out what colour Pallas Athene's hair was. Couldn't
 you?"</p>
 <p>"No; I couldn't."</p>
 <p>"But you might ask one of the masters. They'd be sure to know."</p>
@@ -434,8 +428,7 @@ it was wrong to fall in love, and then you went and dragged Cousin Maria in. I w
 you anything; I wish I'd never spoken to you; I wish I'd got somebody else to play with, and then
 I'd never speak to you again as long as I live."</p>
 <p>Of course it was unwise of Christopher to condemn a weakness to which Elisabeth was prone, and to
-condone one to which she was not; but no man has learned wisdom at fifteen, and but few at fifty.<pb
-n="20"/></p>
+condone one to which she was not; but no man has learned wisdom at fifteen, and but few at fifty.<pb n="20"/></p>
 <p>"You are the most disagreeable boy I have ever met, and I wish I could think of something to do
 to annoy you. I know what I'll do; I'll go by myself and see Mrs. Bateson's pig, just to show you
 how I hate you."</p>
@@ -1182,8 +1175,7 @@ people ought to be clearly marked. I think that dancing is a regular worldly amu
 good people should openly show their disapproval of it by not joining in it."</p>
 <p>"But God wants us to enjoy ourselves," Elisabeth persisted. "And He wouldn't really love us if He
 didn't."</p>
-<p>"God wants us to do what is right, and it doesn't matter whether we enjoy ourselves or not."<pb
-n="58"/></p>
+<p>"God wants us to do what is right, and it doesn't matter whether we enjoy ourselves or not."<pb n="58"/></p>
 <p>"But it does; it matters awfully. We can't really be good unless we are happy."</p>
 <p>Felicia shook her head. "We can't really be happy unless we are good; and if we are good we shall
 'love not the world,' but shall stand apart from it."</p>
@@ -1224,8 +1216,7 @@ wise.</p>
 <p>"Still, it must be lovely to know there is one person in the world to whom you can tell all your
 thoughts, and who will understand them, and be interested in them."</p>
 <p>"It must be far lovelier to know that you have the power to tell all your thoughts to the whole
-world, and that the world will understand them and be interested in them," Elisabeth persisted.<pb
-n="60"/></p>
+world, and that the world will understand them and be interested in them," Elisabeth persisted.<pb n="60"/></p>
 <p>"I don't think so. I should like to fall in love with a man who was so much better than I, that I
 could lean on him and learn from him in everything; and I should like to feel that whatever goodness
 or cleverness there was in me was all owing to him, and that I was nothing by myself, but everything
@@ -1283,8 +1274,7 @@ on Miss Elisabeth that you'd have thought she'd have left her a trifle; but not 
 went to her sister, Miss Maria, who'd got quite enough already. Miss Anne was as sweet and gentle a
 lady as you'd wish to see; but her will was as hard as the nether millstone."</p>
 <p>"There's nothing like a death for showing up what a family is made of."</p>
-<p>"There isn't. Now Mr. William Farringdon's will was a very cruel one, according to my ideas,<pb
-n="63"/> leaving everything to his niece and nothing to his son. True, Mr. George was but a barber's
+<p>"There isn't. Now Mr. William Farringdon's will was a very cruel one, according to my ideas,<pb n="63"/> leaving everything to his niece and nothing to his son. True, Mr. George was but a barber's
 block with no work in him, and I'm the last to defend that; and then he didn't want to marry his
 cousin, Miss Maria, for which I shouldn't blame him so much; if a man can't choose his own wife and
 his own newspaper, what can he choose?—certainly not his own victuals, for he isn't fit. But if
@@ -1360,8 +1350,7 @@ the toothache? Those helpless sort of folks are always having the toothache, if 
 <p>"So they are."</p>
 <p>"Peter's toothache was so bad that he must needs take a dose of some sleeping-stuff or other—I
 forget the name—and fell so sound asleep that he never woke at the station, but was put away with
-the carriage into a siding. Fast asleep he was, with his handkerchief over his face to keep the<pb
-n="67"/> sun off, and never heard the train shunted, nor nothing."</p>
+the carriage into a siding. Fast asleep he was, with his handkerchief over his face to keep the<pb n="67"/> sun off, and never heard the train shunted, nor nothing."</p>
 <p>"Well, to be sure! Them sleeping-draughts are wonderful soothing, as I've heard tell, but I never
 took one on 'em. The Lord giveth His beloved sleep, and His givings are enough for them as are in
 health; but them as are in pain want something a bit stronger, doubtless."</p>
@@ -1727,8 +1716,7 @@ wise was the poet in remarking that whatever is is made after the best possible 
 that effect." With which consoling remark he took leave of his liege-lady.</p>
 <p>The friendship between Alan Tremaine and Elisabeth Farringdon grew apace during the next twelve
 months. His mind was of the metaphysical and speculative order, which is interesting to all women;
-and hers was of the volatile and vivacious type which is attractive to some men. They discussed<pb
-n="85"/> everything under the sun, and some things over it; they read the same books and compared
+and hers was of the volatile and vivacious type which is attractive to some men. They discussed<pb n="85"/> everything under the sun, and some things over it; they read the same books and compared
 notes afterward; they went out sketching together, and instructed each other in the ways of art; and
 they carefully examined the foundations of each other's beliefs, and endeavoured respectively to
 strengthen and undermine the same. Gradually they fell into the habit of wondering every morning
@@ -2309,8 +2297,7 @@ Woods.</p>
 want to begin at once, for fear I shouldn't get it all in before I die. There is plenty of time, of
 course; I'm only twenty-one now, so that gives me forty-nine years at the least; but forty-nine
 years will be none too much in which to teach the world all that I want to teach it."</p>
-<p>"And what time shall you reserve for learning all that the world has to teach you?"<pb n="115"
-/></p>
+<p>"And what time shall you reserve for learning all that the world has to teach you?"<pb n="115"/></p>
 <p>"I never thought of that. I'm afraid I sha'n't have much time for learning."</p>
 <p>"Then I am afraid you won't do much good by teaching."</p>
 <p>Elisabeth laughed in all the arrogance of youth. "Yes, I shall; the things you teach best are the
@@ -2407,8 +2394,7 @@ cast in too stern a mould to have any sympathy or patience with the blind gropin
 undisciplined young soul; and Christopher—who generally understood and sympathized with all
 Elisabeth's difficulties and phases—was so jealous of her obvious attachment to Tremaine, and so
 unhappy on account of it, that for the time being the faithful friend was entirely swallowed up in
-the irate lover, sighing like one of the Osierfield furnaces. Of course this was very <pb n="120"
-/>unfair and tiresome of him—nobody could deny that; but it is sometimes trying to the amiability of
+the irate lover, sighing like one of the Osierfield furnaces. Of course this was very <pb n="120"/>unfair and tiresome of him—nobody could deny that; but it is sometimes trying to the amiability of
 even the best of men to realize that the purely mundane and undeserved accident of want of money can
 shut them off entirely from ever attaining to the best kind of happiness whereof their natures are
 capable—and especially when they know that their natures are capable of attaining and appreciating a
@@ -2427,8 +2413,7 @@ failed to attain.</p>
 until the latter lose all semblance of reality; for experience, with its inevitable disillusionment,
 can not fail to put their ideal lovers and friends far from them, and to hide their etherealized
 acquaintances out of their sight; and to give instead, to the fond, trusting souls, half-hearted
-lovers, semi-sincere friends, and acquaintances who care for them only as the world can care.<pb
-n="121"/> Poor imaginative women—who dreamed that you had found a perfect knight and a faithful
+lovers, semi-sincere friends, and acquaintances who care for them only as the world can care.<pb n="121"/> Poor imaginative women—who dreamed that you had found a perfect knight and a faithful
 friend, and then discovered that these were only an ordinary selfish man and woman after all—life
 has many more such surprises in store for you; and the surprises will shock you less and hurt you
 more as the years roll on! But though life will have its surprises for you, death perchance will
@@ -2466,8 +2451,7 @@ girl instead of a man. There must be different ways of goodness, Felicia."</p>
 believe that there are. I am afraid you are not half as religious as you were at Fox How."</p>
 <p>"Yes, I am; but I have learned that true religion is a state of mind rather than a code of
 dogmas."</p>
-<p>Felicia looked uncomfortable. "I wish you wouldn't talk like that; I am sure mamma wouldn't<pb
-n="123"/> like it—she can not bear anything that borders on the profane."</p>
+<p>Felicia looked uncomfortable. "I wish you wouldn't talk like that; I am sure mamma wouldn't<pb n="123"/> like it—she can not bear anything that borders on the profane."</p>
 <p>"I am not bordering on the profane; I am only saying what I uphold is true. I can not take things
 for granted as you do; I have to think them out for myself; and I have come to the conclusion that
 what a man is is of far more importance than what a man believes."</p>
@@ -2585,8 +2569,7 @@ Elisabeth's popularity was that she had a knack of impressing the people with wh
 so much with a sense of her cleverness as with a sense of their own. She not only talked well
 herself, she made other people talk well also—a far more excellent gift.</p>
 <p>"So," she went on, "if his uncle hadn't adopted him, I suppose Chris would have starved to death
-when he was a child; and that would have been extremely unpleasant for him, poor boy!"<pb n="129"
-/></p>
+when he was a child; and that would have been extremely unpleasant for him, poor boy!"<pb n="129"/></p>
 <p>"Ah! that would have been terrible, my dear!" exclaimed Mrs. Herbert, so full of pity for
 Christopher that she was willing to give him anything short of her firstborn. She was really a
 kind-hearted woman.</p>
@@ -2645,8 +2628,7 @@ Herbert had decided that if Providence had selected her daughter as the consoler
 sorrows, Providence must be gently and patiently reasoned with until another and more suitable
 comforter was substituted. She did not, of course, put the matter to herself thus barely; but this
 was what her decision practically amounted to.</p>
-<p>But although people might not be talking, as Mrs. Herbert imagined, about Christopher and<pb
-n="132"/> Felicia, the tongues of Sedgehill were all agog on the subject of the evident attachment
+<p>But although people might not be talking, as Mrs. Herbert imagined, about Christopher and<pb n="132"/> Felicia, the tongues of Sedgehill were all agog on the subject of the evident attachment
 between Elisabeth Farringdon and the master of the Moat House.</p>
 <p>"I'm afeared as our Miss Elisabeth is keeping company with that Mr. Tremaine; I am indeed," Mrs.
 Bateson confided to her crony, Mrs. Hankey.</p>
@@ -2664,8 +2646,7 @@ if there's no man to blame you for it afterward? But what I want to see is Miss 
 Master Christopher, them two being made for one another, as you might say."</p>
 <p>"He has a new heart and a nice fresh colour, has Master Christopher; which is more than his own
 mother—supposing she was alive—could say for Mr. Tremaine."</p>
-<p>"That is so, Mrs. Hankey. I'm afeared there isn't much religion about him. He don't even go to<pb
-n="133"/> church on a Sunday, let alone chapel; though he is wonderful charitable to the poor, I
+<p>"That is so, Mrs. Hankey. I'm afeared there isn't much religion about him. He don't even go to<pb n="133"/> church on a Sunday, let alone chapel; though he is wonderful charitable to the poor, I
 must admit."</p>
 <p>Mrs. Hankey pursed up her mouth. "And what are works without faith, I should like to know!"</p>
 <p>"Quite true—quite true; but maybe the Lord ain't quite as hard on us as we are on one another,
@@ -3109,8 +3090,7 @@ from other women, and now I find the difference was merely a surface one."</p>
 <p>Tremaine laughed bitterly. "You are disappointed in yourself, I should imagine. You posed as
 being so broad and modern and enlightened, and yet you have found worn-out dogmas and hackneyed
 creeds too strong for you."</p>
-<p>Elisabeth smiled to herself. "No; but I have found the Christ," she answered softly.<pb n="156"
-/></p>
+<p>Elisabeth smiled to herself. "No; but I have found the Christ," she answered softly.<pb n="156"/></p>
 </div>
 <div type="chapter">
 
@@ -3357,8 +3337,7 @@ to be done."</p>
 <p>"Well, if you were awfully fond of anybody, should you want them to spend their time with you,
 and do what you were doing, when you knew all the time that they didn't like being with you, but
 were dying to be with some one else?"</p>
-<p>"Certainly not." Christopher might not know much about theology, but he knew exactly how <pb
-n="168"/>people felt when they were, as Elisabeth said, "awfully fond of anybody."</p>
+<p>"Certainly not." Christopher might not know much about theology, but he knew exactly how <pb n="168"/>people felt when they were, as Elisabeth said, "awfully fond of anybody."</p>
 <p>"Of course you wouldn't," the girl went on; "you would wish the person you loved to be happy with
 you, and to want to be with you as much as you wanted to be with them; and if they didn't really
 care to be with you, you wouldn't thank them for unselfishness in the matter. So if an ordinary man
@@ -3399,8 +3378,7 @@ is a bother to begin to unteach you."</p>
 <p>"I wonder why. I don't think I should find it at all a bother to unteach you certain things."</p>
 <p>"And it is a greater bother still to teach you all over again, and teach you different."
 Elisabeth added, without attending to the last remark.</p>
-<p>"Thank you, I think I won't trespass on your forbearance to that extent. Some lessons are so<pb
-n="170"/> hard to master that life would be unbearable if one had to learn them twice over."
+<p>"Thank you, I think I won't trespass on your forbearance to that extent. Some lessons are so<pb n="170"/> hard to master that life would be unbearable if one had to learn them twice over."
 Christopher spoke somewhat bitterly.</p>
 <p>Elisabeth attended then. "What a funny thing to say! But I know what it is—you've got a headache;
 I can see it in your face, and that makes you take things so contrariwise."</p>
@@ -3811,8 +3789,7 @@ been to him, and of how that uncle still treated him as a little child; and with
 consciousness that, when his uncle was gone, nobody would ever treat him as a little child any more.
 Life is somewhat dreary when the time comes for us to be grown-up to everybody; so Christopher
 looked (and did not see) out of the window, instead of speaking.</p>
-<p>"Of course," Miss Farringdon continued, "you will take his place, should he be—as I fear is <pb
-n="191"/>inevitable—unable to resume work at the Osierfield; and I have such a high opinion of you,
+<p>"Of course," Miss Farringdon continued, "you will take his place, should he be—as I fear is <pb n="191"/>inevitable—unable to resume work at the Osierfield; and I have such a high opinion of you,
 Christopher, that I have no doubt you will do your uncle's work as well as he has done it, and there
 could not be higher praise. Nevertheless, it saddens me to know that another of the old landmarks
 has been swept away, and that now I only am left of what used to be the Osierfield forty years ago.
@@ -4010,8 +3987,7 @@ to take Elisabeth over to Burlingham on the one day that Coulson's circus was on
 Elisabeth looked forward to the treat like a child; for she was by nature extremely fond of
 pleasure, and by circumstance little accustomed to it.</p>
 <p>Great then was her disappointment when the morning of the day arrived, to receive a short note
-from Christopher saying that he was extremely sorry to inconvenience her, but that his business <pb
-n="201"/>engagements made it impossible for him to take her to Burlingham that day; and adding
+from Christopher saying that he was extremely sorry to inconvenience her, but that his business <pb n="201"/>engagements made it impossible for him to take her to Burlingham that day; and adding
 various apologies and hopes that she would not be too angry with him. She had so few treats that her
 disappointment at losing one was really acute for the moment; but what hurt her far more than the
 disappointment was the consciousness that Chris had obeyed the calls of business rather than her
@@ -4144,8 +4120,7 @@ form of exercise to ruling powers. But at the back of her humble contrition ther
 gladness in the knowledge that Christopher had not really failed her after all, and that her kingdom
 was still her own as it had been in her childish days; and there was also a nobler feeling of higher
 joy in the consciousness that—quite apart from his attitude toward her—Christopher was still the
-Christopher that she had always in her inmost soul believed him to be; that she was not wrong in<pb
-n="208"/> the idea she had formed of him long ago. It is very human to be glad on our own account
+Christopher that she had always in her inmost soul believed him to be; that she was not wrong in<pb n="208"/> the idea she had formed of him long ago. It is very human to be glad on our own account
 when people are as fond of us as we expected them to be; but it is divine to be glad, solely for
 their sakes, when they act up to their own ideals, quite apart from us. And there was a touch of
 divinity in Elisabeth's gladness just then, though the rest of her was extremely human—and feminine
@@ -4436,8 +4411,7 @@ thought how nice it was to be petted and taken care of; and as she walked homewa
 side, she felt like a good little girl again. Even reigning monarchs now and then like to have their
 ermine tucked round them, and to be patted on their crowns by a protecting hand.</p>
 <p>As the weeks rolled on and the spring drew nearer, Elisabeth gradually took up the thread of
-human interest again. Fortunately for her she was very busy with plans for the benefit of the <pb
-n="223"/>work-people at the Osierfield. She started a dispensary; she opened an institute; she
+human interest again. Fortunately for her she was very busy with plans for the benefit of the <pb n="223"/>work-people at the Osierfield. She started a dispensary; she opened an institute; she
 inaugurated courses of lectures and entertainments for keeping the young men out of the
 public-houses in the evenings; she gave to the Wesleyan Conference a House of Rest—a sweet little
 house, looking over the fields toward the sunset—where tired ministers might come and live at ease
@@ -4803,8 +4777,7 @@ had wanted for themselves."</p>
 them."</p>
 <p>"I suppose they could all walk without crutches," suggested Willie.</p>
 <p>"Of course they could; and they could understand everything without being told."</p>
-<p>"And the other people loved them very much, and were very kind to them, weren't they?"<pb n="242"
-/></p>
+<p>"And the other people loved them very much, and were very kind to them, weren't they?"<pb n="242"/></p>
 <p>"Perhaps; but what made them so happy was that they loved the other people and were kind to them.
 As long as they lived here in the smoke and din and bustle, everybody was so busy looking after his
 own concerns that nobody could be bothered with their love. There wasn't room for it, or time for
@@ -4927,8 +4900,7 @@ down from her pedestal and begged to be allowed to play with them or comfort the
 would only have been frightened and run away.</p>
 <p>But here at last was a man who understood what she was feeling; to whom she could tell her
 troubles, and who would know what she meant; and she made up her mind that before that season was
-over, she and the unknown artist, who had painted The Daughters of Philip, should be friends.<pb
-n="249"/></p>
+over, she and the unknown artist, who had painted The Daughters of Philip, should be friends.<pb n="249"/></p>
 </div>
 <div type="chapter">
 
@@ -4991,8 +4963,7 @@ women such as you, that I was speaking."</p>
 <p>"Yes; I understood it well enough," replied Elisabeth sadly.</p>
 <p>"I knew you would."</p>
 <p>"Poor little daughters of Philip! How much happier they would have felt if they had been just the
-same as all the other commonplace Jewish maidens, and had lived ordinary women's lives!"<pb n="252"
-/></p>
+same as all the other commonplace Jewish maidens, and had lived ordinary women's lives!"<pb n="252"/></p>
 <p>"But how much happier they made other people by their great gift of interpreting to a tired world
 the hidden things of God!" replied Cecil, his face aglow with emotion. "You must never forget that,
 you women of genius, with your power of making men better and women brighter by the messages you
@@ -5466,8 +5437,7 @@ as quite fresh."</p>
 <p>"He never listens to them, so it is all the same to him whether they're fresh or not. That is why
 I confide so absolutely in Silverhampton; he never listens to a word I say, and never has done."</p>
 <p>Lord Stonebridge amended this remark. "Except when you accepted him."</p>
-<p>"Certainly not; because, as a matter of fact, I refused him; but he never listened, and so he <pb
-n="276"/>married me. It is so restful to have a husband who never attends to what you say! It must
+<p>"Certainly not; because, as a matter of fact, I refused him; but he never listened, and so he <pb n="276"/>married me. It is so restful to have a husband who never attends to what you say! It must
 be dreadfully wearing to have one who does, because then you'd never be able to tell him the truth.
 And the great charm of your having a home of your own appears to be that it is the one place where
 you can speak the truth."</p>
@@ -5959,8 +5929,7 @@ powers."</p>
 <p>"I think not! You can, and will, paint a distinctly better picture some day."</p>
 <p>"In what way better?"</p>
 <p>"Ah! there you have me. But I will try to tell you what I mean, though I speak as a fool; and if
-I say anything very egregious, you must let my ignorance be my excuse, and pardon the clumsy <pb
-n="301"/>expression of my intentions because they are so well meant. It doesn't seem to me to be
+I say anything very egregious, you must let my ignorance be my excuse, and pardon the clumsy <pb n="301"/>expression of my intentions because they are so well meant. It doesn't seem to me to be
 enough for anybody to do good work; they must go further, and do the best possible work in their
 power. Nothing but one's best is really worth the doing; the cult of the second-best is always a
 degrading form of worship. Even though one man's second-best be intrinsically superior to the best
@@ -6132,8 +6101,7 @@ think?"</p>
 <p>"I thought it would be different," said Elisabeth sadly; "I thought that when it did come it
 would transform the whole world, just as religion does, and that all things would become new. I
 thought it would turn out to be the thing that we are longing for when the beauty of nature makes us
-feel sad with a longing we know not for what. I thought it would change life's dusty paths into<pb
-n="310"/> golden pavements, and earth's commonest bramble-bush into a magic briar-rose."</p>
+feel sad with a longing we know not for what. I thought it would change life's dusty paths into<pb n="310"/> golden pavements, and earth's commonest bramble-bush into a magic briar-rose."</p>
 <p>"And it hasn't?"</p>
 <p>"No; everything is just the same as it was before I met you. As far as I can see, there is no
 livelier emerald twinkling in the grass of the Park than there ever is at the end of July, and no
@@ -6245,8 +6213,7 @@ you—you know that we weren't; we were glad of your success, and proud of you, 
 genius as much as the outside world did, and never minded a bit that it was greater than ours. But
 even then you were not content—you must have everything, and leave us nothing, just to satisfy your
 pride. You are like the rich man who had everything, and yet took from the poor man his one ewe
-lamb; and I am sure that God—if there is a God—will punish you as He punished that rich man."<pb
-n="316"/></p>
+lamb; and I am sure that God—if there is a God—will punish you as He punished that rich man."<pb n="316"/></p>
 <p>Elisabeth turned rather pale; whatever had she done that any one dared to say such things to her
 as this? "I still don't understand you," she said.</p>
 <p>"I never had anything nice in my life till I met him," the girl continued incoherently—"I had
@@ -6442,8 +6409,7 @@ Evidently Elisabeth meant to marry him and make him into a rich man; and money w
 loved best in the world. Which of us would not be happy if we thought we were about to win the thing
 we loved best? And is it altogether our own fault if the thing we happen to love best be unworthy of
 love, or is it only our misfortune?</p>
-<p>Because he was triumphant, Cecil looked handsomer than usual, for there are few things more be<pb
-n="327"/>coming than happiness; and as he entered the room, radiant with that vitality which is so
+<p>Because he was triumphant, Cecil looked handsomer than usual, for there are few things more be<pb n="327"/>coming than happiness; and as he entered the room, radiant with that vitality which is so
 irresistibly attractive, Elisabeth recognised his charm without feeling it, just as one sees people
 speaking and gesticulating in the distance without hearing a word of what is said.</p>
 <p>"My dear lady, you are going to say <hi>yes</hi> to me; I know that you are; you would not have
@@ -6651,8 +6617,7 @@ her over for the daughter of her father's manager. When Maria Farringdon died an
 will, that at last she had forgiven her old lover, my uncle's mind was completely gone; and it was
 not until after his death that I discovered the papers which put me in possession of the facts of
 the case.</p>
-<p>"By that time I had learned, beyond all disputing, that I was too dull and stupid ever to win<pb
-n="338"/> your love. I only cared for money that it might enable me to make you happy; and if you
+<p>"By that time I had learned, beyond all disputing, that I was too dull and stupid ever to win<pb n="338"/> your love. I only cared for money that it might enable me to make you happy; and if you
 could be happier without me than with me, who was I that I should complain? At any rate, it was
 given to me to insure your happiness; and that was enough for me. And you said that I didn't care
 what became of you, as long as I laid up for myself a nice little nest-egg in heaven! Sweetheart, I
@@ -6689,8 +6654,7 @@ cast-off garment. Christopher was the answer to her life's problem, the fulfilme
 desire; and although she might be obliged to go down again into the valley of the shadow, she could
 never forget that she had once stood upon the mountain-top and had beheld the glory of the promised
 land.</p>
-<p>And she never remembered that now her fortune was secured to her, and that the Willows and the<pb
-n="340"/> Osierfield would always be hers; even these were henceforth of no moment to her, save as
+<p>And she never remembered that now her fortune was secured to her, and that the Willows and the<pb n="340"/> Osierfield would always be hers; even these were henceforth of no moment to her, save as
 monuments of Christopher's love.</p>
 <p>So in the dingy dining-room, on that hot summer's afternoon, Elisabeth Farringdon became a new
 creature. The old domineering arrogance passed away forever; and from its ashes there arose another

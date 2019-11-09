@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18411"
-xml:lang="en">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18411" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -14,20 +15,14 @@ xml:lang="en">
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">34573</measure><measure unit="pages">87</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-05-20</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>The Project Gutenberg eBook of The Twins, by Martin Farquhar Tupper, A.M.,
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-05-20--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Twins, by Martin Farquhar Tupper, A.M.,
 F.R.S..</title><ref target="gut:16574">Gutenberg</ref>
 <respStmt>
 <resp>Produced by </resp>
 <name>Jonathan Ingram, Janet Blenkinship and the Online Distributed Proofreading Team </name>
-</respStmt></bibl>
-<bibl type="firstEdition" n="B7392"><title>The Twins: A Domestic Novel</title><author>Tupper, Martin
-Farquhar (1810-1889).</author><publisher>London: Bentley</publisher><date>1841</date></bibl>
-
-</sourceDesc>
+</respStmt></bibl><bibl type="firstEdition" n="B7392"><title>The Twins: A Domestic Novel</title><author>Tupper, Martin
+Farquhar (1810-1889).</author><publisher>London: Bentley</publisher><date>1841</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -43,7 +38,7 @@ Farquhar (1810-1889).</author><publisher>London: Bentley</publisher><date>1841</
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-05-20">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -756,8 +751,7 @@ to the princess, and soothed her, that she let the child depart peacefully. Most
 jewellery dated from that earliest time of inexplicable oriental splendour.</p>
 <p>After those infantine seven years, the captain took her with him to his station up the country,
 where she lived she knew not how long, in a strong hill-fort, one Puttymuddyfudgepoor, where there
-was a great deal of fighting, and besieging, and storming, and cannonading; but it ceased <pb n="38"
-/>at last, and the captain, who then soon successively became both major and colonel, always kept
+was a great deal of fighting, and besieging, and storming, and cannonading; but it ceased <pb n="38"/>at last, and the captain, who then soon successively became both major and colonel, always kept
 her in his own quarters, making her his little pet; and, after the fighting was all over, his
 brother-officers would take her out hunting in their howdahs, and she had plenty of
 palanquin-bearers, sepoys, and servants at command; and, what was more, good nurse Mackie was her
@@ -899,8 +893,7 @@ dark creed—(Alas! the Amina had offered unto Juggernaut, and Emily of the stro
 scarcely heard of any truer God; and the fair girl was a woman-grown before, in her first earthly
 love, she also came to know the mercies Heaven has in store for us)—whether unto any lasting use she
 prayed and reasoned with that hard, dried heart, none but the Omniscient can tell. Let us hope: let
-us hope; for the fretful voice was stilled, and the cloudy forehead brightened, and the hag<pb
-n="43"/>gard eyes looked cheerfully to meet the inevitable stroke of death. Thus in wisdom and in
+us hope; for the fretful voice was stilled, and the cloudy forehead brightened, and the hag<pb n="43"/>gard eyes looked cheerfully to meet the inevitable stroke of death. Thus in wisdom and in
 charity, in patience and in faith, that gentle pair of lovers comforted the dying soul.</p>
 <p>However, days rolled away, and Aunt Green lingered on still, tenaciously clinging unto life:
 until one morning early, she felt so much better, that she insisted on being propped up by pillows,
@@ -955,8 +948,7 @@ leave Julian, her son, my '<hi>Whole Duty of Man</hi>,' convinced that he is def
 item, I confirm all the gifts which I intend to make upon my death-bed: item, forasmuch as General
 Tracy, my niece's husband, on his return from abroad, greeted me with much affection, I bequeath and
 give to him five thousand pounds' worth of Exchequer bills, now in my banker's hands; and appoint
-him my sole executor. As to my landed property, it will all go, in course of law, to my heir, <pb
-n="45"/>Samuel Hayley, and may he and his long enjoy it. And as to the remainder of my personal
+him my sole executor. As to my landed property, it will all go, in course of law, to my heir, <pb n="45"/>Samuel Hayley, and may he and his long enjoy it. And as to the remainder of my personal
 effects, including nine thousand pounds bank stock, my Dutch fives, and other matters, whereof I may
 die possessed (seeing that my relatives are rich enough without my help), I give and bequeath the
 same, subject as hereinbefore stated, to the trustees, for the time being, of the Westminster
@@ -1617,8 +1609,7 @@ until his business was finished; in fact, he took his year's liberty.</p>
 her a Begum or a Glumdrum, or other such like Gulliverian appellative—had been singularly fond of
 him, and had loaded him in early life with favours—not only kisses, and so forth, but jewellery and
 gold pagodas. And lately, as we know, Puttymuddyfudgepoor, with its radiating rajahs and nabobs, had
-proved a mine of wealth: for a crore is ten lacs, and a lac of rupees is any thing but a <pb n="69"
-/>lack of money—although rupees be money, and the "middle is distributed;" in spite of logic, then,
+proved a mine of wealth: for a crore is ten lacs, and a lac of rupees is any thing but a <pb n="69"/>lack of money—although rupees be money, and the "middle is distributed;" in spite of logic, then,
 a lack means about twelve thousand pounds: and four of them, according to Cocker, some fifty
 thousand. It would appear then, that with the produce of the Begum's diamonds, converted into money
 long ago, and some of them as big as linnet's eggs—and not to take account of Mrs. Green's trifling
@@ -2314,8 +2305,7 @@ resemblance; Amy's mother looked out again from those dark eyes; there was not a
 children.</p>
 <p>Now, Mrs. Mackie perceived, in a very little while, how fond both Christian and Pagan appeared of
 their own child; and how little notice was taken by any body of the poor Scotch gentleman's orphan.
-Accordingly, with a view to give her favourite all worldly advantages, she adroitly <pb n="93"
-/>changed the children; and, while she was still kind and motherly to the little Tracy-Begum, she
+Accordingly, with a view to give her favourite all worldly advantages, she adroitly <pb n="93"/>changed the children; and, while she was still kind and motherly to the little Tracy-Begum, she
 had the satisfaction to see her pet supposititiously brought up in all the splendours of an Eastern
 court.</p>
 <p>Years wore away, for Captain Tracy was quite happy, the Begum being a fine showy woman, and the

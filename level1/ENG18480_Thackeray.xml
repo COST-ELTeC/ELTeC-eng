@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,20 +13,17 @@
             <extent>
                 <measure unit="words">298740</measure>
             </extent>
-            <publicationStmt><p>Published as part of ELTeC <date>2018-11-02</date></p></publicationStmt>
-            <sourceDesc>
-                <bibl type="encodedFrom"><author>Thackeray, William Makepeace</author> <title>Vanity Fair, A Novel without a Hero. Vols. V &amp; VI</title>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-11-02--></publicationStmt>
+            <sourceDesc><bibl type="digitalSource"><author>Thackeray, William Makepeace</author> <title>Vanity Fair, A Novel without a Hero. Vols. V &amp; VI</title>
                     <title level="s">Harvard Classics Shelf of Fiction.</title> 
                     <publisher>New York: P.F. Collier &amp; Son, 1917</publisher>
                     <publisher>Bartleby.com, 2000.</publisher>
-                    <ref target="http://www.bartleby.com/305/"/></bibl>
-                <bibl type="copyText">
+                    <ref target="http://www.bartleby.com/305/"/></bibl><bibl type="printSource">
                     <author>W. M.  Thackeray</author>
                     <title>Vanity Fair: A Novel without a Hero</title>
                     <publisher>London: Bradbury and Evans</publisher>
                     <date>1848</date>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1"><p/></encodingDesc>
         <profileDesc>
@@ -33,7 +35,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-11-02">LB made header</change>
         </revisionDesc>
         <!--<bibl xml:id="B7155" n="vanityfair|Thackeray">
@@ -132,7 +134,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
         </div>
     </front>
     <body>
-        <div type="volume" n="1">
+        <div type="group">
             <div type="chapter">
                 <head>I. Chiswick Mall</head>
                 <p>WHILE the present century was in its teens, and on one sunshiny morning in June,
@@ -12166,7 +12168,7 @@ ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleb
                     was looking at the child, who was laughing in his sleep.</p>
             </div>
         </div>
-        <div type="volume" n="2">
+        <div type="group">
             <div type="chapter">
                 <head>I. How to Live Well on Nothing A-Year</head>
                 <p>I SUPPOSE there is no man in this Vanity Fair of ours so little observant as not

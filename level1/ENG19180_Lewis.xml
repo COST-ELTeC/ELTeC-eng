@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19180" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -14,15 +18,11 @@
                 <measure unit="words">99954</measure>
                 <measure unit="pages">270</measure>
             </extent>
-            <publicationStmt>
-                <p>Published as part of ELTeC <date>2019-02-05</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition"><title>Tarr</title><author>P. Wyndham
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-05--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition"><title>Tarr</title><author>P. Wyndham
                         Lewis</author><publisher>London: Egoist Press</publisher><date>1918</date>
                     <ref target="https://archive.org/details/tarregoist00lewi">Internet Archive
-                        facsimile</ref></bibl>
-            </sourceDesc>
+                        facsimile</ref></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -38,7 +38,7 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2019-02-05">LB convert to ELTeC-1</change>
         </revisionDesc>
     </teiHeader>
@@ -94,8 +94,7 @@
                     vitality of the seaman’s life and this vigorous element have protected us
                     intellectually as the blue water has politically.</p>
                 <p>In Europe Nietzsche’s gospel of desperation, the beyond-law-man, etc., has deeply
-                    influenced the Paris apache, the Italian Futurist <hi>littérateur</hi>, the <pb
-                        n="ix"/> Russian revolutionary. Nietzsche’s books are full of seductions and
+                    influenced the Paris apache, the Italian Futurist <hi>littérateur</hi>, the <pb n="ix"/> Russian revolutionary. Nietzsche’s books are full of seductions and
                     sugar-plums. They have made “ aristocrats ” of people who would otherwise have
                     been only mild snobs or meddlesome prigs; as much as, if not more than, other
                     writings, they have made “ expropriators ” of what would otherwise merely have
@@ -164,7 +163,7 @@
         </front>
         <body>
             <pb n="1"/>
-            <div type="part">
+            <div type="group">
                 <head>PART I</head>
                 <head>BERTHA</head>
                 <div type="chapter">
@@ -499,8 +498,7 @@
                         Its first creation is the Artist himself, a new sort of person ; the
                         creative man. But for the first-rate poet, nothing short of a Queen or a
                         Chimera is adequate for the powers of his praise. — And so on all through
-                        the bunch of his gifts. One by one his powers and <hi>moyens</hi>  <pb
-                            n="12"/> are turned away from the usual object of a man’s poetry, and
+                        the bunch of his gifts. One by one his powers and <hi>moyens</hi>  <pb n="12"/> are turned away from the usual object of a man’s poetry, and
                         turned away from the immediate world. One solitary thing is left facing a
                         woman. — That is his sex, a lonely phallus. — Things are not quite so simple
                         in actual fact as this. Some artists are less complete than others. More or
@@ -649,8 +647,7 @@
                         recruits. You are now a perfectly disciplined social unit, with a profound
                             <hi>esprit de corps</hi>. The Cambridge set that you represent is as
                         observed in an average specimen, a cross between a Quaker, a Pederast, and a
-                        Chelsea artist. — Your Oxford brothers, dating from the Wilde  <pb n="17"
-                        />decade, are a stronger body. The Chelsea artists are much less flimsy. The
+                        Chelsea artist. — Your Oxford brothers, dating from the Wilde  <pb n="17"/>decade, are a stronger body. The Chelsea artists are much less flimsy. The
                         Quakers are powerful rascals. You represent, my Hobson, the <hi>dregs</hi>
                         of Anglo-Saxon civilization! — There is nothing softer on earth. — Your
                         flabby potion is a mixture of the lees of Liberalism, the poor froth blown
@@ -2060,8 +2057,7 @@
                         attitude. She thought she knew him, but was amazed at his ignorance or
                         pretence.</p>
                     <p>So he had now brought this new element into relief. For the last hour he had
-                        been accumulating difficulties, or rather unearthing some new one at  <pb
-                            n="63"/>  every step. Impossible to tackle <hi>en masse,</hi> they were
+                        been accumulating difficulties, or rather unearthing some new one at  <pb n="63"/>  every step. Impossible to tackle <hi>en masse,</hi> they were
                         all there before him. The thought of “ settling everything before he went,”
                         now appeared monstrous. He had, anyhow, started these local monsters
                         and demons, fishing them to the light. Each had a different vocal
@@ -2088,7 +2084,7 @@
                     <pb n="64"/>
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
                 <head>PART II</head>
                 <head>DOOMED, EVIDENTLY. THE “FRAC”</head>
 
@@ -2232,8 +2228,7 @@
                         marks. Its dead unchangeableness must preclude all innovation. This spell of
                         monotony on his life he could not break. The room cut him off from the
                         world. He gazed around as a man may eye a wife whom he suspects of
-                        intercepting his correspondence. There was no reason why the letter  <pb
-                            n="69"/>  with his monthly remittance should, have come on that
+                        intercepting his correspondence. There was no reason why the letter  <pb n="69"/>  with his monthly remittance should, have come on that
                         particular morning, already eight days overdue.</p>
                     <p>“ If I had a father like yours! ” said Suzanne in menacing, humorous
                         sing-song, eyes bulging and head nodding. At this vista of perpetual
@@ -2474,8 +2469,7 @@
                         hustled, which Volker would have to applaud, was a clever prelude. Then Otto
                         began to be nice.</p>
                     <p>“ I am sorry for the little devil! I shall have the money soon. I shall send
-                        it him. He shall not suffer. Antonio, too. I don’t owe much. I had to  <pb
-                            n="77"/>  settle most before I left. Himmel! My landlord ! ” He choked
+                        it him. He shall not suffer. Antonio, too. I don’t owe much. I had to  <pb n="77"/>  settle most before I left. Himmel! My landlord ! ” He choked
                         mirthfully over his coffee a little, almost upsetting it, then mincingly
                         adjusted the cup to his moustached lips.</p>
                     <p>If he had to <hi>settle up</hi> before he left, he could not have much now,
@@ -3128,8 +3122,7 @@
                         Bonnington Club, that would take place the following evening, was the event
                         that arrested him. Why was this familiar ? Anastasya ? Anastasya had spoken
                         of it. That was all he could remember. Would she be there ? He at once, and
-                        as though he had come there to do so, fished delicately in this same <pb
-                            n="99"/>stream of tepid, chatter for an invitation to the dance.
+                        as though he had come there to do so, fished delicately in this same <pb n="99"/>stream of tepid, chatter for an invitation to the dance.
                         Fraulein Lipmann, the fish he particularly angled, for, was backward. They
                         did not seem to want him very much at the dance. Nevertheless, after an hour
                         of indefatigable manoeuvring, the exertion of many powers seldom put forth
@@ -3275,8 +3268,7 @@
                         acquaintanceship was a possession something equivalent to a cheap ring, a
                         souvenir. He must part with it, if necessary.</p>
                     <p>Lowndes grinned at sight of Kreisler. He had finished his own lunch and was
-                        just going off. He had almost forgotten his idea in coming to the  <pb
-                            n="104"/> restaurant, that of seeing his German acquaintance. Swaying
+                        just going off. He had almost forgotten his idea in coming to the  <pb n="104"/> restaurant, that of seeing his German acquaintance. Swaying
                         from side to side on his two superlatively elastic calves, he sat down
                         opposite the good Otto, who leered back, blinking. He spoke German
                         better than Kreisler any other language, so they used that, after a little
@@ -3631,8 +3623,7 @@
                         march. Her image there had become used. The reality, in its lightning
                         correction of this, dug into his mind. There once more the real figure had
                         its separate and foreign life. He was disagreeably struck by a certain air
-                        of depression and cheerlessness in the two figures before him. This <pb
-                            n="116"/> one thing that should have been pleasant, displeased him. He
+                        of depression and cheerlessness in the two figures before him. This <pb n="116"/> one thing that should have been pleasant, displeased him. He
                         was angry as though she had been shamming melancholy.</p>
                     <p>They were not talking, the best proof of familiarity. A strange figure
                         occurred to him ; he felt like a man, with all organs, bones, tissues
@@ -3724,7 +3715,7 @@
                         misconduct would not be wanting.</p>
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
                 <head>PART III.</head>
                 <p>BOURGEOIS-BOHEMIANS</p>
                 <div type="chapter">
@@ -3894,8 +3885,7 @@
                     <p>“ Not feeling gregarious to-night ? ” she asked.</p>
                     <p>Kreisler walked slowly, increasing, at ever step, the distance between them
                         and the next group, as though hoping that, should he draw her far enough
-                        back in the rear, like an elastic band she would in panic shoot  <pb n="125"
-                        />  forward. “ Did he know many English people ? ” and she continued in a
+                        back in the rear, like an elastic band she would in panic shoot  <pb n="125"/>  forward. “ Did he know many English people ? ” and she continued in a
                         long eulogy of that race. Kreisler murmured and muttered sceptically.
                         And she seemed then to be saying something about Soler’s, and eventually to
                         be recommending him a new Spanish professor of some sort.</p>
@@ -4101,8 +4091,7 @@
                         cost a good deal to build. It was quite phenomenally handsome as seen
                         from the street, and was grateful. It made a cheerful show, with pink, red,
                         and pale blue paper-chains and Chinese lanterns, one week for some festivity
-                        ; and the next, sparely robed in dark red curtains, would settle its  <pb
-                            n="132"/>  walls gravely to receive some houseless quartet. In this
+                        ; and the next, sparely robed in dark red curtains, would settle its  <pb n="132"/>  walls gravely to receive some houseless quartet. In this
                         manner it paid its way. Some phlegmatic but obstinate power had brought it
                         into existence. “ Found a club, found a club ! ” it had reiterated in the
                         depths of certain anonymous minds, with sleepy tenacity. Some one sighed,
@@ -4599,7 +4588,7 @@
                         might, would hardly reduce this word to tenderness or digestibility.</p>
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
 
                 <head>PART IV</head>
                 <p>A JEST TOO DEEP FOR LAUGHTER</p>
@@ -4795,8 +4784,7 @@
                         facility of the South, whether it be their, at bottom, very
                         shrewdly regulated anger (<hi>l'art de s’engueuler</hi>) or their picture
                         post card perfection of amorous expressiveness; such things those Island
-                        mutterers and mutes have escaped. But worst of all is the cult of the <pb
-                            n="156"/> ‘ Tempera<hi>ment</hi>,’ all the accent on that poor last
+                        mutterers and mutes have escaped. But worst of all is the cult of the <pb n="156"/> ‘ Tempera<hi>ment</hi>,’ all the accent on that poor last
                         syllable, whose home is that dubious middle Empire, so incorrigibly banal.
                         The lacerating and tireless pricking and pushing of this hapless ‘
                         temperament ’ is a more harrowing spectacle than the use of dogs in
@@ -5041,8 +5029,7 @@
                         clan-meeting.</p>
                     <p>“ I felt he was <hi>really</hi> in need of some hand to help him. He seemed
                         just like a child. He was ill, too. He can’t have eaten anything for some
-                        time. I am sure he hasn’t. He was walking slower and slower —   <pb n="164"
-                        /> that’s how it was we were so far behind. It was my fault, too — what
+                        time. I am sure he hasn’t. He was walking slower and slower —   <pb n="164"/> that’s how it was we were so far behind. It was my fault, too — what
                         happened. At least----”</p>
                     <p>The hungry touch was an invention of the moment. “ You make him quite a
                         romantic character. I’m afraid he has been working on your feelings, my dear
@@ -5887,8 +5874,7 @@
                         me! You are <hi>so</hi> good, so good ! There is nothing you can ask of me
                         too much. I have done something I can never undo. It is as though you had
                         saved my life. — Otto Kreisler you can always count on! — The greatest
-                        service you can do me, that I humbly beg you may — is to ask some <pb
-                            n="192"/> service of me, the more difficult the better! — Goodbye,
+                        service you can do me, that I humbly beg you may — is to ask some <pb n="192"/> service of me, the more difficult the better! — Goodbye,
                         Fraulein.”</p>
                     <p>Giving her hand a last hug, he sprang up, and Bertha heard him next stormily
                         descending the stairs, and then farther away passing rapidly down
@@ -6072,7 +6058,7 @@
                     <pb n="198"/>
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
 
                 <head>PART V</head>
                 <p>A MEGRIM OF HUMOUR</p>
@@ -6213,8 +6199,7 @@
                         a climax.</p>
                     <p>On leaving Renée Lipmann’s, nevertheless, Tarr went to the café de l’Aigle,
                         some distance away, but with an object. To make his present
-                        frequentation quite complete, it only needed Kreisler. Otto was  <pb n="203"
-                        />  there, very much on his present visiting list. He visited him regularly
+                        frequentation quite complete, it only needed Kreisler. Otto was  <pb n="203"/>  there, very much on his present visiting list. He visited him regularly
                         at the Café de l’Aigle, where he was constantly to be found.</p>
                     <p>This is how Tarr had got to know him.</p>
                 </div>
@@ -7240,7 +7225,7 @@
                         left where it was, despite the threatened aggression against his nose.</p>
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
 
                 <head>PART VI.</head>
                 <head>HOLOCAUSTS</head>
@@ -7262,8 +7247,7 @@
                         punctually at his disposal. Had it been an errand of pleasure, he would have
                         instinctively supposed the reverse.</p>
                     <p>At ten, and at half-past, his rival had not yet arrived. Tarr set out to make
-                        rapidly a tour of the other cafés. But Kreisler might be turning over a  <pb
-                            n="238"/>  new leaf. He might be going to bed, as on the previous
+                        rapidly a tour of the other cafés. But Kreisler might be turning over a  <pb n="238"/>  new leaf. He might be going to bed, as on the previous
                         evening. He must not be again sought, though, on his own territory. The
                         moral disadvantage of this position, on a man’s few feet of most intimate
                         floor space, Tarr had clearly realized.</p>
@@ -7745,8 +7729,7 @@
                         would only have been dignified for an inhabitant of Nevada.</p>
                     <p>He did not regard this as a duel, but a brawl, ordered by the rules of “
                         affairs of honour.” If a drunken man or an <hi>apache</hi> attacked you the
-                        best thing to do would be to fight. If he offered to “ fight you fair ”  <pb
-                            n="254"/> — putting it in that way — then <hi>that</hi> would, be the
+                        best thing to do would be to fight. If he offered to “ fight you fair ”  <pb n="254"/> — putting it in that way — then <hi>that</hi> would, be the
                         best thing, too, no doubt.</p>
                     <p>But Bitzenko really had brought him to this. Kreisler alone could never have
                         hoped to compass anything approaching a duel with him.</p>
@@ -8682,8 +8665,7 @@
                         concern :</p>
                     <p>“ There is your fiancee. She seems rather upset.”</p>
                     <p>Tarr looked towards the door. Bertha’s white face was close up against one of
-                        the narrow panes, above the lace curtain. There were four and a half  <pb
-                            n="285"/> feet of window on either side of the door. There were so many
+                        the narrow panes, above the lace curtain. There were four and a half  <pb n="285"/> feet of window on either side of the door. There were so many
                         objects and lights in the front well of the shop that her face would not be
                         much noticed in the corner it had chosen.</p>
                     <p>Her eyes were round, vacant, and dark, the features very white and heavy, the
@@ -8708,7 +8690,7 @@
                         discomforting sights.</p>
                 </div>
             </div>
-            <div type="part">
+            <div type="group">
                 <head>PART VII</head>
                 <head>SWAGGER SEX</head>
                 <div type="chapter">
@@ -9321,8 +9303,7 @@
                         and caught hold of his hands.</p>
                     <p>“ Sorbert, Sorbert! ”</p>
                     <p>The words were said separately, each emphatic in significance. The second was
-                        a repetition only of the first. She seemed calling him by his name to  <pb
-                            n="306"/>  conjure back his self again. Her face was a strained and
+                        a repetition only of the first. She seemed calling him by his name to  <pb n="306"/>  conjure back his self again. Her face was a strained and
                         anxious mask.</p>
                     <p>“ What is it, Bertha ? ”</p>
                     <p>“ I don’t know ! ”</p>
@@ -9450,8 +9431,7 @@
                         destructive conflict. It was like a mother being given a child to bear the
                         same size already as herself. Anastasya was in every way too big; she was
                         too big physically. But did not sex change the whole question, when it was a
-                            <hi>woman ? </hi>He did not agree to this. Woman and the sexual  <pb
-                            n="310"/>  sphere seemed, to him to be an average from
+                            <hi>woman ? </hi>He did not agree to this. Woman and the sexual  <pb n="310"/>  sphere seemed, to him to be an average from
                             which <hi>everything</hi> came : from it everything rose, or
                         attempted to rise. There was no mysterious opposition extending up into
                         Heaven, and dividing Heavenly Beings into Gods and Goddesses. There was only

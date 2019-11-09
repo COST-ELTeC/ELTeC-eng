@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"  xml:id="ENG18911">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18911">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -12,16 +15,11 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">187538</measure><measure unit="pages">958</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-02-09</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>New Grub Street: A Novel</title><title>Nineteenth-Century Fiction Full-Text
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-02-09--></publicationStmt>
+<sourceDesc><bibl type="unspecified"><title>New Grub Street: A Novel</title><title>Nineteenth-Century Fiction Full-Text
 Database</title><publisher>Chadwyck-Healey Ltd (A Bell &amp; Howell Information and Learning
-company)</publisher><date>2000</date></bibl>
-<bibl type="firstEdition"><title>New Grub Street: A Novel</title><author>George Gissing</author>
-<publisher>London: Smith, Elder</publisher><date>1891</date></bibl>
-</sourceDesc>
+company)</publisher><date>2000</date></bibl><bibl type="firstEdition"><title>New Grub Street: A Novel</title><author>George Gissing</author>
+<publisher>London: Smith, Elder</publisher><date>1891</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -33,11 +31,11 @@ company)</publisher><date>2000</date></bibl>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-02-09">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -129,8 +127,7 @@ position, if he marry at all, must take either a work-girl or an heiress, and in
 work-girl is preferable.'</p>
 <p>'How can you say that?' asked Dora. 'You never cease talking about the advantages of money.'</p>
 <p>'Oh, I don't mean that for <hi>me</hi> the work-girl would be preferable; by no means; but for a
-man like Reardon. He is absurd enough to be conscientious, likes to be called an 'artist,' and <pb
-n="7"/> so on. He might possibly earn a hundred and fifty a year if his mind were at rest, and that
+man like Reardon. He is absurd enough to be conscientious, likes to be called an 'artist,' and <pb n="7"/> so on. He might possibly earn a hundred and fifty a year if his mind were at rest, and that
 would be enough if he had married a decent little dressmaker. He wouldn't desire superfluities, and
 the quality of his work would be its own reward. As it is, he's ruined.'</p>
 <p>'And I repeat,' said Maud, 'that you enjoy the prospect.'</p>
@@ -292,8 +289,7 @@ it deals with sacred? I don't advocate the propagation of vicious literature; I 
 coarse, marketable stuff for the world's vulgar. You just give it a thought. Maud; talk it over with
 Dora.'</p>
 <p>He resumed presently:</p>
-<p>'I maintain that we people of brains are justified in supplying the mob with the food it <pb
-n="18"/> likes. We are not geniuses, and if we sit down in a spirit of long-eared gravity we shall
+<p>'I maintain that we people of brains are justified in supplying the mob with the food it <pb n="18"/> likes. We are not geniuses, and if we sit down in a spirit of long-eared gravity we shall
 produce only commonplace stuff. Let us use our wits to earn money, and make the best we can of our
 lives. If only I had the skill, I would produce novels out-trashing the trashiest that ever sold
 fifty thousand copies. But it needs skill, mind you; and to deny it is a gross error of the literary
@@ -305,8 +301,7 @@ paste. That's why I'm so slow in warming to the work. Every month I feel surer o
 That last thing of mine in <hi>The West End</hi> distinctly hit the mark; it wasn't too flashy, it
 wasn't too solid. I heard fellows speak of it in the train.'</p>
 <p>Mrs. Milvain kept glancing at Maud, with eyes which desired her attention to these utterances.
-None the less, half an hour after dinner, Jasper found himself encountered by his sister <pb n="19"
-/> in the garden, on her face a look which warned him of what was coming.</p>
+None the less, half an hour after dinner, Jasper found himself encountered by his sister <pb n="19"/> in the garden, on her face a look which warned him of what was coming.</p>
 <p>'I want you to tell me something, Jasper. How much longer shall you look to mother for support? I
 mean it literally; let me have an idea of how much longer it will be.'</p>
 <p>He looked away, and reflected.</p>
@@ -321,8 +316,7 @@ about.'</p>
 <p>'You would write Sunday-school prizes.'</p>
 <p>Maud turned away and left him.</p>
 <p>He knocked the dust out of the pipe he had been smoking, and again set off for a stroll along the
-lanes. On his countenance was just a trace of solicitude, but for the most part he wore a <pb n="20"
-/> thoughtful smile. Now and then he stroked his smoothly-shaven jaws with thumb and fingers.
+lanes. On his countenance was just a trace of solicitude, but for the most part he wore a <pb n="20"/> thoughtful smile. Now and then he stroked his smoothly-shaven jaws with thumb and fingers.
 Occasionally he became observant of wayside details — of the colour of a maple leaf, the shape of a
 tall thistle, the consistency of a fungus. At the few people who passed he looked keenly, surveying
 them from head to foot.</p>
@@ -397,8 +391,7 @@ don't see very much of him, except at meals.'</p>
 <p>'Perhaps a week.'</p>
 <p>Before Miss Harrow's departure Maud and Dora reached home. They were curious to see the young
 lady from the valley of the shadow of books, and gladly accepted the invitation offered them.</p>
-<p>They set out on the following afternoon in their brother's company. It was only a quarter <pb
-n="26"/> of an hour's walk to Mr. Yule's habitation, a small house in a large garden. Jasper was
+<p>They set out on the following afternoon in their brother's company. It was only a quarter <pb n="26"/> of an hour's walk to Mr. Yule's habitation, a small house in a large garden. Jasper was
 coming hither for the first time; his sisters now and then visited Miss Harrow, but very rarely saw
 Mr. Yule himself, who made no secret of the fact that he cared little for female society. In
 Wattleborough and the neighbourhood opinions varied greatly as to this gentleman's character, but
@@ -464,8 +457,7 @@ simply-dressed girl, whose short curly hair and thoughtful countenance Jasper ag
 it was his turn to be presented to Miss Yule, he saw that she doubted for an instant whether or not
 to give her hand; yet she decided to do so, and there was something very pleasant to him in its warm
 softness. She smiled with a slight embarrassment, meeting his look only for a second.</p>
-<p>'I have seen you several times, Miss Yule,' he said in a friendly way, 'though without <pb n="31"
-/> knowing your name. It was under the great dome.'</p>
+<p>'I have seen you several times, Miss Yule,' he said in a friendly way, 'though without <pb n="31"/> knowing your name. It was under the great dome.'</p>
 <p>She laughed, readily understanding his phrase.</p>
 <p>'I am there very often,' was her reply.</p>
 <p>'What great dome?' asked Miss Harrow, with surprise.</p>
@@ -508,8 +500,7 @@ abused in the same columns three weeks ago?'</p>
 decidedly unpleasant,' He smiled grimly. 'You hear this, Marian?'</p>
 <p>'How is it explained, father?'</p>
 <p>'May be accident, of course; but — well, there's no knowing. I think it very likely this will be
-the end of Mr. Fadge's tenure of office. Rackett, the proprietor, only wants a plausible <pb n="34"
-/> excuse for making a change. The paper has been going downhill for the last year; I know of two
+the end of Mr. Fadge's tenure of office. Rackett, the proprietor, only wants a plausible <pb n="34"/> excuse for making a change. The paper has been going downhill for the last year; I know of two
 publishing houses who have withdrawn their advertising from it, and who never send their books for
 review. Everyone foresaw that kind of thing from the day Mr. Fadge became editor. The tone of his
 paragraphs has been detestable. Two reviews of the same novel, eh? And diametrically opposed? Ha!
@@ -746,8 +737,7 @@ Reardon — '</p>
 <p>'But what does it matter? You have only spoken in his favour.'</p>
 <p>'I feared the name might affect you disagreeably.'</p>
 <p>Marian delayed her reply.</p>
-<p>'It is true,' she said, 'we are not on friendly terms with my cousin's family. I have never <pb
-n="51"/> met Mr. Reardon. But I shouldn't like you to think that the mention of his name is
+<p>'It is true,' she said, 'we are not on friendly terms with my cousin's family. I have never <pb n="51"/> met Mr. Reardon. But I shouldn't like you to think that the mention of his name is
 disagreeable to me.'</p>
 <p>'It made me slightly uncomfortable yesterday — the fact that I am well acquainted with Mrs. Edmund
 Yule, and that Reardon is my friend. Yet I didn't see why that should prevent my making your
@@ -1047,8 +1037,7 @@ idleness put all sorts of nonsense into one's head.'</p>
 <p>Dora kept her eyes down, and smiled ambiguously.</p>
 <p>'You must act as you think fit,' she remarked at length.</p>
 <p>'Exactly. Now I'll turn back. You'll be with us at dinner?'</p>
-<p>They parted. But Jasper did not keep to the straight way home. First of all, he loitered <pb
-n="72"/> to watch a reaping-machine at work; then he turned into a lane which led up the hill on
+<p>They parted. But Jasper did not keep to the straight way home. First of all, he loitered <pb n="72"/> to watch a reaping-machine at work; then he turned into a lane which led up the hill on
 which was John Yule's house. Even if he had purposed making a farewell call, it was still far too
 early; all he wanted to do was to pass an hour of the morning, which threatened to lie heavy on his
 hands. So he rambled on, and went past the house, and took the field-path which would lead him
@@ -1217,8 +1206,7 @@ honest sculptor has wrought with his own hand from the marble block; there was a
 her cheeks, and a flush must have been the rarest thing there.</p>
 <p>Her age was not quite two-and-twenty; she had been wedded nearly two years, and had a child ten
 months old.</p>
-<p>As for her dress, it was unpretending in fashion and colour, but of admirable fit. Every <pb
-n="84"/> detail of her appearance denoted scrupulous personal refinement. She walked well; you saw
+<p>As for her dress, it was unpretending in fashion and colour, but of admirable fit. Every <pb n="84"/> detail of her appearance denoted scrupulous personal refinement. She walked well; you saw
 that the foot, however gently, was firmly planted. When she seated herself, her posture was
 instantly graceful, and that of one who is indifferent about support for the back.</p>
 <p>'What <hi>is</hi> the matter?' she began. 'Why can't you get on with the story?'</p>
@@ -1529,8 +1517,7 @@ garret with the mere pretence of a fire! The Reading-room was his true home; its
 him kindly; the peculiar odour of its atmosphere — at first a cause of headache — grew dear and
 delightful to him. But he could not sit here until his last penny should be spent. Something
 practical must be done, and practicality was not his strong point.</p>
-<p>Friends in London he had none; but for an occasional conversation with his landlady he <pb
-n="106"/> would scarcely have spoken a dozen words in a week. His disposition was the reverse of
+<p>Friends in London he had none; but for an occasional conversation with his landlady he <pb n="106"/> would scarcely have spoken a dozen words in a week. His disposition was the reverse of
 democratic, and he could not make acquaintances below his own intellectual level. Solitude fostered
 a sensitiveness which to begin with was extreme; the lack of stated occupation encouraged his
 natural tendency to dream and procrastinate and hope for the improbable. He was a recluse in the
@@ -1668,8 +1655,7 @@ in myself.'</p>
 <p>'Then I will have confidence for both.'</p>
 <p>'But can you love me for my own sake — love me as a man?'</p>
 <p>'I love you!'</p>
-<p>And the words sang about him, filled the air with a mad pulsing of intolerable joy, made him <pb
-n="116"/> desire to fling himself in passionate humility at her feet, to weep hot tears, to cry to
+<p>And the words sang about him, filled the air with a mad pulsing of intolerable joy, made him <pb n="116"/> desire to fling himself in passionate humility at her feet, to weep hot tears, to cry to
 her in insane worship. He thought her beautiful beyond anything his heart had imagined; her warm
 gold hair was the rapture of his eyes and of his reverent hand. Though slenderly fashioned, she was
 so gloriously strong. 'Not a day of illness in her life,' said Mrs. Yule, and one could readily
@@ -1682,8 +1668,7 @@ to come.</p>
 <p>He went about like one dazzled with excessive light. He talked as he had never talked before,
 recklessly, exultantly, insolently — in the nobler sense. He made friends on every hand; he welcomed
 all the world to his bosom; he felt the benevolence of a God.</p>
-<p>'I love you!' It breathed like music at his ears when he fell asleep in weariness of joy; it <pb
-n="117"/> awakened him on the morrow as with a glorious ringing summons to renewed life.</p>
+<p>'I love you!' It breathed like music at his ears when he fell asleep in weariness of joy; it <pb n="117"/> awakened him on the morrow as with a glorious ringing summons to renewed life.</p>
 <p>Delay? Why should there be delay? Amy wished nothing but to become his wife. Idle to think of his
 doing any more work until he sat down in the home of which she was mistress. His brain burned with
 visions of the books he would henceforth write, but his hand was incapable of anything but a
@@ -1709,8 +1694,7 @@ world's base indifference. Poverty! Poverty!</p>
 <p>And for hours he could not sleep. His eyes kept filling with tears, the beating of his heart was
 low; and in his solitude he called upon Amy with pitiful entreaty: 'Do not forsake me! I love you! I
 love you!'</p>
-<p>But that went by. Six days, five days, four days — will one's heart burst with happiness? <pb
-n="119"/> The flat is taken, is furnished, up there towards the sky, eight flights of stone
+<p>But that went by. Six days, five days, four days — will one's heart burst with happiness? <pb n="119"/> The flat is taken, is furnished, up there towards the sky, eight flights of stone
 steps.</p>
 <p>'You're a confoundedly lucky fellow, Reardon,' remarked Milvain, who had already become very
 intimate with his new friend. 'A good fellow, too, and you deserve it.'</p>
@@ -1884,8 +1868,7 @@ Culpepper's new monthly — you've heard about it? — and he had actually thoug
 me among contributors! Now, how's that for a piece of news?'</p>
 <p>The speaker looked from Reardon to Amy with a smile of vast significance.</p>
 <p>'I rejoice to hear it!' said Reardon, fervently.</p>
-<p>'You see! you see!' cried Jasper, forgetting all about the infant in the next room, 'all <pb
-n="132"/> things come to the man who knows how to wait. But I'm hanged if I expected a thing of this
+<p>'You see! you see!' cried Jasper, forgetting all about the infant in the next room, 'all <pb n="132"/> things come to the man who knows how to wait. But I'm hanged if I expected a thing of this
 kind to come so soon! Why, I'm a man of distinction! My doings have been noted; the admirable
 qualities of my style have drawn attention; I'm looked upon as one of the coming men! Thanks, I
 confess, in some measure, to old Barlow; he seems to have amused himself with cracking me up to all
@@ -2000,8 +1983,7 @@ but till then I won't abandon my heritage of thought.'</p>
 <p>'A mistake from the practical point of view. That vast broadening of my horizon lost me the
 command of my literary resources. I lived in Italy and Greece as a student, concerned especially
 with the old civilisations; I read little but Greek and Latin. That brought me out of the track I
-had laboriously made for myself; I often thought with disgust of the kind of work I had <pb n="140"
-/> been doing; my novels seemed vapid stuff, so wretchedly and shallowly modern. If I had had the
+had laboriously made for myself; I often thought with disgust of the kind of work I had <pb n="140"/> been doing; my novels seemed vapid stuff, so wretchedly and shallowly modern. If I had had the
 means, I should have devoted myself to the life of a scholar. That, I quite believe, is my natural
 life; it's only the influence of recent circumstances that has made me a writer of novels. A man who
 can't journalise, yet must earn his bread by literature, nowadays inevitably turns to fiction, as
@@ -2173,8 +2155,7 @@ and right, but not behind him. Marian followed at a distance of two or three yar
 gateway, she quickened her pace a little, so as to pass out into the street almost at the same
 moment as Milvain. But he did not turn his head.</p>
 <p>He took to the right. Marian had fallen back again, but she still followed at a very little
-distance. His walk was slow, and she might easily have passed him in quite a natural way; <pb
-n="152"/> in that case he could not help seeing her. But there was an uneasy suspicion in her mind
+distance. His walk was slow, and she might easily have passed him in quite a natural way; <pb n="152"/> in that case he could not help seeing her. But there was an uneasy suspicion in her mind
 that he really must have noticed her in the Reading- room. This was the first time she had seen him
 since their parting at Finden. Had he any reason for avoiding her? Did he take it ill that her
 father had shown no desire to keep up his acquaintance?</p>
@@ -2276,8 +2257,7 @@ correspondence had hitherto waited for fulfilment. It seemed natural to Marian t
 the two girls should write; Maud was attractive and agreeable, and probably clever, but Dora had
 more spontaneity in friendship.</p>
 <p>'It will amuse you to hear,' wrote Dora, 'that the literary project our brother mentioned in a
-letter whilst you were still here is really to come to something. He has sent us a specimen <pb
-n="159"/> chapter, written by himself, of the "Child's History of Parliament," and Maud thinks she
+letter whilst you were still here is really to come to something. He has sent us a specimen <pb n="159"/> chapter, written by himself, of the "Child's History of Parliament," and Maud thinks she
 could carry it on in that style, if there's no hurry. She and I have both set to work on English
 histories, and we shall be authorities before long. Jolly and Monk offer thirty pounds for the
 little book, if it suits them when finished, with certain possible profits in the future. Trust
@@ -2323,8 +2303,7 @@ pretence of straightening things upon the table.</p>
 <p>'Well?' he exclaimed irritably. 'It's after five; why isn't dinner served?'</p>
 <p>'It's just coming, Alfred.'</p>
 <p>Even the average man of a certain age is an alarming creature when dinner delays itself; the
-literary man in such a moment goes beyond all parallel. If there be added the fact that he has <pb
-n="162"/> just returned from a very unsatisfactory interview with a publisher, wife and daughter may
+literary man in such a moment goes beyond all parallel. If there be added the fact that he has <pb n="162"/> just returned from a very unsatisfactory interview with a publisher, wife and daughter may
 indeed regard the situation as appalling. Marian came in, and at once observed her mother's
 frightened face.</p>
 <p>'Father,' she said, hoping to make a diversion, 'Mr. Hinks has sent you his new book, and
@@ -2663,8 +2642,7 @@ spent about a third on books. His wife was the daughter of a laundress, in whose
 thirty years ago, when new to London but already long-acquainted with hunger; they lived in complete
 harmony, but Mrs. Hinks, who was four years the elder, still spoke the laundress tongue, unmitigated
 and immitigable. Another pair were Mr. and Mrs. Gorbutt. In this case there were no narrow
-circumstances to contend with, for the wife, originally a nursemaid, not long after her <pb n="186"
-/> marriage inherited house property from a relative. Mr. Gorbutt deemed himself a poet; since his
+circumstances to contend with, for the wife, originally a nursemaid, not long after her <pb n="186"/> marriage inherited house property from a relative. Mr. Gorbutt deemed himself a poet; since his
 accession to an income he had published, at his own expense, a yearly volume of verses; the only
 result being to keep alive rancour in his wife, who was both parsimonious and vain. Making no secret
 of it, Mrs. Gorbutt rued the day on which she had wedded a man of letters, when by waiting so short
@@ -2797,8 +2775,7 @@ surely before long some Edison would make the true automaton; the problem must b
 a simple one. Only to throw in a given number of old books, and have them reduced, blended,
 modernised into a single one for to-day's consumption.</p>
 <p>The fog grew thicker; she looked up at the windows beneath the dome and saw that they were a
-dusky yellow. Then her eye discerned an official walking along the upper gallery, and in <pb n="196"
-/> pursuance of her grotesque humour, her mocking misery, she likened him to a black, lost soul,
+dusky yellow. Then her eye discerned an official walking along the upper gallery, and in <pb n="196"/> pursuance of her grotesque humour, her mocking misery, she likened him to a black, lost soul,
 doomed to wander in an eternity of vain research along endless shelves. Or again, the readers who
 sat here at these radiating lines of desks, what were they but hapless flies caught in a huge web,
 its nucleus the great circle of the Catalogue? Darker, darker. From the towering wall of volumes
@@ -2939,8 +2916,7 @@ cleverness of Milvain's contribution there could be no two opinions; it drew the
 public, and all notices of the new magazine made special reference to this article. With keen
 interest Marian sought after comments of the press; when it was possible she cut them out and put
 them carefully away.</p>
-<p>January passed, and February. She saw nothing of Jasper. A letter from Dora in the first <pb
-n="205"/> week of March made announcement that the 'Child's History of the English Parliament' would
+<p>January passed, and February. She saw nothing of Jasper. A letter from Dora in the first <pb n="205"/> week of March made announcement that the 'Child's History of the English Parliament' would
 be published very shortly; it told her, too, that Mrs. Milvain had been very ill indeed, but that
 she seemed to recover a little strength as the weather improved. Of Jasper there was no mention.</p>
 <p>A week later came the news that Mrs. Milvain had suddenly died.</p>
@@ -3254,8 +3230,7 @@ Then once more to work from half-past seven to ten. Numberless were the experime
 the day's division. The slightest interruption of the order for the time being put him out of gear;
 Amy durst not open his door to ask however necessary a question.</p>
 <p>Sometimes the three hours' labour of a morning resulted in half a dozen lines, corrected into
-illegibility. His brain would not work; he could not recall the simplest synonyms; intolerable <pb
-n="227"/> faults of composition drove him mad. He would write a sentence beginning thus: 'She took a
+illegibility. His brain would not work; he could not recall the simplest synonyms; intolerable <pb n="227"/> faults of composition drove him mad. He would write a sentence beginning thus: 'She took a
 book with a look of — ' or thus: 'A revision of this decision would have made him an object of
 derision.' Or, if the period were otherwise inoffensive, it ran in a rhythmic gallop which was
 torment to the ear. All this, in spite of the fact that his former books had been noticeably good in
@@ -3330,8 +3305,7 @@ ways of talk, what is Amy here for?'</p>
 <p>'But?'</p>
 <p>'I am not here <hi>only</hi> to try and keep you in good spirits, am I?'</p>
 <p>She asked it prettily, with a smile like that of maidenhood.</p>
-<p>'Heaven forbid! I oughtn't to have put it in that absolute way. I was half joking, you <pb
-n="232"/> know. But unfortunately it's true that I can't be as light-spirited as I could wish. Does
+<p>'Heaven forbid! I oughtn't to have put it in that absolute way. I was half joking, you <pb n="232"/> know. But unfortunately it's true that I can't be as light-spirited as I could wish. Does
 that make you impatient with me?'</p>
 <p>'A little. I can't help the feeling, and I ought to try to overcome it. But you must try on your
 side as well. Why should you have said that thing just now?'</p>
@@ -3344,8 +3318,7 @@ learnt that Amy was not to be told the whole truth about anything as he himself 
 pity. To the ideal wife a man speaks out all that is in him; she had infinitely rather share his
 full conviction than be treated as one from whom facts must be disguised. She says: 'Let us face the
 worst and talk of it together, you and I.' No, Amy was not the ideal wife from that point of view.
-But the moment after this half-reproach had traversed his consciousness he condemned himself, <pb
-n="233"/> and looked with the joy of love into her clear eyes.</p>
+But the moment after this half-reproach had traversed his consciousness he condemned himself, <pb n="233"/> and looked with the joy of love into her clear eyes.</p>
 <p>'Yes, there's hope once more, my dearest. No more gloomy talk to-night! I have read you
 something, now you shall read something to me; it is a long time since I delighted myself with
 listening to you. What shall it be?'</p>
@@ -3556,8 +3529,7 @@ these difficulties had not been felt; Reardon made a point of leaving the front 
 disposal from three to six; it was only when dread of the future began to press upon him that he sat
 in the study all day long. You see how complicated were the miseries of the situation; one torment
 involved another, and in every quarter subjects of discontent were multiplied.</p>
-<p>Mrs. Carter would have taken it ill had she known that Amy did not regard her as strictly <pb
-n="248"/> an intimate. They addressed each other by their Christian names, and conversed without
+<p>Mrs. Carter would have taken it ill had she known that Amy did not regard her as strictly <pb n="248"/> an intimate. They addressed each other by their Christian names, and conversed without
 ceremony; but Amy was always dissatisfied when the well-dressed young woman burst with laughter and
 animated talk into this abode of concealed poverty. Edith was not the kind of person with whom one
 can quarrel; she had a kind heart, and was never disagreeably pretentious. Had circumstances allowed
@@ -3602,8 +3574,7 @@ to her friend.</p>
 <p>'How delightful it must be to sit down and write about people one has invented! Ever since I have
 known you and Mr. Reardon I have been tempted to try if I couldn't write a story.'</p>
 <p>'Have you?'</p>
-<p>'And I'm sure I don't know how <hi>you</hi> can resist the temptation. I feel sure you could <pb
-n="251"/> write books almost as clever as your husband's.'</p>
+<p>'And I'm sure I don't know how <hi>you</hi> can resist the temptation. I feel sure you could <pb n="251"/> write books almost as clever as your husband's.'</p>
 <p>'I have no intention of trying.'</p>
 <p>'You don't seem very well to-day, Amy.'</p>
 <p>'Oh, I think I am as well as usual.'</p>
@@ -4142,8 +4113,7 @@ longer talked of the old subjects, but of those mean concerns of material life w
 had agreed to dismiss as quickly as possible. Their relations to each other — not long ago an
 inexhaustible topic — would not bear spoken comment; both were too conscious of the danger-signal when
 they looked that way.</p>
-<p>In the time of waiting for the publishers' offer, and now again when he was asking himself <pb
-n="287"/> how he should use the respite granted him, Reardon spent his days at the British Museum.
+<p>In the time of waiting for the publishers' offer, and now again when he was asking himself <pb n="287"/> how he should use the respite granted him, Reardon spent his days at the British Museum.
 He could not read to much purpose, but it was better to sit here among strangers than seem to be
 idling under Amy's glance. Sick of imaginative writing, he turned to the studies which had always
 been most congenial, and tried to shape out a paper or two like those he had formerly disposed of to
@@ -4758,8 +4728,7 @@ by the editor, Mr. Fadge. Father and he have been very unfriendly for a long tim
 Milvain has told you something about it?'</p>
 <p>Dora replied that he had.</p>
 <p>'I don't know how it is in other professions,' Marian resumed, 'but I hope there is less envy,
-hatred and malice than in this of ours. The name of literature is often made hateful to me <pb
-n="24"/> by the things I hear and read. My father has never been very fortunate, and many things
+hatred and malice than in this of ours. The name of literature is often made hateful to me <pb n="24"/> by the things I hear and read. My father has never been very fortunate, and many things
 have happened to make him bitter against the men who succeed; he has often quarrelled with people
 who were at first his friends, but never so seriously with anyone as with Mr. Fadge. His feeling of
 enmity goes so far that it includes even those who are in any way associated with Mr. Fadge. I am
@@ -4903,8 +4872,7 @@ circumstances.'</p>
 <p>'If that is sincere, I'm very glad. I take it in a friendly sense. I <hi>am</hi> rather
 despicable, you know; it's part of my business to be so. But a friend needn't regard that. There is
 the man apart from his necessities.'</p>
-<p>The silence was then unbroken till they came to the lower end of Park Street, the junction of <pb
-n="34"/> roads which lead to Hampstead, to Highgate, and to Holloway.</p>
+<p>The silence was then unbroken till they came to the lower end of Park Street, the junction of <pb n="34"/> roads which lead to Hampstead, to Highgate, and to Holloway.</p>
 <p>'Shall you take an omnibus?' Jasper asked.</p>
 <p>She hesitated.</p>
 <p>'Or will you give me the pleasure of walking on with you? You are tired, perhaps?'</p>
@@ -4969,8 +4937,7 @@ it contrasts with my own habits. All the better that merriment lies below it. Go
 Yule.'</p>
 <p>He strode off, and in a minute or two turned his head to look at the slight figure passing into
 darkness.</p>
-<p>Marian's hand trembled as she tried to insert her latch-key. When she had closed the door <pb
-n="38"/> very quietly behind her she went to the sitting-room; Mrs. Yule was just laying aside the
+<p>Marian's hand trembled as she tried to insert her latch-key. When she had closed the door <pb n="38"/> very quietly behind her she went to the sitting-room; Mrs. Yule was just laying aside the
 sewing on which she had occupied herself throughout the lonely evening.</p>
 <p>'I'm rather late,' said the girl, in a voice of subdued joyousness.</p>
 <p>'Yes; I was getting a little uneasy, dear.'</p>
@@ -5057,8 +5024,7 @@ spoke with that hesitation in choice of words which may be noticed in persons wh
 self-distrustful. Ceaseless perplexity and dread gave a wandering, sometimes a wild, expression to
 his eyes.</p>
 <p>He seldom slept, in the proper sense of the word; as a rule, he was conscious all through the
-night of 'a kind of fighting' between physical weariness and wakeful toil of the mind. It <pb n="45"
-/> often happened that some wholly imaginary obstacle in the story he was writing kept him under a
+night of 'a kind of fighting' between physical weariness and wakeful toil of the mind. It <pb n="45"/> often happened that some wholly imaginary obstacle in the story he was writing kept him under a
 sense of effort throughout the dark hours; now and again he woke, reasoned with himself, and
 remembered clearly that the torment was without cause, but the short relief thus afforded soon
 passed in the recollection of real distress. In his unsoothing slumber he talked aloud, frequently
@@ -5070,8 +5036,7 @@ been saying, she could not bring herself to tell him.</p>
 <p>When the striking clocks summoned him remorselessly to rise and work he often reeled with
 dizziness. It seemed to him that the greatest happiness attainable would be to creep into some dark,
 warm corner, out of the sight and memory of men, and lie there torpid, with a blessed
-half-consciousness that death was slowly overcoming him. Of all the sufferings collected <pb n="46"
-/> into each four-and-twenty hours this of rising to a new day was the worst.</p>
+half-consciousness that death was slowly overcoming him. Of all the sufferings collected <pb n="46"/> into each four-and-twenty hours this of rising to a new day was the worst.</p>
 <p>The one-volume story which he had calculated would take him four or five weeks was with
 difficulty finished in two months. March winds made an invalid of him; at one time he was threatened
 with bronchitis, and for several days had to abandon even the effort to work. In previous winters he
@@ -5235,8 +5200,7 @@ writing now, do you?'</p>
 we go into poor lodgings, what hope is there that you'll be able to write anything good?'</p>
 <p>'But, Amy, I have no faith in my power of — '</p>
 <p>'Oh, it would be different! A few days — a week or a fortnight of real holiday in this spring
-weather. Go to some seaside place. How is it possible that all your talents should have left <pb
-n="57"/> you? It's only that you have been so anxious and in such poor health. You say I don't love
+weather. Go to some seaside place. How is it possible that all your talents should have left <pb n="57"/> you? It's only that you have been so anxious and in such poor health. You say I don't love
 you, but I have thought and thought what would be best for you to do, how you could save yourself.
 How can you sink down to the position of a poor clerk in some office? That <hi>can't</hi> be your
 fate, Edwin; it's incredible. Oh, after such bright hopes, make one more effort! Have you forgotten
@@ -5249,8 +5213,7 @@ other kind of work?'</p>
 have found that I can't bear it. And I dread to think of your becoming only an ordinary man — '</p>
 <p>Reardon laughed.</p>
 <p>'But I am <hi>not</hi> "only an ordinary man," Amy! If I never write another line, that won't
-undo what I have done. It's little enough, to be sure; but you know what I <hi>am</hi> . Do you <pb
-n="58"/> only love the author in me? Don't you think of me apart from all that I may do or not do?
+undo what I have done. It's little enough, to be sure; but you know what I <hi>am</hi> . Do you <pb n="58"/> only love the author in me? Don't you think of me apart from all that I may do or not do?
 If I had to earn my living as a clerk, would that make me a clerk in soul?'</p>
 <p>'You shall not fall to that! It would be too bitter a shame to lose all you have gained in these
 long years of work. Let me plan for you; do as I wish. You are to be what we hoped from the first.
@@ -5468,8 +5431,7 @@ with hopefulness, and his heart sank at the thought of parting from Amy.</p>
 <p>'You will have a few pounds. Send your "Pliny" article to <hi>The Wayside</hi> . If you come to
 an end of all your money, mother shall lend you some.'</p>
 <p>'I am not very likely to do much work in <hi>that</hi> case.'</p>
-<p>'Oh, but you will sell the book. You'll get twenty pounds for it, and that alone would keep <pb
-n="73"/> you for three months. Think — three months of the best part of the year at the seaside! Oh,
+<p>'Oh, but you will sell the book. You'll get twenty pounds for it, and that alone would keep <pb n="73"/> you for three months. Think — three months of the best part of the year at the seaside! Oh,
 you will do wonders!'</p>
 <p>The furniture was to be housed at Mrs. Yule's. Neither of them durst speak of selling it; that
 would have sounded too ominous. As for the locality of Reardon's retreat, Amy herself had suggested
@@ -5709,8 +5671,7 @@ present he wore a dressing-gown and was without collar.</p>
 <p>'Welcome, gents both!' he cried facetiously. 'Ages since I saw you, Reardon. I've been reading
 your new book. Uncommonly good things in it here and there — uncommonly good.'</p>
 <p>Whelpdale had the weakness of being unable to tell a disagreeable truth, and a tendency to
-flattery which had always made Reardon rather uncomfortable in his society. Though there <pb n="90"
-/> was no need whatever of his mentioning 'Margaret Home,' he preferred to frame smooth fictions
+flattery which had always made Reardon rather uncomfortable in his society. Though there <pb n="90"/> was no need whatever of his mentioning 'Margaret Home,' he preferred to frame smooth fictions
 rather than keep a silence which might be construed as unfavourable criticism.</p>
 <p>'In the last volume,' he went on, 'I think there are one or two things as good as you ever did; I
 do indeed.'</p>
@@ -5805,8 +5766,7 @@ gone pale, and was frowning at the sheets of paper which trembled in his hand.</
 never heard anything so gross as this —  never!'</p>
 <p>The two waited, trying not to smile.</p>
 <p>'She writes — that she has met an old lover  — in Birmingham — that it was with him she had
-quarrelled — not with her father at all — that she ran away to annoy him and frighten him — that <pb
-n="97"/> she has made it up again, and they're going to be married!'</p>
+quarrelled — not with her father at all — that she ran away to annoy him and frighten him — that <pb n="97"/> she has made it up again, and they're going to be married!'</p>
 <p>He let the sheet fall, and looked so utterly woebegone that his friends at once exerted
 themselves to offer such consolation as the case admitted of. Reardon thought better of Whelpdale
 for this emotion; he had not believed him capable of it.</p>
@@ -5849,8 +5809,7 @@ to Amy.</p>
 seem likely to please that particular public to whom his series of one-volume novels made appeal. He
 hoped it would be understood that, in declining, he by no means expressed an adverse judgment on the
 story itself, &amp;c.</p>
-<p>'It doesn't surprise me,' said Reardon. 'I believe he is quite right. The thing is too <pb
-n="100"/> empty to please the better kind of readers, yet not vulgar enough to please the
+<p>'It doesn't surprise me,' said Reardon. 'I believe he is quite right. The thing is too <pb n="100"/> empty to please the better kind of readers, yet not vulgar enough to please the
 worse.'</p>
 <p>'But you'll try someone else?'</p>
 <p>'I don't think it's much use.'</p>
@@ -6085,8 +6044,7 @@ help me. To-morrow I shall go and look for rooms some distance from here; in Isl
 have been living far beyond our means; that must come to an end. We'll have no more keeping up of
 sham appearances. If I can make my way in literature, well and good; in that case our position and
 prospects will of course change. But for the present we are poor people, and must live in a poor
-way. If our friends like to come and see us, they must put aside all snobbishness, and take <pb
-n="116"/> us as we are. If they prefer not to come, there'll be an excuse in our remoteness.'</p>
+way. If our friends like to come and see us, they must put aside all snobbishness, and take <pb n="116"/> us as we are. If they prefer not to come, there'll be an excuse in our remoteness.'</p>
 <p>Amy was stroking the back of her hand.</p>
 <p>After a long silence, she said in a very quiet, but very resolute tone:</p>
 <p>'I shall not consent to this.'</p>
@@ -6424,8 +6382,7 @@ I'll just go and see to things.'</p>
 that sweetly plaintive voice when it addressed the luckless housemaid. It was not brutal; not at
 all. But so sharp, hard, unrelenting  — the voice of the goddess Poverty herself perhaps sounds like
 that.</p>
-<p>Mad? Was he to be spoken of in a low voice, and with finger pointing to the forehead? <pb n="139"
-/> There was something ridiculous, as well as repugnant, in such a thought; but it kept possession
+<p>Mad? Was he to be spoken of in a low voice, and with finger pointing to the forehead? <pb n="139"/> There was something ridiculous, as well as repugnant, in such a thought; but it kept possession
 of Amy's mind. She was brooding upon it when her mother came into the drawing-room.</p>
 <p>'And he positively refused to carry out the former plan?'</p>
 <p>'Refused. Said it was useless.'</p>
@@ -6523,8 +6480,7 @@ himself maintaining a position of irresponsibility.</p>
 understood, for better or worse, just as a man takes his wife. To tell the truth, it seems to me Amy
 has put herself in the wrong. It's deuced unpleasant to go and live in back streets, and to go
 without dinner now and then, but girls mustn't marry if they're afraid to face these things.'</p>
-<p>'Don't talk so monstrously, John!' exclaimed his mother. 'How could Amy possibly foresee <pb
-n="146"/> such things? The case is quite an extraordinary one.'</p>
+<p>'Don't talk so monstrously, John!' exclaimed his mother. 'How could Amy possibly foresee <pb n="146"/> such things? The case is quite an extraordinary one.'</p>
 <p>'Not so uncommon, I assure you. Some one was telling me the other day of a married lady — well
 educated and blameless — who goes to work at a shop somewhere or other because her husband can't
 support her.'</p>
@@ -6598,8 +6554,7 @@ effect that change in herself.</p>
 <p>She undressed at leisure, and stretched her limbs in the cold, soft, fragrant bed. A sigh of
 profound relief escaped her. How good it was to be alone!</p>
 <p>And in a quarter of an hour she was sleeping as peacefully as the child who shared her room.</p>
-<p>At breakfast in the morning she showed a bright, almost a happy face. It was long, long <pb
-n="151"/> since she had enjoyed such a night's rest, so undisturbed with unwelcome thoughts on the
+<p>At breakfast in the morning she showed a bright, almost a happy face. It was long, long <pb n="151"/> since she had enjoyed such a night's rest, so undisturbed with unwelcome thoughts on the
 threshold of sleep and on awaking. Her life was perhaps wrecked, but the thought of that did not
 press upon her; for the present she must enjoy her freedom. It was like a recovery of girlhood.
 There are few married women who would not, sooner or later, accept with joy the offer of some months
@@ -7016,8 +6971,7 @@ virtue you claim for yourself. It rather annoys him to see me going ahead.'</p>
 <p>'You haven't come enough in contact with him. At all events, I can't explain his change of manner
 in any other way. But I'm sorry for him; I am, indeed. At a hospital? I suppose Carter has given him
 the old job again?'</p>
-<p>'Don't know. Biffen doesn't talk very freely about it; there's a good deal of delicacy in <pb
-n="180"/> Biffen, you know. A thoroughly good-hearted fellow. And so is Reardon, I believe, though
+<p>'Don't know. Biffen doesn't talk very freely about it; there's a good deal of delicacy in <pb n="180"/> Biffen, you know. A thoroughly good-hearted fellow. And so is Reardon, I believe, though
 no doubt he has his weaknesses.'</p>
 <p>'Oh, an excellent fellow! But weakness isn't the word. Why, I foresaw all this from the very
 beginning. The first hour's talk I ever had with him was enough to convince me that he'd never hold
@@ -7107,8 +7061,7 @@ companion.</p>
 sounded so meaningless, and so unlike Reardon's manner of speech, that the younger man experienced a
 sudden alarm.</p>
 <p>'Cost you too much? I don't understand you.'</p>
-<p>They had turned into a broader thoroughfare, which, however, was little frequented at <pb n="186"
-/> this hour. Reardon, his hands thrust into the pockets of a shabby overcoat and his head bent
+<p>They had turned into a broader thoroughfare, which, however, was little frequented at <pb n="186"/> this hour. Reardon, his hands thrust into the pockets of a shabby overcoat and his head bent
 forward, went on at a slow pace, observant of nothing. For a moment or two he delayed reply, then
 said in an unsteady voice:</p>
 <p>'Your way of talking has always been to glorify success, to insist upon it as the one end a man
@@ -7433,8 +7386,7 @@ Milvains. But Mrs. Yule was not in Marian's confidence.</p>
 again.'</p>
 <p>He was not sorry that Marian had taken the decision to keep her friends away from St. Paul's
 Crescent, for it saved him a recurring annoyance; but, on the other hand, if they had continued to
-come, he would not have been thus completely in the dark as to her intercourse with Jasper; <pb
-n="209"/> scraps of information must now and then have been gathered by his wife from the girls'
+come, he would not have been thus completely in the dark as to her intercourse with Jasper; <pb n="209"/> scraps of information must now and then have been gathered by his wife from the girls'
 talk.</p>
 <p>Throughout the month of July, he suffered much from his wonted bilious attacks, and Mrs. Yule had
 to endure a double share of his illtemper, that which was naturally directed against her, and that
@@ -7522,8 +7474,7 @@ took his hat and went out.</p>
 <p>He did not return for the mid-day meal, and when Marian, late in the afternoon, came back from
 the Museum, he was still absent.</p>
 <p>Not finding her mother in the parlour, Marian called at the head of the kitchen stairs. The
-servant answered, saying that Mrs. Yule was up in her bedroom, and that she didn't seem <pb n="215"
-/> well. Marian at once went up and knocked at the bedroom door. In a moment or two her mother came
+servant answered, saying that Mrs. Yule was up in her bedroom, and that she didn't seem <pb n="215"/> well. Marian at once went up and knocked at the bedroom door. In a moment or two her mother came
 out, showing a face of tearful misery.</p>
 <p>'What is it, mother? What's the matter?'</p>
 <p>They went into Marian's room, where Mrs. Yule gave free utterance to her lamentations.</p>
@@ -7823,8 +7774,7 @@ concerned her, of vague possibilities which did not affect her habits of thought
 <p>'If that happens,' continued Mrs. Yule, in a low tone of distress, 'I don't know what I shall
 do.'</p>
 <p>Marian looked at her questioningly.</p>
-<p>'I can't wish that it mayn't happen,' her mother went on; 'I can't, for his sake and for <pb
-n="235"/> yours; but I don't know what I shall do. He'd think me more in his way than ever. He'd
+<p>'I can't wish that it mayn't happen,' her mother went on; 'I can't, for his sake and for <pb n="235"/> yours; but I don't know what I shall do. He'd think me more in his way than ever. He'd
 wish to have a large house, and live in quite a different way; and how could I manage then? I
 couldn't show myself; he'd be too much ashamed of me. I shouldn't be in my place; even you'd feel
 ashamed of me.'</p>
@@ -8485,8 +8435,7 @@ position would enable me to have done with mere drudgery; I should only write wh
 do so — when the spirit moved me.' Again he laughed, as though desirous of keeping his listener in
 good humour. 'My eyes would be greatly spared henceforth.'</p>
 <p>He dwelt on that point, waiting its effect on Marian. As she said nothing he proceeded:</p>
-<p>'And suppose I really were doomed to lose my sight in the course of a few years, am I <pb n="280"
-/> wrong in thinking that the proprietor of this periodical would willingly grant a small annuity to
+<p>'And suppose I really were doomed to lose my sight in the course of a few years, am I <pb n="280"/> wrong in thinking that the proprietor of this periodical would willingly grant a small annuity to
 the man who had firmly established it?'</p>
 <p>'I see the force of all that,' said Marian; 'but it takes for granted that the periodical will be
 successful.'</p>
@@ -8954,8 +8903,7 @@ He has asked me to use my money in starting a new review.'</p>
 doesn't seem to me to have that kind of aptitude. It would be a disastrous speculation.'</p>
 <p>'I felt that. Of course I can't think of it now.'</p>
 <p>She smiled, raising her face to his.</p>
-<p>'Don't trouble,' said Jasper. 'Wait a little, till I have made myself independent of Fadge <pb
-n="312"/> and a few other men, and your father shall see how heartily I wish to be of use to him. He
+<p>'Don't trouble,' said Jasper. 'Wait a little, till I have made myself independent of Fadge <pb n="312"/> and a few other men, and your father shall see how heartily I wish to be of use to him. He
 will miss your help, I'm afraid?'</p>
 <p>'Yes. I shall feel it a cruelty when I have to leave him. He has only just told me that his sight
 is beginning to fail. Oh, why didn't his brother leave him a little money? It was such unkindness!
@@ -9001,8 +8949,7 @@ him again.</p>
 <p>'I do indeed love you, Marian. Are you still doubtful?'</p>
 <p>'You're not sorry that I must go?'</p>
 <p>'But I am, dearest. I wish we could sit here undisturbed all through the evening.'</p>
-<p>Her touch had the same effect as before. His blood warmed again, and he pressed her to <pb
-n="315"/> his side, stroking her hair and kissing her forehead.</p>
+<p>Her touch had the same effect as before. His blood warmed again, and he pressed her to <pb n="315"/> his side, stroking her hair and kissing her forehead.</p>
 <p>'Are you sorry I wear my hair short?' she asked, longing for more praise than he had bestowed on
 her.</p>
 <p>'Sorry? It is perfect. Everything else seems vulgar compared with this way of yours. How strange
@@ -9090,8 +9037,7 @@ for a time, and you couldn't face the necessity in a just spirit. Don't you thin
 in this way of looking at it?'</p>
 <p>'As a woman, it was her part to soften the hateful necessity; she made it worse.'</p>
 <p>'I'm not sure that you don't demand too much of her. Unhappily, I know little or nothing of
-delicately-bred women, but I have a suspicion that one oughtn't to expect heroism in them, <pb n="6"
-/> any more than in the women of the lower classes. I think of women as creatures to be protected.
+delicately-bred women, but I have a suspicion that one oughtn't to expect heroism in them, <pb n="6"/> any more than in the women of the lower classes. I think of women as creatures to be protected.
 Is a man justified in asking them to be stronger than himself?'</p>
 <p>'Of course,' replied Reardon, 'there's no use in demanding more than a character is capable of.
 But I believed her of finer stuff. My bitterness comes of the disappointment.'</p>
@@ -9207,8 +9153,7 @@ pay. Why, that's affluence!'</p>
 that kind. And Croydon isn't the most inviting locality.'</p>
 <p>'Close to delightful country.'</p>
 <p>'Yes, yes; but Amy doesn't care about that.'</p>
-<p>'You misjudge her, Reardon. You are too harsh. I implore you not to lose the chance of <pb n="14"
-/> setting all right again! If only you could be put into my position for a moment, and then be
+<p>'You misjudge her, Reardon. You are too harsh. I implore you not to lose the chance of <pb n="14"/> setting all right again! If only you could be put into my position for a moment, and then be
 offered the companionship of such a wife as yours!'</p>
 <p>Reardon listened with a face of lowering excitement.</p>
 <p>'I should be perfectly within my rights,' he said sternly, 'if I merely told her when I have
@@ -9291,8 +9236,7 @@ profile, hard and cold as though in marble.</p>
 whatever I say, I prefer to keep silence. Please to let me know why you have asked to see me.'</p>
 <p>Reardon turned abruptly as if to leave her, but checked himself at a little distance.</p>
 <p>Both had come to this meeting prepared for a renewal of amity, but in these first few moments
-each was so disagreeably impressed by the look and language of the other that a revulsion of <pb
-n="20"/> feeling undid all the more hopeful effects of their long severance. On entering, Amy had
+each was so disagreeably impressed by the look and language of the other that a revulsion of <pb n="20"/> feeling undid all the more hopeful effects of their long severance. On entering, Amy had
 meant to offer her hand, but the unexpected meanness of Reardon's aspect shocked and restrained her.
 All but every woman would have experienced that shrinking from the livery of poverty. Amy had but to
 reflect, and she understood that her husband could in no wise help this shabbiness; when he parted
@@ -9317,8 +9261,7 @@ its results.</p>
 been doubtful till now, but all doubt was at an end. Had Reardon been practical man enough to
 procure by hook or by crook a decent suit of clothes for this interview, that ridiculous trifle
 might have made all the difference in what was to result.</p>
-<p>He turned again, and spoke with the harshness of a man who feels that he is despised, <pb n="22"
-/> and is determined to show an equal contempt.</p>
+<p>He turned again, and spoke with the harshness of a man who feels that he is despised, <pb n="22"/> and is determined to show an equal contempt.</p>
 <p>'I came to ask you what you propose to do in case I go to Croydon.'</p>
 <p>'I have no proposal to make whatever.'</p>
 <p>'That means, then, that you are content to go on living here?'</p>
@@ -9365,8 +9308,7 @@ your own. If I had been strong enough to treat you as a child, and bid you follo
 fortunes led, it would have been as much better for you as for me. I was weak, and I suffer as all
 weak people do.'</p>
 <p>'You think it was my duty to share such a home as you have at present?'</p>
-<p>'You know it was. And if the choice had lain between that and earning your own livelihood <pb
-n="25"/> you would have thought that even such a poor home might be made tolerable. There were
+<p>'You know it was. And if the choice had lain between that and earning your own livelihood <pb n="25"/> you would have thought that even such a poor home might be made tolerable. There were
 possibilities in you of better things than will ever come out now.'</p>
 <p>There followed a silence. Amy sat with her eyes gloomily fixed on the carpet; Reardon looked
 about the room, but saw nothing. He had thrown his hat into a chair, and his fingers worked
@@ -9683,8 +9625,7 @@ you — at the hospital?'</p>
 <p>'You won't even write to say — ?'</p>
 <p>'I shall do nothing.'</p>
 <p>Since the parting from her husband, there had proceeded in Amy a noticeable maturing of
-intellect. Probably the one thing was a consequence of the other. During that last year in <pb
-n="47"/> the flat her mind was held captive by material cares, and this arrest of her natural
+intellect. Probably the one thing was a consequence of the other. During that last year in <pb n="47"/> the flat her mind was held captive by material cares, and this arrest of her natural
 development doubtless had much to do with the appearance of acerbity in a character which had
 displayed so much sweetness, so much womanly grace. Moreover, it was arrest at a critical point.
 When she fell in love with Edwin Reardon her mind had still to undergo the culture of circumstances;
@@ -9710,8 +9651,7 @@ the volumes of Herbert Spencer, she was intelligently acquainted with the tenor 
 and though she had never opened one of Darwin's books, her knowledge of his main theories and
 illustrations was respectable. She was becoming a typical woman of the new time, the woman who has
 developed concurrently with journalistic enterprise.</p>
-<p>Not many days after that conversation with Edith Carter, she had occasion to visit Mudie's, <pb
-n="49"/> for the new number of some periodical which contained an appetising title. As it was a
+<p>Not many days after that conversation with Edith Carter, she had occasion to visit Mudie's, <pb n="49"/> for the new number of some periodical which contained an appetising title. As it was a
 sunny and warm day she walked to New Oxford Street from the nearest Metropolitan station. Whilst
 waiting at the library counter, she heard a familiar voice in her proximity; it was that of Jasper
 Milvain, who stood talking with a middle-aged lady. As Amy turned to look at him his eye met hers;
@@ -9725,8 +9665,7 @@ face with his most effective smile.</p>
 <p>'And why?' asked Amy.</p>
 <p>'Indeed, I hardly know. I hope Mrs. Yule is well?'</p>
 <p>'Quite, thank you.'</p>
-<p>It seemed as if he would draw back to let her pass, and so make an end of the colloquy. <pb
-n="50"/> But Amy, though she moved forward, added a remark:</p>
+<p>It seemed as if he would draw back to let her pass, and so make an end of the colloquy. <pb n="50"/> But Amy, though she moved forward, added a remark:</p>
 <p>'I don't see your name in any of this month's magazines.'</p>
 <p>'I have nothing signed this month. A short review in <hi>The Current</hi> , that's all.'</p>
 <p>'But I suppose you write as much as ever?'</p>
@@ -9982,8 +9921,7 @@ scheming, will you? I have something so very important to speak to you about.'</
 <p>'And you don't know what has come to pass?'</p>
 <p>'I have heard of nothing.'</p>
 <p>'I am come to see you quite on my own responsibility, quite. I took Mr. Carter into my
-confidence, but begged him not to let Mrs. Carter know, lest she should tell Amy; I think <pb n="68"
-/> he will keep his promise. It seemed to me that it was really my duty to do whatever I could in
+confidence, but begged him not to let Mrs. Carter know, lest she should tell Amy; I think <pb n="68"/> he will keep his promise. It seemed to me that it was really my duty to do whatever I could in
 these sad, sad circumstances.'</p>
 <p>Reardon listened respectfully, but without sign of feeling.</p>
 <p>'I had better tell you at once that Amy's uncle at Wattleborough is dead, and that in his will he
@@ -10025,8 +9963,7 @@ not.'</p>
 upbraided her because she was reluctant to go and live in some very shocking place.'</p>
 <p>'I may have lost my temper after Amy had shown — But I can't review our troubles in this way.'</p>
 <p>'Am I to plead in vain?'</p>
-<p>'I regret very much that I can't possibly do as you wish. It is all between Amy and myself. <pb
-n="71"/> Interference by other people cannot do any good.'</p>
+<p>'I regret very much that I can't possibly do as you wish. It is all between Amy and myself. <pb n="71"/> Interference by other people cannot do any good.'</p>
 <p>'I am sorry you should use such a word as "interference,"' replied Mrs. Yule, bridling a little.
 'Very sorry, indeed. I confess it didn't occur to me that my good-will to you could be seen in that
 light.'</p>
@@ -10084,8 +10021,7 @@ to-night. Come out into Upper Street, and let us eat, drink, and be merry!'</p>
 happy days! Then she, too, would have gone to Greece, wouldn't she? Everything in life comes too
 soon or too late. What it would have meant for her and for me! She would never have hated me then,
 never. Biffen, am I base or contemptible? She thinks so. That's how poverty has served me. If you
-had seen her, how she looked at me, when we met the other day, you would understand well <pb n="75"
-/> enough why I couldn't live with her now, not if she entreated me to. That would make me base if
+had seen her, how she looked at me, when we met the other day, you would understand well <pb n="75"/> enough why I couldn't live with her now, not if she entreated me to. That would make me base if
 you like. Gods! how ashamed I should be if I yielded to such a temptation! And once — '</p>
 <p>He had worked himself to such intensity of feeling that at length his voice choked and tears
 burst from his eyes.</p>
@@ -10532,8 +10468,7 @@ marvel at, I paid immediately four dollars and a half for a week's board and lod
 to myself, "for a week I am safe. If I earn nothing in that time, at least I shall owe nothing when
 I have to turn out into the streets." It was a rather dirty little boarding-house, in Wabash Avenue,
 and occupied, as I soon found, almost entirely by actors. There was no fireplace in my bedroom, and
-if there had been I couldn't have afforded a fire. But that mattered little; what I had to do <pb
-n="107"/> was to set forth and discover some way of making money. Don't suppose that I was in a
+if there had been I couldn't have afforded a fire. But that mattered little; what I had to do <pb n="107"/> was to set forth and discover some way of making money. Don't suppose that I was in a
 desperate state of mind; how it was, I don't quite know, but I felt decidedly cheerful. It was
 pleasant to be in this new region of the earth, and I went about the town like a tourist who has
 abundant resources.'</p>
@@ -10705,8 +10640,7 @@ subjects of intellectual cast that altogether satisfied me. Well, well; I have t
 kinds of literature. Assuredly I merit the title of man of letters.'</p>
 <p>'You certainly do.'</p>
 <p>'By-the-by, what should you think of that title for a review —  <hi>Letters</hi> ? It has never
-been used, so far as I know. I like the word "letters." How much better "a man of letters" <pb
-n="119"/> than "a literary man"! And apropos of that, when was the word "literature" first used in
+been used, so far as I know. I like the word "letters." How much better "a man of letters" <pb n="119"/> than "a literary man"! And apropos of that, when was the word "literature" first used in
 our modern sense to signify a body of writing? In Johnson's day it was pretty much the equivalent of
 our "culture." You remember his saying, "It is surprising how little literature people have." His
 dictionary, I believe, defines the word as "learning, skill in letters" — nothing else.'</p>
@@ -10745,8 +10679,7 @@ was unknown to him; the contents were these:</p>
 <quote><p>' <hi>Dear Mr. Yule</hi> , — It is my desire to write to you with perfect frankness and as simply
 as I can on a subject which has the deepest interest for me, and which I trust you will consider in
 that spirit of kindness with which you received me when we first met at Finden.</p>
-<p>'On the occasion of that meeting I had the happiness of being presented to Miss Yule. She <pb
-n="122"/> was not totally a stranger to me; at that time I used to work pretty regularly in the
+<p>'On the occasion of that meeting I had the happiness of being presented to Miss Yule. She <pb n="122"/> was not totally a stranger to me; at that time I used to work pretty regularly in the
 Museum Reading-room, and there I had seen Miss Yule, had ventured to observe her at moments with a
 young man's attention, and had felt my interest aroused, though I did not know her name. To find her
 at Finden seemed to me a very unusual and delightful piece of good fortune. When I came back from my
@@ -10835,8 +10768,7 @@ impossible.</p>
 <p>'He says that if I marry Mr. Milvain he hopes never to see my face again. I can't stay here. You
 shall come and see me, and we will be the same to each other as always. But father has treated me
 too unjustly. I can't live near him after this.'</p>
-<p>'He doesn't mean it,' sobbed her mother. 'He says what he's sorry for as soon as the <pb n="128"
-/> words are spoken. He loves you too much, my darling, to drive you away like that. It's his
+<p>'He doesn't mean it,' sobbed her mother. 'He says what he's sorry for as soon as the <pb n="128"/> words are spoken. He loves you too much, my darling, to drive you away like that. It's his
 disappointment, Marian; that's all it is. He counted on it so much. I've heard him talk of it in his
 sleep; he made so sure that he was going to have that new magazine, and the disappointment makes him
 that he doesn't know what he's saying. Only wait and see; he'll tell you he didn't mean it, I know
@@ -10863,8 +10795,7 @@ found its opportunity of expression. Presently she persuaded Marian to come upst
 before long the overburdened breast was relieved by a flow of tears. But Marian's purpose remained
 unshaken.</p>
 <p>'It is impossible for us to see each other day after day,' she said when calmer. 'He can't
-control his anger against me, and I suffer too much when I am made to feel like this. I shall <pb
-n="130"/> take a lodging not far off, where you can see me often.'</p>
+control his anger against me, and I suffer too much when I am made to feel like this. I shall <pb n="130"/> take a lodging not far off, where you can see me often.'</p>
 <p>'But you have no money, Marian,' replied Mrs. Yule, miserably.</p>
 <p>'No money? As if I couldn't borrow a few pounds until all my own comes to me! Dora Milvain can
 lend me all I shall want; it won't make the least difference to her. I must have my money very soon
@@ -11061,8 +10992,7 @@ packing clothes in a trunk. The girl looked as if she had been up all night; her
 traces of much weeping.</p>
 <p>'He has come back, dear,' said Mrs. Yule, in the low voice of apprehension, 'and he says you are
 to read this letter.'</p>
-<p>Marian took the sheet, unfolded it, and read. As soon as she had reached the end she looked <pb
-n="143"/> wildly at her mother, seemed to endeavour vainly to speak, then fell to the floor in
+<p>Marian took the sheet, unfolded it, and read. As soon as she had reached the end she looked <pb n="143"/> wildly at her mother, seemed to endeavour vainly to speak, then fell to the floor in
 unconsciousness. The mother was only just able to break the violence of her fall. Having snatched a
 pillow and placed it beneath Marian's head, she rushed to the door and called loudly for her
 husband, who in a moment appeared.</p>
@@ -11142,8 +11072,7 @@ things?'</p>
 <p>'So father says. It's sure to be the case.'</p>
 <p>'This has upset you horribly, I can see. Sit down, Marian. When did the letter come?'</p>
 <p>'This morning.'</p>
-<p>'And you have been fretting over it all day. But come, we must keep up our courage; you <pb
-n="148"/> may get something substantial out of the scoundrels still.'</p>
+<p>'And you have been fretting over it all day. But come, we must keep up our courage; you <pb n="148"/> may get something substantial out of the scoundrels still.'</p>
 <p>Even whilst he spoke his eyes wandered absently. On the last word his voice failed, and he fell
 into abstraction. Marian's look was fixed upon him, and he became conscious of it. He tried to
 smile.</p>
@@ -11190,8 +11119,7 @@ That would pay the rent of a small house.'</p>
 fitted as all that?'</p>
 <p>'No. I only meant — '</p>
 <p>She faltered, and her tongue became silent as her heart sank.</p>
-<p>'It simply means,' pursued Jasper, seating himself and crossing his legs, 'that I must move <pb
-n="151"/> heaven and earth to improve my position. You know that my faith in myself is not small;
+<p>'It simply means,' pursued Jasper, seating himself and crossing his legs, 'that I must move <pb n="151"/> heaven and earth to improve my position. You know that my faith in myself is not small;
 there's no knowing what I might do if I used every effort. But, upon my word, I don't see much hope
 of our being able to marry for a year or two under the most favourable circumstances.'</p>
 <p>'No; I quite understand that.'</p>
@@ -11222,8 +11150,7 @@ perhaps it is just as rare for a man to credit in his heart all the praises he s
 beloved. Passion is compatible with a great many of these imperfections of intellectual esteem. To
 see more clearly into Jasper's personality was, for Marian, to suffer the more intolerable dread
 lest she should lose him.</p>
-<p>She went to his side. Her heart ached because, in her great misery, he had not fondled <pb
-n="153"/> her and intoxicated her senses with loving words.</p>
+<p>She went to his side. Her heart ached because, in her great misery, he had not fondled <pb n="153"/> her and intoxicated her senses with loving words.</p>
 <p>'How can I make you feel how much I love you?' she murmured.</p>
 <p>'You mustn't be so literal, dearest. Women are so desperately matter-of-fact; it comes out even
 in their love-talk.'</p>
@@ -11267,8 +11194,7 @@ Jove! There's no other way of facing it.'</p>
 <p>'No, indeed.'</p>
 <p>'Mrs. Reardon and the rest of them are safe enough, I suppose?'</p>
 <p>'Oh, no doubt.'</p>
-<p>'Confound them! — It grows upon one. One doesn't take in the whole of such a misfortune at <pb
-n="156"/> once. We must hold on to the last rag of hope, and in the meantime I'll half work myself
+<p>'Confound them! — It grows upon one. One doesn't take in the whole of such a misfortune at <pb n="156"/> once. We must hold on to the last rag of hope, and in the meantime I'll half work myself
 to death. Are you going to see the girls?'</p>
 <p>'Not to-night. You must tell them.'</p>
 <p>'Dora will cry her eyes out. Upon my word, Maud 'll have to draw in her horns. I must frighten
@@ -11405,8 +11331,7 @@ the subject. I won't detain you more than a few minutes.'</p>
 <p>'Perhaps I needn't repeat what I have told your mother. You have learnt it from her, I dare
 say?'</p>
 <p>'Yes, with much grief.'</p>
-<p>'Thank you, but we will leave aside that aspect of the matter. For a few more months I <pb
-n="165"/> may be able to pursue my ordinary work, but before long I shall certainly be disabled from
+<p>'Thank you, but we will leave aside that aspect of the matter. For a few more months I <pb n="165"/> may be able to pursue my ordinary work, but before long I shall certainly be disabled from
 earning my livelihood by literature. Whether this will in any way affect your own position I don't
 know. Will you have the goodness to tell me whether you still purpose leaving this house?'</p>
 <p>'I have no means of doing so.'</p>
@@ -11418,8 +11343,7 @@ yourself in any way it will be sufficient for me to rent two rooms after that. T
 affects my eyes may be only temporary; in due time an operation may render it possible for me to
 work again. In hope of that I shall probably have to borrow a sum of money on the security of my
 life insurance, though in the first instance I shall make the most of what I can get for the
-furniture of the house and a large part of my library; your mother and I could live at very <pb
-n="166"/> slight expense in lodgings. If the disease prove irremediable, I must prepare myself for
+furniture of the house and a large part of my library; your mother and I could live at very <pb n="166"/> slight expense in lodgings. If the disease prove irremediable, I must prepare myself for
 the worst. What I wish to say is, that it will be better if from to-day you consider yourself as
 working for your own subsistence. So long as I remain here this house is of course your home; there
 can be no question between us of trivial expenses. But it is right that you should understand what
@@ -11517,8 +11441,7 @@ dark.</p>
 <p>The answer was a loud snore. Biffen went to the bottom of the house and called to the
 landlady.</p>
 <p>'Mrs. Willoughby! Who is asleep on the stairs?'</p>
-<p>'Why, I 'spect it's Mr. Briggs,' replied the woman, indulgently. 'Don't you mind him, Mr. <pb
-n="173"/> Biffen. There's no 'arm; he's only had a little too much. I'll go up an' make him go to
+<p>'Why, I 'spect it's Mr. Briggs,' replied the woman, indulgently. 'Don't you mind him, Mr. <pb n="173"/> Biffen. There's no 'arm; he's only had a little too much. I'll go up an' make him go to
 bed as soon as I've got my 'ands clean.'</p>
 <p>'The necessity for waiting till then isn't obvious,' remarked the realist with a chuckle, and
 went his way.</p>
@@ -11660,8 +11583,7 @@ exhibited to him.</p>
 <p>'Will anyone here let me sit down in a room and give me a drink of water?' he asked, feeling now
 as if he must drop with exhaustion.</p>
 <p>The man who had rescued him performed this further kindness, and for half an hour, whilst tumult
-indescribable raged about him, Biffen sat recovering his strength. By that time the firemen <pb
-n="183"/> were hard at work, but one floor of the burning house had already fallen through, and it
+indescribable raged about him, Biffen sat recovering his strength. By that time the firemen <pb n="183"/> were hard at work, but one floor of the burning house had already fallen through, and it
 was probable that nothing but the shell would be saved. After giving a full account of himself to
 the people among whom he had come, Harold declared his intention of departing; his need of repose
 was imperative, and he could not hope for it in this proximity to the fire. As he had no money, his
@@ -11760,8 +11682,7 @@ actually dead. And what remains of me is resigned to that. I have an odd fancy t
 death itself easier; it is as if only half of me had now to die.'</p>
 <p>Biffen tried to give a lighter turn to the gloomy subject.</p>
 <p>'Thinking of my fiery adventure,' he said, in his tone of dry deliberation, 'I find it vastly
-amusing to picture you as a witness at the inquest if I had been choked and consumed. No <pb n="190"
-/> doubt it would have been made known that I rushed upstairs to save some particular piece of
+amusing to picture you as a witness at the inquest if I had been choked and consumed. No <pb n="190"/> doubt it would have been made known that I rushed upstairs to save some particular piece of
 property — several people heard me say so — and you alone would be able to conjecture what this was.
 Imagine the gaping wonderment of the coroner's jury! The <hi>Daily Telegraph</hi> would have made a
 leader out of me. "This poor man was so strangely deluded as to the value of a novel in manuscript
@@ -11866,8 +11787,7 @@ Do be human, and put away your obstinate folly.'</p>
 <p>'In my position you would have acted precisely as I have done. I have had no choice.'</p>
 <p>'I might; but we have both of us too little practicality. The art of living is the art of
 compromise. We have no right to foster sensibilities, and conduct ourselves as if the world allowed
-of ideal relations; it leads to misery for others as well as ourselves. Genial coarseness <pb
-n="197"/> is what it behoves men like you and me to cultivate. Your reply to your wife's last letter
+of ideal relations; it leads to misery for others as well as ourselves. Genial coarseness <pb n="197"/> is what it behoves men like you and me to cultivate. Your reply to your wife's last letter
 was preposterous. You ought to have gone to her of your own accord as soon as ever you heard she was
 rich; she would have thanked you for such common-sense disregard of delicacies. Let there be an end
 of this nonsense, I implore you!'</p>
@@ -12027,8 +11947,7 @@ his mind immensely. To the rich, illness has none of the worst horrors only unde
 poor.</p>
 <p>'Don't speak a word more than you can help,' said the doctor as he watched Reardon withdraw.</p>
 <p>Amy stood on the lower stairs, and came down as soon as her husband showed himself.</p>
-<p>'The doctor is good enough to take me in his carriage,' he whispered. 'It is better that I <pb
-n="208"/> should go to bed, and get a good night's rest. I wish I could have sat with you, Amy.'</p>
+<p>'The doctor is good enough to take me in his carriage,' he whispered. 'It is better that I <pb n="208"/> should go to bed, and get a good night's rest. I wish I could have sat with you, Amy.'</p>
 <p>'Is it anything? You look worse than when you came, Edwin.'</p>
 <p>'A feverish cold. Don't give it a thought, dearest. Go to Willie. Good-night!'</p>
 <p>She threw her arms about him.</p>
@@ -12041,8 +11960,7 @@ after daybreak.</p>
 <p>What sound was that, soft and continuous, remote, now clearer, now confusedly murmuring? He must
 have slept, but now he lay in sudden perfect consciousness, and that music fell upon his ears. Ah!
 of course it was the rising tide; he was near the divine sea.</p>
-<p>The night-light enabled him to discern the principal objects in the room, and he let his <pb
-n="209"/> eyes stray idly hither and thither. But this moment of peacefulness was brought to an end
+<p>The night-light enabled him to discern the principal objects in the room, and he let his <pb n="209"/> eyes stray idly hither and thither. But this moment of peacefulness was brought to an end
 by a fit of coughing, and he became troubled, profoundly troubled, in mind. Was his illness really
 dangerous? He tried to draw a deep breath, but could not. He found that he could only lie on his
 right side with any ease. And with the effort of turning he exhausted himself; in the course of an
@@ -12418,8 +12336,7 @@ think?'</p>
 <p>'Distinct good!'</p>
 <p>They smiled joyfully at each other. Then Whelpdale turned to Jasper:</p>
 <p>'You are convinced that there is something in this?'</p>
-<p>'Seriously, I think there is. It would all depend on the skill of the fellows who put the <pb
-n="235"/> thing together every week. There ought always to be one strongly sensational item — we won't
+<p>'Seriously, I think there is. It would all depend on the skill of the fellows who put the <pb n="235"/> thing together every week. There ought always to be one strongly sensational item — we won't
 call it article. For instance, you might display on a placard: "What the Queen eats!'' or, "How
 Gladstone's collars are made!" — things of that kind.'</p>
 <p>'To be sure, to be sure. And then, you know,' added Whelpdale, glancing anxiously at Dora, 'when
@@ -12462,8 +12379,7 @@ read.'</p>
 <p>'Read it to us now, Jasper, will you?' asked Dora.</p>
 <p>The request was supported by Whelpdale, and Jasper needed no pressing. He seated himself so that
 the lamp-light fell upon the pages, and read the article through. It was an excellent piece of
-writing (see <hi>The Wayside</hi> , June 1884), and in places touched with true emotion. <pb n="238"
-/> Any intelligent reader would divine that the author had been personally acquainted with the man
+writing (see <hi>The Wayside</hi> , June 1884), and in places touched with true emotion. <pb n="238"/> Any intelligent reader would divine that the author had been personally acquainted with the man
 of whom he wrote, though the fact was nowhere stated. The praise was not exaggerated, yet all the
 best points of Reardon's work were admirably brought out. One who knew Jasper might reasonably have
 doubted, before reading this, whether he was capable of so worthily appreciating the nobler man.</p>
@@ -12783,8 +12699,7 @@ prospect of spending his latter years in darkness and idleness was too dreadful 
 accepted so long as a glimmer of hope remained. He saw no reason why the customary operation should
 not restore him to his old pursuits, and he would have borne it ill if his wife or daughter had ever
 ceased to oppose the despair which it pleased him to affect.</p>
-<p>On the whole, he was noticeably patient. At the time of their removal to these lodgings, <pb
-n="260"/> seeing that Marian prepared herself to share the change as a matter of course, he let her
+<p>On the whole, he was noticeably patient. At the time of their removal to these lodgings, <pb n="260"/> seeing that Marian prepared herself to share the change as a matter of course, he let her
 do as she would without comment; nor had he since spoken to her on the subject which had proved so
 dangerous. Confidence between them there was none; Yule addressed his daughter in a grave, cold,
 civil tone, and Marian replied gently, but without tenderness. For Mrs. Yule the disaster to the
@@ -12844,8 +12759,7 @@ this investment of which you speak is to be solely for your own advantage?'</p>
 <p>There was a silence of a minute or two. As yet it had not been necessary to take any steps for
 raising money, but a few months more would see the family without resources, save those provided by
 Marian, who, without discussion, had been simply setting aside what she received for her work.</p>
-<p>'You must be well aware,' said Yule at length, 'that I cannot consent to benefit by any <pb
-n="264"/> such offer. When it is necessary, I shall borrow on the security of — '</p>
+<p>'You must be well aware,' said Yule at length, 'that I cannot consent to benefit by any <pb n="264"/> such offer. When it is necessary, I shall borrow on the security of — '</p>
 <p>'Why should you do that, father?' Marian interrupted. 'My money is yours. If you refuse it as a
 gift, then why may not I lend to you as well as a stranger? Repay me when your eyes are restored.
 For the present, all our anxieties are at an end. We can live very well until you are able to write
@@ -12966,8 +12880,7 @@ literary agency!'</p>
 <p>Dora was again mirthful.</p>
 <p>'Oh, of course money is nothing! <hi>We</hi> write for honour and glory. Don't forget to insist
 on that when you reprove Mr. Whelpdale; no doubt it wil impress him.'</p>
-<p>Late in the evening of that day, when the brother and sister had strolled by moonlight up <pb
-n="272"/> to the windmill which occupies the highest point of Sark, and as they stood looking upon
+<p>Late in the evening of that day, when the brother and sister had strolled by moonlight up <pb n="272"/> to the windmill which occupies the highest point of Sark, and as they stood looking upon
 the pale expanse of sea, dotted with the gleam of lighthouses near and far, Dora broke the silence
 to say quietly:</p>
 <p>'I may as well tell you that Mr. Whelpdale wants to know if I will marry him.'</p>
@@ -13043,8 +12956,7 @@ this I don't understand. I am not aware of any connecting link between them and 
 Barlows either. Perhaps there are none; most likely the rumour has no foundation in their knowledge.
 Still, it is better that I should have told you. Miss Rupert has never heard that I was engaged, nor
 have her friends the Barlows — at least I don't see how they could have done. She may have told Mrs.
-Barlow of my proposal — probably would; and this <hi>may</hi> somehow have got round to those <pb
-n="277"/> other people. But Maud didn't make any mention of Miss Rupert, did she?'</p>
+Barlow of my proposal — probably would; and this <hi>may</hi> somehow have got round to those <pb n="277"/> other people. But Maud didn't make any mention of Miss Rupert, did she?'</p>
 <p>Dora replied with a cold negative.</p>
 <p>'Well, there's the state of things. It isn't pleasant, but that's what I have done.'</p>
 <p>'Do you mean that Miss Rupert has accepted you?'</p>
@@ -13160,8 +13072,7 @@ as kind as she might, Amy could not set him strutting Malvolio-wise; she viewed 
 who often had to pawn his coat — a man of parts who would never get on in the world — a friend to be
 thought of kindly because her dead husband had valued him. Nothing more than that; he understood
 perfectly the limits of her feeling. But this could not put restraint upon the emotion with which he
-received any most trifling utterance of kindness from her. He did not think of what was, but of <pb
-n="286"/> what, under changed circumstances, might be. To encourage such fantasy was the idlest
+received any most trifling utterance of kindness from her. He did not think of what was, but of <pb n="286"/> what, under changed circumstances, might be. To encourage such fantasy was the idlest
 self-torment, but he had gone too far in this form of indulgence. He became the slave of his
 inflamed imagination.</p>
 <p>In that letter with which he replied to her praises of his book, perchance he had allowed himself
@@ -13187,8 +13098,7 @@ he found fault with her; the blame was entirely his own.</p>
 Reardon's furniture was a great advantage to him, as he had only to pay rent for a bare room; the
 books, too, came as a godsend, since the destruction of his own. He had now only one pupil, and was
 not exerting himself to find others; his old energy had forsaken him.</p>
-<p>For the failure of his book he cared nothing. It was no more than he anticipated. The work <pb
-n="288"/> was done — the best he was capable of — and this satisfied him.</p>
+<p>For the failure of his book he cared nothing. It was no more than he anticipated. The work <pb n="288"/> was done — the best he was capable of — and this satisfied him.</p>
 <p>It was doubtful whether he loved Amy, in the true sense of exclusive desire. She represented for
 him all that is lovely in womanhood; to his starved soul and senses she was woman, the complement of
 his frustrate being. Circumstance had made her the means of exciting in him that natural force which
@@ -13230,8 +13140,7 @@ himself.</p>
 <p>Whelpdale was disconcerted.</p>
 <p>'I have been boring you. That's a confounded fault of mine; I know it.'</p>
 <p>Biffen had waved his hand, and was gone.</p>
-<p>A week or two more would see him at the end of his money. He had no lessons now, and <pb n="291"
-/> could not write; from his novel nothing was to be expected. He might apply again to his brother,
+<p>A week or two more would see him at the end of his money. He had no lessons now, and <pb n="291"/> could not write; from his novel nothing was to be expected. He might apply again to his brother,
 but such dependence was unjust and unworthy. And why should he struggle to preserve a life which had
 no prospect but of misery?</p>
 <p>It was in the hours following his encounter with Whelpdale that he first knew the actual desire
@@ -13244,8 +13153,7 @@ he had found solace.</p>
 moment's cessation of heart-ache, but when he lay down in the darkness a hopeful summons whispered
 to him. Night, which had been the worst season of his pain, had now grown friendly; it came as an
 anticipation of the sleep that is everlasting.</p>
-<p>A few more days, and he was possessed by a calm of spirit such as he had never known. His <pb
-n="292"/> resolve was taken, not in a moment of supreme conflict, but as the result of a subtle
+<p>A few more days, and he was possessed by a calm of spirit such as he had never known. His <pb n="292"/> resolve was taken, not in a moment of supreme conflict, but as the result of a subtle
 process by which his imagination had become in love with death. Turning from contemplation of life's
 one rapture, he looked with the same intensity of desire to a state that had neither fear nor
 hope.</p>
@@ -13297,8 +13205,7 @@ another woman who would be no bad match even from the commercial point of view. 
 the effect upon him of contemplating a large fortune, that, in despite of reason and desire, he
 lived in eager expectation of the word which should make him rich. And for several hours after his
 disappointment he could not overcome the impression of calamity.</p>
-<p>A part of that impression was due to the engagement which he must now fulfil. He had <pb n="296"
-/> pledged his word to ask Marian to marry him without further delay. To shuffle out of this duty
+<p>A part of that impression was due to the engagement which he must now fulfil. He had <pb n="296"/> pledged his word to ask Marian to marry him without further delay. To shuffle out of this duty
 would make him too ignoble even in his own eyes. Its discharge meant, as he had expressed it, that
 he was 'doomed'; he would deliberately be committing the very error always so flagrant to him in the
 case of other men who had crippled themselves by early marriage with a penniless woman. But events
@@ -13339,8 +13246,7 @@ decently upon. But why the deuce did he go all the way out there? Consideration 
 whose house he lived, I dare say; Biffen had a good deal of native delicacy.'</p>
 <p>Dora felt a secret wish that someone else possessed more of that desirable quality.</p>
 <p>Leaving her, Jasper made a rapid, though careful, toilet, and was presently on his way to
-Westbourne Park. It was his hope that he should reach Mrs. Yule's house before any ordinary <pb
-n="299"/> afternoon caller could arrive; and so he did. He had not been here since that evening when
+Westbourne Park. It was his hope that he should reach Mrs. Yule's house before any ordinary <pb n="299"/> afternoon caller could arrive; and so he did. He had not been here since that evening when
 he encountered Reardon on the road and heard his reproaches. To his great satisfaction, Amy was
 alone in the drawing-room; he held her hand a trifle longer than was necessary, and returned more
 earnestly the look of interest with which she regarded him.</p>
@@ -13353,8 +13259,7 @@ time.'</p>
 <p>'I'm afraid so. His book failed utterly.'</p>
 <p>'Oh, if I had imagined him still in such distress, surely I might have done something to help
 him!' — So often the regretful remark of one's friends, when one has been permitted to perish.</p>
-<p>With Amy's sorrow was mingled a suggestion of tenderness which came of her knowledge that <pb
-n="300"/> the dead man had worshipped her. Perchance his death was in part attributable to that
+<p>With Amy's sorrow was mingled a suggestion of tenderness which came of her knowledge that <pb n="300"/> the dead man had worshipped her. Perchance his death was in part attributable to that
 hopeless love.</p>
 <p>'He sent me a copy of his novel,' she said, 'and I saw him once or twice after that. But he was
 much better dressed than in former days, and I thought — '</p>
@@ -13416,8 +13321,7 @@ strongest way to this marriage?'</p>
 with Fadge. Think of that poor girl thus situated. And I could so easily put her at rest by
 renouncing all claim upon her.'</p>
 <p>'I surmise that — that you yourself would also be put at rest by such a decision?'</p>
-<p>'Don't look at me with that ironical smile,' he pleaded. 'What you have said is true. And <pb
-n="304"/> really, why should I not be glad of it? I couldn't go about declaring that I was
+<p>'Don't look at me with that ironical smile,' he pleaded. 'What you have said is true. And <pb n="304"/> really, why should I not be glad of it? I couldn't go about declaring that I was
 heart-broken, in any event; I must be content for people to judge me according to their disposition,
 and judgments are pretty sure to be unfavourable. What can I do? In either case I must to a certain
 extent be in the wrong. To tell the truth, I was wrong from the first.'</p>
@@ -13554,8 +13458,7 @@ and soul? There's no such thing as deserving. Happiness or misery come to us by 
 loved me. Jasper, I could give my right hand if you had said you loved me before — I can't put it into
 words; it sounds too base, and I don't wish to imply that you behaved basely. But if you had said
 you loved me before that, I should have it always to remember.'</p>
-<p>'You will do me no wrong if you charge me with baseness,' he replied gloomily. 'If I believe <pb
-n="313"/> anything, I believe that I did love you. But I knew myself, and I should never have
+<p>'You will do me no wrong if you charge me with baseness,' he replied gloomily. 'If I believe <pb n="313"/> anything, I believe that I did love you. But I knew myself, and I should never have
 betrayed what I felt, if for once in my life I could have been honourable.'</p>
 <p>The rain pattered on the leaves and the grass, and still the sky darkened.</p>
 <p>'This is wretchedness to both of us,' Jasper added. 'Let us part now, Marian. Let me see you
@@ -13567,8 +13470,7 @@ priceless love such as yours to go and make himself a proud position among fools
 that's what it comes to. It is you who reject me, and rightly. One who is so much at the mercy of a
 vulgar ambition as I am, is no fit husband for you. Soon enough you would thoroughly despise me, and
 though <hi>I</hi> should know it was merited, my perverse pride would revolt against it. Many a time
-I have tried to regard life practically as I am able to do theoretically, but it always ends in <pb
-n="314"/> hypocrisy. It is men of my kind who succeed; the conscientious, and those who really have
+I have tried to regard life practically as I am able to do theoretically, but it always ends in <pb n="314"/> hypocrisy. It is men of my kind who succeed; the conscientious, and those who really have
 a high ideal, either perish or struggle on in neglect.'</p>
 <p>Marian had overcome her excess of emotion.</p>
 <p>'There is no need to disparage yourself,' she said. 'What can be simpler than the truth? You
@@ -13643,8 +13545,7 @@ from London, and the name of Yule was no longer met with in periodical literatur
 <p>By an interesting coincidence, it was on the day of this departure that there appeared a number
 of <hi>The West End</hi> in which the place of honour, that of the week's Celebrity, was occupied by
 Clement Fadge. A coloured portrait of this illustrious man challenged the admiration of all who had
-literary tastes, and two columns of panegyric recorded his career for the encouragement <pb n="320"
-/> of aspiring youth. This article, of course unsigned, came from the pen of Jasper Milvain.</p>
+literary tastes, and two columns of panegyric recorded his career for the encouragement <pb n="320"/> of aspiring youth. This article, of course unsigned, came from the pen of Jasper Milvain.</p>
 <p>It was only by indirect channels that Jasper learnt how Marian and her parents had been provided
 for. Dora's correspondence with her friend soon languished; in the nature of things this could not
 but happen; and about the time when Alfred Yule became totally blind the girls ceased to hear
@@ -13870,8 +13771,7 @@ fellow, Amy.'</p>
 <p>'No, I am far from a bad fellow. I feel kindly to everyone who deserves it. I like to be
 generous, in word and deed. Trust me, there's many a man who would like to be generous, but is made
 despicably mean by necessity. What a true sentence that is of Landor's: <quote>"It has been repeated often
-enough that vice leads to misery; will no man declare that misery leads to vice?"</quote> I have much of <pb
-n="335"/> the weakness that might become viciousness, but I am now far from the possibility of being
+enough that vice leads to misery; will no man declare that misery leads to vice?"</quote> I have much of <pb n="335"/> the weakness that might become viciousness, but I am now far from the possibility of being
 vicious. Of course there are men, like Fadge, who seem only to grow meaner the more prosperous they
 are; but these are exceptions. Happiness is the nurse of virtue.'</p>
 <p>'And independence the root of happiness.'</p>

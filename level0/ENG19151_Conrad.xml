@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG19151">
 <teiHeader>
 <fileDesc>
@@ -12,17 +15,11 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">117404</measure></extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-01-18</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>Victory: an Island Tale, by Joseph Conrad</title><ref target="gut:6378">Gutenberg</ref>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-18--></publicationStmt>
+<sourceDesc><bibl type="digitalSource"><title>Victory: an Island Tale, by Joseph Conrad</title><ref target="gut:6378">Gutenberg</ref>
 <respStmt><resp>Original data capture</resp><name>Tracy Camp</name><name>David Widger
-</name></respStmt><relatedItem>
-<bibl type="copyText"><title>Victory: an island tale</title><author>Joseph
-Conrad</author><publisher>Methuen &amp; co</publisher><date>1915</date></bibl>
-</relatedItem></bibl>
-</sourceDesc>
+</name></respStmt></bibl><bibl type="printSource"><title>Victory: an island tale</title><author>Joseph
+Conrad</author><publisher>Methuen &amp; co</publisher><date>1915</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-0">
 <p/>
@@ -38,7 +35,7 @@ Conrad</author><publisher>Methuen &amp; co</publisher><date>1915</date></bibl>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-01-18">LB convert to ELTeC-0</change>
 </revisionDesc>
 </teiHeader>
@@ -264,7 +261,7 @@ for her rehabilitation and her happiness?</p>
 </front>
 <body>
 <head>VICTORY: AN ISLAND TALE</head>
-<div type="part">
+<div type="group">
 <head>PART ONE</head>
 <div type="chapter">
 <head>CHAPTER ONE</head>
@@ -3530,7 +3527,7 @@ down to stare straight before her, as usual.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>PART THREE</head>
 <div type="chapter">
 <head>CHAPTER ONE</head>
@@ -5671,7 +5668,7 @@ bed, and then blew out the candle.</p>
 <p/>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <head>PART FOUR</head>
 <div type="chapter">
 <head>CHAPTER ONE</head>

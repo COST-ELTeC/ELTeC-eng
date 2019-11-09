@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18530" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18530" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -17,21 +22,15 @@
 <extent>
 <measure unit="words">325604</measure><measure unit="pages">575</measure>
 </extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>22 Nov 2018</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>Bleak House (TEI P5 edition)</title>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 22 Nov 2018--></publicationStmt>
+<sourceDesc><bibl type="unspecified"><title>Bleak House (TEI P5 edition)</title>
 <idno type="url">https://github.com/lb42/Dickens</idno>
-<relatedItem type="copyText">
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>Bleak House [monthly parts]</title>
 <author>Charles Dickens</author>
 <publisher>Bradbury &amp; Evans, Bouverie Street.</publisher>
 <date>1853</date>
-</bibl>
-</relatedItem></bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -47,7 +46,7 @@
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2018-08-12">LB auto convert from P4 to P5, and from P5 to ELTeC-1</change>
 <change when="2002-09-23"> Natalia Smith, project manager, finished TEI-conformant encoding and
 final proofing.</change>
@@ -57,7 +56,7 @@ final proofing.</change>
 </teiHeader>
 <text>
 <body>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <head>CHAPTER I. IN CHANCERY.</head>
 <p>LONDON. Michaelmas Term lately over, and the Lord Chancellor sitting in Lincoln's Inn Hall.
@@ -1298,7 +1297,7 @@ a dirty-faced little spectre fixed upon me. Peepy had scaled his crib, and crept
 and cap, and was so cold that his teeth were chattering as if he had cut them all.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p33"/>
 <head>CHAPTER V. A MORNING ADVENTURE.</head>
@@ -2544,7 +2543,7 @@ and the beat, and everything?”</p>
 <p>“So my lady says.”</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p65"/>
 <head>CHAPTER VIII. COVERING A MULTITUDE OF SINS.</head>
@@ -3771,7 +3770,7 @@ open.</p>
 dark; with the gaunt eyes in the shutters staring down upon the bed.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p97"/>
 <head>CHAPTER XI. OUR DEAR BROTHER.</head>
@@ -4980,7 +4979,7 @@ was rather reserved, but I thought him very sensible and agreeable. At least, Ad
 not, and I said yes.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p129"/>
 <head>CHAPTER XIV. DEPORTMENT.</head>
@@ -6221,7 +6220,7 @@ Rouncewell to Rosa. “His dressing-room is on my Lady's side. And in all these 
 the step upon the Ghost's Walk, more distinct than it is to-night!”</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p161"/>
 <head>CHAPTER XVII. ESTHER'S NARRATIVE.</head>
@@ -7460,7 +7459,7 @@ running fast, the crowd flowing by him in two streams—everything moving on to 
 one end—until he is stirred up, and told to “move on” too.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p193"/>
 <head>CHAPTER XX. A NEW LODGER.</head>
@@ -8737,7 +8736,7 @@ two hours, has passed through every stage of swooning with the greatest decorum.
 woman feelingly says, many thanks she gets for it!</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p225"/>
 <head>CHAPTER XXIII. ESTHER'S NARRATIVE.</head>
@@ -9989,7 +9988,7 @@ atmosphere of secresy his own shadow may pass, let all concerned in the secresy 
 watchful Mrs. Snagsby is there too—bone of his bone, flesh of his flesh, shadow of his shadow.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p257"/>
 <head>CHAPTER XXVI. SHARPSHOOTERS.</head>
@@ -11297,7 +11296,7 @@ figure on its knees.</p>
 sternly nurtured by her, after she had renounced me and my name! O my child, O my child!”</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p289"/>
 <head>CHAPTER XXX. ESTHER'S NARRATIVE.</head>
@@ -12563,7 +12562,7 @@ humours of the vicious body itself, and that only—Spontaneous Combustion, and 
 deaths that can be died.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p321"/>
 <head>CHAPTER XXXIII. INTERLOPERS.</head>
@@ -13822,7 +13821,7 @@ upon the journey, I might aspire to meet him, unselfishly, innocently, better fa
 thought me when I found some favor in his eyes, at the journey's end.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p353"/>
 <head>CHAPTER XXXVI. CHESNEY WOLD.</head>
@@ -15047,7 +15046,7 @@ wanted cutting), to make us hurry away. I did so with a lightened heart; but whe
 back, Mr. Guppy was still oscillating in the same troubled state of mind.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p385"/>
 <head>CHAPTER XXXIX. ATTORNEY AND CLIENT.</head>
@@ -16243,7 +16242,7 @@ now and then, as he throws his head back in his chair, catching sight of the per
 pointing from the ceiling.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p417"/>
 <head>CHAPTER XLIII. ESTHER'S NARRATIVE.</head>
@@ -17473,7 +17472,7 @@ street. In this order, the two come up out of Tom-all-Alone's into the broad ray
 and the purer air.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p449"/>
 <head>CHAPTER XLVII. JO'S WILL.</head>
@@ -18705,7 +18704,7 @@ streets; the trooper marching on as steadily as usual, though with his head less
 Bucket steering him with his elbow over the crossings and up the turnings.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p481"/>
 <head>CHAPTER L. ESTHER'S NARRATIVE.</head>
@@ -19921,7 +19920,7 @@ is all he asks—will he, when he has a leisure half-hour, think of bestowing it
 sculptor, for the advantage of both parties?</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p513"/>
 <head>CHAPTER LIV. SPRINGING A MINE.</head>
@@ -21144,7 +21143,7 @@ from all companionship. It is the figure of a woman, too; but it is miserably dr
 clothes ever came through the hall, and out at the great door, of the Dedlock mansion.</p>
 </div>
 </div>
-<div type="part">
+<div type="group">
 <div type="chapter">
 <pb xml:id="p545"/>
 <head>CHAPTER LVII. ESTHER'S NARRATIVE.</head>
@@ -22371,7 +22370,7 @@ ours.”</p>
 and turned the face. And it was my mother, cold and dead.</p>
 </div>
 </div>
-<div type="part"/>
+<div type="group"/>
 </body>
 </text>
 </TEI>

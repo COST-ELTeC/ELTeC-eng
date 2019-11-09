@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18670">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18670">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -13,18 +18,12 @@
 <measure unit="words">246466</measure>
 <measure unit="pages">993</measure>
 </extent>
-<publicationStmt>
-<p>Published as part of ELTeC <date>2019-01-04</date></p>
-</publicationStmt>
-<sourceDesc>
-<bibl><title>Under Two Flags: A Story of the Household and the
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-04--></publicationStmt>
+<sourceDesc><bibl type="unspecified"><title>Under Two Flags: A Story of the Household and the
 Desert</title><title>Nineteenth-Century Fiction Full-Text Database</title><publisher>Chadwyck-Healey
-Ltd (A Bell &amp; Howell Information and Learning company)</publisher><date>2000</date><relatedItem>
-<bibl type="copyText"><title>Under Two Flags: A Story of the Household and the
+Ltd (A Bell &amp; Howell Information and Learning company)</publisher><date>2000</date></bibl><bibl type="printSource"><title>Under Two Flags: A Story of the Household and the
 Desert</title><author>Ouida, [pseud.] (1839-1908).</author><publisher>London: Chapman and
-Hall</publisher><date>1867</date></bibl>
-</relatedItem></bibl>
-</sourceDesc>
+Hall</publisher><date>1867</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
 <p/>
@@ -36,11 +35,11 @@ Hall</publisher><date>1867</date></bibl>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-01-04">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
@@ -71,7 +70,7 @@ one given to such words or sentences in ordinary grammatical parlance.</p>
 </div>
 </front>
 <body>
-<div type="vol">
+<div type="group">
 <head>VOL. I.</head>
 <pb/>
 <div type="chapter">
@@ -5428,7 +5427,7 @@ pace.</p>
 <pb/>
 </div>
 </div>
-<div type="vol">
+<div type="group">
 <head>VOL. II.</head>
 <pb/>
 <div type="chapter">
@@ -10782,7 +10781,7 @@ the tricolour high above her head:</p>
 <pb/>
 </div>
 </div>
-<div type="vol">
+<div type="group">
 <head>VOL. III.</head>
 <pb/>
 <div type="chapter">
