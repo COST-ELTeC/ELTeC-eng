@@ -27,10 +27,10 @@
                 <measure unit="pages">464</measure>
             </extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
-            <sourceDesc><bibl type="unspecified"><title>Red as a rose is she : VWWP edition </title><author>Broughton, Rhoda,
+            <sourceDesc><bibl type="digitalSource"><title>Red as a rose is she : VWWP edition </title><author>Broughton, Rhoda,
                         1840-1920</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7385</idno></bibl><bibl type="unspecified"><title>Red as a rose is she</title><author>Broughton, Rhoda,
+                        IN</pubPlace><idno>VAB7385</idno></bibl><bibl type="printSource"><title>Red as a rose is she</title><author>Broughton, Rhoda,
                                 1840-1920</author><pubPlace>London : </pubPlace><publisher>R.
                                 Bentley, </publisher><date>1887</date></bibl></sourceDesc>
         </fileDesc>

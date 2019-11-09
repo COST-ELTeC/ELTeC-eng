@@ -15,10 +15,10 @@
             </extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-12-12--></publicationStmt>
             
-            <sourceDesc><bibl type="unspecified"><title>Wuthering Heights (1st edition) : wikisource edition</title>
+            <sourceDesc><bibl type="digitalSource"><title>Wuthering Heights (1st edition) : wikisource edition</title>
                       <ref target="https://en.wikisource.org/wiki/Wuthering_Heights_(1st_edition)"/>
                
-                 </bibl><bibl type="unspecified"><title>Wuthering Heights</title><title>A novel by</title>
+                 </bibl><bibl type="firstEdition"><title>Wuthering Heights</title><title>A novel by</title>
                     <author>Ellis Bell</author>
                     <publisher>London: T. C. Newby</publisher>
                     <date>1847</date></bibl></sourceDesc>

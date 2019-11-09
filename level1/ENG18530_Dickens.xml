@@ -23,7 +23,7 @@
 <measure unit="words">325604</measure><measure unit="pages">575</measure>
 </extent>
 <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 22 Nov 2018--></publicationStmt>
-<sourceDesc><bibl type="unspecified"><title>Bleak House (TEI P5 edition)</title>
+<sourceDesc><bibl type="digitalSource"><title>Bleak House (TEI P5 edition)</title>
 <idno type="url">https://github.com/lb42/Dickens</idno>
 </bibl><bibl type="firstEdition">
 <title>Bleak House [monthly parts]</title>

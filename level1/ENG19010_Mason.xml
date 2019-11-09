@@ -12,7 +12,7 @@
             </titleStmt>
             <extent><measure unit="words">89033</measure></extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-11-12--></publicationStmt>
-            <sourceDesc><bibl type="unspecified">
+            <sourceDesc><bibl type="digitalSource">
                     <title>The Project Gutenberg EBook of Clementina</title>
                     <author>A.E.W. Mason</author>                
                     <idno type="pg">13567</idno>
@@ -23,7 +23,7 @@
                         </name>
                     </respStmt>
                     
-                </bibl><bibl type="unspecified"><author>A. E. W. Mason</author>
+                </bibl><bibl type="firstEdition"><author>A. E. W. Mason</author>
                         <title>Clementina</title>
                         <publisher>London: Methuen</publisher>
                         <date>1901</date>

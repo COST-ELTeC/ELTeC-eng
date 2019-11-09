@@ -21,8 +21,8 @@
     
    </extent>
    <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeCSept 2018--></publicationStmt>
-   <sourceDesc><bibl type="unspecified"><title>The Project Gutenberg EBook of Sybil, by Benjamin Disraeli</title> EBook #3760
-     translated from HTML to TEI</bibl><bibl type="digitalSource"><title>Sybil; Or, The Two
+   <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of Sybil, by Benjamin Disraeli</title> EBook #3760
+     translated from HTML to TEI</bibl><bibl type="firstEdition"><title>Sybil; Or, The Two
         Nations</title><author>B. Disraeli, M.P.</author><publisher>Henry
         Colburn</publisher><date>1845</date><ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl></sourceDesc>
   </fileDesc>

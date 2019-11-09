@@ -22,9 +22,9 @@
                 <measure unit="words">95902</measure>
             </extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
-            <sourceDesc><bibl type="unspecified"><title>The Project Gutenberg eBook, Yeast: A Problem</title><author>Charles
+            <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook, Yeast: A Problem</title><author>Charles
                         Kingsley </author><idno type="PG">10364</idno><date>December 2, 2003</date>
-                    </bibl><bibl type="unspecified"><title>Yeast: A Problem</title><author>Charles
+                    </bibl><bibl type="firstEdition"><title>Yeast: A Problem</title><author>Charles
                                 Kingsley </author><publisher>London: John W.
                                 Parker</publisher><date>1851</date></bibl></sourceDesc>
         </fileDesc>

@@ -24,7 +24,7 @@
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-12-22--></publicationStmt>
             <sourceDesc><bibl type="digitalSource"><title>Clara Vaughan</title>
                     <ref target="gut:41020 gut:41021                         gut:41022"/>
-                    </bibl><bibl type="digitalSource"><author>R.D. Blackmore</author><title>Clara Vaughan. A novel in three
+                    </bibl><bibl type="firstEdition"><author>R.D. Blackmore</author><title>Clara Vaughan. A novel in three
                                 volumes</title>
                             <publisher> MACMILLAN AND CO.</publisher>
                             <date>1864</date>

@@ -22,7 +22,7 @@
             </titleStmt>
             <extent><measure unit="words">348793</measure></extent>
            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC September 2018--></publicationStmt>
-            <sourceDesc><bibl type="unspecified"><title>Dombey and Son</title>
+            <sourceDesc><bibl type="digitalSource"><title>Dombey and Son</title>
                     <idno type="ota">http://ota.ox.ac.uk/id/3164</idno>
                     <publisher>Oxford Text Archive</publisher>
                     <respStmt>
@@ -32,7 +32,8 @@
                     
                     
                 </bibl><bibl type="digitalSource"><title>Dombey and Son / by Charles Dickens</title>
-                            <ref target="http://ota.ox.ac.uk/id/2128"/></bibl><bibl type="unspecified"><title>Dealing with the firm of Dombey and Son, 
+                            <ref target="http://ota.ox.ac.uk/id/2128"/></bibl>
+                <bibl type="firstEdition"><title>Dealing with the firm of Dombey and Son, 
                             wholesale, retail, and for exportation</title>
                             <author>Charles Dickens</author>
                             <publisher>Chapman and Hall</publisher>

@@ -21,10 +21,10 @@
                </titleStmt>
                <extent><measure unit="words">88959</measure></extent>
                <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-11-01--></publicationStmt>
-               <sourceDesc><bibl type="unspecified"><title>The Project Gutenberg EBook of The Two
+               <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of The Two
                               Destinies</title><author>Wilkie Collins</author>
                          <idno type="pg">1624</idno>
-                         </bibl><bibl type="unspecified"><title>The Two Destinies: A Romance</title>
+                         </bibl><bibl type="firstEdition"><title>The Two Destinies: A Romance</title>
                                    <author> Wilkie Collins,</author><publisher>London: Chatto and
                                         Windus</publisher><date>1876</date>
                                    <ref target="ia:twodestiniesroma01coll">Volume 1</ref>

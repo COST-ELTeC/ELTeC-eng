@@ -21,10 +21,25 @@
                <extent>
                     <measure unit="words">14002</measure>
                </extent>
-               <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-06-09--></publicationStmt>
-               <sourceDesc><bibl type="digitalSource"><title>The Autobiography of a Slander</title><ref target="gut:1273">Gutenberg</ref></bibl><bibl type="firstEdition" n="B7708"><title>The Autobiography of a
-                                   Slander</title><author>Lyall, Edna</author><publisher>London:
-                                   Longman</publisher><date>1887</date></bibl></sourceDesc>
+               <publicationStmt>
+                    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                         European Literary History" (CA16204)</publisher>
+                    <distributor ref="https://zenodo.org/communities/eltec/"
+                         >Zenodo.org</distributor>
+                    <date when="2019-11-09"/>
+                    <availability>
+                         <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                    </availability>
+                    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+                    <!--Published as part of ELTeC 2019-06-09-->
+               </publicationStmt>
+               <sourceDesc>
+                    <bibl type="digitalSource"><title>The Autobiography of a Slander</title><ref
+                              target="gut:1273">Gutenberg</ref></bibl>
+                    <bibl type="firstEdition" n="B7708"><title>The Autobiography of a
+                              Slander</title><author>Lyall, Edna</author><publisher>London:
+                              Longman</publisher><date>1887</date></bibl>
+               </sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-1">
                <p/>
@@ -40,7 +55,8 @@
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
                </textDesc>
           </profileDesc>
-          <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+          <revisionDesc>
+               <change when="2019-11-09">Checked by releaseChecker script</change>
                <change when="2019-06-09">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
