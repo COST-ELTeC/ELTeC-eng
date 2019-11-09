@@ -33,10 +33,10 @@
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
             
             
-            <sourceDesc><bibl type="unspecified"><title>Miss Brown : VWWP edition
+            <sourceDesc><bibl type="digitalSource"><title>Miss Brown : VWWP edition
 </title><author>Lee, Vernon, 1856-1935</author><publisher>Digital
 Library Program, Indiana University</publisher><pubPlace>Bloomington,
-IN</pubPlace><idno>VAB7107</idno></bibl><bibl type="unspecified"><title>Miss
+IN</pubPlace><idno>VAB7107</idno></bibl><bibl type="firstEdition"><title>Miss
 Brown</title><author>Lee, Vernon, 1856-1935</author><publisher/><pubPlace>London </pubPlace><date when="1884">1884</date></bibl></sourceDesc>
 </fileDesc> <encodingDesc n="eltec-1"><p/></encodingDesc>
 <profileDesc><langUsage><language ident="eng">English</language></langUsage><textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="long"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc> <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change><change when="2018-07-23">LB convert to ELTeC-1</change><change when="2010-09-01">elizabethmunson: Added genre term</change><change when="2010-08-02">elizabethmunson: Removed date from fileDesc

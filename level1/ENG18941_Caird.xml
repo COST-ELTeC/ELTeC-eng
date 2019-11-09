@@ -27,10 +27,10 @@
                 <measure unit="pages">487</measure>
             </extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
-            <sourceDesc><bibl type="unspecified"><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
+            <sourceDesc><bibl type="digitalSource"><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
                         Mona</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7047</idno></bibl><bibl type="unspecified"><title>The Daughters of Danaus</title><author>Caird,
+                        IN</pubPlace><idno>VAB7047</idno></bibl><bibl type="firstEdition"><title>The Daughters of Danaus</title><author>Caird,
                                 Mona</author><publisher>Bliss, Sands, and
                                 Foster</publisher><pubPlace>London </pubPlace><date when="1894">1894</date></bibl></sourceDesc>
         </fileDesc>

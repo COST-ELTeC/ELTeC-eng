@@ -32,10 +32,10 @@
                 <measure unit="pages">140</measure>
             </extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
-            <sourceDesc><bibl type="unspecified"><title>The Story of Bessie Costrell : VWWP edition </title><author>Ward,
+            <sourceDesc><bibl type="digitalSource"><title>The Story of Bessie Costrell : VWWP edition </title><author>Ward,
                         Humphry, Mrs., 1851-1920</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7023</idno></bibl><bibl type="unspecified"><title>The Story of Bessie Costrell</title><author>Ward, Humphry,
+                        IN</pubPlace><idno>VAB7023</idno></bibl><bibl type="firstEdition"><title>The Story of Bessie Costrell</title><author>Ward, Humphry,
                                 Mrs., 1851-1920</author><publisher>Smith, Elder
                                 </publisher><pubPlace>London</pubPlace><date when="1895">1895</date></bibl></sourceDesc>
         </fileDesc>
