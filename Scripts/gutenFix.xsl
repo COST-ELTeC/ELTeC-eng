@@ -134,10 +134,11 @@
         </teiHeader>
     </xsl:template>
     <xsl:template
-        match="h:pre | h:blockquote | h:p[@class = 'toc'] | h:br | 
-        h:a | h:eg | h:table | h:hr | h:div[h:br] "/>
-    
-   <!-- <xsl:template match="h:p[h:br]">
+        match="
+            h:pre | h:blockquote | h:p[@class = 'toc'] | h:br |
+            h:a | h:eg | h:table | h:hr | h:div[h:br]"/>
+
+    <!-- <xsl:template match="h:p[h:br]">
         <quote>
             <xsl:for-each-group select="*" group-ending-with="h:br">
                 <l>
@@ -149,30 +150,30 @@
             </xsl:for-each-group>
         </quote>
     </xsl:template>-->
-    
+
     <xsl:template match="h:p/h:br">
         <lb/>
     </xsl:template>
-        
+
     <xsl:template match="h:h4/h:a">
         <xsl:value-of select="."/>
     </xsl:template>
-    
-    <xsl:template match="h:a[starts-with(@name,'Page_')]">
+
+    <xsl:template match="h:a[starts-with(@name, 'Page_')]">
         <pb>
             <xsl:attribute name="n">
-                <xsl:value-of select="substring-after(@name,'age_')"/>
+                <xsl:value-of select="substring-after(@name, 'age_')"/>
             </xsl:attribute>
         </pb>
     </xsl:template>
-    <xsl:template match="h:a[starts-with(@name,'page_')]">
+    <xsl:template match="h:a[starts-with(@name, 'page_')]">
         <pb>
             <xsl:attribute name="n">
-                <xsl:value-of select="substring-after(@name,'age_')"/>
+                <xsl:value-of select="substring-after(@name, 'age_')"/>
             </xsl:attribute>
         </pb>
     </xsl:template>
-    
+
     <xsl:template match="h:pre[preceding-sibling::h:h2]">
         <quote>
             <l>
@@ -185,13 +186,17 @@
             <xsl:apply-templates/>
         </quote>
     </xsl:template>
+
+    <xsl:template match="h:div[@class = 'chapter']">
+             <xsl:apply-templates/>
+    </xsl:template>
     
-    <xsl:template match="h:div[@class='blockquot']">
+    <xsl:template match="h:div[@class = 'blockquot']">
         <quote>
             <xsl:apply-templates/>
         </quote>
     </xsl:template>
-    <xsl:template match="h:p[@class='blockquot']">
+    <xsl:template match="h:p[@class = 'blockquot']">
         <quote>
             <xsl:apply-templates/>
         </quote>
@@ -218,17 +223,22 @@
             <xsl:value-of select="."/>
         </ref>
     </xsl:template>
-    
-    <xsl:template match="h:p[@class='figcenter']">
+
+    <xsl:template match="h:p[@class = 'figcenter']">
         <gap unit="graphic"/>
     </xsl:template>
-    
-    <xsl:template match="h:b|h:small"><xsl:apply-templates/></xsl:template>
-    <xsl:template match="h:span[@class='letra']|h:span[@class='letraa']">
-        <xsl:apply-templates/></xsl:template>
-    
-    <xsl:template match="h:span[@class='caption']"/>
-    
+    <xsl:template match="h:div[starts-with(@class, 'fig')]">
+        <gap unit="graphic"/>
+    </xsl:template>
+    <xsl:template match="h:b | h:small">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="h:span[@class = 'letra'] | h:span[@class = 'letraa']">
+        <xsl:apply-templates/>
+    </xsl:template>
+
+    <xsl:template match="h:span[@class = 'caption']"/>
+
     <xsl:template match="h:div[@class = 'poem']">
         <quote>
             <xsl:choose>
@@ -261,7 +271,7 @@
             <xsl:attribute name="n">
                 <xsl:choose>
                     <xsl:when test="h:a">
-                        <xsl:value-of select="substring-after(h:a/@name, 'Page_')"/>
+                        <xsl:value-of select="substring-after(h:a/@name, 'page_')"/>
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="substring-after(normalize-space(.), 'p.')"/>
@@ -270,6 +280,15 @@
             </xsl:attribute>
         </pb>
     </xsl:template>
+
+    <xsl:template match="h:span[@class = 'pageno']">
+        <pb>
+            <xsl:attribute name="n">
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </pb>
+    </xsl:template>
+
     <xsl:template
         match="h:span[@class = 'smcap'] | h:span[@class = 'sc'] | h:span[@class = 'smallcaps']">
         <hi>
@@ -279,9 +298,11 @@
     <xsl:template match="h:span[@class = 'nowrap']">
         <xsl:apply-templates/>
     </xsl:template>
-    
-    <xsl:template match="h:div[@class='stanza']/h:span[h:br]">
-        <l><xsl:value-of select="."/></l>
+
+    <xsl:template match="h:div[@class = 'stanza']/h:span[h:br]">
+        <l>
+            <xsl:value-of select="."/>
+        </l>
     </xsl:template>
 
     <xsl:template match="h:p[@class = 'title']">
@@ -301,20 +322,35 @@
     <xsl:template match="h:body">
         <text>
             <body>
-                
+
                 <xsl:choose>
+
+                    <xsl:when test="h:div[@class='chapter']">
+                        
+                        
+                        <xsl:for-each-group select="*" group-starting-with="h:div[@class='chapter']">
+                            <div type="chapter">
+                                <xsl:for-each select="current-group()">
+                                    
+                                    <xsl:apply-templates select="."/>
+                                    
+                                </xsl:for-each>
+                            </div>
+                        </xsl:for-each-group>
+                    </xsl:when>
                     
-            <xsl:when test="h:h2">
-        
-            <xsl:for-each-group select="*" group-starting-with="h:h2">
-                <div type="chapter">
-                    <xsl:for-each select="current-group()">
-                        
-                        <xsl:apply-templates select="."/>
-                        
-                    </xsl:for-each></div>
-            </xsl:for-each-group>
-                </xsl:when>
+                    <xsl:when test="h:h2">
+
+                        <xsl:for-each-group select="*" group-starting-with="h:h2">
+                            <div type="chapter">
+                                <xsl:for-each select="current-group()">
+
+                                    <xsl:apply-templates select="."/>
+
+                                </xsl:for-each>
+                            </div>
+                        </xsl:for-each-group>
+                    </xsl:when>
                     <xsl:when test="h:h3">
                         <xsl:for-each-group select="*" group-starting-with="h:h3">
                             <div type="chapter">
@@ -324,7 +360,7 @@
                             </div>
                         </xsl:for-each-group>
                     </xsl:when>
-                
+
                     <xsl:when test="h:hr[@class = 'chap']">
                         <xsl:for-each-group select="*" group-starting-with="h:hr[@class = 'chap']">
                             <div type="chapter">
@@ -338,24 +374,26 @@
             </body>
         </text>
     </xsl:template>
-    <xsl:template match="h:h2 | h:h1 | h:big | h:h4 ">
+    <xsl:template match="h:h2 | h:h1 | h:big | h:h4">
         <head>
             <xsl:apply-templates/>
         </head>
     </xsl:template>
-   
+
     <xsl:template match="h:h2/h:a[@name]">
         <xsl:apply-templates/>
     </xsl:template>
-    
+
     <xsl:template match="h:h3">
         <xsl:apply-templates select="h:span[@class = 'pagenum']"/>
-        <head><xsl:value-of select="."/></head>
-       <!-- <head>
+        <head>
+            <xsl:value-of select="."/>
+        </head>
+        <!-- <head>
             <xsl:value-of select="h:span[@class = 'GutSmall']"/>
         </head>-->
     </xsl:template>
- <xsl:template match="h:span[starts-with(@class, 'i') ]">
+    <xsl:template match="h:span[starts-with(@class, 'i')]">
         <xsl:text>
       </xsl:text>
         <l>
@@ -363,10 +401,13 @@
         </l>
     </xsl:template>
     <xsl:template match="h:span[@class = 'GutSmall']">
-        <hi><xsl:apply-templates/></hi>
+        <hi>
+            <xsl:apply-templates/>
+        </hi>
     </xsl:template>
     <xsl:template match="h:span[@class = 'firstwords']">
-        <xsl:apply-templates/></xsl:template>
+        <xsl:apply-templates/>
+    </xsl:template>
     <xsl:template match="h:span[h:img]">
         <xsl:value-of select="h:img/@alt"/>
     </xsl:template>
@@ -381,17 +422,19 @@
             </xsl:for-each>
         </quote>
     </xsl:template>
-    <xsl:template match="h:div[@class='gapspace']"/>
-    <xsl:template match="h:div[@class='centerpoem']">
+    <xsl:template match="h:div[@class = 'gapspace']"/>
+    <xsl:template match="h:div[@class = 'centerpoem']">
         <xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="h:span[contains(@class,'keepright')]">
-        <p><xsl:apply-templates/></p>
+    <xsl:template match="h:span[contains(@class, 'keepright')]">
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
-    <xsl:template match="h:p[@class='center' and h:img]">
+    <xsl:template match="h:p[@class = 'center' and h:img]">
         <gap unit="graphic"/>
     </xsl:template>
-    
+
     <!-- <xsl:template match="h:small/h:font">       
         <pb>
             <xsl:if test="string-length(substring-before(substring-after(., 'age '), ' ]')) gt 1"
@@ -406,15 +449,47 @@
         <ref target="{@href}">
             <xsl:value-of select="."/>
         </ref></xsl:template>
-    
-    <xsl:template match="h:div[@class='footnote']">
-        <note xml:id='{@id}'>
-            <xsl:value-of select="."/>
+        -->
+
+    <xsl:template match="h:div[@class = 'footnotes']">
+        <back>
+            <div type="notes">
+                <xsl:apply-templates/>
+            </div>
+        </back>
+    </xsl:template>
+
+    <xsl:template match="h:div[@class = 'footnote']">
+        <note>
+            <xsl:attribute name="xml:id">
+                <xsl:choose>
+                    <xsl:when test="@id">
+                        <xsl:value-of select="@id"/>
+                    </xsl:when>
+                    <xsl:when test="h:p/h:a[@name]">
+                        <xsl:value-of select="h:p/h:a/@name"/>
+                    </xsl:when>
+                    <xsl:otherwise>?</xsl:otherwise>
+                </xsl:choose>
+            </xsl:attribute>
+
+            <xsl:apply-templates/>
         </note>
     </xsl:template>
-    <xsl:template match="h:div[@class='footnote']/h:a"/>
-    <xsl:template match="h:div[@class='footnote']/h:lb"/>
-    
+    <xsl:template match="h:div[@class = 'footnote']/h:a"/>
+    <xsl:template match="h:div[@class = 'footnote']/h:lb"/>
+
+    <xsl:template match="h:div[@class = 'table']">
+        <gap unit="table"/>
+    </xsl:template>
+
+    <xsl:template match="h:div[@class = 'poetry']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="h:div[@class = 'bboxx']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <!--
     <xsl:template match="h:span[h:img]">
         <milestone unit="subsection" rend="stars"/>
     </xsl:template>
@@ -453,8 +528,12 @@
     
     <xsl:template match="h:small|h:sup|h:center|h:p[@align='center']"><xsl:apply-templates/></xsl:template>
     <xsl:template match="h:br"/>
-    <xsl:template match="h:p"><p><xsl:apply-templates/></p></xsl:template>
-    <xsl:template match="h:strong|h:em"><hi><xsl:apply-templates/></hi></xsl:template>-->
+    <xsl:template match="h:p"><p><xsl:apply-templates/></p></xsl:template> -->
+    <xsl:template match="h:strong | h:em">
+        <hi>
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
     <xsl:template match="* | @* | processing-instruction()">
         <xsl:copy>
             <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
