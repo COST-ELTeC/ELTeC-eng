@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19201" xml:lang="en">
   <teiHeader>
@@ -40,7 +40,7 @@ by The Internet Archive/American Libraries.)
         <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
         </textDesc>
     </profileDesc>
@@ -48,7 +48,7 @@ by The Internet Archive/American Libraries.)
         <change when="2018-07-23">LB convert to ELTeC-1</change>
     </revisionDesc>
 </teiHeader>
-  
+
 
 <!-- page numbers here are from US edition, not first -->
 <text>
@@ -56,10 +56,10 @@ by The Internet Archive/American Libraries.)
     <p>The London Venture</p>
     <p>By MICHAEL ARLEN</p>
     <p>With drawings by Michel Sevier</p>
-    <p><date>1920</date>
-        London: William Heinemann</p>       
+    <p>1920</p>
+      <p>  London: William Heinemann</p>
 </div>
-    <div type="liminal"><head>APOLOGIA PRO NOMINE MEO</head><p>Out of consideration (in part) to
+    <div type="liminal"><head >APOLOGIA PRO NOMINE MEO</head><p>Out of consideration (in part) to
         such readers as may read this book I have assumed a name by which they may refer to me
         (if ever he or she may wish to do so kindly) in the same manner at least twice running—a
         feat of pronunciation which few of my English acquaintances have performed with my natal
@@ -70,16 +70,17 @@ by The Internet Archive/American Libraries.)
         in changing my name I have, I hope, robbed my readers of their last excuse for my
         obscurity.</p><p>Dikran Kouyoumdjian.
             "Michael Arlen."</p>
-    <note>ERRATUM Page 19 line 7, for <title>Illustrated London News</title> read <title>The
-        Sphere</title></note></div>
+    </div>
+    <div type="liminal"><head>ERRATUM</head><p> Page 19 line 7, for <title>Illustrated London News</title> read <title>The
+        Sphere</title></p></div>
    </front>
 <body>
-   
+
     <div type="chapter">
         <pb n="1"/>
         <head>I</head>
         <p>MY watch has needed winding only twice since I left London, and already, as I sit here in
-            the strange library of a strange house, whose 
+            the strange library of a strange house, whose
             <pb n="2"/>only purpose in having a library seems to
             be to keep visitors like myself quiet and out of harm's way, I find myself looking back
             to those past months in which I was for ever complaining of the necessity that kept me

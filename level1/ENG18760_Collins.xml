@@ -19,17 +19,33 @@
                          <name>David Widger</name>
                     </respStmt>
                </titleStmt>
-               <extent><measure unit="words">88959</measure></extent>
-               <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-11-01--></publicationStmt>
-               <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of The Two
+               <extent>
+                    <measure unit="words">88959</measure>
+               </extent>
+               <publicationStmt>
+                    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                         European Literary History" (CA16204)</publisher>
+                    <distributor ref="https://zenodo.org/communities/eltec/"
+                         >Zenodo.org</distributor>
+                    <date when="2019-11-09"/>
+                    <availability>
+                         <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                    </availability>
+                    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+                    <!--Published as part of ELTeC 2018-11-01-->
+               </publicationStmt>
+               <sourceDesc>
+                    <bibl type="digitalSource"><title>The Project Gutenberg EBook of The Two
                               Destinies</title><author>Wilkie Collins</author>
                          <idno type="pg">1624</idno>
-                         </bibl><bibl type="firstEdition"><title>The Two Destinies: A Romance</title>
-                                   <author> Wilkie Collins,</author><publisher>London: Chatto and
-                                        Windus</publisher><date>1876</date>
-                                   <ref target="ia:twodestiniesroma01coll">Volume 1</ref>
-                                   <ref target="ia:twodestiniesroma02coll">Volume 2</ref>
-                              </bibl></sourceDesc>
+                    </bibl>
+                    <bibl type="firstEdition"><title>The Two Destinies: A Romance</title>
+                         <author> Wilkie Collins,</author><publisher>London: Chatto and
+                              Windus</publisher><date>1876</date>
+                         <ref target="ia:twodestiniesroma01coll">Volume 1</ref>
+                         <ref target="ia:twodestiniesroma02coll">Volume 2</ref>
+                    </bibl>
+               </sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-1">
                <p/>
@@ -45,13 +61,14 @@
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
                </textDesc>
           </profileDesc>
-          <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+          <revisionDesc>
+               <change when="2019-11-09">Checked by releaseChecker script</change>
                <change when="2018-11-01">LB start correcting structure to match IA pdf</change>
                <change when="2018-07-23">LB convert to ELTeC-1</change>
                <change when="2016-09-13">PG last update</change>
           </revisionDesc>
      </teiHeader>
-   
+
      <text>
           <front>
                <div type="titlepage">
@@ -80,7 +97,7 @@
 
                <div type="group">
                     <head>The Prelude: [in two narratives.].</head>
-                    <div type="group">
+                    <div type="chapter">
 
                          <head>(1) THE GUEST WRITES AND TELLS THE STORY OF THE DINNER PARTY.</head>
                          <p>MANY years have passed since my wife and I left the United States to pay
@@ -311,12 +328,13 @@
                               strange story of George Germaine’s marriage.</p>
 
                     </div>
-                    <div type="group">
+                    <div type="chapter">
 
                          <head>(2) GEORGE GERMAINE WRITES THE HISTORY OF HIS FIRST LOVE.</head>
 
-                         <div type="chapter">
-                              <head>CHAPTER I. GREENWATER BROAD</head>
+                       <!--  <div type="chapter">
+                              <head>CHAPTER I. GREENWATER BROAD</head>-->
+                         <milestone unit="subchapter" n="1"/>
                               <p>LOOK back, my memory, through the dim labyrinth of the past,
                                    through the mingling joys and sorrows of twenty years. Rise
                                    again, my boyhood’s days, by the winding green shores of the
@@ -441,9 +459,7 @@
                                    gentleman aged thirteen. We left the good bailiff indignantly,
                                    and went away together, hand in hand, to the cottage.</p>
 
-                         </div>
-                         <div type="chapter">
-                              <head> II. </head>
+                         <milestone unit="subchapter" n="II"/>
                               <p>“HE is growing too fast,” said the doctor to my mother; “and he is
                                    getting a great deal too clever for a boy at his age. Remove him
                                    from school, ma’am, for six months; let him run about in the open
@@ -633,7 +649,8 @@
                                    exactly as she might have consulted a living man; smiled softly
                                    to herself, and went on with her writing.</p>
                               <p>“There!” she said, handing me the completed letter with an imperial
-                                   gesture of indulgence. “<hi rend="italic">His</hi> mind and <hi rend="italic">my</hi> mind are written there. Go, boy. I
+                                   gesture of indulgence. “<hi rend="italic">His</hi> mind and <hi
+                                        rend="italic">my</hi> mind are written there. Go, boy. I
                                    pardon you. Give my letter to your mother.”</p>
                               <p>So she always spoke, with the same formal and measured dignity of
                                    manner and language.</p>
@@ -668,7 +685,8 @@
                                    and widow, I have held to it, and I have found it good.</p>
                               <p>“I was born, madam, in the rank of society to which you belong. I
                                    received the mean, material teaching which fulfills the worldly
-                                   notion of education. Thanks be to God, my kindred spirit met <hi rend="italic">my</hi> spirit while I was still young. I knew
+                                   notion of education. Thanks be to God, my kindred spirit met <hi
+                                        rend="italic">my</hi> spirit while I was still young. I knew
                                    true love and true union before I was twenty years of age. I
                                    married, madam, in the rank from which Christ chose his
                                    apostles—I married a laboring-man. No human language can tell my
@@ -682,7 +700,8 @@
                               <p>“Believe me, the thing which your husband’s brother has proposed to
                                    you to do is a sacrilege and a profanation. I own to you freely
                                    that I look on what I have done toward thwarting your relative in
-                                   this matter as an act of virtue. You cannot expect <hi rend="italic">me</hi> to think it a serious obstacle to a
+                                   this matter as an act of virtue. You cannot expect <hi
+                                        rend="italic">me</hi> to think it a serious obstacle to a
                                    union predestined in heaven, that your son is the squire’s heir,
                                    and that my grandchild is only the bailiff’s daughter. Dismiss
                                    from your mind, I implore you, the unworthy and unchristian
@@ -733,9 +752,8 @@
                                    wild fowl of the season lured into the decoy; and still the
                                    welcome home waited for the master, and waited in vain.</p>
 
-                         </div>
-                         <div type="chapter">
-                              <head>III.</head>
+                         <milestone unit="subchapter" n="III"/>
+                         
                               <p>The narrative may now follow my little sweetheart and myself, on
                                    our way to Dermody's cottage</p>
                               <!-- <head>CHAPTER III. SWEDENBORG AND THE SIBYL.</head>
@@ -801,7 +819,8 @@
                                    falling, and you took me out one evening for a sail. Ah, George,
                                         <hi rend="italic">you</hi> have forgotten!”</p>
                               <p>Too true, of me and of my brethren, old and young alike! It is
-                                   always <hi rend="italic">his</hi> love that forgets, and <hi rend="italic">her</hi> love that remembers. We were only two
+                                   always <hi rend="italic">his</hi> love that forgets, and <hi
+                                        rend="italic">her</hi> love that remembers. We were only two
                                    children, and we were types of the man and the woman already.</p>
                               <p>Mary lost patience with me. Forgetting the terrible presence of her
                                    grandmother, she jumped up, and snatched the concealed object out
@@ -1033,10 +1052,8 @@
                                    dream. The empty outer wilderness, which was my father’s world,
                                    opened before me void of love and void of joy. God forgive me—how
                                    I hated him at that moment!</p>
-
-                         </div>
-                         <div type="chapter">
-                              <head>IV.</head>
+                         <milestone unit="subchapter" n="IV"/>
+                         
                               <p>FOR the rest of the day, and through the night, I was kept a close
                                    prisoner in my room, watched by a man on whose fidelity my father
                                    could depend.</p>
@@ -1116,10 +1133,8 @@
                          <div type="group">
                               <head>The Story.</head>
                               <head>[From the manuscript of George Germaine.]</head>
-                         </div>
-                    </div>
-               </div>
-               <div type="group">
+                         
+          
                     <div type="chapter">
                          <head>CHAPTER I.</head>
                          <head>Ten years of my life</head>
@@ -1363,7 +1378,7 @@
                               hear hers.</p>
                     </div>
                     <div type="chapter">
-                         <head>CHAPTER VI. HER STORY.</head>
+                         <head>CHAPTER II. HER STORY.</head>
                          <p>WHAT I have now to tell you of Mary is derived from information obtained
                               at a date in my life later by many years than any date of which I have
                               written yet. Be pleased to remember this.</p>
@@ -1417,7 +1432,8 @@
                          <p>The girl’s sensitive nature sunk under the shock. She had now no elder
                               woman to comfort and advise her; she lived alone with her father, who
                               invariably changed the subject whenever she spoke of the old times.
-                              The secret sorrow that preys on body and mind alike preyed on <hi rend="italic">her</hi>. A cold, caught at the inclement season,
+                              The secret sorrow that preys on body and mind alike preyed on <hi
+                                   rend="italic">her</hi>. A cold, caught at the inclement season,
                               turned to fever. For weeks she was in danger of death. When she
                               recovered, her head had been stripped of its beautiful hair by the
                               doctor’s order. The sacrifice had been necessary to save her life. It
@@ -1568,8 +1584,7 @@
 
                     </div>
                     <div type="chapter">
-                         <head>CHAPTER VII. THE WOMAN ON THE BRIDGE.</head>
-                         <div type="chapter">
+                         <head>CHAPTER III. THE WOMAN ON THE BRIDGE.</head>
                               <head>MY mother looked in at the library door, and disturbed me over
                                    my books.</head>
                               <p>“I have been hanging a little picture in my room,” she said. “Come
@@ -1800,7 +1815,8 @@
                                    to tell the people of the inn what to do. It was useless. I
                                    dropped to my knees; my head sunk on the bosom of the woman
                                    stretched senseless upon the low couch beneath me. The
-                                   death-in-life that had got <hi rend="italic">her</hi> had got <hi rend="italic">me</hi>. Lost to the world about us, we lay,
+                                   death-in-life that had got <hi rend="italic">her</hi> had got <hi
+                                        rend="italic">me</hi>. Lost to the world about us, we lay,
                                    with my blood flowing on her, united in our deathly trance.</p>
                               <p>Where were our spirits at that moment? Were they together and
                                    conscious of each other? United by a spiritual bond, undiscovered
@@ -1811,7 +1827,6 @@
                                    my questions in contempt? Can you honestly say that they have
                                    never been <hi rend="italic">your</hi> questions too?</p>
 
-                         </div>
                     </div>
                     <div type="chapter">
                          <head>CHAPTER VIII. THE KINDRED SPIRITS</head>
@@ -1878,7 +1893,8 @@
                               systematically,” he went on, after he had forced me to submit to the
                               penalty. “Everything in its place, Mr. Germaine—everything in its
                               place. I was speaking of your bodily condition. Well, sir, and how did
-                              I discover your bodily condition? Providentially for <hi rend="italic">you</hi> I was driving home yesterday evening by the lower road
+                              I discover your bodily condition? Providentially for <hi rend="italic"
+                                   >you</hi> I was driving home yesterday evening by the lower road
                               (which is the road by the river bank), and, drawing near to the inn
                               here (they call it a hotel; it’s nothing but an inn), I heard the
                               screeching of the landlady half a mile off. A good woman enough, you
@@ -1972,7 +1988,8 @@
                               waiting to see me?”</p>
                          <p>“Nobody could stop her, George,” my mother answered. “The lady left the
                               inn this morning by the coach for Edinburgh.”</p>
-                         <p>I was bitterly disappointed. Yes: “bitterly” is the word—though she <hi rend="italic">was</hi> a stranger to me.</p>
+                         <p>I was bitterly disappointed. Yes: “bitterly” is the word—though she <hi
+                                   rend="italic">was</hi> a stranger to me.</p>
                          <p>“Did you see her yourself?” I asked.</p>
                          <p>“I saw her for a few minutes, my dear, on my way up to your room.”</p>
                          <p>“What did she say?”</p>
@@ -2264,7 +2281,8 @@
                          <p>“I’ll readily excuse you,” answered Mr. MacGlue; “the rather that I’m
                               entirely of your opinion. I don’t believe in the rational explanation
                               myself.”</p>
-                         <p>This was surprising, to say the least of it. “What <hi rend="italic">do</hi> you believe in?” I inquired.</p>
+                         <p>This was surprising, to say the least of it. “What <hi rend="italic"
+                                   >do</hi> you believe in?” I inquired.</p>
                          <p>Mr. MacGlue declined to let me hurry him.</p>
                          <p>“Wait a little,” he said. “There’s the <hi rend="italic">ir</hi>rational
                               explanation to try next. Maybe it will fit itself to the present state
@@ -2282,8 +2300,10 @@
                               everything associated with them, or that this ghost has changed its
                               mind in the course of three hours (being the ghost of a woman, I am
                               sure that’s not wonderful), and doesn’t care to see you ‘when the full
-                              moon shines on Saint Anthony’s Well.’ There’s the <hi rend="italic">ir</hi>rational explanation for you. And, speaking for myself,
-                              I’m bound to add that I don’t set a pin’s value on <hi rend="italic">that</hi> explanation either.”</p>
+                              moon shines on Saint Anthony’s Well.’ There’s the <hi rend="italic"
+                                   >ir</hi>rational explanation for you. And, speaking for myself,
+                              I’m bound to add that I don’t set a pin’s value on <hi rend="italic"
+                                   >that</hi> explanation either.”</p>
                          <p>Mr. MacGlue’s sublime indifference to both sides of the question began
                               to irritate me.</p>
                          <p>“In plain words, doctor,” I said, “you don’t think the circumstances
@@ -2436,7 +2456,7 @@
                               doctor, “though I own I’m anxious to hear what comes of your
                               expedition—understand at the same time, so far as the lady is
                               concerned, that I wash my hands of the consequences.”—</p>
-                        
+
 
                     </div>
                     <div type="chapter">
@@ -2471,7 +2491,8 @@
                               had heard in the summer-house. It was the sound I had heard on the
                               bridge when we first met in the dim evening light.</p>
                          <p>“Who are you? What do you want?”</p>
-                         <p>As those words passed her lips, she recognized me. “<hi rend="italic">You</hi> here!” she went on, advancing a step, in uncontrollable
+                         <p>As those words passed her lips, she recognized me. “<hi rend="italic"
+                                   >You</hi> here!” she went on, advancing a step, in uncontrollable
                               surprise. “What does this mean?”</p>
                          <p>“I am here,” I answered, “to meet you, by your own appointment.”</p>
                          <p>She stepped back again, leaning against the rock. The moonlight shone
@@ -2577,7 +2598,8 @@
                          <p>“Did you ever see me, did you ever hear my name, before we met that
                               evening at the river?”</p>
                          <p>“Never.”</p>
-                         <p>“And I never heard <hi rend="italic">your</hi> name, and never saw <hi rend="italic">you</hi> before. Strange! very strange! Ah! I
+                         <p>“And I never heard <hi rend="italic">your</hi> name, and never saw <hi
+                                   rend="italic">you</hi> before. Strange! very strange! Ah! I
                               remember somebody—only an old woman, sir—who might once have explained
                               it. Where shall I find the like of her now?”</p>
                          <p>She sighed bitterly. The lost friend or relative had evidently been dear
@@ -2640,7 +2662,8 @@
                          <p>She looked away from me confusedly, as if she were ashamed to recall
                               this part of her dream.</p>
                          <p>“You have mentioned it already,” she said. “There is no need for me to
-                              go over the words again. Tell me one thing—when <hi rend="italic">you</hi> were at the summer-house, did you wait a little on the
+                              go over the words again. Tell me one thing—when <hi rend="italic"
+                                   >you</hi> were at the summer-house, did you wait a little on the
                               path to the door before you went in?”</p>
                          <p>I <hi rend="italic">had</hi> waited, surprised by my first view of the
                               woman writing in my book. Having answered her to this effect, I asked
@@ -3211,7 +3234,8 @@
                               which looked (on <hi rend="italic">her</hi>) the most becoming
                               head-dress that a woman could wear. As the two passed me, I heard the
                               man speak to her in a tone of sulky annoyance.</p>
-                         <p>“It’s wasting money,” he said, “to go to the expense of taking <hi rend="italic">you</hi> to the opera.”</p>
+                         <p>“It’s wasting money,” he said, “to go to the expense of taking <hi
+                                   rend="italic">you</hi> to the opera.”</p>
                          <p>“I am not well,” she answered with her head down and her eyes on the
                               ground. “I am out of spirits to-night.”</p>
                          <p>“Will you ride home or walk?”</p>
@@ -3333,7 +3357,8 @@
                               Dermody and Greenwater Broad. The next moment I heard the rustling of
                               Mrs. Van Brandt’s dress on the stairs. As the sound caught my ear, the
                               old times and the old faces vanished again from my thoughts as
-                              completely as if they had never existed. What had <hi rend="italic">she</hi> in common with the frail, shy little child, her
+                              completely as if they had never existed. What had <hi rend="italic"
+                                   >she</hi> in common with the frail, shy little child, her
                               namesake, of other days? What similarity was perceivable in the sooty
                               London lodging-house to remind me of the bailiff’s flower-scented
                               cottage by the shores of the lake?</p>
@@ -3659,7 +3684,8 @@
                               do but return to the father of her child? What claim had I on her, by
                               comparison with <hi rend="italic">him</hi>? What did it matter, now
                               that the poor creature secretly returned the love that I felt for her?
-                              There was the child, an obstacle between us—there was <hi rend="italic">his</hi> hold on her, now that he had got her back!
+                              There was the child, an obstacle between us—there was <hi
+                                   rend="italic">his</hi> hold on her, now that he had got her back!
                               What was <hi rend="italic">my</hi> hold worth? All social proprieties
                               and all social laws answered the question: Nothing!</p>
                          <p>My head sunk on my breast; I received the blow in silence.</p>
@@ -3677,13 +3703,15 @@
                               man married her; she has suffered undeservedly since; and she has
                               behaved nobly to you and to me. I only do her justice in saying that
                               she is a woman in a thousand—a woman worthy, under happier
-                              circumstances, to be my daughter and your wife. I feel <hi rend="italic">for</hi> you, and feel <hi rend="italic">with</hi>
+                              circumstances, to be my daughter and your wife. I feel <hi
+                                   rend="italic">for</hi> you, and feel <hi rend="italic">with</hi>
                               you, my dear—I do, with my whole heart.”</p>
                          <p>So this scene in my life was, to all appearance, a scene closed forever.
                               As it had been with my love, in the days of my boyhood, so it was
                               again now with the love of my riper age!</p>
                          <p>Later in the day, when I had in some degree recovered my
-                              self-possession, I wrote to Mr. Van Brandt—as <hi rend="italic">she</hi> had foreseen I should write!—to apologize for breaking
+                              self-possession, I wrote to Mr. Van Brandt—as <hi rend="italic"
+                                   >she</hi> had foreseen I should write!—to apologize for breaking
                               my engagement to dine with him.</p>
                          <p>Could I trust to a letter also, to say the farewell words for me to the
                               woman whom I had loved and lost? No! It was better for her, and better
@@ -3797,7 +3825,8 @@
                               chief port in the Shetland Islands. The weather has not latterly been
                               at all favorable. But the amendment in George’s health remains. He
                               writes most gratefully of Sir James’s unremitting kindness to him. I
-                              am so happy, I declare I could kiss Sir James—though he <hi rend="italic">is</hi> a great man, and a Commissioner for
+                              am so happy, I declare I could kiss Sir James—though he <hi
+                                   rend="italic">is</hi> a great man, and a Commissioner for
                               Northern Lights! In three weeks more (wind and weather permitting)
                               they hope to get back. Never mind my lonely life here, if I can only
                               see George happy and well again! He tells me they have passed a great
@@ -4295,7 +4324,8 @@
                               hands, when I have occasion to pass along the corridors or to enter my
                               father’s study—and I find it protection enough. Don’t be too ready to
                               deplore my sad condition, sir! I have got so used to living in the
-                              dark that I can see quite well enough for all the purposes of <hi rend="italic">my</hi> poor existence. I can read and write in
+                              dark that I can see quite well enough for all the purposes of <hi
+                                   rend="italic">my</hi> poor existence. I can read and write in
                               these shadows—I can see you, and be of use to you in many little ways,
                               if you will let me. There is really nothing to be distressed about. My
                               life will not be a long one—I know and feel that. But I hope to be
@@ -4431,7 +4461,8 @@
                               lessons of patience. Now they understand what I want of them, and they
                               learn wonderfully well. How you will amuse your friend, when he comes
                               back from fishing, with the story of the young lady who lives in the
-                              dark, and keeps a company of performing cats! I shall expect <hi rend="italic">you</hi> to amuse <hi rend="italic">me</hi>
+                              dark, and keeps a company of performing cats! I shall expect <hi
+                                   rend="italic">you</hi> to amuse <hi rend="italic">me</hi>
                               to-morrow—I want you to tell me all about yourself, and how you came
                               to visit these wild islands of ours. Perhaps, as the days go on, and
                               we get better acquainted, you will take me a little more into your
@@ -4563,7 +4594,9 @@
                               woman!”</p>
                          <p>To that result her inquiries had inscrutably conducted her! If she had
                               only pressed them a little further—if she had not unconsciously led me
-                              astray again by the very next question that fell from her lips—she <hi rend="italic">must</hi> have communicated to <hi rend="italic">my</hi> mind the idea obscurely germinating in hers—the idea of
+                              astray again by the very next question that fell from her lips—she <hi
+                                   rend="italic">must</hi> have communicated to <hi rend="italic"
+                                   >my</hi> mind the idea obscurely germinating in hers—the idea of
                               a possible identity between the Mary of my first love and Mrs. Van
                               Brandt!</p>
                          <p>“Tell me,” she went on. “If you met with your little Mary now, what
@@ -4603,7 +4636,8 @@
                               might almost say—that she quite startled me.</p>
                          <p>“Dear Miss Dunross,” I remonstrated, “the flag is not lost.”</p>
                          <p>“I should hope not!” she interposed, quickly. “If you lose the green
-                              flag, you lose the last relic of Mary—and more than that, if <hi rend="italic">my</hi> belief is right.”</p>
+                              flag, you lose the last relic of Mary—and more than that, if <hi
+                                   rend="italic">my</hi> belief is right.”</p>
                          <p>“What do you believe?”</p>
                          <p>“You will laugh at me if I tell you. I am afraid my first reading of
                               your face was wrong—I am afraid you are a hard man.”</p>
@@ -5013,7 +5047,8 @@
                               her.</p>
                          <p>She started and shuddered, like a woman suddenly awakened from a
                               dreadful dream.</p>
-                         <p>“Speak to me!” she whispered. “Let me know that it is <hi rend="italic">you</hi> who touched me.”</p>
+                         <p>“Speak to me!” she whispered. “Let me know that it is <hi rend="italic"
+                                   >you</hi> who touched me.”</p>
                          <p>I spoke a few composing words before I questioned her.</p>
                          <p>“Have you seen anything in the room?”</p>
                          <p>She answered. “I have been filled with a deadly fear. I have seen
@@ -5024,7 +5059,8 @@
                          <p>“No.”</p>
                          <p>“Did you see the writing-case after it was lifted from your lap?”</p>
                          <p>“I saw it resting on my shoulder.”</p>
-                         <p>“Did you see writing on the letter, which was not <hi rend="italic">your</hi> writing?”</p>
+                         <p>“Did you see writing on the letter, which was not <hi rend="italic"
+                                   >your</hi> writing?”</p>
                          <p>“I saw a darker shadow on the paper than the shadow in which I am
                               sitting.”</p>
                          <p>“Did it move?”</p>
@@ -5386,7 +5422,7 @@
                     </div>
                     <div type="chapter">
                          <head>CHAPTER XXIV. IN THE SHADOW OF ST. PAUL’S.</head>
-                         <div type="chapter">
+                       
                               <head>In ten days I was at home again—and my mother’s arms were round
                                    me.</head>
                               <p>I had left her for my sea-voyage very unwillingly—seeing that she
@@ -5561,14 +5597,15 @@
 
 
                          </div>
-                    </div>
+                    
                     <div type="chapter">
                          <head>CHAPTER XXV. I KEEP MY APPOINTMENT.</head>
                          <p>THE poverty-stricken aspect of the street when we entered it, the dirty
                               and dilapidated condition of the house when we drew up at the door,
                               would have warned most men, in my position, to prepare themselves for
                               a distressing discovery when they were admitted to the interior of the
-                              dwelling. The first impression which the place produced on <hi rend="italic">my</hi> mind suggested, on the contrary, that the
+                              dwelling. The first impression which the place produced on <hi
+                                   rend="italic">my</hi> mind suggested, on the contrary, that the
                               boy’s answers to my questions had led me astray. It was simply
                               impossible to associate Mrs. Van Brandt (as <hi rend="italic">I</hi>
                               remembered her) with the spectacle of such squalid poverty as I now
@@ -5782,7 +5819,8 @@
                          <p>“If she had not been an incurable invalid, George, I too might have
                               become interested in Miss Dunross—perhaps in the character of my
                               daughter-in-law?”</p>
-                         <p>“It is useless, mother, to speculate on what <hi rend="italic">might</hi> have happened. The sad reality is enough.”</p>
+                         <p>“It is useless, mother, to speculate on what <hi rend="italic"
+                                   >might</hi> have happened. The sad reality is enough.”</p>
                          <p>My mother paused a little before she put her next question to me.</p>
                          <p>“Did Miss Dunross always keep her veil drawn in your presence, when
                               there happened to be light in the room?”</p>
@@ -5793,7 +5831,8 @@
                               painful sensation if it fell on her uncovered skin?”</p>
                          <p>“You say that, mother, as if you doubt whether Miss Dunross told me the
                               truth.”</p>
-                         <p>“No, George. I only doubt whether she told you <hi rend="italic">all</hi> the truth.”</p>
+                         <p>“No, George. I only doubt whether she told you <hi rend="italic"
+                                   >all</hi> the truth.”</p>
                          <p>“What do you mean?”</p>
                          <p>“Don’t be offended, my dear. I believe Miss Dunross has some more
                               serious reason for keeping her face hidden than the reason that she
@@ -6142,7 +6181,8 @@
                               had now placed myself. I had, so to speak, pronounced my own sentence
                               of banishment. When my interference had restored my unworthy rival to
                               his freedom, could I submit to the degrading necessity of seeing her
-                              in his presence, of speaking to her under his eyes? <hi rend="italic">That</hi> sacrifice of myself was beyond me—and I knew it. “For
+                              in his presence, of speaking to her under his eyes? <hi rend="italic"
+                                   >That</hi> sacrifice of myself was beyond me—and I knew it. “For
                               the last time!” I thought, as I held her to me for a moment
                               longer—“for the last time!”</p>
                          <p>The child ran to meet me with open arms when I stepped out on the
@@ -6639,7 +6679,7 @@
                     </div>
                     <div type="chapter">
                          <head>CHAPTER XXXI. THE PHYSICIAN’S OPINION.</head>
-                         <div type="chapter">
+                        
                               <head>SIX months have elapsed. Summer-time has come again.</head>
                               <p>The last parting is over. Prolonged by my care, the days of my
                                    mother’s life have come to their end. She has died in my arms:
@@ -6881,7 +6921,7 @@
 
 
                          </div>
-                    </div>
+                   
                     <div type="chapter">
                          <head>CHAPTER XXXII. A LAST LOOK AT GREENWATER BROAD.</head>
                          <p>MY spirits rose as I walked through the bright empty streets, and
@@ -7627,7 +7667,8 @@
                          <p>“Quite likely. At the same time, the mesmeric theory (if you could
                               believe in it) would carry the explanation further still. Mesmerism
                               would assert, not only that you and the child influenced each other,
-                              but that—in spite of the distance—you both influenced <hi rend="italic">me</hi>. And in that way, mesmerism would account
+                              but that—in spite of the distance—you both influenced <hi
+                                   rend="italic">me</hi>. And in that way, mesmerism would account
                               for my vision as the necessary result of a highly developed sympathy
                               between us. Tell me, did you fall asleep with the child in your
                               arms?”</p>
@@ -7658,7 +7699,8 @@
                               which she saw in her dream, she saw in the reality when we took her
                               from London to Rotterdam, on our way here. But as to the other places,
                               especially the cottage and the lake (as she described them) I can only
-                              suppose that her dream was the reflection of mine. <hi rend="italic">I</hi> had been dreaming of the cottage and the lake, as I once
+                              suppose that her dream was the reflection of mine. <hi rend="italic"
+                                   >I</hi> had been dreaming of the cottage and the lake, as I once
                               knew them in years long gone by; and—Heaven only knows why—I had
                               associated you with the scene. Never mind going into that now! I don’t
                               know what infatuation it is that makes me trifle in this way with old
@@ -7671,7 +7713,8 @@
                          <p>“I won’t distress you,” I began. “I will only ask leave, before we
                               change the subject, to put one question to you about the cottage and
                               the lake.”</p>
-                         <p>As the fatality that pursued us willed it, it was <hi rend="italic">her</hi> turn now to be innocently an obstacle in the way of our
+                         <p>As the fatality that pursued us willed it, it was <hi rend="italic"
+                                   >her</hi> turn now to be innocently an obstacle in the way of our
                               discovering each other.</p>
                          <p>“I can tell you nothing more to-night,” she interposed, rising
                               impatiently. “It is time I put the child to bed—and, besides, I can’t
@@ -8104,6 +8147,7 @@
                          <trailer>THE END OF THE STORY.</trailer>
 
                     </div>
+                         
                </div>
                <div type="liminal">
                     <head>The Finale.</head>
@@ -8142,7 +8186,8 @@
                          with me. It is needless to say that she was delighted at the prospect of
                          traveling. She shocked the schoolmistress by waving her hat over her head
                          and crying ‘Hooray,’ like a boy. The good lady was very careful to inform
-                         me that my daughter could not possibly have learned to cry ‘Hooray’ in <hi rend="italic">her</hi> house.</p>
+                         me that my daughter could not possibly have learned to cry ‘Hooray’ in <hi
+                              rend="italic">her</hi> house.</p>
                     <p>“You have probably by this time read the narrative which I have committed to
                          your care. I hardly dare ask how I stand in your estimation now. Is it
                          possible that I might have seen you and your good husband if we had not
@@ -8208,14 +8253,16 @@
                     <p>My wife read my remark the right way directly.</p>
                     <p>“Suppose we try Naples?” she said.</p>
                     <p>That is all. Permit us to wish you good-by. We are off to Naples.</p>
-               </div>
+               </div></div>
           </body>
-         <back><div type="notes"> <note xml:id="ENG18760_N1"> * The doctor’s narrative is not imaginary. It
-             will be found related in full detail, and authenticated by names and
-             dates, in Robert Dale Owen’s very interesting work called “Footfalls
-             on the Boundary of Another World.” The author gladly takes this
-             opportunity of acknowledging his obligations to Mr. Owen’s remarkable
-             book. </note>
-         </div> </back>
+          <back>
+               <div type="notes">
+                    <note xml:id="ENG18760_N1"> * The doctor’s narrative is not imaginary. It will
+                         be found related in full detail, and authenticated by names and dates, in
+                         Robert Dale Owen’s very interesting work called “Footfalls on the Boundary
+                         of Another World.” The author gladly takes this opportunity of
+                         acknowledging his obligations to Mr. Owen’s remarkable book. </note>
+               </div>
+          </back>
      </text>
 </TEI>
