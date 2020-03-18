@@ -7,35 +7,37 @@
         <xsl:value-of select="substring(string(current-date()), 1, 10)"/>
     </xsl:variable>
     <xsl:param name="bassettBase">/home/lou/Public/bookLists/Bassett/bassettPlus.xml</xsl:param>
-    <xsl:param name="bassettKey">B1984</xsl:param>
-    <xsl:param name="gutenKey">7926</xsl:param>
-    <xsl:variable name="pageCount">?</xsl:variable>
-    <!--   <xsl:value-of select="count(//t:hi[@rend = 'small'])"/>
+    <xsl:param name="bassettKey"></xsl:param>
+    <xsl:param name="gutenKey"></xsl:param>
+    <xsl:variable name="pageCount">
+    <xsl:value-of select="count(//h:span[@class = 'pagenum'])"/>
     </xsl:variable>
-    -->
-    <xsl:variable name="wordCount">?</xsl:variable>
-    <!-- <xsl:value-of
+   
+    <xsl:variable name="wordCount"><!--?</xsl:variable>-->
+    <xsl:value-of
             select="
-                string-length(normalize-space(//t:body))
+                string-length(normalize-space(//h:body))
                 -
-                string-length(translate(normalize-space(//t:body), ' ', '')) + 1"
+                string-length(translate(normalize-space(//h:body), ' ', '')) + 1"
         />
     </xsl:variable>
-    -->
+  
     <xsl:template match="h:html">
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd" xml:lang="en">
             <xsl:apply-templates/>
         </TEI>
     </xsl:template>
     <xsl:template match="h:head">
+        <xsl:if test="$bassettKey">
         <xsl:message>Generating header for Bassett title <xsl:value-of select="$bassettKey"/>
             <xsl:text> (</xsl:text><xsl:value-of
                 select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:title"
-            />)</xsl:message>
+            />)</xsl:message></xsl:if>
         <xsl:variable name="sex">
-            <xsl:value-of
+            <xsl:if test="$bassettKey">
+                <xsl:value-of
                 select="substring(document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:author/@ref, 1, 1)"
-            />
+            /></xsl:if>
         </xsl:variable>
         <xsl:variable name="author">
             <xsl:value-of select="document($bassettBase)//t:bibl[@xml:id = $bassettKey]/t:author"/>
@@ -114,7 +116,7 @@
                 </sourceDesc>
             </fileDesc>
             <encodingDesc>
-                <xsl:attribute name="n">eltec-0</xsl:attribute>
+                <xsl:attribute name="n">eltec-1</xsl:attribute>
                 <p/>
             </encodingDesc>
             <profileDesc>
@@ -124,7 +126,7 @@
                 <textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="{$sex}"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="{$size}"/>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="{$timeSlot}"/>
                 </textDesc>
             </profileDesc>
@@ -187,6 +189,12 @@
         </quote>
     </xsl:template>
 
+    <xsl:template match="h:div[@class = 'titlepage']">
+        <div type="titlepage">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
     <xsl:template match="h:div[@class = 'chapter']">
              <xsl:apply-templates/>
     </xsl:template>
@@ -272,6 +280,9 @@
                 <xsl:choose>
                     <xsl:when test="h:a">
                         <xsl:value-of select="substring-after(h:a/@name, 'page_')"/>
+                    </xsl:when>
+                    <xsl:when test="@id">
+                        <xsl:value-of select="substring-after(@id, 'Page_')"/>
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="substring-after(normalize-space(.), 'p.')"/>
