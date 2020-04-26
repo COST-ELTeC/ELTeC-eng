@@ -56,13 +56,14 @@
                 <xsl:when test="$date le '1920'">T4</xsl:when>
             </xsl:choose>
         </xsl:variable>
-        <xsl:variable name="size">?</xsl:variable>
-        <!-- <xsl:choose>
+        <xsl:variable name="size">
+     <xsl:choose>
                 <xsl:when test="xs:integer($wordCount) le 50000">short</xsl:when>
                 <xsl:when test="xs:integer($wordCount) le 100000">medium</xsl:when>
                 <xsl:when test="xs:integer($wordCount) gt 100000">long</xsl:when>
             </xsl:choose>
-        </xsl:variable>-->
+        </xsl:variable>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -81,21 +82,24 @@
                     <measure unit="words">
                         <xsl:value-of select="$wordCount"/>
                     </measure>
-                    <measure unit="pages">
+                   <xsl:if test="number($pageCount) gt 0"> <measure unit="pages">
                         <xsl:value-of select="$pageCount"/>
                     </measure>
+                   </xsl:if>
                 </extent>
                 <publicationStmt>
                     <p>Published as part of ELTeC <date><xsl:value-of select="$today"/></date></p>
                 </publicationStmt>
                 <sourceDesc>
-                    <bibl>
+                    <bibl type="digitalSource">
                         <title>
                             <xsl:value-of select="h:title"/>
                         </title>
                         <ref target="{concat('gut:',$gutenKey)}">Gutenberg</ref>
-                        <relatedItem>
-                            <bibl type="firstEdition" n="{$bassettKey}">
+                    
+                  </bibl>
+                    
+                    <bibl type="firstEdition" n="{$bassettKey}">
                                 <title>
                                     <xsl:value-of select="$title"/>
                                 </title>
@@ -111,8 +115,7 @@
                                     <xsl:value-of select="$date"/>
                                 </date>
                             </bibl>
-                        </relatedItem>
-                    </bibl>
+                   
                 </sourceDesc>
             </fileDesc>
             <encodingDesc>
@@ -126,7 +129,7 @@
                 <textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="{$sex}"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="{$size}"/>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="{$timeSlot}"/>
                 </textDesc>
             </profileDesc>
@@ -446,21 +449,7 @@
         <gap unit="graphic"/>
     </xsl:template>
 
-    <!-- <xsl:template match="h:small/h:font">       
-        <pb>
-            <xsl:if test="string-length(substring-before(substring-after(., 'age '), ' ]')) gt 1"
-                >
-                <xsl:attribute name="n">
-                    <xsl:value-of select="substring-before(substring-after(., 'age '), ' ]')"/>
-                </xsl:attribute></xsl:if>
-        </pb>
-    </xsl:template>
-    
-    <xsl:template match="h:sup/h:a">
-        <ref target="{@href}">
-            <xsl:value-of select="."/>
-        </ref></xsl:template>
-        -->
+   
 
     <xsl:template match="h:div[@class = 'footnotes']">
         <back>
