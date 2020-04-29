@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18954"
-      xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18954" xml:lang="en">
       <teiHeader>
             <fileDesc>
                   <titleStmt>
@@ -17,8 +15,7 @@
                   </publicationStmt>
                   <sourceDesc>
                         <bibl type="digitalSource"><title>The Project Gutenberg eBook of At The
-                                    Relton Arms, by Evelyn Sharp.</title><ref target="gut:41403"
-                                    >Gutenberg</ref>
+                                    Relton Arms, by Evelyn Sharp.</title><ref target="gut:41403">Gutenberg</ref>
                               <respStmt>
                                     <resp>Produced by</resp>
                                     <name> Suzanne Shell, Mary Meehan and the Online Distributed
@@ -49,7 +46,7 @@
                   <change when="2019-06-09">LB convert to ELTeC-1</change>
             </revisionDesc>
       </teiHeader>
-      <text>
+      <text type="T3FSL">
             <front>
                   <div type="titlepage">
                         <p>AT THE RELTON ARMS</p>

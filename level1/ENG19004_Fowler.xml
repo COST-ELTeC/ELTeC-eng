@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19004" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19004" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -15,7 +12,7 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">104660</measure><measure unit="pages">367</measure></extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-05-15--></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Farringdons, by Ellen Thorneycroft
 Fowler.</title><ref target="gut:19798">Gutenberg</ref>
 <respStmt><resp>Produced by </resp> <name>Chuck Greif, Sigal Alon and the Online
@@ -32,7 +29,7 @@ Thorneycroft (1860-1929).</author><publisher>London: Hutchinson</publisher><date
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 </profileDesc>
@@ -40,7 +37,7 @@ Thorneycroft (1860-1929).</author><publisher>London: Hutchinson</publisher><date
 <change when="2019-05-15">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
-<text>
+<text type="T4FLL">
 <front><div type="titlepage">
 <p>THE FARRINGDONS</p>
 <gap unit="graphic"/>
@@ -7196,312 +7193,7 @@ back to you all, and to dwell among mine own people," she said, her voice thrill
 "and I am glad that Mrs. Hankey's prophecy has come true, and that Elisabeth Farringdon will be
 Elisabeth Farringdon to the end of the chapter."</p>
 <trailer>THE END</trailer></div></body>
-<!--
-<head>"A FRESH AND CHARMING NOVEL."</head>
-<p>The Last Lady of Mulberry.</p>
-<p>A Story of Italian New York. By <hi>Henry Wilton Thomas</hi>. Illustrated by Emil Pollak. 12mo.
-Cloth, $1.50.</p>
-<quote>
-<p>"The Last Lady of Mulberry" is the title of a fresh and charming novel, whose author, a new
-writer, Mr. Henry Wilton Thomas, has found an unexploited field in the Italian quarter of New York.
-Mr. Thomas is familiar with Italy as well as New York, and the local color of his vivacious pictures
-gives his story a peculiar zest. As a story pure and simple his novel is distinguished by
-originality in motive, by a succession of striking and dramatic scenes, and by an understanding of
-the motives of the characters, and a justness and sympathy in their presentation which imparts a
-constant glow of human interest to the tale. The author has a quaint and delightful humor which will
-be relished by every reader. While his story deals with actualities, it is neither depressing nor
-unpleasantly realistic, like many "stories of low life," and the reader gains a vivid impression of
-the sunnier aspects of life in the Italian quarter. The book contains a series of well-studied and
-effective illustrations by Mr. Emil Pollak.</p>
-</quote>
-<p><hi>BY THE AUTHOR OF "RED POTTAGE."</hi></p>
-<p/>
-<p>A Novel. By <hi>Mary Cholmondeley</hi>, author of "Red Pottage," "The Danvers Jewels," etc. With
-Portrait and Sketch of the Author. 12mo. Cloth, $1.50.</p>
-<quote>
-<p>"Of Miss Cholmondeley's clever novels, 'Diana Tempest' is quite the cleverest."—<hi>London
-Times.</hi></p>
-<p>"The novel is hard to lay by, and one likes to take it up again for a second reading."—<hi>Boston
-Literary World.</hi></p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>
-<head>DAVID HARUM.</head>
-<p>A Story of American Life. By Edward Noyes Westcott. 12mo. Cloth, $1.50.</p>
-<quote>
-<p>"David Harum deserves to be known by all good Americans; he is one of them in boundless energy,
-in large-heartedness, in shrewdness, and in humor."—<hi>The Critic</hi>, <hi>New York</hi>.</p>
-<p>"We have in the character of David Harum a perfectly clean and beautiful study, one of those true
-natures that every one, man, woman, or child, is the better for knowing."—<hi>The World</hi>,
-<hi>Cleveland</hi>.</p>
-<p>"The book continues to be talked of increasingly. It seems to grow in public favor, and this,
-after all, is the true test of merit."—<hi>The Tribune</hi>, <hi>Chicago</hi>.</p>
-<p>"A thoroughly interesting bit of fiction, with a well-defined plot, a slender but easily followed
-'love' interest, some bold and finely sketched character drawing, and a perfect gold mine of shrewd,
-dialectic philosophy."—<hi>The Call</hi>, <hi>San Francisco</hi>.</p>
-<p>"The newsboys on the street can talk of 'David Harum,' but scarcely a week ago we heard an
-intelligent girl of fifteen, in a house which entertains the best of the daily papers and the weekly
-reviews, ask, 'Who is Kipling?'"—<hi>The Literary World</hi>, <hi>Boston</hi>.</p>
-<p>"A masterpiece of character painting. In David Harum, the shrewd, whimsical, horse-trading
-country banker, the author has depicted a type of character that is by no means new to fiction, but
-nowhere else has it been so carefully, faithfully, and realistically wrought out."—<hi>The
-Herald</hi>, <hi>Syracuse</hi>.</p>
-<p>"We give Edward Noyes Westcott his true place in American letters—placing him as a humorist next
-to Mark Twain, as a master of dialect above Lowell, as a descriptive writer equal to Bret Harte,
-and, on the whole, as a novelist on a par with the best of those who live and have their being in
-the heart of hearts of American readers. If the author is dead—lamentable fact—his book will
-live."—<hi>Philadelphia Item</hi>.</p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>
-<head>FÉLIX GRAS'S ROMANCES.</head>
-<p/>
-<p>A Romance. Translated from the Provençal by Mrs. Catharine A. Janvier. Uniform with "The Reds of
-the Midi" and "The Terror." 16mo. Cloth, $1.50.</p>
-<quote>
-<p>"No one has done this kind of work with finer poetic grasp or more convincing truthfulness than
-Félix Gras.... This new volume has the spontaneity, the vividness, the intensity of Interest of a
-great historical romance."—<hi>Philadelphia Times</hi>.</p>
-</quote>
-<p/>
-<p>A Romance of the French Revolution. Uniform with "The Reds of the Midi." Translated by Mrs.
-Catharine A. Janvier. 16mo. Cloth, $1.50.</p>
-<quote>
-<p>"If Félix Gras had never done any other work than this novel, it would at once give him a place
-in the front rank of the writers of to-day.... 'The Terror' is a story that deserves to be widely
-read, for, while it is of thrilling interest, holding the reader's attention closely, there is about
-it a literary quality that makes it worthy of something more than a careless perusal."—<hi>Brooklyn
-Eagle</hi>.</p>
-</quote>
-<p/>
-<p>An episode of the French Revolution. Translated from the Provençal by Mrs. Catharine A. Janvier.
-With an Introduction by Thomas A. Janvier. With Frontispiece. 16mo. Cloth, $1.50.</p>
-<quote>
-<p>"I have read with great and sustained interest 'The Reds of the South,' which you were good
-enough to present to me. Though a work of fiction, it aims at painting the historical features, and
-such works if faithfully executed throw more light than many so-called histories on the true roots
-and causes of the Revolution, which are so widely and so gravely misunderstood. As a novel it seems
-to me to be written with great skill."—<hi>William E. Gladstone</hi>.</p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>
-<head>BOOKS BY ANTHONY HOPE</head>
-<p/>
-<p>Illustrated. 12mo. Cloth, $1.50.</p>
-<quote>
-<p>"Mr. Hope has never given more sustained proof of his cleverness than in 'The King's Mirror.' In
-elegance, delicacy, and tact it ranks with the best of his previous novels, while in the wide range
-of its portraiture and the subtlety of its analysis it surpasses all his earlier
-ventures."—<hi>London Spectator</hi>.</p>
-<p>"Mr. Anthony Hope is at his best in this new novel. He returns in some measure to the color and
-atmosphere of 'The Prisoner of Zenda.' ...A strong book, charged with close analysis and exquisite
-irony; a book full of pathos and moral fiber—in short, a book to be read."—<hi>London
-Chronicle</hi>.</p>
-<p>"A story of absorbing interest and one that will add greatly to the author's reputation.... Told
-with all the brilliancy and charm which we have come to associate with Mr. Anthony Hope's
-work."—<hi>London Literary World</hi>.</p>
-</quote>
-<p/>
-<p>With Photogravure Frontispiece by S. W. Van Schaick. 12mo. Cloth, $1.50.</p>
-<quote>
-<p>"No adventures were ever better worth recounting than are those of Antonio of Monte Velluto, a
-very Bayard among outlaws.... To all those whose pulses still stir at the recital of deeds of high
-courage, we may recommend this book.... The chronicle conveys the emotion of heroic adventure, and
-is picturesquely written."—<hi>London Daily News</hi>.</p>
-<p>"It has literary merits all its own, of a deliberate and rather deep order.... In point of
-execution 'The Chronicles of Count Antonio' is the best work that Mr. Hope has yet done. The design
-is clearer, the workmanship more elaborate, the style more colored."—<hi>Westminster
-Gazette</hi>.</p>
-</quote>
-<p/>
-<p>New edition, uniform with "The Chronicles of Count Antonio." 12mo. Cloth, $1.25.</p>
-<quote>
-<p>"'The God in the Car' is just as clever, just as distinguished in style, just as full of wit, and
-of what nowadays some persons like better than wit—allusiveness—as any of his stories. It is
-saturated with the modern atmosphere; is not only a very clever but a very strong story; in some
-respects, we think, the strongest Mr. Hope has yet written."—<hi>London Speaker</hi>.</p>
-<p>"A very remarkable book, deserving of critical analysis impossible within our limit; brilliant,
-but not superficial; well considered, but not elaborated; constructed with the proverbial art that
-conceals, but yet allows itself to be enjoyed by readers to whom fine literary method is a keen
-pleasure."—<hi>London World</hi>.</p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK. D. APPLETON AND COMPANY'S PUBLICATIONS.</p>
-<head>By A. CONAN DOYLE.</head>
-<p>Uniform edition. 12mo. Cloth, $1.50 per volume.</p>
-<p><hi>A DUET, WITH AN OCCASIONAL CHORUS.</hi></p>
-<quote>
-<p>"Charming is the one word to describe this volume adequately. Dr. Doyle's crisp style and his
-rare wit and refined humor, utilized with cheerful art that is perfect of its kind, fill these
-chapters with joy and gladness for the reader."—<hi>Philadelphia Press</hi>.</p>
-<p>"Bright, brave, simple, natural, delicate. It is the most artistic and most original thing that
-its author has done.... We can heartily recommend 'A Duet' to all classes of readers. It is a good
-book to put into the hands of the young of either sex. It will interest the general reader, and it
-should delight the critic, for it is a work of art. This story taken with the best of his previous
-work gives Dr. Doyle a very high place in modern letters."—<hi>Chicago Times-Herald</hi>.</p>
-</quote>
-<p><hi>UNCLE BERNAC. A Romance of the Empire.</hi></p>
-<quote>
-<p>"Simple, clear, and well defined.... Spirited in movement all the way through.... A fine example
-of clear analytical force."—<hi>Boston Herald</hi>.</p>
-</quote>
-<p><hi>THE EXPLOITS OF BRIGADIER GERARD.</hi></p>
-<p><hi>A Romance of the Life of a Typical Napoleonic Soldier.</hi></p>
-<quote>
-<p>"Good, stirring tales are they.... Remind one of those adventures indulged in by 'The Three
-Musketeers.' ... Written with a dash and swing that here and there carry one away."—<hi>New York
-Mail and Express</hi>.</p>
-</quote>
-<p><hi>RODNEY STONE.</hi></p>
-<quote>
-<p>"A notable and very brilliant work of genius."—<hi>London Speaker</hi>.</p>
-<p>"Dr. Doyle's novel is crowded with an amazing amount of incident and excitement.... He does not
-write history, but shows us the human side of his great men, living and moving in an atmosphere
-charged with the spirit of the hard-living, hard-fighting Anglo-Saxon."—<hi>New York
-Critic</hi>.</p>
-</quote>
-<p><hi>ROUND THE RED LAMP.</hi></p>
-<p><hi>Being Facts and Fancies of Medical Life.</hi></p>
-<quote>
-<p>"A strikingly realistic and decidedly original contribution to modern literature."—<hi>Boston
-Saturday Evening Gazette</hi>.</p>
-</quote>
-<p><hi>THE STARK MUNRO LETTERS.</hi></p>
-<p>Being a Series of Twelve Letters written by Stark Munro, M. B., to his friend and former
-fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884.</p>
-<quote>
-<p>"Cullingworth, ... a much more interesting creation than Sherlock Holmes, and I pray Dr. Doyle to
-give us more of him."—<hi>Richard le Gallienne, in the London Star</hi>.</p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>
-<head>BOOKS BY ALLEN RAINE.</head>
-<p>Each, 12mo, cloth, $1.00; paper, 50 cents.</p>
-<p/>
-<quote>
-<p>"Wales has long waited for her novelist, but he seems to have come at last in the person of Mr.
-Allen Raine, who has at once proved himself a worthy interpreter and exponent of the romantic spirit
-of his country."—<hi>London Daily Mail</hi>.</p>
-</quote>
-<p/>
-<quote>
-<p>"Mr. Raine enters into the lives and traditions of the people, and herein lies the charm of his
-stories."—<hi>Chicago Tribune</hi>.</p>
-<p>"Interesting from the beginning, and grows more so as it proceeds."—<hi>San Francisco
-Bulletin</hi>.</p>
-<p>"It has the same grace of style, strength of description, and dainty sweetness of its
-predecessors."—<hi>Boston Saturday Evening Gazette</hi>.</p>
-</quote>
-<p/>
-<quote>
-<p>"It is a little idyl of humble life and enduring love, laid bare before us, very real and pure,
-which in its telling shows us some strong points of Welsh character—the pride, the hasty temper, the
-quick dying out of wrath.... We call this a well-written story, interesting alike through its
-romance and its glimpses into another life than ours."—<hi>Detroit Free Press</hi>.</p>
-<p>"Allen Raine's work is in the right direction and worthy of all honor."—<hi>Boston
-Budget</hi>.</p>
-</quote>
-<p/>
-<quote>
-<p>"Simple in all its situations, the story is worked up in that touching and quaint strain which
-never grows wearisome no matter how often the lights and shadows of love are introduced. It rings
-true, and does not tax the imagination."—<hi>Boston Herald</hi>.</p>
-<p>"One of the most charming tales that has come to us of late."—<hi>Brooklyn Eagle</hi>.</p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK. D. APPLETON AND COMPANY'S PUBLICATIONS.</p>
-<p><hi>FAMILIAR LIFE IN FIELD AND FOREST.</hi></p>
-<p>By <hi>F. Schuyler Mathews</hi>. Uniform with "Familiar Flowers," "Familiar Trees," and "Familiar
-Features of the Roadside." With many Illustrations. 12mo. Cloth, $1.75.</p>
-<quote>
-<p>The great popularity of Mr. F. Schuyler Mathews's charmingly illustrated books upon flowers,
-trees, and roadside life insures a cordial reception for his forthcoming book, which describes the
-animals, reptiles, insects, and birds commonly met with in the country. His book will be found a
-most convenient and interesting guide to an acquaintance with common wild creatures.</p>
-</quote>
-<p><hi>FAMILIAR FEATURES OF THE ROADSIDE.</hi></p>
-<p>By <hi>F. Schuyler Mathews</hi>, author of "Familiar Flowers of Field and Garden," "Familiar
-Trees and their Leaves," etc. With 130 Illustrations by the Author. 12mo. Cloth, $1.75.</p>
-<quote>
-<p>"Which one of us, whether afoot, awheel, on horseback, or in comfortable carriage, has not whiled
-away the time by glancing about? How many of us, however, have taken in the details of what charms
-us? We see the flowering fields and budding woods, listen to the notes of birds and frogs, the hum
-of some big bumblebee, but how much do we know of what we sense? These questions, these doubts have
-occurred to all of us, and it is to answer them that Mr. Mathews sets forth. It is to his credit
-that he succeeds so well. He puts before us in chronological order the flowers, birds, and beasts we
-meet on our highway and byway travels, tells us how to recognize them, what they are really like,
-and gives us at once charming drawings in words and lines, for Mr. Mathews is his own
-illustrator."—<hi>Boston Journal</hi>.</p>
-</quote>
-<p><hi>FAMILIAR TREES AND THEIR LEAVES.</hi></p>
-<p>By <hi>F. Schuyler Mathews</hi>, author of "Familiar Flowers of Field and Garden," "The Beautiful
-Flower Garden," etc. Illustrated with over 200 Drawings from Nature by the Author, and giving the
-botanical names and habitat of each tree and recording the precise character and coloring of its
-leafage. 12mo. Cloth, $1.75.</p>
-<quote>
-<p>"It is not often that we find a book which deserves such unreserved commendation. It is
-commendable for several reasons: it is a book that has been needed for a long time, it is written in
-a popular and attractive style, it is accurately and profusely illustrated, and it is by an
-authority on the subject of which it treats."—<hi>Public Opinion</hi>.</p>
-</quote>
-<p><hi>FAMILIAR FLOWERS OF FIELD AND GARDEN.</hi> By <hi>F. Schuyler Mathews</hi>. Illustrated with
-200 Drawings by the Author. 12mo. Library Edition, cloth, $1.75; Pocket Edition, flexible morocco,
-$2.25.</p>
-<quote>
-<p>"A book of much value and interest, admirably arranged for the student and the lover of
-flowers.... The text is full of compact information, well selected and interestingly presented....
-It seems to us to be a most attractive handbook of its kind."—<hi>New York Sun</hi>.</p>
-</quote>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>
-<head>FRANK M. CHAPMAN'S BOOKS.</head>
-<p/>
-<p>With Introductory Chapters on the Outfit and Methods of the Bird Photographer. By <hi>Frank M.
-Chapman</hi>, Assistant Curator of Vertebrate Zoology in the American Museum of Natural History;
-Author of "Handbook of Birds of Eastern North America" and "Bird-Life." Illustrated with over 100
-Photographs from Nature by the Author. 12mo. Cloth.</p>
-<quote>
-<p>Bird students and photographers will find that this book possesses for them a unique interest and
-value. It contains fascinating accounts of the habits of some of our common birds and descriptions
-of the largest bird colonies existing in eastern North America; while its author's phenomenal
-success in photographing birds in Nature not only lends to the illustrations the charm of realism,
-but makes the book a record of surprising achievements with the camera. Several of these
-illustrations have been described by experts as "the most remarkable photographs of wild life we
-have ever seen." The book is practical as well as descriptive, and in the opening chapters the
-questions of camera, lens, plates, blinds, decoys, and other pertinent matters are fully
-discussed.</p>
-</quote>
-<p/>
-<p>A Guide to the Study of our Common Birds. With 75 full-page uncolored plates and 25 drawings in
-the text, by <hi>Ernest Seton Thompson</hi>. Library Edition. 12mo. Cloth, $1.75.</p>
-<p>, with lithographic plates in colors. 8vo. Cloth, $5.00.</p>
-<p>. Same as Library Edition, but containing an Appendix with new matter designed for the use of
-teachers, and including lists of birds for each month of the year. 12mo. Cloth, $2.00.</p>
-<p>. To accompany Portfolios of Colored Plates of Bird-Life. Contains the same text as the Teachers'
-Edition of "Bird-Life," but is without the 75 uncolored plates. Sold only with the Portfolios, as
-follows:</p>
-<p>.—Permanent Residents and Winter Visitants. 32 plates.</p>
-<p>.—March and April Migrants. 34 plates.</p>
-<p>.—May Migrants, Types of Birds' Eggs, Types of Birds' Nests from Photographs from Nature. 34
-plates. Price of Portfolios, each, $1.25; with Manual, $2.00. The three Portfolios with Manual,
-$4.00.</p>
-<p/>
-<p>With nearly 200 Illustrations. 12mo. Library Edition, cloth, $3.00; Pocket Edition, flexible
-morocco, $3.50.</p>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>
-<p>By ELLEN THORNEYCROFT FOWLER.</p>
-<p> 12mo. Cloth, $1.50.</p>
-<p>"Even more gay, clever, and bright than 'Concerning Isabel Carnaby.'"—<hi>Boston Herald.</hi></p>
-<p>"Abounds in excellent character study and brilliant dialogue."—<hi>New York Commercial
-Advertiser.</hi></p>
-<p>"Crowded with interesting people. One of the most enjoyable stories of the
-season."—<hi>Philadelphia Inquirer.</hi></p>
-<p>"Brilliant and witty. Shows fine insight into character."—<hi>Minneapolis Journal.</hi></p>
-<p>"'A Double Thread' is that rare visitor—a novel to be recommended without reserve."—<hi>London
-Literary World.</hi></p>
-<p> New edition. With Portrait and Biographical Sketch. Cloth, $1.50.</p>
-<p>"Rarely does one find such a charming combination of wit and tenderness, of brilliancy and
-reverence for the things that matter, as is concealed within the covers of 'Concerning Isabel
-Carnaby.' It is bright without being flippant, tender without being mawkish, and as joyous and as
-wholesome as sunshine. The characters are closely studied and clearly limned, and they are created
-by one who knows human nature.... It would be hard to find its superior for all around
-excellence.... No one who reads it will regret it or forget it."—<hi>Chicago Tribune.</hi></p>
-<p>"For brilliant conversations, bits of philosophy, keenness of wit, and full insight into human
-nature, 'Concerning Isabel Carnaby' is a remarkable success."—<hi>Boston Transcript.</hi></p>
-<p>D. APPLETON AND COMPANY, NEW YORK.</p>-->
+
 
 </text>
 </TEI>

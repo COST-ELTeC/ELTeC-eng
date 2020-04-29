@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xml:id="ENG19192" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ENG19192" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,7 +36,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -46,7 +44,7 @@
             <change when="2020-04-12">LB prepared first version</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="T4FLH">
         <front>
             <div type="titlepage">
                 <p>NIGHT AND DAY</p>

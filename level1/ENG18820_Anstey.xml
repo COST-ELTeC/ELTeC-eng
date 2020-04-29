@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18820">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18820">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -15,7 +12,7 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">93483</measure><measure unit="pages">283</measure></extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-09--></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of Vice Versa, by F. Anstey </title>
 <respStmt>
 <resp>Original data capture</resp>
@@ -33,7 +30,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
@@ -41,7 +38,7 @@
 <change when="2019-01-09">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
-<text>
+<text type="T3MMU">
 <front>
 <div type="titlepage">
 <p>VICE VERSÂ</p>
@@ -50,12 +47,7 @@
 <p>BY F. ANSTEY</p>
 <p>LONDON</p>
 </div>
-<!--h4 xmlns="http://www.w3.org/1999/xhtml">JOHN MURRAY, ALBEMARLE STREET, W.</h4>
-<p> </p>
-<p> </p>
-<h4 xmlns="http://www.w3.org/1999/xhtml">PRINTED IN GREAT BRITAIN BY LOWE AND BRYDONE (PRINTERS)
-LIMITED, LONDON, N.W.10</h4>
-</div>-->
+
 <div type="liminal">
 <head>PREFACE</head>
 <p>There is an old story of a punctiliously polite Greek, who, while performing the funeral of an

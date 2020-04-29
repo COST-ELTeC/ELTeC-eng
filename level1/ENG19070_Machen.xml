@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19070" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19070" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +21,7 @@
                 <measure unit="words">65739</measure>
                 <measure unit="pages">309</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
             <sourceDesc><bibl type="digitalSource">
                     <title>The Project Gutenberg eBook The Hill of Dreams,</title>
                     <author>Arthur Machen</author>
@@ -40,29 +37,16 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <!-- <p> by </p>
-            <p>This eBook is for the use of anyone anywhere
-                at no cost and with almost no restrictions whatsoever. You may copy it, give it away
-                or re-use it under the terms of the Project Gutenberg License included with this
-                eBook or online at www.gutenberg.net</p>
-            <p>Title: The Hill of Dreams</p>
-            <p>Author: Arthur Machen</p>
-            <p>Release Date: November 7, 2004 [eBook #13969] [This file last
-                updated on January 29, 2011]</p>
-            <p>Language: English</p>
-            <p>***START OF THE PROJECT GUTENBERG EBOOK THE
-                HILL OF DREAMS***</p>
-           
-     -->
+        
         <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-11-02">LB added header</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="T4MMU">
         <front>
             <div type="titlepage">
                 <p>The Hill of Dreams</p>

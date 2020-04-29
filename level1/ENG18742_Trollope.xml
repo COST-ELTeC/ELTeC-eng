@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd"
-     xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -42,7 +40,7 @@
                <change when="2020-04-28">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T2MSL">
           <front><div type="titlepage">
                <p>HARRY HEATHCOTE OF GANGOIL</p>
                <p>A Tale of Australian Bush-Life</p>          

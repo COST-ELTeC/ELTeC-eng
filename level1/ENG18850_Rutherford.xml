@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18850"
-     xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18850" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -11,8 +9,7 @@
                          <name>Lou Burnard</name>
                     </respStmt>
                </titleStmt>
-               <extent><measure unit="words">38448</measure><measure unit="pages"
-                    >159</measure><!-- page count from WorldCat, for 1913 ed --></extent>
+               <extent><measure unit="words">38448</measure><measure unit="pages">159</measure></extent>
                <publicationStmt>
                     <p>Published as part of ELTeC <date>2020-04-28</date></p>
                </publicationStmt>
@@ -25,11 +22,11 @@
                     <bibl type="firstEdition" n="B10306"><title>Mark Rutherford's
                               Deliverance: being the Second Part of his Autobiography. Edited by his friend, Reuben Shapcote.</title>
                     <publisher>London: Trübner and Co., Ludgate Hill</publisher><date>1885</date></bibl>
-                    <bibl type="printSource" >
+                    <bibl type="printSource">
                          <title>Mark Rutherford's Deliverance</title>
                          <publisher>Hodder and Stoughton</publisher>
                          <date>1913</date>
-                         <!-- derives from 1888 2nd edition ; liminal matter omitted -->
+                         
                     </bibl>
                </sourceDesc>
           </fileDesc>
@@ -51,7 +48,7 @@
                <change when="2020-04-28">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T3MSH">
           <body>
                <div type="titlepage">
                      <p>MARK RUTHERFORD’S DELIVERANCE</p>

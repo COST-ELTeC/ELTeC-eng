@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
       schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-      schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19002"  xml:lang="en">
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19002" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -36,7 +34,7 @@
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
    </textDesc>
   </profileDesc>
@@ -44,7 +42,7 @@
    <change when="2020-03-18">LB convert to ELTeC-1</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="T4MML">
   <front>
    <div type="titlepage">
     <head>THE RED CHANCELLOR</head>
@@ -77,8 +75,7 @@
     <p>“We have not forgotten”, another said, “the case of poor Steiner”.</p>
     <p>I saw they were not inclined to run risks by discussing State secrets under the very
      walls of the palace, so postponed the gratification of my curiosity until I should get Von
-     Lindheim alone in my rooms or his house. We four had slipped out into the <pb n="6"
-     />gardens, to snatch ten minutes for a cigarette from the rather dreary formality of a
+     Lindheim alone in my rooms or his house. We four had slipped out into the <pb n="6"/>gardens, to snatch ten minutes for a cigarette from the rather dreary formality of a
      State ball at the palace of Buyda. My three companions were guests in their official
      capacities, being attached to the bureau of the world-known Chancellor Rallenstein; I,
      Jasper Tyrrell, a mere traveller, through the friendly offices of Von Lindheim, to whom I
@@ -554,8 +551,7 @@
      half-closed window at the farther end. It was all so peculiar that my curiosity made me
      step forward and look through the window. A glance explained it. The little apartment
      overlooked the great ball-room where we had danced that evening, now in darkness save for
-     the rays of a brilliant moon which streamed in full radiance through the row of <pb n="27"
-     />windows on the opposite side, and for one other light. A pair of candles in a massive
+     the rays of a brilliant moon which streamed in full radiance through the row of <pb n="27"/>windows on the opposite side, and for one other light. A pair of candles in a massive
      silver holder were placed on a console table, and showed me an extraordinary scene. Two
      men standing in a recess by a window facing one another, and one pointing a pistol at his
      companion’s breast. The light falling on the polished barrel showed it clearly and made me
@@ -575,8 +571,7 @@
      threw up his hands with a gesture of despair, and, turning almost with a stagger to the
      wall, leaned against it with his head on his arm. The other never let the pistol drop—it
      was still pitilessly pointed at the Rittmeister. Then I realized that something serious
-     was in progress. My idea was that the smaller man was trying to extort something <pb
-      n="28"/>from Von Orsova, having got him at a disadvantage. But I was wrong, at least in
+     was in progress. My idea was that the smaller man was trying to extort something <pb n="28"/>from Von Orsova, having got him at a disadvantage. But I was wrong, at least in
      that my speculation did not go far enough.</p>
     <p>After a few seconds Von Orsova turned again, facing the man and throwing out his hand in
      desperation.</p>
@@ -702,8 +697,7 @@
      phlegmatically assured me that the matter should be looked into, and bowed me out.</p>
     <p>Having changed my clothes, I went on to Von Lindheim’s. He had not returned home,
      although it was past his usual hour, but shortly after my arrival he made his appearance.
-     He seemed in better spirits, and I was glad to notice that the cloud of the <pb n="34"
-     />previous evening had passed away. He had been detained at the Chancellerie, he said, by
+     He seemed in better spirits, and I was glad to notice that the cloud of the <pb n="34"/>previous evening had passed away. He had been detained at the Chancellerie, he said, by
      extra work; D’Urban was away, whether on leave or through illness he had not been able to
      find out.</p>
     <p>“It was rather hard on me”, Von Lindheim said, “but I had to stay over a stupid protocol,
@@ -824,8 +818,7 @@
      certainly interesting.</p>
     <p>He had a mass of straight chestnut hair brushed back from a high narrow forehead and
      falling in a thick even wall over the back of his head. His eyes were dark and alert, set
-     a trifle too close together, his nose was long and thin, and his mouth drawn back by <pb
-      n="39"/>what seemed an habitual muscular contraction into a set grin, making a straight
+     a trifle too close together, his nose was long and thin, and his mouth drawn back by <pb n="39"/>what seemed an habitual muscular contraction into a set grin, making a straight
      slit across his face in no way hidden by the small reddish moustache which was turned
      upwards well away from it. No doubt he, too, recognized me; however, he gave no sign of
      it, only made me a courtly bow with a few murmured words of compliment. I turned again as
@@ -909,8 +902,7 @@
     <p>And this is what I saw.</p>
     <p>A peculiar, furtive action on the part of the Count caught my eye. He was leaning his
      left arm on the sideboard, presumably to screen from Von Lindheim what he did with his
-     right. This hand moved quickly to an empty glass close by, and, resting over it, <pb
-      n="43"/>tilted, as though pouring something into it. What the hand held I could not see.
+     right. This hand moved quickly to an empty glass close by, and, resting over it, <pb n="43"/>tilted, as though pouring something into it. What the hand held I could not see.
      Had not my mind been full of murder and sudden death, or had the act been done less
      stealthily I should perhaps have thought little of it; many a man doctors his drink
      against gout or some other chronic ailment. Even here a doubt was in my mind; although I
@@ -1201,8 +1193,7 @@
      the case.</p>
     <p>Presently he bustled off to prepare a draught. I offered to accompany him to his house,
      and hurry back with the potion, so that it might be given without delay. As I opened the
-     door to go out a young fellow came up, an officer by his uniform, and asked <pb n="56"
-     />for Von Lindheim. I guessed at once that he was the second of the fire-eating Captain de
+     door to go out a young fellow came up, an officer by his uniform, and asked <pb n="56"/>for Von Lindheim. I guessed at once that he was the second of the fire-eating Captain de
      Hayn, and rejoiced that he had arrived at that moment.</p>
     <p>I saluted him punctiliously. “Herr von Lindheim has, I regret to say, been taken ill,
      dangerously ill. It is impossible for you to see him”.</p>
@@ -1435,8 +1426,7 @@
      looked for we all were certain. If there was one quality which in Chancellor Rallenstein
      was distinguished above another, it was tenacity of purpose. To him a temporary baffling
      was but a provocative; the slightest hint of opposition at once banished all hesitation.
-     So we had every reason to feel sure that he would draw the net round us. Still, <pb n="67"
-     />life was strong in the two marked victims, and the longer we could put off the stroke
+     So we had every reason to feel sure that he would draw the net round us. Still, <pb n="67"/>life was strong in the two marked victims, and the longer we could put off the stroke
      the more chance there might be of fate coming to our rescue. Nothing but that, they felt.
      Help from outside it was vain to look for. For in that small independent State the supreme
      power, that is, of the Chancellor, was a law unto itself. His authority was boundless and
@@ -1980,8 +1970,7 @@
      breaker of stones on the roadside—a proverbially unexciting employment.</p>
     <p>Anyhow, my work was not so absorbing but that my mind had room for other thoughts.
      Presently, in the midst of my hammering, it occurred to me—what if this setting me at
-     stone-cracking should be but a trick to get me out of the way, and so leave the <pb n="93"
-     />two men at Schönvalhof defenceless? At the bare thought, I threw down my hammer, and had
+     stone-cracking should be but a trick to get me out of the way, and so leave the <pb n="93"/>two men at Schönvalhof defenceless? At the bare thought, I threw down my hammer, and had
      already run a considerable way down the sloping shelf, when the idea succeeded that I ran
      the risk of making a fool of myself. I stopped and listened. The sharp tap of the
      Professor’s hammer from beyond the next bluff reassured me. About to return to my task, I
@@ -2617,8 +2606,7 @@
      Fräulein von Winterstein, and whether the body had been found.</p>
     <p>“No”, he said, “although they are searching the river for miles. But the task is not so
      easy, mein Herr. There are known to be great rocks in that part of the river’s bed—the
-     country is rocky there—and what so likely as that the poor lady, falling from <pb n="121"
-     />that height, never rose again, but was swept by the strong current under one of those
+     country is rocky there—and what so likely as that the poor lady, falling from <pb n="121"/>that height, never rose again, but was swept by the strong current under one of those
      rocks, where she may lie till the Day of Judgment. Well, it is a mystery we cannot
      understand—the chances of life and death. A greatly admired lady, mein Herr, young,
      beautiful, with a long and happy life before her, as we might think, one hour, and in the
@@ -3147,8 +3135,7 @@
      the aid of a tree, I climbed over the high wall and went cautiously through the wood
      leading down to the water. Happily, for my presence in the wood was risky, the distance
      was short, and when once I got sight of the Monastery, and could take my bearings from the
-     little door, I had no difficulty in finding what I sought. The raised mass of earth <pb
-      n="146"/>spread with pine needles was there; the hurdles, covered in like manner, were
+     little door, I had no difficulty in finding what I sought. The raised mass of earth <pb n="146"/>spread with pine needles was there; the hurdles, covered in like manner, were
      in position. I lifted one and looked down with a shudder into what it covered. A grave,
      without doubt, though empty as yet. The place was evidently untouched since the men left
      it overnight. That was all I had come to see; so far I was satisfied, and having replaced
@@ -3169,8 +3156,7 @@
      even her parents could have a valid protest against it.</p>
     <p>The walk into Carlzig took us, perhaps, two hours. It was through a picturesquely wild
      country, which, however, seemed to me that day dreary and gloomy in the extreme. Until
-     within a mile or two of the town we saw scarcely a living soul; no fitter locality <pb
-      n="147"/>for the Hostel of St. Tranquillin (as we were told the Monastery was named)
+     within a mile or two of the town we saw scarcely a living soul; no fitter locality <pb n="147"/>for the Hostel of St. Tranquillin (as we were told the Monastery was named)
      could have been chosen.</p>
     <p>Carlzig we found a fair-sized town, duller even than such places at midday usually are.
      We looked up and claimed our baggage, and arranged for a carriage to drive back with it.
@@ -3930,8 +3916,7 @@
      take what small chance of escape was left to me. To rescue Asta von Winterstein that
      night, even if I had known where to find her, was out of the question. I set my teeth in
      grim disappointment and ran down the stairs again. To escape now by the front entrance was
-     impossible; a flash of light told me the men were at the head of the stairs. But <pb
-      n="184"/>I had in my late search found and carefully noted the position of the postern
+     impossible; a flash of light told me the men were at the head of the stairs. But <pb n="184"/>I had in my late search found and carefully noted the position of the postern
      door. This was led to by a short narrow passage opening out of another running at right
      angles across the end of the great hall. For this I made, finding it again without
      difficulty.</p>
@@ -3953,8 +3938,7 @@
      shudder even now in the writing. To my great relief the key grated in the lock, it turned,
      the door opened, and, just as a light flashed into the passage and a man’s shout
      proclaimed he had discovered me, I sprang from my crouching attitude behind the door upon
-     the astonished incomer, dealt him a smashing blow in the face, knocking him <pb n="185"
-     />backwards down the steps into the moat, plunged in myself and began to swim my hardest,
+     the astonished incomer, dealt him a smashing blow in the face, knocking him <pb n="185"/>backwards down the steps into the moat, plunged in myself and began to swim my hardest,
      keeping along in the dark shadow of the walls.</p>
     <p>I did not swim far thus, knowing they would pursue me in the boat, but after going a
      short distance, struck across to land. Luckily the night was dark with a drizzling rain,
@@ -4291,8 +4275,7 @@
      and degradation, you wouldn’t wonder that the excitement of a business like this is like
      brandy to a knocked-out man. I was thinking I’d have soon to get up a shine on my own
      account, but this will suit me far better; we have the merit of a decent action at our
-     backs and are not a pair of idiots joining in a scrimmage out of sheer <pb n="202"
-     />devilry. Why, hang it! man, there’s a touch of the old-time chivalry about the racket,
+     backs and are not a pair of idiots joining in a scrimmage out of sheer <pb n="202"/>devilry. Why, hang it! man, there’s a touch of the old-time chivalry about the racket,
      with brainwork thrown in. Yes; I’m your man, to see you through this little frolic, and be
      thankful for the chance”.</p>
     <p>We talked over the plan I had laid and the necessary preparations. The delay kept me in a
@@ -5214,8 +5197,7 @@
      You talk to me of—ah! you——!”</p>
     <p>He had suddenly stooped and made a desperate rush at me. Perhaps he saw that I was
      working myself up to do what I should have done long before. No doubt my vehemence had
-     relaxed my alertness. His move was a clever one, for in his stooping position, <pb n="246"
-     />he offered a much worse mark for a shot, and greatly reduced the certainty of a mortal
+     relaxed my alertness. His move was a clever one, for in his stooping position, <pb n="246"/>he offered a much worse mark for a shot, and greatly reduced the certainty of a mortal
      wound. In that one fierce crouching spring he was upon me and at close quarters, while my
      advantage was almost gone. I must have fired, but have no recollection of the shot. I only
      know that each seized the other’s right wrist with the left hand. So he was safe from my
@@ -5261,8 +5243,7 @@
      possession of the instrument, flung it to the farther end of the room.</p>
     <p>The Count now lay absolutely still, except for his heaving chest. Suspicious of his
      further power for mischief I began to feel for any weapon he might have about him. There
-     was a revolver in a pocket of his coat. I took it out, and then drew a little away, <pb
-      n="248"/>contenting myself with watching keenly for any suspicious movement.</p>
+     was a revolver in a pocket of his coat. I took it out, and then drew a little away, <pb n="248"/>contenting myself with watching keenly for any suspicious movement.</p>
     <p>He lay quite passive on the table just as I had forced him down: on his back with his
      legs dangling, his feet scarcely touching the floor. It seemed as though all the fight was
      beaten out of him. The situation was a hideous one for me, and I began to speculate how
@@ -5332,154 +5313,7 @@
      supreme happiness to me.</p>
     <trailer>THE END</trailer>
    </div>
-  </body><!--
-  <back>
-   <div type="advertisements">
-    <head> WARD, LOCK &amp; CO.’S Sevenpenny Net Novels</head>
-    <p><hi>Cloth Gilt. With frontispiece, and attractive coloured wrapper, 7d. net.</hi></p>
-    <p>Fiction-lovers have welcomed the appearance in this dainty and attractive form of some of
-     the best work of leading modern novelists. All the stories included are copyright and of
-     proved popularity. The type is large and readable, and the neat cloth binding renders the
-     volumes worthy of permanent preservation. </p>
-    <p>THE GARDEN OF LIES.</p>
-    <p><hi>By JUSTUS MILES FORMAN.</hi></p>
-    <p>The novel with which Mr. Forman attained popularity. A real romance, full of vigour,
-     passion and charm.</p>
-    <p/>
-    <p>ANNA, THE ADVENTURESS.</p>
-    <p><hi>By E. PHILLIPS OPPENHEIM.</hi></p>
-    <p>Mr. Oppenheim excels himself in this story, which has been the most successful of all his
-     novels.</p>
-    <p/>
-    <p>RAINBOW ISLAND.</p>
-    <p><hi>By LOUIS TRACY.</hi></p>
-    <p>“Should be hailed with joyous shouts of welcome”.—<hi>The Literary World.</hi></p>
-    <p/>
-    <p>THE IMPOSTOR.</p>
-    <p><hi>By HAROLD BINDLOSS.</hi></p>
-    <p>Will live and always rank as its author’s most powerful and engrossing work.</p>
-    <p/>
-    <p>THE DUST OF CONFLICT.</p>
-    <p><hi>By HAROLD BINDLOSS.</hi></p>
-    <p>Another excellent story of adventure comparable to its Author’s great success “The
-     Impostor”.</p>
-    <p/>
-    <p>TWO BAD BLUE EYES.</p>
-    <p><hi>By “RITA”.</hi></p>
-    <p>A delightfully charming and exciting story of strong human interest.</p>
-    <p/>
-    <p>MR. WINGRAVE, MILLIONAIRE.</p>
-    <p><hi>By E. P. OPPENHEIM.</hi></p>
-    <p>A rattling good novel of remarkable power and fascination.</p>
-    <p/>
-    <p>THE CORNER HOUSE.</p>
-    <p><hi>By FRED M. WHITE.</hi></p>
-    <p>Crammed with sensation and mystery—an excellent romance that will be eagerly read.</p>
-    <p/>
-    <p>IN STRANGE COMPANY.</p>
-    <p><hi>By GUY BOOTHBY.</hi></p>
-    <p>A capital novel of the sensational-adventurous order.</p>
-    <p/>
-    <p>THE SPORTING CHANCE.</p>
-    <p><hi>By A. &amp; C. ASKEW.</hi></p>
-    <p>A bright and alluring story that is well worth reading.</p>
-    <p/>
-    <p>THE GOLD WOLF.</p>
-    <p><hi>By MAX PEMBERTON.</hi></p>
-    <p>Throbbing with interest and excitement from start to finish.</p>
-    <p/>
-    <p>THE BEAUTIFUL WHITE DEVIL.</p>
-    <p><hi>By GUY BOOTHBY.</hi></p>
-    <p>A more exciting romance no man could reasonably ask for.</p>
-    <p/>
-    <p>WHEN I WAS CZAR.</p>
-    <p><hi>By A. W. MARCHMONT.</hi></p>
-    <p>A really brilliant novel, full of dramatic incident and smart dialogue.</p>
-    <p/>
-    <p>THE CRIMSON BLIND.</p>
-    <p><hi>By FRED M. WHITE.</hi></p>
-    <p>One of the most ingeniously conceived detective stories ever written.</p>
-    <p/>
-    <p>THE LODESTAR.</p>
-    <p><hi>By MAX PEMBERTON.</hi></p>
-    <p>A fine and distinguished romance.</p>
-    <p/>
-    <p>IN WHITE RAIMENT.</p>
-    <p><hi>By WILLIAM LE QUEUX.</hi></p>
-    <p>Absolutely the most puzzling and enthralling of Mr. Le Queux’s many popular romances.</p>
-    <p/>
-    <p>NOT PROVEN.</p>
-    <p><hi>By ALICE AND CLAUDE ASKEW.</hi></p>
-    <p>The finest emotional and entertaining story these authors have written.</p>
-    <p/>
-    <p>YOUNG LORD STRANLEIGH.</p>
-    <p><hi>By ROBERT BARR.</hi></p>
-    <p>“The most amusing and at the same time the most exciting novel of the
-      year”.—<hi>Manchester Courier.</hi></p>
-    <p/>
-    <p>THE MOTHER.</p>
-    <p><hi>By EDEN PHILLPOTTS.</hi></p>
-    <p>“This is Mr. Phillpotts’ best book”, said <hi>The Daily Telegraph</hi>.</p>
-    <p/>
-    <p>A STUDY IN SCARLET. (The first book about Sherlock Holmes.)</p>
-    <p><hi>By A. CONAN DOYLE.</hi></p>
-    <p>“One of the cleverest and best detective stories we have seen”.—<hi>London Quarterly
-      Review.</hi></p>
-    <p/>
-    <p>A MAKER OF HISTORY.</p>
-    <p><hi>By E. PHILLIPS OPPENHEIM.</hi></p>
-    <p>Mr. Oppenheim’s skill has never been displayed to better advantage.</p>
-    <p/>
-    <p>BUCHANAN’S WIFE.</p>
-    <p><hi>By JUSTUS M. FORMAN.</hi></p>
-    <p>A thoroughly fine book from start to finish.</p>
-    <p/>
-    <p>THE PILLAR OF LIGHT.</p>
-    <p><hi>By LOUIS TRACY.</hi></p>
-    <p>A wonderfully fascinating and breathlessly exciting story, told in Mr. Tracy’s best
-     style.</p>
-    <p/>
-    <p>A BID FOR FORTUNE.</p>
-    <p><hi>By GUY BOOTHBY.</hi></p>
-    <p>The first and best of all the exciting adventures of Dr. Nikola.</p>
-    <p/>
-    <p>THE DAY OF TEMPTATION.</p>
-    <p><hi>By WILLIAM LE QUEUX.</hi></p>
-    <p>An enthralling mystery tale.</p>
-    <p/>
-    <p>THE SECRET.</p>
-    <p><hi>By E. PHILLIPS OPPENHEIM.</hi></p>
-    <p>“One of the most engrossing stories we have read”.—<hi>Daily Telegraph.</hi></p>
-    <p/>
-    <p>A DAMAGED REPUTATION.</p>
-    <p><hi>By HAROLD BINDLOSS.</hi></p>
-    <p>“Once more we repeat that Mr. Bindloss has stepped into the shoes of the late Seton
-      Merriman”.—<hi>Daily Mail.</hi></p>
-    <p/>
-    <p>THE SOUL OF GOLD.</p>
-    <p><hi>By JUSTUS MILES FORMAN.</hi></p>
-    <p>This story has been acclaimed by <hi>The Daily Telegraph</hi> as worthy of much praise
-     and cleverly worked out.</p>
-    <p/>
-    <p>THE MARRIAGE OF ESTHER.</p>
-    <p><hi>By GUY BOOTHBY.</hi></p>
-    <p>A story full of action, life, and dramatic interest.</p>
-    <p/>
-    <p>LADY BARBARITY.</p>
-    <p><hi>By J. C. SNAITH.</hi></p>
-    <p>“‘Lady Barbarity’ would cheer a pessimist in a November fog”.—<hi>Black &amp;
-     White.</hi></p>
-    <p/>
-    <p>BY WIT OF WOMAN.</p>
-    <p><hi>By A. W. MARCHMONT.</hi></p>
-    <p>The ingenuity of this exciting story positively takes one’s breath away.</p>
-   </div>
-   </back>
-   
-   <p>Transcriber’s Notes</p>
-   
-   <p>Minor changes have been made to correct printer’s errors and to
-    regularize hyphenation.</p>-->
+  </body>
   
  </text>
 </TEI>

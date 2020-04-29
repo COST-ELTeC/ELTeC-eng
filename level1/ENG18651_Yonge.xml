@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18651">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18651">
         <teiHeader>
                 <fileDesc>
                         <titleStmt>
@@ -21,27 +18,22 @@
                         <publicationStmt>
                                 <publisher ref="https://distant-reading.net">COST Action "Distant
                                         Reading for European Literary History" (CA16204)</publisher>
-                                <distributor ref="https://zenodo.org/communities/eltec/"
-                                        >Zenodo.org</distributor>
+                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                 <date when="2019-11-09"/>
                                 <availability>
-                                        <licence
-                                                target="https://creativecommons.org/licenses/by/4.0/"
-                                        />
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                 </availability>
                                 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                                <!--Published as part of ELTeC 2019-01-17-->
+                                
                         </publicationStmt>
                         <sourceDesc>
                                 <bibl type="digitalSource"><title>The Clever Woman of the Family, by
-                                                Charlotte M. Yonge</title><ref target="gut:3292"
-                                                >Gutenberg</ref><respStmt>
+                                                Charlotte M. Yonge</title><ref target="gut:3292">Gutenberg</ref><respStmt>
                                                 <resp>Data capture</resp>
                                                 <name>Produced by Sandra Laythorpe, and David
                                                   Widger</name>
                                         </respStmt>
-                                        <!--<p>From the 1880 edition published by MacMillan and Co., London.
-italics not captured </p>-->
+                                        
                                 </bibl>
                                 <bibl type="printSource" n="B5540"><title>The Clever Woman of the
                                                 Family</title><author>Yonge, Charlotte Mary
@@ -60,7 +52,7 @@ italics not captured </p>-->
                         <textDesc>
                                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
                         </textDesc>
                 </profileDesc>
@@ -69,7 +61,7 @@ italics not captured </p>-->
                         <change when="2019-01-17">LB convert to ELTeC-1</change>
                 </revisionDesc>
         </teiHeader>
-        <text>
+        <text type="T2FLL">
                 <front>
                         <div type="titlepage">
                                 <p> THE CLEVER WOMAN OF THE FAMILY</p>
@@ -79,7 +71,7 @@ italics not captured </p>-->
                                 <p>London and Cambridge:</p>
                                 <p>Macmillan and co.</p>
                                 <p>1865</p>
-                                <!-- highlighting lost -->
+                                
                         </div>
                 </front>
                 <body>

@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- $Id: header.txt 236 2009-12-07 18:57:00Z vlsimpson $ -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18700" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18700" xml:lang="en">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -14,7 +11,7 @@
 <extent>
 <measure unit="words">70524</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-12-30--></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of Piccadilly, by Laurence Oliphant</title>
 <respStmt>
 <resp>HTML transcription</resp>
@@ -35,7 +32,7 @@ Distributed Proofreading Team at http://www.pgdp.net</name>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
@@ -43,7 +40,7 @@ Distributed Proofreading Team at http://www.pgdp.net</name>
 <change when="2018-12-30">LB made header</change>
 </revisionDesc>
 </teiHeader>
-<text>
+<text type="T2MMU">
 
 
 <front><div type="titlepage">
@@ -584,12 +581,7 @@ deeper tone than usual. "In your own interest, wait till you know a little more 
 <p>"Not another day! Good-night!" and I turned from him abruptly.</p>
 <p>"I'll put myself out of suspense to-morrow, and keep the public in it for a month," thought I, as
 I penned the above for their benefit, after which I indulged in two hours of troubled sleep.</p>
-</div><!--<gap unit="graphic"
-n="illus3.jpg"
-/></p>
 </div>
-<div>
-<head><anchor xml:id="PART_II"/></head>-->
 <div type="chapter">
 <head>PART II.</head><head>MADNESS.</head>
 <p><hi rend="smcap">Flityville</hi>, <hi rend="italic">March 20</hi>.
@@ -1302,13 +1294,7 @@ time, I thought, to venture upon that very delicate ground when I get his reply.
 destined never to receive, and the questions I had propounded are likely to remain unanswered, for
 on the very next day I received the following telegram from Lady Broadhem:—</p>
 <quote><p>"Your immediate presence here is absolutely necessary. Delay will be fatal.</p><p>"<hi rend="smcap">Mary Broadhem.</hi></p><p>"<hi rend="smcap">Grosvenor Square</hi>, <hi rend="italic">20th March</hi>."</p></quote></div>
-<!--<p><gap unit="graphic"
-n="illus4.jpg"
-/></p>
-</div>
-</div>
-<div type="chapter">
-<head><anchor xml:id="PART_III"/></head>-->
+
 <div type="chapter">
 <head>PART III. </head><head>SUICIDE.</head>
 <p><hi rend="smcap">Piccadilly</hi>, <hi rend="italic">April</hi>.

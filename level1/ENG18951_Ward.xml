@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18951" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18951" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -31,7 +28,7 @@
                 <measure unit="words">23459</measure>
                 <measure unit="pages">140</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
             <sourceDesc><bibl type="digitalSource"><title>The Story of Bessie Costrell : VWWP edition </title><author>Ward,
                         Humphry, Mrs., 1851-1920</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
@@ -49,7 +46,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -66,8 +63,8 @@
             <change when="2009-05-10">#bn: Coverted from P4 to P5</change>
         </revisionDesc>
     </teiHeader>
-    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <front>
+    <text type="T3FSU">
+        <front xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <div type="titlepage">
                 <p> THE STORY OF BESSIE COSTRELL </p>
                 <p>BY MRS. HUMPHRY WARD AUTHOR OF “ROBERT ELSMERE,” “THE HISTORY OF DAVID GRIEVE,”
@@ -77,7 +74,7 @@
                 <p>(All rights reserved.)</p>
             </div>
         </front>
-        <body>
+        <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <pb xml:id="VAB7023-001"/>
             <head>THE STORY OF BESSIE COSTRELL</head>
             <div type="chapter">

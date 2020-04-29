@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18631"
-      xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18631" xml:lang="en">
       <teiHeader>
             <fileDesc>
                   <titleStmt>
@@ -11,15 +9,13 @@
                               <name>Lou Burnard</name>
                         </respStmt>
                   </titleStmt>
-                  <extent><measure unit="words">48020</measure><measure unit="pages"
-                        >222</measure></extent>
+                  <extent><measure unit="words">48020</measure><measure unit="pages">222</measure></extent>
                   <publicationStmt>
                         <p>Published as part of ELTeC <date>2020-04-28</date></p>
                   </publicationStmt>
                   <sourceDesc>
                         <bibl type="digitalSource"><title>The Project Gutenberg eBook of Heart and
-                                    Cross, by Mrs. Oliphant..</title><ref target="gut:53645"
-                                    >Gutenberg</ref>
+                                    Cross, by Mrs. Oliphant..</title><ref target="gut:53645">Gutenberg</ref>
                               <respStmt>
                                     <resp>Produced by </resp>
                                     <name>Chuck Greif and the Online Distributed Proofreading
@@ -49,7 +45,7 @@
                   <change when="2020-04-28">LB convert to ELTeC-1</change>
             </revisionDesc>
       </teiHeader>
-      <text>
+      <text type="T2FSL">
             <front>
                   <div type="titlepage">
                         <gap unit="graphic"/>
@@ -245,8 +241,7 @@
                         <p>“Did you ever see anybody sad about your cousin Bertie?” said I, with a
                               sudden revulsion of feeling and the profoundest interest.</p>
                         <p>“N—no,” said little Derwent. He applied himself after that devoutly to
-                              his bread and jam—there was something not altogether assured in<pb
-                                    n="015"/> the sound of that “N—no.” Derwent could not help
+                              his bread and jam—there was something not altogether assured in<pb n="015"/> the sound of that “N—no.” Derwent could not help
                               having quick eyes—but the child knew sometimes that it was best to
                               hold his tongue.</p>
                         <p>“I should like to know,” said Derwent the elder, laughing, “why Mr.
@@ -365,8 +360,7 @@
                               well-bred, well-looking, and well-dispositioned—the match would be
                               particularly suitable in every way. Dr. Harley’s daughter, had her
                               father and his fortune survived till the present day, would still have
-                              made quite a sensible marriage in accepting the Rector of Hilfont.<pb
-                                    n="021"/> And then the advantage of having her so near!</p>
+                              made quite a sensible marriage in accepting the Rector of Hilfont.<pb n="021"/> And then the advantage of having her so near!</p>
                         <p>I sat in the great window of the breakfast-room, looking over half the
                               county. If I had been a woman of elevated mind or enlightened views, I
                               should have been thinking of all the human wishes and disappointments
@@ -490,8 +484,7 @@
                               to hold a very slippery and precarious footing, and for a few minutes
                               kept itself upright. We two sat looking at this process in a hush of
                               pleased and interested observation. Maurice Harley, with all his
-                              powers and pretensions, could neither have done nor said anything<pb
-                                    n="028"/> which could thus have absorbed us, and I doubt whether
+                              powers and pretensions, could neither have done nor said anything<pb n="028"/> which could thus have absorbed us, and I doubt whether
                               we would have looked at the highest triumphs of art or genius with
                               admiration as complete as that with which we regarded little Derwie
                               setting up the stalk of the bunch of raisins between these little
@@ -596,8 +589,7 @@
                               lovingly in a kiss of greeting! Since her brother, Sir Willoughby, had
                               married, Miss Polly’s habits had changed greatly. She had thrown aside
                               her old brown riding-dress and the stiff man’s hat she used to wear
-                              when she rode with Sir Willoughby. And when her old horse and<pb
-                                    n="034"/> her old groom were old enough to be pensioned off in
+                              when she rode with Sir Willoughby. And when her old horse and<pb n="034"/> her old groom were old enough to be pensioned off in
                               their respective paddock and cottage, Miss Polly set up a
                               pony-carriage, more suitable to her years. Her niece, a young widow of
                               twenty, a poor, little, disconsolate soul, who was all the trouble in
@@ -635,8 +627,7 @@
                               as I thought, without the minutest possible tinge of bitterness
                               answered the persuasions which were addressed to her. She was rather
                               high and grandiloquent altogether on the subject of marriage, looking
-                              on with a half-comic, disapproving spectator observation at<pb n="036"
-                              /> little Clara’s loving tricks to her husband, whom that little
+                              on with a half-comic, disapproving spectator observation at<pb n="036"/> little Clara’s loving tricks to her husband, whom that little
                               matron had no awe of now-a-days, and discoursing more than seemed to
                               me entirely necessary upon the subject. Alice was somewhat inclined to
                               the views of those philosophers (chiefly feminine, it must be
@@ -860,8 +851,7 @@
                               that dear girl? I don’t like when I hear young women talk like that,
                               my dear—it looks to me as if they had something on their mind, you
                               know. Once I thought there might perhaps be something between Bertie
-                              Nugent and Alice—that would have been a very nice match; but<pb
-                                    n="048"/> somehow these nice matches never come about—at least,
+                              Nugent and Alice—that would have been a very nice match; but<pb n="048"/> somehow these nice matches never come about—at least,
                               not without a deal of trouble; and I suppose it was nothing but an old
                               woman’s fancy, Clare.”</p>
                         <p>“I suppose not, indeed,” said I, rather ruefully, looking at that
@@ -1046,8 +1036,7 @@
                               much beloved by them—the young, unmarried woman, gravely cogitating
                               the necessities of her class of age, and feeling much superior to the
                               vanities of love-making, without a single palpitation in her of the
-                              future bride, the possible mother. So, at least, it seemed.<pb n="058"
-                              /></p>
+                              future bride, the possible mother. So, at least, it seemed.<pb n="058"/></p>
                   </div>
                   <div type="chapter">
                         <head>CHAPTER VII.</head>
@@ -1305,8 +1294,7 @@
                               none of us—he wanted only the Siren who was charming the poor boy
                               among such rocks and quicksands as his frail boat had never yet
                               ventured upon. When Miss Reredos addressed herself to Maurice, his
-                              unfortunate brother turned savage looks upon that all-accomplished<pb
-                                    n="072"/> young man. In our first indignation we were all rather
+                              unfortunate brother turned savage looks upon that all-accomplished<pb n="072"/> young man. In our first indignation we were all rather
                               cold to Miss Reredos, and Johnnie, quick-sighted as his infirmities
                               helped to make him, perceived it in a moment, and resented the
                               neglect, which of course he attributed to our envy of her perfections.
@@ -1440,8 +1428,7 @@
                               fortunately was under no temptations of the kind myself. If I had
                               been, I daresay, I should have turned out exactly like my neighbors;
                               but the spectators of a domestic squabble or successful piece of
-                              neighborly oppression and tyranny always see the ludicrous<pb n="079"
-                              /> side of it, and I could understand my lady’s mild malice and
+                              neighborly oppression and tyranny always see the ludicrous<pb n="079"/> side of it, and I could understand my lady’s mild malice and
                               certainty of not being to blame, so well. It appeared that the poor
                               little Emmy, completely overpowered by Lady Greenfield’s neighborly
                               attentions, had in her turn worried her curate, and that the result of
@@ -1605,8 +1592,7 @@
                         <p>“Don’t, Clara! hush!” whispered Alice, looking a little ashamed of this
                               argument.</p>
                         <p>“But why should I hush? Hugh says just the same as Mrs. Crofton—it’s very
-                              provoking—but these active people do not take into consideration<pb
-                                    n="088"/> the troubles of a thoughtful mind, Maurice says.”</p>
+                              provoking—but these active people do not take into consideration<pb n="088"/> the troubles of a thoughtful mind, Maurice says.”</p>
                         <p>“That is very likely,” said I, with a little complacency—“but remember
                               this is all a digression—Alice, will you come to London or will you
                               not?”</p>
@@ -1699,8 +1685,7 @@
                         <p>“Oh, you think I have right feelings,” cried Johnnie, bitterly, “you
                               think I am man enough to know what honor means? That is something, at
                               least. I have been well brought up, haven’t I? Mrs. Crofton,”
-                              continued the unfortunate youth, “you were rather hard upon Maurice<pb
-                                    n="093"/> just now—I heard you, and he deserves it. If I were
+                              continued the unfortunate youth, “you were rather hard upon Maurice<pb n="093"/> just now—I heard you, and he deserves it. If I were
                               like Maurice, I should be ashamed to be as useless as he is. I’m not
                               so useless now, in spite of everything; but you’ll be frank with
                               me—why does Alice speak of keeping house with my mother and
@@ -1798,8 +1783,7 @@
                               Alack, alack! what was to come of it? I sat silent, almost gaping with
                               wonderment at the boy. At last I caught at the idea of asking him what
                               his prospects or intentions were—though without an idea that he had
-                              any prospects, or knew in the least what he was talking about.<pb
-                                    n="098"/></p>
+                              any prospects, or knew in the least what he was talking about.<pb n="098"/></p>
                         <p>“You spoke of income, Johnnie—may I ask what you were thinking of?”</p>
                         <p>Johnnie blushed once more, though after a different fashion; he grew
                               confidential and eager—like himself.</p>
@@ -1818,8 +1802,7 @@
                               you the letter,” added my young author, blushing once more, and
                               putting his hand to his breast-pocket—“I have it here.”</p>
                         <p>And there it was, accordingly, to my intense wonderment—and Johnnie’s
-                              hopes had, however small, an actual foundation. On the book about<pb
-                                    n="099"/> to be published on “the usual terms” the poor boy had
+                              hopes had, however small, an actual foundation. On the book about<pb n="099"/> to be published on “the usual terms” the poor boy had
                               built up his castle. Here he was to bring Miss Reredos to a fairy
                               bower of love and literature—which, alas! I doubted would be very
                               little to that young lady’s taste; but I dared not tell Johnnie
@@ -1837,8 +1820,7 @@
                               Miss Reredos would charm back to his proper comeliness. Alas, poor
                               Johnnie! If his Laura could have wrought that miracle I fear the spell
                               was still impossible, for lack of the love—miraculous magic! the only
-                              talisman which even in a fairy tale can charm the lost beauty back.<pb
-                                    n="100"/></p>
+                              talisman which even in a fairy tale can charm the lost beauty back.<pb n="100"/></p>
                   </div>
                   <div type="chapter">
                         <head>CHAPTER XII.</head>
@@ -1855,8 +1837,7 @@
                               lingering by the great window, startled me by asking for a few
                               minutes’ conversation, “if I was quite at leisure.” I put down my
                               basket with the utmost promptitude. Curiosity, if not courtesy, made
-                              me perfectly at leisure to hear anything he might have to say.<pb
-                                    n="101"/></p>
+                              me perfectly at leisure to hear anything he might have to say.<pb n="101"/></p>
                         <p>“I have undertaken a very foolish office,” said Maurice—“I have had the
                               supreme conceit and presumption of supposing that I could perhaps
                               plead with you, Mrs. Crofton, the cause of a friend.”</p>
@@ -1976,8 +1957,7 @@
                               made out only with difficulty, I think it was, “No more than is
                               true.”</p>
                         <p>And I left him with somewhat uncomfortable feelings. I had not the very
-                              least right to lecture this young man; quite the other way—for<pb
-                                    n="107"/> was not I a woman and an illiterate person, and he
+                              least right to lecture this young man; quite the other way—for<pb n="107"/> was not I a woman and an illiterate person, and he
                               Fellow of his College? I confess I did not feel very self-complacent
                               as I left the room. This third confidential interview, in which I had
                               over-passed the prudent limits of friendliness, did not <hi>feel</hi>
@@ -2234,8 +2214,7 @@
                               in those days. I had little desire to think of the marvellous life to
                               come in which all these problems shall be made clear. I could not cast
                               forward my mind beyond this existence—and the strange inequality
-                              between this boy’s mind and his fate vexed me at the heart.<pb n="121"
-                              /></p>
+                              between this boy’s mind and his fate vexed me at the heart.<pb n="121"/></p>
                         <p>And so, quite quietly and gradually, the time stole on. I heard nothing
                               more from poor Bertie Nugent, in India; he meant to come home, but he
                               had not yet obtained his leave of absence, and it remained quite
@@ -2367,8 +2346,7 @@
                               was little comfort to the mother of a nameless rank-and-file man to
                               hear that another battle had been won, or a successful march made, in
                               which, perhaps, God knows, that undistinguished boy of hers might have
-                              fainted and fallen aside to die. But the common people—God bless<pb
-                                    n="128"/> them!—are more hopeful in their laborious hearts than
+                              fainted and fallen aside to die. But the common people—God bless<pb n="128"/> them!—are more hopeful in their laborious hearts than
                               we who have leisure to think all our anxieties out, and grow sick over
                               them.</p>
                         <p>Derwie flew here and there on his pony, telling the news—possessed with
@@ -2468,8 +2446,7 @@
                               little pieces. There never were such cruel imps. They quite shout with
                               satisfaction when that poor innocent giant, who never did any harm
                               that I can see, tumbles down the beanstalk and gets killed—though I am
-                              sure that impudent little thief Jack deserves it a great deal<pb
-                                    n="133"/> more. But what a memory Derwie has!—and how he
+                              sure that impudent little thief Jack deserves it a great deal<pb n="133"/> more. But what a memory Derwie has!—and how he
                               understands! I am sure, I hope most sincerely that Bertie, after all,
                               will get safe home. Is there any more news?”</p>
                         <p>“No more,” said I, “I have not heard from himself a long time now—and the
@@ -2664,8 +2641,7 @@
                               opinion with Providence now and then. Bertie Nugent, however, has no
                               doubt about it, I am certain. I envy him,” added the young man, with a
                               certain glance at me, as if he expected me to appreciate the change in
-                              his sentiments, and to feel rather complimented that my poor Bertie<pb
-                                    n="143"/> was promoted to the envy of so exalted a
+                              his sentiments, and to feel rather complimented that my poor Bertie<pb n="143"/> was promoted to the envy of so exalted a
                               personage.</p>
                         <p>“I thought Mr. Maurice Harley despised soldiers,” said Miss Reredos,
                               dropping her words slowly out of her mouth, as if with a pleasant
@@ -2716,8 +2692,7 @@
                               of this outlet to her anxieties, and felt as much relief in pouring
                               these anxieties forth upon somebody else’s shoulders as ever.</p>
                         <p>“Ah, Clare!” she said, “you have only one, to be sure, and he’s nobly
-                              provided for; but we’re never so happy, though we don’t think it,<pb
-                                    n="146"/> as when they’re all children. There’s nothing but
+                              provided for; but we’re never so happy, though we don’t think it,<pb n="146"/> as when they’re all children. There’s nothing but
                               measles and such things to frighten one <hi>then</hi>—but
                               <hi>now</hi>!—dear, dear! the charge of all these grown up young
                               people, Clare, is far too much for a poor woman like me. I believe I
@@ -2796,8 +2771,7 @@
                               help feeling that people—her father’s friends, for instance—will blame
                               me.”</p>
                         <p>I found it difficult not to smile at this refinement of maternal anxiety,
-                              but after a while succeeded in soothing the good mother, whose mind<pb
-                                    n="150"/> was evidently eased by the utterance, and persuading
+                              but after a while succeeded in soothing the good mother, whose mind<pb n="150"/> was evidently eased by the utterance, and persuading
                               her that everything would come right. She went away shaking her head,
                               but smiling through her anxious looks. She laid down her burden at my
                               door, and left it there. When she had gone I took up my portion of it
@@ -2861,8 +2835,7 @@
                               it is not absolutely his name and there are such perpetual mistakes by
                               this confounded telegraph. Softly, softly, Clare.”</p>
                         <p>I had seized the dispatch while he was speaking—I read it without saying
-                              a word—did I not know how it would be?—ah, that concise, dreadful,<pb
-                                    n="154"/> murderous word—killed! I knew it the moment I saw
+                              a word—did I not know how it would be?—ah, that concise, dreadful,<pb n="154"/> murderous word—killed! I knew it the moment I saw
                               Derwent’s face.</p>
                         <p>“But, my love, it is not his name—look! it absolutely may be somebody
                               else and not Bertie,” cried my husband.</p>
@@ -2938,8 +2911,7 @@
                               But look here! it is not so much the mistake of name as of rank which
                               weighs with me; military people, you know, are rigid in that respect.
                               Had it been Colonel, I should not have questioned the transposing of
-                              the initials; but see! he is registered as Major even here.”<pb
-                                    n="158"/></p>
+                              the initials; but see! he is registered as Major even here.”<pb n="158"/></p>
                         <p>“Don’t say anything, Derwent,” said I; “let me make up my mind to it. Why
                               should not we have our share of suffering as well as so many others?
                               Do not try to soothe me with a hope which you don’t feel.”</p>
@@ -2958,8 +2930,7 @@
                               soldier that you cry? Then how will you do, mamma, when <hi>I’m</hi> a
                               man?”</p>
                         <p>How should I do? I clasped my son close in my arms and wept aloud. His
-                              father went away from us with a trembling lip, and tears in<pb n="159"
-                              /> his eyes. My heart groaned and exulted over the child, who felt
+                              father went away from us with a trembling lip, and tears in<pb n="159"/> his eyes. My heart groaned and exulted over the child, who felt
                               himself a knight and champion born. Ah! what should I do when he was a
                               man? What would every one do who loved Derwie, if death and danger
                               came in the way of <hi>his</hi> duty? But some such men bear charmed
@@ -3388,8 +3359,7 @@
                         <p>“See what your despised telegraph can do, after all!” cried Derwent,
                               rejoicing with all his honest heart over the news he had brought.</p>
                         <p>“But, ah! if Bertie’s friend had been poor!” said I. “How many souls do
-                              we wring with additional pangs, to have our anxiety dispelled the<pb
-                                    n="181"/> more easily? Think of the news of a battle, with so
+                              we wring with additional pangs, to have our anxiety dispelled the<pb n="181"/> more easily? Think of the news of a battle, with so
                               many killed and wounded—and some dreadful fortnight, or maybe month,
                               to live through before one knows whether one’s own is dead or alive.
                               No, ’tis a cruel earthly Geni, and not a celestial Spirit—it does good
@@ -3408,8 +3378,7 @@
                               house—carried it, as I discovered incidentally, with the rarest and
                               most delicate care for her—rigidly keeping up the fiction of supposing
                               her not to care for it, nor to be specially interested, any more than
-                              for her old playfellow. He was ill at ease himself, and distracted<pb
-                                    n="182"/> with questions no longer of a <hi>dilettante</hi>
+                              for her old playfellow. He was ill at ease himself, and distracted<pb n="182"/> with questions no longer of a <hi>dilettante</hi>
                               kind. In my eyes this increased his kindness all the more.</p>
                         <p>“Yes, we are poor creatures the most of us,” repeated Maurice, when my
                               husband—who did not notice any particular improvement in the Fellow of
@@ -3871,8 +3840,7 @@
                               out” at least three years ago; without a single ornament about her
                               anywhere—her hair braided as plainly as though she had just come
                               down-stairs to make the tea, and superintend the breakfast table—not
-                              even the pretty bouquet of delicate flowers at her breast,<pb n="207"
-                              /> which made so pretty a substitute for jewels on little Kate’s white
+                              even the pretty bouquet of delicate flowers at her breast,<pb n="207"/> which made so pretty a substitute for jewels on little Kate’s white
                               dress—not a bracelet nor a ring—nothing to diversify the entire
                               plainness of her appearance, nor a single sparkle or gleam of
                               reflection on neck, finger, or arm. I confess that I was both annoyed
@@ -3910,8 +3878,7 @@
                               observed by all the party. Alice watched it with a gradual elevation
                               of her head, paling of her cheeks, and look of lofty silent
                               indignation, which was infinitely edifying to me. What had she to do
-                              with it?—she who would not bestow a single glance upon Colonel<pb
-                                    n="209"/> Nugent—who called him perpetually by that ceremonious
+                              with it?—she who would not bestow a single glance upon Colonel<pb n="209"/> Nugent—who called him perpetually by that ceremonious
                               name—who was blind and deaf to all his deprecating looks and allusions
                               to youthful days. If he should flirt or even fall in love with and
                               marry Miss Reredos, what was that to Alice? But, to be sure, most
@@ -4041,8 +4008,7 @@
                               state.</p>
                         <p>She sat by me for half an hour longer, but we did not exchange a dozen
                               words. She said “nothing to nobody” all the remainder of the evening;
-                              she looked just a little cross as well, if the truth must be told.<pb
-                                    n="216"/></p>
+                              she looked just a little cross as well, if the truth must be told.<pb n="216"/></p>
                   </div>
                   <div type="chapter">
                         <head>CHAPTER XXIV.</head>
@@ -4059,8 +4025,7 @@
                         <p>Bertie was to leave us shortly after, to look after the fitting up of his
                               own house—the Estcourt jointure-house, which he was to occupy during
                               my lifetime. It was a very sufficient, comfortable house, and he was
-                              to fit it up according to his own taste. But he was very slow<pb
-                                    n="217"/> to talk of his intentions. Any suggestions which I
+                              to fit it up according to his own taste. But he was very slow<pb n="217"/> to talk of his intentions. Any suggestions which I
                               made to him on the subject he received in silence, or with a confused
                               assent. Good Bertie!—he meant that somebody else should decide these
                               questions for him; and somebody else was so perverse, so

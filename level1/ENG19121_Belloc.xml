@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19121"
-     xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19121" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -12,20 +10,18 @@
                     </respStmt>
                </titleStmt>
                <extent><measure unit="words">87083</measure>
-                    <measure unit="pages"
-                    >316</measure><!-- from hathitrust catalogue entry --></extent>
+                    <measure unit="pages">316</measure></extent>
                <publicationStmt>
                     <p>Published as part of ELTeC <date>2020-03-29</date></p>
                </publicationStmt>
                <sourceDesc>
                     <bibl type="digitalSource"><title>The Project Gutenberg eBook of The Chink In
-                              The Armour, by Mrs. Belloc Lowndes.</title><ref target="gut:16677"
-                              >Gutenberg</ref> Produced by Suzanne Shell, Mary Meehan and the Online
+                              The Armour, by Mrs. Belloc Lowndes.</title><ref target="gut:16677">Gutenberg</ref> Produced by Suzanne Shell, Mary Meehan and the Online
                          Distributed Proofreading Team</bibl>
                     <bibl type="printSource"><title>The Chink In The
                               Armour</title><publisher>Grosset &amp;
                               Dunlap</publisher><date>1912</date></bibl>
-                    <!-- 1st English ed Methuen 1912 -->
+                    
                </sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-1">
@@ -38,7 +34,7 @@
                <textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
                </textDesc>
           </profileDesc>
@@ -46,7 +42,7 @@
                <change when="2020-03-29">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T4FML">
           <front>
                <div type="titlepage">
                     <p>THE CHINK IN THE ARMOUR</p>

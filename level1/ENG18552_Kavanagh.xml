@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18552"
-  xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18552" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +36,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
@@ -48,7 +44,7 @@
       <change when="2020-03-19">LB convert to ELTeC-1</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text type="T1FSL">
     <front>
       <div type="titlepage">
         <p>COLLECTION OF BRITISH AUTHORS.</p>
@@ -95,21 +91,7 @@
        <trailer>LONDON: DECEMBER 1855.</trailer>
     </div></front>
     <body>
-      <!-- <div type="chapter">
-        <p>The Project Gutenberg eBook, Rachel Gray, by Julia Kavanagh</p>
-        <p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions
-          whatsoever. You may copy it, give it away or re-use it under the terms of the Project
-          Gutenberg License included with this eBook or online at www.gutenberg.org</p>
-        <p>Title: Rachel Gray</p>
-        <p>Author: Julia Kavanagh</p>
-        <p>Release Date: May 18, 2011 [eBook #36160]</p>
-        <p>Language: English</p>
-        <p>Character set encoding: ISO-646-US (US-ASCII)</p>
-        <p>***START OF THE PROJECT GUTENBERG EBOOK RACHEL GRAY***</p>
-        <p>Julia Kavanagh (1824-1877), Rachel Gray (1855), 1856 Tauchnitz edition</p>
-        <p>Produced by Daniel FROMONT</p>
-      </div>
-      <div type="chapter">-->
+      
 
 
      

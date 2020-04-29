@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19010" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19010" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -11,7 +8,7 @@
                 <author ref="viaf:89734277">Mason, Alfred Edward Woodley (1865-1948)</author>
             </titleStmt>
             <extent><measure unit="words">89033</measure></extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-11-12--></publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
             <sourceDesc><bibl type="digitalSource">
                     <title>The Project Gutenberg EBook of Clementina</title>
                     <author>A.E.W. Mason</author>                
@@ -37,7 +34,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -45,7 +42,7 @@
             <change when="2018-11-18">LB added header</change>
         </revisionDesc>
     </teiHeader>
-   <text>
+   <text type="T4MML">
     <front> <div type="titlepage">
         <p>Clementina</p>
         <p>By A.E.W. Mason</p>
@@ -1366,8 +1363,7 @@
                 contentment, he drew down the hand beneath the pillow, and in a second was breathing
                 regularly and peacefully.</p>
             <gap unit="graphic"/>
-            <!--"WITH HIS RIGHT ARM HE DROVE HIS HUNTING KNIFE DOWN INTO THE
-BACK OF THE HAND."—Page 69.-->
+            
             <p>The hand crept onto the bed again and upwards, and suddenly lay spread out upon the
                 board and quite still. Just for a second the owner of that hand had been surprised
                 and paralysed by the unexpected. <pb n="69"/> It was only that second which Wogan
@@ -2700,8 +2696,7 @@ BACK OF THE HAND."—Page 69.-->
                 their lips. But there was no crack of thunder overhead, no roar of a slipping
                 world.</p>
             <gap unit="graphic"/>
-            <!--"CHEEK TO CHEEK, SILENT IN THE ROOM, STARING FORWARD WITH EYES
-WIDE OPEN AND HOPEFUL."—Page 136.-->
+            
             <p>The Chevalier was the first to move.</p>
             <p>"But we are children," he cried, starting up. "Is it not strange the very pain which
                 tortures us because we are man and woman should sink us into children? We sit hoping
@@ -3170,8 +3165,7 @@ WIDE OPEN AND HOPEFUL."—Page 136.-->
             <p>The Prince bowed low; Clementina curtsied majestically.</p>
             <pb n="161"/>
             <gap unit="graphic"/>
-            <!--THE PRINCE STRUTTED TO THE WINDOW; CLEMENTINA SOLEMNLY KEPT PACE
-WITH HIM."—Page 161.-->
+            
             <pb n="162"/>
             <p>"Will you give me your hand," said he, "as far as your window?"</p>
             <p>"Certainly, sir, and out of it."</p>

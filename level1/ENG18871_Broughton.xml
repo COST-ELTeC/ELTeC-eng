@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="ENG">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -26,7 +23,7 @@
                 <measure unit="words">136391</measure>
                 <measure unit="pages">464</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
             <sourceDesc><bibl type="digitalSource"><title>Red as a rose is she : VWWP edition </title><author>Broughton, Rhoda,
                         1840-1920</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
@@ -44,7 +41,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -62,8 +59,8 @@
             <change when="2010-04-12">nicholaecline: Began encoding document.</change>
         </revisionDesc>
     </teiHeader>
-    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <front>
+    <text type="T3FLU">
+        <front xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <pb n="[]" xml:id="VAB7385-001"/>
             <div type="liminal">
                 <head rend="center">RED AS A ROSE IS SHE.</head>
@@ -87,7 +84,7 @@
             </div>
             <pb n="[]" xml:id="VAB7385-004"/>
         </front>
-        <body>
+        <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <pb n="[1]" xml:id="VAB7385-005"/>
             <div type="chapter">
                 <head rend="center">CHAPTER I.</head>
@@ -1912,7 +1909,7 @@
                     are."</p>
                 <pb n="70" xml:id="VAB7385-074"/>
                 <milestone unit="section" rend="stars"/>
-                <!--fangfang-->
+                
                 <p>Nine o'clock! The maid-servants are at evening church, combining the double
                     advantage of <hi>making their souls</hi> and meeting their sweethearts. Esther,
                     happily rid of hers, is sitting on the ground at the French window of the study,
@@ -12054,7 +12051,7 @@
                 </trailer>
             </div>
         </body>
-        <back>
+        <back xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <div type="notes">
                 <note xml:id="note_001"><hi>A fact.</hi></note>
                 

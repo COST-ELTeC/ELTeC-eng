@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18702"
-  xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18702" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,8 +14,7 @@
         <p>Published as part of ELTeC <date>2020-04-28</date></p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"><title>Ginx's Baby, by Edward Jenkins</title><ref
-            target="gut:581">Gutenberg</ref>
+        <bibl type="digitalSource"><title>Ginx's Baby, by Edward Jenkins</title><ref target="gut:581">Gutenberg</ref>
           <respStmt>
             <resp>Produced by</resp>
             <name> Charles Keller, and David Widger</name>
@@ -43,7 +40,7 @@
       <change when="2020-04-28">LB convert to ELTeC-1</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text type="T2MSL">
     <body>
       <div type="titlepage">
 

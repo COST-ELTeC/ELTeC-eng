@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18440">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18440">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +24,7 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
         <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-        <!--Published as part of ELTeC 2019-01-07-->
+        
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -64,7 +61,7 @@
       <change when="2019-01-07">LB convert to ELTeC-1</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text type="T1MLU">
     <front><div type="titlepage">
       <p>Coningsby; or The New Generation. By B. Disraeli ... In Three Vols</p>
     </div>
@@ -353,8 +350,7 @@
             <p>They say that all of us have one chance in this life, and so it was with Rigby. After
               a struggle of many years, after a long series of the usual alternatives of small
               successes and small failures, after a few cleverish speeches and a good many cleverish
-              pamphlets, with a considerable reputation indeed for pasquinades, most of which <pb
-                n="22"/> he never wrote, and articles in reviews to which it was whispered he had
+              pamphlets, with a considerable reputation indeed for pasquinades, most of which <pb n="22"/> he never wrote, and articles in reviews to which it was whispered he had
               contributed, Rigby, who had already intrigued himself into a subordinate office, met
               with Lord Monmonth.</p>
             <p>He was just the animal that Lord Monmouth wanted, for Lord Monmouth always looked
@@ -366,8 +362,7 @@
             <p>Mr. Rigby, who liked to be doing a great many things at the same time, and to
               astonish the Tadpoles and the Tapers with his energetic versatility, determined to
               superintend the education of Coningsby. It was a relation which identified him with
-              the noble house of his pupil, or properly speaking, his charge: for Mr. Rigby <pb
-                n="23"/> affected rather the graceful dignity of the governor than the duties of a
+              the noble house of his pupil, or properly speaking, his charge: for Mr. Rigby <pb n="23"/> affected rather the graceful dignity of the governor than the duties of a
               tutor. The boy was recalled from his homely, rural school, where he had been well
               grounded by a hard-working curate, and affectionately tended by the curate's
               unsophisticated wife. He was sent to a fashionable school preparatory to Eton, where
@@ -779,8 +774,7 @@
               inquiries into the ear of the Princess Lucretia. Madame Colonna made remarks
               alternately to two gentlemen, who paid her assiduous court. One of these was Mr.
               Ormsby; the school, the college, and the club crony of Lord Monmouth, who had been his
-              shadow through life; travelled with him in early days, won money with him at <pb
-                n="57"/> play, had been his colleague in the House of Commons; and was still one of
+              shadow through life; travelled with him in early days, won money with him at <pb n="57"/> play, had been his colleague in the House of Commons; and was still one of
               his nominees. Mr. Ormsby was a millionnaire, which Lord Monmouth liked. He liked his
               companions to be very rich or very poor; to be his equals, able to play with him at
               high stakes, or join him in a great speculation; or to be his tools, and to amuse and
@@ -829,8 +823,7 @@
               distinctively to mark the relation that subsisted between them as patron and client.
               It was something to swagger about when they were together after their second bottle of
               claret. Rigby kept his resolution for some years which the frequent and prolonged
-              absence of the Marquess rendered not very difficult. But we are the creatures of <pb
-                n="61"/> circumstances; at least the Rigby race particularly. Lord Monmouth returned
+              absence of the Marquess rendered not very difficult. But we are the creatures of <pb n="61"/> circumstances; at least the Rigby race particularly. Lord Monmouth returned
               to England one year and wanted to be amused. He wanted a jester; a man about him who
               would make him—not laugh for that was impossible, but smile more frequently, tell good
               stories, say good things, and sing now and then, especially French songs. Early in
@@ -1246,8 +1239,7 @@
               had already advanced Coningsby far beyond his age, and made him already looked to as
               the future hero of the school. But Millbank possessed one of those strong industrious
               volitions whose perseverance amounts almost to genius, and nearly attains its results.
-              Though Coningsby was by a year his junior, they were rivals. This circumstance <pb
-                n="96"/> had no tendency to remove the prejudice which Coningsby entertained against
+              Though Coningsby was by a year his junior, they were rivals. This circumstance <pb n="96"/> had no tendency to remove the prejudice which Coningsby entertained against
               him, but its bias on the part of Millbank had a very contrary effect.</p>
             <p>The influence of the individual is nowhere so sensible as at school. There the
               personal qualities strike without any intervening and counteracting causes. A gracious
@@ -1513,8 +1505,7 @@
               was now a duty, a paramount and absorbing tie. The sense of past peril, the rapture of
               escape, a renewed relish for the life so nearly forfeited, a deep sentiment of devout
               gratitude to the Providence that had guarded over him, for Millbank was an eminently
-              religious boy, a thought of home, and the anguish that might have overwhelmed <pb
-                n="116"/> his hearth; all these were powerful and exciting emotions for a young and
+              religious boy, a thought of home, and the anguish that might have overwhelmed <pb n="116"/> his hearth; all these were powerful and exciting emotions for a young and
               fervent mind, in addition to the peculiar source of sensibility on which we have
               already touched. Lord Vere, who lodged in the same house as Millbank, and was sitting
               by his bedside, observed as night fell that his mind wandered.</p>
@@ -1580,8 +1571,7 @@
               disturb his fair self-satisfaction. He had greatly distinguished himself; he had
               conferred on his rival an essential service; and the whole world rang with his
               applause. He began rather to like Millbank; we will not say because Millbank was the
-              unintentional cause of his pleasurable sensations. Really it was that the unusual <pb
-                n="121"/> circumstances had prompted him to a more impartial judgment of his rival's
+              unintentional cause of his pleasurable sensations. Really it was that the unusual <pb n="121"/> circumstances had prompted him to a more impartial judgment of his rival's
               character. In this mood, the day after the visit of Buckhurst and Henry Sydney,
               Coningsby called on Millbank, but finding his medical attendant with him, Coningsby
               availed himself of that excuse for going away without seeing him.</p>
@@ -1699,8 +1689,7 @@
               Wellesley. Music sounded in the quadrangle of the College in which the boys were
               already quickly assembling. The Duke of Wellington had arrived, and the boys were
               cheering a hero who was also an Eton field-marshal. From an oriel window in one of the
-              Provost's rooms, Lord Monmouth, surrounded by every circumstance that could <pb
-                n="131"/> make life delightful, watched with some intentness the scene in the
+              Provost's rooms, Lord Monmouth, surrounded by every circumstance that could <pb n="131"/> make life delightful, watched with some intentness the scene in the
               quadrangle beneath.</p>
             <p>"I would give his fame," said Lord Monmouth; "if I had it, and my wealth—to be
               sixteen."</p>
@@ -1858,8 +1847,7 @@
               plethora of 1834 was not less fatal than the paralytic tenuity of 1841. It was not
               feasible to gratify so many ambitions, or to satisfy so many expectations. Every man
               had his double; the heels of every placeman were dogged by friendly rivals ready to
-              trip them up. There were even two cabinets; the one that met in council, and <pb
-                n="143"/> the one that met in cabal. The consequence of destroying the legitimate
+              trip them up. There were even two cabinets; the one that met in council, and <pb n="143"/> the one that met in cabal. The consequence of destroying the legitimate
               opposition of the country was, that a moiety of the supporters of government had to
               discharge the duties of Opposition.</p>
             <p>Herein then we detect the real cause of all that irregular and unsettled carriage of
@@ -1872,8 +1860,7 @@
             <p>The general election of 1832 abrogated the Parliamentary Opposition of England, which
               had practically existed for more than a century and a half. And what a series of
               equivocal transactions and mortifying adventures did the withdrawal of this salutary
-              restraint entail on the party which then so loudly congratulated themselves <pb
-                n="144"/> and the country, that they were at length relieved from its odious
+              restraint entail on the party which then so loudly congratulated themselves <pb n="144"/> and the country, that they were at length relieved from its odious
               repression! In the hurry of existence one is apt too generally to pass over the
               political history of the times in which we ourselves live. The two years that followed
               the Reform of the House of Commons are full of instruction on which a young man would
@@ -2092,8 +2079,7 @@
               with the seals of the Foreign Office. The Duke of Wellington had coveted them, nor
               could Lord Liverpool have been insensible to his Grace's peculiar fitness for such
               duties; but strength was required in the House of Commons, where they had only one
-              Secretary of State, a young man already distinguished, yet untried as a leader <pb
-                n="160"/> and surrounded by colleagues notoriously incapable to assist him in
+              Secretary of State, a young man already distinguished, yet untried as a leader <pb n="160"/> and surrounded by colleagues notoriously incapable to assist him in
               debate.</p>
             <p>The accession of Mr. Canning to the cabinet, in a position too of surpassing
               influence, soon led to a further weeding of the Mediocrities, and among other
@@ -2190,8 +2176,7 @@
               Duke of Wellington become Secretary of State under Mr. Canning, he would have
               materially advanced his political position, not only by holding the seals of a high
               department in which he was calculated to excel, but by becoming leader of the House of
-              Lords. But his Grace was induced by certain court intriguers to believe that <pb
-                n="167"/> the King would send for him, and he was also aware that Mr. Peel would no
+              Lords. But his Grace was induced by certain court intriguers to believe that <pb n="167"/> the King would send for him, and he was also aware that Mr. Peel would no
               longer serve under any minister in the House of Commons. Under any circumstances it
               would have been impossible to keep the Liverpool Cabinet together. The struggle
               therefore between the Duke of Wellington and "my dear Mr. Canning," was internecine,
@@ -2203,8 +2188,7 @@
               sort of occasional unworthy favour at the palace, where he was half butt and half
               buffoon. Here, during the interregnum occasioned by the death, or rather inevitable
               retirement, of Lord Liverpool, Mr. Rigby contrived to scrape up a conviction that the
-              Duke was the winning horse, and in consequence there appeared a series of leading <pb
-                n="168"/> articles in a notorious evening newspaper in which it was, as Tadpole and
+              Duke was the winning horse, and in consequence there appeared a series of leading <pb n="168"/> articles in a notorious evening newspaper in which it was, as Tadpole and
               Taper declared, most "slashingly" shown, that the son of an actress could never be
               tolerated as the Prime Minister of England. Not content with this, and never doubting
               for a moment the authentic basis of his persuasion, Mr. Rigby poured forth his coarse
@@ -2269,8 +2253,7 @@
             <p>Adopting this view of the position of Mr. Peel, strengthened as it is by his early
               withdrawal for awhile from the direction of public affairs, it may not only be a
               charitable, but a true estimate of the motives which influenced him in his conduct
-              towards Mr. Canning, to conclude that he was not guided in that transaction <pb
-                n="173"/> by the disingenuous rivalry usually imputed to him. His statement in
+              towards Mr. Canning, to conclude that he was not guided in that transaction <pb n="173"/> by the disingenuous rivalry usually imputed to him. His statement in
               Parliament of the determining circumstances of his conduct, coupled with his
               subsequent and almost immediate policy, may perhaps always leave this a painful and
               ambiguous passage in his career; but in passing judgment on public men, it behoves us
@@ -2282,8 +2265,7 @@
               has been continually baffled in this project. He broke loose from Lord Liverpool; he
               retired from Mr. Canning. Forced again into becoming the subordinate leader of the
               weakest government in Parliamentary annals, he believed he had at length achieved his
-              emancipation, when he declared to his late colleagues after the overthrow <pb n="174"
-              /> of 1830, that he would never again accept a secondary position in office. But the
+              emancipation, when he declared to his late colleagues after the overthrow <pb n="174"/> of 1830, that he would never again accept a secondary position in office. But the
               Duke of Wellington was too old a tactician to lose so valuable an ally. So his Grace
               declared after the Reform Bill was passed, as its inevitable result, that thenceforth
               the Prime Minister must be a member of the House of Commons, and this aphorism, cited
@@ -2521,8 +2503,7 @@
               prevailing impression was, that this unforeseen event might embarrass those secret
               expectations of Court succour in which a certain section of the party had for some
               time reason to indulge.</p>
-            <p>From the moment, however, of the announcement of Lord Spencer's death, a <pb n="192"
-              /> change might be visibly observed in the tone of the party at Beaumanoir. They
+            <p>From the moment, however, of the announcement of Lord Spencer's death, a <pb n="192"/> change might be visibly observed in the tone of the party at Beaumanoir. They
               became silent, moody, and restless. There seemed a general, though not avowed,
               conviction that a crisis of some kind or other was at hand. The post too brought
               letters every day from town teeming with fanciful speculations, and occasionally
@@ -3132,8 +3113,7 @@
               he had been to them. His had been the inspiring mind that had guided their opinions,
               formed their tastes, directed the bent and tenor of their lives and thoughts. Often
               indeed had he needed, sometimes indeed he had sighed for the companionship of an
-              equal, or superior mind; one who by the comprehension of his thought, and <pb n="239"
-              /> the richness of his knowledge, and the advantage of his experience, might
+              equal, or superior mind; one who by the comprehension of his thought, and <pb n="239"/> the richness of his knowledge, and the advantage of his experience, might
               strengthen and illuminate and guide his obscure or hesitating or unpractised
               intelligence. He had scarcely been fortunate in this respect, and he deeply regretted
               it; for he was one of those who was not content with excelling in his own circle, if
@@ -3443,8 +3423,7 @@
               often questions infinitely perplexing and full of pain. But, on the whole, there ran
               through his character, notwithstanding his many dazzling qualities and
               accomplishments, and his juvenile celebrity which has spoiled so much promise, a vein
-              of grave simplicity that was the consequence of an earnest temper, and of <pb n="262"
-              /> an intellect that would be content with nothing short of the profound.</p>
+              of grave simplicity that was the consequence of an earnest temper, and of <pb n="262"/> an intellect that would be content with nothing short of the profound.</p>
             <p>His was a mind that loved to pursue every question to the centre. But it was not a
               spirit of scepticism that impelled this habit; on the contrary, it was the spirit of
               Faith. Coningsby found that he was born in an age of infidelity in all things, and his
@@ -3497,8 +3476,7 @@
               discussion. One way or other however before he quitted Eton, there prevailed among
               this circle of friends, the initial idea doubtless emanating from Coningsby, an
               earnest, though a rather vague, conviction that the present state of feeling in
-              matters both civil and religious was not healthy; that there must be substituted <pb
-                n="266"/> for this latitudinarianism, something sound and deep, fervent and well
+              matters both civil and religious was not healthy; that there must be substituted <pb n="266"/> for this latitudinarianism, something sound and deep, fervent and well
               defined, and that the priests of this new faith must be found among the New
               Generation; so that when the bright-minded rider of the 'Daughter of the Star'
               descanted on the influence of individual character, of great thoughts and heroic
@@ -3552,8 +3530,7 @@
               selfishness. To women however Coningsby instinctively bowed as to beings set apart for
               reverence and delicate treatment. Little as his experience was of them, his spirit had
               been fed with chivalrous fancies, and he entertained for them all the ideal devotion
-              of a Surrey or a Sydney. Instructed, if not learned, as books and thought <pb n="270"
-              /> had already made him in men, he could not conceive that there were any other women
+              of a Surrey or a Sydney. Instructed, if not learned, as books and thought <pb n="270"/> had already made him in men, he could not conceive that there were any other women
               in the world than fair Geraldines and Countesses of Pembroke.</p>
             <p>There was not a country-house in England that had so completely the air of habitual
               residence as Beaumanoir. It is a charming trait, and very rare. In many great mansions
@@ -3971,8 +3948,7 @@
               had exhausted all its invention, and wealth offered all its resources. The walls and
               vaulted roofs entirely painted in encaustic by the first artists of Germany, and
               representing the principal events of the second Testament, the splendour of the mosaic
-              pavement, the richness of the painted windows, the sumptuousness of the altar, <pb
-                n="301"/> crowned by a master-piece of Carlo Dolce and surrounded by a silver rail,
+              pavement, the richness of the painted windows, the sumptuousness of the altar, <pb n="301"/> crowned by a master-piece of Carlo Dolce and surrounded by a silver rail,
               the tone of rich and solemn light that pervaded all, and blended all the various
               sources of beauty into one absorbing and harmonious whole; all combined to produce an
               effect that stilled them into a silence that lasted for some minutes, until the ladies
@@ -5019,8 +4995,7 @@
               banquets were doubled; a ball was announced; a public day fixed; not only the county
               but the principal inhabitants of the neighbouring borough were encouraged to attend;
               Lord Monmouth wished it, if possible, to be without distinction of party. He had come
-              to reside among his old friends, to live and die where he was born. The Chairman <pb
-                n="58"/> of the Conservative Association and the Vice-President exchanged glances,
+              to reside among his old friends, to live and die where he was born. The Chairman <pb n="58"/> of the Conservative Association and the Vice-President exchanged glances,
               which would have become Tadpole and Taper; the four attorneys knibbed their pens with
               increased energy, and vowed that nothing could withstand the influence of the
               aristocracy "in the long run." Allwent and dined at the castle; all returned home
@@ -5555,8 +5530,7 @@
               necessary to thaw: they began to ask her questions after dinner. Mrs. Guy Flouncey
               only wanted an opening. She was an adroit flatterer, with a temper imperturbable, and
               gifted with a ceaseless energy of conferring slight obligations. She lent them
-              patterns for new fashions, in all which mysteries she was very versant; and <pb n="99"
-              /> what with some gentle glozing and some gay gossip, sugar for their tongues and salt
+              patterns for new fashions, in all which mysteries she was very versant; and <pb n="99"/> what with some gentle glozing and some gay gossip, sugar for their tongues and salt
               for their tails, she contrived pretty well to catch them all.</p>
             <pb n="100"/>
           </div>
@@ -5608,8 +5582,7 @@
               Marquess wished to show a part of his domain to the ambassadress. Only Lucretia, he
               said, would be with them, and there was a place for him. This invitation was readily
               accepted by Coningsby, who was not yet sufficiently established in the habits of the
-              house exactly to know how to pass his morning. His friend and patron Mr. Rigby was <pb
-                n="104"/> entirely taken up with the Archduke, whom he was accompanying all over the
+              house exactly to know how to pass his morning. His friend and patron Mr. Rigby was <pb n="104"/> entirely taken up with the Archduke, whom he was accompanying all over the
               neighbourhood, in visits to manufactures, many of which Rigby himself saw for the
               first time, but all of which he fluently explained to his Imperial Highness. In return
               for this, he extracted much information from the Archduke on Russian plans and
@@ -6044,8 +6017,7 @@
               curious light on those subterranean agencies of which the world in general knows so
               little, but which exercise so great an influence on public events. His extensive
               travels, his knowledge of languages, his daring and adventurous disposition, and his
-              unlimited means, had given him opportunities of becoming acquainted with these <pb
-                n="137"/> characters, in general so difficult to trace, and of gaining their
+              unlimited means, had given him opportunities of becoming acquainted with these <pb n="137"/> characters, in general so difficult to trace, and of gaining their
               devotion. To these sources he owed that knowledge of strange and hidden things which
               often startled those who listened to him. Nor was it easy, scarcely possible, to
               deceive him. Information reached him from so many, and such contrary quarters, that
@@ -6285,8 +6257,7 @@
               my friend Sidonia so enraptured with your thrilling tones, that he has abruptly closed
               a conversation which I have been long counting on. Do you know him? May I present him
               to you?"</p>
-            <p>And having obtained a consent not often conceded, Lord Eskdale looked round, and <pb
-                n="154"/> calling Sidonia, he presented his friend to the Princess.</p>
+            <p>And having obtained a consent not often conceded, Lord Eskdale looked round, and <pb n="154"/> calling Sidonia, he presented his friend to the Princess.</p>
             <p>"You are fond of music, Lord Eskdale tells me?" said Lucretia.</p>
             <p>"When it is excellent," said Sidonia.</p>
             <p>"But that is so rare," said the Princess.</p>
@@ -6346,8 +6317,7 @@
               in question had succeeded for generations in keeping it secret; the decided measures
               to which the chief of the family had recourse to stop for ever the rumour when it
               first became prevalent; and finally the origin and result of the legend; were details
-              which Lucian Gay with the most rueful countenance loved to expend upon the <pb n="158"
-              /> attentive and expanding intelligence of a new member of the Grumpy Club. Familiar
+              which Lucian Gay with the most rueful countenance loved to expend upon the <pb n="158"/> attentive and expanding intelligence of a new member of the Grumpy Club. Familiar
               as all present were with the story whose stimulus of agonizing risibility they had all
               in turn experienced, it was with extreme difficulty that any of them could resist the
               fatal explosion which was to be attended with the dreaded penalty. The Marquess looked
@@ -6613,8 +6583,7 @@
               myself while I ascribe little influence to physical causes for the production of this
               perplexity, I am still less of opinion that it can be removed by any new disposition
               of political power. It would only aggravate the evil. That would be recurring to the
-              old error of supposing you can necessarily find national content in political <pb
-                n="179"/> institutions. A political institution is a machine; the motive power is
+              old error of supposing you can necessarily find national content in political <pb n="179"/> institutions. A political institution is a machine; the motive power is
               the national character. With that it rests, whether the machine will benefit society,
               or destroy it. Society in this country is perplexed, almost paralyzed; in time it will
               move, and it will devise. How are the elements of the nation to be blended again
@@ -6997,8 +6966,7 @@
               posterity will some day disclaim with shame and disgust. Almost every great composer,
               skilled musician, almost every voice that ravishes you with its transporting strains,
               spring from our tribes. The catalogue is too vast to enumerate; too illustrious to
-              dwell for a moment on secondary names, however eminent. Enough for us that <pb n="208"
-              /> the three great creative minds to whose exquisite inventions all nations at this
+              dwell for a moment on secondary names, however eminent. Enough for us that <pb n="208"/> the three great creative minds to whose exquisite inventions all nations at this
               moment yield; Rossini, Meyerbeer, Mendelsohn; are of Hebrew race: and little do your
               men of fashion, your 'muscadins' of Paris and your dandies of London, as they thrill
               into raptures at the notes of a Pasta or a Grisi, little do they suspect that they are
@@ -7275,8 +7243,7 @@
               be. George III. tried not to be a Doge, but it was impossible materially to resist the
               deeply laid combination. He might get rid of the Whig magnificoes, but he could not
               rid himself of the Venetian constitution. And a Venetian constitution did govern
-              England from the accession of the House of Hanover until 1832. Now I do not ask <pb
-                n="231"/> you, Vere, to relinquish the political tenets which in ordinary times
+              England from the accession of the House of Hanover until 1832. Now I do not ask <pb n="231"/> you, Vere, to relinquish the political tenets which in ordinary times
               would have been your inheritance. All I say is, the constitution introduced by your
               ancestors having been subverted by their descendants your contemporaries, beware of
               still holding Venetian principles of government when you have not a Venetian
@@ -7352,8 +7319,7 @@
               proprietor of Hellingsley, that contiguous estate which Lord Monmouth so much coveted,
               the possession of which was indeed one of the few objects of his life, and to secure
               which, he was prepared to pay far beyond its intrinsic value, great as that
-              undoubtedly was. Yet Lord Monmouth did not become its possessor. Long as his mind <pb
-                n="237"/> had been intent upon the subject, skilful as had been his combinations to
+              undoubtedly was. Yet Lord Monmouth did not become its possessor. Long as his mind <pb n="237"/> had been intent upon the subject, skilful as had been his combinations to
               secure his prey, and unlimited the means which were to achieve his purpose, another
               stepped in, and without his privity, without even the consolation of a struggle, stole
               away the prize; and this too a man whom he hated, almost the only individual out of
@@ -7474,8 +7440,7 @@
               taste and genius, ultimately convinced him that this movement was unnecessary.</p>
             <p>The summer advanced; the death of the King occurred; the dissolution summoned Rigby
               to Coningsby and the borough of Darlford. His success was marked certain in the secret
-              books of Tadpole and Taper. A manufacturing town, enfranchised under the Reform <pb
-                n="246"/> Act, already gained by the Conservative cause! Here was reaction—here
+              books of Tadpole and Taper. A manufacturing town, enfranchised under the Reform <pb n="246"/> Act, already gained by the Conservative cause! Here was reaction—here
               influence of property! Influence of character, too; for no one was so popular as Lord
               Monmouth; a most distinguished nobleman, of strict Conservative principles, who, if he
               carried the county and the manufacturing borough also, merited the straw-berry
@@ -7488,8 +7453,7 @@
             <p>Rigby went down, and made some very impressive speeches; at least they read very well
               in some of his second-rate journals, where all the uproar figured as loud cheering,
               and the interruption of a cabbage-stalk was represented as a question from some
-              intelligent individual in the crowd. The fact is, Rigby bored his audience <pb n="247"
-              /> too much with history, especially with the French Revolution, which he fancied was
+              intelligent individual in the crowd. The fact is, Rigby bored his audience <pb n="247"/> too much with history, especially with the French Revolution, which he fancied was
               his "forte," so that the people at last, whenever he made any allusion to the subject,
               were almost as much terrified as if they had seen the guillotine.</p>
             <p>Rigby had as yet one great advantage; he had no opponent; and without personal
@@ -7528,8 +7492,7 @@
               dinner at a Strand Coffee-house the claims of the various candidates who had presented
               themselves. Mr. Donald Macpherson Macfarlane, who would only pay the legal expenses:
               he was soon dispatched. Mr. Gingerly Browne of Jermyn Street, the younger son of a
-              Baronet, who would go as far as a £1000, provided the seat was secured. Mr. <pb
-                n="250"/> Juggins, a distiller, £2000 man; but would not agree to any annual
+              Baronet, who would go as far as a £1000, provided the seat was secured. Mr. <pb n="250"/> Juggins, a distiller, £2000 man; but would not agree to any annual
               subscriptions. Sir Baptist Placid, vague about expenditure, but repeatedly declaring
               that "there could be no difficulty on that head." He however had a moral objection to
               subscribing to the races,— and that was a great point at Darlford. Sir Baptist would
@@ -7595,8 +7558,7 @@
               figure as their resident neighbour, became excited, speedily enthusiastic. All the
               bells of all the churches rang when Mr. Millbank commenced his canvass; the
               Conservatives, on the alert, if not alarmed, insisted on their champion also showing
-              himself in all directions; and in the course of four-and-twenty hours, such is <pb
-                n="255"/> the contagion of popular feeling, the town was divided into two parties,
+              himself in all directions; and in the course of four-and-twenty hours, such is <pb n="255"/> the contagion of popular feeling, the town was divided into two parties,
               the vast majority of which were firmly convinced that the country could only be saved
               by the return of Mr. Rigby, or preserved from inevitable destruction by the election
               of Mr. Millbank.</p>
@@ -7839,8 +7801,7 @@
               Committee had polled; whereas his opponent's were principally reserved. At a quarter
               past two there was great cheering and uproar. The four voters in favour of Millbank
               whom Solomon Lacey had cooped up, made drunk, and carried into the country, had
-              recovered their senses, made their escape, and voted as they originally intended. <pb
-                n="272"/> Soon after this, Mr. Millbank was declared by his Committee to be in a
+              recovered their senses, made their escape, and voted as they originally intended. <pb n="272"/> Soon after this, Mr. Millbank was declared by his Committee to be in a
               majority of one, but the Committee of Mr. Rigby instantly posted a placard in large
               letters to announce that on the contrary their man was in a majority of nine.</p>
             <p>"If we could only have got another registration," whispered the principal agent to
@@ -8006,8 +7967,7 @@
               happiness. But she found herself without a guide. Her father offered her no love; her
               step-mother gained from her no respect. Her literary education was the result of her
               own strong mind and inquisitive spirit. She valued knowledge, and she therefore
-              acquired it. But not a single moral principle or a single religious truth had <pb
-                n="285"/> ever been instilled into her being. Frequent absence from her own country
+              acquired it. But not a single moral principle or a single religious truth had <pb n="285"/> ever been instilled into her being. Frequent absence from her own country
               had by degrees broken off even an habitual observance of the forms of her creed; while
               a life of undisturbed indulgence, void of all anxiety and care, while it preserved her
               from many of the temptations to vice, deprived her of that wisdom "more precious than
@@ -8045,8 +8005,7 @@
               were all on the alert and had advantages of hearing and observation denied to their
               secluded master, caught a glimpse of Mr. Rigby endeavouring gently to draw back into
               her apartments Madame Colonna, furious amid his deprecatory exclamations.</p>
-            <p>"For Heaven's sake, my dear Madame; for your own sake—now really—now I assure <pb
-                n="288"/> you—you are quite wrong—you are indeed—it is a complete misapprehension—I
+            <p>"For Heaven's sake, my dear Madame; for your own sake—now really—now I assure <pb n="288"/> you—you are quite wrong—you are indeed—it is a complete misapprehension—I
               will explain everything. I entreat—I implore—whatever you like—just what you
               please—only listen."</p>
             <p>Then the lady with a mantling visage and flashing eye, violently closing the door,
@@ -8058,8 +8017,7 @@
               and following the servant, he added in a low tone and with a significant glance, "no
               travelling carriage; no Mademoiselle Conrad; order the britska round as usual."</p>
             <p>Nearly another hour passed; there was another ring; very moderate indeed. The servant
-              was informed that Madame Colonna was coming down; and she appeared as usual. In <pb
-                n="289"/> a beautiful morning dress, and leaning on the arm of Mr. Rigby she
+              was informed that Madame Colonna was coming down; and she appeared as usual. In <pb n="289"/> a beautiful morning dress, and leaning on the arm of Mr. Rigby she
               descended the stairs, and was handed into her carriage by that gentleman, who seating
               himself by her side, ordered them to drive to Richmond.</p>
             <p>Lord Monmouth having been informed that all was calm, and that Madame Colonna
@@ -8303,8 +8261,7 @@
               his presence. The Kingdom of France required a Monarch; the Republic of Paris required
               a Dictator. He comprised in his person both qualifications; lineage and intellect;
               blood for the provinces, brains for the city."</p>
-            <p>"What a position! what an individual!" exclaimed Coningsby. "Tell me," he added <pb
-                n="308"/> eagerly, "what is he? This Prince of whom one hears in all countries at
+            <p>"What a position! what an individual!" exclaimed Coningsby. "Tell me," he added <pb n="308"/> eagerly, "what is he? This Prince of whom one hears in all countries at
               all hours; on whose existence we are told the tranquillity, almost the civilisation,
               of Europe depends, yet of whom we receive accounts so conflicting, so contradictory;
               tell me, you who can tell me, tell me what he is?"</p>
@@ -8619,8 +8576,7 @@
               lingering, but stood a little apart, and was about to move away, when there was a
               whisper, of which, without hearing a word, he could not resist the impression that he
               was the subject. He felt a little embarrassed, and was retiring, when he heard Sidonia
-              reply to an inquiry of the lady, "The same," and then turning to Coningsby, <pb n="18"
-              /> said aloud: "Coningsby, Miss Millbank says that you have forgotten her."</p>
+              reply to an inquiry of the lady, "The same," and then turning to Coningsby, <pb n="18"/> said aloud: "Coningsby, Miss Millbank says that you have forgotten her."</p>
             <p>Coningsby started, advanced, coloured a little, could not conceal his surprise. The
               lady too though more prepared, was not without confusion, and for an instant looked
               down. Coningsby recalled at that moment the long dark eye-lashes and the beautiful,
@@ -8717,8 +8673,7 @@
               relative value of things, to appreciate anything but essential excellence; and that
               not too much. A charming woman was not more charming to him because she chanced to be
               an empress in a particular district of one of the smallest planets; a charming woman
-              under any circumstances was not an unique animal. When Sidonia felt a disposition <pb
-                n="25"/> to be spell-bound, he used to review in his memory all the charming women
+              under any circumstances was not an unique animal. When Sidonia felt a disposition <pb n="25"/> to be spell-bound, he used to review in his memory all the charming women
               of whom he had read in the books of all literatures, and whom he had known himself in
               every court and clime, and the result of his reflections ever was, that the charming
               woman in question was by no means the paragon, which some who had read, seen, and
@@ -8749,8 +8704,7 @@
               rather the children of a distracted soul. Coningsby this night lived much in past
               years, varied by painful perplexities of the present, which he could neither subdue,
               nor comprehend. The scene flitted from Eton to the castle of his grandfather; and then
-              he found himself among the pictures of the Rue de Tronchet, but their owner <pb n="28"
-              /> bore the features of the senior Millbank. A beautiful countenance that was
+              he found himself among the pictures of the Rue de Tronchet, but their owner <pb n="28"/> bore the features of the senior Millbank. A beautiful countenance that was
               alternately the face in the mysterious picture, and then that of Edith, haunted him
               under all circumstances. He woke little refreshed; restless and yet sensible of some
               secret joy.</p>
@@ -8847,8 +8801,7 @@
               girl since Coningsby's visit to Millbank; but really, every means and every
               opportunity that could contribute in rendering an individual capable of adorning the
               most accomplished circles of life had naturally, and without effort, fallen to the
-              fortunate lot of the manufacturer's daughter. Edith possessed an intelligence <pb
-                n="35"/> equal to those occasions. Without losing the native simplicity of her
+              fortunate lot of the manufacturer's daughter. Edith possessed an intelligence <pb n="35"/> equal to those occasions. Without losing the native simplicity of her
               character, which sprang from the heart, and which the strong and original bent of her
               father's mind had fostered, she had imbibed all the refinement and facility of the
               polished circles in which she moved. She had a clear head, a fine taste, and a
@@ -8861,8 +8814,7 @@
               anxious that the ladies should immediately appear. He thought this a very good
               opportunity of getting at what he called "the real feelings of the Tory party;" and he
               began to pump with a seductive semblance of frankness. For his part, he had never
-              doubted that a Conservative government was ultimately inevitable; had told <pb n="36"
-              /> Lord John so two years ago, and between themselves Lord John was of the same
+              doubted that a Conservative government was ultimately inevitable; had told <pb n="36"/> Lord John so two years ago, and between themselves Lord John was of the same
               opinion. The present position of the Whigs was the necessary fate of all progressive
               parties; could not see exactly how it would end; thought sometimes it must end in a
               fusion of parties; but could not well see how that could be brought about, at least at
@@ -9006,8 +8958,7 @@
               is about to marry another is not comfortable. Besides he could not conceal from
               himself that between the Wallingers and Sidonia there existed a remarkable intimacy,
               fully extended to their niece. He had seen her certainly on more than one occasion in
-              lengthened, and apparently earnest conversation with Sidonia, who, by the bye, <pb
-                n="47"/> spoke with her often in Spanish and never concealed his admiration of her
+              lengthened, and apparently earnest conversation with Sidonia, who, by the bye, <pb n="47"/> spoke with her often in Spanish and never concealed his admiration of her
               charms nor the interest he found in her society. And Edith —what, after all, had
               passed between Edith and himself, which should at all gainsay this report, which he
               had been particularly assured was not a mere report, but came from a quarter that
@@ -9507,8 +9458,7 @@
               rarities of the University. They were alone. Coningsby was a little embarrassed, for
               he could not forget the abrupt manner in which he had parted from them; but they
               greeted him with so much cordiality that he instantly recovered himself, and turning
-              became their companion. He hardly ventured to ask after Edith; at length in <pb n="86"
-              /> a depressed tone and a hesitating manner he inquired whether they had lately seen
+              became their companion. He hardly ventured to ask after Edith; at length in <pb n="86"/> a depressed tone and a hesitating manner he inquired whether they had lately seen
               Miss Millbank. He was himself surprised at the extreme light-heartedness which came
               over him the moment he heard she was in England, at Millbank, with her family. He
               always very much liked Lady Wallinger; but this morning he hung over her like a lover,
@@ -9572,8 +9522,7 @@
               he might combine his first visit to that famous seat of learning with one to his old
               schoolfellow and friend. Now that was practical. And immediately Coningsby wrote to
               apprize Millbank that he had taken his degree, was free, and prepared to pay to him
-              immediately the long projected visit. Three years and more had elapsed since they <pb
-                n="91"/> had quitted Eton. How much had happened in the interval! What new ideas,
+              immediately the long projected visit. Three years and more had elapsed since they <pb n="91"/> had quitted Eton. How much had happened in the interval! What new ideas,
               new feelings, vast and novel knowledge! Though they had not met, they were
               nevertheless familiar with the progress and movement of each other's minds. Their
               suggestive correspondence was too valuable to both of them to have been otherwise than
@@ -9760,8 +9709,7 @@
               odious to the subject; you have shown how man may be induced to obey. But there are
               duties and interests for man beyond political obedience, and social comfort, and
               national greatness; higher interests and greater duties. How would you deal with their
-              spiritual necessities? You think you can combat political infidelity in a nation <pb
-                n="105"/> by the principle of enlightened loyalty, how would you encounter religious
+              spiritual necessities? You think you can combat political infidelity in a nation <pb n="105"/> by the principle of enlightened loyalty, how would you encounter religious
               infidelity in a state? By what means is the principle of profound reverence to be
               revived? How, in short, is man to be led to adore?"</p>
             <p>"Ah! that is a subject which I have not forgotten," replied Coningsby. "I know from
@@ -9885,8 +9833,7 @@
               those true old English Halls now unhappily so rare, built in the time of the Tudors,
               and in its elaborate timber framing and decorative woodwork, indicating perhaps the
               scarcity of brick and stone at the period of its structure as much as the grotesque
-              genius of its fabricator, rose on a terrace surrounded by ancient and very formal <pb
-                n="115"/> gardens. The hall itself during many generations had been vigilantly and
+              genius of its fabricator, rose on a terrace surrounded by ancient and very formal <pb n="115"/> gardens. The hall itself during many generations had been vigilantly and
               tastefully preserved by its proprietors. There was not a point which was not as fresh
               as if it had been renovated but yesterday. It stood a huge and strange blending of
               Grecian, Gothic, and Italian architecture, with a wild dash of the Fantastic in
@@ -10146,8 +10093,7 @@
               early sun, and left them only when the late moon silvered the keep of Coningsby
               Castle. Mr. Millbank who wrote daily, and was daily to be expected, did not arrive. A
               week, a week of unbroken bliss, had vanished away—passed in long rides and longer
-              walks; sunset saunterings, and sometimes moonlit strolls; talking of flowers, and <pb
-                n="135"/> thinking of things even sweeter; listening to delicious songs, and
+              walks; sunset saunterings, and sometimes moonlit strolls; talking of flowers, and <pb n="135"/> thinking of things even sweeter; listening to delicious songs, and
               sometimes reading aloud some bright romance, or some inspiring lay.</p>
             <p>One day, Coningsby who arrived at the Hall unexpectedly late; indeed it was some
               hours past noon, for he had been detained by despatches which arrived at the Castle
@@ -10214,8 +10160,7 @@
               of the Darl. The river here was narrow and winding, but full of life; rushing and
               clear, but for the dark sky it reflected; with high banks of turf and tall trees; the
               silver birch, above all others, in clustering groups; infinitely picturesque. At the
-              turn of the river, about two hundred yards distant, Coningsby observed the <pb n="140"
-              /> low, dark roof of the fishing cottage on its banks. They descended from the woods
+              turn of the river, about two hundred yards distant, Coningsby observed the <pb n="140"/> low, dark roof of the fishing cottage on its banks. They descended from the woods
               to the margin of the stream, by a flight of turfen steps, Coningsby holding Edith's
               hand as he guided her progress.</p>
             <p>The drops became thicker; they reached, at a rapid pace, the cottage. The absent boat
@@ -10480,8 +10425,7 @@
               own lot should have guarded you from the perils that you have so rashly meditated
               encountering, and the misery which you have been preparing for others besides
               yourself. Is my daughter to be treated like your mother? And by the same hand? Your
-              mother's family were not Lord Monmouth's foes. They were simple and innocent <pb
-                n="162"/> people, free from all the bad passions of our nature, and ignorant of the
+              mother's family were not Lord Monmouth's foes. They were simple and innocent <pb n="162"/> people, free from all the bad passions of our nature, and ignorant of the
               world's ways. But because they were not noble, because they could trace no mystified
               descent from a foreign invader or the sacrilegious minion of some spoliating despot,
               their daughter was hunted from the family which should have exulted to receive her,
@@ -10677,8 +10621,7 @@
             <p>"I say, Jemmy," said the eldest, a dandy who had dined with the Regent; but who still
               was a dandy, and who enjoyed life almost as much as in the days when Carlton House
               occupied the Terrace which still bears its name. "I say, Jemmy; what a load of young
-              fellows there are! Don't know their names at all. Begin to think fellows are <pb
-                n="177"/> younger than they used to be. Amazing load of young fellows indeed!"</p>
+              fellows there are! Don't know their names at all. Begin to think fellows are <pb n="177"/> younger than they used to be. Amazing load of young fellows indeed!"</p>
             <p>At this moment an individual who came under the fortunate designation of a young
               fellow; but whose assured carriage hardly intimated that this was his first season in
               London, came up to the junior of the two critics; and said, "A pretty turn you played
@@ -10853,8 +10796,7 @@
               experience; having held very high posts, some in the cabinet, for nearly a quarter of
               a century; he was too versed to acknowledge that he had not understood a single word
               that had been addressed to him for the last ten minutes. He looked on with the same
-              grave, attentive stolidity, occasionally nodding his head, as he was wont <pb n="189"
-              /> of yore, when he received a deputation on sugar duties or joint stock banks, and
+              grave, attentive stolidity, occasionally nodding his head, as he was wont <pb n="189"/> of yore, when he received a deputation on sugar duties or joint stock banks, and
               when he made, as was his custom when particularly perplexed, an occasional note on a
               sheet of foolscap paper.</p>
             <p>"An Opposition in an age of Revolution," continued Lady Everingham, "must be founded
@@ -10972,8 +10914,7 @@
               extremely wearisome; and he proposed to his daughter that they should pay a visit to
               their earlier home. Edith assented without difficulty, but without interest. And yet,
               as Mr. Millbank immediately perceived, the change was a very judicious one; for
-              certainly the spirits of Edith seemed to improve very soon after her return <pb
-                n="198"/> to their valley. There were more objects of interest: change too is always
+              certainly the spirits of Edith seemed to improve very soon after her return <pb n="198"/> to their valley. There were more objects of interest: change too is always
               beneficial. If Mr. Millbank had been aware that Oswald had received a letter from
               Coningsby, written before he quitted Spain, perhaps he might have recognised a more
               satisfactory reason for the transient liveliness of his daughter which had so greatly
@@ -11000,8 +10941,7 @@
               mother, the Duchess, immediately called both on the Millbanks and the Wallingers;
               glad, not only to please her son, but to express that consideration for Mr. Millbank
               which the Duke always wished to show. It was however of no use: nothing would induce
-              Mr. Millbank ever to enter what he called aristocratic society. He liked the <pb
-                n="200"/> House of Commons; never paired off; never missed a moment of it; worked at
+              Mr. Millbank ever to enter what he called aristocratic society. He liked the <pb n="200"/> House of Commons; never paired off; never missed a moment of it; worked at
               committees all the morning, listened attentively to debates all the night; always
               dined at Bellamy's when there was a house; and when there was not, liked dining at the
               Goldsmith's Compány, the Russia Company, great Emigration banquets, and other
@@ -11014,8 +10954,7 @@
               soothing and solacing each other's unhappiness, and perhaps, with the sanguine
               imagination of youth foreseeing a more felicitous future. She had been nearly a
               fortnight in town, and though moving frequently in the same circles as Coningsby, they
-              had not yet met. It was one of those results which could rarely occur; but <pb n="201"
-              /> even chance enters too frequently in the league against lovers. The invitation to
+              had not yet met. It was one of those results which could rarely occur; but <pb n="201"/> even chance enters too frequently in the league against lovers. The invitation to
               the assembly at—House was therefore peculiarly gratifying to Edith, since she could
               scarcely doubt that if Coningsby were in town, which her casual inquiries of Lord
               Beaumanoir induced her to believe was the case, that he would be present. Never
@@ -11055,8 +10994,7 @@
               idea. But Coningsby had treated the matrimonial project of his gayminded hostess with
               the courteous levity in which he believed it had at first half originated. He admired
               and liked Lady Theresa; but there was a reason why he could not marry her, even had
-              his own heart not been absorbed by one of those passions from which men of deep <pb
-                n="204"/> and earnest character never emancipate themselves.</p>
+              his own heart not been absorbed by one of those passions from which men of deep <pb n="204"/> and earnest character never emancipate themselves.</p>
             <p>After musing and meditating again and again over everything that had occurred,
               Coningsby fell asleep when the morning had far advanced, resolved to rise when a
               little refreshed and find out Lady Wallinger, who, he felt sure, would receive him
@@ -11455,8 +11393,7 @@
               the influence of this man, confided in by every body, trusted by none? His councils
               were not deep, his expedients were not felicitous; he had no feeling, and he could
               create no sympathy. It is that in most of the transactions of life there is some
-              portion which no one cares to accomplish, and which everybody wishes to be <pb n="234"
-              /> achieved. This was always the portion of Mr. Rigby. In the eye of the world he had
+              portion which no one cares to accomplish, and which everybody wishes to be <pb n="234"/> achieved. This was always the portion of Mr. Rigby. In the eye of the world he had
               constantly the appearance of being mixed up with high dealings, and negotiations and
               arrangements of fine management; where—as in truth, notwithstanding his splendid
               livery and the airs he gave himself in the servants' hall, his real business in life
@@ -12224,8 +12161,7 @@
               disposition was left to Coningsby. The legacy to Mr. Rigby was reduced to £20,000, and
               the whole of his residue left to his issue by Lady Monmouth; in case he died without
               issue, the estate bequeathed to Coningsby to be taken into account, and the residue
-              then to be divided equally between Lady Monmouth and his grandson. It was <pb n="289"
-              /> under this instrument that Sidonia had been appointed an executor, and to whom Lord
+              then to be divided equally between Lady Monmouth and his grandson. It was <pb n="289"/> under this instrument that Sidonia had been appointed an executor, and to whom Lord
               Monmouth left, among others, his celebrated picture of the Holy Family by Murillo, as
               his friend had often admired it. To Lord Eskdale he left all his female miniatures,
               and to Mr. Ormsby his rare and splendid collection of French novels, and all his
@@ -12279,8 +12215,7 @@
               read the latent malice of that nevertheless anxious countenance. What passed through
               the mind and being of Coningsby was thought and sensation enough for a year, yet it
               was as the flash that reveals a whole country, yet ceases to be ere one can say it
-              lightens. There was a revelation to him of an inward power that should baffle <pb
-                n="293"/> these conventional calamities; a natural and sacred confidence in his
+              lightens. There was a revelation to him of an inward power that should baffle <pb n="293"/> these conventional calamities; a natural and sacred confidence in his
               youth and health, and knowledge and convictions. Even the recollection of Edith was
               not unaccompanied with some sustaining associations. At least the mightiest foe to
               their union was departed.</p>
@@ -12756,8 +12691,7 @@
               and general irritation and excitement, and had been too indolent, perhaps really too
               indisposed, which he was unwilling ever to acknowledge, to recur to a calmer and more
               equitable settlement. Lord Eskdale had been more frank with Sidonia, and had told him
-              all about the refusal to become a candidate for Darlford against Mr. Millbank, <pb
-                n="329"/> the communication of Rigby to Lord Monmouth as to the presence of Oswald
+              all about the refusal to become a candidate for Darlford against Mr. Millbank, <pb n="329"/> the communication of Rigby to Lord Monmouth as to the presence of Oswald
               Millbank at the Castle and the love of Coningsby for his sister; all these details,
               furnished by Villebecque to Lord Eskdale had been duly transferred by that nobleman to
               his co-executor; and Sidonia, when he had sufficiently digested them, had made Lady
@@ -12862,8 +12796,7 @@
               rightly, the triumphant sense of complete and absolute success—here were chaotic
               materials from which order was at length evolved; and all-subsided in an overwhelming
               feeling of gratitude to that Providence that had so signally protected him.</p>
-            <p>There was a knock at the door. It was Oswald. They embraced. It seemed that <pb
-                n="337"/> Oswald was as excited as Coningsby. His eye sparkled, his manner was
+            <p>There was a knock at the door. It was Oswald. They embraced. It seemed that <pb n="337"/> Oswald was as excited as Coningsby. His eye sparkled, his manner was
               energetic.</p>
             <p>"We must talk it all over during our journey. We have not a minute to waste."</p>
             <p>During that journey, Coningsby learned something of the course of affairs which
@@ -12890,8 +12823,7 @@
               state, until Oswald thought that circumstances were sufficiently ripe to urge his
               father on the subject. The position which Oswald had assumed at Millbank had
               necessarily made him acquainted with the affairs and fortune of his father. When he
-              computed the vast wealth which he knew was at his parent's command and recalled <pb
-                n="339"/> Coningsby in his humble chambers toiling after all his noble efforts
+              computed the vast wealth which he knew was at his parent's command and recalled <pb n="339"/> Coningsby in his humble chambers toiling after all his noble efforts
               without any results, and his sister pining in a provincial solitude, Oswald began to
               curse wealth and to ask himself what was the use of all their marvellous industry and
               supernatural skill. He addressed his father with that irresistible frankness which a
@@ -12904,8 +12836,7 @@
               authenticity. He was resolved to convince himself of the fact. And perhaps he would
               have gone on yet for a little time, and watched the progress of the experiment,
               already interested and delighted by what had reached him, had not the dissolution
-              brought affairs to a crisis. The misery of Oswald at the position of Coningsby, <pb
-                n="340"/> the silent sadness of Edith, his own conviction which assured him that he
+              brought affairs to a crisis. The misery of Oswald at the position of Coningsby, <pb n="340"/> the silent sadness of Edith, his own conviction which assured him that he
               could do nothing wiser or better than take this young man to his heart, so ordained it
               that Mr. Millbank who was after all the creature of impulse, decided suddenly, and
               decided rightly. Never making a single admission to all the representations of his
@@ -12918,8 +12849,7 @@
               resigned. He was however requested to remain at Birmingham, as they did not wish him
               to enter Darlford except to be chaired, so he was to arrive there in the morning. At
               Birmingham therefore they remained.</p>
-            <p>There was Oswald's election to talk of as well as Coningsby's. They had hardly <pb
-                n="341"/> had time for this. Now they were both Members of Parliament. Men must have
+            <p>There was Oswald's election to talk of as well as Coningsby's. They had hardly <pb n="341"/> had time for this. Now they were both Members of Parliament. Men must have
               been at school together, to enjoy the real fun of meeting thus and realizing boyish
               dreams. Often years ago they had talked of these things and assumed these results, but
               those were words and dreams; these were positive facts; after some doubts and

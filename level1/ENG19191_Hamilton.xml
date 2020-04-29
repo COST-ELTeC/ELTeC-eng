@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19191" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19191" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -17,7 +14,7 @@
    <extent>
     <measure unit="words">61377</measure>
     </extent>
-   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-05-18--></publicationStmt>
+   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
    <sourceDesc><bibl type="digitalSource"><title>William — an Englishman</title><ref target="gut:7926">Gutenberg</ref>
      <respStmt><resp>Produced by</resp>
      <name>Al Haines</name></respStmt></bibl><bibl type="firstEdition"><title>William — an Englishman</title>
@@ -33,7 +30,7 @@
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
    </textDesc>
   </profileDesc>
@@ -41,7 +38,7 @@
    <change when="2019-05-18">LB convert to ELTeC-1</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="T4FML">
   <front>
    <div type="titlepage">
     <p>WILLIAM</p>
@@ -4172,10 +4169,6 @@
    </div>
 
   </body>
-  <!--<space/>
-    <p>Printed in Great Britain by Richard Clay &amp; Sons, Limited, Brunswick St., Stamford St.,
-     S.E.1, and Bungay, Suffolk.</p>
   
--->
  </text>
 </TEI>

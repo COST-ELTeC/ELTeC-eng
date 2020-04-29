@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18971" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18971" xml:lang="en">
       <teiHeader>
             <fileDesc>
                   <titleStmt>
@@ -14,14 +11,13 @@
                               <resp>ELTeC conversion</resp>
                               <name>Lou Burnard</name>
                         </respStmt>
-                        <!-- Suzanne Shell, Linda Hamilton, and the Online
-Distributed Proofreading Team-->
+                        
                   </titleStmt>
                   <extent>
                         <measure unit="words">28892</measure>
                         <measure unit="pages">211</measure>
                   </extent>
-                  <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-06-09--></publicationStmt>
+                  <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
                   <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of A Devotee,
                                     by Mary Cholmondeley.</title><ref target="gut:40408">Gutenberg</ref>
                         </bibl><bibl type="firstEdition" n="B8109"><title>A Devotee: An Episode in the Life
@@ -39,7 +35,7 @@ Distributed Proofreading Team-->
                   <textDesc>
                         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                        <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
                   </textDesc>
             </profileDesc>
@@ -47,7 +43,7 @@ Distributed Proofreading Team-->
                   <change when="2019-06-09">LB convert to ELTeC-1</change>
             </revisionDesc>
       </teiHeader>
-      <text>
+      <text type="T3FSU">
             <front>
                   <pb n="3"/>
                   <div type="titlepage">
@@ -2553,286 +2549,4 @@ Distributed Proofreading Team-->
                   </div>
             </body>
       </text>
-</TEI><!--<pb n="212"/><quote><l>NOVELS
-FROM</l><l>MR. EDWARD
-ARNOLD'S LIST.</l></quote><p>By the Author of 'The Red Badge of
-Courage.'</p></div><div type="chapter"><head>GEORGE'S
-MOTHER.</head><p><hi>By</hi> STEPHEN CRANE.</p><p>Cloth, 2s.</p><p>Saturday Review.</p><quote>'From first to last it goes with immense
-vigour and sympathy. But the story must be read for its power to be
-understood; quotation fails, for the simple reason that it is a
-bare story and nothing beyond. Apart from its distinctive
-qualities, English readers will welcome this book as an indication
-of the growth of a real and independent critical method across the
-Atlantic, side by side and directing really original work.'</quote><p>Athenæum.</p><quote>'A striking scene of the relations, in a rough
-world, between a boy and his mother.'</quote><p>Speaker.</p><quote>'Stephen Crane proved conclusively in "The Red
-Badge of Courage" his possession of an extraordinary power of vivid
-and accurate vision expressed with startling poignancy of phrase;
-and in his later production, "George's Mother," we find the same
-rugged directness and almost savage intensity, the same contempt
-for conventional graces of style, and the love for violent
-colouring, which marked his previous work.'</quote><p>Daily Chronicle.</p><quote>'The gradual progress of deterioration in
-George Kelcey is very briefly but very cleverly and convincingly
-set out.'</quote><p>St. James's Gazette.</p><quote>'It is a <hi>tour de force</hi> of description
-and analysis, this terrible scene of George's debauch—not in
-the least laboured, or Zolaistic, or photographic, but amazingly
-actual, and lightened with a grim sense of humour.'</quote><pb n="213"/><p>By the Author of 'Into the Highways and
-Hedges.'</p></div><div type="chapter"><head>WORTH
-WHILE.</head><p><hi>By</hi> F. F.
-MONTRÉSOR,</p><p>Author of 'Into the Highways and Hedges,'
-'The One Who Looked on.'</p><p>Crown 8vo., cloth, 2s. 6d.</p><p>Academy.</p><quote>'The quiet excellence of Miss Montrésor's
-little book may likely enough cause it to lie unnoticed among its
-thrilling companions. There is, none the less, more of art and
-literature in two short sketches than one is likely to meet with
-again in a hurry. If inferior work, gaudily bedraped, gets all the
-encores, in the shape of many editions, I cannot think she will
-greatly care. Such work as hers only comes, as the proverb has it,
-by prayer and fasting. And she will receive ungrudging praise from
-those who revere sterling merit, and respect labour at once
-unobtrusive, competent, sincere.'</quote><p>Guardian.</p><quote>'"Worth While" is a real idyll of a life's
-sacrifice, most sweetly and touchingly told.'</quote><p>Glasgow Herald.</p><quote>'Both the stories in this volume are of very
-superior quality. The characters are distinctly original, and the
-workmanship is admirable.'</quote><p>Manchester Mercury.</p><quote>'Although the two stories contained in the
-present volume are comparatively short, they serve to display the
-author's peculiar gifts in a striking manner.'</quote><p>Liverpool Courier.</p><quote>'Two most pathetic and beautiful stories make
-up this little volume. The writer is to be congratulated on the
-delicate beauty of her stories.'</quote><pb n="214"/><p>By the Author of 'The Apotheosis of Mr.
-Tyrawley.'</p></div><div type="chapter"><head>A MASK AND
-A MARTYR.</head><p><hi>By</hi> E. LIVINGSTON
-PRESCOTT.</p><p>One vol., crown 8vo., cloth, 6s.</p><p>Westminster Gazette.</p><quote>'This is an undeniably
-clever book. A picture of self-sacrifice so complete and so
-enduring is a rare picture in fiction, and has rarely been more
-ably or more finely drawn. This singular and pathetic story is told
-all through with remarkable restraint, and shows a strength and
-skill of execution which place its author high among the
-novel-writers of the day.'</quote><p>Daily Telegraph.</p><quote>'There is no doubt that this is a striking
-book. The story it has to tell is thoroughly original and
-unconventional, while the manner of telling shows much restrained
-power.'</quote><p>Spectator.</p><quote>'Mr. Prescott has evidently a future before
-him.'</quote><p>Pall Mall Gazette.</p><quote>
-'Mr. Prescott has given
-us a clever and an interesting book. We have seldom read of such
-superhuman courage, such transcendent love, as Mr. Prescott has
-shown us in his masterly picture of Captain Cosmo Harradyne, of the
-Fighting Hussars. A story which we confidently, nay, earnestly,
-recommend to our readers; they will thank us for doing so.'</quote><p>National Observer.</p><quote>'A book which has much cleverness of
-treatment, an excellent style, a great deal of interest, a high
-ideal, and a real pathos. Perhaps it is not necessary to add that a
-novel of which so much can be said is one greatly above the common
-run of fiction. The book should be, and we have no doubt will be,
-read with real interest by many people.'</quote><pb n="215"/><p>'One of the best stories
-of the season.'—<hi>Daily Chronicle.</hi></p></div><div type="chapter"><head>
-HADJIRA,
-<span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic;font-size:.8em;font-weight:normal;font-family:serif;">
-A TURKISH LOVE STORY.</span></head><p><hi>By</hi> ADALET.</p><p>One volume, crown 8vo., cloth, 6s.</p><p>Speaker.</p><quote>'Certainly one of the most interesting and
-valuable works of fiction issued from the press for a long time
-past. Even if we were to regard the book as an ordinary novel, we
-could commend it heartily; but its great value lies in the fact
-that it reveals to us a hidden world, and does so with manifest
-fidelity. But the reader must learn for himself the lesson which
-this remarkable and fascinating book teaches.'</quote><p>Daily Chronicle.</p><quote>'A Turkish love story written in excellent
-English by a young Ottoman lady, would be a book worth reading, if
-only as a curiosity; but when, as in this instance, it is of
-uncommon merit and originality, it is particularly welcome. It is
-deeply interesting, fascinatingly so. It is as a picture of family
-life in Turkey that this book is so interesting, possibly because
-the picture it provides is unexpectedly agreeable. As a study of
-Turkish life in our times, when Western civilization is beginning
-to penetrate into the seclusion of the harem, this book is a
-valuable contribution to contemporary literature. It is a
-well-merited compliment to its author to say of "Hadjira" that it
-is one of the best stories of the season.'</quote><p>Pall Mall Gazette.</p><quote>'An interesting and readable book.'</quote><p>St. James's Gazette.</p><quote>'The book is excellently written. As a clearly
-truthful account of modern Turkish life, from the woman's point of
-view, it is as valuable as it is interesting. We shall hope to have
-more from the same pen.'</quote><p>Guardian.</p><quote>'A curiously interesting bit of work.'</quote><pb n="216"/></div><div type="chapter"><head>A RELUCTANT
-EVANGELIST.</head><p><hi>By</hi> ALICE 
-SPINNER,</p><p>Author of 'Lucilla,' 'A Study in Colour,'
-etc.</p><p>Crown 8vo., 1 vol., 6s.</p><p>Saturday Review.</p><quote>'"A Reluctant Evangelist" is as good as its
-predecessor "Lucilla," which we were glad to be able to praise last
-year. The West Indies, with their "colour problem," their weird
-romance and undercurrent of horror, will last a long time as
-background for new stories.'</quote><p>Glasgow Herald.</p><quote>'It is into the wonderland of the West Indies
-that Miss Spinner takes us: into a region of hot sunshine, of blue
-sky, of sparkling sea. All the stories are excellent, and will
-repay perusal.'</quote><p>Pall Mall Gazette.</p><quote>'Good, too, is Miss Spinner's budget of short
-stories. "Buckra Tommie" is an exquisitely pathetic story. The
-writer is evidently at home in the South Seas, and with the
-out-of-the-way humanity she meets there.'</quote><p>Irish Times.</p><quote>'A charming little series of stories. They are
-very daintily written, and although the incidents upon which they
-turn are not always very striking, they are at all events novel,
-and they have been conceived with much dramatic power.'</quote><p>Cape Times.</p><quote>'These short stories are all distinctly
-good.'</quote><p>Englishman.</p><quote>'We can strongly recommend these stories. They
-are varied and interesting, and have a distinct literary
-merit.'</quote><pb n="217"/></div><div type="chapter"><head>
-INTERLUDES.</head><p><hi>By</hi> MAUD OXENDEN.</p><p>One volume, crown 8vo., 6s.</p><p>Scotsman.</p><quote>'The writer is to be congratulated on the
-strength with which she portrays men and women, and describes the
-passions of love or of grief that sometimes fill the mind. There
-are other personages in these pages, whose experiences of love and
-joy and grief are under other circumstances than those indicated;
-but if the writer had depicted none other than the three personages
-that appear in the tragic scene in London she would have scored a
-distinct success. An admirably-written book.'</quote><p>Sheffield Telegraph.</p><quote>'We have not read anything so tenderly touched
-with pathos, and at the same time so delicately told, for a very
-long time. Indeed, "Interludes" is about as good a piece of
-literary work of its class as we could wish to read, and is worth a
-high place in the works which appeal to the emotional in our
-nature.'</quote><p>Bradford Observer.</p><quote>'The stories evince a considerable and
-disciplined faculty of invention which, though it produces
-situations of intense interest, never becomes riotous or
-extravagant. We will close our too brief note with an expression of
-the pleasure we have felt in reading these chaste and beautiful
-fancies.'</quote><p>Guardian.</p><quote>'There is much that is both clever and
-original in Miss Oxenden's "Interludes." There is often very
-genuine pathos, and nearly all the volume is interesting.'</quote><pb n="218"/><p>Twenty-Second Thousand.</p></div><div type="chapter"><head>STEPHEN
-REMARX.
-<span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic;font-size:.8em;font-weight:normal;font-family:serif;">
-THE STORY OF A VENTURE IN ETHICS.</span></head><p><hi>By the Hon. and Rev.</hi>
-JAMES ADDERLEY.</p><p>Small 8vo., elegantly bound, 3s. 6d.;
-paper, 1s.</p><p>Daily Telegraph.</p><quote>'Written with a vigour, warmth, and sincerity
-which cannot fail to captivate the reader's attention and command
-his respect.'</quote><p>Saturday Review.</p><quote>'Let us express our thankfulness at
-encountering, for once in a way, an author who can amuse us.'</quote><p>Star.</p><quote>'The book is charmingly written.'</quote><p>Guardian.</p><quote>'Not only do we agree with Mr. Adderley in his
-general objects, and in many of his fundamental principles, but we
-believe that the path of reform lies very much in the direction to
-which he has pointed.'</quote><p>Daily Chronicle.</p><quote>'The story is one of a novel kind, and many
-people will find it interesting and very suggestive.'</quote><p>Rock.</p><quote>'A little but very notable volume.'</quote><p>Record.</p><p>'A little book, but one of which much will be heard.'</p><pb n="219"/></div><div type="chapter"><head>DAVE'S
-SWEETHEART.</head><p><hi>By</hi> MARY GAUNT.</p><p>One vol., 8vo., cloth, 3s. 6d.</p><p>Spectator.</p><quote>'It is interesting to watch the literature
-which is coming over to us from Australia, a portion of which is
-full of promise, but we may safely say that of all the novels that
-have been laid before readers in this country, "Dave's Sweetheart,"
-in a literary point of view and as a finished production, takes a
-higher place than any that has yet appeared. From the opening scene
-to the closing page we have no hesitation in predicting that not a
-word will be skipped even by the most <hi>blasé</hi> of novel
-readers.'</quote><p>Daily Telegraph.</p><quote>'In every respect one of the most powerful and
-impressive novels of the year.'</quote><p>Tablet.</p><quote>'Essentially a strong book. The writer has a
-wonderfully clean way of describing the elemental facts of life,
-and lets her plummet-line go down deep into the depths of human
-tears. The book is of interest down to the last line.'</quote><p>Weekly Sun.</p><quote>'The narrative is throughout animated, and
-rises occasionally to heights of great dramatic power, whilst the
-picture of life in the diggings is delineated in a way that compels
-admiration.'</quote><p>Morning Post.</p><quote>'The action is rapid and well-developed, the
-incidents exciting, as becomes the nature of the subject, and the
-human interest unusually deep.'</quote><p>Times.</p><quote>'A vigorous and dramatic story of the early
-gold-digging days in Victoria. "Dave's Sweetheart" is a good
-story.'</quote><p>Guardian.</p><quote>'Many books of Australian life have come
-before us lately, and to none of them are we inclined to give more
-honest praise than to "Dave's Sweetheart."'</quote><p>Speaker.</p><quote>'Alike from a dramatic and a literary point of
-view, "Dave's Sweetheart" is admirably told, with restraint and
-with distinction.'</quote><pb n="220"/></div><div type="chapter"><head>TOMMY
-ATKINS.
-<span xmlns="http://www.w3.org/1999/xhtml" style="font-size:.8em;font-weight:bold;">A Tale of the
-Ranks.</span></head><p><hi>By</hi> ROBERT
-BLATCHFORD,</p><p>Author of 'A Son of the Forge,' 'Merrie
-England,' etc.</p><p>Second Edition. Crown 8vo., cloth, 6s.</p><p>Bradford Observer.</p><quote>'A splendid narrative of the barrack life of
-the rank and file.'</quote><p>Eastern Morning News.</p><quote>'There is not a dull page in the book.'</quote><p>Glasgow Herald.</p><quote>'Most vigorous and picturesque sketches of
-barrack life.'</quote><p>Scotsman.</p><quote>'Entertaining throughout, and reveals high
-literary ability.'</quote><p>Dundee Advertiser.</p><quote>'A really vivacious book; the incidents are so
-well selected that the reader never wearies from start to
-finish.'</quote><p>Liverpool Post.</p><quote>'The book is both clever and amusing.'</quote><p>Broad Arrow.</p><quote>'For this well-conceived, well-written, and
-well-informed little story we have little but commendation to
-offer.'</quote></div><div type="chapter"><head>THE BAYONET
-THAT CAME HOME.</head><p><hi>By</hi> N. WYNN
-WILLIAMS,</p><p>Author of 'Tales of Modern Greece.'</p><p>Crown 8vo., 3s. 6d.</p><p>Dundee Advertiser.</p><quote>'Well worth perusing.'</quote><p>National Observer.</p><quote>'Mr. Williams's story of modern Greece throws
-a curious light on her corrupt politics, on petty oppression, and
-on the conscription, with its attendant hardships to the peasant
-population.'</quote><p>Glasgow Herald.</p><quote>'A powerfully-written and vivid little
-story.'</quote><pb n="221"/><p>By the Author of 'Aunt Anne.'</p></div><div type="chapter"><head>
-LOVE-LETTERS OF A WORLDLY WOMAN.</head><p><hi>By Mrs.</hi> W. K.
-CLIFFORD,</p><p>Author of 'Aunt Anne,' 'Mrs. Keith's
-Crime,' etc.</p><p>Cloth, 2s. 6d.</p><p>Queen.</p><quote>'One of the cleverest books that ever a woman
-wrote.'</quote><p>Morning Post.</p><quote>'It is that <hi>rara avis</hi>—a volume
-characterized by knowledge of human nature and brightened by
-refined wit.'</quote><p>World.</p><quote>'A book that will gladden the hearts of those
-who love literature for its own sake.'</quote><p>Review of Reviews.</p><quote>'Many writers have pictured to us a woman, but
-none more successfully than Mrs. Clifford, whose Madge Brooke
-stands forth distinct and almost flesh and blood—a human
-document.'</quote></div><div type="chapter"><head>ON THE
-THRESHOLD.</head><p><hi>By</hi> ISABELLA O.
-FORD,</p><p>Author of 'Miss Blake, of Monkshalton.'</p><p>Cloth, 3s. 6d.</p><p>Guardian.</p><quote>'It is a relief to turn from many of the
-novels that come before us to Miss Ford's true, penetrating, and
-sympathetic description of the lives of some of the women of our
-day.'</quote><p>Bradford Observer.</p><quote>'Those who have followed and admired Miss
-Ford's active social and political work will be interested in this
-latest work of hers, and will understand its special
-characteristics. It only remains to be added that the literary
-workmanship of the book is excellent.'</quote><p>Hearth and Home.</p><quote>'A decidedly clever book.'</quote><pb n="222"/></div><div type="chapter"><head>MISTHER
-O'RYAN.</head><p>An Incident in the History of a Nation.</p><p><hi>By</hi> EDWARD McNULTY.</p><p>Small 8vo., elegantly bound, 3s. 6d.</p><p>National Observer.</p><quote>'"Ould Paddy" and the "poor dark cratur" are
-as pathetic figures as any we have met with in recent romance, and
-would alone stamp their creator as a writer of real force and
-originality.'</quote><p>Pall Mall Gazette.</p><quote>'An extremely well-written satire of the
-possibilities of blarney and brag.'</quote><p>Bookman.</p><quote>'An Irish story of far more than ordinary
-ability.'</quote><p>Church Times.</p><quote>'A sad story, but full of racy Irish wit.'</quote><p>Yorkshire Post.</p><quote>'It is a book to circulate everywhere, a book
-which, by its pathos and its power, its simplicity and its vivid
-truth, will impress the mind as the logic and the reasoning of the
-statesman too rarely do.'</quote></div><div type="chapter"><head>
-ORMISDAL.</head><p><hi>By the</hi> EARL OF
-DUNMORE, F.R.G.S.,</p><p>Author of 'The Pamirs.'</p><p>One vol., cloth, 6s.</p><p>Glasgow Herald.</p><quote>'In this breezy and entertaining novel Lord
-Dunmore has given us a very readable and racy story of the life
-that centres in a Highland shooting, about the end of August.'</quote><p>St. James's Gazette.</p><quote>'The impression left on the mind after laying
-down 
-"Ormisdal"
-is that Lord Dunmore is a remarkably lucky man to lead such a
-pleasant life among such charming people and in such charming
-places, and that everybody will be delighted to hear from him
-again, when he has more of the same sort to tell us, whether he
-wraps it up in a book of personal anecdote or a novel.'</quote><pb n="223"/></div><div type="chapter"><head>THAT
-FIDDLER FELLOW.
-<span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic;font-size:.8em;font-weight:normal;font-family:serif;">
-A TALE OF ST. ANDREWS.</span></head><p><hi>By</hi> HORACE G. 
-HUTCHINSON,</p><p>Author of 'My Wife's Politics,' 'Golf,'
-'Creatures of Circumstance,' etc.</p><p>Popular edition, crown 8vo., cloth, 2s.
-6d.</p><p>Spectator.</p><quote>'A singularly ingenious and interesting
-tale.'</quote><p>The World.</p><quote>'What Mr. Hutchinson writes is always pleasant
-to read.'</quote><p>The Guardian.</p><quote>'A strange history of hypnotism and crime,
-which will delight any lover of the grim and terrible.'</quote><p>National Observer.</p><quote>'An excellent story.'</quote><p>By the Author of 'Into the Highways and
-Hedges.'</p></div><div type="chapter"><head>THE
-BONDWOMAN.
-<span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic;font-size:.8em;font-weight:normal;font-family:serif;">
-A STORY OF THE NORTHMEN IN LAKELAND.</span></head><p><hi>By</hi> W. G. 
-COLLINGWOOD,</p><p>Author of 'Thorstein of the Mere,' 'The
-Life and Work of John Ruskin,' etc.</p><p>Cloth, 16mo., 3s. 6d.</p><p>Leeds Mercury.</p><quote>'As for the thrilling details of the plot, and
-the other sterling charms of the little work, we must refer our
-readers to its pages, especially those of them who may be touring,
-or contemplating a tour, in Westmorland and Cumberland.'</quote><p>Manchester Guardian.</p><quote>'Mr. Collingwood has attempted the almost
-impossible task of constructing the social life of a remote period,
-of evolving from dry and doubtful specimens the pulse and colour of
-a bygone age, and his success has been remarkable.'</quote><p>Glasgow Herald.</p><quote>'His story is a stirring and vigorous one,
-which can hardly fail to take hold of the imagination and leave a
-vivid impression on it.'</quote><pb n="224"/><p>TWO FAMOUS
-FRENCH NOVELS.</p></div><div type="chapter"><head>THE TUTOR'S
-SECRET.
-<span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic;font-size:.8em;font-weight:normal;font-family:serif;">
-(LE SECRET DU PRÉCEPTEUR.)</span></head><p>Translated from the French of VICTOR
-CHERBULIEZ.</p><p>One volume, crown 8vo., cloth, 6s.</p><p>Daily Chronicle.</p><quote>'M. Cherbuliez is to be congratulated on
-having found a translator who has done justice to him, and to do
-justice to M. Cherbuliez is no mean achievement, for he is one of
-the most artistic and delightful of modern French novelists. He is
-also one of the few whose works may be safely left lying about
-where the young person is prone to penetrate. In "The Tutor's
-Secret" all his finest qualities are to be found.'</quote><p>Manchester Guardian.</p><quote>'An admirable translation of a delightful
-novel. Those who have not read it in French must hasten to read it
-in English.'</quote><p>Westminster Gazette.</p><quote>'If Victor Cherbuliez did not already possess
-a great reputation his latest production would have been quite
-sufficient to secure him renown as a novelist. From the first line
-to the last we recognise a master hand at work, and there is not a
-page that even the veriest skimmer will care to pass 
-over.'</quote></div><div type="chapter"><head>THE MYSTERY
-OF THE RUE SOLY.</head><p>From the French of <hi>H. de
-Balzac</hi>, by <hi>Lady KNUTSFORD</hi>.</p><p>One volume, 8vo., cloth, 3s. 6d.</p><p>Spectator.</p><quote>'To place a first-rate foreign novel in reach
-of those whose education does not enable them to enjoy it in the
-original is to confer a real boon upon them; and everyone who is
-not a French scholar has much cause to be grateful to Lady
-Knutsford for the capital translation of Balzac's renowned
-Ferragus.'</quote><p>Scotsman.</p><quote>'Lady Knutsford's translation is
-excellent.'</quote><p>Speaker.</p><quote>'Admirably translated.'</quote><div xmlns="http://www.w3.org/1999/xhtml" style="border: dashed 1px;margin-left:10%;margin-right:10%;margin-top:2em;">
-<div style="margin-left:10%;margin-right:10%;">
-<head xmlns="http://www.tei-c.org/ns/1.0">Transcriber's Note</head>
-<p xmlns="http://www.tei-c.org/ns/1.0">Page numbers are documented as links within the source code.</p>
-<p xmlns="http://www.tei-c.org/ns/1.0">Inconsistencies have been retained in spelling, hyphenation,
-punctuation, and grammar, except where indicated in the list
-below:</p>
-<div style="margin-left:5%;margin-right:5%;">
-<ul><li/><li/><li/><li/><li/><li/><li/><li/><li/></ul>
-</div>
-</div>
-</div><quote><l>-->
+</TEI>

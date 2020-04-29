@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18920" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18920" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,7 +15,7 @@
       <measure unit="words">42280</measure>
       <measure unit="pages">218</measure>
       
-    </extent>  <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-09-28--></publicationStmt>
+    </extent>  <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
       <sourceDesc><bibl type="digitalSource"><title>The Diary of a Nobody
           by George Grossmith
           and Weedon Grossmith</title>
@@ -36,14 +33,14 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc><revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
       <change when="2018-09-23">LB made header</change>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text type="T3MSH">
     <front>
       
       <div type="titlepage">
@@ -97,7 +94,7 @@
           no inconvenience.</p>
         <p/>
         <gap unit="graphic" n="pic14"/>
-        <!--The Laurels.-->
+        
         <p>After my work in the City, I like to be at home. What's the good of a home, if you are
           never in it? "Home, Sweet Home," that's my motto. I am always in of an evening. Our old
           friend Gowing may drop in without ceremony; so may Cummings, who lives opposite. My dear
@@ -117,7 +114,7 @@
           ridiculous. Dear friend Gowing dropped in, but wouldn't stay, saying there was an infernal
           smell of paint.</p>
         <gap unit="graphic" n=""/>
-        <!--Our dear friend Gowing.-->
+        
         <p><label>April 4.</label>-Tradesmen still calling: Carrie being out, I arranged to deal
           with Horwin, who seemed a civil butcher with a nice clean shop. Ordered a shoulder of
           mutton for to-morrow, to give him a trial. Carrie arranged with Dorset, the butterman, and
@@ -148,7 +145,7 @@
           However, I will keep it for another occasion.</p>
         <p/>
         <gap unit="graphic" n="pic18"/>
-        <!--Our dear friend Cummings.-->
+        
         <p><label>April 7.</label>-Being Saturday, I looked forward to being home early, and putting
           a few things straight; but two of our principals at the office were absent through
           illness, and I did not get home till seven. Found Borset waiting. He had been three times
@@ -270,14 +267,14 @@
           By-the-by, that is rather funny.</p>
         <p/>
         <gap unit="graphic" n="pic29"/>
-        <!--Stillbrook lags behind. Going up hill.-->
+        
         <p><label>April 15, Sunday.</label>-At three o'clock Cummings and Gowing called for a good
           long walk over Hampstead and Finchley, and brought with them a friend <pb n="30"/> named
           Stillbrook. We walked and chatted together, except Stillbrook, who was always a few yards
           behind us staring at the ground and cutting at the grass with his stick.</p>
         <p/>
         <gap unit="graphic" n="pic30"/>
-        <!--Going down hill.-->
+        
         <p>As it was getting on for five, we four held a consultation, and Gowing suggested that we
           should make for "The Cow and Hedge" and get some tea. Stillbrook said: "A brandy-and-soda
           was good enough for him." I reminded them that all public-houses were closed till six
@@ -291,7 +288,7 @@
         <pb n="[31]"/>
         <p/>
         <gap unit="graphic" n="pic31"/>
-        <!--Nearly there.-->
+        
         <p>Gowing called to me across the gate, and said: "We shan't be a minute." I waited for them
           the best part of an hour. When they appeared they were all in most excellent spirits, and
           the only one who made an effort to apologise was Mr. Stillbrook, who said to me: "It was
@@ -332,9 +329,7 @@
         <pb n="35&#xA;36"/>
         <p/>
         <gap unit="graphic" n="pic35"/>
-        <!--"Please, sir, the grocer says he ain't got no
-more Kinahan,
-but you'll find this very good at two-and-six."-->
+        
       </div>
       <div type="chapter">
         <head>CHAPTER III.</head>
@@ -427,8 +422,7 @@ but you'll find this very good at two-and-six."-->
         <pb n="45"/>
         <p/>
         <gap unit="graphic" n="pic45"/>
-        <!--I painted the washstand in the servant's
-bedroom.-->
+        
         <p><label>April 26.</label>-Got some more red enamel paint (red, to my mind, being the best
           colour), and painted the coal-scuttle, and the backs of our <title>Shakspeare</title>, the
           binding of which had almost worn out.</p>
@@ -482,8 +476,7 @@ bedroom.-->
           acceptable. I lay still for some time.</p>
         <p/>
         <gap unit="graphic" n="pic49"/>
-        <!--"I looked like Marat in the bath, Madame
-Tussaud's."-->
+        
         <p>On moving my hand above the surface of the water, I experienced the greatest fright I
           ever received in the whole course of my life; for imagine my horror on discovering my
           hand, as I thought, full of blood. <pb n="50"/> My first thought was that I had ruptured
@@ -526,9 +519,7 @@ Tussaud's."-->
         <pb n="55"/>
         <p/>
         <gap unit="graphic" n="pic55"/>
-        <!--"I seized her round the waist, and we were silly
-enough to be executing a wild kind of polka when Sarah
-entered."-->
+        
         <pb n="56"/>
         <p><label>May 2.</label>-Sent my dress-coat and trousers to the little tailor's round the
           corner, to have the creases taken out. Told Gowing not to call next Monday, as we were
@@ -565,8 +556,7 @@ entered."-->
         <pb n="[58]"/>
         <p/>
         <gap unit="graphic" n="pic58"/>
-        <!--"The greengrocer's boy . . . who pushed into my
-hands two cabbages and half-a-dozen coal-blocks."-->
+        
         <p>However, Mrs. James brought me down another shirt, which I changed in the drawing-room. I
           put a piece of court-plaister on my chin, and Sarah very neatly sewed up the tear at the
           knee. At nine o'clock Carrie swept into the room, looking like a queen. Never have I seen
@@ -699,8 +689,7 @@ hands two cabbages and half-a-dozen coal-blocks."-->
           was not desirable."</p>
         <p/>
         <gap unit="graphic" n="pic70"/>
-        <!--Mr. Farmerson smokes
-all the way home in the cab.-->
+        
         <p>Goodness knows I felt humiliated enough at this; but, to make matters worse, Gowing
           entered the room, without knocking, with two hats on his head and holding the garden-rake
           in his hand, with Carrie's fur tippet (which he had taken off the downstairs hall-peg)
@@ -777,7 +766,7 @@ all the way home in the cab.-->
           used for packing and bookbinding, why didn't you say so?"</p>
         <p/>
         <gap unit="graphic" n="pic76"/>
-        <!--Mr. Franching, of Peckham.-->
+        
         <p><label>June 7.</label>-A dreadful annoyance. Met Mr. Franching, who lives at Peckham, and
           who is a great swell in his way. I ventured to ask him to come home to meat-tea and take
           pot-luck. I did <pb n="76"/> not think he would accept such a humble invitation; but he
@@ -798,8 +787,7 @@ all the way home in the cab.-->
         <pb n="[77]"/>
         <p/>
         <gap unit="graphic" n="pic77"/>
-        <!--The grocer boy was actually picking off the
-paint on the side door, which had formed into blisters.-->
+        
         <p>Eventually Carrie, like a good creature as she is, slipped down, washed up the tea-cups,
           and laid the cloth, and I gave Franching our views of Japan to look at while I ran round
           to the butcher's to get three chops.</p>
@@ -844,8 +832,7 @@ paint on the side door, which had formed into blisters.-->
           roared if I went on the stage like it.</p>
         <p/>
         <gap unit="graphic" n="pic81"/>
-        <!--Young Pitt called out "Hornpipe" as I passed his
-desk.-->
+        
         <p><label>August 2.</label>-Mrs. Beck wrote to say we could have our usual rooms at
           Broad­stairs. That's off our mind. Bought a coloured shirt and a pair of <pb n="82"/>
           tan-coloured boots, which I see many of the swell clerks wearing in the City, and I hear
@@ -882,7 +869,7 @@ desk.-->
           'Willie' me there, they wouldn't know what you meant."</p>
         <p/>
         <gap unit="graphic" n="pic86"/>
-        <!--Lupin.-->
+        
         <p>Of course, Lupin being a purely family name, Carrie was delighted, and began by giving a
           long history of the Lupins. I ventured to say that I thought William a nice simple name,
           and reminded him he was christened after his Uncle William, who was much respected in the
@@ -954,9 +941,7 @@ desk.-->
           coming to.</p>
         <p/>
         <gap unit="graphic" n="pic91"/>
-        <!--"Lupin positively refused to walk down the
-Parade with me because I was wearing my new straw helmet with my
-frock-coat."-->
+        
         <p><label>August 17.</label>-Lupin not falling in with our views, Carrie and I went for a
           sail. It was a relief to be <pb n="92"/> with her alone; for when Lupin irritates me, she
           always sides with him. On our return, he said: "Oh, you've been on the 'Shilling Emetic,'
@@ -979,9 +964,7 @@ frock-coat."-->
         <pb n="[94]"/>
         <p/>
         <gap unit="graphic" n="pic94"/>
-        <!--We play the game of "Cutlets." When we had all
-sat on each other's laps,
-Gowing said: "Are you a believer in the Great Mogul?"-->
+        
         <p><label>August 20.</label>-I am glad our last day at the seaside was fine, though clouded
           overhead. We went over to Cummings' (at Margate) in the evening, and as it was cold, we
           stayed in and played games; Gowing, as usual, overstepping the mark. He suggested we
@@ -999,7 +982,7 @@ Gowing said: "Are you a believer in the Great Mogul?"-->
         <pb n="[95]"/>
         <p/>
         <gap unit="graphic" n="pic95"/>
-        <!--Gowing said: "So am I," and suddenly got up.-->
+        
       </div>
       <div type="chapter">
         <head>CHAPTER VII.</head>
@@ -1018,8 +1001,7 @@ Gowing said: "Are you a believer in the Great Mogul?"-->
           is a little down, Carrie invited Mrs. James to come up from Sutton and spend two or three
           days with us. We have not said a word to Lupin, but mean to keep it as a surprise.</p>
         <gap unit="graphic" n=""/>
-        <!--I hung up a stag's head made of
-plaster-of-Paris.-->
+        
         <p><label>August 25.</label>-Mrs. James, of Sutton, arrived in the afternoon, bringing with
           her an enormous bunch of wild flowers. The more I see of Mrs. James the nicer I think she
           is, and she is devoted to Carrie. She went into Carrie's room to take off her bonnet, and
@@ -1115,7 +1097,7 @@ plaster-of-Paris.-->
           afterwards, he was positively dancing in his room, and shouting out, "See me dance the
           polka!" or some such nonsense.</p>
         <gap unit="graphic" n=""/>
-        <!--Mr. Perkupp.-->
+        
         <p><label>November 3.</label>-Good news at last. Mr. Perkupp has got an appointment for
           Lupin, and he is to go and see about it on Monday. Oh, how <pb n="107"/> my mind is
           relieved! I went to Lupin's room to take the good news to him, but he was in bed, very
@@ -1135,7 +1117,7 @@ plaster-of-Paris.-->
         <pb n="109&#xA;110"/>
         <p/>
         <gap unit="graphic" n="pic109"/>
-        <!--Lupin said: "I'm engaged to be married."-->
+        
       </div>
       <div type="chapter">
         <head>CHAPTER VIII.</head>
@@ -1149,8 +1131,7 @@ plaster-of-Paris.-->
           fifty years he would wait, and he knew she would wait for him.</p>
         <p/>
         <gap unit="graphic" n="punch95-245"/>
-        <!--Portrait of Nobody,
-by Himself.-->
+        
         <p>Lupin further said, with much warmth, that the world was a different world to him now,-it
           was a world worth living in. He lived with an object now, and that was to make Daisy
           Mutlar-Daisy Pooter, and he would guarantee she would <pb n="114"/> not disgrace the
@@ -1208,7 +1189,7 @@ by Himself.-->
           hat and coat, and went out with his new companion.</p>
         <p/>
         <gap unit="graphic" n="punch95-256"/>
-        <!--Nobody Nose.-->
+        
         <p><label>November 9.</label>-My endeavours to discover who tore the sheets out of my diary still
           fruitless. Lupin has Daisy Mutlar on the brain, so we see little of him, except that he
           invariably turns up at meal times. Cummings dropped in.</p>
@@ -1239,7 +1220,7 @@ by Himself.-->
           was kicking his legs in the air, and roaring with laughter.</p>
         <p/>
         <gap unit="graphic" n="pic119"/>
-        <!--Daisy Mutlar.-->
+        
         <p><label>November 12, Sunday.</label>-Coming home from church Carrie and I met Lupin, Daisy Mutlar, and
           her brother. Daisy was introduced to us, and we walked home <pb n="120"/> together, Carrie
           walking on with Miss Mutlar. We asked them in for a few minutes, and I had a good look at
@@ -1382,7 +1363,7 @@ by Himself.-->
           dream about a dozen times.</p>
         <p/>
         <gap unit="graphic" n="punch95-309"/>
-        <!--Nobody's Child.-->
+        
         <p>Carrie annoyed me by saying: "You know champagne never agrees with you." I told her I had
           only a couple of glasses of it, having kept myself entirely to port. I added that good
           champagne hurt nobody, <pb n="134"/> and Lupin told me he had only got it from a traveller
@@ -1489,7 +1470,7 @@ by Himself.-->
         <pb n="[143]"/>
         <p/>
         <gap unit="graphic" n="pic143"/>
-        <!--Mr. Burwin-Fosselton at supper.-->
+        
         <p>When he went, he said, to our surprise: "I will come to-morrow and bring my Irving
           make-up." Gowing and Cummings said they would like to see it and would come too. I could
           not help thinking they might as well give a party at my house while they are about it.
@@ -1507,7 +1488,7 @@ by Himself.-->
         <pb n="[145]"/>
         <p/>
         <gap unit="graphic" n="pic145"/>
-        <!--Mr. Padge.-->
+        
         <p>I must say we were all astounded. I never saw such a resemblance. It was astonishing. The
           only person who did not appear interested was the man Padge, who had got the best
           arm-chair, and was puffing away at a foul pipe into the fireplace. After some little time
@@ -1532,7 +1513,7 @@ by Himself.-->
         <pb n="[147]"/>
         <p/>
         <gap unit="graphic" n="pic147"/>
-        <!--Lupin announces "Mr. Henry Irving".-->
+        
         <p><label>November 24.</label>-I went to town without a pocket-handkerchief. This is the
           second time I have done this during the last week. I must be losing my memory. Had it not
           been for this Daisy Mutlar business, I would have written to Mr. Burwin-Fosselton and told
@@ -1975,7 +1956,7 @@ by Himself.-->
           Chlorates</hi>."</p>
         <p/>
         <gap unit="graphic" n="punch96-97"/>
-        <!--Nobody did it.-->
+        
         <p><label>January 21.</label>-I am very much concerned at Lupin having started a pony-trap.
           I said: "Lupin, are you justified in this outrageous extravagance?" Lupin replied: "Well,
           one must get to the City somehow. I've only hired it, and can give it up any time I like."
@@ -2144,7 +2125,7 @@ by Himself.-->
           he would never go in a <pb n="198"/> hansom cab, nor would he enter a four-wheeler until
           the driver had first got on the box with his reins in his hands.</p>
         <gap unit="graphic" n=""/>
-        <!--Mr. Murray Posh.-->
+        
         <p>On being introduced, Gowing, with his usual want of tact, said: "Any relation to 'Posh's
           three-shilling hats'?" Mr. Posh replied: "Yes; but please understand I don't try on hats
           myself. I take no <hi>active</hi> part in the business." I replied: "I wish I had a
@@ -2347,8 +2328,7 @@ by Himself.-->
           table.</p>
         <p/>
         <gap unit="graphic" n="pic222"/>
-        <!--Young Griffin boys making faces, whistling, and
-imitating birds.-->
+        
         <p><label>April 16.</label>-The night of the East Acton Volunteer Ball. On my advice, Carrie
           put on the same dress that she looked so beautiful in at the Mansion <pb n="223"/> House,
           for it had occurred to me, being a military ball, that Mr. Perkupp, who, I believe, is an
@@ -2557,7 +2537,7 @@ imitating birds.-->
         <pb n="239"/>
         <p/>
         <gap unit="graphic" n="pic239"/>
-        <!--"He is dead too."-->
+        
         <pb n="240"/>
         <p>In this I was mistaken, for he was not at all particular in several of his remarks after
           dinner. In fact I was so ashamed of one of his observations that I took the opportunity to
@@ -2653,7 +2633,7 @@ imitating birds.-->
           Columbus and Stephenson had been orthodox, there would neither have been the discovery of
           America nor the steam-engine." There was quite a silence.</p>
         <gap unit="graphic" n=""/>
-        <!--"'Orthodox' is a grandiloquent word."-->
+        
         <p>It appeared to me that such teaching was absolutely dangerous, and yet I felt-in fact we
           must all have felt-there was no answer to the argument. A little later on, Mrs. Purdick,
           who is Franching's sister and also acted as hostess, rose from the table, and Mr. Huttle
@@ -2896,8 +2876,7 @@ imitating birds.-->
           here, dear, and listen to this."</p>
         <p/>
         <gap unit="graphic" n="pic270"/>
-        <!--Master Percy Edgar
-Smith James.-->
+        
         <p>He detached his chronometer from the chain and made his watch strike six.</p>
         <p>To our horror, the child snatched it from his hand and bounced it down upon the ground
           like one would a ball.</p>
@@ -2995,7 +2974,7 @@ Smith James.-->
         <pb n="[277]"/>
         <p/>
         <gap unit="graphic" n="pic277"/>
-        <!--"The table kept tilting towards me."-->
+        
         <p><label>June 3.</label>-The laundress called, and said she was very sorry about the
           handkerchiefs, and returned ninepence. I said, as the colour was completely washed out and
           the handkerchiefs quite spoiled, ninepence was not enough. Carrie replied that the two
@@ -3182,7 +3161,7 @@ Smith James.-->
         <pb n="292"/>
         <p/>
         <gap unit="graphic" n="pic292"/>
-        <!--"Lillie Girl."-->
+        
         <p>We were introduced to Miss Posh, whom Lupin called "Lillie Girl," as if he had known her
           all her life. She was very tall, rather plain, and I thought she was a little painted
           round the eyes. I hope I am wrong; but she had such fair hair, and yet her eyebrows were

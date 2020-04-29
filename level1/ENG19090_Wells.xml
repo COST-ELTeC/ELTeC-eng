@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19090" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19090" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -24,7 +21,7 @@
                     <measure unit="words">133529</measure>
                     
                </extent>
-               <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+               <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
                <sourceDesc><bibl type="digitalSource">
                          <title>The Project Gutenberg EBook of Tono Bungay, by H. G. Wells</title>
                          <ref target="http://www.gutenberg.org/ebooks/718"/>
@@ -44,21 +41,16 @@
                <textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
                </textDesc>
           </profileDesc>
-          <!-- TODO
-               distinguish hyphens and mdashes
-               add page numbers
-               smarten quotes
-               turns CAPS to emph where app
-               -->
+          
           <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
                <change when="2018-08-31">LB First TEI version</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T4MLH">
           <front>
                <div type="titlepage">
                     <p>TONO-BUNGAY</p>
@@ -1994,7 +1986,7 @@
                               England. They could not have made Bladesover they cannot replace it;
                               they just happen to break out over it—saprophytically.</p>
                          <p>Well—that was my last impression of Bladesover.</p>
-                    </div><!-- hyphen/dash restart here -->
+                    </div>
                     <div type="chapter">
                          <head>CHAPTER THE THIRD</head>
                          <head>THE WIMBLEHURST APPRENTICESHIP</head>

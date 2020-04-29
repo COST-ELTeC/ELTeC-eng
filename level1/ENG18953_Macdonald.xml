@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18953" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18953" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +18,7 @@
       <sourceDesc>
         <bibl type="digitalSource"><title>Lilith: A Romance</title><author> George MacDonald
             </author><title level="s">Christian Classics Ethereal Library</title><publisher>Grand
-            Rapids, MI: Christian Classics Ethereal Library</publisher><date/><bibl
-            type="firstEdition"><title>Lilith: A Romance</title><author>MacDonald, George
+            Rapids, MI: Christian Classics Ethereal Library</publisher><date/><bibl type="firstEdition"><title>Lilith: A Romance</title><author>MacDonald, George
               (1824-1905).</author><publisher>London: Chatto and
             Windus</publisher><date>1895</date></bibl></bibl>
       </sourceDesc>
@@ -38,7 +33,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
@@ -47,7 +42,7 @@
     </revisionDesc>
   </teiHeader>
 
-  <text xmlns="http://www.tei-c.org/ns/1.0">
+  <text type="T3MMH">
     <front>
       <div type="titlepage">
         <p>Lilith, </p>
@@ -6933,8 +6928,7 @@
           indeed—yet ever expanding, ever making room to receive—was the conscious being where
           things kept entering by so many open doors! When a little breeze brushing a bush of
           heather set its purple bells a ringing, I was myself in the joy of the bells, myself in
-          the joy of the breeze to which responded their sweet <emph>tin-tinning</emph>,<ref
-            target="#N2"/> myself in the joy of the sense, and of the soul that received
+          the joy of the breeze to which responded their sweet <emph>tin-tinning</emph>,<ref target="#N2"/> myself in the joy of the sense, and of the soul that received
           all the joys together. To everything glad I lent the hall of my being wherein to revel. I
           was a peaceful ocean upon which the ground-swell of a living joy was continually lifting
           new waves; yet was the joy ever the same joy, the eternal joy, with tens of thousands of

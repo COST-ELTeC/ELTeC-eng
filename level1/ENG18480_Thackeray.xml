@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,7 +10,7 @@
             <extent>
                 <measure unit="words">298740</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2018-11-02--></publicationStmt>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
             <sourceDesc><bibl type="digitalSource"><author>Thackeray, William Makepeace</author> <title>Vanity Fair, A Novel without a Hero. Vols. V &amp; VI</title>
                     <title level="s">Harvard Classics Shelf of Fiction.</title> 
                     <publisher>New York: P.F. Collier &amp; Son, 1917</publisher>
@@ -31,49 +28,16 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
             </textDesc>
         </profileDesc>
         <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-11-02">LB made header</change>
         </revisionDesc>
-        <!--<bibl xml:id="B7155" n="vanityfair|Thackeray">
-        <author ref="M:1499">Thackeray, William Makepeace (1811-1863).</author>
-        <title>Vanity Fair: A Novel without a Hero</title>
-        <publisher>London: Bradbury and Evans</publisher>
-        <date>1848</date>
-        <ref target="pg:599">ProjectGutenberg</ref>
-        <ref target="ht:ht:coo.31924014212728">HathiTrust</ref>
-        <ref target="ht:ht:coo.31924014212736">HathiTrust</ref>
-        <ref target="ht:ht:pst.000030492653">HathiTrust</ref>
-        <ref target="ht:ht:pst.000030492660">HathiTrust</ref>
-        <ref target="ht:ht:uva.x002138921">HathiTrust</ref>
-        <ref target="ht:ht:nyp.33433075766273">HathiTrust</ref>
-        <ref target="ht:ht:ucm.5324200923">HathiTrust</ref>
-        <ref target="ht:ht:ucm.5324200950">HathiTrust</ref>
-        <ref target="ht:ht:uc1.32106006123852">HathiTrust</ref>
-        <ref target="ht:ht:umn.31951p01084105p">HathiTrust</ref>
-        <ref target="ht:ht:uva.x000207544">HathiTrust</ref>
-        <ref target="ht:ht:uc1.b3548709">HathiTrust</ref>
-        <ref target="ht:ht:uc1.b3548710">HathiTrust</ref>
-        <ref target="ht:ht:mdp.39015066716625">HathiTrust</ref>
-        <ref target="ht:ht:uva.x000272348">HathiTrust</ref>
-        <ref target="ht:ht:mdp.39015010501297">HathiTrust</ref>
-        <ref target="ht:ht:mdp.39015010612672">HathiTrust</ref>
-        <ref target="ht:ht:mdp.39015010612698">HathiTrust</ref>
-    </bibl>-->
-        <!--AUTHOR:	Thackeray, William Makepeace, 1811–1863.
-TITLE:	Vanity fair, a novel without a hero, by William Makepeace Thackeray.
-SERIES:	The Harvard classics shelf of fiction, selected by Charles W. Eliot, with notes and introductions by William Allan Neilson.
-PUBLISHED:	New York: P.F. Collier & Son, 1917.
-PHYSICAL DETAILS:	Vols. 5 & 6 of 20; 21 cm.
-OTHER AUTHORS:	Eliot, Charles William, 1834–1926
-Neilson, William Allan, 1869–1946, ed.
-CITATION:	Thackeray, William Makepeace. Vanity Fair, A Novel without a Hero. Vols. V & VI. Harvard Classics Shelf of Fiction. New York: P.F. Collier & Son, 1917; Bartleby.com, 2000. www.bartleby.com/305/. [Date of Printout].
-ON-LINE ED.:	Published September 2000 by Bartleby.com; © 2000 Copyright Bartleby.com, Inc. (Terms of Use).
- --> </teiHeader>
-<text>
+        
+         </teiHeader>
+<text type="T1MLH">
     <front>
         <div type="titlepage">
             <p>Vanity Fair </p>

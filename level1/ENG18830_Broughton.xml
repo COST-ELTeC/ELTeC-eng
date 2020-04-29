@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18830">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18830">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -15,7 +12,7 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">138769</measure><measure unit="pages">877</measure></extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-06--></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource"><title>Belinda: A Novel</title><title>Nineteenth-Century Fiction Full-Text
 Database</title><publisher>Chadwyck-Healey Ltd (A Bell &amp; Howell Information and Learning
 company)</publisher><date>2000</date></bibl><bibl type="printSource"><title>Belinda: A Novel</title><author>Broughton, Rhoda
@@ -31,7 +28,7 @@ company)</publisher><date>2000</date></bibl><bibl type="printSource"><title>Beli
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>
@@ -39,7 +36,7 @@ company)</publisher><date>2000</date></bibl><bibl type="printSource"><title>Beli
 <change when="2019-01-06">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
-<text>
+<text type="T3FLU">
 <front>
 <div type="titlepage">
 <p>Belinda. A Novel. By Rhoda Broughton ... In Three Volumes</p>
@@ -48,7 +45,7 @@ company)</publisher><date>2000</date></bibl><bibl type="printSource"><title>Beli
 </front>
 <body>
 <div type="group">
-<!--<head>VOL. I.</head>-->
+
 <head>PERIOD I .</head>
 <quote><l>"Mignonne, allons voir si la rose</l><l>Qui ce matin avait disclose</l><l>Sa robe de
 pourpre au soleil</l><l>A point perdu ceste vesprée,</l><l>Les plis de sa robe pourprée</l><l>Et son
@@ -3530,7 +3527,7 @@ an atmosphere as this? What is the use of struggling—of trying—"</p>
 hands.</p>
 <p>But Sarah only says, "Poor dear!" in a very lenient voice, and kisses all the dogs.</p>
 </div>
-<!--<p>END OF VOL. I.</p><pb/></div><div type="chapter"><head>VOL. II.</head><pb/></div><div type="chapter"><head>PERIOD II.—continued.</head><pb/></div>-->
+
 <div type="chapter">
 <head>CHAPTER III.</head>
 <p><hi>The</hi> year declines towards its mirk close. Every day a little more is taken from the
@@ -6961,7 +6958,7 @@ towards the door, not giving one glance to see how far her shaft has gone home. 
 room she breaks into hysterical sobbing. "If he had taken it differently, he might have made a
 friend for life of me!" she cries.</p>
 <p>This is, perhaps, putting it a little strongly.</p>
-<!--<p>END OF VOL. II.</p><pb/></div><div type="chapter"><head>VOL. III.</head><pb/></div><div type="chapter"><head>PERIOD III.—continued.</head><pb/>-->
+
 </div>
 <div type="chapter">
 <head>CHAPTER VII.</head>

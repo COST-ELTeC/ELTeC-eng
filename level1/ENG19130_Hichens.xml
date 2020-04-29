@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19130" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19130" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -10,15 +9,13 @@
                          <name>Lou Burnard</name>
                     </respStmt>
                </titleStmt>
-               <extent><measure unit="words">156642</measure><measure unit="pages"
-                    >473</measure></extent>
+               <extent><measure unit="words">156642</measure><measure unit="pages">473</measure></extent>
                <publicationStmt>
                     <p>Published as part of ELTeC <date>2020-03-29</date></p>
                </publicationStmt>
                <sourceDesc>
                     <bibl type="digitalSource"><title>The Project Gutenberg eBook of The Way Of
-                              Ambition, by Robert Hichens.</title><ref target="gut:19491"
-                              >Gutenberg</ref></bibl>
+                              Ambition, by Robert Hichens.</title><ref target="gut:19491">Gutenberg</ref></bibl>
                     <bibl type="printSource"><title>The way of ambition</title><author>Robert
                               Hichens</author><publisher>Frederick A. Stokes
                               Company</publisher><date>1913</date></bibl>
@@ -35,7 +32,7 @@
                <textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                    <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
                </textDesc>
           </profileDesc>
@@ -43,7 +40,7 @@
                <change when="2020-03-29">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T4MLL">
           <front>
                <div type="titlepage">
                     <gap unit="graphic"/>
@@ -193,8 +190,7 @@
                     <p>"I always said there was intellectual cruelty in mother," said Charmian,
                          drawing her armchair nearer to the fire.</p>
                     <p>"It's bracing, tones up the mind," said Paul Lane. "But what about this new
-                         note? All we know is a Cornish extraction, a banker papa and a Te Deum."<pb
-                             /></p>
+                         note? All we know is a Cornish extraction, a banker papa and a Te Deum."<pb/></p>
                     <p>"Oh—a Te Deum!" observed Mrs. Mansfield, looking suddenly sceptical.</p>
                     <p>"I know! I know!" said Max Elliot. "I didn't want to hear it till I had heard
                          it. And then I wanted to hear nothing else. The touch of genius startles
@@ -919,8 +915,7 @@
                          they were soon at home.</p>
                     <p>Twelve o'clock was striking as they entered the house. The evening, Mrs.
                          Mansfield thought, had passed quickly. She was a bad sleeper, and seldom
-                         went to bed before one, but she never kept a maid sitting up for her.<pb
-                             /></p>
+                         went to bed before one, but she never kept a maid sitting up for her.<pb/></p>
                     <p>"I'm going to read a book," she said to Charmian, with her hand on the door
                          of the small library on the first floor, where she usually sat when she was
                          alone.</p>
@@ -1156,8 +1151,7 @@
                          I can just afford my little house and to live without earning a penny."</p>
                     <p>A woman servant, not Mrs. Searle, came in with tea and retreated, walking
                          very softly and slowly. She looked almost rustic.</p>
-                    <p>"That's my only other servant, Harriet," said Heath, pouring out tea.<pb
-                         /></p>
+                    <p>"That's my only other servant, Harriet," said Heath, pouring out tea.<pb/></p>
                     <p>"There's something very un-Londony in it all," said Mrs. Mansfield, again
                          looking round, almost with a puzzled air.</p>
                     <p>"That's what I try for. I'm fond of London in a way, but I can't bear
@@ -1388,8 +1382,7 @@
                          strained her ears. And she murmured, "And the water thereof was dried up,
                          that the way of the Kings of the East might be prepared."</p>
                     <p>The gleam was lost in the night. She leaned back and found herself wondering
-                         what Charmian would have thought of the music she had just heard.<pb
-                         /></p>
+                         what Charmian would have thought of the music she had just heard.<pb/></p>
                </div>
                <div type="chapter">
                     <head>CHAPTER V</head>
@@ -1519,8 +1512,7 @@
                          one."</p>
                     <p>"He does, apparently, unless it's really Charmian."</p>
                     <p>"The girl? She's not bad. Wants to be much cleverer than she is, of course,
-                         like pretty nearly all the girls, except the sporting lot; but not bad."<pb
-                             /></p>
+                         like pretty nearly all the girls, except the sporting lot; but not bad."<pb/></p>
                     <p>"Jimmy"—Mrs. Shiffney's eyes began once more to look audacious—"shall I ask
                          Charmian Mansfield to come on the yacht?"</p>
                     <p>"You think that might bring him? Why not ask both of them?"</p>
@@ -1967,8 +1959,7 @@
                          many times had he blessed his thousand a year, that armor of gold with
                          which fate had provided him! How often had he imagined himself stripped of
                          it, realized mentally the sudden and fierce alteration in his life and
-                         eventually, no doubt, in himself that must follow if poverty came!<pb
-                         /></p>
+                         eventually, no doubt, in himself that must follow if poverty came!<pb/></p>
                     <p>He had a horror of the jealousies, the quarrels, the hatreds, the lies, the
                          stabbings in the dark that make too often hideous, despicable, and terrible
                          a world that should be very beautiful. During his musical education he had
@@ -2164,8 +2155,7 @@
                     <p>"I want the composer of the music I heard at the little house to be very
                          strong in every way. No, no; I am not going to try to guide you, my
                          friend!"</p>
-                    <p>There was a sound in her voice as if she were speaking to herself.<pb
-                         /></p>
+                    <p>There was a sound in her voice as if she were speaking to herself.<pb/></p>
                     <p>"I never met anyone so capable of comradeship—no woman, I mean—as you."</p>
                     <p>"That's a compliment I like!"</p>
                     <p>At this moment the door opened and Charmian came in, wrapped in furs, her
@@ -2764,8 +2754,7 @@
                     <p>"I never do it," replied Miss Fleet.</p>
                     <p>She had charming hands. One of them lay on the little table with a beam of
                          the sun on it.</p>
-                    <p>"Perhaps you haven't great desires? Perhaps you don't want many things?"<pb
-                             /></p>
+                    <p>"Perhaps you haven't great desires? Perhaps you don't want many things?"<pb/></p>
                     <p>"I suppose I've been like most women in that respect. But I shall be fifty
                          almost directly."</p>
                     <p>"How frightful!" was Charmian's mental comment.</p>
@@ -3450,8 +3439,7 @@
                          did."</p>
                     <p>"Do you think so?"</p>
                     <p>"I'm afraid I didn't think very much about it. But I begin to wonder now. I
-                         think she's so unselfish that perhaps she makes other people selfish."<pb
-                             /></p>
+                         think she's so unselfish that perhaps she makes other people selfish."<pb/></p>
                     <p>"You made great friends, didn't you?"</p>
                     <p>"Yes. I think she's rather wonderful. She's very unlike other women. She
                          seemed actually glad to give me the address of the place where she gets her
@@ -3601,8 +3589,7 @@
                          looking for Africa, but she did not know it.</p>
                     <p>Although he did not see what Charmian had done to her face, he noticed change
                          in her. She seemed to him more of a personage than she had seemed before
-                         she went away. He was not sure that he liked the change. But it made an<pb
-                             /> impression upon him. And what he considered as the weakness
+                         she went away. He was not sure that he liked the change. But it made an<pb/> impression upon him. And what he considered as the weakness
                          within him felt a desire to please and conciliate it.</p>
                     <p>Mrs. Mansfield had seen at a glance that Charmian had touched up her face,
                          but she showed nothing of what she felt, if she felt anything, about this
@@ -3912,8 +3899,7 @@
                     <p>Susan Fleet was now in town. After the trip to Algiers she had been to
                          Folkestone to visit her mother and dear old Mrs. Simpkins. She had also
                          combined business with pleasure and been fitted for a new coat and skirt. A
-                         long telegram from Adelaide Shiffney called her back to London to under-<pb
-                             />take secretarial and other duties. As the season approached Mrs.
+                         long telegram from Adelaide Shiffney called her back to London to under-<pb/>take secretarial and other duties. As the season approached Mrs.
                          Shiffney's life became increasingly agitated. Miss Fleet was an excellent
                          hand at subduing, or, if that were impossible, at getting neatness into
                          agitation. She knew well how to help fashionable women to be absurd with
@@ -3980,8 +3966,7 @@
                     <p>"I hardly know. People say my ideas about looks are all crazy. I can't admire
                          many so-called beauties, you see. There's more expression in your face, I
                          think. But I don't know that I should call it happy expression."</p>
-                    <p>"I wish I were like you. I wish I could feel indifferent to happiness!"<pb
-                             /></p>
+                    <p>"I wish I were like you. I wish I could feel indifferent to happiness!"<pb/></p>
                     <p>"I don't suppose I am indifferent. Only I don't feel that every small thing
                          of to-day has power over me, any more than I feel that a grain of dust
                          which I can flick from my dress makes me unclean. It's a long journey we
@@ -4115,8 +4100,7 @@
                     <p>Mrs. Mansfield's perceptions were very keen. Yet she was puzzled by Heath.
                          She realized that he was disturbed and attributed that disturbance to
                          Charmian. Had he suspected, or found out, that Charmian imagined herself to
-                         be in love with him? He came as usual to the house. His friendship with<pb
-                             /> Mrs. Mansfield did not seem to her to have changed. But his
+                         be in love with him? He came as usual to the house. His friendship with<pb/> Mrs. Mansfield did not seem to her to have changed. But his
                          relation to Charmian was not what it had been. Indeed, it was scarcely
                          possible that it should be so. For Charmian had continued to be definite
                          ever since her drastic remarks at dinner on the evening of her return. She
@@ -4332,8 +4316,7 @@
                     <p>"Madame Sennier speaks English?" said Mrs. Mansfield.</p>
                     <p>"Excellently!"</p>
                     <p>Charmian felt disappointed.</p>
-                    <p>"Is she happy?" she asked, moving her hand on the edge of the box.<pb
-                         /></p>
+                    <p>"Is she happy?" she asked, moving her hand on the edge of the box.<pb/></p>
                     <p>"She seems so."</p>
                     <p>"Did you tell her what you thought?"</p>
                     <p>"Yes," said Heath.</p>
@@ -4636,8 +4619,7 @@
                     <p>Was it the sound, or was it the movement preceding the sound, which had
                          worked a cold change in his heart? He felt almost stunned by what he had
                          done, like a man who strikes and sees the result of his blow, who has not
-                         measured its force, and sees his victim measure it. Eight-forty <hi>A.M.<pb
-                                  /></hi></p>
+                         measured its force, and sees his victim measure it. Eight-forty <hi>A.M.<pb/></hi></p>
                     <p>A step sounded. He looked, and saw in the distance the large policeman slowly
                          advancing.</p>
                     <p>When he was again in his house he closed the front door softly, and went once
@@ -5366,8 +5348,7 @@
                     <p>"Did she enjoy her visit?"</p>
                     <p>"Immensely. She's—as she calls it—tickled to death with the Americans in
                          their own country. She meant to stay only one night, but she was there
-                         three weeks. It seems all New York has gone mad over Jacques Sennier."<pb
-                             /></p>
+                         three weeks. It seems all New York has gone mad over Jacques Sennier."<pb/></p>
                     <p>"I'm glad they see how really fine his opera is," Claude said, seriously,
                          even earnestly.</p>
                     <p>"Margot says when the Americans like anything they are the most enthusiastic
@@ -5541,8 +5522,7 @@
                     <p>"Yes, ma'am. It's a mighty fine studio. The Baron was sorry to leave it, but
                          he had to go back to Vi-henner."</p>
                     <p>"I see."</p>
-                    <p>"Now the next thing is to furnish it," said Charmian, as they walked away.<pb
-                             /></p>
+                    <p>"Now the next thing is to furnish it," said Charmian, as they walked away.<pb/></p>
                     <p>"I shall only want my piano, a chair, and a table," said Claude.</p>
                     <p>It was only by making a very great effort that he was able to speak
                          naturally, with any simplicity.</p>
@@ -6079,8 +6059,7 @@
                          was a little brown wart. When he was introduced to Charmian he sent her a
                          glance which she interpreted as meaning, "What does this woman want of me?"
                          It showed her how this man was bombarded, how instinctively ready he was to
-                         be alertly on the defensive if he judged defense to be necessary.<pb
-                         /></p>
+                         be alertly on the defensive if he judged defense to be necessary.<pb/></p>
                     <p>"I've heard so much of your battles, Mr. Crayford," she said, "that I wanted
                          to know the great fighter."</p>
                     <p>She had assumed her very self-possessed manner, the minx-manner as some
@@ -6673,8 +6652,7 @@
                          in agreement.</p>
                     <p>"What was the match that fired you, Alston?" he asked, looking at the big
                          lad—he looked little more than a lad—good-naturedly.</p>
-                    <p>"Well, I always wanted to sing, of course. But I think it was Crayford."<pb
-                             /></p>
+                    <p>"Well, I always wanted to sing, of course. But I think it was Crayford."<pb/></p>
                     <p>He puffed almost furiously at his cigar.</p>
                     <p>"Crayford's a marvellous man. He'll lick the Metropolitan crowd yet. He's
                          going to make me."</p>
@@ -6799,8 +6777,7 @@
                     <p>"Tailors don't, thank Heaven!"</p>
                     <p>He sat down on the other side of the fire, and they were both silent for a
                          moment.</p>
-                    <p>"You're coming to see us in spring?" Claude said, lifting his head.<pb
-                         /></p>
+                    <p>"You're coming to see us in spring?" Claude said, lifting his head.<pb/></p>
                     <p>Sadness seemed to flow from Mrs. Mansfield to him, to be enveloping him. He
                          disliked, almost feared, silence just then.</p>
                     <p>"If you want me."</p>
@@ -7123,8 +7100,7 @@
                          admiration and respect for Susan Fleet. Ever since she had known Susan, and
                          made that confession to her, she had been "going" to read something about
                          the creed which seemed to make Susan so happy and so attractive. But she
-                         had never found the time. At length the opportunity presented itself.<pb
-                             /></p>
+                         had never found the time. At length the opportunity presented itself.<pb/></p>
                     <p>Susan Fleet sent out a parcel of manuals by Annie Besant and Leadbeater,
                          among them <hi>The Astral Plane</hi>, <hi>Reincarnation</hi>, <hi>Death—and
                               After?</hi> and <hi>The Seven Principles of Man</hi>. She also sent
@@ -7235,8 +7211,7 @@
                          must bridge that gulf out here. She looked hard at this short, brusque, and
                          rather violent young man. Armand Gillier must help Claude to bridge that
                          gulf.</p>
-                    <p>"Take another cigarette. I'll tell you about my husband," she said.<pb
-                         /></p>
+                    <p>"Take another cigarette. I'll tell you about my husband," she said.<pb/></p>
                </div>
                <div type="chapter">
                     <head>CHAPTER XX</head>
@@ -7923,8 +7898,7 @@
                          touched her nose, and at the wall, which her nose almost touched.</p>
                     <p>"Why does a woman ever do anything for another woman?" she asked herself,
                          amplifying her first thought.</p>
-                    <p>Adelaide Shiffney in an upper berth! It was the incredible accomplished!<pb
-                             /></p>
+                    <p>Adelaide Shiffney in an upper berth! It was the incredible accomplished!<pb/></p>
                </div>
                <div type="chapter">
                     <head>CHAPTER XXII</head>
@@ -8021,8 +7995,7 @@
                          violent lives and deeds of violence. It was difficult to look at Claude
                          Heath without the desire to pay him back here with interest for a certain
                          indifference.</p>
-                    <p>"But I'm not really melodramatic," said Adelaide Shiffney to herself.<pb
-                         /></p>
+                    <p>"But I'm not really melodramatic," said Adelaide Shiffney to herself.<pb/></p>
                     <p>She could resent, but she was not a very good hater. She felt generally too
                               <hi>affairée</hi>, too civilized to hate. In her heart she rather
                          disliked Claude Heath as once she had rather liked him. He had had the
@@ -8354,8 +8327,7 @@
                          delicious coat? <hi>Bonne nuit</hi>, Amor! <hi>À demain!</hi>"</p>
                     <p>A minute later Mrs. Shiffney tapped at Henriette's door, which was
                          immediately opened.</p>
-                    <p>"It is all right," she whispered. "I shall have the libretto to-morrow."<pb
-                             /></p>
+                    <p>"It is all right," she whispered. "I shall have the libretto to-morrow."<pb/></p>
                </div>
                <div type="chapter">
                     <head>CHAPTER XXIII</head>
@@ -8452,8 +8424,7 @@
                          narrowed.</p>
                     <p>"I know how to detect quality. And I suppose you do?"</p>
                     <p>"Why, madame?"</p>
-                    <p>"You tried to sell libretti to my husband before he was famous."<pb
-                         /></p>
+                    <p>"You tried to sell libretti to my husband before he was famous."<pb/></p>
                     <p>"And failed."</p>
                     <p>"Yes. But now I'm glad to know you have succeeded with another man who is not
                          famous yet."</p>
@@ -8485,8 +8456,7 @@
                     <p>"Really? You have written another specially for Mr. Heath?"</p>
                     <p>"I wrote another to please myself. His wife saw it and took it to him. He was
                          so foolish as to think it good enough to buy."</p>
-                    <p>"Let us hope his music will be good enough to produce on the stage."<pb
-                         /></p>
+                    <p>"Let us hope his music will be good enough to produce on the stage."<pb/></p>
                     <p>Gillier looked very sharply at her, and began to tug at his moustache; but he
                          said nothing. After a moment Madame Sennier said, with a change of tone and
                          manner that seemed to indicate an intention to be more friendly:</p>
@@ -8751,8 +8721,7 @@
                     <p>"I am entirely unknown."</p>
                     <p>"What has that to do with it?"</p>
                     <p>"Nothing, of course, but—but perhaps it is only when he has something to
-                         offer, and has offered it, that a man knows what is his value."<pb
-                         /></p>
+                         offer, and has offered it, that a man knows what is his value."<pb/></p>
                     <p>"In that case you will know when you have produced your opera."</p>
                     <p>Claude looked down.</p>
                     <p>"All my good wishes and my prayers will go with you from now till its
@@ -9124,8 +9093,7 @@
                          all I could to make him understand something of the life not merely in, but
                          that underlies—<hi>underlies</hi>—my libretto. My efforts—well, what can I
                          say?"—he flung out his hands and shrugged his shoulders.</p>
-                    <p>"It is only the difference between the French and English temperaments."<pb
-                             /></p>
+                    <p>"It is only the difference between the French and English temperaments."<pb/></p>
                     <p>"No, madame. It is the difference between the man who is and the man who is
                          not afraid to live."</p>
                     <p>"I don't agree with you," said Charmian coldly. "But really it is not a
@@ -9195,8 +9163,7 @@
                          Charmian felt much calmer.</p>
                     <p>"Good-night, Susan dear. Monsieur Gillier asked me to say good-night to you
                          for him."</p>
-                    <p>Susan did not kiss her, said good-night to Claude, and went quietly away.<pb
-                             /></p>
+                    <p>Susan did not kiss her, said good-night to Claude, and went quietly away.<pb/></p>
                     <p>"What is it?" Claude said, directly she had gone. "What's the matter,
                          Charmian? Why did Gillier go away so early?"</p>
                     <p>"Let us go upstairs," she answered.</p>
@@ -9638,8 +9605,7 @@
                     <p>And for the first time since he had come into the room he spoke with stern
                          determination.</p>
                     <p>He had become very pale, and now looked strangely moved.</p>
-                    <p>"I won't have her name brought in," he added. "This is my affair."<pb
-                         /></p>
+                    <p>"I won't have her name brought in," he added. "This is my affair."<pb/></p>
                     <p>"Very well! Will you let me buy back my libretto?"</p>
                     <p>Charmian expected an instant stern refusal from her husband. But after
                          Gillier's question there was a prolonged pause. She wanted to break it, to
@@ -10170,8 +10136,7 @@
                          of the oboe in combination with the flute, the strings being divided—"</p>
                     <p>And once more he plunged down into the depths of orchestral knowledge taking
                          Charmian with him. He quoted Prout, he quoted Vincent d'Indy; he minutely
-                         compared passages in Elgar's second symphony with passages in Tchai<pb
-                         />kovsky's fifth symphony; he dissected the delicate orchestral effects in
+                         compared passages in Elgar's second symphony with passages in Tchai<pb/>kovsky's fifth symphony; he dissected the delicate orchestral effects in
                          Debussy's <hi>Nuages</hi> and <hi>Fête Nocturne</hi>, compared the modern
                          French methods in orchestration with Richard Strauss's gigantic, and
                          sometimes monstrous combinations. But again and again he returned to his
@@ -10203,8 +10168,7 @@
                          that I bring him over before September is ten days old."</p>
                     <p>September—yes. But Lake was impulsive. He might hurry things, might arrive
                          with the impresario sooner. Jernington must not be at Djenan-el-Maqui when
-                         he arrived. If Claude were found studying with a sort of professor Cray<pb
-                             />ford would certainly get a wrong impression. It might just make
+                         he arrived. If Claude were found studying with a sort of professor Cray<pb/>ford would certainly get a wrong impression. It might just make
                          the difference between the success of the great plan and its failure.
                          Claude must present himself, or be presented by Lake as a master, not as a
                          pupil.</p>
@@ -12221,8 +12185,7 @@
                          that kind of rubbish. Now he says 'Stir it up! It's all for the good of the
                          opera!' Cane's fairly mad about him, says he's on the way to be the best
                          boom-center that ever made a publicity agent feel young. I'm proud of him!
-                         And he's moving all the time. He'll get there and no mistake!"<pb
-                         /></p>
+                         And he's moving all the time. He'll get there and no mistake!"<pb/></p>
                     <p>"I always knew Claude would rise to his chance if he got it," she said.</p>
                     <p>"He's got it now, don't you worry yourself. Not one man in a million has such
                          a chance at his age. I tell you, Claude is a made man!"</p>
@@ -12320,8 +12283,7 @@
                          you've been listening, and thinking."</p>
                     <p>There was an uneasy sound in Charmian's voice.</p>
                     <p>"Yes. Didn't you wish me to listen?"</p>
-                    <p>"I suppose I did. But you've been thinking. What have you been thinking?"<pb
-                             /></p>
+                    <p>"I suppose I did. But you've been thinking. What have you been thinking?"<pb/></p>
                     <p>"That it's a long journey up the ray," said Susan, with a sort of gentle
                          firmness.</p>
                     <p>"Ah—the ray! I remember your saying that to me long ago."</p>
@@ -12786,8 +12748,7 @@
                     <p>"Have you come to dine with me?" she said, smiling.</p>
                     <p>"But I see you are going out!"</p>
                     <p>She shook her powerful head.</p>
-                    <p>"We will dine up here. But I must telephone to a number in Fifth Avenue."<pb
-                             /></p>
+                    <p>"We will dine up here. But I must telephone to a number in Fifth Avenue."<pb/></p>
                     <p>She went toward the telephone.</p>
                     <p>"Oh, but I can't keep you at home. It is too outrageous!" he said.</p>
                     <p>"Give me time to telephone!" she answered, looking round at him over her
@@ -12975,8 +12936,7 @@
                     <p>"Does she—is she getting to love me as I wish to be loved?"</p>
                     <p>The question flashed through his mind. At that moment he was very glad that
                          he had never betrayed Charmian, very glad of the Puritan in him which
-                         perhaps many women would jeer at, did they know of its existence.<pb
-                         /></p>
+                         perhaps many women would jeer at, did they know of its existence.<pb/></p>
                     <p>"Charmian," he said, "let me shut the window."</p>
                     <p>"Yes, yes; of course."</p>
                     <p>She let his hand go.</p>
@@ -13570,8 +13530,7 @@
                          she went back into the theater for the fourth and last act she felt
                          suddenly stronger, more hopeful. She was able to say to herself, "This is
                          only a rehearsal. Rehearsals always go badly. If they don't actors and
-                         singers think it a bad sign. Of course the opera cannot sound really<pb
-                             /> well when they keep stopping." Another thing helped her now.
+                         singers think it a bad sign. Of course the opera cannot sound really<pb/> well when they keep stopping." Another thing helped her now.
                          She was joined by Alston Lake who was not on in the last act. He took her
                          to a box and they ensconced themselves in it together. Then he produced
                          from the capacious pockets of his overcoat a box of delicious sandwiches
@@ -14451,8 +14410,7 @@
                          upon, she demanded success. And then she prayed for success. She shut her
                          eyes, prayed hard, went on praying, marshalling all she and Claude had done
                          before the Unseen Power, as reason for the blessing she entreated. And
-                         while she prayed, her hand ceased from twitching in Susan Fleet's.<pb
-                         /></p>
+                         while she prayed, her hand ceased from twitching in Susan Fleet's.<pb/></p>
                     <p>Long though the third act was, at last it drew near its end. And then
                          Charmian began to be afraid, terribly afraid. She feared the decisive
                          moment. She wished she were not in the theater. She thought of the asking
@@ -14548,8 +14506,7 @@
                          essentially it was the same sound.</p>
                     <p>Charmian heard it and her lips grew pale. But she sat well forward in the
                          box, and, though she saw two opera-glasses levelled at her, she lifted her
-                         hands again and clapped till Armand Gillier passed out of sight.<pb
-                         /></p>
+                         hands again and clapped till Armand Gillier passed out of sight.<pb/></p>
                </div>
                <div type="chapter">
                     <head>CHAPTER XXXVII</head>
@@ -14979,8 +14936,7 @@
                     <p>"You see, Madre, he and I—well, I think we have earned our retreat. We—we did
                          stand up to the failure. We went to the first night of Jacques Sennier's
                          new opera and helped, as everyone in an audience can help, to seal its
-                         triumph. I—I went round to Madame Sennier's box with Claude—Adelaide<pb
-                             /> Shiffney and Armand Gillier were in it!—and congratulated her.
+                         triumph. I—I went round to Madame Sennier's box with Claude—Adelaide<pb/> Shiffney and Armand Gillier were in it!—and congratulated her.
                          Madre, we faced the music."</p>
                     <p>Her voice quivered slightly. Mrs. Mansfield impulsively took her child's
                          hands and held them.</p>

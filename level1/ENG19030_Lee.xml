@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19030"
-     xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19030" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -18,8 +16,7 @@
                </publicationStmt>
                <sourceDesc>
                     <bibl type="digitalSource"><title>The Project Gutenberg eBook of Penelope
-                              Brandling, by Vernon Lee.</title><ref target="gut:37180"
-                              >Gutenberg</ref></bibl>
+                              Brandling, by Vernon Lee.</title><ref target="gut:37180">Gutenberg</ref></bibl>
                     <bibl type="firstEdition" n="B8466"><title>Penelope Brandling: A Tale of the
                               Welsh Coast in the Eighteenth Century</title><author>Lee, Vernon
                               (pseud.) (1856-1935).</author><publisher>London: T. Fisher
@@ -44,7 +41,7 @@
                <change when="2020-04-26">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T4FSL">
           <front> <div type="titlepage">
                <p>PENELOPE BRANDLING</p>
                <p>By</p>            

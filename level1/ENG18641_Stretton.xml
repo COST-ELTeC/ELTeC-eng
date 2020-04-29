@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18641"
-     xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18641" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -48,7 +46,7 @@
                <change when="2020-04-28">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
-     <text>
+     <text type="T2FSL">
           <body>
                <div type="titlepage">
                     <p>FERN'S HOLLOW</p>
@@ -56,7 +54,7 @@
                     <p>By HESBA STRETTON</p>
                     <p>Author of 'Jessica's First Prayer,' 'Alone in London' 'Pilgrim Street,'
                          'Little Meg's Children' etc.</p>
-<p></p>
+<p/>
                </div>
                <div type="chapter">
                     <head>CHAPTER I.</head>
@@ -3517,14 +3515,7 @@
                          heaven is perfect.'</p>
                     <trailer>THE END.</trailer>
                </div>
-               <!-- <div type="chapter">
-                    <head>STORIES BY HESBA STRETTON.</head>
-                    <p>Cobwebs and Cables.<lb/> Half Brothers.<lb/> Through a Needle's Eye.<lb/>
-                         Carola.<lb/> Bede's Charity.<lb/> David Lloyd's Last Will.<lb/> The
-                         Children of Cloverley.<lb/> Fern's Hollow.<lb/> The Fishers of Derby
-                         Haven.<lb/> Pilgrim Street.<lb/> A Thorny Path.<lb/> Enoch Roden's
-                         Training.<lb/> In the Hollow of His Hand.</p>
-                    <p><hi>The Religious Tract Society, London</hi>.</p>-->
+               
 
 
           </body>

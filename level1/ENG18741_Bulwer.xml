@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18741">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18741">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -15,7 +12,7 @@
 </respStmt>
 </titleStmt>
 <extent><measure unit="words">252553</measure></extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC 2019-01-09--></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource"><title>Project Gutenberg's The Parisians, Complete, by Edward Bulwer-Lytton</title><respStmt>
 <resp>Original data capture</resp>
 <name>David Widger</name>
@@ -35,7 +32,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
@@ -43,89 +40,8 @@
 <change when="2019-01-09">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
-<text>
-<!--<div type="chapter"><head>PREFATORY NOTE. (BY THE AUTHOR’S SON.)</head><p>“The Parisians” and “Kenelm Chillingly”
-were begun about the same time, and had their common origin in the
-same central idea. That idea first found fantastic expression in
-“The Coming Race;” and the three books, taken together,
-constitute a special group, distinctly apart from all the other
-works of their author.</p><p>The satire of his earlier novels is a protest against false
-social respectabilities; the humour of his later ones is a protest
-against the disrespect of social realities. By the first he sought
-to promote social sincerity and the free play of personal
-character; by the last, to encourage mutual charity and sympathy
-amongst all classes, on whose interrelation depends the character
-of society itself. But in these three books, his latest fictions,
-the moral purpose is more definite and exclusive. Each of them is
-an expostulation against what seemed to him the perilous popularity
-of certain social and political theories, or a warning against the
-influence of certain intellectual tendencies upon individual
-character and national life. This purpose, however, though common
-to the three fictions, is worked out in each of them by a different
-method. “The Coming Race” is a work of pure fancy, and
-the satire of it is vague and sportive. The outlines of a definite
-purpose are more distinctly drawn in
-“Chillingly,”—a romance which has the source of
-its effect in a highly wrought imagination. The humour and pathos
-of “Chillingly” are of a kind incompatible with the
-design of “The Parisians,” which is a work of
-dramatized observation. “Chillingly” is a romance;
-“The Parisians” is a novel. The subject of
-“Chillingly” is psychological; that of “The
-Parisians” is social. The author’s object in
-“Chillingly” being to illustrate the effects of
-“modern ideas” upon an individual character, he has
-confined his narrative to the biography of that one character;
-hence the simplicity of plot and small number of dramatis personae,
-whereby the work gains in height and depth what it loses in breadth
-of surface. “The Parisians,” on the contrary, is
-designed to illustrate the effect of “modern ideas”
-upon a whole community. This novel is therefore panoramic in the
-profusion and variety of figures presented by it to the
-reader’s imagination. No exclusive prominence is vouchsafed
-to any of these figures. All of them are drawn and coloured with an
-equal care, but by means of the bold, broad touches necessary for
-their effective presentation on a canvas so large and so crowded.
-Such figures are, indeed, but the component features of one great
-form, and their actions only so many modes of one collective
-impersonal character,—that of the Parisian Society of
-Imperial and Democratic France; a character everywhere present and
-busy throughout the story, of which it is the real hero or heroine.
-This society was doubtless selected for characteristic illustration
-as being the most advanced in the progress of “modern
-ideas.” Thus, for a complete perception of its writer’s
-fundamental purpose, “The Parisians” should be read in
-connection with “Chillingly,” and these two books in
-connection with “The Coming Race.” It will then be
-perceived that through the medium of alternate fancy, sentiment,
-and observation, assisted by humour and passion, these three books
-(in all other respects so different from each other) complete the
-presentation of the same purpose under different aspects, and
-thereby constitute a group of fictions which claims a separate
-place of its own in any thoughtful classification of their
-author’s works.</p><p>One last word to those who will miss from these pages the
-connecting and completing touches of the master’s hand. It
-may be hoped that such a disadvantage, though irreparable, is
-somewhat mitigated by the essential character of the work itself.
-The aesthetic merit of this kind of novel is in the vivacity of a
-general effect produced by large, swift strokes of character; and
-in such strokes, if they be by a great artist, force and freedom of
-style must still be apparent, even when they are left rough and
-unfinished. Nor can any lack of final verbal correction much
-diminish the intellectual value which many of the more thoughtful
-passages of the present work derive from a long, keen, and
-practical study of political phenomena, guided by personal
-experience of public life, and enlightened by a large, instinctive
-knowledge of the human heart.</p><p>Such a belief is, at least, encouraged by the private
-communications spontaneously made to him who expresses it, by
-persons of political experience and social position in France, who
-have acknowledged the general accuracy of the author’s
-descriptions, and noticed the suggestive sagacity and penetration
-of his occasional comments on the circumstances and sentiments he
-describes.</p><p>
-</p><p>
+<text type="T2MLL">
 
-</p></div>-->
 <front>
 <div type="titlepage">
 <p>THE PARISIANS By Edward Bulwer-Lytton</p>

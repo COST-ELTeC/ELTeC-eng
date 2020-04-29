@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19005"
-        xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19005" xml:lang="en">
         <teiHeader>
                 <fileDesc>
                         <titleStmt>
@@ -21,20 +17,16 @@
                         <publicationStmt>
                                 <publisher ref="https://distant-reading.net">COST Action "Distant
                                         Reading for European Literary History" (CA16204)</publisher>
-                                <distributor ref="https://zenodo.org/communities/eltec/"
-                                        >Zenodo.org</distributor>
+                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                 <date when="2019-11-09"/>
                                 <availability>
-                                        <licence
-                                                target="https://creativecommons.org/licenses/by/4.0/"
-                                        />
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                 </availability>
                                 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                                <!--Published as part of ELTeC 2019-05-15-->
+                                
                         </publicationStmt>
                         <sourceDesc>
-                                <bibl type="digitalSource"><title>The Hosts of the Lord</title><ref
-                                                target="gut:39991">Gutenberg</ref></bibl>
+                                <bibl type="digitalSource"><title>The Hosts of the Lord</title><ref target="gut:39991">Gutenberg</ref></bibl>
                                      <bibl type="firstEdition" n="B14948"><title>The Hosts of the
                                                 Lord</title><author>Steel, Flora Annie
                                                 (1847-1929).</author><publisher>London: William
@@ -52,8 +44,7 @@
                         <textDesc>
                                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                                <canonicity xmlns="http://distantreading.net/eltec/ns"
-                                        key="unspecified"/>
+                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
                         </textDesc>
                 </profileDesc>
@@ -62,7 +53,7 @@
                         <change when="2019-05-15">LB convert to ELTeC-1</change>
                 </revisionDesc>
         </teiHeader>
-        <text>
+        <text type="T4FLU">
                 <front>
                         <div type="titlepage">
                                 <p>THE HOSTS OF THE LORD</p>
@@ -1137,8 +1128,7 @@
                                         know not the proper methods. Yâh! Gu-gu, had I but had thee
                                         fifty years ago!" his anger lessened with sheer wistful
                                         regret. "Fifty years ago when the Nawab gifted me as
-                                        body-servant to the new <hi>Wazeer</hi> Bun-avatâr<ref
-                                                target="#ENG19005_N01">[1]</ref>-<hi>sahib</hi>
+                                        body-servant to the new <hi>Wazeer</hi> Bun-avatâr<ref target="#ENG19005_N01">[1]</ref>-<hi>sahib</hi>
                                         because he brought him a bird that would sing of itself from
                                         Italy <hi>wilayat</hi>."</p>
                                 <p>"But all birds do that," cavilled Gu-gu, feeling nevertheless a
@@ -1230,8 +1220,7 @@
                                         Eshwara gossips.</p>
                                 <p>"That is other folks' news, not mine," replied Akbar, discreetly.
                                         "May be, may be not. The <hi>Huzoors</hi>, anyhow, sent the
-                                        Nawab to die in Calcutta on a <hi>pinson</hi><ref
-                                                target="#ENG19005_N02">[2]</ref> for it; but they
+                                        Nawab to die in Calcutta on a <hi>pinson</hi><ref target="#ENG19005_N02">[2]</ref> for it; but they
                                         have ever an excuse to take land! Pidar Narâyan had a hard
                                         fight to keep Bun-avatâr-<hi>sahib's</hi> grants--the Nawab
                                         was ever generous to his favourites, look you--for Anâri
@@ -1633,8 +1622,7 @@
                                         laugh. "These be dreams, indeed, grandmother. To begin with,
                                         Pidar Narâyan--"</p>
                                 <p>"Pidar Narâyan! Pidar Narâyan!" echoed the old diplomatist
-                                        tartly, "Art turned Hindoo, that thou dost count Narâyan<ref
-                                                target="#ENG19005_N05">[5]</ref> the Creator of
+                                        tartly, "Art turned Hindoo, that thou dost count Narâyan<ref target="#ENG19005_N05">[5]</ref> the Creator of
                                         all?" Then she suddenly clapped her hands together in
                                         absolute impatience and anger. "Yet is it true. He
                                                 <hi>is</hi> the cause of all! But for him Bun-avatâr
@@ -2522,8 +2510,7 @@
                                 <p>"Ay! none but fools; and <hi>he</hi>--" (a nod towards that thing
                                         in the centre which was now dying down to red embers pointed
                                         his meaning) "is the first; not the last. I, Gopi,
-                                                <hi>gosain</hi>,<ref target="#ENG19005_N06"
-                                                >[6]</ref> say so. Let fools wait and see. Wise men
+                                                <hi>gosain</hi>,<ref target="#ENG19005_N06">[6]</ref> say so. Let fools wait and see. Wise men
                                         will not."</p>
                                 <p>There was a clank of leg irons as if some stirred uneasily. "Thou
                                         canst talk," murmured a voice. "When thy 'tucket' (ticket of
@@ -2644,8 +2631,7 @@
                                         impartially, impersonally. "It wouldn't be bad, though--stop
                                         his scurrilous tongue for a bit. Favour does, you know. But
                                         I cann't see my way to it. Old Hodinuggur would be refusing
-                                        his '<hi>atta</hi> and <hi>pân</hi><ref
-                                                target="#ENG19005_N07">[7]</ref> again. He did it
+                                        his '<hi>atta</hi> and <hi>pân</hi><ref target="#ENG19005_N07">[7]</ref> again. He did it
                                         once, ye know, when some low-caste fellow was within sight
                                         of him. Said he didn't eat with sweepers; and if
                                         Crawford--he was Commissioner at the time--"</p>
@@ -3526,8 +3512,7 @@
                                 <p>"I think the French cook takes the cake, though," said poor
                                         Lance, who had been following up his own grievance. "Shirt
                                         sleeves must be an awful pull when you are dancing with a
-                                                <hi>burra mem</hi>."<ref target="#ENG19005_N08"
-                                                >[8]</ref></p>
+                                                <hi>burra mem</hi>."<ref target="#ENG19005_N08">[8]</ref></p>
                                 <p>"True for you!" assented the Commissioner, sympathetically.
                                         "That's the very reason I took to it, me dear boy, when me
                                         own merits and me advancing years doomed me to all the stout
@@ -5635,8 +5620,7 @@
                                 <p>"By Jove!" said Lance, softly, under his breath, "if I'd been
                                         there, there would have been a row. Besides," he added,
                                         quite argumentatively, "if I believed in my work as you do
-                                        I'd be hanged if I let anybody '<hi>krab</hi>'<ref
-                                                target="#ENG19005_N09">[9]</ref> it--or me--for it's
+                                        I'd be hanged if I let anybody '<hi>krab</hi>'<ref target="#ENG19005_N09">[9]</ref> it--or me--for it's
                                         the same thing. Not at least, without trying to make 'em
                                         answer for it all I know."</p>
                                 <p>The Reverend David Campbell shook his head. "That is not our
@@ -6707,8 +6691,7 @@
                                         could see how they were done?</p>
                                 <p>They had already refused to work them for pious <hi>jogi</hi>
                                         Gorakh-nâth. What wonder? The Gods did not like laughter,
-                                        especially the laughter of <hi>M'lléchas</hi>.<ref
-                                                target="#ENG19005_N10">[10]</ref></p>
+                                        especially the laughter of <hi>M'lléchas</hi>.<ref target="#ENG19005_N10">[10]</ref></p>
                                 <p>Therefore, who was to tell if the spring would even rise in the
                                         Pool? So those who were wise would make certain of at least
                                         a modicum of salvation, and go straight to the
