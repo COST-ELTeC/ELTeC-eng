@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xml:id="ENG18972" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ENG18972" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +25,7 @@
                     <date>1897</date>
                 </bibl>
                 <bibl type="digitalSource"><title>The water of the wondrous
-                    isles</title><ref target="http://morrisedition.lib.uiowa.edu/waterwondrousisles.html"></ref>
+                    isles</title><ref target="http://morrisedition.lib.uiowa.edu/waterwondrousisles.html"/>
                 <distributor>William Morris Archive (Univ of Iowa)</distributor>
                 <respStmt><resp>General Editor</resp><name>Florence Boos</name></respStmt></bibl>
             </sourceDesc>
@@ -44,7 +40,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -52,7 +48,7 @@
             <change when="2020-03-22">LB prepared first version</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="T3MLL">
         <body>
 
             <div type="group">

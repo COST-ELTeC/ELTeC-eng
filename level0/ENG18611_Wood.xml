@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:lang="en"
-        xml:id="ENG18611">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18611">
         <teiHeader>
                 <fileDesc>
                         <titleStmt>
@@ -22,16 +18,13 @@
                         <publicationStmt>
                                 <publisher ref="https://distant-reading.net">COST Action "Distant
   Reading for European Literary History" (CA16204)</publisher>
-                                <distributor ref="https://zenodo.org/communities/eltec/"
-  >Zenodo.org</distributor>
+                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                 <date when="2019-11-09"/>
                                 <availability>
-  <licence
-          target="https://creativecommons.org/licenses/by/4.0/"
-  />
+  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                 </availability>
                                 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                                <!--Published as part of ELTeC 2019-01-04-->
+                                
                         </publicationStmt>
                         <sourceDesc>
                                 <bibl type="digitalSource"><title>East
@@ -54,8 +47,7 @@
                         <textDesc>
                                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-                                <canonicity xmlns="http://distantreading.net/eltec/ns"
-  key="unspecified"/>
+                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
                         </textDesc>
                 </profileDesc>
@@ -64,7 +56,7 @@
                         <change when="2019-01-04">LB convert to ELTeC-1</change>
                 </revisionDesc>
         </teiHeader>
-        <text>
+        <text type="T2FLU">
                 <front>
                         <div type="titlepage">
                                 <p>East Lynne. By Mrs. Henry Wood</p>
@@ -447,8 +439,7 @@
   <p>"Good night, my love," he answered, drawing her towards
           him, and kissing her sweet face. "Tell Mrs. Vane I
           will not have you kept out till morning hours: you
-          are but a child yet. Mr. Carlyle, will you ring. <pb
-            n="12"/> I am debarred from seeing my daughter to
+          are but a child yet. Mr. Carlyle, will you ring. <pb n="12"/> I am debarred from seeing my daughter to
           the carriage."</p>
   <p>"If your lordship will allow me—if Lady Isabel will
           pardon the attendance of one, little used to wait
@@ -658,8 +649,7 @@
   <p>Isabel did not answer: her heart was very full. She took
           the broken cross, and the tears dropped from her
           eyes: she could not help it.</p>
-  <p>"Why! you are never crying over a stupid bauble <pb
-            n="19"/> of a cross!" uttered Mrs. Vane,
+  <p>"Why! you are never crying over a stupid bauble <pb n="19"/> of a cross!" uttered Mrs. Vane,
           interrupting Captain Levison's expressions of regret
           at his awkwardness.</p>
   <p>"You can have it mended, dear," interposed Mrs.
@@ -846,8 +836,7 @@
           undulating park; not as you walked, for an envious
           wall, mounting itself unconscionably high,
           obstructed your view. Large, beautiful trees
-          affording a shelter, alike for human beings <pb
-            n="25"/> and for the deer, on a day of summer's
+          affording a shelter, alike for human beings <pb n="25"/> and for the deer, on a day of summer's
           heat, rose in that park, and a great gate between
           two lodges on the right-hand side the road, gave you
           entrance to it, and conducted you to the house. It
@@ -915,8 +904,7 @@
           in, although the customary hour had not struck. Not
           so Mrs. Hare. Since her husband had first brought
           her home to that house, four-and-twenty years ago,
-          she had never dared to express a will in it; <pb
-            n="27"/> scarcely, on her own responsibility, to
+          she had never dared to express a will in it; <pb n="27"/> scarcely, on her own responsibility, to
           give an order. Justice Hare was stern, imperative,
           obstinate, and self-conceited; she, timid, gentle,
           and submissive. She had loved him with all her
@@ -983,8 +971,7 @@
           Lynne. He lived higher up the road, some little
           distance beyond East Lynne.</p>
   <p>"I am so cold, Barbara," shivered Mrs. Hare, as she
-          watched the justice down the gravel path. "I <pb
-            n="29"/> wonder if your papa would say it was
+          watched the justice down the gravel path. "I <pb n="29"/> wonder if your papa would say it was
           foolish of me, if I told them to light a bit of
           fire?"</p>
   <p>"Have it lighted if you like," responded Barbara, ringing
@@ -1052,8 +1039,7 @@
           their looks betrayed, when I got out. I have not
           been home yet."</p>
   <p>"No! What will Cornelia say?"</p>
-  <p>"I went into the office for five minutes. But I have <pb
-            n="31"/> a few words to say to Beauchamp, and am
+  <p>"I went into the office for five minutes. But I have <pb n="31"/> a few words to say to Beauchamp, and am
           going up at once. Thank you, I cannot come in now: I
           intend to do so on my return."</p>
   <p>"Papa has gone up to Mr. Beauchamp's."</p>
@@ -1363,8 +1349,7 @@
           anything,'" she murmured: "did he allude to the
           chain, or to the—the kiss? Oh Archibald! why don't
           you say that you love me?"</p>
-  <p>Mr. Carlyle had been all his life upon intimate terms <pb
-            n="40"/> with the Hares. His father's first
+  <p>Mr. Carlyle had been all his life upon intimate terms <pb n="40"/> with the Hares. His father's first
           wife—for the late Lawyer Carlyle had been twice
           married—had been a cousin of Justice Hare's, and
           this had caused the families to be much together.
@@ -2143,8 +2128,7 @@
           said, to come to me herself. Cornelia, I have
           invited a party for to-night."</p>
   <p>"A party!" echoed Miss Carlyle.</p>
-  <p>"Four or five of the justices; they are coming in to <pb
-            n="64"/> smoke their pipes. You must put out my
+  <p>"Four or five of the justices; they are coming in to <pb n="64"/> smoke their pipes. You must put out my
           father's leaden tobacco-box, and—"</p>
   <p>"They shan't come," screamed Miss Carlyle. "Do you think
           I'll be poisoned with tobacco-smoke from a
@@ -2320,8 +2304,7 @@
           her hands. "I have brought it chiefly in notes," he
           said, "they will be easier for him to carry than
           gold."</p>
-  <p>Mrs. Hare answered only by a look of gratitude, and <pb
-            n="70"/> clasped Mr. Carlyle's hand in both of
+  <p>Mrs. Hare answered only by a look of gratitude, and <pb n="70"/> clasped Mr. Carlyle's hand in both of
           hers. "Archibald, I <hi>must</hi> see my boy; how
           can it be managed? Must I go into the garden to him,
           or may he come in here?"</p>
@@ -2388,8 +2371,7 @@
   <p>"Well—there was a row at home about my going so much to
           Hallijohn's. The governor and my mother thought I
           went after Afy: perhaps I did, perhaps I didn't.
-          Hallijohn had asked me to lend him my gun, <pb
-            n="72"/> and that evening, when I went to see
+          Hallijohn had asked me to lend him my gun, <pb n="72"/> and that evening, when I went to see
           Af—when I went to see some one—never mind—"</p>
   <p>"Richard," interrupted Mr. Carlyle," there's an old
           saying, and it is sound advice, 'Tell the whole
@@ -2621,8 +2603,7 @@
           put forth, would not go a jot towards clearing
           me."</p>
   <p>"No, it would not," assented Mr. Carlyle. "If ever you
-          are cleared, it must be by proofs. But—I <pb n="79"
-          /> will keep my thoughts on the matter, and should
+          are cleared, it must be by proofs. But—I <pb n="79"/> will keep my thoughts on the matter, and should
           anything arise—What sort of a man was this
           Thorn?"</p>
   <p>"In age he might have been three or four-and-twenty, tall
@@ -2760,8 +2741,7 @@
   <p>"No reflection on them," returned Mr. Carlyle. "This was
           a young man, three or four-and-twenty, a head taller
           than either. I thought it might be a relative."</p>
-  <p>"I have repeatedly heard them say that they are <pb
-            n="83"/> alone in the world; that they are the two
+  <p>"I have repeatedly heard them say that they are <pb n="83"/> alone in the world; that they are the two
           last of the name. Depend upon it, it was nobody
           connected with them. Who says anybody came over
           after Afy, Mr. Archibald? I never knew but of one
@@ -2828,8 +2808,7 @@
           I spoke against him."</p>
   <p>Mr. Carlyle caught her up. "His rank! what was his
           rank?"</p>
-  <p>"Afy bragged of his being next door to a lord; and <pb
-            n="85"/> he looked liked it. I only saw him once;
+  <p>"Afy bragged of his being next door to a lord; and <pb n="85"/> he looked liked it. I only saw him once;
           I had gone home early, and there he sat with Afy.
           His white hands were all glittering with rings, and
           his shirt was finished off with shining stones,
@@ -2862,8 +2841,7 @@
           a fine passion it put her in. It was but a week
           afterwards that—the evil happened to poor
           father."</p>
-  <p>"Joyce," said Mr. Carlyle, "has it never struck you <pb
-            n="86"/> that Afy is more likely to have followed
+  <p>"Joyce," said Mr. Carlyle, "has it never struck you <pb n="86"/> that Afy is more likely to have followed
           this Lientenant Thorn, than Richard Hare?"</p>
   <p>"No, sir," answered Joyce; "I have felt certain always
           that she is with Richard Hare, and nothing can turn
@@ -2943,8 +2921,7 @@
           in an untidy room. Just because you have a little
           extra work to do this morning, you are turning
           lazy."</p>
-  <p>"No, ma'am," retorted Joyce, with spirit, for she <pb
-            n="89"/> felt the charge was perfectly unfounded,
+  <p>"No, ma'am," retorted Joyce, with spirit, for she <pb n="89"/> felt the charge was perfectly unfounded,
           "I have exerted myself to the utmost this morning. I
           was up at five o'clock to get the double work
           comfortably over, that you might have no occasion to
@@ -3012,8 +2989,7 @@
           warning, but she chose to leave last night. I have
           got it all to do myself this morning."</p>
   <p>"Can't Joyce do it?" returned Mr. Carlyle.</p>
-  <p>"Joyce! Much she knows about cooking; Joyce's <pb n="91"
-          /> cooking won't do for my table. Barbara Hare is
+  <p>"Joyce! Much she knows about cooking; Joyce's <pb n="91"/> cooking won't do for my table. Barbara Hare is
           going to spend the day here."</p>
   <p>"Indeed."</p>
   <p>"Barbara called last evening, full of trouble. She and
@@ -3385,8 +3361,7 @@
           his embarrassments."</p>
   <p>"Why do you fear that?" she asked.</p>
   <p>"Because, Lady Isabel, nothing gets patronised at West
-          Lynne; nothing native; and people have heard <pb
-            n="102"/> so long of poor Kane's necessities, that
+          Lynne; nothing native; and people have heard <pb n="102"/> so long of poor Kane's necessities, that
           they think little of them. If some foreign artist,
           with an unpronounceable name, came flashing down to
           give a concert, West Lynne would flock to it."</p>
@@ -3418,8 +3393,7 @@
           now be helped; but it will always be a dark spot on
           my memory."</p>
   <p>"What is it?"</p>
-  <p>She lifted her repentant face to his, and smiled. <pb
-            n="103"/> Never mind, I say, Mr. Carlyle; what is
+  <p>She lifted her repentant face to his, and smiled. <pb n="103"/> Never mind, I say, Mr. Carlyle; what is
           past cannot be recalled. He looks like a
           gentleman."</p>
   <p>"Who? Kane? A gentleman bred: his father was a clergyman.
@@ -3518,8 +3492,7 @@
           advanced to her.</p>
   <p>"I have been to Mr. Kane's myself for the tickets," said
           she, with a beaming look; "I came into West Lynne on
-          purpose. I told the coachman to find out <pb n="106"
-          /> where he lived, and he did. I thought if the
+          purpose. I told the coachman to find out <pb n="106"/> where he lived, and he did. I thought if the
           people saw me and the carriage there, they would
           guess what I wanted. I do hope he will have a full
           concert."</p>
@@ -3617,8 +3590,7 @@
           your knowledge that Richard Hare accosted me? I have
           not opened my lips upon it to mortal man."</p>
   <p>"It is of no consequence how," repeated Mr. Carlyle; "I
-          do know it, and that is sufficient. I was in <pb
-            n="109"/> hopes you had really seen this Thorn
+          do know it, and that is sufficient. I was in <pb n="109"/> hopes you had really seen this Thorn
           leave the cottage."</p>
   <p>Otway Bethel shook his head. "I should not lay too much
           stress upon any 'Thorn's' having been there, were I
@@ -3652,8 +3624,7 @@
   <p>"Oh, papa, I must be there. Otherwise it would look
           almost as though—as though we had announced what we
           did not mean to perform. You know it was arranged
-          that we should join the Ducies: the carriage <pb
-            n="111"/> can still take me to the concert-room,
+          that we should join the Ducies: the carriage <pb n="111"/> can still take me to the concert-room,
           and I can go in with them."</p>
   <p>"Just as you please. I thought you would have jumped at
           any plea for staying away."</p>
@@ -3684,8 +3655,7 @@
           your senses, Isabel."</p>
   <p>"Marvel thinks so too," was the gay answer; "she has had
           a cross face since I told her what to put out. But I
-          did it on purpose, papa; I thought I would show <pb
-            n="112"/> those West Lynne people that <hi>I</hi>
+          did it on purpose, papa; I thought I would show <pb n="112"/> those West Lynne people that <hi>I</hi>
           think the poor man's concert worth going to, and
           worth dressing for."</p>
   <p>"You will have the whole room gaping at you."</p>
@@ -3719,8 +3689,7 @@
           world, but Mrs. Hare had neither health nor spirits
           for it. It was arranged that the justice and Barbara
           should accompany the Carlyles, and they proceeded to
-          Miss Carlyle's in time for coffee. Something <pb
-            n="113"/> was said about a fly, but Miss Carlyle
+          Miss Carlyle's in time for coffee. Something <pb n="113"/> was said about a fly, but Miss Carlyle
           negatived it, asking what had come to their legs: it
           was a fine night, and the distance very short.
           Barbara had no objection to the walk with Mr.
@@ -3753,8 +3722,7 @@
   <p>"You had better not let Cornelia hear you say that, or
           you will get a reproof," laughed Mr. Carlyle. "Like
           I did, when I said she had an angel's face."</p>
-  <p>Barbara turned her own face full upon him: it <pb n="114"
-          /> looked pale in the gaslight. "Did you say she had
+  <p>Barbara turned her own face full upon him: it <pb n="114"/> looked pale in the gaslight. "Did you say she had
           an angel's face? Do you think it one?"</p>
   <p>"I really believe I did say so, but I can't be quite
           sure, Cornelia snapped me up so quickly," he
@@ -3820,8 +3788,7 @@
           was that of the Honourable Mrs. Ducie.</p>
   <p>The room was pretty full then, and Mrs. Ducie, her two
           daughters, and Isabel were conducted to seats by Mr.
-          Kane—seats he had reserved for them at the upper <pb
-            n="116"/> end, near the orchestra. The same
+          Kane—seats he had reserved for them at the upper <pb n="116"/> end, near the orchestra. The same
           dazzling vision which had burst on the sight of Lord
           Mount Severn, fell on that of the audience, in
           Isabel, with her rich white dress, her glittering
@@ -3955,8 +3922,7 @@
   <p>"Thank you: I will sit outside."</p>
   <p>"But the night is cold."</p>
   <p>"Oh no." He closed the door, and took his seat by the
-          coachman: the footmen got up behind, and the <pb
-            n="120"/> carriage sped away. Isabel gathered
+          coachman: the footmen got up behind, and the <pb n="120"/> carriage sped away. Isabel gathered
           herself into her corner, and moaned aloud in her
           suspense and helplessness.</p>
   <p>"Do not spare your horses," said Mr. Carlyle to Wells.
@@ -3990,8 +3956,7 @@
           have been keeping himself quite so steady as usual.
           "It is their nature."</p>
   <p>"But they don't come in shoals, sir, round about you, and
-          in at the windows. To-night, when we got <pb n="121"
-          /> back, after leaving my young lady at the concert,
+          in at the windows. To-night, when we got <pb n="121"/> back, after leaving my young lady at the concert,
           I told Joe just to take out the horses and leave the
           carriage outside, as it would be required again. I
           went in-doors, and there they told me that Mrs.
@@ -4094,8 +4059,7 @@
   <p>Mr. Carlyle, who had come in and was standing by the
           surgeon, touched his arm to draw him from the room.
           He noticed the look on the earl's face, and did not
-          like it; he wished to question the surgeon. Lady <pb
-            n="124"/> Isabel saw that Mr. Carlyle was about to
+          like it; he wished to question the surgeon. Lady <pb n="124"/> Isabel saw that Mr. Carlyle was about to
           quit the room, and beckoned to him.</p>
   <p>"Do not leave the house, Mr. Carlyle. When he wakes up,
           it may cheer him to see you here; he liked you very
@@ -4225,8 +4189,7 @@
           show me a sufficient cause, I will be reasonable and
           obey; but do not say again I should be disturbing
           him, for it is not true."</p>
-  <p>"He is too ill for you to see him, his symptoms are <pb
-            n="128"/> too painful; were you to go in, in
+  <p>"He is too ill for you to see him, his symptoms are <pb n="128"/> too painful; were you to go in, in
           defiance of advice, you would regret it all your
           after life."</p>
   <p>"Is he dying?"</p>
@@ -4439,8 +4402,7 @@
           the other, her sweet eyes full of pity and
           contrition.</p>
   <p>"The fact is, young lady," said one who bore the exterior
-          of a gentleman, "we should not have come <pb n="135"
-          /> down to trouble you—at least, I can answer for
+          of a gentleman, "we should not have come <pb n="135"/> down to trouble you—at least, I can answer for
           myself —but his lordship's men of business,
           Warburton and Ware, to whom many of us hastened last
           evening, told us there would not be a shilling for
@@ -4472,8 +4434,7 @@
           scant ceremony.</p>
   <p>"What is the meaning of this?" he demanded, in a tone of
           authority. "What do you want?"</p>
-  <p>"If you are a friend of the late peer's, you ought to <pb
-            n="136"/> know what we want," was the response.
+  <p>"If you are a friend of the late peer's, you ought to <pb n="136"/> know what we want," was the response.
           "We want our debts paid."</p>
   <p>"But this is not the place to come to," returned Mr.
           Carlyle: "your flocking here, in this extraordinary
@@ -4605,8 +4566,7 @@
   <p>"I will clear the house of these," he said to Lady
           Isabel, pointing back to the dining-room, "and then
           join you up-stairs."</p>
-  <p>"Two ruffians, sir, and they have got possession of <pb
-            n="140"/> the body," whispered the butler into Mr.
+  <p>"Two ruffians, sir, and they have got possession of <pb n="140"/> the body," whispered the butler into Mr.
           Carlyle's ear, as Lady Isabel departed. "They
           obtained entrance to the chamber by a sly, deceitful
           trick, saying they were the undertakers' men, and
@@ -4669,8 +4629,7 @@
           keeping his word, I expect him. Be assured he will
           not lose a moment in hastening to East Lynne.</p>
   <p>"I cannot express what I feel for you, and am too
-          bouleversée to write more. Try and keep up your <pb
-            n="142"/> spirits, and believe me, dear Isabel,
+          bouleversée to write more. Try and keep up your <pb n="142"/> spirits, and believe me, dear Isabel,
           with sincere sympathy and regret, faithfully
           yours,</p>
   <p><hi>"Emma Mount Severn</hi> ."</p>
@@ -4704,8 +4663,7 @@
           light of an unfortunate pauper; an interloper in the
           house she was inhabiting. It has been the custom in
           romance to represent young ladies, especially if
-          they be handsome and interesting, as being <pb
-            n="143"/> entirely oblivious of matter-of-fact
+          they be handsome and interesting, as being <pb n="143"/> entirely oblivious of matter-of-fact
           cares and necessities, supremely indifferent to
           future prospects of poverty— poverty that brings
           hunger and thirst and cold and nakedness; but, be
@@ -4773,8 +4731,7 @@
           hope that you will continue at East Lynne while it
           can be of service, however prolonged that period may
           be, I assure you I say it in all sincerity."</p>
-  <p>"You are truly kind," she faltered, "and for a few <pb
-            n="145"/> days; until I can think; until—Oh, Mr.
+  <p>"You are truly kind," she faltered, "and for a few <pb n="145"/> days; until I can think; until—Oh, Mr.
           Carlyle, are papa's affairs really so bad as they
           said yesterday?" she broke off, her perplexities
           recurring to her with vehement force. "Is there
@@ -4979,8 +4936,7 @@
   <p>"Her case presents the worst feature of the whole,"
           remarked Mr. Carlyle. "What will she do for a
           home?"</p>
-  <p>"She must, of course, find it with me," replied his <pb
-            n="152"/> lordship. "And, I should hope, a better
+  <p>"She must, of course, find it with me," replied his <pb n="152"/> lordship. "And, I should hope, a better
           one than this. With all these debts and duns at his
           elbow, Mount Severn's house could not have been a
           bower of roses."</p>
@@ -5046,8 +5002,7 @@
           Warburton.</p>
   <p>"Somebody of the name of Anstey," replied Mr. Carlyle.
           "In the absence of any member of the family, I took
-          upon myself to pay the chamber a visit, and <pb
-            n="154"/> examine into the men's authority. The
+          upon myself to pay the chamber a visit, and <pb n="154"/> examine into the men's authority. The
           claim is about three thousand pounds."</p>
   <p>"If it's Anstey who has done it, it is a personal debt of
           the earl's, really owing, every pound of it,"
@@ -5183,8 +5138,7 @@
   <p>"Isabel, I have run myself very short, and have but
           little beyond what will take me to town. You must
           make three pounds do for the present my dear. Pound
-          has the funds for the journey. Once at Castle <pb
-            n="158"/> Marling, Lady Mount Severn will supply
+          has the funds for the journey. Once at Castle <pb n="158"/> Marling, Lady Mount Severn will supply
           you: but you must tell her, or she will not
           know."</p>
   <p>He shot some gold out of his purse as he spoke, and left
@@ -5217,8 +5171,7 @@
           Mount Severn—as you have just heard me do. In that
           case, do you know what I should have done?"</p>
   <p>"What should you have done?" he smiled.</p>
-  <p>"I should have asked you to pay him for me, and <pb
-            n="159"/> I would have repaid you as soon as I had
+  <p>"I should have asked you to pay him for me, and <pb n="159"/> I would have repaid you as soon as I had
           any money. I had a great mind to ask you, do you
           know; it would have seemed less painful than the
           being obliged to beg of Lord Mount Severn."</p>
@@ -5250,8 +5203,7 @@
   <p>"No—no. I had better go at once."</p>
   <p>He took her hand to conduct her to the carriage. The
           servants were gathered in the hall, waiting for her;
-          some had grown grey in her father's service. She <pb
-            n="160"/> put out her hand, she strove to say a
+          some had grown grey in her father's service. She <pb n="160"/> put out her hand, she strove to say a
           word of thanks and of farewell, and she thought she
           should choke at the effort of keeping down the sobs.
           At length it was over; a kind look around, a
@@ -5386,8 +5338,7 @@
           Herberts told me. Do you fancy it is true,
           Archibald?"</p>
   <p>Mr. Carlyle appeared much amused. "I wonder they did not
-          say Lady Isabel had no mourning, as well as no <pb
-            n="164"/> money: it would have been but a little
+          say Lady Isabel had no mourning, as well as no <pb n="164"/> money: it would have been but a little
           stretch further. What would East Lynne do without
           its marvels?"</p>
   <p>"Ah, what indeed?" cried Justice Hare. "I met her
@@ -5642,8 +5593,7 @@
           in Isabel's heart.</p>
   <p>She rose on the Saturday morning, weak and languid, the
           effects of the night of grief, and Marvel brought
-          her breakfast up. William Vane stole into <pb
-            n="172"/> her room afterwards: he was attached to
+          her breakfast up. William Vane stole into <pb n="172"/> her room afterwards: he was attached to
           her in a remarkable degree.</p>
   <p>"Mamma's going out," he exclaimed in the course of the
           morning. "Look, Isabel."</p>
@@ -5709,8 +5659,7 @@
           Carlyle, apparently studying his countenance. "I
           shall like you, sir, if you are kind to Isabel. Are
           you kind to her?</p>
-  <p>"Very, very kind," murmured Isabel, leaving William <pb
-            n="174"/> and turning to Mr. Carlyle, but not
+  <p>"Very, very kind," murmured Isabel, leaving William <pb n="174"/> and turning to Mr. Carlyle, but not
           looking at him. "I don't know what to say; I ought
           to thank you: I did not intend to use the—to use
           it—but I— I—"</p>
@@ -5742,8 +5691,7 @@
           cannot remain in it. I have been awake all night,
           thinking where I can go, but I cannot tell. I have
           not a friend in the wide world."</p>
-  <p>Never let people talk secrets before children, for be <pb
-            n="175"/> assured that they comprehend a vast deal
+  <p>Never let people talk secrets before children, for be <pb n="175"/> assured that they comprehend a vast deal
           more than is expedient: the saying that "Little
           pitchers have great ears" is wonderfully true. Lord
           Vane held up his head to Mr. Carlyle:</p>
@@ -5813,8 +5761,7 @@
           —dare I—offer you to return to East Lynne as its
           mistress?"</p>
   <p>She did not comprehend him in the slightest degree; the
-          drift of his meaning never dawned upon her. <pb
-            n="177"/> "Return to East Lynne as its mistress?"
+          drift of his meaning never dawned upon her. <pb n="177"/> "Return to East Lynne as its mistress?"
           she repeated, in bewilderment.</p>
   <p>"And as my wife."</p>
   <p>No possibility of misunderstanding him now, and the shock
@@ -5954,8 +5901,7 @@
           kicked, plunged, and went down upon his knees: she
           took fright in her turn, got out, and walked back. I
           gave the brute some chastisement and a race, and
-          brought him to the stables, getting home in time <pb
-            n="181"/> to be introduced to Mr. Carlyle. He
+          brought him to the stables, getting home in time <pb n="181"/> to be introduced to Mr. Carlyle. He
           seems an out-and out good fellow, Isabel, and I
           congratulate you."</p>
   <p>She looked up at him.</p>
@@ -5988,8 +5934,7 @@
   <p>"Yes. But—" She could not go on. What with one agitation
           and another, she had difficulty in conquering her
           emotion. "But—I was going to tell you—"</p>
-  <p>"Presently," he whispered, leading her to a sofa; <pb
-            n="182"/> "we can both afford to wait now. Isabel,
+  <p>"Presently," he whispered, leading her to a sofa; <pb n="182"/> "we can both afford to wait now. Isabel,
           you have made me very happy!"</p>
   <p>"I ought to tell you, I must tell you," she began again,
           in the midst of hysterical tears. "Though I have
@@ -6049,8 +5994,7 @@
           years. Upon some of the minor arrangements they and
           Mr. Carlyle were opposed, but the latter declined to
           give way. During his absence at Castle Marling, news
-          had arrived from them—that they acceded <pb n="184"
-          /> to all his terms, and would enter upon East Lynne
+          had arrived from them—that they acceded <pb n="184"/> to all his terms, and would enter upon East Lynne
           as soon as was convenient. Miss Carlyle was full of
           congratulation; it was off their hands, she said:
           but the first letter Mr. Carlyle wrote was—to
@@ -6084,8 +6028,7 @@
           interrupted what she was saying, by telling her
           brother she should go presently and pack his
           things.</p>
-  <p>"Oh no," returned he, with alarming quickness, "I <pb
-            n="185"/> will pack them myself, thank you. Peter,
+  <p>"Oh no," returned he, with alarming quickness, "I <pb n="185"/> will pack them myself, thank you. Peter,
           you can put the portmanteau in my room. The large
           one."</p>
   <p>"The large one!" echoed Miss Corny, who never could let
@@ -6154,8 +6097,7 @@
           will give you another cup."</p>
   <p>"But it's a cup of tea and so much good sugar wasted,"
           tartly responded Miss Corny.</p>
-  <p>Barbara sprang up the moment tea was over. "I <pb n="187"
-          /> don't know what mamma will say to me. And it is
+  <p>Barbara sprang up the moment tea was over. "I <pb n="187"/> don't know what mamma will say to me. And it is
           beginning to grow dusk! She will think it is late
           for me to be out alone."</p>
   <p>"Archibald can walk with you," said Miss Carlyle.</p>
@@ -6187,8 +6129,7 @@
           I could put premature questions? I may be able to
           tell you more about it after my next return from
           Castle Marling."</p>
-  <p>"Do try and find out," said she. "Perhaps it is to <pb
-            n="188"/> Lord Vane. Who is it says that more
+  <p>"Do try and find out," said she. "Perhaps it is to <pb n="188"/> Lord Vane. Who is it says that more
           marriages arise from habitual association than—"</p>
   <p>She stopped, for Mr. Carlyle had turned his eyes upon
           her, and was laughing.</p>
@@ -6351,8 +6292,7 @@
           the next day, and explain all things.</p>
   <p>"Ever your affectionate brother,</p>
   <p>" <hi>Archibald Carlyle</hi> ."</p>
-  <p>"It is a hoax," were the first guttural sounds that <pb
-            n="193"/> escaped from Miss Carlyle's throat, when
+  <p>"It is a hoax," were the first guttural sounds that <pb n="193"/> escaped from Miss Carlyle's throat, when
           speech came to her.</p>
   <p>Mr. Dill only stood like a stone image.</p>
   <p>"It is a hoax, I say," raved Miss Carlyle. "What are you
@@ -6627,8 +6567,7 @@
           Barbara, I am going back: and I had almost as soon
           have had to tell you that he was put into his
           coffin."</p>
-  <p>"Are you sure you are not jealous?" asked Barbara, <pb
-            n="201"/> some uncontrollable impulse prompting
+  <p>"Are you sure you are not jealous?" asked Barbara, <pb n="201"/> some uncontrollable impulse prompting
           her to say it.</p>
   <p>"Perhaps I am," returned Miss Carlyle, with asperity.
           "Perhaps, had you brought up a lad as I have brought
@@ -6731,8 +6670,7 @@
   <p>She quitted them, and the earl wheeled round and faced
           Mr. Carlyle, speaking in a stern, haughty tone.</p>
   <p>"How came this marriage about, sir? Do you possess so
-          little honour, that, taking advantage of my <pb
-            n="205"/> absence, you must intrude yourself into
+          little honour, that, taking advantage of my <pb n="205"/> absence, you must intrude yourself into
           my family, and clandestinely espouse Lady Isabel
           Vane?"</p>
   <p>Mr. Carlyle stood confounded, <hi>not</hi> confused. He
@@ -6766,8 +6704,7 @@
           Isabel and myself wished that the ceremony might
           take place as soon as might be."</p>
   <p>"And pray where did you address the letter?"</p>
-  <p>"Lady Mount Severn could not give me the address. <pb
-            n="206"/> She said, if I would entrust the letter
+  <p>"Lady Mount Severn could not give me the address. <pb n="206"/> She said, if I would entrust the letter
           to her she would forward it, for she expected daily
           to hear from you. I did give her the letter, and I
           heard no more of the matter, except that her
@@ -6799,8 +6736,7 @@
           the following day I called at your house: after your
           own and Isabel's invitation, it was natural I should
           call: in fact, it would have been a breach of good
-          feeling not to do so. I found Isabel ill-treated <pb
-            n="207"/> and miserable: far from enjoying a happy
+          feeling not to do so. I found Isabel ill-treated <pb n="207"/> and miserable: far from enjoying a happy
           home in your house—"</p>
   <p>"What, sir?" interrupted the earl. "Ill-treated and
           miserable!"</p>
@@ -6832,8 +6768,7 @@
           face. "Those are feelings man rarely acknowledges to
           man, Lord Mount Severn, but I will answer you. I do
           love her, passionately and sincerely. I learnt to
-          love her at East Lynne; but I could have <pb n="208"
-          /> carried my love silently within me to the end of
+          love her at East Lynne; but I could have <pb n="208"/> carried my love silently within me to the end of
           my life, and never betrayed it; but for that
           unexpected visit to Castle Marling. If the idea of
           making her my wife had not previously occurred to me
@@ -7056,8 +6991,7 @@
           the subject, and you must pardon my saying so. Let
           us return to the topic of the servants. Where are
           they?"</p>
-  <p>"I sent them away. Because they were superfluous <pb
-            n="215"/> encumbrances," she hastily added, as he
+  <p>"I sent them away. Because they were superfluous <pb n="215"/> encumbrances," she hastily added, as he
           would have interrupted her. "We have four in the
           house, and my lady has brought a fine maid, I see,
           making five. I have come up here to live."</p>
@@ -7091,8 +7025,7 @@
   <p>"So is your folly," rejoined Miss Cornelia.</p>
   <p>"And with regard to servants," proceeded Mr. Carlyle,
           passing over the remark, "I shall certainly keep as
-          many as I deem necessary. I cannot give my wife <pb
-            n="216"/> splendour, but I will give her comfort.
+          many as I deem necessary. I cannot give my wife <pb n="216"/> splendour, but I will give her comfort.
           The horses and carriages will take one man's—"</p>
   <p>Miss Corny turned faint all over. "What on earth are you
           talking of?"</p>
@@ -7124,8 +7057,7 @@
           had rung for. Mr. Carlyle rose, and looked on the
           sideboard.</p>
   <p>"Where's the wine, Peter?"</p>
-  <p>The servant put it out, port and sherry. Mr. Carlyle <pb
-            n="217"/> drank a glass, and then proceeded to mix
+  <p>The servant put it out, port and sherry. Mr. Carlyle <pb n="217"/> drank a glass, and then proceeded to mix
           some wine and water. "Shall I mix some for you,
           Cornelia?" he asked.</p>
   <p>"I'll mix for myself if I want any. Who is that for?"</p>
@@ -7156,8 +7088,7 @@
           look at the bed: I fancied I might see—You are
           laughing!"</p>
   <p>Yes, he was smiling; for he knew that these moments of
-          nervous fear are best met jestingly. He made her <pb
-            n="218"/> drink the wine-and-water, and then he
+          nervous fear are best met jestingly. He made her <pb n="218"/> drink the wine-and-water, and then he
           showed her where the bell was, ringing it as he did
           so. Its position had been moved in some late
           alternations to the house.</p>
@@ -7298,8 +7229,7 @@
           told you, before I married, that Mr. Carlyle's
           establishment would be a limited one."</p>
   <p>"My lady, perhaps I could put up with that; but I never
-          could stop in the house with"—that female Guy, <pb
-            n="222"/> had been on the tip of Marvel's tongue;
+          could stop in the house with"—that female Guy, <pb n="222"/> had been on the tip of Marvel's tongue;
           but she remembered in time of whom she was
           speaking—"with Miss Carlyle. I fear, my lady, we
           have both got tempers that would clash, and might be
@@ -7331,8 +7261,7 @@
           midst of it: and in the course of the day Marvel
           took her departure, Joyce telling her that she ought
           to be ashamed of herself.</p>
-  <p>"I couldn't help myself," retorted Marvel, "and I'm <pb
-            n="223"/> sorry to leave her, for she's pleasant
+  <p>"I couldn't help myself," retorted Marvel, "and I'm <pb n="223"/> sorry to leave her, for she's pleasant
           young lady to serve."</p>
   <p>"Well, I know I'd have helped myself," was Joyce's
           remark. "I would not go off in this unhandsome way
@@ -7398,8 +7327,7 @@
           her.</p>
   <p>"Write to her," said Mr. Carlyle.</p>
   <p>"You have kept dinner waiting more than half an hour,"
-          began Miss Corny, in a loud tone of complaint, <pb
-            n="225"/> to her brother, meeting them in the
+          began Miss Corny, in a loud tone of complaint, <pb n="225"/> to her brother, meeting them in the
           hall. "And I thought you must be lost, ma'am," she
           added, to Isabel.</p>
   <p>Why in the world did she tack on that objectionable
@@ -7431,8 +7359,7 @@
           taught my catechism, Lady Isabel."</p>
   <p>Isabel did not feel comfortable. She knew that a walk to
           St. Jude's church and back in the present heat would
-          knock her up for the day, but she shrank from <pb
-            n="226"/> offending Miss Carlyle's prejudices. She
+          knock her up for the day, but she shrank from <pb n="226"/> offending Miss Carlyle's prejudices. She
           was standing at the window with her husband; Miss
           Carlyle being seated at a distant table, with the
           Bible before her.</p>
@@ -7796,8 +7723,7 @@
           has been attached to her husband: a doubt always
           arises whether the feeling may not have been
           reciprocated.</p>
-  <p>Lady Isabel descended. She wore a costly black <pb
-            n="237"/> lace dress its low body and sleeves
+  <p>Lady Isabel descended. She wore a costly black <pb n="237"/> lace dress its low body and sleeves
           trimmed with white lace as costly: and ornaments of
           jet. She looked inexpressibly beautiful, and Barbara
           turned from her with a feeling of sickening
@@ -7865,8 +7791,7 @@
   <p>"I suppose it is absurd," was the retort of Miss Carlyle.
           "I give them very little of my company, especially
           in an evening. They go strolling out together, or
-          she sings to him, he hanging over her as if <pb
-            n="239"/> she were gold; to judge by appearances,
+          she sings to him, he hanging over her as if <pb n="239"/> she were gold; to judge by appearances,
           she is more precious to him than any gold that ever
           was coined into money. I'll tell you what I saw last
           night. They had post-horses to the close carriage
@@ -7899,8 +7824,7 @@
           piano, and Barbara had an opportunity of hearing
           that sweet voice. She did as Miss Carlyle confessed
           to have done, pushed open the door between the two
-          rooms, and looked in. It was the twilight hour, <pb
-            n="240"/> almost too dusk to see; but she could
+          rooms, and looked in. It was the twilight hour, <pb n="240"/> almost too dusk to see; but she could
           distinguish Isabel seated at the piano, and Mr.
           Carlyle standing behind her. She was singing one of
           the ballads from the opera of the "Bohemian Girl,"
@@ -7932,8 +7856,7 @@
           and looking at him from her upturned face.</p>
   <p>"You ought to pay me."</p>
   <p>He did pay her; holding the dear face to him, and taking
-          from it some impassioned kisses. Barbara turned <pb
-            n="241"/> to the window, a low moan of pain
+          from it some impassioned kisses. Barbara turned <pb n="241"/> to the window, a low moan of pain
           escaping her, as she pressed her forehead on one of
           its panes, and looked forth at the dusky night.
           Isabel came in on her husband's arm.</p>
@@ -7997,8 +7920,7 @@
           with him and took his arm. All just as it used to
           be—only that he was now the husband of another.
           Only!</p>
-  <p>It was a warm lovely June night, not moonlight, but <pb
-            n="243"/> bright with its summer's twilight. They
+  <p>It was a warm lovely June night, not moonlight, but <pb n="243"/> bright with its summer's twilight. They
           went down the park into the road, which they
           crossed, and soon came to a stile. From that stile
           there led a path through the fields which would pass
@@ -8136,8 +8058,7 @@
           a sister? I cannot tell what might have been."</p>
   <p>"I could bear it better, but that it was known," she
           murmured. "All West Lynne had coupled us together in
-          their prying gossip, and they have only pity <pb
-            n="247"/> to cast to me now. I would far rather
+          their prying gossip, and they have only pity <pb n="247"/> to cast to me now. I would far rather
           you had killed me, Archibald."</p>
   <p>"I can but express to you my deep regret," he repeated.
           "I can only hope you will soon forget it all, Let
@@ -8202,8 +8123,7 @@
           moonshine; the sentimental rubbish that girls like
           to—"</p>
   <p>"Archibald!"</p>
-  <p>He was passing the very last tree in the park, the <pb
-            n="249"/> nearest to his house, and the
+  <p>He was passing the very last tree in the park, the <pb n="249"/> nearest to his house, and the
           interruption came from a dark form standing under
           it.</p>
   <p>"Is it you, my dearest?"</p>
@@ -8292,8 +8212,7 @@
           reply was an unfortunate one: he said, his opinion
           was that it had, and that Isabel ought to feel
           grateful to him for his generosity. She sighed as
-          she listened, and from thenceforth determined <pb
-            n="252"/> to <hi>put up</hi> with Miss Carlyle.
+          she listened, and from thenceforth determined <pb n="252"/> to <hi>put up</hi> with Miss Carlyle.
           That lady contributed a liberal share to the
           maintenance of the household, and <hi>would</hi> do
           it, quite as much as would have kept up her
@@ -8634,8 +8553,7 @@
   <p>"That won't hurt the baby," said Lady Isabel. "But if she
           has lived as lady's maid, she probably does not
           understand the care of infants."</p>
-  <p>"Yes, she does. She was upper nurse at Squire <pb n="263"
-          /> Pinner's, before going to Mrs. Hare's. She lived
+  <p>"Yes, she does. She was upper nurse at Squire <pb n="263"/> Pinner's, before going to Mrs. Hare's. She lived
           there five years."</p>
   <p>"I will see her," said Lady Isabel.</p>
   <p>Miss Carlyle left the room to send the servant in, but
@@ -8667,8 +8585,7 @@
   <p>"Oh yes, my lady."</p>
   <p>"Then possibly this situation might not suit you so well
           as you imagine. Joyce is the upper servant here, and
-          you would, in a manner, be under her. I have <pb
-            n="264"/> great confidence in Joyce; and in case
+          you would, in a manner, be under her. I have <pb n="264"/> great confidence in Joyce; and in case
           of my illness or absence, Joyce would superintend
           the nursery."</p>
   <p>"I should not mind that," was the applicant's answer. "We
@@ -8734,8 +8651,7 @@
   <p>"Were you a third in it?" sarcastically demanded
           Joyce.</p>
   <p>"Yes—without meaning to be. That skinflint old justice
-          won't allow followers in-doors, and there's no <pb
-            n="266"/> seeing anybody on the sly in that
+          won't allow followers in-doors, and there's no <pb n="266"/> seeing anybody on the sly in that
           conspicuous back kitchen-garden, where there's
           nothing higher than a cauliflower, so the only
           chance, we have, is to get half an hour's chat
@@ -8768,8 +8684,7 @@
   <p>"Mr. Carlyle's not fickle."</p>
   <p>"I can tell you some more yet. Two or three days after
           that, Miss Corny came up to our house with the news
-          of his marriage. I was in mistress's bedroom, <pb
-            n="267"/> and they were in the room underneath,
+          of his marriage. I was in mistress's bedroom, <pb n="267"/> and they were in the room underneath,
           the windows open, and I heard Miss Corny tell the
           tale, for I was leaning out. Up came Miss Barbara
           upon an excuse and flew into her room, and I went
@@ -8803,8 +8718,7 @@
           stile but one, what do you think I came upon?"</p>
   <p>Joyce lifted her eyes. "A snake, perhaps."</p>
   <p>"I came upon Miss Barbara and Mr. Carlyle. What had
-          passed, nobody knows but themselves. She was <pb
-            n="268"/> leaning her back against the stile,
+          passed, nobody knows but themselves. She was <pb n="268"/> leaning her back against the stile,
           crying; sobs breaking from her, like one might
           expect to hear from a breaking heart. It seemed as
           if she had been reproaching him, as if some
@@ -8942,8 +8856,7 @@
           conscious she had; but, taking all the circumstances
           into consideration, more especially how he learnt
           the fact, he could not in honour acknowledge it even
-          to his wife. "If it was so, Isabel, she was more <pb
-            n="272"/> reprehensibly foolish than I should have
+          to his wife. "If it was so, Isabel, she was more <pb n="272"/> reprehensibly foolish than I should have
           given Barbara's good sense credit for: a woman may
           almost as well lose herself, as suffer herself to
           love, unsought. If she did give her love to me, I
@@ -9280,8 +9193,7 @@
           Lynne that evening; but where would be her excuse
           for it at home? Puzzling over it, she went down to
           dinner. During the meal, Mrs. Hare began talking of
-          some silk she had purchased for a mantle. <pb
-            n="283"/> She should have it made like Miss
+          some silk she had purchased for a mantle. <pb n="283"/> She should have it made like Miss
           Carlyle's new one: when Miss Carlyle was at the
           Grove the other day, about Wilson's character, she
           had offered her the pattern, and she, Mrs. Hare,
@@ -9349,8 +9261,7 @@
           he called him <hi>Captain Thorn</hi> ."</p>
   <p>"That is curious indeed, Barbara. I did not know any
           stranger was at West Lynne."</p>
-  <p>"I saw Mr. Wainwright, and asked him who it was. <pb
-            n="285"/> He said a Captain Thorn, a friend of the
+  <p>"I saw Mr. Wainwright, and asked him who it was. <pb n="285"/> He said a Captain Thorn, a friend of the
           Herberts. A Lieutenant Thorn four or five years ago,
           would probably be Captain Thorn now."</p>
   <p>Mr. Carlyle nodded, and there was a pause.</p>
@@ -9381,8 +9292,7 @@
   <p>"You forget that mamma was not told anything about
           Thorn," was the answer of Barbara. "The uncertainty
           would have worried her to death. All Richard said to
-          her was, that he was innocent, that it was a <pb
-            n="286"/> stranger who did the deed, and she asked
+          her was, that he was innocent, that it was a <pb n="286"/> stranger who did the deed, and she asked
           for no particulars: she has implicit faith in
           Richard's truth."</p>
   <p>"True; I did forget," replied Mr. Carlyle. "I wish we
@@ -9415,8 +9325,7 @@
           Isabel?"</p>
   <p>"Very ill still."</p>
   <p>"By Jove, is she, though? Tell her I am sorry to hear it,
-          will you, Carlyle. But—I say! will she smell <pb
-            n="287"/> the smoke?" asked he, with a mixture of
+          will you, Carlyle. But—I say! will she smell <pb n="287"/> the smoke?" asked he, with a mixture of
           alarm and concern in his face.</p>
   <p>Mr. Carlyle reassured him upon that point, and turned to
           Captain Thorn.</p>
@@ -9448,8 +9357,7 @@
           is dead, and the property has passed to his
           daughter's husband, and that Low Pond was filled up
           three years ago."</p>
-  <p>"I have heard a friend mention it," was Captain <pb
-            n="288"/> Thorn's reply, spoken in an indifferent
+  <p>"I have heard a friend mention it," was Captain <pb n="288"/> Thorn's reply, spoken in an indifferent
           tone, though he evidently wished not to pursue the
           subject.</p>
   <p>Mr. Carlyle, by easy degrees, turned the conversation
@@ -9554,8 +9462,7 @@
           Mr. Tom Herbert.</p>
   <p>"Does Captain Thorn purpose making a long stay with you?"
           he stopped him to inquire.</p>
-  <p>"He's gone: I have just seen him off by the train," <pb
-            n="291"/> was the reply of Tom Herbert. "It seemed
+  <p>"He's gone: I have just seen him off by the train," <pb n="291"/> was the reply of Tom Herbert. "It seemed
           rather slow work for him without Jack, so he
           shortened his visit, and says he will pay us one
           when Jack's to the fore."</p>
@@ -9626,8 +9533,7 @@
           benefit."</p>
   <p>"I will propose it to her," said Mr. Carlyle.</p>
   <p>"I have just done so," replied Dr. Martin, who was the
-          other speaker. "She met it with objection; which <pb
-            n="294"/> I expected, for invalids naturally feel
+          other speaker. "She met it with objection; which <pb n="294"/> I expected, for invalids naturally feel
           a disinclination to move from home. But it is
           necessary that she should go."</p>
   <p>The object of their conversation was Lady Isabel. There
@@ -9767,8 +9673,7 @@
           the will. It is possible she thought she had
           succeeded, for her whole esteem, her respect, and
           her admiration were his. When she compared him with
-          other men, and saw how far he surpassed <pb n="298"
-          /> them, how noble and how good he was, how little
+          other men, and saw how far he surpassed <pb n="298"/> them, how noble and how good he was, how little
           the rest looked beside him, her heart rose up with
           pride at the consciousness of being his wife: a
           princess might have deemed it an honour to be the
@@ -9937,8 +9842,7 @@
   <p>"I will, my lady—as long as I am permitted."</p>
   <p>"And be kind to them, and love them, and shield them
           from—from—any unkindness that may be put upon them,"
-          she added, her head full of Miss Carlyle. <pb
-            n="303"/> "And talk to them sometimes of their
+          she added, her head full of Miss Carlyle. <pb n="303"/> "And talk to them sometimes of their
           poor mother who is gone."</p>
   <p>"I will I will: oh, my lady, I will!" And Joyce sat down
           in the rocking-chair as Lady Isabel quitted her, and
@@ -10005,8 +9909,7 @@
   <p>"Who? Which?" inquired Isabel, confused by the many
           passers-by.</p>
   <p>"That stout, well-dressed man with the light hair, and
-          bunch of seals hanging to his watch-chain. He <pb
-            n="306"/> thinks better of it, and comes on. All
+          bunch of seals hanging to his watch-chain. He <pb n="306"/> thinks better of it, and comes on. All
           safe, my good sir, on Boulogne pier, but if they
           catch you on the other side the water—Here comes his
           wife, following with some ladies. Look at her
@@ -10075,8 +9978,7 @@
           of one whom she was soon to find had never been
           entirely forgotten.</p>
   <p>Captain Levison came slowly on, approaching the part of
-          the pier where she sat. He glanced at her, not <pb
-            n="308"/> with the hardihood displayed by the two
+          the pier where she sat. He glanced at her, not <pb n="308"/> with the hardihood displayed by the two
           young men, but with quite sufficiently evident
           admiration.</p>
   <p>"What a lovely girl!" thought he to himself. "Who can she
@@ -10143,8 +10045,7 @@
           got here yesterday."</p>
   <p>"A long leave of absence," she observed.</p>
   <p>"Oh, I have left the army. I sold out. The truth is, Lady
-          Isabel—for I don't mind telling you—things <pb
-            n="310"/> are rather down with me at present. My
+          Isabel—for I don't mind telling you—things <pb n="310"/> are rather down with me at present. My
           old uncle has behaved shamefully: he has married
           again."</p>
   <p>"I heard that Sir Peter had married."</p>
@@ -10177,8 +10078,7 @@
           Self-interest, you see, Lady Isabel, is the order of
           the day with most of us."</p>
   <p>"Do you purpose staying in Boulogne long?"</p>
-  <p>"I don't know. As I may find amusement. Paris <pb n="311"
-          /> is a fast capital, with its heated rooms and its
+  <p>"I don't know. As I may find amusement. Paris <pb n="311"/> is a fast capital, with its heated rooms and its
           late hours, and I came down for the refreshment of a
           few sea dips. Am I walking too fast for you?"</p>
   <p>"You increased your pace alarmingly when you spoke of Sir
@@ -10282,8 +10182,7 @@
           custom-house and took her hands in his. "You look
           almost well."</p>
   <p>"Yes, I am much better, Archibald, but I am warm now and
-          flushed. We have waited here some time; <pb n="314"
-          /> and the setting sun was full upon us. How long
+          flushed. We have waited here some time; <pb n="314"/> and the setting sun was full upon us. How long
           the boat was, coming in."</p>
   <p>"The wind was dead against us," replied Mr. Carlyle,
           wondering who the exquisite was, at his wife's side.
@@ -10843,8 +10742,7 @@
           contrast they presented to reality; and equally
           painful to her conscience, in its strife after what
           was right. She would have given much not to have
-          these dreams; never to see or think of him <pb
-            n="12"/> in her sleep. But, how prevent it? There
+          these dreams; never to see or think of him <pb n="12"/> in her sleep. But, how prevent it? There
           was no prevention: for when the mind (or, the
           imagination, if you like the word better) is
           thoroughly imbued with a subject of this nature,
@@ -10910,8 +10808,7 @@
           act for him in a professional capacity?"</p>
   <p>"I do not."</p>
   <p>A few more words, and it was decided that Captain Levison
-          should be immediately sent for. As Mr. Carlyle <pb
-            n="14"/> left Sir Peter's presence, he encountered
+          should be immediately sent for. As Mr. Carlyle <pb n="14"/> left Sir Peter's presence, he encountered
           Lady Levison.</p>
   <p>"I can scarcely be ignorant that your conference with my
           husband has reference to his grand-nephew," she
@@ -10981,8 +10878,7 @@
           children; and I can take care of my pocket. A few
           days, no doubt, will be the extent of his
           sojourn."</p>
-  <p>Lady Levison smiled too, and shook hands with Mr. <pb
-            n="16"/> Carlyle. "In your house perhaps there may
+  <p>Lady Levison smiled too, and shook hands with Mr. <pb n="16"/> Carlyle. "In your house perhaps there may
           be no field for his vagaries; but rely upon it,
           where there is one, he is sure to be at some
           mischief or other."</p>
@@ -11152,8 +11048,7 @@
           words—she had recovered consciousness.</p>
   <p>"Oh, master, don't try to move me! I fear my leg is
           broken."</p>
-  <p>He did, however, essay gently to raise her, but she <pb
-            n="21"/> screamed with the pain, and he found he
+  <p>He did, however, essay gently to raise her, but she <pb n="21"/> screamed with the pain, and he found he
           must wait for assistance. "I trust you are not much
           hurt," he kindly said. "How did it happen?"</p>
   <p>"Miss Isabel ran out, sir, in all the rain and wet, and I
@@ -11217,8 +11112,7 @@
   <p>Later in the evening, Isabel and William were in the room
           with Mr. Carlyle. "There are fine children,"
           observed Francis Levison. "Beautiful faces!"</p>
-  <p>"They resemble their mother much, I think," was <pb
-            n="23"/> the reply of Mr. Carlyle. "She was a very
+  <p>"They resemble their mother much, I think," was <pb n="23"/> the reply of Mr. Carlyle. "She was a very
           lovely child."</p>
   <p>"Did you know Lady Isabel as a child?" inquired Francis
           Levison, some surprise in his tone.</p>
@@ -11250,8 +11144,7 @@
           Isabel, ignoring ceremony.</p>
   <p>Captain Levison laughed, and held her tighter. But Mr.
           Carlyle rose, and with quiet authority drew away the
-          child, and placed her on his own knee. She hid <pb
-            n="24"/> her face upon him, and put up her little
+          child, and placed her on his own knee. She hid <pb n="24"/> her face upon him, and put up her little
           hand round his neck.</p>
   <p>"Papa, I don't like him," she whispered softly; "I am
           afraid of him. Don't let him take me again."</p>
@@ -11296,8 +11189,7 @@
           wig and his dressing-gown, and then turned to the
           bed.</p>
   <p>"What will you have for breakfast?"</p>
-  <p>"Thank you, Richard, I do not think that I can <pb n="26"
-          /> eat anything. I shall be glad of my tea; I am
+  <p>"Thank you, Richard, I do not think that I can <pb n="26"/> eat anything. I shall be glad of my tea; I am
           very thirsty."</p>
   <p>"All nonsense," responded the justice, alluding to the
           intimation of not eating. "Have a poached egg."</p>
@@ -11362,8 +11254,7 @@
           me. I scarcely think I have had one since that
           stolen visit of Richard's, years ago."</p>
   <p>"Was it a very bad dream, mamma?"</p>
-  <p>"Oh, child, yes. I dreamt that the real murderer <pb
-            n="28"/> came to West Lynne: that he was with us
+  <p>"Oh, child, yes. I dreamt that the real murderer <pb n="28"/> came to West Lynne: that he was with us
           here, and we—"</p>
   <p>At this moment the bed-room door was flung open, and the
           face of the justice, especially stern and cross
@@ -11427,8 +11318,7 @@
           Mrs. Hare had to speak twice before she could be
           aroused.</p>
   <p>"Barbara, I say, don't you think that this dream, coming
-          uncalled for, uninduced, must forebode some <pb
-            n="30"/> ill? Rely upon it, something connected
+          uncalled for, uninduced, must forebode some <pb n="30"/> ill? Rely upon it, something connected
           with that wretched murder is going to be stirred up
           again."</p>
   <p>"You know, mamma, I do not believe in dreams," was
@@ -11601,8 +11491,7 @@
           warm, and that may have fatigued you."</p>
   <p>They gained the benches, which were placed under some of
           the dark trees, in view of the gates and the road,
-          but not of the house, and Mrs. Hare sat down. <pb
-            n="35"/> Another minute, and they were surrounded.
+          but not of the house, and Mrs. Hare sat down. <pb n="35"/> Another minute, and they were surrounded.
           Mr. Carlyle, his wife and sister, who were taking an
           afterdinner stroll amidst the flowers with their
           guest, Francis Levison, discerned them and came up.
@@ -11636,8 +11525,7 @@
           foot-race.</p>
   <p>"How very poorly your mamma looks!" Mr. Carlyle exclaimed
           to Barbara, when they were beyond the hearing of
-          Mrs. Hare, who was busy talking with Lady <pb n="36"
-          /> Isabel and Miss Carlyle. She has appeared so much
+          Mrs. Hare, who was busy talking with Lady <pb n="36"/> Isabel and Miss Carlyle. She has appeared so much
           stronger lately; altogether better."</p>
   <p>"The walk here has fatigued her; I feared it would be too
           long; so that she looks unusually pale," replied
@@ -11669,8 +11557,7 @@
           coming."</p>
   <p>Mr. Carlyle made no immediate reply. He picked up a ball
           belonging to one of the children, which lay in his
-          path, and began tossing it gently in his hand. <pb
-            n="37"/> "It is a singular thing," he observed,
+          path, and began tossing it gently in his hand. <pb n="37"/> "It is a singular thing," he observed,
           presently, "that we do not hear from Richard."</p>
   <p>"Oh, very; very. And I know mamma distresses herself over
           it. A few words, which she let fall this morning,
@@ -11832,8 +11719,7 @@
           go, for Barbara was already up with Mr. Tom Herbert.
           The latter had seen her running towards him, and
           waited at the gate.</p>
-  <p>"Are you going past our house?" inquired Barbara <pb
-            n="42"/> perceiving then that Otway Bethel also
+  <p>"Are you going past our house?" inquired Barbara <pb n="42"/> perceiving then that Otway Bethel also
           stood there, but just beyond view of the avenue.</p>
   <p>"Yes, Why?" replied Tom Herbert, who was not famed for
           his politeness, being blunt by nature and "fast" by
@@ -11866,8 +11752,7 @@
   <p>"Good evening, Miss Hare," added Otway Bethel. As Barbara
           was returning their salutation, she became conscious
           of other footsteps, advancing from the same
-          direction that they had come, and moved her head <pb
-            n="43"/> hastily round. Two gentlemen, walking
+          direction that they had come, and moved her head <pb n="43"/> hastily round. Two gentlemen, walking
           arm-in-arm, were close upon her, in one of whom she
           recognised "Jack," otherwise Major Herbert. He
           stopped and held out his hand.</p>
@@ -11969,8 +11854,7 @@
   <p>"It is a singular coincidence," exclaimed Mr.
           Carlyle.</p>
   <p>"Had anything been wanting to convince me that Thorn is
-          the guilty man, this would have done it," <pb n="46"
-          /> went on Barbara in her excitement. "Mamma's
+          the guilty man, this would have done it," <pb n="46"/> went on Barbara in her excitement. "Mamma's
           dream, with the steadfast impression it left upon
           her that Hallijohn's murderer was now at West
           Lynne—"</p>
@@ -12004,8 +11888,7 @@
           of being Hallijohn's murderer. In the first place,
           Barbara, we are not positively sure that he is the
           same man spoken of by Richard."</p>
-  <p>"Oh, Archibald, how can you doubt? The extra-ordinary <pb
-            n="47"/> fact of his appearing here at this
+  <p>"Oh, Archibald, how can you doubt? The extra-ordinary <pb n="47"/> fact of his appearing here at this
           moment, coupled with mamma's dream, might assure us
           of it."</p>
   <p>"Not quite," smiled Mr. Carlyle. "All we can do is to go
@@ -12266,8 +12149,7 @@
   <p>"Afy—who?" repeated Captain Thorn, opening his eyes, and
           fixing them on Mr. Carlyle's.</p>
   <p>"Afy Hallijohn."</p>
-  <p>Captain Thorn continued to look at Mr. Carlyle, an <pb
-            n="55"/> amused expression, rather than any other,
+  <p>Captain Thorn continued to look at Mr. Carlyle, an <pb n="55"/> amused expression, rather than any other,
           predominant on his features. "You are mistaken." he
           observed. "Afy Hallijohn? I never heard the name
           before in my life."</p>
@@ -12299,8 +12181,7 @@
           her name ere this."</p>
   <p>"No, it is not the reason," resumed Mr. Carlyle.</p>
   <p>"What is the reason, then?"</p>
-  <p>A faint flush tinged the brow of Mr. Carlyle. "I <pb
-            n="56"/> know more than one who would be glad to
+  <p>A faint flush tinged the brow of Mr. Carlyle. "I <pb n="56"/> know more than one who would be glad to
           get Barbara, in spite of the murder. Do not
           depreciate Miss Hare."</p>
   <p>"Not I indeed; I like the young lady too well," replied
@@ -12481,8 +12362,7 @@
           grumbling.</p>
   <p>"Not much in it. There never is in Anne's letters: she
           won't set the Thames on fire as a correspondent. As
-          if anybody cared to hear about the baby's being <pb
-            n="62"/> 'short-coated!' I think I'll have a cup
+          if anybody cared to hear about the baby's being <pb n="62"/> 'short-coated!' I think I'll have a cup
           more coffee, Barbara."</p>
   <p>Finally the justice finished his breakfast and strolled
           out into the garden. Mrs. Hare turned to
@@ -12514,8 +12394,7 @@
           cheeks. "Barbara! is it bad news?"</p>
   <p>"Mamma, it—it—is about Richard!" she whispered, glancing
           at the door and window, to see that none might be
-          within sight or hearing. "I never thought <pb n="63"
-          /> of him: I only fancied Anne might be sending me
+          within sight or hearing. "I never thought <pb n="63"/> of him: I only fancied Anne might be sending me
           some bit of news concerning her own affairs. Good
           Heavens! how fortunate—how providential that papa
           did not see the paper fall; and that you did not
@@ -12610,8 +12489,7 @@
           office to-day, and I have been now to your house. We
           have great news!"</p>
   <p>"Ay! What? About Thorn?"</p>
-  <p>"No, about Richard," replied Barbara, taking the <pb
-            n="66"/> scrap of paper from the folds of her
+  <p>"No, about Richard," replied Barbara, taking the <pb n="66"/> scrap of paper from the folds of her
           dress. "This came to me this morning, from
           Anne."</p>
   <p>Mr. Carlyle took the document, and Barbara looked over
@@ -12644,8 +12522,7 @@
   <p>"I do not. I have little doubt of the guilt of
           Thorn."</p>
   <p>"Oh, if it could but be brought home to him!" reiterated
-          Barbara: "so that Richard might be cleared <pb
-            n="67"/> in the sight of day. How can you contrive
+          Barbara: "so that Richard might be cleared <pb n="67"/> in the sight of day. How can you contrive
           that he shall see Thorn?"</p>
   <p>"I cannot tell; I must think it over. Let me know the
           instant he arrives, Barbara."</p>
@@ -12748,8 +12625,7 @@
           of cause or reason to be jealous of him: and, being
           a practical, matter-of-fact man, it did not occur to
           him that she could be so.</p>
-  <p>Lady Isabel was sitting the following morning, moody <pb
-            n="70"/> and out of sorts. Captain Levison had
+  <p>Lady Isabel was sitting the following morning, moody <pb n="70"/> and out of sorts. Captain Levison had
           accompanied Mr. Carlyle in the most friendly manner
           possible to the park gates on his departure, and
           then stolen along the hedge-walk. He returned to
@@ -12979,8 +12855,7 @@
   <p>At that moment Lady Isabel and her little girl passed in
           the chariot. She saw Barbara at her husband's door:
           what should she be doing there, unless paying him a
-          visit? A slight, haughty bow to Barbara, <pb n="77"
-          /> a pleasant nod and smile to Mr. Dill, and the
+          visit? A slight, haughty bow to Barbara, <pb n="77"/> a pleasant nod and smile to Mr. Dill, and the
           carriage bowled on.</p>
   <p>It was four o'clock before Barbara could see Mr. Carlyle.
           She communicated her tidings, that Richard had
@@ -13012,8 +12887,7 @@
           hesitated to sacrifice personal gratification to
           friendship or to business.</p>
   <p>The chariot was at the door, and Lady Isabel was dressed
-          and waiting for him in her dressing-room. <pb n="78"
-          /> "Did you forget that the Jeaffersons dine at
+          and waiting for him in her dressing-room. <pb n="78"/> "Did you forget that the Jeaffersons dine at
           six?" was her greeting.</p>
   <p>"No, Isabel; but it was impossible for me to get here
           before. And I should not have come so soon, but to
@@ -13082,8 +12956,7 @@
   <p>"Impossible," replied Mr. Carlyle. "The front door is
           fast, and the office is supposed to be empty at this
           hour."</p>
-  <p>"For, if I should be seen and recognised, it might <pb
-            n="80"/> come to hanging, you know, sir. You are
+  <p>"For, if I should be seen and recognised, it might <pb n="80"/> come to hanging, you know, sir. You are
           expecting that cursed Thorn here, Barbara told
           me."</p>
   <p>"Directly," replied Mr. Carlyle, observing the mode of
@@ -13117,8 +12990,7 @@
   <p>"Chiefly a hankering within me that I could not get rid
           of," replied Richard. "It was not so much to see my
           mother and Barbara—though I have longed to see them
-          since my illness—but a feeling was within me <pb
-            n="81"/> that I could not rest away from it. So I
+          since my illness—but a feeling was within me <pb n="81"/> that I could not rest away from it. So I
           said I'd risk it again, just for a day."</p>
   <p>"I thought you might possibly want some assistance, as
           before."</p>
@@ -13184,8 +13056,7 @@
           proceedings are taken. That answer will be here the
           morning after to-morrow."</p>
   <p>"And what am I to do then?"</p>
-  <p>"I think it probable there may be a way then of <pb
-            n="83"/> checkmating them. But I am not sure,
+  <p>"I think it probable there may be a way then of <pb n="83"/> checkmating them. But I am not sure,
           Captain Thorn, that I can give my attention further
           to this affair."</p>
   <p>"I hope and trust you will," was the reply.</p>
@@ -13253,8 +13124,7 @@
           dark, nights, Barbara could not have seen my signal
           from the trees," was the answer of Richard.</p>
   <p>They went out, and proceeded unmolested to the house of
-          Justice Hare. It was past nine then. "I am <pb
-            n="85"/> so much obliged to you, Mr. Carlyle,"
+          Justice Hare. It was past nine then. "I am <pb n="85"/> so much obliged to you, Mr. Carlyle,"
           whispered Richard, as they walked up the path.</p>
   <p>"I wish I could help you more effectually, Richard, and
           clear up the mystery. Is Barbara on the watch? Yes;
@@ -13286,8 +13156,7 @@
           further. Has Barbara mentioned it?"</p>
   <p>"I could not talk in the hall, mamma: the servants might
           have overheard."</p>
-  <p>"Mr. Hare is not well, and we terribly fear he will <pb
-            n="86"/> be home early, in consequence: otherwise
+  <p>"Mr. Hare is not well, and we terribly fear he will <pb n="86"/> be home early, in consequence: otherwise
           we should have been quite safe until ten, for he is
           gone to the Buck's Head, and they never leave, you
           know, till that hour has struck. Should he come in
@@ -13320,8 +13189,7 @@
           out immediately, a headache being the plea for her
           early departure. She had not far to go to reach East
           Lynne, about two miles: it was a by-road nearly all
-          the way. They could emerge into the open road if <pb
-            n="87"/> they pleased, but it was a trifle
+          the way. They could emerge into the open road if <pb n="87"/> they pleased, but it was a trifle
           further. Suddenly a gentleman approached the
           carriage as it was bowling along, and waved his hand
           to the coachman to pull up. In spite of the glowing
@@ -13463,8 +13331,7 @@
           brother! What had he ventured back for?</p>
   <p>Richard Hare it was. When fully assured that Barbara was
           standing there, he knew the justice was still
-          absent, and ventured to advance. He appeared to <pb
-            n="92"/> be in a strange state of emotion, his
+          absent, and ventured to advance. He appeared to <pb n="92"/> be in a strange state of emotion, his
           breath laboured, his whole frame trembling.</p>
   <p>"Barbara! Barbara!" he ejaculated, "I have seen
           Thorn."</p>
@@ -13495,8 +13362,7 @@
           against me, had used to be that I was a physical
           coward, you know, Barbara," he added, his tone
           changing to bitterness. "In a struggle, Thorn would
-          have had the best of it: he is taller and more <pb
-            n="93"/> powerful than I, and might have battered
+          have had the best of it: he is taller and more <pb n="93"/> powerful than I, and might have battered
           me to death. A man who can commit one murder, won't
           hesitate at a second."</p>
   <p>"Richard, do you think you could have been deceived?" she
@@ -13662,8 +13528,7 @@
           his surprise found that his wife had not come to
           bed. He wondered what the time was, and struck his
           repeater. A quarter-past three!</p>
-  <p>Rising, he made his way to the door of his wife's <pb
-            n="98"/> dressing-room. It was in darkness; and,
+  <p>Rising, he made his way to the door of his wife's <pb n="98"/> dressing-room. It was in darkness; and,
           so far as he could judge by absence of sound,
           unoccupied.</p>
   <p>"Isabel."</p>
@@ -13696,8 +13561,7 @@
           pain to-night."</p>
   <p>Mr. Carlyle was in full retreat towards Joyce's room, at
           this suggestion, when his sister called to him.</p>
-  <p>"If anything is amiss with Joyce, you come and tell <pb
-            n="99"/> me, Archibald, for I shall get up and see
+  <p>"If anything is amiss with Joyce, you come and tell <pb n="99"/> me, Archibald, for I shall get up and see
           after her. The girl was my servant before she was
           your wife's."</p>
   <p>He reached Joyce's room and softly unlatched the door,
@@ -13867,8 +13731,7 @@
           depth of desperation, ere she quitted them in her
           despair."</p>
   <p>The hand-writing, his wife's, swam before the eyes of Mr.
-          Carlyle. All, save the disgraceful fact that she <pb
-            n="104"/> had <hi>flown</hi> —and a horrible
+          Carlyle. All, save the disgraceful fact that she <pb n="104"/> had <hi>flown</hi> —and a horrible
           suspicion began to dawn upon him with whom—was
           totally incomprehensible. How had he outraged her?
           in what manner had he goaded her to it? The
@@ -14049,8 +13912,7 @@
           knew better; knew that they were the effects of her
           wretched mind and heart.</p>
   <p>It was very late for breakfast: but why should she rise
-          early, only to drag through another endless day? <pb
-            n="110"/> Languidly she took her seat at the
+          early, only to drag through another endless day? <pb n="110"/> Languidly she took her seat at the
           table, just as Captain Levison's servant, a
           Frenchman, whom he had engaged in Paris, entered the
           room with two letters.</p>
@@ -14119,8 +13981,7 @@
           wishing to imply that the divorce was yet a far-off
           affair: and he proceeded to open the other
           letter.</p>
-  <p>"Sir,—After sending off our last, dated to-day, we <pb
-            n="112"/> received tidings of the demise of Sir
+  <p>"Sir,—After sending off our last, dated to-day, we <pb n="112"/> received tidings of the demise of Sir
           Peter Levison, your great-uncle. He expired this
           afternoon in town, where he had come for the benefit
           of medical advice. We have much pleasure in
@@ -14428,8 +14289,7 @@
           wife would so offend all my family, that—"</p>
   <p>"Stay," interrupted Lady Isabel; "you need not trouble
           yourself to find needless excuses. Had you taken
-          this journey for the purpose of making me your <pb
-            n="122"/> wife, were you to propose to do so this
+          this journey for the purpose of making me your <pb n="122"/> wife, were you to propose to do so this
           day, and bring a clergyman into the room to perform
           the ceremony, it would be futile. The injury to the
           child can never be repaired: and, for myself, I
@@ -14460,8 +14320,7 @@
           will be any satisfaction to you to hear it. Since we
           are mutually on this complimentary discourse, it is
           of no consequence to smooth over facts."</p>
-  <p>"I do not understand what you would imply," she <pb
-            n="123"/> said, drawing her shawl round her with a
+  <p>"I do not understand what you would imply," she <pb n="123"/> said, drawing her shawl round her with a
           fresh shiver. "How 'on the wrong scent?'"</p>
   <p>"With regard to your husband and that Hare girl. You were
           blindly, outrageously jealous of him."</p>
@@ -14492,8 +14351,7 @@
   <p>"How did you know it?"</p>
   <p>"I had reason to think so."</p>
   <p>"What reason? I must request you to tell me."</p>
-  <p>"I overheard scraps of their conversation now and <pb
-            n="124"/> then in those meetings, and so gathered
+  <p>"I overheard scraps of their conversation now and <pb n="124"/> then in those meetings, and so gathered
           my conclusions."</p>
   <p>"You told a different tale to me, Sir Francis," was her
           remark, as she lifted her indignant eyes towards
@@ -14661,8 +14519,7 @@
           name, and go out as governess in a French or German
           family, was one of her visions in prospective.</p>
   <p>A confused idea of revenge had been in her mind, urging
-          her on to desperation, the night she quitted her <pb
-            n="129"/> home; of revenge on Mr. Carlyle for his
+          her on to desperation, the night she quitted her <pb n="129"/> home; of revenge on Mr. Carlyle for his
           supposed conduct to her. But what revenge had the
           step really brought to her heart? As her eyes opened
           to her folly and to the true character of Francis
@@ -14766,8 +14623,7 @@
           fellow-servant having had their curiosity uncommonly
           whetted that day.</p>
   <p>A very miserable affair it must be, that monsieur should
-          have had to go back as soon as he came! All <pb
-            n="132"/> those many miles, over those cold
+          have had to go back as soon as he came! All <pb n="132"/> those many miles, over those cold
           wretched roads, behind a shrieking and dangerous
           steam-engine, and across that abominable sea! She,
           once upon a time, when she was living with a family
@@ -14916,8 +14772,7 @@
           recriminating interview, and we then parted for
           life."</p>
   <p>"What have you heard of him lately?"</p>
-  <p>"Not anything. I never know what is passing in <pb
-            n="137"/> the world at home; I have no newspaper,
+  <p>"Not anything. I never know what is passing in <pb n="137"/> the world at home; I have no newspaper,
           no correspondence; and he would scarcely be so bold
           as to write to me again."</p>
   <p>"I shall not shock you, then, by some tidings I bring you
@@ -14950,8 +14805,7 @@
   <p>There was a long silence. The earl appeared to be
           alternately ruminating and taking a survey of the
           room. Isabel sat with her head hanging down.</p>
-  <p>"Why did you seek me out?" she presently broke <pb
-            n="138"/> forth. "I am not worth it. I have
+  <p>"Why did you seek me out?" she presently broke <pb n="138"/> forth. "I am not worth it. I have
           brought enough disgrace upon your name."</p>
   <p>"And upon your husband's and upon your children's," he
           rejoined, in his most severe manner, for it was not
@@ -15054,8 +14908,7 @@
           to it?"</p>
   <p>"He knew," she answered, scarcely above her breath.</p>
   <p>"He did not know," sternly replied the earl. "A more
-          truthful, honourable man than Carlyle does not <pb
-            n="141"/> exist on the face of the earth. When he
+          truthful, honourable man than Carlyle does not <pb n="141"/> exist on the face of the earth. When he
           told me then, in his agony of grief, that he was
           unable to form even a suspicion of your meaning, I
           could have staked my earldom on his veracity. I
@@ -15089,8 +14942,7 @@
           that the words were true; that her own blind
           jealousy had been utterly mistaken and unfounded,
           was forcing its way to her brain.</p>
-  <p>"After that, I could only set your letter down as a <pb
-            n="142"/> subterfuge," resumed the earl: "a false,
+  <p>"After that, I could only set your letter down as a <pb n="142"/> subterfuge," resumed the earl: "a false,
           barefaced plea, put forth to conceal your real
           motive: and I told Carlyle so. I inquired how it was
           he had never detected any secret understanding
@@ -15123,8 +14975,7 @@
   <p>"Yes he did. I forget it, though. Rabbit? Rabbit? some
           such name as that."</p>
   <p>"Was it Hare?"</p>
-  <p>"That was it. Hare. He said you appeared vexed <pb
-            n="143"/> that he did not accompany you to the
+  <p>"That was it. Hare. He said you appeared vexed <pb n="143"/> that he did not accompany you to the
           dinner; perceiving this, he intended to go in
           afterwards, but was prevented. When the interview
           was over in his office, he was again detained at
@@ -15225,8 +15076,7 @@
           towards the earl. "Spare me! spare me! You have been
           rending my heart ever since you came: indeed I am
           too weak to bear it."</p>
-  <p>The earl, in truth, had been betrayed into showing <pb
-            n="146"/> more of his sentiments than he intended.
+  <p>The earl, in truth, had been betrayed into showing <pb n="146"/> more of his sentiments than he intended.
           He recalled his recollection.</p>
   <p>"Well, well, sit down again, Isabel," he said, putting
           her into her chair. "We will go to the point I
@@ -15354,8 +15204,7 @@
           withered out their days as fading maidens, or
           whether they raced through life bustling matrons.
           Neither, in the abstract, did the justice want
-          Barbara away from the paternal home, or <pb n="150"
-          /> deem her an incumbrance within it: on the
+          Barbara away from the paternal home, or <pb n="150"/> deem her an incumbrance within it: on the
           contrary, were Barbara absent, he might be at fault
           for a target at which to shoot the arrows of his
           hard words. Neither had money anything to do with
@@ -15423,8 +15272,7 @@
           gentleman as 'her husband?'"</p>
   <p>Barbara felt a little bewildered.</p>
   <p>"Here's the whole parish saying that Barbara Hare can't
-          be married, that nobody will have her on account <pb
-            n="152"/> of—of—of that cursed stain left by—I
+          be married, that nobody will have her on account <pb n="152"/> of—of—of that cursed stain left by—I
           won't trust myself to name him, I should go too far.
           Now don't you think that's a pretty disgrace, a fine
           state of things?"</p>
@@ -15491,8 +15339,7 @@
   <p>"Matrimony may not have charms for Barbara," replied Mr.
           Carlyle half jokingly.</p>
   <p>"Nothing has charms for her that ought to have," growled
-          Justice Hare. "She's one of the contrary <pb n="154"
-          /> ones. By the way, though," hastily resumed the
+          Justice Hare. "She's one of the contrary <pb n="154"/> ones. By the way, though," hastily resumed the
           justice, leaving the objectionable subject, as
           another flashed across his memory, "they were
           coupling your name and matrimony together, Carlyle,
@@ -15558,8 +15405,7 @@
           so that it should not be seen. Barbara silently
           locked her hands, one within the other, and turned
           to the window.</p>
-  <p>"Of whom do you speak?" asked Mr. Carlyle, in a <pb
-            n="156"/> matter-of-fact tone, as if he were
+  <p>"Of whom do you speak?" asked Mr. Carlyle, in a <pb n="156"/> matter-of-fact tone, as if he were
           putting the most matter-of-fact question. He knew
           too well; but he sought to temporise for the sake of
           Mrs. Hare.</p>
@@ -15593,8 +15439,7 @@
           I reached it. 'Oh, justice,' he began, 'I am glad I
           met you. There's a nasty report in the place, that
           Richard has been seen here. I'd see what I could do
-          towards hushing it up, sir, if I were you, for <pb
-            n="157"/> it may only serve to put the police in
+          towards hushing it up, sir, if I were you, for <pb n="157"/> it may only serve to put the police in
           mind of bygone things, which it may be better they
           should forget.' Carlyle, I went, as I tell you, to
           knock him down: I asked him how he could have the
@@ -15693,8 +15538,7 @@
   <p>"Yes."</p>
   <p>"Did it strike you then—has it ever occurred to you to
           think—that it accorded with—with some one?"</p>
-  <p>"In what way, Barbara?" he asked after a pause. <pb
-            n="160"/> "It accorded with the description
+  <p>"In what way, Barbara?" he asked after a pause. <pb n="160"/> "It accorded with the description
           Richard always gave of the main Thorn."</p>
   <p>"Richard spoke of the peculiar movement of throwing off
           the hair from the forehead—in this way. Did that
@@ -15760,8 +15604,7 @@
           had been much struck with Barbara. Had his
           circumstances allowed, he would have solicited her
           to become his wife then. Recently, he had acquired
-          some property by inheritance, and had also been <pb
-            n="162"/> promoted a step in his profession. The
+          some property by inheritance, and had also been <pb n="162"/> promoted a step in his profession. The
           first use he made of his ease, was to write both to
           Barbara and her father. Barbara declined his offer,
           as you have seen, and the justice would be quite
@@ -15895,8 +15738,7 @@
           nature of punishment into a blessing. Our sorrows
           are the gifts of Almighty God, no less than our
           joys."</p>
-  <p>"I will, I have taken up my cross," said Lady <pb n="166"
-          /> Isabel faintly, for the pain of her injuries was
+  <p>"I will, I have taken up my cross," said Lady <pb n="166"/> Isabel faintly, for the pain of her injuries was
           beginning to make itself felt.</p>
   <p>"Can I write to any one for you?" asked the sister, "tell
           me now, whilst you can think of it."</p>
@@ -16242,8 +16084,7 @@
   <p>"Excuse me, Afy, but I cannot take your hand. I cannot
           welcome you here. What could have induced you to
           come?"</p>
-  <p>"If you are going to be upon the high ropes, it seems <pb
-            n="176"/> I might as well have stayed away," was
+  <p>"If you are going to be upon the high ropes, it seems <pb n="176"/> I might as well have stayed away," was
           Afy's reply, given in the pert, but good-humoured
           manner she had ever used to Joyce. "My hand won't
           damage yours. I am not poison."</p>
@@ -16310,8 +16151,7 @@
           where murder has been."</p>
   <p>"What have you been doing ever since? Where have you
           been?"</p>
-  <p>"Never mind, I say," repeated Afy. "West Lynne <pb
-            n="178"/> has not been so complimentary to me, it
+  <p>"Never mind, I say," repeated Afy. "West Lynne <pb n="178"/> has not been so complimentary to me, it
           appears, that I need put myself out of my way to
           satisfy its curiosity. I was knocking about a bit at
           first, but I soon settled down as steady as Old
@@ -16344,8 +16184,7 @@
           when she died, over and above my salary. I used to
           like the Psalms best, because they were short and
           comforting."</p>
-  <p>"So comforting!" echoed Joyce. "Afy, I shall <pb n="179"
-          /> love you and be proud of you again, like I was
+  <p>"So comforting!" echoed Joyce. "Afy, I shall <pb n="179"/> love you and be proud of you again, like I was
           when you first came home to us."</p>
   <p>Afy laughed, a ringing laugh. "You and West Lynne always
           set me down for worse than I was. Though it poses me
@@ -16411,8 +16250,7 @@
           little."</p>
   <p>"Will he marry again?" went on Afy.</p>
   <p>"How can I tell? There appears no probability of it at
-          present. A few weeks or months ago, a rumour <pb
-            n="181"/> arose that he was to marry Miss Louisa
+          present. A few weeks or months ago, a rumour <pb n="181"/> arose that he was to marry Miss Louisa
           Dobede; but it died away again."</p>
   <p>"Louisa Dobede! one of that ugly old baronet's
           daughters?"</p>
@@ -16444,8 +16282,7 @@
   <p>"At Lady Mount Severn's?"</p>
   <p>"Why not? I have been there two years. It is not a great
           deal longer I shall stop, though; she has got too
-          much vinegar in her for me. It happened <pb n="182"
-          /> just after I went there, and she had a cousin
+          much vinegar in her for me. It happened <pb n="182"/> just after I went there, and she had a cousin
           visiting her, a Miss Levison, and the two were for
           ever talking of it."</p>
   <p>"But not in your presence?"</p>
@@ -16512,8 +16349,7 @@
           aggravated Joyce.</p>
   <p>Joyce would stand it no longer. "Listen, Afy: I loved my
           mistress, and I love her memory still, in spite of
-          what has taken place. If you are to speak <pb
-            n="184"/> against her, it must be in some other
+          what has taken place. If you are to speak <pb n="184"/> against her, it must be in some other
           house, for it shall not be in Mr. Carlyle's, where
           she was once so honoured."</p>
   <p>"Have it your own way," indifferently rejoined Afy.
@@ -16609,8 +16445,7 @@
           fathom. Perhaps you can help me out."</p>
   <p>"What mystery, sir?" returned Afy.</p>
   <p>Mr. Carlyle leaned forward, his arms on the table; Afy
-          had taken a chair at the other end of it. "Who <pb
-            n="187"/> was it that committed the murder?" he
+          had taken a chair at the other end of it. "Who <pb n="187"/> was it that committed the murder?" he
           demanded, in a grave and somewhat imperative
           tone.</p>
   <p>Afy stared some moments before she replied, evidently
@@ -16642,8 +16477,7 @@
   <p>"There was another friend of yours present that evening,
           Afy. Lieutenant Thorn."</p>
   <p>Afy's face turned crimson: she was evidently confused.
-          But Mr. Carlyle's speech and manner were <pb n="188"
-          /> authoritative, and she saw that it would be
+          But Mr. Carlyle's speech and manner were <pb n="188"/> authoritative, and she saw that it would be
           useless to attempt to trifle with him.</p>
   <p>"I know he was, sir. A young chap, who used to ride over
           some evenings to see me. He had nothing to do with
@@ -16672,8 +16506,7 @@
           for a long while. I think I heard something about
           his going to India with his regiment."</p>
   <p>"What regiment is he in?"</p>
-  <p>"I'm sure I don't know about that," said Afy. "Is <pb
-            n="189"/> not one regiment the same as another:
+  <p>"I'm sure I don't know about that," said Afy. "Is <pb n="189"/> not one regiment the same as another:
           they are all in the army, aren't they, sir?"</p>
   <p>"Afy, I must find this Captain Thorn. Do you know
           anything of his family?"</p>
@@ -16858,8 +16691,7 @@
           back mechanically; a thousand perplexing sensations
           overwhelmed him; and the man followed him into the
           room. A white man, as Lucy had called her father.
-          Ay, for he had been hours and hours on foot <pb
-            n="195"/> in the snow: his hat, his clothes, his
+          Ay, for he had been hours and hours on foot <pb n="195"/> in the snow: his hat, his clothes, his
           eyebrows, his large whiskers, all were white. "Lock
           the door, sir," were his first words. Need you be
           told that it was Richard Hare?</p>
@@ -16891,8 +16723,7 @@
           of rain came down. A gentleman and lady were passing
           at the time, but I had not paid any attention to
           them. 'By Jove!' I heard him exclaim to her, 'I
-          think we are going to have pepper. We had better <pb
-            n="196"/> take a cab, my dear.' With that, the man
+          think we are going to have pepper. We had better <pb n="196"/> take a cab, my dear.' With that, the man
           I was talking to swung open the door of his cab, and
           she got in—such a fair young girl! I turned to look
           at him, and you might just have knocked me down with
@@ -16960,8 +16791,7 @@
           up and stood before him. 'What do you want, fellow?'
           he asked. 'I have seen you watching me before this.'
           'I want to know your name,' I said, 'that's enough
-          for me at present.' He flew into a fierce <pb
-            n="198"/> passion, and swore that if ever he
+          for me at present.' He flew into a fierce <pb n="198"/> passion, and swore that if ever he
           caught sight of me near him again, he would hand me
           over into custody. 'And, remember, men are not given
           into custody for <hi>watching</hi> others,' he
@@ -17094,8 +16924,7 @@
           been most positive and solemn. There were
           difficulties in the matter which he could not
           reconcile.</p>
-  <p>"Now that I have overgot my passion for Afy, I can <pb
-            n="202"/> see her faults, Mr. Carlyle. She'd no
+  <p>"Now that I have overgot my passion for Afy, I can <pb n="202"/> see her faults, Mr. Carlyle. She'd no
           more stick at an untruth, than she'd stick—"</p>
   <p>A most awful thundering at the room door: loud enough to
           bring the very house down. No officers of justice,
@@ -17265,8 +17094,7 @@
           madness, Archibald, for him to come here."</p>
   <p>He left her to enter, telling her to lock the door as
           soon as she got inside, and went into the adjoining
-          room, which, by another door, opened to the <pb
-            n="207"/> one Richard was in. There he rang the
+          room, which, by another door, opened to the <pb n="207"/> one Richard was in. There he rang the
           bell. It was answered by a footman.</p>
   <p>"Send Peter to me."</p>
   <p>"Lay supper here, Peter, for two," began Mr. Carlyle,
@@ -17297,8 +17125,7 @@
           be worse then!" chimed in one of the maids.</p>
   <p>When Mr. Carlyle got back to the other room, his sister
           and Richard Hare had scarcely finished staring at
-          each other. Richard had no doubt seen many a <pb
-            n="208"/> fancifully-attired lady in the class
+          each other. Richard had no doubt seen many a <pb n="208"/> fancifully-attired lady in the class
           amidst whom he had recently lived, but he could
           scarcely have had the luck to meet one who beat Miss
           Carlyle. Sure two such Guys never stood face to
@@ -17332,8 +17159,7 @@
           streets of West Lynne to-morrow, and show yourself
           openly?"</p>
   <p>"Not if I can help it," replied Richard.</p>
-  <p>"You might just as well do that, if you come to <pb
-            n="209"/> West Lynne at all, for you can't be here
+  <p>"You might just as well do that, if you come to <pb n="209"/> West Lynne at all, for you can't be here
           now without being found out. There was a bother
           about you having been here before: I should like to
           know how it got abroad."</p>
@@ -17401,8 +17227,7 @@
           some things—actually suffered her to lodge here for
           two days! A vain, ill-conducted hussy, given to
           nothing but finery and folly!"</p>
-  <p>"Afy said that she knew nothing of Thorn's movements <pb
-            n="211"/> now, Richard, and had not for some
+  <p>"Afy said that she knew nothing of Thorn's movements <pb n="211"/> now, Richard, and had not for some
           time," interposed Mr. Carlyle, allowing his sister's
           compliment to pass in silence. "She heard a rumour,
           she thought, that he had gone abroad with his
@@ -17540,8 +17365,7 @@
           "I only wish he was young enough for me to flog him
           as I used to, that's all: he deserves it as much as
           anybody ever did, playing the fool as he has done,
-          in all ways. I shall be in bed with the curtains <pb
-            n="215"/> drawn, and his passing through won't
+          in all ways. I shall be in bed with the curtains <pb n="215"/> drawn, and his passing through won't
           harm me, and my lying there won't harm him. Stand on
           ceremony with Dick Hare! what next, I wonder?"</p>
   <p>This point being settled, Joyce went to put sheets upon
@@ -17600,8 +17424,7 @@
           small one."</p>
   <p>"I am inclined to think that this man, Thorn, only made a
           show of threatening you, Richard. If he be really
-          the guilty party, his policy must be to keep all <pb
-            n="217"/> in quietness. The very worst thing that
+          the guilty party, his policy must be to keep all <pb n="217"/> in quietness. The very worst thing that
           could happen for him, would be your arrest."</p>
   <p>"Then why molest me? Why send an officer to dodge
           me?"</p>
@@ -17634,8 +17457,7 @@
           betting-rooms, and once they were walking
           arm-in-arm. They are apparently upon intimate
           terms."</p>
-  <p>At this moment, a loud, flustering, angry voice was <pb
-            n="218"/> heard calling from the stairs, and
+  <p>At this moment, a loud, flustering, angry voice was <pb n="218"/> heard calling from the stairs, and
           Richard leaped up as if he had been shot. His
           door—not the one leading to the room of Miss
           Carlyle—opened upon the corridor, and the voice
@@ -17701,8 +17523,7 @@
   <p>"The only notice <hi>I</hi> should ever take of an
           anonymous letter would be to put it in the fire,"
           cried Mr. Carlyle, his lip curling with scorn.</p>
-  <p>"But who has written it?" danced Justice Hare. <pb
-            n="220"/> "And is Dick at West Lynne?—that's the
+  <p>"But who has written it?" danced Justice Hare. <pb n="220"/> "And is Dick at West Lynne?—that's the
           question!"</p>
   <p>"Now, is it likely that he would come to West Lynne?"
           remonstrated Mr. Carlyle. "Justice, will you pardon
@@ -17869,8 +17690,7 @@
           Richard. "We will try and get her here."</p>
   <p>"She can arrange about the money I am to have, just as
           well as my mother could, you know, sir."</p>
-  <p>"Yes. For Barbara is in receipt of money of her <pb
-            n="225"/> own now, and I know she would wish for
+  <p>"Yes. For Barbara is in receipt of money of her <pb n="225"/> own now, and I know she would wish for
           nothing better than to apply some of it to you.
           Cornelia, as an excuse for getting her here, I must
           say to Mrs. Hare that you are ill, and wish Barbara
@@ -17903,8 +17723,7 @@
           sent him to say that he fears there'll be no fish in
           to-day in anything like time. The trains cannot get
           up, with this weather."</p>
-  <p>Mrs. Hare rose from her seat to hold a conference <pb
-            n="226"/> at the door with her maid; and Mr.
+  <p>Mrs. Hare rose from her seat to hold a conference <pb n="226"/> at the door with her maid; and Mr.
           Carlyle seized his opportunity.</p>
   <p>"Barbara," he whispered, "make no opposition. You
             <hi>must</hi> come. What I really want you for is
@@ -18038,8 +17857,7 @@
   <p>Last of all he wrung the hand of Mr. Carlyle. The latter
           went outside with him for an instant, and their
           leave-taking was alone.</p>
-  <p>Barbara returned to the chamber he had quitted. <pb
-            n="230"/> She felt that she must indulge in a few
+  <p>Barbara returned to the chamber he had quitted. <pb n="230"/> She felt that she must indulge in a few
           moments' sobbing: Joyce was there, but Barbara was
           sobbing when she entered it.</p>
   <p>"It <hi>is</hi> hard for him, Miss Barbara; if he is
@@ -18139,8 +17957,7 @@
   <p>She shook her head in the negative. "But you are very
           kind to ask me," she added in words.</p>
   <p>"What is the impediment, Barbara?"</p>
-  <p>Another rush of colour as before, and a deep silence. <pb
-            n="233"/> Mr. Carlyle put his arm round her, and
+  <p>Another rush of colour as before, and a deep silence. <pb n="233"/> Mr. Carlyle put his arm round her, and
           bent his face on a level with hers.</p>
   <p>"Whisper it to me, Barbara."</p>
   <p>She burst into a flood of tears.</p>
@@ -18294,8 +18111,7 @@
           made off like a shot. I thought it curious. Perhaps
           it was the man you speak of, Mr. Otway?"</p>
   <p>"I shouldn't wonder, Sir."</p>
-  <p>Mr. Carlyle glanced at Barbara. She had turned <pb
-            n="238"/> deadly white. He saw what was passing in
+  <p>Mr. Carlyle glanced at Barbara. She had turned <pb n="238"/> deadly white. He saw what was passing in
           her mind. Could it be the ill-fated Richard? As Mr.
           Carlyle crossed the room to the door, he contrived
           to whisper a word to her in passing.</p>
@@ -18623,8 +18439,7 @@
           nice girl, and I wish it had been my luck to get
           her."</p>
   <p>"To go from one subject to another," resumed Mr. Carlyle,
-          "there is a question I have long thought to <pb
-            n="248"/> put to you, Thorn, if we ever met again.
+          "there is a question I have long thought to <pb n="248"/> put to you, Thorn, if we ever met again.
           Which year was it that you were staying at
           Swainson?"</p>
   <p>Major Thorn mentioned it. It was the year of Hallijohn's
@@ -18656,8 +18471,7 @@
   <p>It seemed to be ever so! Scraps of information, but
           nothing tangible, nothing to lay hold of, or to know
           the man by. Would it be thus always?</p>
-  <p>"Should you recognise him again, were you to see <pb
-            n="249"/> him?" resumed Mr. Carlyle, awaking from
+  <p>"Should you recognise him again, were you to see <pb n="249"/> him?" resumed Mr. Carlyle, awaking from
           his reverie.</p>
   <p>"I think I should. There was something peculiar in his
           countenance, and I remember it well yet."</p>
@@ -18791,8 +18605,7 @@
           thing. I'm sure I'd nearly as soon see Archibald go
           to his hanging."</p>
   <p>"Oh, Miss Corny!"</p>
-  <p>"I would: and you need not stare at me as if you <pb
-            n="254"/> were throttled. What business has he to
+  <p>"I would: and you need not stare at me as if you <pb n="254"/> were throttled. What business has he to
           go and fetter himself with a wife again? one would
           have thought he had had enough with the other. It is
           as I have always said; there's a soft place in
@@ -18895,8 +18708,7 @@
   <p>"I am not going to church yet, I am going on to the
           Grove, Miss Corny. I thought it would look more
           proper to have a fly, ma'am; more respectful."</p>
-  <p>"Not a doubt but you need it, in that trim," retorted <pb
-            n="257"/> she. "Why didn't you put on pumps; and
+  <p>"Not a doubt but you need it, in that trim," retorted <pb n="257"/> she. "Why didn't you put on pumps; and
           silk stockings with pink clocks?"</p>
   <p>He was glad to bow himself out. But he thought he would
           do it with a pleasant remark, to show her he bore no
@@ -19105,8 +18917,7 @@
           an heiress, too: an uncle had left her twenty
           thousand pounds: and, at her mother's death, she
           would have ten thousand more. The Count Otto von
-          Stalkenberg heard of the thirty thousand pounds, <pb
-            n="264"/> and turned his fierce moustache and his
+          Stalkenberg heard of the thirty thousand pounds, <pb n="264"/> and turned his fierce moustache and his
           eyes on Miss Helena.</p>
   <p>"Tirty tousand pound and von handsome girls!" cogitated
           he, for he prided himself upon his English. "It is
@@ -19283,8 +19094,7 @@
           now. Would Isabel grow up to indifference,
           to—perhaps do as she had done? Lady Isabel flung her
           hands before her eyes, and groaned in anguish.</p>
-  <p>Of late, the longing had become intense. It was <pb
-            n="269"/> indeed a very fever; and a fever of the
+  <p>Of late, the longing had become intense. It was <pb n="269"/> indeed a very fever; and a fever of the
           worst kind, for it attacked both the mind and body.
           Her pale lips were constantly parched: her throat
           had that malady in it, which those, who have
@@ -19319,8 +19129,7 @@
           ill-natured reports at the time of the murder, so
           that Mrs. Latimer looked upon her as one to be
           compassionated.</p>
-  <p>Mrs. Latimer and Mrs. Crosby, whose apartments in <pb
-            n="270"/> the hotel adjoined, struck up a violent
+  <p>Mrs. Latimer and Mrs. Crosby, whose apartments in <pb n="270"/> the hotel adjoined, struck up a violent
           friendship, the one for the other. Ere the former
           had been a week at the Ludwig, they had sworn
           something like eternal sisterhood—as both had
@@ -19387,8 +19196,7 @@
           have lived in a wood. She eloped: abandoned him and
           her children."</p>
   <p>"Are the children living?"</p>
-  <p>"Yes, poor things. But the one's on its road to <pb
-            n="272"/> consumption—if ever I saw consumption
+  <p>"Yes, poor things. But the one's on its road to <pb n="272"/> consumption—if ever I saw consumption
           yet. Joyce —that's my sister—is in a flaring temper
           with me when I say it. She thinks it will get strong
           again."</p>
@@ -19421,8 +19229,7 @@
   <p>"Did you ever see Lady Isabel?" she asked, in a low
           tone.</p>
   <p>"Not I," returned Afy; "I should have thought it
-          demeaning. One does not care to be brought into <pb
-            n="273"/> contact with that sort of misdoing lot,
+          demeaning. One does not care to be brought into <pb n="273"/> contact with that sort of misdoing lot,
           you know, Madame Vine."</p>
   <p>"There was another one, a little boy, Archibald, I think
           his name was. Is he well?"</p>
@@ -19487,8 +19294,7 @@
           hear any of them fibbing against me now. Do you know
           that blessed Miss Corny?"</p>
   <p>"I have seen her."</p>
-  <p>"She shakes her head and makes eyes at me still. <pb
-            n="275"/> But so she would at an angel: a
+  <p>"She shakes her head and makes eyes at me still. <pb n="275"/> But so she would at an angel: a
           cross-grained old cockatoo!"</p>
   <p>"Is she still at East Lynne?"</p>
   <p>"Not she, indeed. There would be drawn battles between
@@ -19555,8 +19361,7 @@
           was as fond of Lady Isabel, nearly, as Mr. Carlyle
           was."</p>
   <p>"Was he so fond of her?"</p>
-  <p>"He worshipped the very ground she trod upon. <pb n="277"
-          /> Ay, up to the hour of her departure; Joyce says
+  <p>"He worshipped the very ground she trod upon. <pb n="277"/> Ay, up to the hour of her departure; Joyce says
           she knows he did: and that's how she repaid him. But
           it's sure to be the way, in this world: let a man,
           or woman, make an idol of another, and see if they
@@ -19588,8 +19393,7 @@
   <p>To bed at the usual time, but not to sleep. What she had
           heard only increased her vain, insensate longing. A
           stepmother at East Lynne, and one of her children
-          gliding on to death! Oh! to be with them! <pb
-            n="278"/> to see them once again! To purchase that
+          gliding on to death! Oh! to be with them! <pb n="278"/> to see them once again! To purchase that
           boon, she would willingly forfeit all the rest of
           her existence.</p>
   <p>Her frame was fevered; the bed was fevered; and she rose
@@ -19658,8 +19462,7 @@
           Latimer.</p>
   <p>Lady Isabel roused herself, and so far cleared her
           intellects as to understand and answer the question.
-          "Perhaps you will kindly give me until to-morrow <pb
-            n="280"/> morning to consider of it? I had not
+          "Perhaps you will kindly give me until to-morrow <pb n="280"/> morning to consider of it? I had not
           intended to take a situation in England."</p>
   <p>She had a battle with herself that day. Now resolving to
           go, and risk it; now shrinking from the attempt. At
@@ -19812,8 +19615,7 @@
           them up then: in reality to gather a short respite,
           for Joyce might be about to usher her into the
           presence of Mr. and Mrs. Carlyle.</p>
-  <p>Joyce, however, did nothing of the sort. She merely <pb
-            n="285"/> conducted her to the grey parlour: a
+  <p>Joyce, however, did nothing of the sort. She merely <pb n="285"/> conducted her to the grey parlour: a
           fire was burning in the grate, looking cheerful on
           the autumn night.</p>
   <p>"This is your sitting-room, madame. What will you please
@@ -19918,8 +19720,7 @@
           liberally. Yes; for East Lynne owned Mr. Carlyle for
           its master.</p>
   <p>She made the tea, and sat down with what appetite she
-          might. Her brain, her thoughts, all in a chaos <pb
-            n="288"/> together. She wondered whether Mr. and
+          might. Her brain, her thoughts, all in a chaos <pb n="288"/> together. She wondered whether Mr. and
           Mrs. Carlyle were at dinner: she wondered in what
           part of the house were the children. She heard bells
           ring now and then; she heard servants cross and
@@ -19987,8 +19788,7 @@
           heart-sickness. No longer <hi>her</hi> drawing-room,
           that she should take pride in it: she had flung it
           away from her when she flung away the rest.</p>
-  <p>Seated under the blaze of the chandelier was Barbara. <pb
-            n="290"/> Not a day older did she look than when
+  <p>Seated under the blaze of the chandelier was Barbara. <pb n="290"/> Not a day older did she look than when
           Lady Isabel had first seen her at the churchyard
           gates, when she had inquired of her husband who was
           that pretty girl. "Barbara Hare," he had answered.
@@ -20053,8 +19853,7 @@
           streak flushed her cheeks, and she remembered that
           there must be no speaking upon impulse at East
           Lynne.</p>
-  <p>"Mr. Carlyle's of course," said Barbara, believing <pb
-            n="292"/> Madame Vine had but asked the question.
+  <p>"Mr. Carlyle's of course," said Barbara, believing <pb n="292"/> Madame Vine had but asked the question.
           "Their position—the girl's in particular—is a sad
           one, for their mother left them. Oh, it was a
           shocking business."</p>
@@ -20224,8 +20023,7 @@
   <p>Barbara detected her emotion, and felt sorry to have made
           the inquiries: she judged it was caused by the
           recollection of her children.</p>
-  <p>"Mrs. Latimer wrote us word you were of gentle <pb
-            n="297"/> birth and breeding," she resumed,
+  <p>"Mrs. Latimer wrote us word you were of gentle <pb n="297"/> birth and breeding," she resumed,
           presently. "I am sure you will excuse my asking
           these particular questions," Barbara added, in a
           tone of apology, "but this is our first interview:
@@ -20257,8 +20055,7 @@
           I am out myself, and then he has to be fed."</p>
   <p>"You do not stay in-doors for the baby, then?"</p>
   <p>"Certainly not. If I and Mr. Carlyle have to be out in
-          the evening, baby gives way. I should never <pb
-            n="298"/> give up my husband for my baby; never,
+          the evening, baby gives way. I should never <pb n="298"/> give up my husband for my baby; never,
           dearly as I love him."</p>
   <p>The nurse came in. Wilson. She unfolded a shawl, and
           placed the baby on Mrs. Carlyle's lap. A proud,
@@ -20326,8 +20123,7 @@
           Carlyle is home! Yes, I am sure it is the sound of
           the wheels."</p>
   <p>How Lady Isabel sat, she scarcely knew; how she concealed
-          her trepidation, she never would know. A <pb n="300"
-          /> pause; an entrance to the hall; Barbara, baby in
+          her trepidation, she never would know. A <pb n="300"/> pause; an entrance to the hall; Barbara, baby in
           arms, advanced to the drawing-room door, and a tall
           form entered. Once more Lady Isabel was in the
           presence of her sometime husband.</p>
@@ -20358,8 +20154,7 @@
           him, as she breathed forth the answers.</p>
   <p>"You are at home soon, Archibald," Barbara exclaimed. "I
           did not expect you so early. I did not think you
-          could get away. I know what the justices' <pb
-            n="301"/> annual dinner at the Buck's Head is;
+          could get away. I know what the justices' <pb n="301"/> annual dinner at the Buck's Head is;
           they always make it late."</p>
   <p>"As they will to-night," laughed Mr. Carlyle. "I watched
           my opportunity, and got away when the pipes were
@@ -20460,8 +20255,7 @@
   <p>She went up to her chamber at once. To rest? Well, what
           think you? She strove to say to her lacerated and
           remorseful heart, that the cross—far heavier though
-          it was proving, than anything she had imagined <pb
-            n="304"/> or pictured—was only what she had
+          it was proving, than anything she had imagined <pb n="304"/> or pictured—was only what she had
           brought upon herself, and <hi>must</hi> bear. Very
           true: but none of us would like such a cross to be
           upon our shoulders.</p>
@@ -20504,8 +20298,7 @@
           room, broom and all.</p>
   <p>"You must let me make acquaintance with you," said she to
           him, by way of excuse. "I love little boys."</p>
-  <p>Love! Down she sat upon a low chair, the child <pb
-            n="306"/> held upon her lap, kissing him
+  <p>Love! Down she sat upon a low chair, the child <pb n="306"/> held upon her lap, kissing him
           passionately, and the tears raining from her eyes.
           She could not have helped the tears, had it been to
           save her life; she could as little have helped the
@@ -20537,8 +20330,7 @@
           painful entreaty.</p>
   <p>"Oh, don't, don't beat him! I cannot see him beaten."</p>
   <p>"Beaten!" echoed Wilson; "if he got a good beating it
-          would be all the better for him; but it's what <pb
-            n="307"/> he never does get. A little shake, or a
+          would be all the better for him; but it's what <pb n="307"/> he never does get. A little shake, or a
           tap, is all I must give; and it's not half enough.
           You wouldn't believe the sturdy impudence of that
           boy, madame; he runs riot, he does. The other two
@@ -20571,8 +20363,7 @@
           cough's gone. Do you know Latin?"</p>
   <p>"No. Not to teach it," she said, studiously avoiding all
           endearing epithets.</p>
-  <p>"Papa said you would be almost sure not to know <pb
-            n="308"/> Latin, for that ladies rarely did. He
+  <p>"Papa said you would be almost sure not to know <pb n="308"/> Latin, for that ladies rarely did. He
           said he should send up Mr. Kane to teach me."</p>
   <p>"Mr. Kane?" repeated Lady Isabel, the name striking upon
           her memory. "Mr. Kane, the music-master?"</p>
@@ -20602,8 +20393,7 @@
           when he was a boy."</p>
   <p>Lucy looked up. "Papa would give me an egg when I
           breakfasted with him," cried she, "and Aunt Cornelia
-          said it was not good for me, but papa gave it <pb
-            n="309"/> me all the same. I always had breakfast
+          said it was not good for me, but papa gave it <pb n="309"/> me all the same. I always had breakfast
           with him then."</p>
   <p>"And why do you not now?" asked Lady Isabel.</p>
   <p>"I don't know. I have not since mamma came."</p>
@@ -20671,8 +20461,7 @@
           afraid he beat her: for she died. I lie in my bed at
           night, and wonder whether he did beat her, and what
           made her die. It was after she died that our new
-          mamma came home. Papa said she was come to <pb
-            n="311"/> be our mamma in place of Lady Isabel,
+          mamma came home. Papa said she was come to <pb n="311"/> be our mamma in place of Lady Isabel,
           and we were to love her dearly."</p>
   <p>" <hi>Do</hi> you love her?" almost passionately asked
           Lady Isabel.</p>
@@ -20842,8 +20631,7 @@
           she added, finding the questions were becoming
           close.</p>
   <p>It was Barbara's custom, when they were at home, to leave
-          Mr. Carlyle at the dessert-table and to go up <pb
-            n="316"/> for a few minutes to her baby, before
+          Mr. Carlyle at the dessert-table and to go up <pb n="316"/> for a few minutes to her baby, before
           entering the drawing-room. As she was descending on
           this evening, she saw Lucy, who was peeping out of
           the grey parlour.</p>
@@ -20876,8 +20664,7 @@
           him, sir, as—as—I would attend more cautiously than
           any servant could be likely to do."</p>
   <p>"By no means," warmly responded Mr. Carlyle. "We would
-          not think of giving you the trouble. He <pb n="317"
-          /> is not ill, to require night nursing: and, if he
+          not think of giving you the trouble. He <pb n="317"/> is not ill, to require night nursing: and, if he
           were, our servants are to be depended on."</p>
   <p>"I am so fond of children," she ventured to plead. "I
           have already taken a great liking for his one, and
@@ -21074,8 +20861,7 @@
   <p>"My gracious heart alive! Seeing a light here, if I
           didn't think the room was on fire. It did give me a
           turn."</p>
-  <p>The speaker was Wilson, who had discerned the <pb n="323"
-          /> light, in passing the door. Lady Isabel sprang up
+  <p>The speaker was Wilson, who had discerned the <pb n="323"/> light, in passing the door. Lady Isabel sprang up
           as though she had been shot. She feared the
           detection of Wilson and Joyce more than she feared
           that of Mrs. Carlyle.</p>
@@ -21436,8 +21222,7 @@
           extraordinary looking governess Mrs. Carlyle had
           picked up!</p>
   <p>They went out when it was over. Mr. and Mrs. Carlyle in
-          advance; she, humbly following them, with <pb n="12"
-          /> Lucy. She glanced aside at the tomb in the
+          advance; she, humbly following them, with <pb n="12"/> Lucy. She glanced aside at the tomb in the
           churchyard's corner, where mouldered the remains of
           her father; and a yearning cry went forth from the
           very depth of her soul. "Oh, that I were laid there
@@ -21735,8 +21520,7 @@
           turned to Madame Vine.</p>
   <p>"Poor child! he's one that's going fast on to his
           grave."</p>
-  <p>The words utterly startled her. Daily familiarity <pb
-            n="22"/> with illness sometimes renders us
+  <p>The words utterly startled her. Daily familiarity <pb n="22"/> with illness sometimes renders us
           partially blind to its worst features, and thus it
           had been with Lady Isabel. Upon her arrival at East
           Lynne, she had been, if not alarmed, much concerned
@@ -21768,8 +21552,7 @@
   <p>No reply. No movement in answer.</p>
   <p>"He might not have been asleep, Hannah. You should be
           more cautious in your remarks."</p>
-  <p>"Anybody may see that he's asleep, ma'am, lying so <pb
-            n="23"/> still as that. Of course I wouldn't say
+  <p>"Anybody may see that he's asleep, ma'am, lying so <pb n="23"/> still as that. Of course I wouldn't say
           anything in his hearing."</p>
   <p>"Why do you fancy him to be in a critical state?"</p>
   <p>"It is not fancy," returned Hannah. "I have had some
@@ -21898,8 +21681,7 @@
           you like some bread-and-jam, my boy?"</p>
   <p>William shook his head. "I can't eat jam. I am only
           thirsty."</p>
-  <p>Mr. Carlyle cast a long and intent look at him, and <pb
-            n="27"/> then left the room. Lady Isabel followed
+  <p>Mr. Carlyle cast a long and intent look at him, and <pb n="27"/> then left the room. Lady Isabel followed
           him, her thoughts full of her ailing child.</p>
   <p>"Do you think him very ill, sir?" she whispered.</p>
   <p>"I think he looks so. What does Mr. Wainwright say?"</p>
@@ -21966,8 +21748,7 @@
           her knuckles. He did not hear it; he had turned off
           at a quick pace towards his home. Miss Corny's
           temper rose.</p>
-  <p>The clerks came out next, one after another; and the <pb
-            n="29"/> last was Mr. Dill. He was less hurried
+  <p>The clerks came out next, one after another; and the <pb n="29"/> last was Mr. Dill. He was less hurried
           than Mr. Carlyle had been, and heard Miss Corny's
           signal.</p>
   <p>"What, in the name of wonder, did all those people want
@@ -21999,8 +21780,7 @@
   <p>"Not exactly in lavender, Miss Corny. It lies in the
           drawer; for I have never liked to put it on since,
           after what you said."</p>
-  <p>"Why don't you sell it at half price, and buy a <pb
-            n="30"/> couple of good useful shirts with the
+  <p>"Why don't you sell it at half price, and buy a <pb n="30"/> couple of good useful shirts with the
           money?" returned she, tartly. "Better that, than
           keep the foppish thing as a witness of your folly.
           Perhaps <hi>he'll</hi> be buying embroidered fronts
@@ -22033,8 +21813,7 @@
           Lynne?"</p>
   <p>"West Lynne wishes it," said Mr. Carlyle. "Sit down,
           Cornelia."</p>
-  <p>"Sit down yourself," retorted she, keeping on her <pb
-            n="31"/> feet. "I want my questions answered.
+  <p>"Sit down yourself," retorted she, keeping on her <pb n="31"/> feet. "I want my questions answered.
             <hi>Of course</hi> you will decline."</p>
   <p>"On the contrary, I have made up my mind to accept."</p>
   <p>Miss Corny untied the strings of her bonnet and flung
@@ -22098,8 +21877,7 @@
           you."</p>
   <p>"If you wanted to talk to me about it, why did you not
           come in when you left the office?" cried Miss Corny,
-          in a greater amount of wrath than she had <pb n="33"
-          /> shown yet. And there is no doubt that, in his not
+          in a greater amount of wrath than she had <pb n="33"/> shown yet. And there is no doubt that, in his not
           having done so, lay one of the sore points.</p>
   <p>"I did not think of it," said Mr. Carlyle. "I should have
           come in and told you of it to-morrow morning."</p>
@@ -22372,8 +22150,7 @@
   <p>Blanche turned upon her with streaming eyes: she could no
           longer control her emotion. "Alice, my sister, all
           the pride is gone out of me; all the reticence that
-          woman loves to observe as to her wrongs and her <pb
-            n="42"/> inward feelings, I have broken through
+          woman loves to observe as to her wrongs and her <pb n="42"/> inward feelings, I have broken through
           for you this night. As sure as that there is a
           heaven above us, I have told you but the truth.
           Until you came, I was engaged to Francis
@@ -22702,8 +22479,7 @@
   <p>A little more conversation, and the visitors filed off.
           Mr. Carlyle sat down calmly to finish his breakfast.
           Barbara approached him.</p>
-  <p>"Archibald, you will not suffer this man's insolent <pb
-            n="53"/> doings to deter you from your plans? you
+  <p>"Archibald, you will not suffer this man's insolent <pb n="53"/> doings to deter you from your plans? you
           will not withdraw?" she whispered.</p>
   <p>"I think not, Barbara. He has thrust himself offensively
           upon me in this measure: I believe my better plan
@@ -22832,8 +22608,7 @@
   <p>On these fine spring mornings, their breakfast over, Lady
           Isabel was in the habit of going into the grounds
           with the children. They were on the lawn before the
-          house, when two gentlemen came walking up the <pb
-            n="57"/> avenue; or, rather, one gentleman, and a
+          house, when two gentlemen came walking up the <pb n="57"/> avenue; or, rather, one gentleman, and a
           handsome young stripling growing into another. Lady
           Isabel thought she should have dropped, for she
           stood face to face with Lord Mount Severn. The earl
@@ -22896,8 +22671,7 @@
   <p>"Yes—no—yes." She was at a loss what to say: almost as
           unconscious what she did say.</p>
   <p>"She was Lucy's mother, you know: and I loved her. I
-          think that's why I love Lucy, for she is the <pb
-            n="59"/> very image of her. Where did you know
+          think that's why I love Lucy, for she is the <pb n="59"/> very image of her. Where did you know
           her? Here?"</p>
   <p>"I knew her by hearsay," murmured Lady Isabel, arousing
           to recollection.</p>
@@ -23043,8 +22817,7 @@
           ominous sound of "Duck him," was breathed forth by a
           voice, and it was caught up and echoed around.</p>
   <p>"Duck him! Duck him! The pond he close at hand. Let's
-          give him a taste of his deservings! What <pb n="64"
-          /> do he, the scum, turn himself up at West Lynne
+          give him a taste of his deservings! What <pb n="64"/> do he, the scum, turn himself up at West Lynne
           for, bearding Mr. Carlyle? What have he done with
           Lady Isabel? <hi>Him</hi> put up for us others at
           West Lynne! West Lynne don't want him: it have got a
@@ -23111,8 +22884,7 @@
           side. A sorry figure to cut, that, for her once
           chosen cavalier. What did she think of his beauty
           now? I know what she thought of her past folly.</p>
-  <p>Miss Carlyle did not speak a word. She sailed on, <pb
-            n="66"/> with her head up, though it was turned
+  <p>Miss Carlyle did not speak a word. She sailed on, <pb n="66"/> with her head up, though it was turned
           occasionally to look at the face of Madame Vine, at
           the deep, distressing blush which this gaze called
           into her cheeks. "It's very odd," thought Miss
@@ -23181,8 +22953,7 @@
           answer. "They have been and ducked him in the rush
           pool, on Mr. Justice Hare's land. Go it, my pippin!
           keep up on your legs."</p>
-  <p>The last sentence was pitched at the sufferer. "Who <pb
-            n="68"/> did it?" asked the purples, striving to
+  <p>The last sentence was pitched at the sufferer. "Who <pb n="68"/> did it?" asked the purples, striving to
           keep their countenances.</p>
   <p>"Squire Pinner's men led it on, they did. Hooray!"</p>
   <p>"Hooray!" echoed Squire Pinner himself, as he heard it,
@@ -23248,8 +23019,7 @@
           photograph of him as he looked then!" Lucy laughed
           in glee: she was unconscious, poor child, how deeply
           the "drowned cur" had injured her.</p>
-  <p>When Miss Carlyle was in her dressing-room taking <pb
-            n="70"/> her things off—the room where once had
+  <p>When Miss Carlyle was in her dressing-room taking <pb n="70"/> her things off—the room where once had
           slept Richard Hare—she rang for Joyce. Those two
           rooms were still kept for Miss Carlyle—for she
           sometimes visited them for a few days—they were
@@ -23348,8 +23118,7 @@
           cover of it, Miss Carlyle turned to the earl.</p>
   <p>"Was it a positively ascertained fact that Lady Isabel
           died."</p>
-  <p>The earl stared with all his might: he thought it <pb
-            n="73"/> the strangest question that ever was
+  <p>The earl stared with all his might: he thought it <pb n="73"/> the strangest question that ever was
           asked him. "I scarcely understand you, Miss Carlyle.
           Died? Certainly she died."</p>
   <p>"When the result of the accident was communicated to you,
@@ -23382,8 +23151,7 @@
           them.</p>
   <p>The following morning, Lord Vane, Lucy, and William were
           running races on the lawn, the viscount having
-          joined Madame Vine's breakfast-table, without <pb
-            n="74"/> the ceremony of asking. William's racing,
+          joined Madame Vine's breakfast-table, without <pb n="74"/> the ceremony of asking. William's racing,
           indeed, was more pretence than work, he and his
           breath were so soon tired; and Lord Vane gave Lucy
           "half," and beat her then, the forfeit, if she lost,
@@ -23612,8 +23380,7 @@
           monkey when I venture there—get more kicks than
           halfpence. Hush, old gentleman! we interrupt the
           eloquence."</p>
-  <p>Of course "the eloquence" applied to Sir Francis <pb
-            n="81"/> Levison, and they set themselves to
+  <p>Of course "the eloquence" applied to Sir Francis <pb n="81"/> Levison, and they set themselves to
           listen, Mr. Dill with a serious face, Mr. Ebenezer
           with a grinning one. But, soon, a jostle and
           movement carried them to the outside of the crowd,
@@ -23778,8 +23545,7 @@
           letters.</p>
   <p>"Why, Dill, you are out of breath!"</p>
   <p>"Well I may be! Mr. Archibald, I have been listening to
-          the most extraordinary statement. I have <pb n="86"
-          /> found out about Thorn. Who do you think he
+          the most extraordinary statement. I have <pb n="86"/> found out about Thorn. Who do you think he
           is?"</p>
   <p>Mr. Carlyle laid down his pen, and looked full in the old
           man's face: he had never seen him so excited.</p>
@@ -23844,8 +23610,7 @@
           begun it, to order her carriage round again: she
           would trust none but herself to put it in the
           post.</p>
-  <p>"My dear Mr. Smith,—We want you here. Something <pb
-            n="88"/> has arisen that it is necessary to see
+  <p>"My dear Mr. Smith,—We want you here. Something <pb n="88"/> has arisen that it is necessary to see
           you upon. You can get here by Saturday. Be in
             <hi>these</hi> grounds, near the covered walk,
           that evening at dusk.</p>
@@ -24099,8 +23864,7 @@
           was coming for him, as that death itself did.</p>
   <p>"Then, if there's nothing the matter with me, why could
           not Dr. Martain speak to you before me to-day? Why
-          did he send me into the other room while he told <pb
-            n="96"/> you what he thought? Ah, Madame Vine, I
+          did he send me into the other room while he told <pb n="96"/> you what he thought? Ah, Madame Vine, I
           am as wise as you."</p>
   <p>"A wise little boy, but mistaken sometimes," she said,
           from her aching heart.</p>
@@ -24268,8 +24032,7 @@
   <p>Mrs. Carlyle looked at her. The firelight played upon her
           face, played especially upon the spectacles, and she
           moved her chair into the shade.</p>
-  <p>"Dr. Martin will see him again next week: he is <pb
-            n="101"/> coming to West Lynne. I am sure, by the
+  <p>"Dr. Martin will see him again next week: he is <pb n="101"/> coming to West Lynne. I am sure, by the
           tone of his voice, by his evasive manner, that he
           anticipates the worst, although he would not say so
           in words."</p>
@@ -24662,8 +24425,7 @@
           of East Lynne.</p>
   <p>"Let's see," mused he, as he closed the gate behind him,
           and slipped its bolt. "The covered walk? That must
-          be near the acacia-trees. Then I must wind <pb
-            n="113"/> round to the right. I wonder if either
+          be near the acacia-trees. Then I must wind <pb n="113"/> round to the right. I wonder if either
           of them will be there, waiting for me?"</p>
   <p>Yes. Pacing the covered walk in her bonnet and mantle, as
           if taking an evening stroll—had any one encountered
@@ -24694,8 +24456,7 @@
   <p>"All in good time to talk of that. How are you getting on
           in Liverpool? What are you doing?"</p>
   <p>"Don't inquire too closely, Barbara. I have no regular
-          work, but I get a job at the docks, now and <pb
-            n="114"/> then, and rub on. It is seasonable help,
+          work, but I get a job at the docks, now and <pb n="114"/> then, and rub on. It is seasonable help,
           that, which comes to me from you. Is it from you, or
           Carlyle?"</p>
   <p>Barbara laughed. "How are we to distinguish? His money is
@@ -24758,8 +24519,7 @@
           so did Ebenezer James."</p>
   <p>"They would both know him," cried Richard eagerly. "James
           I am positive would, for he was skulking down to
-          Hallijohn's often then, and saw Thorn a dozen <pb
-            n="116"/> times. Otway Bethel must have seen him
+          Hallijohn's often then, and saw Thorn a dozen <pb n="116"/> times. Otway Bethel must have seen him
           also—though he protested he had not. Barbara!"</p>
   <p>The name was uttered in affright, and Richard plunged
           amidst the trees, for somebody was in sight. A tall,
@@ -24825,8 +24585,7 @@
           him to the scaffold. For my own wrong, no. But, the
           remaining negative, has cost me something. Many a
           time, since this appearance of his at West Lynne,
-          have I been obliged to exercise violent control <pb
-            n="118"/> upon myself, or I should have
+          have I been obliged to exercise violent control <pb n="118"/> upon myself, or I should have
           horsewhipped him within an ace of his life."</p>
   <p>"If you horsewhipped him to death, he would only meet his
           deserts."</p>
@@ -24892,8 +24651,7 @@
           Carlyle. Dick stopped when he heard the last
           words.</p>
   <p>"I don't understand, you, Mr. Carlyle. You might as well
-          advise me to go before the bench of magistrates <pb
-            n="120"/> at once. Ball and Treadman would walk me
+          advise me to go before the bench of magistrates <pb n="120"/> at once. Ball and Treadman would walk me
           off there as soon as I showed myself."</p>
   <p>"Nothing of the sort, Richard. I do not tell you to go
           openly to their office, as another client would.
@@ -24926,8 +24684,7 @@
           guessed it.</p>
   <p>A thought flashed across Richard's mind; a thought which
           rose up on end even his false hair. "Mr. Carlyle!"
-          he uttered, in an accent of horror, "if Ball <pb
-            n="121"/> should take it up, in that way, against
+          he uttered, in an accent of horror, "if Ball <pb n="121"/> should take it up, in that way, against
           Levison, he must apply to the bench for a
           warrant!"</p>
   <p>"Well?" quietly returned Mr. Carlyle.</p>
@@ -24960,8 +24717,7 @@
   <p>"You will be so tired, Richard!"</p>
   <p>"Tired!" echoed Richard Hare. "A hundred miles on foot
           would not tire me if Thorn was at the end of them,
-          waiting to be identified. I may not be back for <pb
-            n="122"/> two or three hours, but I will come; and
+          waiting to be identified. I may not be back for <pb n="122"/> two or three hours, but I will come; and
           wait here till you come out to me."</p>
   <p>"You must be hungry and thirsty," returned Barbara, the
           tears in her eyes. "How I wish we dare have you in,
@@ -24994,8 +24750,7 @@
           near whom he stood.</p>
   <p>"Don't you know! Him with the hat off, bowing his thanks
           to us, is Levison."</p>
-  <p>No need to inquire further. It was the Thorn of <pb
-            n="123"/> Richard's memory. His ungloved hand,
+  <p>No need to inquire further. It was the Thorn of <pb n="123"/> Richard's memory. His ungloved hand,
           raised to his hat, was white as ever; more sparkling
           than ever, as it flashed in the gas-light, was the
           diamond ring. By the hand and ring alone, Richard
@@ -25027,8 +24782,7 @@
   <p>But he did not pass. He lingered in the walk, keeping her
           a prisoner. A minute more, and she saw him joined by
           Mrs. Carlyle. They met with a loving embrace.</p>
-  <p>Embrace a strange man! Mrs. Carlyle! All the <pb n="124"
-          /> blood in Lady Isabel's body rushed to her brain.
+  <p>Embrace a strange man! Mrs. Carlyle! All the <pb n="124"/> blood in Lady Isabel's body rushed to her brain.
           Was she, his second wife, false to him?—more
           shamelessly false than even herself had been,
           inasmuch as she had the grace to quit him and East
@@ -25061,8 +24815,7 @@
           reserved for me alone."</p>
   <p>She followed them to the house; she glanced in at the
           windows of the drawing-room. Lights and fire were in
-          the room, but the curtains and windows were not <pb
-            n="125"/> closed for the night, for it was through
+          the room, but the curtains and windows were not <pb n="125"/> closed for the night, for it was through
           those windows that Mr. Carlyle and his wife had
           passed in and out, on their visits to the covered
           walk. There they were, alone in their happiness, and
@@ -25198,8 +24951,7 @@
           neither act nor part in it."</p>
   <p>The words aroused the curiosity of Lawyer Ball, and he
           began to turn over all persons, likely and unlikely,
-          in his mind: never, according to usage, giving a <pb
-            n="129"/> suspicion to the right one. "I cannot
+          in his mind: never, according to usage, giving a <pb n="129"/> suspicion to the right one. "I cannot
           fathom you, Carlyle."</p>
   <p>"You will do that better, possibly, when Richard shall
           have made his disclosure."</p>
@@ -25256,8 +25008,7 @@
           Richard, touching Thorn," debated the attorney, "but
           it's next to impossible to take in so astounding a
           fact, as that he is Sir Francis Levison."</p>
-  <p>"You can satisfy yourself of the fact from other lips <pb
-            n="131"/> than mine," said Richard. "Otway Bethel
+  <p>"You can satisfy yourself of the fact from other lips <pb n="131"/> than mine," said Richard. "Otway Bethel
           could testify to it if he would: though I doubt his
           willingness. But there's Ebenezer James."</p>
   <p>"What does he know about it?" asked the attorney, in
@@ -25360,8 +25111,7 @@
           to have gone back to Eton, but he had teased and
           prayed to be allowed to "see the fun out," meaning
           the election. "And that devil's discomfiture when he
-          finds himself beaten," he surreptitiously added, <pb
-            n="134"/> behind his father's back, who was a
+          finds himself beaten," he surreptitiously added, <pb n="134"/> behind his father's back, who was a
           great stickler for the boy's always being
           "gentlemanlike." So the earl had yielded. They
           arrived, as before, about breakfast-time, having
@@ -25428,8 +25178,7 @@
   <p>A pause and a glad look. "That's the best news I have had
           for many a day, sir. But my evidence will be
           necessary to the case. Levison—"</p>
-  <p>"I am not taking up the case. You must carry <pb n="136"
-          /> your news elsewhere. It is no affair of mine, I
+  <p>"I am not taking up the case. You must carry <pb n="136"/> your news elsewhere. It is no affair of mine, I
           say."</p>
   <p>"Then who is taking it up?" echoed Mr. Dill, in
           astonishment.</p>
@@ -25550,8 +25299,7 @@
   <p>"Ah. There'll be no peace till this election's over,"
           responded old Dill. "I wish it was: and the fellow
           clear of the town."</p>
-  <p>"Do you mean that Levison?" asked William, who <pb
-            n="140"/> of course took his tone of politics from
+  <p>"Do you mean that Levison?" asked William, who <pb n="140"/> of course took his tone of politics from
           those around him.</p>
   <p>"Yes, I do. The extraordinary thing is," he continued,
           speaking to himself and not to his auditors, "what
@@ -25617,8 +25365,7 @@
   <p>"Dr. Martin is late," observed Mr. Carlyle, as he came
           in. "I fear your patience will be tired, Madame
           Vine."</p>
-  <p>"It is of no consequence, sir," she replied, in that <pb
-            n="142"/> indistinct, whispered tone, above which
+  <p>"It is of no consequence, sir," she replied, in that <pb n="142"/> indistinct, whispered tone, above which
           her voice was scarcely, if ever, raised.</p>
   <p>"How pale he looks!" involuntarily exclaimed Mr. Carlyle,
           glancing from Madame Vine to the boy. "And this
@@ -25648,8 +25395,7 @@
           if she must carry on a conversation with the doctor.
           Beyond a familiar phrase or two, he was something
           like Justice Hare—Nong parley Frongsay, me!</p>
-  <p>"And how does the cod-liver oil get on?" asked <pb
-            n="143"/> the doctor of William, as he drew him to
+  <p>"And how does the cod-liver oil get on?" asked <pb n="143"/> the doctor of William, as he drew him to
           the light. "It is nicer now than it used to be,
           eh?"</p>
   <p>"No," said William, "it's nastier than ever."</p>
@@ -25713,8 +25459,7 @@
   <p>"Then, there is none: no hope whatever. The lungs are
           extensively diseased."</p>
   <p>"And how long—"</p>
-  <p>"That I cannot say," interrupted the doctor, divining <pb
-            n="145"/> what the next question was to be. "He
+  <p>"That I cannot say," interrupted the doctor, divining <pb n="145"/> what the next question was to be. "He
           may linger on for months; for a year, it may even
           be; or, a very short period may see the termination.
           Don't worry him with any more lessons and stuff of
@@ -25778,8 +25523,7 @@
           jour, madame."</p>
   <p>Lady Isabel bowed to him as he left the room with Mr.
           Carlyle. "How fond that French governess of yours is
-          of the boy!" the doctor whispered, as they <pb
-            n="147"/> crossed the hall. "I detected it when
+          of the boy!" the doctor whispered, as they <pb n="147"/> crossed the hall. "I detected it when
           she brought him to Lynneborough. And you saw her
           just now! that emotion was all because I said he
           could not live. Good bye."</p>
@@ -25845,8 +25589,7 @@
           Madame Vine. If my boy is to leave me, I must have
           him with me to the last."</p>
   <p>William's head appeared, pushed in at the door to
-          reconnoitre. "He's gone, isn't he? I would not <pb
-            n="149"/> come back while he was here, for fear he
+          reconnoitre. "He's gone, isn't he? I would not <pb n="149"/> come back while he was here, for fear he
           should give me some cod-liver oil now."</p>
   <p>Mr. Carlyle sat down and lifted William on his knees, his
           forehead pressed lovingly against the boy's silky
@@ -26067,8 +25810,7 @@
   <p>"How lovely his wife is!" resumed Mr. Drake; his admiring
           eyes cast up at Barbara. "I say, Levison, was the
           first one as charming?"</p>
-  <p>Sir Francis looked perfectly savage: the allusion did <pb
-            n="156"/> not please him. But, ere another word
+  <p>Sir Francis looked perfectly savage: the allusion did <pb n="156"/> not please him. But, ere another word
           could be spoken, some one in the garb of a
           policeman, who had wound his way through the crowd,
           laid his hand on the baronet.</p>
@@ -26100,8 +25842,7 @@
   <p>Pale? What was their gentle paleness, compared with the
           frightfully livid hue that disfigured the features
           of Francis Levison? His agitation was pitiable to
-          witness, his face a terror to look upon: once or <pb
-            n="157"/> twice he gasped as if in an agony; and
+          witness, his face a terror to look upon: once or <pb n="157"/> twice he gasped as if in an agony; and
           then his eyes happened to fall on Otway Bethel, who
           stood near. Shorn of its adornments—which might not
           be thought adornments on paper—the following was the
@@ -26168,8 +25909,7 @@
           them out, unconsciously taking out the key. Only
           himself and his wife were with her; except Madame
           Vine, who had been despatched by somebody with a
-          bottle of smelling salts. Barbara knelt at her <pb
-            n="159"/> mamma's feet; Mr. Carlyle leaned over
+          bottle of smelling salts. Barbara knelt at her <pb n="159"/> mamma's feet; Mr. Carlyle leaned over
           her, her hands sympathisingly held in his. Madame
           Vine would have escaped, but the key was gone.</p>
   <p>"Oh, Archibald, tell me the truth! <hi>You</hi> will not
@@ -26286,8 +26026,7 @@
           that Miss Carlyle dealt at the shop, will be
           sufficient to proclaim the good quality of the
           articles kept in it.</p>
-  <p>When Afy arrived opposite the shop, Mr. Jiffin was <pb
-            n="163"/> standing at the door; his shopman,
+  <p>When Afy arrived opposite the shop, Mr. Jiffin was <pb n="163"/> standing at the door; his shopman,
           inside, being at some urgent employment over the
           contents of a buttercask. Afy stopped. Mr. Jiffin
           admired her uncommonly, and she, always ready for
@@ -26320,8 +26059,7 @@
           passed."</p>
   <p>"Dear me!" bridled Afy, with a simper, "I don't know any
           good <hi>that</hi> can do you. You might have seen
-          me go by an hour or two ago—if you had possessed <pb
-            n="164"/> eyes. I was on my way to Miss
+          me go by an hour or two ago—if you had possessed <pb n="164"/> eyes. I was on my way to Miss
           Carlyle's," she continued, with the air of one who
           proclaims the fact of a morning call upon a
           duchess.</p>
@@ -26672,8 +26410,7 @@
   <p>"Did you speak with him—as Thorn?"</p>
   <p>"Two or three times. I addressed him as Thorn, and he
           answered to the name. I had no suspicion but what it
-          was his name. Otway Bethel"—casting his <pb n="175"
-          /> eyes on Mr. Otway, who stood in his shaggy
+          was his name. Otway Bethel"—casting his <pb n="175"/> eyes on Mr. Otway, who stood in his shaggy
           attire— "also knew him as Thorn; and so, I make no
           doubt, did Locksley, for he was always in the
           wood."</p>
@@ -26704,8 +26441,7 @@
   <p>"Whom did you suppose him to be?"</p>
   <p>"I supposed him to be moving in the upper ranks of life.
           There was no doubt of it. His dress, his manners,
-          his tone, all proclaimed it. He appeared to wish <pb
-            n="176"/> to shun observation, and evidently did
+          his tone, all proclaimed it. He appeared to wish <pb n="176"/> to shun observation, and evidently did
           not care to be seen. He rarely arrived until
           twilight."</p>
   <p>"Did you see him there on the night of Hallijohn's
@@ -26841,8 +26577,7 @@
   <p>"And—dear me! what a sweet bonnet that is you have
           on!"</p>
   <p>Afy—whose egregious vanity was her besetting sin, who
-          possessed enough of it for any ten pretty women <pb
-            n="180"/> going—cast a glance out of the corners
+          possessed enough of it for any ten pretty women <pb n="180"/> going—cast a glance out of the corners
           of her eyes at the admired bonnet, and became Mr.
           Ball's entirely.</p>
   <p>"And how long was it, after your first meeting with him,
@@ -27012,8 +26747,7 @@
   <p>"Yes. I knew him to be Captain Levison then."</p>
   <p>"Did he ever tell you why he had assumed the name of
           Thorn?"</p>
-  <p>"Only for a whim," he said. "The day he spoke <pb n="185"
-          /> to me in the pastrycook's shop at Swainson,
+  <p>"Only for a whim," he said. "The day he spoke <pb n="185"/> to me in the pastrycook's shop at Swainson,
           something came over him, in the spur of the moment,
           not to give his right name, so he gave the first
           that came into his head. He never thought to retain
@@ -27047,8 +26781,7 @@
           was Afy whom I first saw."</p>
   <p>"State the circumstances."</p>
   <p>"I was up Paddington way one afternoon, and saw a lady
-          going into a house. It was Afy Hallijohn. She <pb
-            n="186"/> lived there, I found—had the
+          going into a house. It was Afy Hallijohn. She <pb n="186"/> lived there, I found—had the
           drawing-room apartments. She invited me to stay tea
           with her, and I did."</p>
   <p>"Did you see Captain Levison there?"</p>
@@ -27418,8 +27151,7 @@
           men, so entirely noble, whom the sort of disgrace,
           reflected from Lady Isabel's conduct, cannot
           touch."</p>
-  <p>The carriage of the first guest. Barbara ran across <pb
-            n="197"/> the room, and rattled at Mr. Carlyle's
+  <p>The carriage of the first guest. Barbara ran across <pb n="197"/> the room, and rattled at Mr. Carlyle's
           door. "Archibald! do you hear?"</p>
   <p>Back came the laughing answer. "I shan't keep them long.
           But they may surely accord a few minutes' grace to a
@@ -27451,8 +27183,7 @@
           said the justice, sitting in his chair, and wiping
           his brows, and eating humble pie for perhaps the
           first time in his life.</p>
-  <p>"But it is over now, Richard dear," said gentle <pb
-            n="198"/> loving Mrs. Hare, the happy tears
+  <p>"But it is over now, Richard dear," said gentle <pb n="198"/> loving Mrs. Hare, the happy tears
           coursing down her cheeks.</p>
   <p>"But I <hi>might</hi> —had he made his appearance here.
           In fact, I should."</p>
@@ -27618,8 +27349,7 @@
   <p>"Wilson, take the children back to bed," authoritatively
           said Mr. Carlyle, as he advanced to look down into
           the hall. "John, are you there? the close carriage
-          instantly. Be quick. Madame Vine, pray don't <pb
-            n="203"/> continue to hold that heavy boy. Joyce,
+          instantly. Be quick. Madame Vine, pray don't <pb n="203"/> continue to hold that heavy boy. Joyce,
           cannot you relieve madame?"</p>
   <p>In crossing back to his room, Mr. Carlyle had brushed
           past madame, and noticed that she appeared to be
@@ -27651,8 +27381,7 @@
           cried Mr. Carlyle. "You look as if you had seen a
           spectre."</p>
   <p>"Oh, master!" she wailed, "I <hi>have</hi> seen one."</p>
-  <p>"Are you all going deranged together?" retorted he <pb
-            n="204"/> wondering what had come to the house.
+  <p>"Are you all going deranged together?" retorted he <pb n="204"/> wondering what had come to the house.
           "Seen a spectre? Joyce!"</p>
   <p>Joyce fell on her knees, as if unable to support herself,
           and crossed her shaking hands upon her chest. Had
@@ -27769,8 +27498,7 @@
           of any. He said a few kind words of sympathy, and
           prepared to go out. She moved, and stood in his
           way.</p>
-  <p>"You will not leave until you have given me the <pb
-            n="208"/> particulars! I pray you, do not! I came
+  <p>"You will not leave until you have given me the <pb n="208"/> particulars! I pray you, do not! I came
           trustingly to you, hoping to know them."</p>
   <p>"I have to keep an important engagement," he answered;
           "and, even if it were not so, I should decline to
@@ -27871,8 +27599,7 @@
           which had kept her up: and, that over, she began to
           sink with alarming rapidity. There appeared to be no
           ostensible disease, but she was wasting away day by
-          day; as her mother had done. Her fading <pb n="211"
-          /> was observed by none; and she still discharged
+          day; as her mother had done. Her fading <pb n="211"/> was observed by none; and she still discharged
           her duties as Lucy's governess: though she snatched
           portions of her time to spend with William. Was she
           conscious of her own decay? Partially so: and, had
@@ -28069,8 +27796,7 @@
           public. Colonel Bethel, and Mr. Justice Hare, had
           conspicuous seats.</p>
   <p>At a few minutes past nine the judge took his place on
-          the bench. But not before a rumour had gone <pb
-            n="217"/> through the court: a rumour that seemed
+          the bench. But not before a rumour had gone <pb n="217"/> through the court: a rumour that seemed
           to shake it to its centre, and which people
           stretched out their necks to hear. Otway Bethel had
           turned Queen's evidence, and was to be admitted as
@@ -28137,8 +27863,7 @@
           yourself."</p>
   <p>"My lord," answered Richard Hare, with some emotion, "I
           wish to answer any and every question put to me. I
-          have but one hope: that the full truth of all <pb
-            n="219"/> pertaining to that fatal evening may be
+          have but one hope: that the full truth of all <pb n="219"/> pertaining to that fatal evening may be
           made manifest this day."</p>
   <p>"Look round at the prisoner," said the examining counsel.
           "Do you know him?"</p>
@@ -28305,8 +28030,7 @@
           went to the cottage door, and was about to enter,
           when Afy Hallijohn came hastily out of it, pulling
           the door-to, behind her, and holding it in her hand,
-          as if afraid he would go in. Some colloquy <pb
-            n="224"/> ensued, but I was too far off to hear
+          as if afraid he would go in. Some colloquy <pb n="224"/> ensued, but I was too far off to hear
           it, and then she took the gun from him and went
           in-doors. Some time after that, I saw Richard Hare
           amid the trees at a distance, farther off the
@@ -28373,8 +28097,7 @@
           Bethel!"</p>
   <p>"I took the money: and am ashamed to confess to it. But
           it was done without reflection. I swear that had I
-          known what crime it was intended to hush up, I <pb
-            n="226"/> never would have touched it. I was hard
+          known what crime it was intended to hush up, I <pb n="226"/> never would have touched it. I was hard
           up for funds, and the amount tempted me. When I
           discoverved what had really happened and that
           Richard Hare was accused, I was thunderstruck at my
@@ -28405,8 +28128,7 @@
   <p>"Nothing; save that he frequented the Abbey Wood, his
           object being Afy Hallijohn. I had never exchanged a
           word with him until this night; but I knew his name,
-          Thorn—at least, the one he went by. And by his <pb
-            n="227"/> addressing me as Bethel, it appeared
+          Thorn—at least, the one he went by. And by his <pb n="227"/> addressing me as Bethel, it appeared
           that he knew mine."</p>
   <p>The case for the prosecution closed. An able and
           ingenious speech was made for the defence, the
@@ -28703,8 +28425,7 @@
           callers. "It is all meant by way of attention to
           you, Richard," said gentle Mrs. Hare, smiling
           through her loving tears at her restored son. Lucy
-          and Archie were dining at Miss Carlyle's, and <pb
-            n="236"/> Sarah attended little Arthur: leaving
+          and Archie were dining at Miss Carlyle's, and <pb n="236"/> Sarah attended little Arthur: leaving
           Wilson free. She came in, in answer to Madame Vine's
           ring.</p>
   <p>"Is he off in another faint?" unceremoniously cried she,
@@ -28903,8 +28624,7 @@
   <p>"Madame Vine knows she will. She saw her abroad: and
           mamma told her that—what was it, madame?"</p>
   <p>Madame Vine grew sick with alarm. Mr. Carlyle turned his
-          eyes upon her scarlet face—as much as he <pb n="242"
-          /> could get to see of it. She would have escaped
+          eyes upon her scarlet face—as much as he <pb n="242"/> could get to see of it. She would have escaped
           from the room if she could.</p>
   <p>"Mamma was more sorry than she could bear," went on
           William, finding he was not helped. "She wanted you,
@@ -28969,8 +28689,7 @@
   <p>Mr. Carlyle lifted Archie on to the bed. Lucy looked
           frightened. Archie, surprised.</p>
   <p>"Archie, good bye; good bye, dear. I am going to heaven:
-          to that bright blue sky, you know. I shall <pb
-            n="244"/> see mamma there, and I'll tell her that
+          to that bright blue sky, you know. I shall <pb n="244"/> see mamma there, and I'll tell her that
           you and Lucy are coming soon."</p>
   <p>Lucy, a sensitive child, broke into a loud storm of sobs:
           enough to disturb the equanimity of any sober
@@ -29037,8 +28756,7 @@
           bye to me!"</p>
   <p>Mr. Carlyle's tears fell upon the little up-turned face,
           as he once more caught it to his breast.</p>
-  <p>"My darling, papa will soon be back. He was not <pb
-            n="246"/> going to leave you for more than an
+  <p>"My darling, papa will soon be back. He was not <pb n="246"/> going to leave you for more than an
           hour. He is going to bring mamma to see you."</p>
   <p>"And pretty little baby Anna?"</p>
   <p>"And baby Anna, if you would like her to come in. I will
@@ -29071,8 +28789,7 @@
   <p>Wilson, though withal not a bad-hearted woman, was not
           one to remain for pleasure, in a sick room, if told
           she might leave it. Lady Isabel, remained alone. She
-          fell on her knees again, this time in prayer. <pb
-            n="247"/> In prayer for the departing spirit, on
+          fell on her knees again, this time in prayer. <pb n="247"/> In prayer for the departing spirit, on
           its wing, and that God would mercifully vouchsafe
           herself a resting-place with it in heaven.</p>
   <p>A review of the past then rose up before her. From the
@@ -29141,8 +28858,7 @@
           retreated backwards; after the manner of one
           receding from some hideous vision.</p>
   <p>"My lady, let me take you into your room. Mr. Carlyle is
-          come; he is but bringing up his wife. Only <pb
-            n="249"/> think if you should give way before him!
+          come; he is but bringing up his wife. Only <pb n="249"/> think if you should give way before him!
           Pray come away!"</p>
   <p>"How did you know me?" she asked, in a hollow voice.</p>
   <p>"My lady, it was that night when there was an alarm of
@@ -29332,8 +29048,7 @@
           Don't I say so? Of course she ought not. Neither
           ought she to have suffered her thoughts to stray, in
           the manner they did, towards Mr. Carlyle. She ought
-          not; but she did. If we all did just what <pb
-            n="255"/> we "ought," this lower world would be
+          not; but she did. If we all did just what <pb n="255"/> we "ought," this lower world would be
           worth living in. You must just sit down and abuse
           her, and so cool your anger. I agree with you that
           she ought never to have come back; that it was an
@@ -29468,8 +29183,7 @@
   <p>Now Barbara, although she pressed Madame Vine to remain
           at East Lynne, and indeed would have been glad that
           she should do so, did not take her refusal to heart.
-          Barbara could not fail to perceive that she was <pb
-            n="259"/> a thoroughly refined gentlewoman, far
+          Barbara could not fail to perceive that she was <pb n="259"/> a thoroughly refined gentlewoman, far
           superior to the generality of governesses. That she
           was also truly fond of Lucy, and most anxious for
           her welfare in every way, Barbara also saw. For
@@ -29536,8 +29250,7 @@
           names are always the most attractive."</p>
   <p>"That is just what Archibald thinks. But he wanted this
           child's to be Barbara. I would not have had it
-          Barbara for the world. I remember his once <pb
-            n="261"/> saying, a long, long while ago, that he
+          Barbara for the world. I remember his once <pb n="261"/> saying, a long, long while ago, that he
           did not like elaborate names; they were mouthfuls;
           and he instanced mine, and his sister's, and his
           own. I recalled his words to him, and he said he may
@@ -29635,8 +29348,7 @@
   <p>Nobody saw fit to prolong the discussion. Barbara put her
           veto upon the drive in the pony-carriage, unless
           John sat behind to look after the driver, which Lord
-          Vane's skill resented as an insult. Madame Vine, <pb
-            n="264"/> when the corridor became empty again,
+          Vane's skill resented as an insult. Madame Vine, <pb n="264"/> when the corridor became empty again,
           laid her hand upon the boy's arm, as he was moving
           away, and drew him to the window.</p>
   <p>"In speaking, as you do, of Lucy Carlyle, do you forget
@@ -29669,8 +29381,7 @@
           deserve it. That unhappy lady's sin was all her own:
           let it die with her. Never speak to Lucy of her
           mother."</p>
-  <p>The lad dashed his hand across his eyes, for they <pb
-            n="265"/> were filling. "I shall. I shall speak to
+  <p>The lad dashed his hand across his eyes, for they <pb n="265"/> were filling. "I shall. I shall speak to
           her often of her mother—that is, you know, after
           she's my wife. I shall tell how I loved Lady
           Isabel—that there's nobody I ever loved so much in
@@ -29736,8 +29447,7 @@
   <p>"Not in immediate danger, sir. Only in-so-far that I know
           I shall not live long."</p>
   <p>"And yet you will not see a doctor! Madame Vine, you must
-          be aware that I could not permit such a thing <pb
-            n="267"/> to go on in my house. Dangerous illness,
+          be aware that I could not permit such a thing <pb n="267"/> to go on in my house. Dangerous illness,
           and no advice!"</p>
   <p>She could not say to him, "My malady is on the mind; it
           is a breaking heart, and therefore no doctor of
@@ -29771,8 +29481,7 @@
           should then be at liberty at once to leave."</p>
   <p>"Exactly. That is what Mrs. Carlyle said. But I must
           express a hope that by that time you may be feeling
-          so much better as to reconsider your decision, <pb
-            n="268"/> and continue with us. For my daughter's
+          so much better as to reconsider your decision, <pb n="268"/> and continue with us. For my daughter's
           sake, Madame Vine, I trust it will be so."</p>
   <p>He rose as he spoke, and held out his hand. What could
           she do but rise also, drop hers from her face, and
@@ -29855,8 +29564,7 @@
           you <hi>have</hi> come out to me."</p>
   <p>The perspiration, cold as ice, began to pour off Mr.
           Jiffin in his agony and horror. You might have wrung
-          every thread he had on. "You—don't—mean—to— <pb
-            n="271"/> imply—that—you—give—me—up—Miss Afy?" he
+          every thread he had on. "You—don't—mean—to— <pb n="271"/> imply—that—you—give—me—up—Miss Afy?" he
           jerked out, unevenly.</p>
   <p>"Well; yes I do," replied Afy. "It's as good to be plain;
           and then there can be no misapprehension. I'll shake
@@ -29958,8 +29666,7 @@
           your head, I don't trouble myself to guess: but, the
           sooner you get it out again, the better. I was an
           idiot once, I don't deny it: but you cured me of
-          that; and cured me with a vengeance. You must <pb
-            n="274"/> pardon me for intimating that from
+          that; and cured me with a vengeance. You must <pb n="274"/> pardon me for intimating that from
           henceforth we are strangers; in the street, as
           elsewhere. I have resumed my own standing again:
           which I perilled when I ran after you."</p>
@@ -29992,8 +29699,7 @@
   <p>Round the counter flew Mr. Jiffin, leaving the shopman,
           staring, behind it. What <hi>was</hi> the matter?
           What <hi>could</hi> he do for her?</p>
-  <p>"Faint—heat of the sun—walked too fast—allowed <pb
-            n="275"/> to sit down for five minutes!" gasped
+  <p>"Faint—heat of the sun—walked too fast—allowed <pb n="275"/> to sit down for five minutes!" gasped
           Afy, in disjointed sentences.</p>
   <p>Mr. Jiffin tenderly conducted her through the shop to his
           parlour. Afy cast half an eye round, saw how
@@ -30127,8 +29833,7 @@
           happy home from henceforth: and Mrs. Hare lifted up
           her full heart in thankfulness to God. Perhaps
           Richard's went up also.</p>
-  <p>One word, touching that wretched prisoner in the <pb
-            n="279"/> condemned cell at Lynneborough. As you
+  <p>One word, touching that wretched prisoner in the <pb n="279"/> condemned cell at Lynneborough. As you
           may have anticipated, the extreme sentence was not
           carried out. And—little favourite as Sir Francis is
           with you and with me—we can but admit that justice
@@ -30322,8 +30027,7 @@
           softening. What will you try at, next?"</p>
   <p>Joyce was powerless, both in right and strength, and she
           knew it. She knew there was no help, that Miss
-          Carlyle would, and must, enter. She stood aside, <pb
-            n="285"/> shivering, and passed out of the room as
+          Carlyle would, and must, enter. She stood aside, <pb n="285"/> shivering, and passed out of the room as
           soon as Miss Carlyle was within it.</p>
   <p>Ah! there could no longer be concealment now! There she
           was, her pale face lying against the pillow, free
@@ -30458,8 +30162,7 @@
   <p>"I could not stay away from you and from my children. The
           longing for you was killing me," she reiterated
           wildly, like one talking in a fever. "I never knew a
-          moment's peace after the mad act I was guilty <pb
-            n="289"/> of, in quitting you. Not an hour had I
+          moment's peace after the mad act I was guilty <pb n="289"/> of, in quitting you. Not an hour had I
           departed, when my repentance set in; and, even then,
           I would have retracted and come back, but I did not
           know how. See what it has done for me!" tossing up
@@ -30526,8 +30229,7 @@
           expiate the shame I entailed upon you, and upon our
           children."</p>
   <p>Never. He felt it as keenly now, as he had felt it then.
-          "Think what it has been for me!" she resumed; <pb
-            n="291"/> and he was obliged to bend his ear to
+          "Think what it has been for me!" she resumed; <pb n="291"/> and he was obliged to bend his ear to
           catch her gradually weakening tones. "To live in
           this house with your wife; to see your love for her;
           to watch the envied caresses that once were mine! I
@@ -30593,8 +30295,7 @@
   <p>He leaned over her, he pushed aside the hair from her
           brow with his gentle hand, his tears dropping on her
           face. "You nearly broke mine when you left me,
-          Isabel," he whispered. "May God bless you, and <pb
-            n="293"/> take you to His Rest in heaven! May He
+          Isabel," he whispered. "May God bless you, and <pb n="293"/> take you to His Rest in heaven! May He
           so deal with me, as I now fully and freely forgive
           you!"</p>
   <p>Lower and lower bent he his head, until his breath nearly
@@ -30768,8 +30469,7 @@
           and she lisped when she spoke. Take her for all in
           all," summed up Miss Carlyle, "she looked no more
           like the Isabel who went away from here than I look
-          like Adam. Just get your dearest friend damaged <pb
-            n="299"/> and disguised as she was, my lord, and
+          like Adam. Just get your dearest friend damaged <pb n="299"/> and disguised as she was, my lord, and
           see if you'd recognise him."</p>
   <p>The observation came home to Lord Mount Severn. A
           gentleman whom he knew well, had been so altered by
@@ -30802,8 +30502,7 @@
           sit up for me. Lord Mount Severn is here for a few
           days: he sends his regards to you.</p>
   <p>"And now, Barbara, prepare for news that will prove a
-          shock. Madame Vine is dead. She grew rapidly <pb
-            n="300"/> worse, they tell me, after our
+          shock. Madame Vine is dead. She grew rapidly <pb n="300"/> worse, they tell me, after our
           departure, and died on Wednesday night. I am glad
           you were away.</p>
   <p>"Love from the children. Lucy and Archie are still at
@@ -30834,8 +30533,7 @@
           left sufficient money to bury herself: but of course
           that was Mr. Carlyle's affair, not West Lynne's.
           Quiet enough lay she in her last resting-place.</p>
-  <p>They left her in it, the earl and Mr. Carlyle; and <pb
-            n="301"/> entered the mourning-coach to be
+  <p>They left her in it, the earl and Mr. Carlyle; and <pb n="301"/> entered the mourning-coach to be
           conveyed back again to East Lynne.</p>
   <p>"Just a little upright stone of white marble, two feet
           high by a foot and a half broad," remarked the earl,
@@ -30867,8 +30565,7 @@
           she die of? It must have been awfully sudden."</p>
   <p>"I suppose so," was his dreamy answer. He was debating a
           question with himself, one he had thought over a
-          good deal since Wednesday night. Should he, <pb
-            n="302"/> or should he not, tell his wife? He
+          good deal since Wednesday night. Should he, <pb n="302"/> or should he not, tell his wife? He
           would have preferred not to tell her: and, had the
           secret been confined to his own breast, he would
           decidedly not have done so. But it was known to
@@ -30901,8 +30598,7 @@
           with his elbow on the mantelpiece while he talked,
           giving her a rapid summary of the interview; not its
           details.</p>
-  <p>"She could not stay away from her children," she <pb
-            n="303"/> said, "and came back as Madame Vine.
+  <p>"She could not stay away from her children," she <pb n="303"/> said, "and came back as Madame Vine.
           What with the effects of the railway accident in
           France, and those spectacles she wore, and her style
           of dress, and her grey hair, she felt secure in not
@@ -30934,8 +30630,7 @@
           together, all her pent-up feelings bursting forth,
           and the tears streaming from her eyes, "has this
           taken your love from me?"</p>
-  <p>He took both her hands in one of his, he put the <pb
-            n="304"/> other round her waist and held her
+  <p>He took both her hands in one of his, he put the <pb n="304"/> other round her waist and held her
           there, before him, never speaking, only looking
           gravely into her face. Who could look at its sincere
           truthfulness, at the sweet expression of his lips,

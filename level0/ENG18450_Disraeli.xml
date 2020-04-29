@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18450" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -29,14 +26,13 @@
      <licence target="https://creativecommons.org/licenses/by/4.0/"/>
     </availability>
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-    <!--Published as part of ELTeCSept 2018-->
+    
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg EBook of Sybil, by Benjamin
       Disraeli</title> EBook #3760 translated from HTML to TEI</bibl>
     <bibl type="firstEdition"><title>Sybil; Or, The Two Nations</title><author>B. Disraeli,
-      M.P.</author><publisher>Henry Colburn</publisher><date>1845</date><ref
-      target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl>
+      M.P.</author><publisher>Henry Colburn</publisher><date>1845</date><ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
@@ -49,7 +45,7 @@
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-    <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
    </textDesc>
   </profileDesc>
@@ -59,7 +55,7 @@
    <change when="2018-09-18">LB working on header</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="T1MLU">
   <front>
      <div type="titlepage">
      <p> SYBIL,</p>
@@ -168,8 +164,7 @@
        therefore did not stay to speak to you, as I thought we should meet here. I am to call for
        you, mind.”</p>
       <p> “How shall we all feel this time to-morrow?” said Egremont, smiling.</p>
-      <p> “The happiest fellow at this moment must be Cockie Graves,” said Lord Milford. “He <pb
-        n="7"/>can have no suspense. I have been looking over his book, and I defy him, whatever
+      <p> “The happiest fellow at this moment must be Cockie Graves,” said Lord Milford. “He <pb n="7"/>can have no suspense. I have been looking over his book, and I defy him, whatever
        happens, not to lose.”</p>
       <p> “Poor Cockie.” said Mr Berners; “he has asked me to dine with him at the Clarendon on
        Saturday.”</p>
@@ -183,8 +178,7 @@
       <p> “Well, mark my words,” said a fourth, rather solemnly, “Rat-trap wins.”</p>
       <p> “There is not a horse except Caravan,” said Lord Milford, “fit for a borough stake.”</p>
       <p> “You used to be all for Phosphorus, Egremont,” said Lord Eugene de Vere.</p>
-      <p> “Yes; but fortunately I have got out of that scrape. I owe Phip Dormer a good turn <pb
-        n="8"/>for that. I was the third man who knew he had gone lame.”</p>
+      <p> “Yes; but fortunately I have got out of that scrape. I owe Phip Dormer a good turn <pb n="8"/>for that. I was the third man who knew he had gone lame.”</p>
       <p> “And what are the odds against him now.”</p>
       <p> “Oh! nominal; forty to one,—what you please.”</p>
       <p> “He won’t run,” said Mr Berners, “John Day told me he had refused to ride him.”</p>
@@ -221,8 +215,7 @@
        upon the roof. Sometimes there was a moment of dead silence, broken only by the pattering of
        the rain in the street without, or the pattering of the dice in a chamber at hand. Then
        horses were backed, bets made, and there were loud and frequent calls for brimming goblets
-       from hurrying waiters, distracted by the lightning and deafened by the peal. It seemed a <pb
-        n="11"/>scene and a supper where the marble guest of Juan might have been expected, and had
+       from hurrying waiters, distracted by the lightning and deafened by the peal. It seemed a <pb n="11"/>scene and a supper where the marble guest of Juan might have been expected, and had
        he arrived, he would have found probably hearts as bold and spirits as reckless as he
        encountered in Andalusia.</p>
      </div>
@@ -339,8 +332,7 @@
        of the favourites of Henry the Eighth, and had contrived to be appointed one of the
        commissioners for “visiting and taking the surrenders of divers religious houses.” It came to
        pass that divers of these religious houses surrendered themselves eventually to the use and
-       benefit of honest Baldwin Greymount. The king was touched with the activity and <pb n="21"
-       />zeal of his commissioner. Not one of them whose reports were so ample and satisfactory, who
+       benefit of honest Baldwin Greymount. The king was touched with the activity and <pb n="21"/>zeal of his commissioner. Not one of them whose reports were so ample and satisfactory, who
        could baffle a wily prior with more dexterity, or control a proud abbot with more firmness.
        Nor were they well-digested reports alone that were transmitted to the sovereign: they came
        accompanied with many rare and curious articles, grateful to the taste of one who was not
@@ -388,8 +380,7 @@
        great share of public admiration and love, at least to monopolise no contemptible portion of
        public money and public dignities. During the seventy years of almost unbroken whig rule,
        from the accession of the House of Hanover to the fall of Mr Fox, Marney Abbey had furnished
-       a never-failing crop of lord privy seals, lord presidents, and lord lieutenants. The <pb
-        n="25"/>family had had their due quota of garters and governments and bishoprics; admirals
+       a never-failing crop of lord privy seals, lord presidents, and lord lieutenants. The <pb n="25"/>family had had their due quota of garters and governments and bishoprics; admirals
        without fleets, and generals who fought only in America. They had glittered in great
        embassies with clever secretaries at their elbow, and had once governed Ireland when to
        govern Ireland was only to apportion the public plunder to a corrupt senate.</p>
@@ -400,8 +391,7 @@
        notwithstanding the encouraging example of his grace of Newcastle, they could not resist the
        persuasion that some knowledge of the interests and resources of nations, some power of
        expressing opinions with propriety, some degree of respect for the public and for himself,
-       were not altogether indispensable qualifications, even under a Venetian constitution, in <pb
-        n="26"/>an individual who aspired to a post so eminent and responsible. Satisfied with the
+       were not altogether indispensable qualifications, even under a Venetian constitution, in <pb n="26"/>an individual who aspired to a post so eminent and responsible. Satisfied with the
        stars and mitres and official seals, which were periodically apportioned to them, the Marney
        family did not aspire to the somewhat graceless office of being their distributor. What they
        aimed at was promotion in their order; and promotion to the highest class. They observed that
@@ -412,8 +402,7 @@
        of the old gentleman usher of one of King Henry’s plundering vicar-generals? Why not? True it
        is, that a grateful sovereign in our days has deemed such distinction the only reward for
        half a hundred victories. True it is, that Nelson, after conquering the Mediterranean, died
-       only a Viscount! But the house of Marney had risen to high rank; counted themselves <pb
-        n="27"/>ancient nobility; and turned up their noses at the Pratts and the Smiths, the
+       only a Viscount! But the house of Marney had risen to high rank; counted themselves <pb n="27"/>ancient nobility; and turned up their noses at the Pratts and the Smiths, the
        Jenkinsons and the Robinsons of our degenerate days; and never had done anything for the
        nation or for their honours. And why should they now? It was unreasonable to expect it. Civil
        and religious liberty, that had given them a broad estate and a glittering coronet, to say
@@ -424,8 +413,7 @@
        political mystification, during which a people without power or education, had been induced
        to believe themselves the freest and most enlightened nation in the world, and had submitted
        to lavish their blood and treasure, to see their industry crippled and their labour
-       mortgaged, in order to maintain an oligarchy, that had neither ancient memories to soften <pb
-        n="28"/>nor present services to justify their unprecedented usurpation.</p>
+       mortgaged, in order to maintain an oligarchy, that had neither ancient memories to soften <pb n="28"/>nor present services to justify their unprecedented usurpation.</p>
       <p> How had the Egremonts contributed to this prodigious result? Their family had furnished
        none of those artful orators whose bewildering phrase had fascinated the public intelligence;
        none of those toilsome patricians whose assiduity in affairs had convinced their unprivileged
@@ -707,8 +695,7 @@
        smiled on him; political conciliation became the slang of the day, and the fusion of parties
        the babble of clubs and the tattle of boudoirs.</p>
       <p> How comes it then that so great a man, in so great a position, should have so signally
-       failed? Should have broken up his government, wrecked his party, and so completely <pb n="51"
-       />annihilated his political position, that, even with his historical reputation to sustain
+       failed? Should have broken up his government, wrecked his party, and so completely <pb n="51"/>annihilated his political position, that, even with his historical reputation to sustain
        him, he can since only re-appear in the councils of his sovereign in a subordinate, not to
        say equivocal, character?</p>
       <p> With all those great qualities which will secure him a place in our history not perhaps
@@ -956,8 +943,7 @@
        Bill itself, and no one laughed more heartily than Lady Marney; not even the House of Commons
        to whom it was presented.</p>
       <p> The bill was thrown out, and Lady Marney gave a grand ball to celebrate the event, and to
-       compensate the London shopkeepers for the loss of their projected franchise. Lady Marney <pb
-        n="72"/>was preparing to resume her duties at court when to her great surprise the firing of
+       compensate the London shopkeepers for the loss of their projected franchise. Lady Marney <pb n="72"/>was preparing to resume her duties at court when to her great surprise the firing of
        cannon announced the dissolution of Parliament. She turned pale; she was too much in the
        secrets of Tadpole and Taper to be deceived as to the consequences; she sank into her chair,
        and denounced Lord Grey as a traitor to his order.</p>
@@ -1148,8 +1134,7 @@
       <p> “Who’s afraid!” said the secretary. “No, no, my dear fellow, you are dead beat; the stake
        is worth playing for, and don’t suppose we are such flats as to lose the race for want of
        jockeying. Your humbugging registration will never do against a new reign. Our great men mean
-       to shell out, I tell you; we have got Croucher; we will denounce the Carlton and <pb n="88"
-       />corruption all over the kingdom; and if that won’t do, we will swear till we are black in
+       to shell out, I tell you; we have got Croucher; we will denounce the Carlton and <pb n="88"/>corruption all over the kingdom; and if that won’t do, we will swear till we are black in
        the face, that the King of Hanover is engaged in a plot to dethrone our young Queen:” and the
        triumphant secretary wished the worthy pair good morning.</p>
       <p> “They certainly have a very good cry,” said Taper mournfully.</p>
@@ -1211,8 +1196,7 @@
       <p> The prelates and captains and chief men of her realm then advance to the throne, and
        kneeling before her, pledge their troth, and take the sacred oaths of allegiance and
        supremacy.</p>
-      <p> Allegiance to one who rules over the land that the great Macedonian could not conquer; <pb
-        n="93"/>and over a continent of which even Columbus never dreamed: to the Queen of every
+      <p> Allegiance to one who rules over the land that the great Macedonian could not conquer; <pb n="93"/>and over a continent of which even Columbus never dreamed: to the Queen of every
        sea, and of nations in every zone.</p>
       <p> It is not of these that I would speak; but of a nation nearer her foot-stool, and which at
        this moment looks to her with anxiety, with affection, perhaps with hope. Fair and serene,
@@ -1234,8 +1218,7 @@
        the First, and in the stately and picturesque style of that age. Placed on a noble elevation
        in the centre of an extensive and well wooded park, it presented a front with two projecting
        wings of equal dimensions with the centre, so that the form of the building was that of a
-       quadrangle, less one of its sides. Its ancient lattices had been removed, and the present <pb
-        n="96"/>windows though convenient accorded little with the structure; the old entrance door
+       quadrangle, less one of its sides. Its ancient lattices had been removed, and the present <pb n="96"/>windows though convenient accorded little with the structure; the old entrance door
        in the centre of the building however still remained, a wondrous specimen of fantastic
        carving: Ionic columns of black oak, with a profusion of fruits and flowers, and heads of
        stags and sylvans. The whole of the building was crowned with a considerable pediment of what
@@ -1271,8 +1254,7 @@
        their reconciliation. They were to meet as if no misunderstanding had ever existed between
        them; it was specially stipulated by Lord Marney, that there was to be no “scene.” Apprised
        of Egremont’s impending arrival, Lord Marney was careful to be detained late that day at
-       petty sessions, and entered the room only a few minutes before dinner was <pb n="99"
-       />announced, where he found Egremont not only with the countess and a young lady who was
+       petty sessions, and entered the room only a few minutes before dinner was <pb n="99"/>announced, where he found Egremont not only with the countess and a young lady who was
        staying with her, but with additional bail against any ebullition of sentiment in the shape
        of the Vicar of Marney, and a certain Captain Grouse, who was a kind of aide-de-camp of the
        earl; killed birds and carved them; played billiards with him, and lost; had indeed every
@@ -1283,8 +1265,7 @@
        experienced at finding him once more beneath his brother’s roof. When he arrived indeed, he
        would have preferred to have been shown at once to his rooms, but a message immediately
        delivered expressed the wish of his sister-in-law at once to see him. She received him alone
-       and with great warmth. She was beautiful, and soft as May; a glowing yet <pb n="100"
-       />delicate face; rich brown hair, and large blue eyes; not yet a mother, but with something
+       and with great warmth. She was beautiful, and soft as May; a glowing yet <pb n="100"/>delicate face; rich brown hair, and large blue eyes; not yet a mother, but with something
        of the dignity of the matron blending with the lingering timidity of the girl.</p>
       <p> Egremont was glad to join his sister-in-law again in the drawing-room before dinner. He
        seated himself by her side; and in answer to her enquiries was giving her some narrative of
@@ -1310,8 +1291,7 @@
        makes me quite happy to see you here again. Suppose we take a glass of wine.”</p>
       <p> The softer heart and more susceptible spirit of Egremont were well calculated to respond
        to this ebullition of feeling, however slight; and truly it was for many reasons not without
-       considerable emotion, that he found himself once more at Marney. He sate by the side of <pb
-        n="102"/>his gentle sister-in-law, who seemed pleased by the unwonted cordiality of her
+       considerable emotion, that he found himself once more at Marney. He sate by the side of <pb n="102"/>his gentle sister-in-law, who seemed pleased by the unwonted cordiality of her
        husband, and anxious by many kind offices to second every indication of good feeling on his
        part. Captain Grouse was extremely assiduous: the vicar was of the deferential breed, agreed
        with Lady Marney on the importance of infant schools, but recalled his opinion when Lord
@@ -1483,8 +1463,7 @@
        of S.S., and chaplet or cap of dignity, may either accompany the procession, or ranged in
        galleries in a becoming situation, rain influence from above.”</p>
       <p> “I am all for their going in the procession,” said Egremont.</p>
-      <p> “The point is not so clear,” said Sir Vavasour solemnly; “and indeed, although we have <pb
-        n="115"/>been firm in defining our rightful claims in our petitions, as for ‘honorary
+      <p> “The point is not so clear,” said Sir Vavasour solemnly; “and indeed, although we have <pb n="115"/>been firm in defining our rightful claims in our petitions, as for ‘honorary
        epithets, secondary titles, personal decorations, and augmented heraldic bearings.’ I am not
        clear if the government evinced a disposition for a liberal settlement of the question, I
        would not urge a too stringent adherence to every point. For instance, I am prepared myself,
@@ -1556,8 +1535,7 @@
        renewed settlement opposed by every ingenious contrivance; those who availed themselves of
        their labour were careful that they should not become dwellers on the soil; and though, from
        the excessive competition, there were few districts in the kingdom where the rate of wages
-       was more depressed, those who were fortunate enough to obtain the scant <pb n="121"
-       />remuneration, had, in addition to their toil, to endure each morn and even a weary journey
+       was more depressed, those who were fortunate enough to obtain the scant <pb n="121"/>remuneration, had, in addition to their toil, to endure each morn and even a weary journey
        before they could reach the scene of their labour, or return to the squalid hovel which
        profaned the name of home. To that home, over which Malaria hovered, and round whose
        shivering hearth were clustered other guests besides the exhausted family of toil—Fever, in
@@ -1701,8 +1679,7 @@
        broken arches, and were lying in the shadow of the nave. This desecration of a spot, once
        sacred, still beautiful and solemn, jarred on the feelings of Egremont. He sighed and turning
        away, followed a path that after a few paces led him into the cloister garden. This was a
-       considerable quadrangle; once surrounding the garden of the monks, but all that <pb n="133"
-       />remained of that fair pleasaunce was a solitary yew in its centre, that seemed the oldest
+       considerable quadrangle; once surrounding the garden of the monks, but all that <pb n="133"/>remained of that fair pleasaunce was a solitary yew in its centre, that seemed the oldest
        tree that could well live, and was, according to tradition, more ancient than the most
        venerable walls of the Abbey. Round this quadrangle was the refectory, the library and the
        kitchen, and above them the cells and dormitory of the brethren. An imperfect staircase, not
@@ -1751,8 +1728,7 @@
        denoted his weariness, and which had broken the silence, he expressed to his companion his
        determination to rest himself under the shade of the yew in the contiguous garden, and
        inviting his friend to follow him, he took up his hat and moved away.</p>
-      <p> There was something in the appearance of the stranger that interested Egremont; and <pb
-        n="137"/>waiting till he had established himself in his pleasant resting place, Egremont
+      <p> There was something in the appearance of the stranger that interested Egremont; and <pb n="137"/>waiting till he had established himself in his pleasant resting place, Egremont
        descended into the cloister garden and determined to address him.</p>
      </div>
      <pb n="138"/>
@@ -1780,8 +1756,7 @@
        coronet, ‘tis the same to me. Somebody I suppose must own the land; though I have heard say
        that this individual tenure is not a necessity; but however this may be, I am not one who
        would object to the lord, provided he were a gentle one. All agree the Monastics were easy
-       landlords; their rents were low; they granted leases in those days. Their tenants <pb n="140"
-       />too might renew their term before their tenure ran out: so they were men of spirit and
+       landlords; their rents were low; they granted leases in those days. Their tenants <pb n="140"/>too might renew their term before their tenure ran out: so they were men of spirit and
        property. There were yeomen then, sir: the country was not divided into two classes, masters
        and slaves; there was some resting-place between luxury and misery. Comfort was an English
        habit then, not merely an English word.”</p>
@@ -1842,8 +1817,7 @@
        these ruins, and think themselves very wise to moralize over time. They are the children of
        violence, not of time. It is war that created these ruins, civil war, of all our civil wars
        the most inhuman, for it was waged with the unresisting. The monasteries were taken by storm,
-       they were sacked, gutted, battered with warlike instruments, blown up with gunpowder; <pb
-        n="145"/>you may see the marks of the blast against the new tower here. Never was such a
+       they were sacked, gutted, battered with warlike instruments, blown up with gunpowder; <pb n="145"/>you may see the marks of the blast against the new tower here. Never was such a
        plunder. The whole face of the country for a century was that of a land recently invaded by a
        ruthless enemy; it was worse than the Norman conquest; nor has England ever lost this
        character of ravage. I don’t know whether the union workhouses will remove it. They are
@@ -2014,8 +1988,7 @@
       <p> “No mortgages; they are nothing; you find them, you get used to them, and you calculate
        accordingly. You quite forget the portions for younger children.”</p>
       <p> “Yes; but you had plenty of ready money for them.”</p>
-      <p> “I had to pay them though,” said Lord Marney. “Had I not, I might have bought <pb n="158"
-       />Grimblethorpe with the money; such an opportunity will never occur again.”</p>
+      <p> “I had to pay them though,” said Lord Marney. “Had I not, I might have bought <pb n="158"/>Grimblethorpe with the money; such an opportunity will never occur again.”</p>
       <p> “But you talked of incumbrances,” said Egremont.</p>
       <p> “Ah! my dear fellow,” said Lord Marney, “you don’t know what it is to have to keep up an
        estate like this; and very lucky for you. It is not the easy life you dream of. There’s
@@ -2302,8 +2275,7 @@
        Norman name and ancestry. Mowbray was one of those places which during the long war had
        expanded from an almost unknown village to a large and flourishing manufacturing town; a
        circumstance, which, as Lady Marney observed, might have somewhat deteriorated the atmosphere
-       of the splendid castle, but which had nevertheless doubled the vast rental of its <pb n="181"
-       />lord. He who had succeeded to his father was Altamont Belvidere (named after his mother’s
+       of the splendid castle, but which had nevertheless doubled the vast rental of its <pb n="181"/>lord. He who had succeeded to his father was Altamont Belvidere (named after his mother’s
        family) Fitz-Warene, Lord Fitz-Warene. He was not deficient in abilities, though he had not
        his father’s talents, but he was over-educated for his intellect; a common misfortune. The
        new Lord Fitz-Warene was the most aristocratic of breathing beings. He most fully, entirely,
@@ -2534,8 +2506,7 @@
       <p> “And if she is only drunk,” rejoined Mrs Carey in a passion, “what makes her drink but
        toil; working from five o’clock in the morning to seven o’clock at night, and for the like of
        such as you.”</p>
-      <p> “That’s a good one,” said the youth; “I should like to know what my mother ever did <pb
-        n="200"/>for me, but give me treacle and laudanum when I was a babby to stop my tongue and
+      <p> “That’s a good one,” said the youth; “I should like to know what my mother ever did <pb n="200"/>for me, but give me treacle and laudanum when I was a babby to stop my tongue and
        fill my stomach; by the token of which, as my gal says, she stunted the growth of the
        prettiest figure in all Mowbray.” And here the youth drew himself up, and thrust his hands in
        the side pockets of his pea-jacket.</p>
@@ -2574,8 +2545,7 @@
       <p> “The Shoddy-Court Literary and Scientific, to be sure,” said Mick; “we have got fifty
        members, and take in three London papers; one ‘Northern Star’ and two ‘Moral Worlds.’”</p>
       <p> “And where are you now, child?” continued the widow to the girl.</p>
-      <p> “I am at Wiggins and Webster’s,” said the girl; “and this is my partner. We keep house <pb
-        n="203"/>together; we have a very nice room in Arbour Court, No. 7, high up; it’s very airy.
+      <p> “I am at Wiggins and Webster’s,” said the girl; “and this is my partner. We keep house <pb n="203"/>together; we have a very nice room in Arbour Court, No. 7, high up; it’s very airy.
        If you will take a dish of tea with us to-morrow, we expect some friends.”</p>
       <p> “I take it kindly,” said Mrs Carey; “and so you keep house together! All the children keep
        house in these days. Times is changed indeed!”</p>
@@ -2598,8 +2568,7 @@
       <p> “Very true,” said Mick; “and now we’ll be off. Good night, widow.”</p>
       <p> “You’ll remember us to-morrow evening,” said Caroline. “To-morrow evening! The Temple!”
        murmured Mrs Carey to herself. “I think the world is turned upside downwards in these parts.
-       A brat like Mick Radley to live in a two pair, with a wife and family, or as good as <pb
-        n="205"/>he says; and this girl asks me to take a dish of tea with her and keeps house!
+       A brat like Mick Radley to live in a two pair, with a wife and family, or as good as <pb n="205"/>he says; and this girl asks me to take a dish of tea with her and keeps house!
        Fathers and mothers goes for nothing,” continued Mrs Carey, as she took a very long pinch of
        snuff and deeply mused. “‘tis the children gets the wages,” she added after a profound pause,
        “and there it is.”</p>
@@ -2639,8 +2608,7 @@
        were seated in different groups at different tables, eating, drinking, talking, laughing, and
        even smoking, for notwithstanding the pictures and the gilding it was found impossible to
        forbid, though there were efforts to discourage, this practice, in the Temple of the Muses.
-       Nothing however could be more decorous than the general conduct of the company, <pb n="209"
-       />though they consisted principally of factory people. The waiters flew about with as much
+       Nothing however could be more decorous than the general conduct of the company, <pb n="209"/>though they consisted principally of factory people. The waiters flew about with as much
        agility as if they were serving nobles. In general the noise was great, though not
        disagreeable; sometimes a bell rang and there was comparative silence, while a curtain drew
        up at the further end of the room, opposite to the entrance, and where there was a theatre,
@@ -2651,8 +2619,7 @@
        music on the stage; a young lady in a white robe with a golden harp, and attended by a
        gentleman in black mustachios. This was when the principal harpiste of the King of Saxony and
        his first fiddler happened to be passing through Mowbray, merely by accident, or on a tour of
-       pleasure and instruction, to witness the famous scenes of British industry. <pb n="210"
-       />Otherwise the audience of the Cat and Fiddle, we mean the Temple of the Muses, were fain to
+       pleasure and instruction, to witness the famous scenes of British industry. <pb n="210"/>Otherwise the audience of the Cat and Fiddle, we mean the Temple of the Muses, were fain to
        be content with four Bohemian brothers, or an equal number of Swiss sisters. The most popular
        amusements however were the “Thespian recitations:” by amateurs, or novices who wished to
        become professional. They tried their metal on an audience which could be critical.</p>
@@ -2714,8 +2681,7 @@
        if you please; silence if you please for a song from a Polish lady. The Signora sings English
        like a new-born babe;” and the curtain drew up amid the hushed voices of the company and the
        restrained clatter of their knives and forks and glasses.</p>
-      <p> The Polish lady sang “Cherry Ripe” to the infinite satisfaction of her audience. Young <pb
-        n="215"/>Mowbray indeed, in the shape of Dandy Mick and some of his followers and admirers,
+      <p> The Polish lady sang “Cherry Ripe” to the infinite satisfaction of her audience. Young <pb n="215"/>Mowbray indeed, in the shape of Dandy Mick and some of his followers and admirers,
        insisted on an encore. The lady as she retired curtseyed like a Prima Donna; but the host
        continued on his legs for some time, throwing open his coat and bowing to his guests, who
        expressed by their applause how much they approved his enterprise. At length he resumed his
@@ -3114,8 +3080,7 @@
        parish church the frigid spell of Erastian self-complacency fatally prevailed. A scanty
        congregation gathered together for form, and as much influenced by party as higher
        sentiments. Going to church was held more genteel than going to meeting. The principal
-       tradesmen of the neighbouring great houses deemed it more “aristocratic;” using <pb n="246"
-       />a favourite and hackneyed epithet which only expressed their own servility. About the time
+       tradesmen of the neighbouring great houses deemed it more “aristocratic;” using <pb n="246"/>a favourite and hackneyed epithet which only expressed their own servility. About the time
        the Church Commission issued, the congregation of Mowbray was approaching zero. There was an
        idea afloat for a time of making it the seat of a new bishopric; the cathedral was ready;
        another instance of the influence of fine art. But there was no residence for the projected
@@ -3160,8 +3125,7 @@
       <p> “Oh! as for that,” said Lord Marney, “I have generally found the higher the wages the
        worse the workman. They only spend their money in the beer-shops. They are the curse of this
        country.”</p>
-      <p> “But what is a poor man to do,” said Mr St Lys; “after his day’s work if he returns to <pb
-        n="250"/>his own roof and finds no home: his fire extinguished, his food unprepared; the
+      <p> “But what is a poor man to do,” said Mr St Lys; “after his day’s work if he returns to <pb n="250"/>his own roof and finds no home: his fire extinguished, his food unprepared; the
        partner of his life, wearied with labour in the field or the factory, still absent, or
        perhaps in bed from exhaustion, or because she has returned wet to the skin, and has no
        change of raiment for her relief. We have removed woman from her sphere; we may have reduced
@@ -3275,8 +3239,7 @@
       <p> Suddenly there is a voice, there is movement. The first footstep of the new week of toil
        is heard. A man muffled up in a thick coat, and bearing in his hand what would seem at the
        first glance to be a shepherd’s crook, only its handle is much longer, appears upon the
-       pavement. He touches a number of windows with great quickness as he moves rapidly <pb n="260"
-       />along. A rattling noise sounds upon each pane. The use of the long handle of his instrument
+       pavement. He touches a number of windows with great quickness as he moves rapidly <pb n="260"/>along. A rattling noise sounds upon each pane. The use of the long handle of his instrument
        becomes apparent as he proceeds, enabling him as it does to reach the upper windows of the
        dwellings whose inmates he has to rouse. Those inmates are the factory girls, who subscribe
        in districts to engage these heralds of the dawn; and by a strict observance of whose
@@ -3326,8 +3289,7 @@
        It is not adversity that makes me look back upon the past with tenderness.</p>
       <p> “Then why am I here? Why am I, and six hundred thousand subjects of the Queen, honest,
        loyal, and industrious, why are we, after manfully struggling for years, and each year
-       sinking lower in the scale, why are we driven from our innocent and happy homes, <pb n="264"
-       />our country cottages that we loved, first to bide in close towns without comforts, and
+       sinking lower in the scale, why are we driven from our innocent and happy homes, <pb n="264"/>our country cottages that we loved, first to bide in close towns without comforts, and
        gradually to crouch into cellars, or find a squalid lair like this, without even the common
        necessaries of existence; first the ordinary conveniences of life, then raiment, and, at
        length, food, vanishing from us.</p>
@@ -3510,8 +3472,7 @@
        addressing Sybil, “what we all owe to you is not to be told. Your father well deserves his
        good fortune, with such a daughter.”</p>
       <p> “My father’s fortunes are not much better than his neighbours,” said Sybil, “but his wants
-       are few; and who should sympathise with the poor, but the poor? Alas! none else can. <pb
-        n="277"/>Besides, it is the Superior of our convent that has sent you this meal. What my
+       are few; and who should sympathise with the poor, but the poor? Alas! none else can. <pb n="277"/>Besides, it is the Superior of our convent that has sent you this meal. What my
        father can do for you, I have told your husband. ‘Tis little; but with the favour of heaven,
        it may avail. When the people support the people, the divine blessing will not be
        wanting.”</p>
@@ -3622,8 +3583,7 @@
        no use of having affectionate relations, or anything else.”</p>
       <p> “I have been walking about Mowbray. One should see a factory once in one’s life.”</p>
       <p> “I don’t see the necessity,” said Lord Marney; “I never saw one, and never intend. Though
-       to be sure, when I hear the rents that Mowbray gets for his land in their neighbourhood, <pb
-        n="286"/>I must say I wish the worsted works had answered at Marney. And if it had not been
+       to be sure, when I hear the rents that Mowbray gets for his land in their neighbourhood, <pb n="286"/>I must say I wish the worsted works had answered at Marney. And if it had not been
        for our poor dear father, they would.”</p>
       <p> “Our family have always been against manufactories, railroads—everything,” said
        Egremont.</p>
@@ -3675,8 +3635,7 @@
       <p> A French actress, clever as French actresses always are, had persuaded, once upon a time,
        an easy-tempered monarch of this realm, that the paternity of her coming babe was a
        distinction of which his majesty might be proud. His majesty did not much believe her; but he
-       was a sensible man, and never disputed a point with a woman; so when the babe was born, <pb
-        n="290"/>and proved a boy, he christened him with his name; and elevated him to the peerage
+       was a sensible man, and never disputed a point with a woman; so when the babe was born, <pb n="290"/>and proved a boy, he christened him with his name; and elevated him to the peerage
        in his cradle by the title of Duke of Fitz-Aquitaine and Marquis of Gascony.</p>
       <p> An estate the royal father could not endow him with, for he had spent all his money,
        mortgaged all his resources, and was obliged to run in debt himself for the jewels of the
@@ -3872,8 +3831,7 @@
        “thou’lt bring us a cup of tea; ‘tis a good evening beverage,” he added, turning to Egremont.
        “and what I ever take at this time. And if you care to light a pipe, you will find a
        companion.”</p>
-      <p> “I have renounced tobacco,” said Egremont; “tobacco is the tomb of love,” and <pb n="306"
-       />they entered a neatly-furnished chamber, that had that habitable look which the best room
+      <p> “I have renounced tobacco,” said Egremont; “tobacco is the tomb of love,” and <pb n="306"/>they entered a neatly-furnished chamber, that had that habitable look which the best room
        of a farmhouse too often wants. Instead of the cast-off furniture of other establishments, at
        the same time dingy and tawdry, mock rosewood chairs and tarnished mahogany tables, there was
        an oaken table, some cottage chairs made of beech wood, and a Dutch clock. But what surprised
@@ -3899,8 +3857,7 @@
        Gerard, smiling. “I don’t know how we shall fare when he leaves me.”</p>
       <p> “And is he going to leave you?”</p>
       <p> “Why in a manner he has gone. He has taken a cottage about a quarter of a mile up the
-       dale; and only left his books here, because he is going into —shire in a day or two, on <pb
-        n="308"/>some business, that may be will take him a week or so. The books are safer here you
+       dale; and only left his books here, because he is going into —shire in a day or two, on <pb n="308"/>some business, that may be will take him a week or so. The books are safer here you
        see for the present, for Stephen lives alone, and is a good deal away, for he edits a paper
        at Mowbray, and that must be looked after. He is to be my gardener still. I promised him
        that. Well done, dame,” said Gerard, as the old woman entered; “I hope for the honour of the
@@ -3925,8 +3882,7 @@
        after the cloister. She has passed a still, sweet life in the convent here; the Superior is
        the sister of my employer and a very saint on earth; and Sybil knows nothing of the real
        world except its sufferings. No matter,” he added more cheerfully; “I would not have her take
-       the veil rashly, but if I lose her it may be for the best. For the married life of <pb
-        n="310"/>a woman of our class in the present condition of our country is a lease of woe,” he
+       the veil rashly, but if I lose her it may be for the best. For the married life of <pb n="310"/>a woman of our class in the present condition of our country is a lease of woe,” he
        added shaking his head, “slaves, and the slaves of slaves? Even woman’s spirit cannot stand
        against it; and it can bear against more than we can, master.”</p>
       <p> “Your daughter is not made for the common cares of life,” said Egremont.</p>
@@ -3938,8 +3894,7 @@
        we provincials.”</p>
       <p> “Yes; a reporter; they want information in London as to the real state of the country, and
        this time of the year, Parliament not sitting—Ah; I understand, a flying commission and a
-       summer tour. Well, I often wish I were a penman; but I never could do it. I’ll <pb n="311"
-       />read any day as long as you like, but that writing, I could never manage. My friend Morley
+       summer tour. Well, I often wish I were a penman; but I never could do it. I’ll <pb n="311"/>read any day as long as you like, but that writing, I could never manage. My friend Morley
        is a powerful hand at it. His journal circulates a good deal about here; and if as I often
        tell him he would only sink his high-flying philosophy and stick to old English politics, he
        might make a property of it. You’ll like to know him?”</p>
@@ -4104,8 +4059,7 @@
        two waistcoats!”</p>
       <p> “Besides,” said another, “Diggs’ tommy is only open once a-week, and if you’re not there
        in time, you go over for another seven days. And it’s such a distance, and he keeps a body
-       there such a time—it’s always a day’s work for my poor woman; she can’t do nothing after <pb
-        n="9"/>it, what with the waiting and the standing and the cussing of Master Joseph
+       there such a time—it’s always a day’s work for my poor woman; she can’t do nothing after <pb n="9"/>it, what with the waiting and the standing and the cussing of Master Joseph
        Diggs,—for he do swear at the women, when they rush in for the first turn, most fearful.”</p>
       <p> “They do say he’s a shocking little dog.”</p>
       <p> “Master Joseph is wery wiolent, but there is no one like old Diggs for grabbing a bit of
@@ -4200,8 +4154,7 @@
       <p> “I’m at home,” said Mr Nixon, “but ‘tis the first time I ever heard Hell-house Yard called
        Wodgate.”</p>
       <p> “It’s called so in joggraphy,” said Juggins.</p>
-      <p> “But you hay’nt going to Hell-house Yard this time of night!” said Mr Nixon. “I’d as <pb
-        n="16"/>soon think of going down the pit with the windlass turned by lushy Bob.”</p>
+      <p> “But you hay’nt going to Hell-house Yard this time of night!” said Mr Nixon. “I’d as <pb n="16"/>soon think of going down the pit with the windlass turned by lushy Bob.”</p>
       <p> “Tayn’t a journey for Christians,” said Juggins.</p>
       <p> “They’re a very queer lot even in sunshine,” said another.</p>
       <p> “And how far is it?” asked the stranger.</p>
@@ -4220,8 +4173,7 @@
        roofs in which one has sojourned, which are quitted without some feeling of depression. The
        sudden cessation of all those sources of excitement which pervade a gay and well arranged
        mansion in the country, unstrings the nervous system. For a week or so, we have done nothing
-       which was not agreeable, and heard nothing which was not pleasant. Our self-love has been <pb
-        n="18"/>respected; there has been a total cessation of petty cares; all the enjoyment of an
+       which was not agreeable, and heard nothing which was not pleasant. Our self-love has been <pb n="18"/>respected; there has been a total cessation of petty cares; all the enjoyment of an
        establisnment without any of its solicitude. We have beheld civilization only in its favoured
        aspect, and tasted only the sunny side of the fruit. Sometimes there are associations with
        our visit of a still sweeter and softer character, but on these we need not dwell: glances
@@ -4232,8 +4184,7 @@
        instance we must return to our household gods in the shape of a nursery; and though this was
        not the form assumed by the penates of Lord Marney, his presence, the presence of an
        individual so important and so indefatigable, was still required. His Lordship had passed his
-       time at Mowbray to his satisfaction. He had had his own way in everything. His <pb n="19"
-       />selfishness had not received a single shock. He had lain down the law and it had not been
+       time at Mowbray to his satisfaction. He had had his own way in everything. His <pb n="19"/>selfishness had not received a single shock. He had lain down the law and it had not been
        questioned. He had dogmatised and impugned, and his assertions had passed current, and his
        doctrines been accepted as orthodox. Lord Mowbray suited him; he liked the consideration of
        so great a personage. Lord Marney also really liked pomp; a curious table and a luxurious
@@ -4324,8 +4275,7 @@
       <p> “I dare say St Lys would care very little about entering your house,” said Egremont. “I
        know it was with great reluctance that he ever came to Mowbray Castle.”</p>
       <p> “I dare say; very great reluctance indeed. And very reluctant he was, I make no doubt, to
-       sit next to Lady Maud. I wonder he does not fly higher, and preach to Lady Joan; but <pb
-        n="26"/>she is too sensible a woman for such fanatical tricks.”</p>
+       sit next to Lady Maud. I wonder he does not fly higher, and preach to Lady Joan; but <pb n="26"/>she is too sensible a woman for such fanatical tricks.”</p>
       <p> “St Lys thinks it his duty to enter all societies. That is the reason why he goes to
        Mowbray Castle, as well as to the squalid courts and cellars of the town. He takes care that
        those who are clad in purple and fine linen shall know the state of their neighbours. They
@@ -4416,8 +4366,7 @@
        pounds, which in fact after all comes out of my pocket.”</p>
       <p> “All this you have said to me before. What does it mean? I fought this battle at the
        instigation of the family, from no feeling of my own. You are the head of the family and you
-       were consulted on the step. Unless I had concluded that it was with your <pb n="33"
-       />sanction, I certainly should not have made my appearance on the hustings.”</p>
+       were consulted on the step. Unless I had concluded that it was with your <pb n="33"/>sanction, I certainly should not have made my appearance on the hustings.”</p>
       <p> “I am very glad you did though,” said Lord Marney; “Parliament is a great point for our
        class: in these days especially, more even than in the old time. I was truly rejoiced at your
        success, and it mortified the whigs about us most confoundedly. Some people thought there was
@@ -4458,8 +4407,7 @@
       <p> “Claims which I will make you respect, at least in this house, sir,” said Lord Marney,
        springing from his chair.</p>
       <p> “Touch me at your peril!” exclaimed Egremont, “or I will forget you are my mother’s son,
-       and cleave you to the ground. You have been the blight of my life; you stole from me <pb
-        n="36"/>my bride, and now you would rob me of my honour.”</p>
+       and cleave you to the ground. You have been the blight of my life; you stole from me <pb n="36"/>my bride, and now you would rob me of my honour.”</p>
       <p> “Liar and villain!” exclaimed Lord Marney, darting forward: but at this moment his wife
        rushed into the apartment and clung to him. “For heaven’s sake,” she exclaimed, “What is all
        this? George, Charles, dearest George!”</p>
@@ -4666,8 +4614,7 @@
        district of the great mining region to which it was contiguous, a place where adventurers in
        the industry which was rapidly developing, settled themselves; for though the great veins of
        coal and ironstone cropped up, as they phrase it, before they reached this bare and barren
-       land, and it was thus deficient in those mineral and metallic treasures which had <pb n="53"
-       />enriched its neighbourhood, Wodgate had advantages of its own, and of a kind which touch
+       land, and it was thus deficient in those mineral and metallic treasures which had <pb n="53"/>enriched its neighbourhood, Wodgate had advantages of its own, and of a kind which touch
        the fancy of the lawless. It was land without an owner; no one claimed any manorial right
        over it; they could build cottages without paying rent. It was a district recognized by no
        parish; so there were no tithes, and no meddlesome supervision. It abounded in fuel which
@@ -4741,8 +4688,7 @@
        name of their religion, and they will laugh: who rules them on earth, or who can save them in
        heaven, are alike mysteries to them.</p>
       <p> Such was the population with whom Morley was about to mingle. Wodgate had the appearance
-       of a vast squalid suburb. As you advanced, leaving behind you long lines of little <pb n="59"
-       />dingy tenements, with infants lying about the road, you expected every moment to emerge
+       of a vast squalid suburb. As you advanced, leaving behind you long lines of little <pb n="59"/>dingy tenements, with infants lying about the road, you expected every moment to emerge
        into some streets and encounter buildings bearing some correspondence in their size and
        comfort to the considerable population swarming and busied around you. Nothing of the kind.
        There were no public buildings of any sort; no churches, chapels, town-hall, institute,
@@ -4804,8 +4750,7 @@
        Tugsford’s; never had no sick cow except when meat was very dear. He always put his face agin
        still-born calves; he used to say he liked his boys to have meat what was born alive and
        killed alive. By which token there never was any sheep what had bust in the head sold in our
-       court. And then sometimes he would give us a treat of fish, when it had been four or five <pb
-        n="64"/>days in town and not sold. No, give the devil his due, say I. There never was no
+       court. And then sometimes he would give us a treat of fish, when it had been four or five <pb n="64"/>days in town and not sold. No, give the devil his due, say I. There never was no
        want for anything at meals with the Bishop, except time to eat them in.”</p>
       <p> “And why do you call him the Bishop?”</p>
       <p> “That’s his name and authority; for he’s the governor here over all of us. And it has
@@ -4839,8 +4784,7 @@
       <p> The moonbeam fell upon the roof and garden of Gerard. It suffused the cottage with its
        brilliant light, except where the dark depth of the embowered porch defied its entry. All
        around the beds of flowers and herbs spread sparkling and defined. You could trace the
-       minutest walk; almost distinguish every leaf. Now and then there came a breath, and the <pb
-        n="67"/>sweet-peas murmured in their sleep; or the roses rustled, as if they were afraid
+       minutest walk; almost distinguish every leaf. Now and then there came a breath, and the <pb n="67"/>sweet-peas murmured in their sleep; or the roses rustled, as if they were afraid
        they were about to be roused from their lightsome dreams. Farther on the fruit-trees caught
        the splendour of the night; and looked like a troop of sultanas taking their gardened air,
        when the eye of man could not profane them, and laden with jewels. There were apples that
@@ -4930,8 +4874,7 @@
        the whole day one feels a little lonely towards night.”</p>
       <p> “Very true; and I dare say you find desk work sometimes very dull; I never could make
        anything of it myself. I can manage a book well enough, if it be well written, and on points
-       I care for; but I would sooner listen than read any time,” said Gerard. “Indeed I <pb n="74"
-       />should be right glad to see the minstrel and the storyteller going their rounds again. It
+       I care for; but I would sooner listen than read any time,” said Gerard. “Indeed I <pb n="74"/>should be right glad to see the minstrel and the storyteller going their rounds again. It
        would be easy after a day’s work, when one has not, as I have now, a good child to read to
        me.”</p>
       <p> “This volume?” said Egremont drawing his chair to the table and looking at Sybil, who
@@ -4971,8 +4914,7 @@
        period of history.”</p>
       <p> “Ah! yes, I know that style of speculation,” said Gerard; “your gentleman who reminds you
        that a working man now has a pair of cotton stockings, and that Harry the Eighth himself was
-       not as well off. At any rate, the condition of classes must be judged of by the <pb n="77"
-       />age, and by their relation with each other. One need not dwell on that. I deny the
+       not as well off. At any rate, the condition of classes must be judged of by the <pb n="77"/>age, and by their relation with each other. One need not dwell on that. I deny the
        premises. I deny that the condition of the main body is better now than at any other period
        of our history; that it is as good as it has been at several. I say, for instance, the people
        were better clothed, better lodged, and better fed just before the war of the Roses than they
@@ -5279,8 +5221,7 @@
       <p> The vast form of the spreading factory, the roofs and gardens of the village, the Tudor
        chimneys of the house of Trafford, the spire of the gothic church, with the sparkling river
        and the sylvan hack-ground, came rather suddenly on the sight of Egremont. They were indeed
-       in the pretty village-street before he was aware he was about to enter it. Some beautiful <pb
-        n="102"/>children rushed out of a cottage and flew to Sybil, crying out, “the queen, the
+       in the pretty village-street before he was aware he was about to enter it. Some beautiful <pb n="102"/>children rushed out of a cottage and flew to Sybil, crying out, “the queen, the
        queen;” one clinging to her dress, another seizing her arm, and a third, too small to
        struggle, pouting out its lips to be embraced.</p>
       <p> “My subjects,” said Sybil laughing, as she greeted them all; and then they ran away to
@@ -5487,8 +5428,7 @@
        jaunty air that would not confess defeat.</p>
       <p> “And so shall I,” said Mr Mountchesney.</p>
       <p> “And so shall I,” whispered Lord Milford lingering a little behind.</p>
-      <p> The great and distinguished party had disappeared; their glittering barouche, their <pb
-        n="118"/>prancing horses, their gay grooms, all had vanished; the sound of their wheels was
+      <p> The great and distinguished party had disappeared; their glittering barouche, their <pb n="118"/>prancing horses, their gay grooms, all had vanished; the sound of their wheels was
        no longer heard. Time flew on; the bell announced that the labour of the week had closed.
        There was a half holiday always on the last day of the week at Mr Trafford’s settlement; and
        every man, woman, and child, were paid their wages in the great room before they left the
@@ -5556,8 +5496,7 @@
        providence had rather a hand in it—but now, we are still at sea.”</p>
       <p> “Still at sea,” said Morley musingly, “but he lives and prospers. He will turn up yet,
        Walter.”</p>
-      <p> “Amen! Since you have taken up this thing, Stephen, it is strange how my mind has <pb
-        n="124"/>hankered after the old business, and yet it ruined my father, and mayhap may do as
+      <p> “Amen! Since you have taken up this thing, Stephen, it is strange how my mind has <pb n="124"/>hankered after the old business, and yet it ruined my father, and mayhap may do as
        bad for his son.”</p>
       <p> “We will not think that,” said Morley. “At present we will think of other things. You may
        guess I am a bit wearied; I think I’ll say good night; you have strangers with you.”</p>
@@ -5597,8 +5536,7 @@
        Indeed there is scarcely any popular tenet more erroneous than that which holds that when
        time is slow, life is dull. It is very often and very much the reverse. If we look back on
        those passages of our life which dwell most upon the memory, they are brief periods full of
-       action and novel sensation. Egremont found this so during the first days of his new <pb
-        n="128"/>residence in Mowedale. The first week, an epoch in his life, seemed an age; at the
+       action and novel sensation. Egremont found this so during the first days of his new <pb n="128"/>residence in Mowedale. The first week, an epoch in his life, seemed an age; at the
        end of the first month, he began to deplore the swiftness of time and almost to moralize over
        the brevity of existence. He found that he was leading a life of perfect happiness, but of
        remarkable simplicity; he wished it might never end, but felt difficulty in comprehending how
@@ -5609,8 +5547,7 @@
        Egremont. In the evening, he invariably repaired to the cottage of Gerard, beneath whose
        humble roof he found every female charm that can fascinate, and conversation that stimulated
        his intelligence. Gerard was ever the same; hearty, simple, with a depth of feeling and
-       native thought on the subjects on which they touched, and with a certain <pb n="129"
-       />grandeur of sentiment and conception which contrasted with his social position, but which
+       native thought on the subjects on which they touched, and with a certain <pb n="129"/>grandeur of sentiment and conception which contrasted with his social position, but which
        became his idiosyncracy. Sybil spoke little, but hung upon the accents of her father; yet
        ever and anon her rich tones conveyed to the charmed ear of Egremont some deep conviction,
        the earnestness of her intellect as remarkable as the almost sacred repose of her mien and
@@ -5621,8 +5558,7 @@
        hours left him fewer occasions for the indulgence of social intercourse, Egremont saw him
        seldom, except at Gerard’s cottage, where generally he might be found in the course of the
        week, and their rambles together had entirely ceased.</p>
-      <p> Alone, Egremont mused much over the daughter of Gerard, but shrinking from the <pb n="130"
-       />precise and the definite, his dreams were delightful, but vague. All that he asked was,
+      <p> Alone, Egremont mused much over the daughter of Gerard, but shrinking from the <pb n="130"/>precise and the definite, his dreams were delightful, but vague. All that he asked was,
        that his present life should go on for ever; he wished for no change, and at length almost
        persuaded himself that no change could arrive; as men who are basking in a summer sun,
        surrounded by bright and beautiful objects, cannot comprehend how the seasons can ever alter;
@@ -5724,8 +5660,7 @@
        a chase.”</p>
       <p> At this moment entered Sybil. At the sight of her, the remembrance that they were about to
        part, nearly overwhelmed Egremont. Her supremacy over his spirit was revealed to him, and
-       nothing but the presence of other persons could have prevented him avowing his <pb n="138"
-       />entire subjection. His hand trembled as he touched her’s, and his eye, searching yet
+       nothing but the presence of other persons could have prevented him avowing his <pb n="138"/>entire subjection. His hand trembled as he touched her’s, and his eye, searching yet
        agitated, would have penetrated her serene soul. Gerard and Morley, somewhat withdrawn,
        pursued their conversation; while Egremont hanging over Sybil, attempted to summon courage to
        express to her his sad adieu. It was in vain. Alone, perhaps he might have poured forth a
@@ -5899,8 +5834,7 @@
       <p> “But I cannot stop,” said Lady Firebrace. “I must be with Lady St Julians exactly at a
        quarter past four;” and she sprang into her carriage.</p>
       <p> “I would sooner meet any woman in London than Lady Firebrace,” said Mr Berners; “she makes
-       me uneasy for the day: she contrives to convince me that the whole world are employed <pb
-        n="151"/>behind my back in abusing or ridiculing me.”</p>
+       me uneasy for the day: she contrives to convince me that the whole world are employed <pb n="151"/>behind my back in abusing or ridiculing me.”</p>
       <p> “It is her way,” said Egerton; “she proves her zeal by showing you that you are odious. It
        is very successful with people of weak nerves. Scared at their general unpopularity, they
        seek refuge with the very person who at the same time assures them of their odium and alone
@@ -6229,8 +6163,7 @@
        on which some twenty persons might easily stand at the same time, was called the Druid’s
        Altar. The ground about was strewn with stony fragments, covered tonight with human beings,
        who found a convenient resting-place amid these ruins of some ancient temple or relics of
-       some ancient world. The shadowy concourse increased, the dim circle of the nocturnal <pb
-        n="177"/>assemblage each moment spread and widened; there was the hum and stir of many
+       some ancient world. The shadowy concourse increased, the dim circle of the nocturnal <pb n="177"/>assemblage each moment spread and widened; there was the hum and stir of many
        thousands. Suddenly in the distance the sound of martial music: and instantly, quick as the
        lightning and far more wild, each person present brandished a flaming torch, amid a chorus of
        cheers, that, renewed and resounding, floated far away over the broad bosom of the dusk
@@ -6335,8 +6268,7 @@
        increasing in volume as Mick and the masks advanced. One of these attendants now notifying to
        their charge that he must kneel down, Mick found he rested on a cushion, while at the same
        time his arms still pinioned, he seemed to be left alone.</p>
-      <p> The voices became louder and louder; Mick could distinguish the words and burthen of <pb
-        n="185"/>the hymn; he was sensible that many persons were entering the apartment; he could
+      <p> The voices became louder and louder; Mick could distinguish the words and burthen of <pb n="185"/>the hymn; he was sensible that many persons were entering the apartment; he could
        distinguish the measured tread of some solemn procession. Round the chamber, more than once,
        they moved with slow and awful step. Suddenly that movement ceased; there was a pause of a
        few minutes; at length a voice spoke. “I denounce John Briars.”</p>
@@ -6522,8 +6454,7 @@
        inventions and your industry. Our wars converted an island into an empire, and at any rate
        developed that industry and stimulated those inventions of which you boast. You tell me that
        you are the delegates of the unrepresented working classes of Mowbray. Why, what would
-       Mowbray have been if it had not been for your aristocracy and their wars? Your <pb n="200"
-       />town would not have existed; there would have been no working classes there to send up
+       Mowbray have been if it had not been for your aristocracy and their wars? Your <pb n="200"/>town would not have existed; there would have been no working classes there to send up
        delegates. In fact you owe your every existence to us. I have told you what my ancestors have
        done; I am prepared, if the occasion requires it, not to disgrace them; I have inherited
        their great position, and I tell you fairly, gentlemen, I will not relinquish it without a
@@ -6629,8 +6560,7 @@
        In the tumult of life, a few minutes occasionally passed in the solemn shadow of some lofty
        and ancient aisle, exercise very often a salutary influence: they purify the heart and
        elevate the mind; dispel many haunting fancies, and prevent many an act which otherwise might
-       be repented. The church would in this light still afford us a sanctuary; not against the <pb
-        n="209"/>power of the law but against the violence of our own will; not against the passions
+       be repented. The church would in this light still afford us a sanctuary; not against the <pb n="209"/>power of the law but against the violence of our own will; not against the passions
        of man but against our own.</p>
       <p> The Abbey of Westminster rises amid the strife of factions. Around its consecrated
        precinct some of the boldest and some of the worst deeds have been achieved or perpetrated:
@@ -6667,8 +6597,7 @@
        intrusted, have certainly done all that could injure and impair the holy genius of the place,
        it still was a habit often full of charm and consolation.</p>
       <p> There is not perhaps another metropolitan population in the world that would tolerate such
-       conduct as is pursued to “that great lubber, the public” by the Dean and Chapter of <pb
-        n="212"/>Westminster, and submit in silence to be shut out from the only building in the two
+       conduct as is pursued to “that great lubber, the public” by the Dean and Chapter of <pb n="212"/>Westminster, and submit in silence to be shut out from the only building in the two
        cities which is worthy of the name of a cathedral. But the British public will bear anything;
        they are so busy in speculating in railroad shares.</p>
       <p> When Egremont had entered on his first visit to the Abbey by the south transept, and
@@ -6744,8 +6673,7 @@
       <p> “Would he had been as frank!” thought Egremont. And must he quit her in this way. Never!
        “You must indeed let me attend you!” he said aloud.</p>
       <p> “It is not far,” said Sybil. “We live almost in the Precinct—in an old house with some
-       kind old people, the brother of one of the nuns of Mowbray. The nearest way to it is <pb
-        n="218"/>straight along this street, but that is too bustling for me. I have discovered,”
+       kind old people, the brother of one of the nuns of Mowbray. The nearest way to it is <pb n="218"/>straight along this street, but that is too bustling for me. I have discovered,”
        she added with a smile, “a more tranquil path.” And guided by her they turned up College
        Street.</p>
       <p> “And how long have you been in London?”</p>
@@ -6860,8 +6788,7 @@
        Temple. Though piles of parchments and papers cover the numerous tables, and in many parts
        intrude upon the Turkey carpet, an air of order, of comfort, and of taste, pervades the
        chamber. The hangings of crimson damask silk blend with the antique furniture of oak; the
-       upper panes of the windows are tinted by the brilliant pencil of feudal Germany, while <pb
-        n="228"/>the choice volumes that line the shelves are clothed in bindings which become their
+       upper panes of the windows are tinted by the brilliant pencil of feudal Germany, while <pb n="228"/>the choice volumes that line the shelves are clothed in bindings which become their
        rare contents. The master of this apartment was a man of ordinary height, inclined to
        corpulency, and in the wane of middle life, though his unwrinkled cheek, his undimmed blue
        eye, and his brown hair, very apparent, though he wore a cap of black velvet, did not betray
@@ -6872,8 +6799,7 @@
        volumes open, and some manuscripts which denoted that he had recently been engaged with them.
        At present Mr Hatton, with his pen still in his hand and himself in a chamber-robe of the
        same material as his cap, leant back in his chair, while he listened to his client, Sir
-       Vavasour. Several most beautiful black and tan spaniels of the breed of King Charles the <pb
-        n="229"/>Second were reposing near him on velvet cushions, with a haughty luxuriousness
+       Vavasour. Several most beautiful black and tan spaniels of the breed of King Charles the <pb n="229"/>Second were reposing near him on velvet cushions, with a haughty luxuriousness
        which would have become the beauties of the merry monarch; and a white Persian cat with blue
        eyes and a very long tail, with a visage not altogether unlike that of its master, was
        resting with great gravity on the writing-table, and assisting at the conference.</p>
@@ -6884,8 +6810,7 @@
       <p> “What you tell me, Sir Vavasour, is what I foresaw, but which, as my influence could not
        affect it, I dismissed from my thoughts. You came to me for a specific object. I accomplished
        it. I undertook to ascertain the rights and revive the claims of the baronets of England.
-       That was what you required me: I fulfilled your wish. Those rights are ascertained; <pb
-        n="230"/>those claims are revived. A great majority of the Order have given in their
+       That was what you required me: I fulfilled your wish. Those rights are ascertained; <pb n="230"/>those claims are revived. A great majority of the Order have given in their
        adhesion to the organized movement. The nation is acquainted with your demands, accustomed to
        them, and the monarch once favourably received them. I can do no more; I do not pretend to
        make baronets, still less can I confer on those already made the right to wear stars and
@@ -7034,8 +6959,7 @@
        of a long passage Gerard opened a door, and they all went into a spacious melancholy room,
        situate at the back of the house, and looking upon a small square plot of dank grass, in the
        midst of which rose a very weather-stained Cupid, with one arm broken, and the other raised
-       in the air with a long shell to its mouth. It seemed that in old days it might have been <pb
-        n="242"/>a fountain. At the end of the plot the blind side of a house offered a high wall
+       in the air with a long shell to its mouth. It seemed that in old days it might have been <pb n="242"/>a fountain. At the end of the plot the blind side of a house offered a high wall
        which had once been painted in fresco. Though much of the coloured plaster had cracked and
        peeled away, and all that remained was stained and faded, still some traces of the original
        design might yet be detected: festive wreaths, the colonnades and perspective of a
@@ -7047,8 +6971,7 @@
        heavy mahogany arm-chairs in the room, a Pembroke table, and an immense unwieldy sideboard,
        garnished with a few wine-glasses of a deep blue colour. Over the lofty uncouth mantel was a
        portrait of the Marquis of Granby, which might have been a sign, and opposite to him, over
-       the sideboard, was a large tawdry-coloured print, by Bunbury, of Ranelagh in its <pb n="243"
-       />most festive hour. The general appearance of the room however though dingy, was not
+       the sideboard, was a large tawdry-coloured print, by Bunbury, of Ranelagh in its <pb n="243"/>most festive hour. The general appearance of the room however though dingy, was not
        squalid: and what with its spaciousness, its extreme repose, and the associations raised by
        such few images as it did suggest, the impression on the mind of the spectator was far from
        unpleasing, partaking indeed of that vague melancholy which springs from the contemplation of
@@ -7439,8 +7362,7 @@
        the government would resign.</p>
       <p> Lady Deloraine, prepared for the great result, was calm: Lady St Julians, who had not
        anticipated it, was in a wild flutter of distracted triumph. A vague yet dreadful sensation
-       came over her in the midst of her joy that Lady Deloraine had been beforehand with her; <pb
-        n="275"/>had made her combinations with the new Minister; perhaps even sounded the Court. At
+       came over her in the midst of her joy that Lady Deloraine had been beforehand with her; <pb n="275"/>had made her combinations with the new Minister; perhaps even sounded the Court. At
        the same time that in this agitating vision the great offices of the palace which she had
        apportioned to herself and her husband seemed to elude her grasp; the claims and hopes and
        interests of her various children haunted her perplexed consciousness. What if Charles
@@ -7477,8 +7399,7 @@
       <p> “But my dear George, I think it is really premature—”</p>
       <p> “I dare say it is; but I recommend you, my dear mother, to be alive. I heard Lady St
        Julians just now in the supper room asking the Duke to promise her that her Augustus should
-       be a Lord of the Admiralty. She said the Treasury would not do, as there was no <pb n="278"
-       />house, and that with such a fortune as his wife brought him he could not hire a house under
+       be a Lord of the Admiralty. She said the Treasury would not do, as there was no <pb n="278"/>house, and that with such a fortune as his wife brought him he could not hire a house under
        a thousand a-year.”</p>
       <p> “He will not have the Admiralty,” said Lady Deloraine.</p>
       <p> “She looks herself to the Robes.”</p>
@@ -7606,8 +7527,7 @@
        positively Lord Rambrooke will not have the Buck-hounds.’”</p>
       <p> “All I want,” said Lord Marney, “is to see men of character about her Majesty. This is a
        domestic country, and the country expects that no nobleman should take household office whose
-       private character is not inexpugnable. Now that fellow Rambrooke keeps a French <pb n="289"
-       />woman. It is not much known, but it is a fact.”</p>
+       private character is not inexpugnable. Now that fellow Rambrooke keeps a French <pb n="289"/>woman. It is not much known, but it is a fact.”</p>
       <p> “Dreadful!” exclaimed Mr Tadpole. “I have no doubt of it. But he has no chance of the
        Buck-hounds, you may rely on that. Private character is to be the basis of the new
        government. Since the Reform Act that is a qualification much more esteemed by the
@@ -7637,8 +7557,7 @@
        writ of right with respect to his manors of Mowbray, Valence, Mowedale, Mowbray Valence, and
        several others carefully enumerated in their precise epistle, and the catalogue of which read
        like an extract from Domesday Book.</p>
-      <p> More than twenty years had elapsed since the question had been mooted; and though <pb
-        n="292"/>the discussion had left upon Lord de Mowbray an impression from which at times he
+      <p> More than twenty years had elapsed since the question had been mooted; and though <pb n="292"/>the discussion had left upon Lord de Mowbray an impression from which at times he
        had never entirely recovered, still circumstances had occurred since the last proceedings
        which gave him a moral if not a legal conviction that he should be disturbed no more. And
        these were the circumstances: Lord de Mowbray after the death of the father of Walter Gerard
@@ -7649,8 +7568,7 @@
        by allowing him to settle in the metropolis, pursue his studies, purchase his library and
        collections, and otherwise give himself that fair field which brains without capital can
        seldom command, was in fact the foundation of his fortune. Many years afterwards Lord de
-       Mowbray had recognised Hatton in the prosperous parliamentary agent who often appeared <pb
-        n="293"/>at the bar of the House of Lords and before committees of privileges, and who
+       Mowbray had recognised Hatton in the prosperous parliamentary agent who often appeared <pb n="293"/>at the bar of the House of Lords and before committees of privileges, and who
        gradually obtained an unrivalled reputation and employment in peerage cases. Lord de Mowbray
        renewed his acquaintance with a man who was successful; bowed to Hatton whenever they met;
        and finally consulted him respecting the barony of Valence which had been in the old
@@ -7961,8 +7879,7 @@
       <p> “If there be a change,” said Sybil, “it is because in some degree the People have learnt
        their strength.”</p>
       <p> “Ah! dismiss from your mind those fallacious fancies,” said Egremont. “The People are not
-       strong; the People never can be strong. Their attempts at self-vindication will end only <pb
-        n="318"/>in their suffering and confusion. It is civilisation that has effected, that is
+       strong; the People never can be strong. Their attempts at self-vindication will end only <pb n="318"/>in their suffering and confusion. It is civilisation that has effected, that is
        effecting this change. It is that increased knowledge of themselves that teaches the educated
        their social duties. There is a dayspring in the history of this nation which those who are
        on the mountain tops can as yet perhaps only recognize. You deem you are in darkness, and I
@@ -8000,8 +7917,7 @@
        affections. I followed you to your home, and lived for a time content in the silent worship
        of your nature. When I came the last morning to the cottage, it was to tell, and to ask, all.
        Since then for a moment your image has never been absent from my consciousness; your picture
-       consecrates my hearth and your approval has been the spur of my career. Do not reject <pb
-        n="321"/>my love; it is deep as your nature, and fervent as my own. Banish those prejudices
+       consecrates my hearth and your approval has been the spur of my career. Do not reject <pb n="321"/>my love; it is deep as your nature, and fervent as my own. Banish those prejudices
        that have embittered your existence, and if persisted in may wither mine. Deign to retain
        this hand! If I be a noble I have none of the accidents of nobility: I cannot offer you
        wealth, splendour, or power; but I can offer you the devotion of an entranced
@@ -8012,8 +7928,7 @@
        and rapid that it seems to me I can scarcely meet them. You are Lord Marney’s brother; it was
        but yesterday—only but yesterday—I learnt it. I thought then I had lost your friendship, and
        now you speak of—love!</p>
-      <p> “Love of me! Retain your hand and share your life and fortunes! You forget what I <pb
-        n="322"/>am. But though I learnt only yesterday what you are, I will not be so remiss. Once
+      <p> “Love of me! Retain your hand and share your life and fortunes! You forget what I <pb n="322"/>am. But though I learnt only yesterday what you are, I will not be so remiss. Once
        you wrote upon a page you were my faithful friend: and I have pondered over that line with
        kindness often. I will be your faithful friend; I will recall you to yourself. I will at
        least not bring you shame and degradation.”</p>
@@ -8088,8 +8003,7 @@
       <p> “It is a bad thing—this beating the police,” said the grey-headed gentleman.</p>
       <p> “But what is the present state of affairs?” enquired Mr Berners. “Are the rioters put
        down?”</p>
-      <p> “Not in the least,” said Mr Egerton, “as I hear. They are encamped in the Bull Ring <pb
-        n="4"/>amid smoking ruins, and breathe nothing but havoc.”</p>
+      <p> “Not in the least,” said Mr Egerton, “as I hear. They are encamped in the Bull Ring <pb n="4"/>amid smoking ruins, and breathe nothing but havoc.”</p>
       <p> “Well, I voted for taking the National Petition into consideration,” said Mr Berners. “It
        could do us no harm, and would have kept things quiet.”</p>
       <p> “So did every fellow on our side,” said Mr Egerton, “who was not in office or about to be.
@@ -8154,8 +8068,7 @@
        the floor of the House during the discussion. The House after a debate which was not deemed
        by the people commensurate with the importance of the occasion, decided on rejecting the
        prayer of the Petition, and from that moment the party in the Convention who advocated a
-       recourse to physical force in order to obtain their purpose, was in the ascendant. <pb n="9"
-       />The National Petition and the belief that although its objects would not at present be
+       recourse to physical force in order to obtain their purpose, was in the ascendant. <pb n="9"/>The National Petition and the belief that although its objects would not at present be
        obtained, still that a solemn and prolonged debate on its prayer would at least hold out to
        the working classes the hope that their rights might from that date rank among the
        acknowledged subjects of parliamentary discussion and ultimately by the force of discussion
@@ -8191,8 +8104,7 @@
        from her gloomy domicile to those beautiful gardens that bloom in that once melancholy region
        of marsh, celebrated in old days only for its Dutch canal and its Chinese bridge, and now not
        unworthy of the royal park that incloses them.. Except here and there a pretty nursery-maid
-       with her interesting charge; some beautiful child with nodding plume, immense <pb n="12"
-       />bow, and gorgeous sash; the gardens were vacant. Indeed it was only at this early hour,
+       with her interesting charge; some beautiful child with nodding plume, immense <pb n="12"/>bow, and gorgeous sash; the gardens were vacant. Indeed it was only at this early hour,
        that Sybil found from experience, that it was agreeable in London for a woman unaccompanied
        to venture abroad. There is no European city where our fair sisters are so little independent
        as in our metropolis; to our shame.</p>
@@ -8203,8 +8115,7 @@
        movement, that had commenced with so much public disaster, and which menaced consequences
        still more awful, all these events, and fears, and sad forebodings, acted with immense
        influence on a temperament which, though gifted with even a sublime courage, was singularly
-       sensitive. The quick and teeming imagination of Sybil conjured up a thousand fears <pb n="13"
-       />which were in some degree unfounded, in a great degree exaggerated, but this is the
+       sensitive. The quick and teeming imagination of Sybil conjured up a thousand fears <pb n="13"/>which were in some degree unfounded, in a great degree exaggerated, but this is the
        inevitable lot of the creative mind practising on the inexperienced.</p>
       <p> The shock too had been sudden. The two months that had elapsed since she had parted, as
        she supposed for ever, from Egremont, while they had not less abounded than the preceding
@@ -8251,8 +8162,7 @@
       <p> More intimately acquainted with Sybil Gerard, Hatton had shrunk from the project that he
        had at first so crudely formed. There was something about her that awed, while it fascinated
        him. He did not relinquish his purpose, for it was a rule of his life never to do that; but
-       he postponed the plans of its fulfilment. Hatton was not, what is commonly <pb n="17"
-       />understood by the phrase, in love with Sybil: certainly not passionately in love with her.
+       he postponed the plans of its fulfilment. Hatton was not, what is commonly <pb n="17"/>understood by the phrase, in love with Sybil: certainly not passionately in love with her.
        With all his daring and talents and fine taste, there was in Hatton such a vein of thorough
        good sense, that it was impossible for him to act or even to think anything that was
        ridiculous. He wished still to marry Sybil for the great object that we have stated; he had a
@@ -8263,8 +8173,7 @@
        abilities, a fine and profound education and almost supernatural charms, found herself born
        and rooted in the ranks of a degraded population. All this Hatton understood; it was a
        conclusion he had gradually arrived at by a gradual process of induction and by a vigilant
-       observation that in its study of character had rarely been deceived; and when one evening <pb
-        n="18"/>with an art that could not be suspected, he sounded Gerard on the future of his
+       observation that in its study of character had rarely been deceived; and when one evening <pb n="18"/>with an art that could not be suspected, he sounded Gerard on the future of his
        daughter, he found that the clear intellect and straight-forward sagacity of the father had
        arrived at the same result. “She wishes,” said Gerard, “to take the veil, and I only oppose
        it for a time, that she may have some knowledge of life and a clear conception of what she is
@@ -8288,8 +8197,7 @@
        having gone to the Convention where there were at this very moment very fiery debates, went
        forth to take the morning air of summer in the gardens of St James’ Park.</p>
       <p> It was a real summer day; large, round, glossy, fleecy clouds, as white and shining as
-       glaciers, studded with their immense and immoveable forms the deep blue sky. There <pb n="20"
-       />was not even a summer breeze, though the air was mellow, balmy, and exhilarating. There was
+       glaciers, studded with their immense and immoveable forms the deep blue sky. There <pb n="20"/>was not even a summer breeze, though the air was mellow, balmy, and exhilarating. There was
        a bloom upon the trees, the waters glittered, the prismatic wild-fowl dived, breathed again,
        and again disappeared. Beautiful children, fresh and sweet as the new-born rose, glanced
        about with the gestures and sometimes the voices of Paradise. And in the distance rose the
@@ -8351,8 +8259,7 @@
        sentiment of unmingled hate and scorn which she associated with Norman conquerors and feudal
        laws. She would ascribe rather the want of sympathy that unquestionably exists between Wealth
        and Work in England, to mutual ignorance between the classes which possess these two great
-       elements of national prosperity; and though the source of that ignorance was to <pb n="25"
-       />be sought in antecedent circumstances of violence and oppression, the consequences perhaps
+       elements of national prosperity; and though the source of that ignorance was to <pb n="25"/>be sought in antecedent circumstances of violence and oppression, the consequences perhaps
        had outlived the causes, as customs survive opinions.</p>
       <p> Sybil looked towards Westminster, to those proud and passionate halls where assembles the
        Parliament of England; that rapacious, violent, and haughty body, that had brought kings and
@@ -8418,8 +8325,7 @@
        of his confidence. These scenes of violence alarm me. Under any circumstances I should shrink
        from them, but I am impressed with the conviction that they can bring us nothing but disaster
        and disgrace.”</p>
-      <p> “I honor your father,” said Egremont, “I know no man whose character I esteem so truly <pb
-        n="31"/>noble; such a just compound of intelligence and courage, and gentle and generous
+      <p> “I honor your father,” said Egremont, “I know no man whose character I esteem so truly <pb n="31"/>noble; such a just compound of intelligence and courage, and gentle and generous
        impulse. I should deeply grieve were he to compromise himself. But you have influence over
        him, the greatest, as you have over all. Counsel him to return to Mowbray.”</p>
       <p> “Can I give counsel?” said Sybil, “I who have been wrong in all my judgments? I came up to
@@ -8430,8 +8336,7 @@
        will be a series of petty intrigues, or, what is worse, of violent machinations.”</p>
       <p> “Exert every energy,” said Egremont, “that your father should leave London, immediately;
        to-morrow, to-night if possible. After this business at Birmingham, the government must act.
-       I hear that they will immediately increase the army and the police; and that there is a <pb
-        n="32"/>circular from the Secretary of State to the Lords Lieutenant of counties. But the
+       I hear that they will immediately increase the army and the police; and that there is a <pb n="32"/>circular from the Secretary of State to the Lords Lieutenant of counties. But the
        government will strike at the Convention. The members who remain will be the victims. If your
        father return to Mowbray and be quiet, he has a chance of not being disturbed.”</p>
       <p> “An ignoble end of many lofty hopes,” said Sybil.</p>
@@ -8443,8 +8348,7 @@
        the lamb will not lie down together; and the conquerors will never rescue the conquered.”</p>
       <p> Egremont shook his head. “You still will cherish these phantoms, dear Sybil! and why? They
        are not visions of delight. Believe me they are as vain as they are distressing. The mind of
-       England is the mind ever of the rising race. Trust me it is with the People. And <pb n="33"
-       />not the less so, because this feeling is one of which even in a great degree it is
+       England is the mind ever of the rising race. Trust me it is with the People. And <pb n="33"/>not the less so, because this feeling is one of which even in a great degree it is
        unconscious. Those opinions which you have been educated to dread and mistrust are opinions
        that are dying away. Predominant opinions are generally the opinions of the generation that
        is vanishing. Let an accident, which speculation could not foresee, the balanced state at
@@ -8539,8 +8443,7 @@
        of them may preach, yet will not practise: both bad; traitors it may be, or, at the best,
        hare-brained men.”</p>
       <p> “Stephen is prejudiced,” said Gerard. “He is a visionary, indulging in impossible dreams,
-       and if possible, little desirable. He knows nothing of the feeling of the country or the <pb
-        n="41"/>character of his countrymen. Englishmen want none of his joint-stock felicity; they
+       and if possible, little desirable. He knows nothing of the feeling of the country or the <pb n="41"/>character of his countrymen. Englishmen want none of his joint-stock felicity; they
        want their rights,—rights consistent with the rights of other classes, but without which the
        rights of other classes cannot, and ought not, to be secure.”</p>
       <p> “Stephen is at least your friend, my father; and once you honoured him.”</p>
@@ -8552,8 +8455,7 @@
        just it.”</p>
       <p> “But violence and action,” said Sybil, “are they identical, my father?”</p>
       <p> “I did not speak of violence.”</p>
-      <p> “No; but you looked it. I know the language of your countenance, even to the quiver <pb
-        n="42"/>of your lip. Action, as you and Stephen once taught me, and I think wisely, was to
+      <p> “No; but you looked it. I know the language of your countenance, even to the quiver <pb n="42"/>of your lip. Action, as you and Stephen once taught me, and I think wisely, was to
        prove to our rulers by an agitation, orderly and intellectual, that we were sensible of our
        degradation; and that it was neither Christianlike nor prudent, neither good nor wise, to let
        us remain so. That you did, and you did it well; the respect of the world, even of those who
@@ -8618,8 +8520,7 @@
        were suffused with tears, of tenderness, not of gloom.</p>
       <p> And blended with them the thought of one who had been for a season the kind and gentle
        companion of her girlhood—that Mr Franklin whom she had never quite forgotten, and who, alas!
-       was not Mr Franklin after all. Ah! that was a wonderful history; a somewhat <pb n="48"
-       />thrilling chapter in the memory of one so innocent and so young! His voice even now
+       was not Mr Franklin after all. Ah! that was a wonderful history; a somewhat <pb n="48"/>thrilling chapter in the memory of one so innocent and so young! His voice even now
        lingered in her ear. She recalled without an effort those tones of the morning, tones of
        tenderness and yet of wisdom and considerate thought, that had sounded only for her welfare.
        Never had Egremont appeared to her in a light so subduing. He was what man should be to woman
@@ -8630,8 +8531,7 @@
        eye was fixed in lustrous contemplation, the flush on her cheek was a messenger from her
        heart, the movement of her mouth would have in an instant become a smile, when the clock of
        St John’s struck four, and Sybil started from her reverie.</p>
-      <p> The clock of St John’s struck four, and Sybil became anxious; the clock of St John’s <pb
-        n="49"/>struck five, and Sybil became disquieted; restless and perturbed, she was walking up
+      <p> The clock of St John’s struck four, and Sybil became anxious; the clock of St John’s <pb n="49"/>struck five, and Sybil became disquieted; restless and perturbed, she was walking up
        and down the chamber, her books long since thrown aside, when the clock of St John’s struck
        six.</p>
       <p> She clasped her hands and looked up to heaven. There was a knock at the street door; she
@@ -9006,8 +8906,7 @@
        which was the customary passage of mankind. The houses, the population, the costume, the
        manners, the language through which they whirled their way, were of a different state and
        nation to those with which the dwellers in the dainty quarters of this city are acquainted.
-       Now dark streets of frippery and old stores, new market-places of entrails and <pb n="78"
-       />carrion with gutters running gore, sometimes the way was enveloped in the yeasty fumes of a
+       Now dark streets of frippery and old stores, new market-places of entrails and <pb n="78"/>carrion with gutters running gore, sometimes the way was enveloped in the yeasty fumes of a
        colossal brewery, and sometimes they plunged into a labyrinth of lanes teeming with life, and
        where the dog-stealer and the pick-pocket, the burglar and the assassin, found a sympathetic
        multitude of all ages; comrades for every enterprise; and a market for every booty.</p>
@@ -9018,8 +8917,7 @@
        mild though tainted air; bargaining, blaspheming, drinking, wrangling: and varying their
        business and their potations, their fierce strife and their impious irreverence, with flashes
        of rich humour, gleams of native wit, and racy phrases of idiomatic slang.</p>
-      <p> Absorbed in her great mission Sybil was almost insensible to the scenes through <pb n="79"
-       />which she passed, and her innocence was thus spared many a sight and sound that might have
+      <p> Absorbed in her great mission Sybil was almost insensible to the scenes through <pb n="79"/>which she passed, and her innocence was thus spared many a sight and sound that might have
        startled her vision or alarmed her ear. They could not now he very distant from the spot;
        they were crossing this broad way, and then were about to enter another series of small
        obscure dingy streets, when the cab-driver giving a flank to his steed to stimulate it to a
@@ -9057,8 +8955,7 @@
        and the third to your left, and you’re landed.”</p>
       <p> Aided by these instructions, Sybil hastened on, avoiding notice as much as was in her
        power, and assisted in some degree by the advancing gloom of night. She had reached Silver
-       Street; a long, narrow, hilly Street; and now she was at fault. There were not many <pb
-        n="82"/>persons about, and there were few shops here; yet one was at last at hand, and she
+       Street; a long, narrow, hilly Street; and now she was at fault. There were not many <pb n="82"/>persons about, and there were few shops here; yet one was at last at hand, and she
        entered to enquire her way. The person at the counter was engaged, and many customers awaited
        him: time was very precious: Sybil had made the enquiry and received only a supercilious
        stare from the shopman, who was weighing with precision some article that he was serving. A
@@ -9071,8 +8968,7 @@
       <p> “No. 22: a printing-office.” said Sybil; for the street she had entered was so dark she
        despaired of finding her way, and ventured to trust so far a guide who was not a
        policeman.</p>
-      <p> “The very house I am going to,” said the stranger: “I am a printer.” And they walked <pb
-        n="83"/>on some way, until they at length stopped before a glass and illumined door, covered
+      <p> “The very house I am going to,” said the stranger: “I am a printer.” And they walked <pb n="83"/>on some way, until they at length stopped before a glass and illumined door, covered
        with a red curtain. Before it was a group of several men and women brawling, but who did not
        notice Sybil and her companion.</p>
       <p> “Here we are,” said the man; and he pushed the door open, inviting Sybil to enter. She
@@ -9297,8 +9193,7 @@
        Gerard, were busily engaged. There was no furniture in the room except a few chairs and a
        deal table, on which was a solitary light and a variety of papers.</p>
       <p> “Depend upon it,” said Gerard, “we must stick to the National Holiday: we can do nothing
-       effectively, unless the movement is simultaneous. They have not troops to cope with <pb
-        n="100"/>a simultaneous movement, and the Holiday is the only machinery to secure unity of
+       effectively, unless the movement is simultaneous. They have not troops to cope with <pb n="100"/>a simultaneous movement, and the Holiday is the only machinery to secure unity of
        action. No work for six weeks, and the rights of Labour will be acknowledged!”</p>
       <p> “We shall never be able to make the people unanimous in a cessation of labour,” said a
        pale young man, very thin but with a countenance of remarkable energy. “The selfish instincts
@@ -9323,8 +9218,7 @@
        Conduit House: we cannot do more here I fear than talk, but a few thousand men on Kennington
        Common every Saturday and some spicy resolutions will keep the Guards in London.”</p>
       <p> “Ay, ay,” said Gerard; “I wish the woollen and cotton trades were as bad to do as the
-       iron, and we should need no holiday as you say, Wilkins. However it will come. In the <pb
-        n="102"/>meantime the Poor-law pinches and terrifies, and will make even the most spiritless
+       iron, and we should need no holiday as you say, Wilkins. However it will come. In the <pb n="102"/>meantime the Poor-law pinches and terrifies, and will make even the most spiritless
        turn.”</p>
       <p> “The accounts to-day from the north are very encouraging though,” said the young man.
        “Stevens is producing a great effect, and this plan of our people going in procession and
@@ -9351,8 +9245,7 @@
       <p> “And now,” said Gerard, “I shall to-morrow to the north, where I am wanted. But before I
        go I propose, as suggested yesterday, that we five together with Langley, whom I counted on
        seeing here to-night, now form ourselves into a committee for arming the people. Three of us
-       are permanent in London; Wilkins and myself will aid you in the provinces. <pb n="104"
-       />Nothing can be decided on this head till we see Langley, who will make a communication from
+       are permanent in London; Wilkins and myself will aid you in the provinces. <pb n="104"/>Nothing can be decided on this head till we see Langley, who will make a communication from
        Birmingham that cannot be trusted to writing. The seven o’clock train must have long since
        arrived. He is now a good hour behind his time.”</p>
       <p> “I hear foot-steps,” said Maclast.</p>
@@ -9480,8 +9373,7 @@
        covered, silent and motionless. At the end of half an hour the inspector of police who had
        visited them with the gentleman in black entered and announced that the prisoners could not
        be brought up for examination that evening, and they must make themselves as comfortable as
-       they could for the night. Gerard made a last appeal to the inspector that Sybil might be <pb
-        n="113"/>allowed a separate chamber and in this he was unexpectedly successful.</p>
+       they could for the night. Gerard made a last appeal to the inspector that Sybil might be <pb n="113"/>allowed a separate chamber and in this he was unexpectedly successful.</p>
       <p> The inspector was a kind-hearted man: he lived at the office and his wife was the
        housekeeper. He had already given her an account, an interesting account, of his female
        prisoner. The good woman’s imagination was touched as well as her heart; she had herself
@@ -9642,8 +9534,7 @@
        racy execrations that ancient body that from a traditionary habit they still called the New
        Police.</p>
       <p> A man in a loose white great coat, his countenance concealed by a shawl which was wound
-       round his neck and by his slouched hat, assisted Sybil into the coach, and pressed <pb
-        n="126"/>her hand at the same time with great tenderness. Then he mounted the box by the
+       round his neck and by his slouched hat, assisted Sybil into the coach, and pressed <pb n="126"/>her hand at the same time with great tenderness. Then he mounted the box by the
        driver and ordered him to make the best of his way to Smith’s Square.</p>
       <p> With a beating heart, Sybil leant back in the coach and clasped her hands. Her brain was
        too wild to think: the incidents of her life during the last four-and-twenty hours had been
@@ -9654,8 +9545,7 @@
        fidelity! What brave and romantic faith! Had she breathed on some talisman, and called up
        some obedient genie to her aid, the spirit could not have been more loyal, nor the completion
        of her behest more ample and precise.</p>
-      <p> She passed the towers of the church of St John: of the saint who had seemed to <pb n="127"
-       />guard over her in the exigency of her existence. She was approaching her threshold; the
+      <p> She passed the towers of the church of St John: of the saint who had seemed to <pb n="127"/>guard over her in the exigency of her existence. She was approaching her threshold; the
        blood left her cheek, her heart palpitated. The coach stopped. Trembling and timid she leant
        upon his arm and yet dared not look upon his face. They entered the house; they were in the
        room where two months before he had knelt to her in vain, which yesterday had been the scene
@@ -9680,8 +9570,7 @@
       <p> “It’s the beginning of the end,” said Devilsdust.</p>
       <p> “The deuce!” said the Dandy, who did not clearly comprehend the bent of the observation of
        his much pondering and philosophic friend, but was touched by its oracular terseness.</p>
-      <p> “We must see Warner.” said Devilsdust, “and call a meeting of the people on the Moor <pb
-        n="130"/>for to-morrow evening. I will draw up some resolutions. We must speak out; we must
+      <p> “We must see Warner.” said Devilsdust, “and call a meeting of the people on the Moor <pb n="130"/>for to-morrow evening. I will draw up some resolutions. We must speak out; we must
        terrify the Capitalists.”</p>
       <p> “I am all for a strike,” said Mick.</p>
       <p> “‘Tisn’t ripe,” said Devilsdust.</p>
@@ -9750,8 +9639,7 @@
        attending a council of the Union, retired to rest and dreamed of strong speeches and spicy
        resolutions, bands and banners, the cheers of assembled thousands, and the eventual triumph
        of the sacred rights.</p>
-      <p> The post of the next morning brought great and stirring news to Mowbray. Gerard had <pb
-        n="135"/>undergone his examination at Bow Street. It was a long and laborious one; he was
+      <p> The post of the next morning brought great and stirring news to Mowbray. Gerard had <pb n="135"/>undergone his examination at Bow Street. It was a long and laborious one; he was
        committed for trial for a seditious conspiracy, but he was held to bail. The bail demanded
        was heavy; but it was prepared and instantly proffered. His sureties were Morley and a Mr
        Hatton. By this post Morley wrote to his friends, apprising them that both Gerard and himself
@@ -9799,8 +9687,7 @@
        solemnity, this representation of the great cause to which she was devoted under an aspect
        that at once satisfied the reason, captivated the imagination, and elevated the heart—her
        admiration of her father, thus ratified as it were by the sympathy of a nation—added to all
-       the recent passages of her life teeming with such strange and trying interest, overcame <pb
-        n="139"/>Sybil. The tears fell down her cheek as the carriage bore away her father, while
+       the recent passages of her life teeming with such strange and trying interest, overcame <pb n="139"/>Sybil. The tears fell down her cheek as the carriage bore away her father, while
        she remained under the care of one unknown to the people of Mowbray, but who had accompanied
        her from London,—this was Hatton.</p>
       <p> The last light of the sun was shed over the Moor when Gerard reached it, and the Druids’
@@ -9901,8 +9788,7 @@
        Claimed by no one, I parted with them to a person to whom they were valuable. It is not
        merely to serve Gerard that I want them now, though I would willingly serve him. I have need
        of some of these papers with respect to an ancient title, a claim to which by a person in
-       whom I am interested they would substantiate. Now listen, good friend Morley; <pb n="147"
-       />moral force is a fine thing especially in speculation, and so is a community of goods
+       whom I am interested they would substantiate. Now listen, good friend Morley; <pb n="147"/>moral force is a fine thing especially in speculation, and so is a community of goods
        especially when a man has no property, but when you have lived as long as I have and have
        tasted of the world’s delight, you’ll comprehend the rapture of acquisition, and learn that
        it is generally secured by very coarse means. Come, I have a mind that you should prosper.
@@ -9963,8 +9849,7 @@
       <p> “I cannot answer for the public peace for another four-and-twenty hours,” replied his
        companion.</p>
       <p> “This business at Manchester must be stopped at once; you have a good force there?”</p>
-      <p> “Manchester is nothing; these are movements merely to distract. The serious work <pb
-        n="152"/>is not now to be apprehended in the cotton towns. The state of Staffordshire and
+      <p> “Manchester is nothing; these are movements merely to distract. The serious work <pb n="152"/>is not now to be apprehended in the cotton towns. The state of Staffordshire and
        Warwickshire is infinitely more menacing. Cheshire and Yorkshire alarm me. The accounts from
        Scotland are as bad as can be. And though I think the sufferings of ‘39 will keep Birmingham
        and the Welch collieries in check, we cannot venture to move any of our force from those
@@ -10116,8 +10001,7 @@
        duties. Her father, though he had never opposed her wish, had never encouraged it; and he had
        now increased and interesting claims on her devotion. He had endured great trials, and had
        fallen on adverse fortunes. Sybil would look at him, and though his noble frame was still
-       erect and his countenance still displayed that mixture of frankness and decision <pb n="164"
-       />which had distinguished it of yore, she could not conceal from herself that there were
+       erect and his countenance still displayed that mixture of frankness and decision <pb n="164"/>which had distinguished it of yore, she could not conceal from herself that there were
        ravages which time could not have produced. A year and a half of imprisonment had shaken to
        its centre a frame born for action, and shrinking at all times from the resources of
        sedentary life. The disappointment of high hopes had jarred and tangled even the sweetness of
@@ -10176,8 +10060,7 @@
        any in this quarter—”</p>
       <p> “And never see such times as these Mr Trotman, nor the like of such. But I always thought
        it would come to this; everything turned topsy-turvy as it were, the children getting all the
-       wages, and decent folk turned adrift to pick up a living as they could. It’s <pb n="169"
-       />something of a judgment in my mind, Mr Trotman.”</p>
+       wages, and decent folk turned adrift to pick up a living as they could. It’s <pb n="169"/>something of a judgment in my mind, Mr Trotman.”</p>
       <p> “It’s the trade leaving the county, widow, and no mistake.”</p>
       <p> “And how shall we bring it back again?” said the widow; “the police ought to
        interfere.”</p>
@@ -10333,8 +10216,7 @@
        Lady Di with Barham; and a very pleasant life it is.”</p>
       <p> “Well, at any rate we cannot go to Melton now,” said Lady Joan mortified; “and it is
        impossible for me to go to the Moors.”</p>
-      <p> “No, but I could go,” said Mr Mountchesney, “and leave you here. I might have <pb n="181"
-       />gone with Eugene de Vere and Milford and Fitz-heron. They wanted me very much. What a
+      <p> “No, but I could go,” said Mr Mountchesney, “and leave you here. I might have <pb n="181"/>gone with Eugene de Vere and Milford and Fitz-heron. They wanted me very much. What a
        capital party it would have been, and what capital sport we should have had! And I need not
        have been away for more than a month or perhaps six weeks, and I could have written to you
        every day and all that sort of thing.”</p>
@@ -10437,8 +10319,7 @@
        singing. Why did we not go?”</p>
       <p> “I did mention it to you, Alfred.”</p>
       <p> “I remember you said something about going to Mowbray, and that you wanted to go to
-       several places. But there is nothing I hate so much as shopping. It bores me more <pb n="189"
-       />than anything. And you are so peculiarly long when you are shopping. But singing, and
+       several places. But there is nothing I hate so much as shopping. It bores me more <pb n="189"/>than anything. And you are so peculiarly long when you are shopping. But singing, and
        beautiful singing in a Catholic chapel by a woman; perhaps a beautiful woman, that is quite a
        different thing, and I should have been amused, which nobody seems ever to think of here. I
        do not know how you find it, Lady Bardolf, but the country to me in August is a
@@ -10466,8 +10347,7 @@
        oratory. On a table were several volumes, an ebon cross was fixed in a niche, and leaning in
        a high-backed chair, sate Ursula Trafford. Her pale and refined complexion that in her youth
        had been distinguished for its lustre, became her spiritual office; and indeed her whole
-       countenance, the delicate brow, the serene glance, the small aquiline nose, and the <pb
-        n="192"/>well-shaped mouth, firm and yet benignant, betokened the celestial soul that
+       countenance, the delicate brow, the serene glance, the small aquiline nose, and the <pb n="192"/>well-shaped mouth, firm and yet benignant, betokened the celestial soul that
        habited that gracious frame.</p>
       <p> The Lady Superior was not alone; on a low seat by her side, holding her hand, and looking
        up into her face with a glance of reverential sympathy, was a maiden over whose head five
@@ -10608,8 +10488,7 @@
        her to his heart, and soothed her apprehensions with many words of softness. There was a
        knock at the door.</p>
       <p> “Come in,” said Gerard. And there came in Mr Hatton.</p>
-      <p> They had not met since Gerard’s release from York Castle. There Hatton had visited <pb
-        n="203"/>him, had exercised his influence to remedy his grievances, and had more than once
+      <p> They had not met since Gerard’s release from York Castle. There Hatton had visited <pb n="203"/>him, had exercised his influence to remedy his grievances, and had more than once
        offered him the means of maintenance on receiving his freedom. There were moments of
        despondency when Gerard had almost wished that the esteem and regard with which Sybil looked
        upon Hatton might have matured into sentiments of a deeper nature; but on this subject the
@@ -10633,8 +10512,7 @@
        something which may help us over the stile yet.”</p>
       <p> “Well-a-day,” said Gerard, “I once thought if I could get back the lands the people would
        at last have a friend; but that’s past. I have been a dreamer of dreams often when I was
-       overlooking them at work. And so we all have I suppose. I would willingly give up <pb n="205"
-       />my claim if I could be sure the Lancashire lads will not come to harm this bout.”</p>
+       overlooking them at work. And so we all have I suppose. I would willingly give up <pb n="205"/>my claim if I could be sure the Lancashire lads will not come to harm this bout.”</p>
       <p> “‘Tis a more serious business,” said Hatton, “than any thing of the kind that has yet
        happened. The government are much alarmed. They talk of sending the Guards down into the
        north, and bringing over troops from Ireland.”</p>
@@ -10647,8 +10525,7 @@
        Moors here a bit with some good lads it might be different, and I must say so, I must indeed,
        Sybil.”</p>
       <p> “But you are very quiet here I hope,” said Hatton.</p>
-      <p> “Oh! yes,” said Gerard, “I believe our spirit is sufficiently broken at Mowbray. Wages <pb
-        n="206"/>weekly dropping, and just work enough to hinder sheer idleness; that sort of thing
+      <p> “Oh! yes,” said Gerard, “I believe our spirit is sufficiently broken at Mowbray. Wages <pb n="206"/>weekly dropping, and just work enough to hinder sheer idleness; that sort of thing
        keeps the people in very humble trim. But wait a bit, and when they have reached the
        starvation point I fancy we shall hear a murmur.”</p>
       <p> “I remember our friend Morley in ‘39, when we returned from London, gave me a very good
@@ -10708,8 +10585,7 @@
        yet.”</p>
       <p> “It’s grave,” said Master Nixon. “What think you of a deputation there? It might come to
        good.”</p>
-      <p> “I should like to hear the top-sawyer from London,” said Juggins. “We had a Chartist <pb
-        n="211"/>here the other day, but he did not understand our case at all.”</p>
+      <p> “I should like to hear the top-sawyer from London,” said Juggins. “We had a Chartist <pb n="211"/>here the other day, but he did not understand our case at all.”</p>
       <p> “I heard him,” said Master Nixon, “but what’s his Five Points to us? Why he ayn’t got
        tommy among them.”</p>
       <p> “Nor long stints,” said Waghorn.</p>
@@ -10773,8 +10649,7 @@
        all this had been brought about, as most of the great events of history, by the unexpected
        and unobserved influence of individual character.</p>
       <p> A Chartist leader had been residing for some time at Wodgate, ever since the distress had
-       become severe, and had obtained great influence and popularity by assuring a suffering <pb
-        n="216"/>and half-starving population, that they were entitled to four shillings a day and
+       become severe, and had obtained great influence and popularity by assuring a suffering <pb n="216"/>and half-starving population, that they were entitled to four shillings a day and
        two pots of ale, and only eight hours’ work. He was a man of abilities and of popular
        eloquence, and his representations produced an effect; their reception invested him with
        influence, and as he addressed a population who required excitement, being very slightly
@@ -10828,8 +10703,7 @@
        solicited sustenance often in great numbers, but even then their language was mild and
        respectful, and they were easily satisfied and always grateful. A body of two thousand
        persons, for example—the writer speaks of circumstances within his own experience—quitted one
-       morning a manufacturing town in Lancashire, when the strike had continued for <pb n="221"
-       />some time and began to be severely felt, and made a visit to a neighbouring squire of high
+       morning a manufacturing town in Lancashire, when the strike had continued for <pb n="221"/>some time and began to be severely felt, and made a visit to a neighbouring squire of high
        degree. They entered his park in order—men, women, and children—and then seating themselves
        in the immediate vicinity of the mansion, they sent a deputation to announce that they were
        starving and to entreat relief. In the instance in question, the lord of the domain was
@@ -10852,8 +10726,7 @@
        border was trampled on, not a grape plucked; and when they quitted the domain, they gave
        three cheers for the fair castellan.</p>
       <p> The Hell-cats and their following were of a different temper to these gentle Lancashire
-       insurgents. They destroyed and ravaged; sacked and gutted houses; plundered cellars; <pb
-        n="223"/>proscribed bakers as enemies of the people; sequestrated the universal stores of
+       insurgents. They destroyed and ravaged; sacked and gutted houses; plundered cellars; <pb n="223"/>proscribed bakers as enemies of the people; sequestrated the universal stores of
        all truck and tommy shops; burst open doors, broke windows, destroyed the gas works, that the
        towns at night might be in darkness; took union workhouses by storm, burned rate-books in the
        market-place, and ordered public distribution of loaves of bread and flitches of bacon to a
@@ -10864,8 +10737,7 @@
        do his bidding and he too tipsy to repeat it, it is probable that a great destruction of
        these public ways might have taken place.</p>
       <p> Does the reader remember Diggs’ tommy shop? And Master Joseph? Well a terrible scene took
-       place there. The Wodgate girl, with a back like a grasshopper, of the Baptist <pb n="224"
-       />school religion, who had married Tummas, once a pupil of the Bishop and still his fervent
+       place there. The Wodgate girl, with a back like a grasshopper, of the Baptist <pb n="224"/>school religion, who had married Tummas, once a pupil of the Bishop and still his fervent
        follower, although he had cut open his pupil’s head, was the daughter of a man who had worked
        many years in Diggs’ field, had suffered much under his intolerable yoke, and at the present
        moment was deep in his awful ledger. She had heard from her first years of the oppression of
@@ -10941,8 +10813,7 @@
        she strutted about smiling and dispensing patronage.</p>
       <p> The orders for bacon and tea were followed by a very popular demand for cheese. The female
        committee received all the plunder and were very active in its distribution. At length a
-       rumour got about that Master Joseph was entering the names of all present in the tommy <pb
-        n="230"/>books, so that eventually the score might be satisfied. The mob had now very much
+       rumour got about that Master Joseph was entering the names of all present in the tommy <pb n="230"/>books, so that eventually the score might be satisfied. The mob had now very much
        increased. There was a panic among the women, and indignation among the men: a Hell-cat
        advanced and announced that unless the tommy books were all given up to be burnt, they would
        pull down the house. There was no reply: some of the Hell-cats advanced; the women cheered; a
@@ -11168,8 +11039,7 @@
       <p> “Well they are here now,” said Hatton.</p>
       <p> “They are,” said Morley thoughtfully, but more collected.</p>
       <p> “You saw them enter yesterday?” said Hatton. “I was sorry I missed it, but I was taking a
-       walk with the Gerards up Dale to see the cottage where they once lived, and which they <pb
-        n="247"/>used to talk of so much! Was it a strong body?”</p>
+       walk with the Gerards up Dale to see the cottage where they once lived, and which they <pb n="247"/>used to talk of so much! Was it a strong body?”</p>
       <p> “I should say about two thousand men, and as far as bludgeons and iron staves go,
        armed.”</p>
       <p> “A formidable force with no military to encounter them.”</p>
@@ -11250,8 +11120,7 @@
        unbuttoned coat of a police serjeant conquered in fight, a cocked hat, with a white plume,
        which was also a trophy of war, a pair of leather breeches and topped boots, which from their
        antiquity had the appearance of being his authentic property. This was the leader and
-       liberator of the people of England. He carried in his hand a large hammer which <pb n="253"
-       />he had never parted with during the whole of the insurrection; and stopping when he had
+       liberator of the people of England. He carried in his hand a large hammer which <pb n="253"/>he had never parted with during the whole of the insurrection; and stopping when he had
        entered the room, and surveying its inmates with an air at once stupid and arrogant,
        recognizing Field the Chartist, he halloed out, “I tell you I want him. He’s my Lord
        Chancellor and Prime Minister, my head and principal Doggy; I can’t go on without him. Well,
@@ -11291,8 +11160,7 @@
        something for him now. I’m cock of the walk you see, and that’s a sort of thing that don’t
        come twice in a man’s life. One should feel for one’s flesh and blood, and if I find him out
        I’ll make his fortune, or my name is not Simon Hatton.”</p>
-      <p> The creator and counsellor of peers started in his chair and turned pale. A look was <pb
-        n="256"/>interchanged between him and Morley which revealed their mutual thoughts, and the
+      <p> The creator and counsellor of peers started in his chair and turned pale. A look was <pb n="256"/>interchanged between him and Morley which revealed their mutual thoughts, and the
        great antiquary—looking at the Liberator with a glance of blended terror and disgust—walked
        away to the window.</p>
       <p> “Suppose you put an advertisement in your paper,” continued the Bishop. “I know a
@@ -11382,8 +11250,7 @@
        same shadowy lustre on the trees, the same sparkling brilliancy on the waters. A herdsman
        following some kine was crossing the stone bridge, and except their lowing as they stopped
        and sniffed the current of fresh air in its centre, there was not a sound.</p>
-      <p> Suddenly the tramp and hum of a multitude broke upon the sunshiny silence. A vast <pb
-        n="264"/>crowd with some assumption of an ill-disciplined order approached from the
+      <p> Suddenly the tramp and hum of a multitude broke upon the sunshiny silence. A vast <pb n="264"/>crowd with some assumption of an ill-disciplined order approached from the
        direction of Mowbray. At their head rode a man on a white mule. Many of his followers were
        armed with bludgeons and other rude weapons, and moved in files. Behind them spread a more
        miscellaneous throng, in which women were not wanting and even children. They moved rapidly;
@@ -11499,8 +11366,7 @@
       <p> “Gentlemen,” said the Dandy, “the National Holiday has begun—”</p>
       <p> “Three cheers for it!”</p>
       <p> “Silence; hear the Dandy!”</p>
-      <p> “The National Holiday has begun,” continued Mick, “and it seems to me the best <pb n="273"
-       />thing for the people to do is to take a walk in Lord de Mowbray’s park.”</p>
+      <p> “The National Holiday has begun,” continued Mick, “and it seems to me the best <pb n="273"/>thing for the people to do is to take a walk in Lord de Mowbray’s park.”</p>
       <p> This proposition was received with one of those wild shouts of approbation which indicate
        the orator has exactly hit his audience between wind and water. The fact is the public mind
        at this instant wanted to be led, and in Dandy Mick a leader appeared. A leader to be
@@ -11555,8 +11421,7 @@
       <p> She passed through a copse which skirted those woods of Mowbray wherein she had once so
        often rambled with one whose image now hovered over her spirit. Ah! what scenes and changes,
        dazzling and dark, had occurred since the careless though thoughtful days of her early
-       girlhood! Sybil mused: she recalled the moonlit hour when Mr Franklin first paid a visit <pb
-        n="278"/>to their cottage, their walks and wanderings, the expeditions which she planned and
+       girlhood! Sybil mused: she recalled the moonlit hour when Mr Franklin first paid a visit <pb n="278"/>to their cottage, their walks and wanderings, the expeditions which she planned and
        the explanations which she so artlessly gave him. Her memory wandered to their meeting in
        Westminster, and all the scenes of sorrow and of softness of which it was the herald. Her
        imagination raised before her in colours of light and life the morning, the terrible morning
@@ -11592,8 +11457,7 @@
        rode off. Still she determined to proceed. All that she now aimed at was to reach Gerard and
        share his fate.</p>
       <p> A boat put across the river; two men and a crowd of women. The mob had been seen; at least
-       there was positively one person present who had distinguished them in the extreme <pb n="281"
-       />distance, or rather the cloud of dust which they created; there were dreadful stories of
+       there was positively one person present who had distinguished them in the extreme <pb n="281"/>distance, or rather the cloud of dust which they created; there were dreadful stories of
        their violence and devastation. It was understood that a body meant to attack Trafford’s
        works, but, as the narrator added, it was very probable that the greater part would cross the
        bridge and so on to the Moor, where they would hold a meeting.</p>
@@ -11759,8 +11623,7 @@
        housekeeper followed by the female domestics rushed into the room.</p>
       <p> “O! my lady, my lady,” they all exclaimed at the same time, “the Hell-cats are breaking
        into the castle.”</p>
-      <p> Before any one of the terrified company could reply, the voice of Mr Mountchesney <pb
-        n="294"/>was heard. He was approaching them; he was no longer calm. He hurried into the
+      <p> Before any one of the terrified company could reply, the voice of Mr Mountchesney <pb n="294"/>was heard. He was approaching them; he was no longer calm. He hurried into the
        room; he was pale, evidently greatly alarmed. “I have come to you,” he said; “these fellows
        have got in below. While there is time and we can manage them, you must leave the place.”</p>
       <p> “I am ready for anything.” said Lady de Mowbray.</p>
@@ -11771,8 +11634,7 @@
        Their hearts trembled.</p>
       <p> “The mob are in the house, sir,” called out Mr Bentley rushing up to them. “They say they
        will see everything.”</p>
-      <p> “Let them see everything,” said Lady de Mowbray, “but make a condition that they <pb
-        n="295"/>first let us go. Try Alfred, try to manage them before they are utterly
+      <p> “Let them see everything,” said Lady de Mowbray, “but make a condition that they <pb n="295"/>first let us go. Try Alfred, try to manage them before they are utterly
        ungovernable.”</p>
       <p> Mr Mountchesney again left them on this desperate mission. Lady de Mowbray and all the
        women remained in the chamber. Not a word was spoken: the silence was complete. Even the
@@ -11785,8 +11647,7 @@
       <p> After an absence of about five minutes Mr Mountchesney again hurried in and leading away
        Lady de Mowbray, he said, “You haven’t a moment to lose. Follow us!”</p>
       <p> There was a general rush, and following Mr Mountchesney they passed rapidly through
-       several apartments, the fearful noises every moment increasing, until they reached the <pb
-        n="296"/>library which opened on the terrace. The windows were broken, the terrace crowded
+       several apartments, the fearful noises every moment increasing, until they reached the <pb n="296"/>library which opened on the terrace. The windows were broken, the terrace crowded
        with people, several of the mob were in the room, even Lady de Mowbray cried out and fell
        back.</p>
       <p> “Come on,” said Mr Mountchesney. “The mob have possession of the castle. It is our only
@@ -11861,8 +11722,7 @@
        merits.</p>
       <p> While the cellars and offices were thus occupied, bands were parading the gorgeous saloons
        and gazing with wonderment on their decorations and furniture. Some grimy ruffians had thrown
-       themselves with disdainful delight on the satin couches and the state beds: others <pb
-        n="302"/>rifled the cabinets with an idea that they must be full of money, and finding
+       themselves with disdainful delight on the satin couches and the state beds: others <pb n="302"/>rifled the cabinets with an idea that they must be full of money, and finding
        little in their way, had strewn their contents—papers and books and works of art over the
        floors of the apartments; sometimes a band who had escaped from below with booty came up to
        consummate their orgies in the magnificence of the dwelling rooms. Among these were Nixon and
@@ -11874,8 +11734,7 @@
        everything around them.</p>
       <p> But while these scenes of brutal riot were occurring there was one select but resolute
        band who shared in none of these excesses. Morley, followed by half a dozen Mowbray lads and
-       two chosen Hell-cats, leaving all the confusion below, had ascended the great staircase, <pb
-        n="303"/>traced his way down a corridor to the winding steps of the Round Tower, and
+       two chosen Hell-cats, leaving all the confusion below, had ascended the great staircase, <pb n="303"/>traced his way down a corridor to the winding steps of the Round Tower, and
        supplied with the necessary instruments had forced his entrance into the muniment room of the
        castle. It was a circular chamber lined with tall fire-proof cases. These might have
        presented invincible obstacles to any other than the pupils of Bishop Hatton; as it was, in
@@ -12109,8 +11968,7 @@
        and what he conceived was the vindication of popular rights. Lord Marney established him in
        business, and Mick took Devilsdust for a partner. Devilsdust having thus obtained a position
        in society and become a capitalist, thought it but a due homage to the social decencies to
-       assume a decorous appellation, and he called himself by the name of the town <pb n="322"
-       />where he was born. The firm of Radley, Mowbray, and Co., is a rising one; and will probably
+       assume a decorous appellation, and he called himself by the name of the town <pb n="322"/>where he was born. The firm of Radley, Mowbray, and Co., is a rising one; and will probably
        furnish in time a crop of members of Parliament and Peers of the realm. Devilsdust married
        Caroline, and Mrs Mowbray became a great favorite. She was always perhaps a little too fond
        of junketting but she had a sweet temper and a gay spirit, and sustained her husband in the
