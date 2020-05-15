@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18951" xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18951"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -28,13 +30,25 @@
                 <measure unit="words">23459</measure>
                 <measure unit="pages">140</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-            <sourceDesc><bibl type="digitalSource"><title>The Story of Bessie Costrell : VWWP edition </title><author>Ward,
-                        Humphry, Mrs., 1851-1920</author><publisher>Digital Library Program, Indiana
-                        University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7023</idno></bibl><bibl type="firstEdition"><title>The Story of Bessie Costrell</title><author>Ward, Humphry,
-                                Mrs., 1851-1920</author><publisher>Smith, Elder
-                                </publisher><pubPlace>London</pubPlace><date when="1895">1895</date></bibl></sourceDesc>
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2019-11-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource"><title>The Story of Bessie Costrell : VWWP edition
+                        </title><author>Ward, Humphry, Mrs., 1851-1920</author><publisher>Digital
+                        Library Program, Indiana University</publisher><pubPlace>Bloomington,
+                        IN</pubPlace><idno>VAB7023</idno></bibl>
+                <bibl type="firstEdition" n="B8112"><title>The Story of Bessie Costrell</title><author>Ward,
+                        Humphry, Mrs., 1851-1920</author><publisher>Smith, Elder
+                        </publisher><pubPlace>London</pubPlace><date when="1895">1895</date></bibl>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -50,7 +64,8 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+        <revisionDesc>
+            <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2010-08-24">elizabethmunson: Added genre term</change>
             <change when="2010-07-27">elizabethmunson: Removed date from fileDesc title</change>
@@ -116,7 +131,8 @@
                     for the widow; but, in his opinion, she was “nobbut a caselty sort of body,” and
                     the sooner she and her children were taken off to Barnet, where they were to
                     live with her mother, the less she'd cost them as had the looking after her. As
-                    for the crops, they wouldn't pay the debts; not they. And there<pb n="4" xml:id="VAB7023-004"/> was no one after the farm—“nary one”—and didn't seem
+                    for the crops, they wouldn't pay the debts; not they. And there<pb n="4"
+                        xml:id="VAB7023-004"/> was no one after the farm—“nary one”—and didn't seem
                     like to be. That would make another farm on Muster Forrest's hands. Well, and a
                     good job. Landlords must be “took down;” and there was plenty of work going on
                     the railway just now for those that were turned off.</p>
@@ -128,7 +144,8 @@
                     had been his brother's lodger during the greater part of his working life, and
                     since Tom's death he had stayed on with Eliza. She and he suited each other, and
                     the “worritin' childer” had all gone away years since and left them in peace. He
-                    didn't believe Eliza knew where any of them were, except Mary,<pb n="5" xml:id="VAB7023-005"/> “married over to Luton”—and Jim, and Jim's Louisa.
+                    didn't believe Eliza knew where any of them were, except Mary,<pb n="5"
+                        xml:id="VAB7023-005"/> “married over to Luton”—and Jim, and Jim's Louisa.
                     And a good riddance too. There was not one of them knew how to keep a shilling
                     when they'd got one. Still, it was a bit lonesome for Eliza now, with no one but
                     Jim's Louisa to look after her.</p>
@@ -343,7 +360,8 @@
                     burial expenses—Eliza having already, through her burial club, provided herself
                     with a more than regulation interment; and he gave Jim's Louisa her mourning.
                     Nevertheless these things did not avail. It was felt instinctively that he was
-                    not beaten down as he ought to have been, and Mrs. Saunders, the smith's<pb n="20" xml:id="VAB7023-020"/> wife, was applauded when she said to her
+                    not beaten down as he ought to have been, and Mrs. Saunders, the smith's<pb
+                        n="20" xml:id="VAB7023-020"/> wife, was applauded when she said to her
                     neighbours that “you couldn't expeck a man with John Bolderfield's money to have
                     as many feelin's as other people.” Whence it would seem that the capitalist is
                     no more truly popular in small societies than in large.</p>
@@ -416,7 +434,8 @@
                 <p>“Oh, an' then he went on,” pursued Bessie with gusto, “about your bein' too
                     ignorant to put it in the post-office. 'Ee said you'd think Edwards would go an'
                     spend it” (Edwards was the post-master), “an' then he laughed fit to split
-                    'imself. Yer couldn't see more nor the length of your own nose, he said,—<pb n="25" xml:id="VAB7023-025"/> it was edication <emph>you</emph> wanted. As
+                    'imself. Yer couldn't see more nor the length of your own nose, he said,—<pb
+                        n="25" xml:id="VAB7023-025"/> it was edication <emph>you</emph> wanted. As
                     for 'im, 'ee said, 'ee'd have kep' it for you if you'd asked him, but you'd been
                     like a bear with a sore 'ead, 'ee said, ever since Mrs. Moulsey's affair—so 'ee
                     didn't suppose you would.”</p>
@@ -444,7 +463,8 @@
                     the ground fell rapidly to the village, rising again beyond the houses to a
                     great stubble field, newly shorn. Gleaners were already in the field, their bent
                     figures casting sharp shadows on the golden upland, and the field itself
-                    stretched upwards to a great wood that lay folded round the<pb n="27" xml:id="VAB7023-027"/> top of a spreading hill. To the left, beyond the
+                    stretched upwards to a great wood that lay folded round the<pb n="27"
+                        xml:id="VAB7023-027"/> top of a spreading hill. To the left, beyond the
                     hill, a wide plain travelled into the sunset, its level spaces cut by the
                     scrawled elms and hedgerows of the nearer landscape. The beauty of it all—the
                     beauty of an English midland—was of a modest and measured sort, depending
@@ -529,7 +549,8 @@
                     bolted the bedroom door in bodily terror. Otherwise, he was a most docile
                     husband—in the neighbours' opinion, docile to absurdity. He complained of
                     nothing, and took notice of little. Bessie's untidy ways left him indifferent;
-                    his main interest was in a kind of religious dreaming, and in<pb n="33" xml:id="VAB7023-033"/> an Independent paper to which he occasionally wrote a
+                    his main interest was in a kind of religious dreaming, and in<pb n="33"
+                        xml:id="VAB7023-033"/> an Independent paper to which he occasionally wrote a
                     letter. He was gardener at a small house on the hill, and had rather more
                     education than most of his fellows in the village. For the rest, he was fond of
                     his children, and, in his heart of hearts, exceedingly proud of his wife, her
@@ -572,7 +593,8 @@
                 <p>Isaac still smoked, but he was troubled in his mind. A vague presentiment held
                     him, but the pressure brought to bear upon him was strong.</p>
                 <p>“I tell yer the lock isn't a good 'un!” he said, suddenly removing his pipe.</p>
-                <p>Bessie stopped instantly in the middle of another<pb n="36" xml:id="VAB7023-036"/> tirade. She was leaning against the door, arms akimbo, eyes alternately wet
+                <p>Bessie stopped instantly in the middle of another<pb n="36" xml:id="VAB7023-036"
+                    /> tirade. She was leaning against the door, arms akimbo, eyes alternately wet
                     and flaming.</p>
                 <p>“Then, if it isn't,” she said, with a triumphant change of tone, “I'll soon get
                     Flack to see to it—it's nobbut a step. I'll run up after supper.”</p>
@@ -632,7 +654,8 @@
                     rubbish which already stood there was placed on the top of his own box. Then he
                     tried the lock, and pronounced it adequate; he didn't want to have Flack
                     meddling round. Now at the moment of parting with his treasure he was seized
-                    with a sudden fever of secrecy. Bessie meanwhile<pb n="40" xml:id="VAB7023-040"/> hovered about the two men, full of excitement and loquacity. And the
+                    with a sudden fever of secrecy. Bessie meanwhile<pb n="40" xml:id="VAB7023-040"
+                    /> hovered about the two men, full of excitement and loquacity. And the
                     children, shut into the kitchen, wondered what could be the matter.</p>
                 <p>When all was done, Isaac locked the cupboard, and solemnly presented the key to
                     John, who added it to the other round his neck. Then Bessie unlocked the
@@ -772,7 +795,8 @@
                 <p>Meanwhile the landlord was showing the coin to his assistant at the bar.</p>
                 <p>“Rum, ain't it? I niver seed one o' them pieces in the village afore this winter,
                     an' I've been 'ere twenty-two year come April.”</p>
-                <p>A decent-looking labourer, who did not often visit<pb n="50" xml:id="VAB7023-050"/> the Spotted Deer, was leaning over the bar and caught the words.</p>
+                <p>A decent-looking labourer, who did not often visit<pb n="50" xml:id="VAB7023-050"
+                    /> the Spotted Deer, was leaning over the bar and caught the words.</p>
                 <p>“Well, then, I 'ave,” he said promptly. “I mind well as when I were a lad,
                     sixteen year ago, my fayther borrered a bit o' money off John Bolderfield, to
                     buy a cow with—an' there was 'arf of it in them 'arf-crowns.”</p>
@@ -843,7 +867,8 @@
                     fain have spent themselves. But she fought them down, rapidly passing instead
                     into a state of cold terror—terror of Isaac's step—terror of discovery—of the
                     man in the public-house.</p>
-                <p>There was a mousehole in the skirting of the stairs<pb n="55" xml:id="VAB7023-055"/> close to the cupboard. She slipped in a finger, felt
+                <p>There was a mousehole in the skirting of the stairs<pb n="55"
+                        xml:id="VAB7023-055"/> close to the cupboard. She slipped in a finger, felt
                     along an empty space behind, and drew out a key.</p>
                 <p>It turned easily in the cupboard lock, and the two boxes stood revealed, standing
                     apparently just as they stood when John left them. In hot haste Bessie dragged
@@ -885,7 +910,8 @@
                     pondering his weekly paper.</p>
                 <p>But she believed he had begun to notice the drink. Drinking was universal in
                     Clinton, though there was not much drunkenness. Teetotalers were unknown, and
-                    Isaac himself drank his beer freely, and a glass<pb n="58" xml:id="VAB7023-058"/> of spirits, like anybody else on occasion. She had been used for years to
+                    Isaac himself drank his beer freely, and a glass<pb n="58" xml:id="VAB7023-058"
+                    /> of spirits, like anybody else on occasion. She had been used for years to
                     fetch his beer from the public, and she had been careful. But there were
                     signs—</p>
                 <p>Oh! if she could only think of some way of putting it back—this thirty odd
@@ -899,7 +925,8 @@
                 <p>Yet all the time despair was at her heart. So hard to undo! Yet how easy it had
                     been to take and to spend. She thought of that day in September, when she had
                     got the news of her legacy—six shillings a week from an old aunt—her fathers
-                    aunt, whose very existence she had forgotten. The<pb n="59" xml:id="VAB7023-059"/> wild delight of it! Isaac got sixteen shillings a week in wages—here was
+                    aunt, whose very existence she had forgotten. The<pb n="59" xml:id="VAB7023-059"
+                    /> wild delight of it! Isaac got sixteen shillings a week in wages—here was
                     nearly half as much again. She was warned that it would come to an end in two
                     years. But none the less it seemed to her a fortune—and all her life, before it
                     came, mere hard pinching and endurance. She had always been one to spend where
@@ -1002,7 +1029,8 @@
                 <p>And dipping his hands into the box, he began deliberately shovelling the whole
                     hoard into his trousers and waistcoat pockets.</p>
                 <p>Bessie flung herself upon him. He gave her one business-like blow which knocked
-                    her down against the bedroom door. The door yielded to her fall, and<pb n="66" xml:id="VAB7023-066"/> she lay there half stunned, the blood dripping from
+                    her down against the bedroom door. The door yielded to her fall, and<pb n="66"
+                        xml:id="VAB7023-066"/> she lay there half stunned, the blood dripping from
                     her temple.</p>
                 <p>“Noa, I'll not take 'em all,” he said, not even troubling to look where she had
                     fallen. “That 'ud be playing it rayther too low down on old John. I'll leave 'im
@@ -1016,7 +1044,8 @@
                 <p>He ran down the stairs. She, as her senses revived, heard him open the back-door,
                     cross the little garden, and jump the hedge at the end of it.</p>
                 <p>Then she lay absolutely motionless, till suddenly there struck on her ear the
-                    distant sound of heavy steps. They roused her like a goad. She dragged<pb n="67" xml:id="VAB7023-067"/> herself to her feet, shut the box, had just time to
+                    distant sound of heavy steps. They roused her like a goad. She dragged<pb n="67"
+                        xml:id="VAB7023-067"/> herself to her feet, shut the box, had just time to
                     throw it into the cupboard and lock the door, when she heard her husband walk
                     into the kitchen. She crept into her own room, threw herself on the bed, and
                     wrapped her head and eyes in an old shawl, shivering so that the mattresses
@@ -1047,7 +1076,8 @@
                     passion of the speaker. The religious atmosphere had stolen ahout him, melting
                     and subduing.</p>
                 <p>And the first effect of it had been to quicken suddenly his domestic conscience;
-                    to make him think painfully of Bessie and the children as he<pb n="69" xml:id="VAB7023-069"/> climbed the hill. Was his wife going the way of his
+                    to make him think painfully of Bessie and the children as he<pb n="69"
+                        xml:id="VAB7023-069"/> climbed the hill. Was his wife going the way of his
                     son? And he, sitting day after day like a dumb dog, instead of striving with
                     her!</p>
                 <p>He made up his mind hurriedly. “Bessie,” he said, stooping to her and speaking in
@@ -1101,7 +1131,8 @@
                     Frampton—no, that aa can't.”</p>
                 <p>John, indeed, wore a sallow and pinched air, and walked lamely, with a stick.</p>
                 <p>“Noa,” he said peevishly; “it's a beastly place is Frampton; a damp, nassty hole
-                    as iver I saw—gives yer the rheumaticks to look at it. I've 'ad<pb n="73" xml:id="VAB7023-073"/> a doose of a time, I 'ave, I can tell yer—iver sense
+                    as iver I saw—gives yer the rheumaticks to look at it. I've 'ad<pb n="73"
+                        xml:id="VAB7023-073"/> a doose of a time, I 'ave, I can tell yer—iver sense
                     I went. But I'll pull up now.”</p>
                 <p>“Aye, this air'll do yer,” said the other. “Where are yer stoppin'?
                     Costrells'?”</p>
@@ -1132,7 +1163,8 @@
                     imagined he could; and he had found himself too old for new faces and a new
                     society. When he fell ill he had been sorely tempted to send for some of his
                     money, and get himself nursed and cared for at the respectable lodging where he
-                    had put up. But no; in the end he set his teeth and went into<pb n="75" xml:id="VAB7023-075"/> the infirmary. He had planned not to touch his hoard
+                    had put up. But no; in the end he set his teeth and went into<pb n="75"
+                        xml:id="VAB7023-075"/> the infirmary. He had planned not to touch his hoard
                     till he had done with the Frampton job, and returned to Clinton for good. His
                     peasant obstinacy could not endure to be beaten; nor, indeed, could he bring
                     himself to part with his keys, to trust the opening of the hoard even to
@@ -1208,7 +1240,8 @@
                 <p>The colour was ebbing fast from his cheek and lips. Watson threw him a quick
                     professional glance, then rapidly consulted with himself. No; he decided to hold
                     his tongue.</p>
-                <p>“Yo' <emph>are</emph> reg'lar used up,” he said, taking hold<pb n="80" xml:id="VAB7023-080"/> of the old fellow kindly by the arm. “Shall I walk
+                <p>“Yo' <emph>are</emph> reg'lar used up,” he said, taking hold<pb n="80"
+                        xml:id="VAB7023-080"/> of the old fellow kindly by the arm. “Shall I walk
                     yer up the hill?”</p>
                 <p>John withdrew himself.</p>
                 <p>“<emph>Suverins!</emph>” he repeated, in a low hoarse voice. “She ain't got 'em,
@@ -1267,7 +1300,8 @@
                     faint.</p>
                 <p>At the sight all four children ran helter-skelter into the lane, shouting “Mammy!
                     mammy!” in an anguish of fright. Their clamour was caught by the fierce north
-                    wind, which had begun to sweep the hill, and was borne along till it reached<pb n="84" xml:id="VAB7023-084"/> the ears of a woman who was sitting sewing in
+                    wind, which had begun to sweep the hill, and was borne along till it reached<pb
+                        n="84" xml:id="VAB7023-084"/> the ears of a woman who was sitting sewing in
                     a cottage some fifty yards further up the lane. She stepped to her door, opened
                     it and listened.</p>
                 <p>“It's at Bessie's,” she said; “whativer's wrong wi' the childer?”</p>
@@ -1598,7 +1632,8 @@
                 <p>Saunders grew impatient. He pushed John aside, and came to the table, leaning his
                     hands upon it, so as to command Isaac's face.</p>
                 <p>“Now look 'ere, Isaac,” he said, in a different voice from any that he had yet
-                    employed, “let's come to business. These 'ere are the facks o' this<pb n="106" xml:id="VAB7023-106"/> case, and 'ow we're agoin' to get over 'em, I don'
+                    employed, “let's come to business. These 'ere are the facks o' this<pb n="106"
+                        xml:id="VAB7023-106"/> case, and 'ow we're agoin' to get over 'em, I don'
                     see. John leaves his money in your cupboard. Yo' an' he lock it up, an' John
                     goes away with 'is keys 'ung roun' 'is neck. Yo' agree to that? Well an' good.
                     But there's <emph>another</emph> key in your 'ouse, Isaac, as opens John's
@@ -1644,7 +1679,8 @@
                 <p>“'Ere's another, John—two on, 'em,” said Saunders, pulling out a second and a
                     third.</p>
                 <p>John, in a passion of hope, identified them both.</p>
-                <p>“Then,” said Saunders, slapping the table solemnly,<pb n="109" xml:id="VAB7023-109"/> “theer's nobbut one more thing to say—an' sorry I am
+                <p>“Then,” said Saunders, slapping the table solemnly,<pb n="109"
+                        xml:id="VAB7023-109"/> “theer's nobbut one more thing to say—an' sorry I am
                     to say it. Them coins, Isaac”—he pointed a slow finger at Bessie, whose white,
                     fierce face moved involuntarily—“them 'arf-crowns wor paid across the bar lasst
                     night, or the night afore, at Dawson's, by <emph>yor wife</emph>, as is now
@@ -1735,7 +1771,8 @@
                     threaten her with blows—every word stabbed.</p>
                 <p>But her turn had come to strike back. She raised her head; she measured her news
                     against his; and she did it with a kind of exultation.</p>
-                <p>“Then I <emph>will</emph> tell yer—an' I 'ope it 'ull do yer<pb n="115" xml:id="VAB7023-115"/> good. <emph>I</emph> took thirty-one pound o'
+                <p>“Then I <emph>will</emph> tell yer—an' I 'ope it 'ull do yer<pb n="115"
+                        xml:id="VAB7023-115"/> good. <emph>I</emph> took thirty-one pound o'
                     Bolderfield's money then—but it warn't me took the rest. Some one else tuk it,
                     an' I stood by an' saw 'im. When I tried to stop 'im—look 'ere.”</p>
                 <p>She raised her hand, nodding, and pointing to the wound on her brow.</p>
@@ -1765,7 +1802,8 @@
                     I wor frightened about the 'arf-crowns—people 'ad been talkin' so at
                     Dawson's—an' I didn't see no way out—an'—an'—”</p>
                 <p>She ceased, her hand plucking again at the comforter, her throat working.</p>
-                <p>He, too, thought of the loving words he had said<pb n="117" xml:id="VAB7023-117"/> to her, and the memory of them only made his misery the more fierce.</p>
+                <p>He, too, thought of the loving words he had said<pb n="117" xml:id="VAB7023-117"
+                    /> to her, and the memory of them only made his misery the more fierce.</p>
                 <p>“An' there ain't no way out,” he said violently, raising his head. “Yer'll be
                     took before the magistrates next week, an' the assizes 'ull be in February, an'
                     yer'll get six months—if yer don't get more.”</p>
@@ -1778,7 +1816,8 @@
                     yo', 'ee'd never ha' seen the cursed stuff. Yo've dragged 'im down worse nor 'ee
                     were—an' yerself—an' the childer—an' me. An' the drink, an' the lyin'!—it turns
                     a man's stomach to think on it. An' I've been livin' with yer—these twelve
-                    years. I wish to the Lord I'd never seen yer—as<pb n="118" xml:id="VAB7023-118"/> the children 'ad never been born! They'll be known all their life now—as
+                    years. I wish to the Lord I'd never seen yer—as<pb n="118" xml:id="VAB7023-118"
+                    /> the children 'ad never been born! They'll be known all their life now—as
                     'avin' 'ad sich a woman for their mother!”</p>
                 <p>A demon of passion possessed him more and more. He looked at her with murderous
                     eyes, his hand on the table working.</p>
@@ -1895,7 +1934,8 @@
                     been always some thought to protect her from herself. John was not coming back
                     for a long, long time. She would replace the money—of course she would! And she
                     would not take any more—or only a very little. Meanwhile the hours floated by,
-                    dressed in a colour and variety they had never yet possessed for her—<pb n="126" xml:id="VAB7023-126"/> charged with all the delights of wealth, as such a
+                    dressed in a colour and variety they had never yet possessed for her—<pb n="126"
+                        xml:id="VAB7023-126"/> charged with all the delights of wealth, as such a
                     human being under such conditions is able to conceive them.</p>
                 <p>Her nature, indeed, had never gauged its own capacities for pleasure till within
                     the last few months. Excitement, amusement, society—she had grown to them; they
@@ -1937,7 +1977,8 @@
                 <p>“Isaac!” she cried, her tones loud and ringing, “<emph>Isaac!</emph>”</p>
                 <p>There was a sudden sound in the kitchen. She slipped through the door, and ran
                     along the snow-covered garden.</p>
-                <p>Isaac, roused by her call from the deep trance of<pb n="129" xml:id="VAB7023-129"/> exhaustion which only a few minutes before had fallen upon his misery, stood
+                <p>Isaac, roused by her call from the deep trance of<pb n="129" xml:id="VAB7023-129"
+                    /> exhaustion which only a few minutes before had fallen upon his misery, stood
                     up, felt the blast rushing in through the open door at the back, and ran
                     blindly.</p>
                 <p>The door had swung to again. He clutched it open; in the dim weird light, he saw
@@ -1950,7 +1991,8 @@
                 <p>Isaac's shouts for help attracted the notice of a neighbour who was sitting up
                     with her daughter and a new-born child. She roused her son-in-law and his boy,
                     and through them a score of others, deep night though it was.</p>
-                <p>Watson was among the first of those who gathered<pb n="130" xml:id="VAB7023-130"/> round the well. He and others lowered Isaac with ropes into its icy depths,
+                <p>Watson was among the first of those who gathered<pb n="130" xml:id="VAB7023-130"
+                    /> round the well. He and others lowered Isaac with ropes into its icy depths,
                     and drew him up again, while the snow beat upon them all—the straining men—the
                     two dripping shapes emerging from the earth. A murmur of horror greeted the
                     first sight of that marred face on Isaac's arm, as the lanterns fell upon it.
@@ -1963,7 +2005,8 @@
                 <p>The features were already rigid. No one felt the smallest hope. Yet with that
                     futile tenderness all can show to the dead, everything was tried. Mary Anne
                     Waller came—white and speechless—and her deft gentle hands did whatever the
-                    village doctor told her. And there were many other women, too,<pb n="131" xml:id="VAB7023-131"/> who did their best. Some of them, had Bessie dared to
+                    village doctor told her. And there were many other women, too,<pb n="131"
+                        xml:id="VAB7023-131"/> who did their best. Some of them, had Bessie dared to
                     live, would have helped with all their might to fill her cup of punishment to
                     the brim. Now that she had thrown herself on death as her only friend, they were
                     dissolved in pity.</p>
@@ -1977,7 +2020,8 @@
                 <p>“John—yer'd better go home, an' to yer bed—yer can't do no good.”</p>
                 <p>“I'll wait for Mary Anne,” said John, in a shaking whisper—“I'll wait for Mary
                     Anne.”</p>
-                <p>And he stood at the doorway leaning on his stick;<pb n="132" xml:id="VAB7023-132"/> his weak and reddened eyes fixed on his cousin, his mouth open feebly.</p>
+                <p>And he stood at the doorway leaning on his stick;<pb n="132" xml:id="VAB7023-132"
+                    /> his weak and reddened eyes fixed on his cousin, his mouth open feebly.</p>
                 <p>But Mary Anne, weeping, beckoned to another woman who had come up with the little
                     procession, and they began their last offices.</p>
                 <p>“Let us go,” said the doctor kindly, his hand on Isaac's shoulder, “till they
@@ -1990,7 +2034,8 @@
                     thrust it into his pocket without a word. Watson touched his arm. “Don't you
                     destroy it,” he said in warning; “it'll be asked for at the inquest.”</p>
                 <p>The men descended. Watson and the doctor departed. John and Isaac were left alone
-                    in the kitchen. Isaac hung over the fire, which had been<pb n="133" xml:id="VAB7023-133"/> piled up in the hope of restoring warmth to the
+                    in the kitchen. Isaac hung over the fire, which had been<pb n="133"
+                        xml:id="VAB7023-133"/> piled up in the hope of restoring warmth to the
                     drowned woman. Suddenly he took out the letter and, bending his head to the
                     blaze, began to read it.</p>
                 <p>“Isaac, yer a cruel husband to me, an' there's no way fer me but the way I'm
@@ -2004,7 +2049,8 @@
                     yer to kiss me onst, when they bring me in, and jes say, Bessie, I forgive yer.
                     It won't do yer no 'arm, an' p'raps I may 'ear it without your knowin'. So
                     good-bye, Isaac, from yur lovin' wife, Bessie....”</p>
-                <p>As he read it, the man's fixed pallor and iron calm<pb n="134" xml:id="VAB7023-134"/> gave way. He leant againist the mantelpiece, shaken
+                <p>As he read it, the man's fixed pallor and iron calm<pb n="134"
+                        xml:id="VAB7023-134"/> gave way. He leant againist the mantelpiece, shaken
                     at last with the sobs of a human and a helpless remorse.</p>
                 <p>John, from his seat on the settle a few yards away, looked at Isaac miserably.
                     His lips opened now and then as though to speak, then closed again. His brain
@@ -2019,7 +2065,8 @@
                 <p>Mary Anne held the bedroom door open for them, and the two men entered, treading
                     softly.</p>
                 <p>The women stood on either hand crying. They had clothed the dead in white and
-                    crossed her hands upon her breast. A linen covering had been passed,<pb n="135" xml:id="VAB7023-135"/> nun-like, round the head and chin. The wound was
+                    crossed her hands upon her breast. A linen covering had been passed,<pb n="135"
+                        xml:id="VAB7023-135"/> nun-like, round the head and chin. The wound was
                     hidden, and the face lay framed in an oval of pure white, which gave it a
                     strange severity.</p>
                 <p>Isaac bent over her. Was this <emph>Bessie</emph>—Bessie, the human, faulty,
@@ -2033,7 +2080,8 @@
                     obeyed her—groaning within himself, incapable altogether, out of sheer
                     abasement, of saying those words she had asked of him.</p>
                 <p>Then he sat down beside her, motionless. John tried once or twice to speak to
-                    him, but Isaac shook his head impatiently. At last the mere presence<pb n="136" xml:id="VAB7023-136"/> of Bolderfield in the room seemed to anger him. He
+                    him, but Isaac shook his head impatiently. At last the mere presence<pb n="136"
+                        xml:id="VAB7023-136"/> of Bolderfield in the room seemed to anger him. He
                     threw the old man such dark and restless looks that Mary Anne perceived them,
                     and, with instinctive understanding, persuaded John to go.</p>
                 <p>She, however, must needs go with him, and she went. The other woman stayed. Every
@@ -2091,7 +2139,8 @@
                     Isaac Costrell's was a strange and groping soul. But those misjudged him who
                     called him a hypocrite.</p>
                 <p>Yet in truth, during the years that followed, whenever he was not under the
-                    influence of recurrent attacks of melancholia, Isaac did again<pb n="140" xml:id="VAB7023-140"/> derive much comfort from the aspirations and
+                    influence of recurrent attacks of melancholia, Isaac did again<pb n="140"
+                        xml:id="VAB7023-140"/> derive much comfort from the aspirations and
                     self-abasements of religion. No human life would be possible if there were not
                     forces in and round man perpetually tending to repair the wounds and breaches
                     that he himself makes. Misery provokes pity; despair throws itself on a Divine

@@ -15,7 +15,7 @@
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
       <sourceDesc><bibl type="digitalSource"><title>Gutenberg text of Lying Prophets: A Novel</title>
           <ref target="gut:7968"/>
-          </bibl><bibl type="firstEdition"><title>Lying Prophets: A Novel</title><author>Phillpotts, Eden
+      </bibl><bibl type="firstEdition" n="B11027"><title>Lying Prophets: A Novel</title><author>Phillpotts, Eden
                 (1862-1960).</author><publisher>London: A.D.
               Innes</publisher><date>1897</date></bibl></sourceDesc>
     </fileDesc>

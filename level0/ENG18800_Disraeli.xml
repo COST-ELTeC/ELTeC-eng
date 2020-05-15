@@ -13,7 +13,9 @@
 </titleStmt>
 <extent><measure unit="words">171240</measure></extent>
 <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-<sourceDesc><bibl type="digitalSource"><title>Project Gutenberg text of Endymion</title><ref target="gut:7926">Gutenberg</ref></bibl><bibl type="printSource"><title>Endymion</title><author>Disraeli, Benjamin
+<sourceDesc><bibl type="digitalSource"><title>Project Gutenberg text of Endymion</title>
+            <ref target="gut:7926">Gutenberg</ref></bibl>
+            <bibl type="printSource" n="B1984"><title>Endymion</title><author>Disraeli, Benjamin
 (1804-1881).</author><publisher>London: Longmans, Green, and co</publisher><date>1880</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-0"> <p/></encodingDesc>

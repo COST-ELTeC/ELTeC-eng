@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19091" xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19091"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -27,13 +29,27 @@
                 <measure unit="words">64992</measure>
                 <measure unit="pages">323</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-            <sourceDesc><bibl type="digitalSource"><title>Daphne, or Marriage a la Mode : VWWP edition</title><author>Ward,
-                        Humphry, Mrs., 1851-1920</author><publisher>Digital Library Program, Indiana
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2019-11-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource"><title>Daphne, or Marriage a la Mode : VWWP
+                        edition</title><author>Ward, Humphry, Mrs.,
+                        1851-1920</author><publisher>Digital Library Program, Indiana
                         University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7046</idno></bibl><bibl type="firstEdition"><title>Daphne, or Marriage a la Mode</title><author>Ward, Humphry,
-                                Mrs., 1851-1920</author><publisher>Cassell
-                                </publisher><pubPlace>London; New York </pubPlace><date when="1909">1909</date></bibl></sourceDesc>
+                        IN</pubPlace><idno>VAB7046</idno></bibl>
+                <bibl type="firstEdition" n="B0"><title>Daphne, or Marriage a la Mode</title><author>Ward,
+                        Humphry, Mrs., 1851-1920</author><publisher>Cassell
+                        </publisher><pubPlace>London; New York </pubPlace><date when="1909"
+                        >1909</date></bibl>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -49,7 +65,8 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+        <revisionDesc>
+            <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2010-08-25">elizabethmunson: Added genre term</change>
             <change when="2010-07-29">elizabethmunson: Removed date from fileDesc title</change>
@@ -178,8 +195,8 @@
                         Roger, at present—excuse me if I speak frankly—is the chance of regular
                         work. Your poor mother has nothing but her small fixed income, and you
                         haven't a farthing to chuck away on what you call chances. Why, your passage
-                        by the Lucania alone must have cost a pretty penny. I'll bet my
-                        hat you came first class.”</p>
+                        by the Lucania alone must have cost a pretty penny. I'll bet my hat you came
+                        first class.”</p>
                     <pb n="8" xml:id="VAB7046-009"/>
                     <p>The young man was clearly on the brink of an explosion, but controlled
                         himself with an effort. “I paid the winter rate; and mother, who knows the
@@ -200,7 +217,8 @@
                         head on the shoulders, the large blue eyes, lidded and set with a Greek
                         perfection, the delicacy of the lean, slightly hollow cheeks, combined with
                         the astonishing beauty and strength of the head, crowned with ambrosial
-                        curls—these possessions, together with others, had so far made life an<pb n="9" xml:id="VAB7046-010"/> easy and triumphant business for their
+                        curls—these possessions, together with others, had so far made life an<pb
+                            n="9" xml:id="VAB7046-010"/> easy and triumphant business for their
                         owner. The “others,” let it be noted, however, had till now always been
                         present; and, chief amongst them, great wealth and an important and popular
                         father. The father was recently dead, as the black band on the young man's
@@ -256,7 +274,8 @@
                     <p>The old General reddened a little. Privately, he knew very well that his
                         telegram summoning young Barnes from New York had been an act of
                         tyranny—mild, elderly tyranny. He was not amusing himself in Washington,
-                        where he was paying a second visit after an absence of twenty<pb n="12" xml:id="VAB7046-013"/> years. His English soul was disturbed and
+                        where he was paying a second visit after an absence of twenty<pb n="12"
+                            xml:id="VAB7046-013"/> years. His English soul was disturbed and
                         affronted by a wholly new realisation of the strength of America, by the
                         giant forces of the young nation, as they are to be felt pulsing in the
                         Federal City. He was up in arms for the Old World, wondering sorely and
@@ -293,7 +312,8 @@
                         great river, shimmering and streaked with light, swept round the hill, and
                         out into a pearly distance; and on the height the old pillared house with
                         its flanking colonnades stood under the thinly green trees in a sharp light
-                        and shade, which emphasised all its delightful qualities—made,<pb n="14" xml:id="VAB7046-015"/> as it were, the most of it, in response to the
+                        and shade, which emphasised all its delightful qualities—made,<pb n="14"
+                            xml:id="VAB7046-015"/> as it were, the most of it, in response to the
                         eagerness of the crowd now flowing round it.</p>
                     <p>Half-way up the hill Roger suddenly raised his hat.</p>
                     <p>“Who is it?” said the General, putting up his eyeglass.</p>
@@ -445,7 +465,8 @@
                     <p>As for Roger Barnes, he too was steadily subjugated—up to a certain point. He
                         was not sure that he liked Miss Floyd, or her conversation. She was so much
                         mistress of herself and of the company, that his masculine vanity
-                        occasionally rebelled. A little flirt!—that gave<pb n="22" xml:id="VAB7046-023"/> herself airs. It startled his English mind that
+                        occasionally rebelled. A little flirt!—that gave<pb n="22"
+                            xml:id="VAB7046-023"/> herself airs. It startled his English mind that
                         at twenty—for she could be no more—a girl should so take the floor, and hold
                         the stage. Sometimes he turned his back upon her—almost; and Cecilia Boyson
                         held him. But, if there was too much of the “eternal womanly” in Miss Floyd,
@@ -554,7 +575,8 @@
                         that which had mollified the General's scolding on board the steamer. He was
                         indeed handsome, the young Englishman!—a magnificent figure of a man, in
                         height and breadth and general proportions; and in addition, as it seemed to
-                        her, possessed of an absurd and superfluous beauty of feature. What does<pb n="28" xml:id="VAB7046-029"/> a man want with such good looks? This was
+                        her, possessed of an absurd and superfluous beauty of feature. What does<pb
+                            n="28" xml:id="VAB7046-029"/> a man want with such good looks? This was
                         perhaps the girl's first instinctive feeling. She was, indeed, a little
                         dazzled by her new companion, now that she began to realise him. As compared
                         with the average man in Washington or New York, here was an exception—an
@@ -699,7 +721,8 @@
                     <p>“I suppose she meant to keep her?”</p>
                     <p>“Why, of course.”</p>
                     <p>“And the father didn't care?”</p>
-                    <p>“Well, I believe he did,” said Daphne unwillingly<pb n="35" xml:id="VAB7046-037"/> willingly. “Yes, that was very sad. He was quite
+                    <p>“Well, I believe he did,” said Daphne unwillingly<pb n="35"
+                            xml:id="VAB7046-037"/> willingly. “Yes, that was very sad. He was quite
                         devoted to her.”</p>
                     <p>“And you think that's all right?” Barnes looked at his companion,
                         smiling.</p>
@@ -719,7 +742,8 @@
                         an orchard copse; and the white dogwood glittered in the woods.</p>
                     <p>For two people to whom the traditions of the place were dear, this quiet walk
                         through Washington's land had a charm far beyond that of the reconstructed
-                        interior of the house, Here were things unaltered and unalterable,<pb n="36" xml:id="VAB7046-038"/> boundaries, tracks, woods, haunted still by the
+                        interior of the house, Here were things unaltered and unalterable,<pb n="36"
+                            xml:id="VAB7046-038"/> boundaries, tracks, woods, haunted still by the
                         figure of the young master and bridegroom who brought Patsy Curtis there in
                         1759. To the grey-haired curator every foot of them was sacred and familiar;
                         he knew these fields and the records of them better than any detail of his
@@ -775,8 +799,10 @@
                         abroad, she repaid him with information. She told him, not without some
                         secret amusement at the reprobation it excited, the tragic story of Mrs.
                         Verrier. She gave him a full history of her brother's honourable and
-                        brilliant career; and here let it be said that the <foreign xml:lang="fre">précieuse</foreign> in her gave way to the sister, and that she talked
-                        with feeling. And finally she asked him with a smile<pb n="39" xml:id="VAB7046-041"/> whether he admired Miss Floyd. The General, who
+                        brilliant career; and here let it be said that the <foreign xml:lang="fre"
+                            >précieuse</foreign> in her gave way to the sister, and that she talked
+                        with feeling. And finally she asked him with a smile<pb n="39"
+                            xml:id="VAB7046-041"/> whether he admired Miss Floyd. The General, who
                         had in fact been observing Miss Floyd and his nephew with some little
                         uneasiness during the preceding half-hour, replied guardedly that Miss Floyd
                         was pretty and picturesque, and apparently a great talker. Was she a native
@@ -795,7 +821,8 @@
                         possessions, and prospects, during which the General's countenance
                         represented him with great fidelity. A trace of recalcitrance at the
                         beginning—for it was his opinion that Miss Boyson, like most American women,
-                        talked decidedly too much—gave way to close attention<pb n="40" xml:id="VAB7046-042"/> tion, then to astonishment, and finally to a very
+                        talked decidedly too much—gave way to close attention<pb n="40"
+                            xml:id="VAB7046-042"/> tion, then to astonishment, and finally to a very
                         animated observation of Miss Floyd's slender person as she sat a yard or two
                         from him on the other side of the car, laughing, frowning, or chattering
                         with Roger.</p>
@@ -875,7 +902,8 @@
                     <p>Roger's handsome brow puckered in the effort to explain. “They don't think
                         anything's <emph>settled</emph>, you know, as we do at home. Miss Floyd
                         doesn't. They think <emph>they've</emph> got to settle a lot of things that
-                        English girls don't trouble about because they're just told to do 'em, or<pb n="44" xml:id="VAB7046-047"/> not to do 'em, by the people that look
+                        English girls don't trouble about because they're just told to do 'em, or<pb
+                            n="44" xml:id="VAB7046-047"/> not to do 'em, by the people that look
                         after them!”</p>
                     <p>“‘Everything hatched over again, and hatched different,’” said the General,
                         who was an admirer of George Eliot; “that's what they'd like, eh? Pooh!
@@ -991,7 +1019,8 @@
                         the electric fittings were of a Georgian plainness to match the Colonial
                         architecture of the house; the beautiful self-coloured carpet was indeed
                         Persian and costly, but it betrayed its costliness only to the expert.
-                        Altogether, the room, one would have said, of any <foreign xml:lang="fre">bourse moyenne</foreign> with<pb n="50" xml:id="VAB7046-053"/> an eye
+                        Altogether, the room, one would have said, of any <foreign xml:lang="fre"
+                            >bourse moyenne</foreign> with<pb n="50" xml:id="VAB7046-053"/> an eye
                         for beauty. Fine photographs also, of Italian and Dutch pictures, suggested
                         travel, and struck the cultivated cosmopolitan note.</p>
                     <p>Mrs. Verrier looked round it with a smile. It was all as unpretending as the
@@ -1009,7 +1038,8 @@
                     <p>“So <emph>she</emph> bought it! Daphne's amazing!”</p>
                     <p>For what she saw before her was a masterpiece—an excessively costly
                         masterpiece—of the Florentine school, smuggled out of Italy, to the wrath of
-                        the Italian Government, some six months before this date, and since then<pb n="51" xml:id="VAB7046-054"/> lost to general knowledge. Rumour had
+                        the Italian Government, some six months before this date, and since then<pb
+                            n="51" xml:id="VAB7046-054"/> lost to general knowledge. Rumour had
                         given it first to a well-known collection at Boston; then to another at
                         Philadelphia; yet here it was in the possession of a girl of two-and-twenty
                         of whom the great world was just—but only just—beginning to talk.</p>
@@ -1027,7 +1057,8 @@
                         the sweeping dress drawn round her showed her slenderness, or rather her
                         emaciation. Two years before this date Madeleine Verrier had been a great
                         beauty, and she had never yet reconciled herself to physical losses which
-                        were but the outward and visible sign of losses “far more deeply<pb n="52" xml:id="VAB7046-055"/> interfused.” As she sat apparently absorbed in
+                        were but the outward and visible sign of losses “far more deeply<pb n="52"
+                            xml:id="VAB7046-055"/> interfused.” As she sat apparently absorbed in
                         thought before the picture, she moved, half consciously, so that she could
                         no longer see herself in a mirror opposite.</p>
                     <p>Yet her thoughts were in truth much engaged with Daphne and Daphne's
@@ -1045,7 +1076,8 @@
                         man had been doing on his side. That was the astonishing part of it. Mrs.
                         Verrier could not sufficiently admire the skill with which Roger Barnes had
                         so far played his part; could not sufficiently ridicule her own lack of
-                        insight, which at her first meeting with him had pronounced him<pb n="53" xml:id="VAB7046-056"/> stupid. Stupid he might be in the sense that it
+                        insight, which at her first meeting with him had pronounced him<pb n="53"
+                            xml:id="VAB7046-056"/> stupid. Stupid he might be in the sense that it
                         was of no use to expect from him the kind of talk on books, pictures, and
                         first principles which prevailed in Daphne's circle. But Mrs. Verrier
                         thought she had seldom come across a finer sense of tactics than young
@@ -1080,7 +1112,8 @@
                         “advanced.” She shrank, as Roger Barnes had perceived, from no question; she
                         had never been forbidden, had never forbidden herself, any book that she had
                         a fancy to read; and she was as ready to discuss the relative divorce laws
-                        of Massachusetts and Pennsylvania, as the girls of fifty years ago<pb n="55" xml:id="VAB7046-058"/> were to talk of the fashions, or “Evangeline.” In
+                        of Massachusetts and Pennsylvania, as the girls of fifty years ago<pb n="55"
+                            xml:id="VAB7046-058"/> were to talk of the fashions, or “Evangeline.” In
                         any disputed case, moreover, between a man and a woman Daphne was hotly and
                         instinctively on the side of the woman. She had thrown herself therefore
                         with ardour into the defence of Mrs. Verrier; and for her it was not the
@@ -1099,7 +1132,8 @@
                     <p>The effect on Mrs. Verrier was apparently profound. She closed her eyes; her
                         lips quivered; she leant back feebly in her chair, breathing a name. The
                         crisis lasted a few minutes, while the momentary vision faded and the
-                        sunlight crept on. The eyelids unclosed at last,<pb n="56" xml:id="VAB7046-059"/> slowly and painfully, as though shrinking from
+                        sunlight crept on. The eyelids unclosed at last,<pb n="56"
+                            xml:id="VAB7046-059"/> slowly and painfully, as though shrinking from
                         what might greet the eyes beneath them. But the farther wall was now in deep
                         shade. Mrs. Verrier sat up; the emotion which had mastered her like a
                         possession passed away; and rising hurriedly, she went back to the front
@@ -1297,7 +1331,8 @@
                         which she had made so much play at her first meeting with Roger Barnes. She
                         had to tell them that she had just engaged a holiday house for them, to
                         which they might go in instalments throughout the summer. She would pay the
-                        rent, provide a lady-superintendent, and make herself<pb n="66" xml:id="VAB7046-069"/> responsible for all but food expenses. Her small
+                        rent, provide a lady-superintendent, and make herself<pb n="66"
+                            xml:id="VAB7046-069"/> responsible for all but food expenses. Her small
                         face relaxed—became quite soft and charming—as she wrote.</p>
                     <p>“But, my dear,” cried Mrs. Phillips in dismay, as Daphne handed her the
                         letter to read, “you have taken the house on Lake George, and you know the
@@ -1360,7 +1395,8 @@
                         agreeable. The young and foolish might sigh for the flesh-pots of New York;
                         those on whom “the black ox had trodden,” who were at all aware what a vast
                         tormenting, multitudinous, and headstrong world man has been given to
-                        inhabit; those who were engaged in governing any part of that<pb n="70" xml:id="VAB7046-073"/> world, or meant some day to be thus engaged; for
+                        inhabit; those who were engaged in governing any part of that<pb n="70"
+                            xml:id="VAB7046-073"/> world, or meant some day to be thus engaged; for
                         them Washington was indispensable, and New York a mere entertainment.</p>
                     <p>Moreover Washington, at this time of the world's history, was the scene of
                         one of those episodes—those brisker moments in the human comedy—which every
@@ -1438,7 +1474,8 @@
                         really impossible to desert the lad at such a crisis, especially as Laura
                         was so excitable and anxious, and so sure to make her brother pay for it if
                         he failed to support her views and ambitions at the right moment. The
-                        General moreover felt the absolute necessity<pb n="74" xml:id="VAB7046-077"/> of getting to know something more about Miss Floyd, her character, the
+                        General moreover felt the absolute necessity<pb n="74" xml:id="VAB7046-077"
+                        /> of getting to know something more about Miss Floyd, her character, the
                         details of her fortune and antecedents, so that when the great moment came
                         he might be prepared.</p>
                     <p>But the astonishing thing was that of late the whole affair seemed to have
@@ -1448,7 +1485,8 @@
                         Daphne?—or his ambitions, which to the uncle seemed nearer the truth.</p>
                     <p>“Well, where is the nephew?” said Cecilia Boyson's voice in his ear.</p>
                     <p>The General turned. He saw a sharp, though still young face, a thin and
-                        willowy figure, attired in white silk, a <foreign xml:lang="fre">pince-nez</foreign> on the high-pitched nose, and a cool smile.
+                        willowy figure, attired in white silk, a <foreign xml:lang="fre"
+                            >pince-nez</foreign> on the high-pitched nose, and a cool smile.
                         Unconsciously his back stiffened. Miss Boyson invariably roused in him a
                         certain masculine antagonism.</p>
                     <p>“I should be glad if you would tell me,” he said, with some formality. “There
@@ -1496,7 +1534,8 @@
                         arm as he spoke.</p>
                     <p>The General smiled vaguely. “Do you know Mrs. and Miss Maddison?”</p>
                     <p>“Rather!” said the little man. “Miss Elsie's a wonder! As pretty and soft as
-                        they make them, and a Greek scholar besides—took<pb n="77" xml:id="VAB7046-080"/> all sorts of honours at Radcliffe last year. I've
+                        they make them, and a Greek scholar besides—took<pb n="77"
+                            xml:id="VAB7046-080"/> all sorts of honours at Radcliffe last year. I've
                         known her from her cradle.”</p>
                     <p>“What a number of your girls go to college!” said the General, but
                         ungraciously, in the tones of one who no sooner saw an American custom
@@ -1556,7 +1595,8 @@
                     <p>“Have I given you reason to suppose that I was going to do so?” said Roger
                         slowly.</p>
                     <p>“Given me?—given everybody reason?—of course you have!—a dozen times over. I
-                        don't like interfering with your affairs, Roger<pb n="80" xml:id="VAB7046-084"/> —with any young man's affairs—but you must know
+                        don't like interfering with your affairs, Roger<pb n="80"
+                            xml:id="VAB7046-084"/> —with any young man's affairs—but you must know
                         that you have set Washington talking, and it's not fair to a girl—by George
                         it isn't!—when she has given you encouragement and you have made her
                         conspicuous, to begin the same story, in the same place, immediately, with
@@ -1572,8 +1612,8 @@
                         emphasis. “However, it is no good talking, and I don't exactly know why I
                         should put my old oar in. But the fact is I feel a certain responsibility.
                         People here have been uncommonly civil. Well, well!—I've wired to-day to ask
-                        if there is a berth left in the Venetia for Saturday. And you,
-                        I suppose”—the inquiry was somewhat peremptory—“will be going back to New
+                        if there is a berth left in the Venetia for Saturday. And you, I
+                        suppose”—the inquiry was somewhat peremptory—“will be going back to New
                         York?”</p>
                     <pb n="81" xml:id="VAB7046-085"/>
                     <p>“I have no intention of leaving Washington just yet,” said Roger, with
@@ -1689,7 +1729,8 @@
                         in the matter of Daphne Floyd and the Englishman. Daphne, according to her,
                         should be promptly married and her millions taken care of, and the handsome,
                         broad-shouldered fellow impressed the little Frenchwomnan's imagination as a
-                        proper and capable watchdog. She had indeed become aware that something<pb n="87" xml:id="VAB7046-091"/> was wrong, but her acuteness entirely
+                        proper and capable watchdog. She had indeed become aware that something<pb
+                            n="87" xml:id="VAB7046-091"/> was wrong, but her acuteness entirely
                         refused to believe that it had any vital connection with the advent of
                         pretty Elsie Maddison. Meanwhile, to please Daphne, whom she liked, while
                         conscious of a strong and frequent desire to smite her, Madame de Fronsac
@@ -1701,7 +1742,8 @@
                         Roger Barnes in a pointed and public way, bright colour on her cheeks and a
                         wild light in her eyes; the Under-Secretary escorted her and carried her
                         wrap. Washington did not know what to think. For, owing to this conduct of
-                        Daphne's, the charming Boston girl, the other <foreign xml:lang="fre">ingénue</foreign> of the party, fell constantly to the care of young
+                        Daphne's, the charming Boston girl, the other <foreign xml:lang="fre"
+                            >ingénue</foreign> of the party, fell constantly to the care of young
                         Barnes; and to see them stepping along the green ways together, matched
                         almost in height, and clearly of the same English ancestry and race, pleased
                         while it puzzled the spectators.</p>
@@ -1747,7 +1789,8 @@
                     <p>Roger hesitated, but only for a moment. He caught the hand, he gathered its
                         owner into a pair of strong arms, and bending over her, he kissed her.
                         Daphne, suffocated with anger and emotion, broke from him—tottering. Then
-                        sinking on the ground beneath a tree, she burst<pb n="90" xml:id="VAB7046-095"/> into sobbing. Roger, scarlet, with sparkling
+                        sinking on the ground beneath a tree, she burst<pb n="90"
+                            xml:id="VAB7046-095"/> into sobbing. Roger, scarlet, with sparkling
                         eyes, dropped on one knee beside her.</p>
                     <p>“Daphne, I'm a ruffian! Forgive me! you must, Daphne! Look here, I want you
                         to marry me. I've nothing to offer you, of course; I'm a poor man, and
@@ -1816,7 +1859,8 @@
                     <head>CHAPTER V</head>
                     <p><hi>IN</hi> the drawing-room at Heston Park two ladies were seated. One was a
                         well-preserved woman of fifty, with a large oblong face, good features, a
-                        double chin, and abundant grey hair arranged in waved <foreign xml:lang="fre">bandeaux</foreign> above a forehead which should
+                        double chin, and abundant grey hair arranged in waved <foreign
+                            xml:lang="fre">bandeaux</foreign> above a forehead which should
                         certainly have implied strength of character, and a pair of challenging
                         black eyes. Lady Barnes moved and spoke with authority; it was evident that
                         she had been accustomed to do so all her life; to trail silk gowns over
@@ -1986,7 +2030,8 @@
                         “Naughty, naughty 'ittie girl!”—a remark which Beatty, tucked under his ear,
                         and complacently sucking her thumb, received with complete indifference.</p>
                     <p>“There, you see!” said the grandmother, with slightly flushed cheeks, as the
-                        door closed: “the child has been already taught to dislike<pb n="104" xml:id="VAB7046-108"/> me, and if Roger had attempted to kiss me, she
+                        door closed: “the child has been already taught to dislike<pb n="104"
+                            xml:id="VAB7046-108"/> me, and if Roger had attempted to kiss me, she
                         would probably have struck me.”</p>
                     <p>“Oh, no!” cried Mrs. French. “She is a loving little thing.”</p>
                     <p>“Except when she is jealous,” said Lady Barnes, with significance. “I told
@@ -2004,7 +2049,8 @@
                     <p>So that when Mrs. French returned to say that the sun seemed to be coming
                         out, her companion, without heeding, went on, with emotion: “It's my son I
                         am thinking of, Mrs. French. I know you're safe, and that Roger depends upon
-                        Mr. French more than upon anyone else in the<pb n="105" xml:id="VAB7046-109"/> world, so I can't help just saying a word to you about my anxiety. You
+                        Mr. French more than upon anyone else in the<pb n="105" xml:id="VAB7046-109"
+                        /> world, so I can't help just saying a word to you about my anxiety. You
                         know, when Roger married, I don't think he was much in love—in fact, I'm
                         sure he wasn't. But now—it's quite different. Roger has a very soft heart,
                         and he's very domestic. He was always the best of sons to me, and as soon as
@@ -2039,7 +2085,8 @@
                     <p>When Elsie entered, Daphne was walking up and down in excitement.</p>
                     <p>“One cannot really live with bad pictures because they happen to be one's
                         ancestors! We won't do them any harm, mamma! of course not. There is a room
-                        upstairs where they can be stored—most carefully—and anybody<pb n="107" xml:id="VAB7046-111"/> who is interested in them can go and look at
+                        upstairs where they can be stored—most carefully—and anybody<pb n="107"
+                            xml:id="VAB7046-111"/> who is interested in them can go and look at
                         them. If they had only been left as they were painted!—not by Lely, of
                         course, but by some drapery man in his studio—<foreign xml:lang="fre">passe
                             encore</foreign>! they might have been just bearable. But you see some
@@ -2077,7 +2124,8 @@
                         pointed face beneath it; the tumbling masses of her dark hair as contrasted
                         with her general lightness and slenderness; the red of the lips, the
                         whiteness of the hands and brow, the dainty irregularity of feature: these
-                        things made a Watteau sketch of her, all pure<pb n="109" xml:id="VAB7046-113"/> colour and lissomeness, with dots and scratches
+                        things made a Watteau sketch of her, all pure<pb n="109"
+                            xml:id="VAB7046-113"/> colour and lissomeness, with dots and scratches
                         of intense black. Daphne was much handsomer than she had been as a girl, but
                         also a trifle less refined. All her points were intensified—her eyes had
                         more flame; the damask of her cheek was deeper; her grace was wilder, her
@@ -2096,7 +2144,8 @@
                     <p>Lady Barnes's lips trembled with indignation. “The Trescoes who were born and
                         died in this house, belong here!” The tone of the words showed the stab to
                         feeling and self-love. “It would be a sacrilege to move them.”</p>
-                    <p>“Well then, let's move ourselves!” exclaimed<pb n="110" xml:id="VAB7046-114"/> claimed Daphne, springing up. “We can let this house again, can't we,
+                    <p>“Well then, let's move ourselves!” exclaimed<pb n="110" xml:id="VAB7046-114"
+                        /> claimed Daphne, springing up. “We can let this house again, can't we,
                         Roger?”</p>
                     <p>“We can, I suppose,” said Roger, munching his bread and butter; “but we're
                         not going to.”</p>
@@ -2214,7 +2263,8 @@
                     <p>The red mounted in Daphne's cheek. She began, moreover, to feel herself at a
                         disadvantage to which she was not accustomed. Dr. Lelius, meanwhile, turned
                         to Mrs. Fairmile, whenever she was allowed to speak, with a joyous yet
-                        inarticulate deference he had never shown to his<pb n="116" xml:id="VAB7046-120"/> hostess. They understood each other at a word or
+                        inarticulate deference he had never shown to his<pb n="116"
+                            xml:id="VAB7046-120"/> hostess. They understood each other at a word or
                         a glance. Beside them Daphne, with all her cleverness, soon appeared as a
                         child for whom one makes allowances.</p>
                     <p>A vague anger swelled in her throat. She noticed, too, Roger's silence and
@@ -2365,7 +2415,8 @@
                     <p>Daphne made no reply. She continued to look straight before her.</p>
                     <p>“What's the matter with you?” he said, at last.</p>
                     <p>“I'm wondering,” said Daphne slowly, “how many more cousins and great friends
-                        you have, that I know nothing about. I think another<pb n="124" xml:id="VAB7046-128"/> time it would be civil—just that!—to give me a
+                        you have, that I know nothing about. I think another<pb n="124"
+                            xml:id="VAB7046-128"/> time it would be civil—just that!—to give me a
                         word of warning.”</p>
                     <p>Roger pulled at his moustache. “I hadn't an idea she was within a thousand
                         miles of this place! But, if I had, I couldn't have imagined she would have
@@ -2482,7 +2533,8 @@
                     <p>But the more he tried to persuade her the more determined was Daphne to pay
                         the promised visit, and that he should pay it with her. He gave way at last,
                         and she allowed herself to be soothed and caressed. Then, when she seemed to
-                        have recovered herself, he gave her a tragi-comic account of the three<pb n="130" xml:id="VAB7046-134"/> weeks' engagement, and the manner in
+                        have recovered herself, he gave her a tragi-comic account of the three<pb
+                            n="130" xml:id="VAB7046-134"/> weeks' engagement, and the manner in
                         which it had been broken off: caustic enough, one might have thought, to
                         satisfy the most unfriendly listener. Daphne heard it all quietly.</p>
                     <p>Then her maid came, and she donned a tea-gown.</p>
@@ -2579,11 +2631,14 @@
                         queen—I can tell you! She doesn't want Archdeacons prating at her.”</p>
                     <p>“It'll be all right when she knows the people.”</p>
                     <p>“Of course, mother and I get along here all right. We've got to pick up the
-                        threads again; but we do know all the people, and we<pb n="135" xml:id="VAB7046-139"/> like the old place for grandfather's sake, and
+                        threads again; but we do know all the people, and we<pb n="135"
+                            xml:id="VAB7046-139"/> like the old place for grandfather's sake, and
                         all the rest of it. But there isn't much to amuse Daphne here.”</p>
                     <p>“She'll be doing up the house.”</p>
                     <p>“And offending mother all the time. I say, French, don't you think art's an
-                        awful nuisance! When I hear Lelius yarning on about <foreign xml:lang="ita">quattro-cento</foreign> and <foreign xml:lang="ita">cinque-cento</foreign>, I could drown myself. No! I suppose you're
+                        awful nuisance! When I hear Lelius yarning on about <foreign xml:lang="ita"
+                            >quattro-cento</foreign> and <foreign xml:lang="ita"
+                            >cinque-cento</foreign>, I could drown myself. No! I suppose you're
                         tarred with the same brush.” Roger shrugged his shoulders. “Well, I don't
                         care, so long as Daphne gets what she wants, and the place suits the child.”
                         His ruddy countenance took a shade of anxiety.</p>
@@ -2596,7 +2651,8 @@
                         to one of them. But I've heard of a new man at Hereford—awfully good, they
                         say—a wunner! And after all a motor would soon run him out!”</p>
                     <p>He went on talking eagerly about the child, her beauty, her cleverness, the
-                        plans Daphne had for her bringing up, and so on. No other<pb n="136" xml:id="VAB7046-140"/> child ever had been, ever could be, so fetching,
+                        plans Daphne had for her bringing up, and so on. No other<pb n="136"
+                            xml:id="VAB7046-140"/> child ever had been, ever could be, so fetching,
                         so “cunning,” so lovely, such a duck! The Frenches, indeed, possessed a boy
                         of two, reputed handsome. Roger wished to show himself indulgent to anything
                         that might be pleaded for him. “Dear little fellow!”—of course. But Beatty!
@@ -2653,7 +2709,8 @@
                     <p>“Faults on both sides, of course. Fairmile is and always was an unscrupulous
                         beggar! He left Eton just as you came, but I remember him well.”</p>
                     <p>Roger began a sentence to the effect that if Fairmile had no scruples of his
-                        own, Chloe would scarcely have taught him any; but he<pb n="139" xml:id="VAB7046-143"/> checked himself abruptly in the middle, and the
+                        own, Chloe would scarcely have taught him any; but he<pb n="139"
+                            xml:id="VAB7046-143"/> checked himself abruptly in the middle, and the
                         two men passed to other topics. French began to talk of East London, and the
                         parish he was to have there. Roger, indifferent at first, did not remain so.
                         He did not profess, indeed, any enthusiasm of humanity; but French found in
@@ -2672,7 +2729,8 @@
                         him!”</p>
                     <p>“A great deal too much in love with him!” said Daphne, sharply. The day was
                         chilly, with a strong east wind blowing, and Daphne's small figure and face
-                        were enveloped in a marvellous wrap, compounded in equal proportions<pb n="140" xml:id="VAB7046-144"/> portions of Russian sables and white
+                        were enveloped in a marvellous wrap, compounded in equal proportions<pb
+                            n="140" xml:id="VAB7046-144"/> portions of Russian sables and white
                         cloth. It had not long arrived from Worth, and Roger had allowed himself
                         some jibes as to its probable cost. Daphne's “simplicity,” the pose of her
                         girlhood, was in fact breaking down in all directions. The arrogant spending
@@ -2716,7 +2774,8 @@
                     <p>The visit which followed always counted in Roger Barnes's memory as the first
                         act of the tragedy, the first onset of the evil that engulfed him.</p>
                     <p>They found the old Duchess, Mrs. Fairmile, and Dr. Lelius, alone. The Duchess
-                        had been the penniless daughter of an Irish clergyman, married <foreign xml:lang="fre">en secondes noces</foreign> for her somewhat queer and
+                        had been the penniless daughter of an Irish clergyman, married <foreign
+                            xml:lang="fre">en secondes noces</foreign> for her somewhat queer and
                         stimulating personality, by an epicurean duke, who, after having provided
                         the family with a sufficient store of dull children by an aristocratic
                         mother, thought himself at liberty, in his declining years, to please
@@ -2728,7 +2787,8 @@
                     <p>As soon as Mrs. Barnes was seated near her hostess, Lelius—who had an
                         intimate acquaintance, through their pictures, with half the great people of
                         Europe—began to observe the Duchess's impressions. Amused curiosity, first.
-                        Evidently Daphne represented to her one of the<pb n="143" xml:id="VAB7046-147"/> queer, crude types that modern society is always
+                        Evidently Daphne represented to her one of the<pb n="143"
+                            xml:id="VAB7046-147"/> queer, crude types that modern society is always
                         throwing up on the shores of life—like strange beasts from deep-sea
                         soundings.</p>
                     <p>An American heiress, half Spanish—South-American Spanish—with no doubt a dash
@@ -2747,7 +2807,8 @@
                         and Mrs. Fairmile had adjourned to the farther end of the large room,
                         leaving her to the Duchess and Lelius.</p>
                     <p>The small eyes above the Duchess's prominent nose sparkled. “Only
-                        moderately?” The speaker's tone expressed that she had been for<pb n="144" xml:id="VAB7046-148"/> once taken by surprise. “I'm extremely sorry we
+                        moderately?” The speaker's tone expressed that she had been for<pb n="144"
+                            xml:id="VAB7046-148"/> once taken by surprise. “I'm extremely sorry we
                         don't please you, Mrs. Barnes.”</p>
                     <p>“You see, my expectations were so high.”</p>
                     <p>“Is it the country, or the climate, or the people, that won't do?” inquired
@@ -2773,8 +2834,10 @@
                         her brain, even while she went on talking fast and recklessly to the
                         Duchess.</p>
                     <p>At tea-time conversation turned on the various beautiful things which the
-                        room contained—its Nattiers, its Gobelins, its two <foreign xml:lang="fre">dessus de portes</foreign> by Boucher, and its two cabinets, of which
-                        one had belonged to Beaumarchais and the other to the <foreign xml:lang="fre">Appartement du Dauphin</foreign> at Versailles.</p>
+                        room contained—its Nattiers, its Gobelins, its two <foreign xml:lang="fre"
+                            >dessus de portes</foreign> by Boucher, and its two cabinets, of which
+                        one had belonged to Beaumarchais and the other to the <foreign
+                            xml:lang="fre">Appartement du Dauphin</foreign> at Versailles.</p>
                     <p>Daphne restrained herself for a time, asked questions, and affected no
                         special knowledge. Then, at a pause, she lifted a careless hand, inquiring
                         whether “the Fragonard sketch” opposite were not the pendant of one—she
@@ -2787,7 +2850,8 @@
                         lifetime, the intimate knowledge of collections of one who had lived among
                             them<pb n="146" xml:id="VAB7046-150"/> from her childhood—these things
                         had long since given Chloe Fairmile a kind of European reputation. Daphne
-                        stumbled after her, consumed with angry envy, the <foreign xml:lang="fre">précieuse</foreign> in her resenting the easy mastery of Mrs. Fairmile,
+                        stumbled after her, consumed with angry envy, the <foreign xml:lang="fre"
+                            >précieuse</foreign> in her resenting the easy mastery of Mrs. Fairmile,
                         and the wife in her offended by the strange beauty, the soft audacities of a
                         woman who had once, it seemed, held Roger captive, and would, of course,
                         like to hold him captive again.</p>
@@ -2923,7 +2987,8 @@
                     <p>“What were her governesses about?” said the Duchess, pointing to it.
                             “<emph>Really</emph>—the education of our class! Read it!”</p>
                     <p>... “Can I persuade you to come—and bring Mrs. Fairmile—next Tuesday to
-                        dinner, to meet Roger Barnes and his wife? I groan<pb n="153" xml:id="VAB7046-158"/> at the thought, for I think she is quite one of
+                        dinner, to meet Roger Barnes and his wife? I groan<pb n="153"
+                            xml:id="VAB7046-158"/> at the thought, for I think she is quite one of
                         the most disagreeable little creatures I ever saw. But Warton says I must—a
                         Lord-Lieutenant can't pick and choose!—and people as rich as they are have
                         to be considered. I can't imagine why it is she makes herself so odious. All
@@ -2970,7 +3035,8 @@
                         servants—through country lanes chequered with pale sun. As for the Duchess's
                         attack upon her, Chloe smarted. The Duchess had clearly pulled her up, and
                         Chloe was not a person who took it well.</p>
-                    <p>If Roger's American wife was by now wildly jealous of his old <foreign xml:lang="fre">fiancée</foreign>, whose fault was it? Had not Mrs.
+                    <p>If Roger's American wife was by now wildly jealous of his old <foreign
+                            xml:lang="fre">fiancée</foreign>, whose fault was it? Had not Mrs.
                         Barnes herself thrown them perpetually together? Dinners at
                         Upcott!—invitations to Heston!—a resolute frequenting of the same festal
                         gatherings with Mrs. Fairmile. None of it with Roger's goodwill, or his
@@ -2986,7 +3052,8 @@
                         made rather a scandalous use of them. The gossip of the neighbourhood had
                         been no doubt a good deal roused; and Daphne, it seemed, was discontented.
                         But is it not good for such people to be discontented? The money and the
-                        arrogance of Roger's wife had provoked Roger's former <foreign xml:lang="fre">fiancée</foreign> from the beginning; the money to envy,
+                        arrogance of Roger's wife had provoked Roger's former <foreign
+                            xml:lang="fre">fiancée</foreign> from the beginning; the money to envy,
                         and the arrogance to chastisement. Why not? What is society but a
                         discipline?</p>
                     <p>As for Roger, who is it says there is a little polygamy in all men? Anyway, a
@@ -2997,7 +3064,8 @@
                         October, the leaves were still thick on the trees; Nature had not yet
                         resigned herself to death and sleep. Here and there an oak stood, fully
                         green, among the tawny reds and golds of a flaming woodland. The gorse was
-                        yellow on the commons; and in the damp woody ways through which Chloe<pb n="157" xml:id="VAB7046-162"/> passed, a few primroses—frail,
+                        yellow on the commons; and in the damp woody ways through which Chloe<pb
+                            n="157" xml:id="VAB7046-162"/> passed, a few primroses—frail,
                         unseasonable blooms—pushed their pale heads through the moss. The scent of
                         the beech-leaves under foot; the buffeting of a westerly wind; the pleasant
                         yielding of her light frame to the movement of the horse; the glimpses of
@@ -3008,7 +3076,8 @@
                         hedges and uplands; a sky, of shadow below widely brooding over earth, and
                         of a radiant blue flecked with white cloud above:—all the English familiar
                         scene, awoke in Chloe Fairmile a familiar sensuous joy. Life was so
-                        good—every minute, every ounce of it!—from the Duchess's <foreign xml:lang="fre">chef</foreign> to these ethereal splendours of
+                        good—every minute, every ounce of it!—from the Duchess's <foreign
+                            xml:lang="fre">chef</foreign> to these ethereal splendours of
                         autumn—from the warm bath, the luxurious bed, and breakfast, she had but
                         lately enjoyed, to these artistic memories that ran through her brain, as
                         she glanced from side to side, reminded now of Turner, now of De Wint,
@@ -3034,7 +3103,8 @@
                         drawing-room, while Mrs. Barnes and the Duchess were skirmishing—</p>
                     <p>“I <emph>must</emph> speak to you. Something that concerns another
                         person—something urgent.”</p>
-                    <p>Whereupon, unwilling and rather stern compliance<pb n="159" xml:id="VAB7046-164"/> pliance on the man's part—the handsome face
+                    <p>Whereupon, unwilling and rather stern compliance<pb n="159"
+                            xml:id="VAB7046-164"/> pliance on the man's part—the handsome face
                         darkened with most unnecessary frowns. And in the garden, the short colloquy
                         between them—“Of course, I see—you haven't forgiven me! Never mind! I am
                         doing this for someone else—it's a duty.” Then abruptly—“You still have
@@ -3093,7 +3163,8 @@
                         right, beyond the thick screen of trees, was the railway, and she could hear
                         the occasional rush of a train.</p>
                     <p>When she reached the cross road, which led from a station, a labourer opened
-                        the plantation gates for her. As he unlatched the<pb n="162" xml:id="VAB7046-167"/> second, she perceived a man's figure in front of
+                        the plantation gates for her. As he unlatched the<pb n="162"
+                            xml:id="VAB7046-167"/> second, she perceived a man's figure in front of
                         her.</p>
                     <p>“Roger!”</p>
                     <p>A touch of the whip—her horse sprang forward. The man in front looked back
@@ -3112,7 +3183,8 @@
                         yet of great softness. The grace of the long, slender body in the
                         close-fitting habit; of the beautiful head and loosened hair under the
                         small, low-crowned beaver hat; the slender hand upon the reins—all these
-                        various impressions rushed upon Barnes at once,<pb n="163" xml:id="VAB7046-168"/> bringing with them the fascination of a past
+                        various impressions rushed upon Barnes at once,<pb n="163"
+                            xml:id="VAB7046-168"/> bringing with them the fascination of a past
                         happiness, provoking, by contrast, the memory of a harassing and irritating
                         present.</p>
                     <p>“Is Heston getting on?” asked Mrs. Fairmile, smiling.</p>
@@ -3131,7 +3203,8 @@
                     <p>“Hadn't it?” she said, in a low voice.</p>
                     <p>He started. But he neither looked at her nor shook her off.</p>
                     <p>“What—the house?” was the ungracious reply. “I'm sure I don't know; I never
-                        thought about it—whether it was pretty or ugly,<pb n="164" xml:id="VAB7046-169"/> I mean. It suited us, and it amused mother to
+                        thought about it—whether it was pretty or ugly,<pb n="164"
+                            xml:id="VAB7046-169"/> I mean. It suited us, and it amused mother to
                         fiddle about with it.”</p>
                     <p>Mrs. Fairmile withdrew her hand.</p>
                     <p>“Of course a great deal of it was ugly,” she said composedly. “Dear Lady
@@ -3228,7 +3301,8 @@
                     <p>“You're not coming?”</p>
                     <p>“I think I've had enough. I'll go home. Good-bye.”</p>
                     <p>It was a relief. In both minds had risen the image of their arrival
-                        together—amid the crowd of the meet. As he looked at her—gratefully<pb n="169" xml:id="VAB7046-174"/> fully—the grace of her movement, the
+                        together—amid the crowd of the meet. As he looked at her—gratefully<pb
+                            n="169" xml:id="VAB7046-174"/> fully—the grace of her movement, the
                         temptation of her eyes, the rush of old memories suddenly turned his head.
                         He gripped her hand hard for a minute, staring at her.</p>
                     <p>The road in front of them was quite empty. But fifty yards behind them was a
@@ -3264,7 +3338,8 @@
                         she never seemed to think of. And, really, some of the things she said now
                         and then about money—nobody with the spirit of a mouse could stand them.</p>
                     <p>To comfort his worries he went first of all to the nursery, where he found
-                        the nursery-maid in charge, and the child already asleep.<pb n="171" xml:id="VAB7046-176"/> Miss Farmer, it appeared, had been enjoying a
+                        the nursery-maid in charge, and the child already asleep.<pb n="171"
+                            xml:id="VAB7046-176"/> Miss Farmer, it appeared, had been enjoying a
                         “day off,” and was not expected back till late. He knelt down beside the
                         little girl, feeding his eyes upon her. She lay with her delicate face
                         pressed into the pillow, the small neck visible under the cloud of hair, one
@@ -3342,7 +3417,8 @@
                     <p>“I told you this morning. I had a run with the Stoneshire hounds.”</p>
                     <p>“Whom did you meet there?”</p>
                     <p>“Oh, various old acquaintances. Nobody amusing.” He gave two or three names,
-                        his conscience pricking him. Somehow, at that<pb n="175" xml:id="VAB7046-180"/> moment, it seemed impossible to mention Chloe
+                        his conscience pricking him. Somehow, at that<pb n="175"
+                            xml:id="VAB7046-180"/> moment, it seemed impossible to mention Chloe
                         Fairmile.</p>
                     <p>About eleven o'clock that night, Daphne and Lady Barnes having just gone
                         upstairs, Roger and a local Colonel of Volunteers who was dining and
@@ -3450,7 +3526,8 @@
                         learnt the arts of municipal “bossing” in one of the minor towns of
                         Illinois, and had then migrated to Chicago, where for years he was the life
                         and soul of all the bolder and more adventurous corruption of the city. A
-                        jovial, handsome fellow!—with an actor's face, a<pb n="181" xml:id="VAB7046-187"/> bright eye, and a slippery hand. Daphne had a
+                        jovial, handsome fellow!—with an actor's face, a<pb n="181"
+                            xml:id="VAB7046-187"/> bright eye, and a slippery hand. Daphne had a
                         vivid, and, on the whole, affectionate, remembrance of her father, of whom,
                         however, she seldom spoke. The thought of her mother, on the other hand, was
                         always unwelcome. It brought back recollections of storm and tempest; of
@@ -3467,8 +3544,10 @@
                         to put her in possession of her fortune, and the huge sums she had paid him
                         for his services; to her search for education, her hungry determination to
                         rise in the world, the friends she had made at college, in New York,
-                        Philadelphia, Washington. She had been influenced by one <foreign xml:lang="fre">milieu</foreign> after another; she had worked hard, now
-                        at music, now at philosophy; had dabbled in<pb n="182" xml:id="VAB7046-188"/> girls' clubs, and gone to Socialist meetings, and had been all through
+                        Philadelphia, Washington. She had been influenced by one <foreign
+                            xml:lang="fre">milieu</foreign> after another; she had worked hard, now
+                        at music, now at philosophy; had dabbled in<pb n="182" xml:id="VAB7046-188"
+                        /> girls' clubs, and gone to Socialist meetings, and had been all through
                         driven on by the gadfly of an ever-increasing ambition.</p>
                     <p>Ambition for what! She looked back on this early life with a bitter contempt.
                         What had it all come to? Marriage with Roger Barnes!—a hasty passion of
@@ -3604,7 +3683,8 @@
                         manage the hateful operation without bungling.</p>
                     <p>What was the alternative? She seemed to ask it of Roger, as she stood looking
                         down upon him. Patience?—with a man who could never sympathise with her
-                        intellectually or artistically?—the relations of married life with a<pb n="189" xml:id="VAB7046-195"/> husband who made assignations with an old
+                        intellectually or artistically?—the relations of married life with a<pb
+                            n="189" xml:id="VAB7046-195"/> husband who made assignations with an old
                         love, under the eyes of the whole neighbourhood?—the narrowing, cramping
                         influences of English provincial society? No! she was born for other and
                         greater things, and she would grasp them. “My first duty is to myself—to my
@@ -3622,7 +3702,8 @@
                         for the girl's devotion when the moment came; of the gifts already made, and
                         the gratitude already evoked. No; she could be trusted; she had every reason
                         to be true.</p>
-                    <p>Some fitful sleep came to her at last in the<pb n="190" xml:id="VAB7046-196"/> morning hours. But when Roger awoke, she was half-way through her
+                    <p>Some fitful sleep came to her at last in the<pb n="190" xml:id="VAB7046-196"
+                        /> morning hours. But when Roger awoke, she was half-way through her
                         dressing; and when he first saw her, he noticed nothing except that she was
                         paler than usual, and confessed to a broken night.</p>
                     <p>But as the day wore on it became plain to everybody at Heston—to Roger first
@@ -3828,7 +3909,8 @@
                         Really, that woman got on his nerves!</p>
                     <p>Beyond the nursery he had no knowledge whatever of his own house. The attics
                         at Heston were large and rambling. He believed the servants were all in the
-                        other wing, but was not sure; he could only hope that he<pb n="201" xml:id="VAB7046-207"/> might not stumble on some handmaiden's room by
+                        other wing, but was not sure; he could only hope that he<pb n="201"
+                            xml:id="VAB7046-207"/> might not stumble on some handmaiden's room by
                         mistake!</p>
                     <p>A door to the right, at the end of the passage. He tried the key. Thank
                         goodness! It turned without too much noise, and he found himself on the
@@ -3847,7 +3929,8 @@
                         Court suits, yeomanry uniforms, and the like; a medley of old account books,
                         photographs, worthless volumes, and broken ornaments: all the refuse that
                         our too complex life piles about us was represented in the chaos of the
-                        room. Roger pulled and pushed as cautiously as he<pb n="202" xml:id="VAB7046-208"/> could, but making, inevitably, some noise in the
+                        room. Roger pulled and pushed as cautiously as he<pb n="202"
+                            xml:id="VAB7046-208"/> could, but making, inevitably, some noise in the
                         process. At last! He caught sight of some belongings of his own, and was
                         soon joyfully detaching the old Eton desk, of which he was in search, from a
                         pile of miscellaneous rubbish. In doing so, to his dismay, he upset a couple
@@ -3902,7 +3985,8 @@
                         Chloe, and make Daphne happy again! He vowed to himself that he could and
                         would make her happy—just as she had been in their early days together. The
                         memory of her lying white and exhausted after child-birth, with the little
-                        dark head beside her, came across him, and melted<pb n="205" xml:id="VAB7046-211"/> him; he thought of her with longing and
+                        dark head beside her, came across him, and melted<pb n="205"
+                            xml:id="VAB7046-211"/> him; he thought of her with longing and
                         tenderness.</p>
                     <p>With a deep breath he raised himself on his seat; in the old Greek phrase,
                         “the gods breathed courage into his soul”; and as he stretched out an
@@ -3962,7 +4046,8 @@
                     <p>He turned in bewilderment. “Miss Farmer! What on earth are you doing
                         here?”</p>
                     <p>But in his astonishment he had given way to her, and he fell back pale and
-                        frowning, while, without replying, she lifted Daphne—<pb n="208" xml:id="VAB7046-214"/> who had a cut on her forehead and was half
+                        frowning, while, without replying, she lifted Daphne—<pb n="208"
+                            xml:id="VAB7046-214"/> who had a cut on her forehead and was half
                         fainting—from the ground.</p>
                     <p>“Don't come near her, sir!” said the nurse, again warding him off. “You have
                         done quite enough. Let me attend to her.”</p>
@@ -3999,7 +4084,8 @@
                         answer for the consequences if she's disturbed any more.”</p>
                     <p>There was a pause, as though of hesitation. Then Roger's steps receded.</p>
                     <p>Daphne pushed her hair back from her face, and sat staring into the fire.
-                        Everything was decided now. Yet she had rushed upstairs<pb n="210" xml:id="VAB7046-216"/> stairs on Miss Farmer's information with no
+                        Everything was decided now. Yet she had rushed upstairs<pb n="210"
+                            xml:id="VAB7046-216"/> stairs on Miss Farmer's information with no
                         definite purpose. She only knew that—once again—Roger was hiding something
                         from her—doing something secret and disgraceful—and she suddenly resolved to
                         surprise and confront him. With a mind still vaguely running on the legal
@@ -4036,7 +4122,8 @@
                     <p>In one of these side streets stood a house larger than its neighbours, in a
                         bit of front garden, with some decrepit rust-bitten railings between it and
                         the road. It was an old dwelling overtaken by the flood of tenement houses,
-                        which spread north, south, east, and west of<pb n="214" xml:id="VAB7046-218"/> it. Its walls were no less grimy than its neighbours'; but its windows
+                        which spread north, south, east, and west of<pb n="214" xml:id="VAB7046-218"
+                        /> it. Its walls were no less grimy than its neighbours'; but its windows
                         were outlined in cheerful white paint, firelight sparkled through its
                         unshuttered panes, and a bright green door with a brass knocker completed
                         its pleasant air. There were always children outside the Vicarage railings
@@ -4055,7 +4142,8 @@
                         you—or Barnes—command me. He is coming this afternoon?”</p>
                     <p>Herbert French pointed his visitor to a chair.</p>
                     <p>“Of course. And another man—whom I met casually, in Pall Mall this
-                        morning—and had half an hour's talk with—an American<pb n="215" xml:id="VAB7046-219"/> naval officer—an old acquaintance of
+                        morning—and had half an hour's talk with—an American<pb n="215"
+                            xml:id="VAB7046-219"/> naval officer—an old acquaintance of
                         Elsie's—Captain Boyson—will join us also. I met him at Harvard before our
                         wedding, and liked him. He has just come over with his sister for a short
                         holiday, and I ran across him.”</p>
@@ -4092,7 +4180,8 @@
                         though the solicitors here have been co-operating?”</p>
                     <p>French nodded. “I am still rather vague myself. Roger only arrived from New
                         York the day before yesterday. His uncle, General Hobson, died a few weeks
-                        ago, and Roger came rushing home, as I understand, to see if he<pb n="217" xml:id="VAB7046-221"/> could make any ready money out of his
+                        ago, and Roger came rushing home, as I understand, to see if he<pb n="217"
+                            xml:id="VAB7046-221"/> could make any ready money out of his
                         inheritance. Money, in fact, seems to be his chief thought.”</p>
                     <p>“Money? What for? Mrs. Barnes's suit was surely settled long ago?”</p>
                     <p>“Oh, yes—months ago. She got her decree and the custody of the child in
@@ -4129,7 +4218,8 @@
                     <p>“And by the help of evidence that any liar could supply!”</p>
                     <p>“Who were her witnesses?”</p>
                     <p>“Beatty's nurse—one Agnes Farmer—and a young fellow who had been employed on
-                        the decorative work at Heston. There were relations<pb n="219" xml:id="VAB7046-223"/> tions between these two, and Roger tells me they
+                        the decorative work at Heston. There were relations<pb n="219"
+                            xml:id="VAB7046-223"/> tions between these two, and Roger tells me they
                         have married lately, on a partnership bought by Mrs. Barnes. While the work
                         was going on at Heston the young man used to put up at an inn in the country
                         town, and talk scandal at the bar.”</p>
@@ -4138,7 +4228,8 @@
                     <p>“Possibly. Scandal <foreign xml:lang="fre">pour rire</foreign>! Not a soul
                         believed that there was anything more in it than mischief on the woman's
                         side, and a kind of incapacity for dealing with a woman as she deserved, on
-                        the man's. Mrs. Fairmile has been an <foreign xml:lang="fre">intrigante</foreign> from her cradle. Barnes was at one time deeply in
+                        the man's. Mrs. Fairmile has been an <foreign xml:lang="fre"
+                            >intrigante</foreign> from her cradle. Barnes was at one time deeply in
                         love with her. His wife became jealous of her after the marriage, and threw
                         them together, by way of getting at the truth, and he shilly-shallied with
                         the situation, instead of putting a prompt end to it, as of course he ought
@@ -4150,7 +4241,8 @@
                     <p>French assented.</p>
                     <p>“And you suspect that money played a great part in the whole
                         transaction?”</p>
-                    <p>“I don't <emph>suspect</emph>—the evidence goes a long<pb n="220" xml:id="VAB7046-224"/> way beyond that. Mrs. Barnes bought the show! I
+                    <p>“I don't <emph>suspect</emph>—the evidence goes a long<pb n="220"
+                            xml:id="VAB7046-224"/> way beyond that. Mrs. Barnes bought the show! I
                         am told there are a thousand ways of doing it.”</p>
                     <p>Penrose smoked and pondered.</p>
                     <p>“Well, then—what happened? I imagine that by this time Barnes had not much
@@ -4163,12 +4255,14 @@
                         moment she was put into his arms. When he first realised that his wife meant
                         to take her from him, Boyson tells me that he seemed to lose his head. He
                         was like a person unnerved and bewildered, not knowing how to act or where
-                        to turn. First of all, he brought an action—a writ of <foreign xml:lang="lat">habeas corpus</foreign>, I think—to recover his daughter,
+                        to turn. First of all, he brought an action—a writ of <foreign
+                            xml:lang="lat">habeas corpus</foreign>, I think—to recover his daughter,
                         as an English subject. But the fact was he had put it off too long—”</p>
                     <p>“Naturally,” said Penrose, with a shrug. “Not much hope for him—after the
                         decree.”</p>
                     <p>“So he discovered, poor old fellow! The action was, of course, obstructed and
-                        delayed in every way, by the power of Mrs. Barnes's<pb n="221" xml:id="VAB7046-225"/> millions behind the scenes. His lawyers told him
+                        delayed in every way, by the power of Mrs. Barnes's<pb n="221"
+                            xml:id="VAB7046-225"/> millions behind the scenes. His lawyers told him
                         plainly from the beginning that he had precious little chance. And presently
                         he found himself the object of a press campaign in some of the yellow
                         papers—all of it paid for and engineered by his wife. He was held up as the
@@ -4246,7 +4340,8 @@
                         I expect, what a swell he is? A K.C. after seven years—lucky dog!—and last
                         year he was engaged in an Anglo-American case not wholly unlike yours—Brown
                         v. Brown. So I thought of him as the best person among your old friends and
-                        mine to come and give us some private informal help<pb n="225" xml:id="VAB7046-229"/> to-day, before you take any fresh steps—if you do
+                        mine to come and give us some private informal help<pb n="225"
+                            xml:id="VAB7046-229"/> to-day, before you take any fresh steps—if you do
                         take any.”</p>
                     <p>“Awfully good of you both.” The speaker, still wrapped in his fur coat, sat
                         staring at the carpet, a hand on each of his knees. “Awfully good of you,”
@@ -4365,7 +4460,8 @@
                         as Barnes has suffered. Marriage in the eastern States is as sacred as with
                         you—South Carolina allows no divorce at all—but with this licence at our
                         gates, no one is safe, and thousands of our women, in particular—for the
-                        women bring two-thirds of the actions—are going to the deuce, simply<pb n="231" xml:id="VAB7046-235"/> because they have the opportunity of
+                        women bring two-thirds of the actions—are going to the deuce, simply<pb
+                            n="231" xml:id="VAB7046-235"/> because they have the opportunity of
                         going. And the children—it doesn't bear thinking of! Well—no good
                         haranguing! I'm ashamed of my country in this matter—I have been for a long
                         time—and I mean to help Barnes out, <foreign xml:lang="fre">coûte que
@@ -4423,7 +4519,8 @@
                         her necessary residence. My God!”—his voice dropped, became almost
                         inaudible—“if I'd only carried Beatty off <emph>then</emph>!—then and
                         there—the frontier wasn't far off—without waiting for anything more. But I
-                        wouldn't believe that Daphne could persist in such a monstrous<pb n="234" xml:id="VAB7046-238"/> thing, and, if she did, that any decent country
+                        wouldn't believe that Daphne could persist in such a monstrous<pb n="234"
+                            xml:id="VAB7046-238"/> thing, and, if she did, that any decent country
                         would aid and abet her.”</p>
                     <p>Boyson made a movement of protest, as though he could not listen any longer
                         in silence.</p>
@@ -4641,7 +4738,8 @@
                         pause.</p>
                     <p>Daphne assented. “She seems a pretty little thing.”</p>
                     <p>Madeleine Verrier opened her tired eyes to look at Daphne. Mrs. Floyd—as
-                        Daphne now called herself—was dressed in deep black. The<pb n="245" xml:id="VAB7046-251"/> costly gown revealed a figure which had recently
+                        Daphne now called herself—was dressed in deep black. The<pb n="245"
+                            xml:id="VAB7046-251"/> costly gown revealed a figure which had recently
                         become substantial, and the face on which the electric light shone had
                         nothing left in it of the girl, though Daphne Floyd was not yet thirty. The
                         initial beauty of complexion was gone; so was the fleeting prettiness of
@@ -4734,7 +4832,8 @@
                         had accepted her own pleas after her flight from England; how she had
                         defended her against hostile criticism, had supported her during the divorce
                         court proceedings, and triumphed in their result. “You are unhappy? And he
-                        deceived you? Well, then, what more do you want?, Free yourself, my<pb n="250" xml:id="VAB7046-256"/> dear, free yourself! What right have you
+                        deceived you? Well, then, what more do you want?, Free yourself, my<pb
+                            n="250" xml:id="VAB7046-256"/> dear, free yourself! What right have you
                         to bear more children to a man who is a liar and a shuffler? It is our
                         generation that must suffer, for the liberty of those that come after!”</p>
                     <p>What had changed her? Was it simply the approach of mortal illness, the old
@@ -4789,7 +4888,8 @@
                         anticipated the recognition that she herself might never live to see. For
                         the rest she had given herself—with reservations—to the Feminist movement.
                         It was not in her nature to give herself wholly to anything; and she was
-                        instinctively critical of people who professed<pb n="253" xml:id="VAB7046-259"/> fessed to be her leaders, and programmes to which
+                        instinctively critical of people who professed<pb n="253"
+                            xml:id="VAB7046-259"/> fessed to be her leaders, and programmes to which
                         she was expected to subscribe. Wholehearted devotion, which, as she rightly
                         said, meant blind devotion, had never been her line; and she had been on one
                         or two occasions offensively outspoken on the subject of certain leading
@@ -4826,7 +4926,8 @@
                         warmly towards her—and had cause. As she thought of them the tears rose in
                         her eyes. Of course she could never make such things public.</p>
                     <p>Outside the fog seemed to be lifting a little. There was a silvery light in
-                        the south-east, a gleam and radiance over the gorge. If the<pb n="255" xml:id="VAB7046-261"/> moon struggled through, it would be worth while
+                        the south-east, a gleam and radiance over the gorge. If the<pb n="255"
+                            xml:id="VAB7046-261"/> moon struggled through, it would be worth while
                         slipping out after dinner to watch its play upon the great spectacle. She
                         was careful to cherish in herself an openness to noble impressions and to
                         the high poetry of nature and life. And she must not allow herself to be led
@@ -4881,7 +4982,8 @@
                         marriages dissolved! A man or a woman divorced in one State, and still bound
                         in another! The most trivial causes for the break-up of marriage, accepted
                         and acted upon by corrupt courts, and reform blocked by a phalanx of corrupt
-                        interests! Is it all true? An American correspondent of mine—a lady—<pb n="258" xml:id="VAB7046-264"/> repeats to me what you once said, that it
+                        interests! Is it all true? An American correspondent of mine—a lady—<pb
+                            n="258" xml:id="VAB7046-264"/> repeats to me what you once said, that it
                         is the women who bring the majority of the actions. She impresses upon me
                         also the remarkable fact that it is apparently only in a minority of cases
                         that a woman, when she has got rid of her husband, marries someone else. It
@@ -4966,7 +5068,8 @@
                         body had been carried down through the rapids, and recovered, terribly
                         injured, in the deep eddying pool which the river makes below them. He had
                         left no letter or message of any sort behind him. But the reasons for his
-                        suicide were clearly understood by a large public, whose main verdict<pb n="263" xml:id="VAB7046-269"/> upon it was the quiet “What else could he
+                        suicide were clearly understood by a large public, whose main verdict<pb
+                            n="263" xml:id="VAB7046-269"/> upon it was the quiet “What else could he
                         do?”</p>
                     <p>Here, then, on this very spot, he had stood before his leap. Daphne had heard
                         him described by various spectators of the marriage. He had been, it seemed,
@@ -4984,7 +5087,8 @@
                         York's social <foreign xml:lang="fre">élite</foreign>, with her hard,
                         fastidious face, her formidable elegance and self-possession. How she had
                         loathed the marriage! And with what a harpy-like eagerness had she seized on
-                        the first signs of Madeleine's discontent and <foreign xml:lang="fre">ennui</foreign>; persuaded her to come home; prepared the divorce;
+                        the first signs of Madeleine's discontent and <foreign xml:lang="fre"
+                            >ennui</foreign>; persuaded her to come home; prepared the divorce;
                         poisoned public<pb n="264" xml:id="VAB7046-270"/> opinion. It was from a
                         last interview with Mrs. Fanshaw that Leopold Verrier had gone straight to
                         his death. What was it that she had said to him?</p>
@@ -5158,7 +5262,8 @@
                         American law. He is nothing to me.” As she spoke she leant back against the
                         seat and closed her eyes. Boyson saw clearly that excitement and anger had
                         struck down her nervous power, that she might faint or go into hysterics.
-                        Yet a man of remarkable courtesy and pitifulness towards<pb n="273" xml:id="VAB7046-279"/> women was not thereby moved from his purpose. He
+                        Yet a man of remarkable courtesy and pitifulness towards<pb n="273"
+                            xml:id="VAB7046-279"/> women was not thereby moved from his purpose. He
                         had his chance; he could not relinquish it. Only there was something now in
                         her attitude which recalled the young Daphne of years ago; which touched his
                         heart.</p>
@@ -5276,7 +5381,8 @@
                         the past, of which, she supposed, Alfred Boyson knew least; the corrupt use
                         she had made of her money; the false witnesses she had paid for; the bribes
                         she had given. At the time it had seemed to her all part of the campaign, in
-                        the day's work. She had found herself in a <foreign xml:lang="fre">milieu</foreign> that demoralised<pb n="279" xml:id="VAB7046-285"/>
+                        the day's work. She had found herself in a <foreign xml:lang="fre"
+                            >milieu</foreign> that demoralised<pb n="279" xml:id="VAB7046-285"/>
                         ised her; her mind had become like “the dyer's hand, subdued to what it
                         worked in.” Now, she found herself thinking in a sudden terror, “If Alfred
                         Boyson knew so and so!” or, as she looked down on Madeleine's dying face,
@@ -5314,7 +5420,8 @@
                         shafts into the vast tower of spray that holds the centre of the curve.
                         Nature was all youth, glitter and delight; summer was rushing on the gorge;
                         the mingling of wood and water was at its richest and noblest.</p>
-                    <p>Madeleine turned her face towards the gorge,<pb n="281" xml:id="VAB7046-287"/> her wasted hands clasped on her breast. She beckoned Daphne with a smile,
+                    <p>Madeleine turned her face towards the gorge,<pb n="281" xml:id="VAB7046-287"
+                        /> her wasted hands clasped on her breast. She beckoned Daphne with a smile,
                         and Daphne knelt down beside her.</p>
                     <p>“The water!” said the whispering voice; “it was once so terrible. I am not
                         afraid—now.”</p>
@@ -5442,7 +5549,8 @@
                         helped her to do it, had confused the moral values and falsified her
                         conscience. But she was not yet brutalised. Moreover, do what she would, she
                         was still in a world governed by law; a world at the heart of which broods a
-                        power austere and immutable; a power which man did not make,<pb n="288" xml:id="VAB7046-294"/> which, if he clash with it, grinds him to powder.
+                        power austere and immutable; a power which man did not make,<pb n="288"
+                            xml:id="VAB7046-294"/> which, if he clash with it, grinds him to powder.
                         Its manifestations in Daphne's case were slight, but enough. She was not
                         happy, that certainly was clear. She did not suppose she ever would be happy
                         again. Whatever it was—just, heroic, or the reverse—the action by which she
@@ -5459,7 +5567,8 @@
                         side, dreaming rather miserably. The ship, aglow with lights, alive with
                         movement, with talk, laughter and music, glided on between the stars and the
                         unfathomable depths of the mid-Atlantic. Nothing, to north and south,
-                        between her and the poles; nothing but a few feet of iron and<pb n="289" xml:id="VAB7046-295"/> timber between her and the hungry gulfs in which
+                        between her and the poles; nothing but a few feet of iron and<pb n="289"
+                            xml:id="VAB7046-295"/> timber between her and the hungry gulfs in which
                         the highest Alp would sink from sight. The floating palace, hung by
                         Knowledge above Death, just out of Death's reach, suggested to her a number
                         of melancholy thoughts and images. A touch of more than Arctic cold stole
@@ -5497,7 +5606,8 @@
                         probably refuse to see her, as she had once refused to see him. Well, she
                         must try and act with dignity and common sense; she must try and persuade
                         him to recognise her good faith, and to get him to listen to what she
-                        proposed. She had her plan for Roger's reclamation, and was already<pb n="291" xml:id="VAB7046-297"/> in love with it. Naturally, she had never
+                        proposed. She had her plan for Roger's reclamation, and was already<pb
+                            n="291" xml:id="VAB7046-297"/> in love with it. Naturally, she had never
                         meant permanently to hurt or injure Roger! She had done it for his good as
                         well as her own. Yet even as she put this plea forward in the inner tribunal
                         of consciousness, she knew that it was false.</p>
@@ -5637,7 +5747,8 @@
                         the familiar trouble was immediately swallowed up in the new and pressing
                         one.</p>
                     <p>“What can that woman have come to say?” he asked, half of himself, half of
-                        his wife, as he walked slowly back to the house. Elsie had<pb n="298" xml:id="VAB7046-304"/> conveyed the children to their nurse, and was
+                        his wife, as he walked slowly back to the house. Elsie had<pb n="298"
+                            xml:id="VAB7046-304"/> conveyed the children to their nurse, and was
                         beside him.</p>
                     <p>“Perhaps she repents!” The tone was dry and short; it flung a challenge to
                         misdoing.</p>
@@ -5716,7 +5827,8 @@
                         anything—anything! He might suppose it came from some friend.”</p>
                     <p>French smiled sadly. His eyes were on the ground. She bent forward.</p>
                     <p>“I beg of you, Mr. French, not to set yourself against me! Of course”—she
-                        drew herself up proudly—“I know what you must think<pb n="302" xml:id="VAB7046-308"/> of my action. Our views are different,
+                        drew herself up proudly—“I know what you must think<pb n="302"
+                            xml:id="VAB7046-308"/> of my action. Our views are different,
                         irreconcilably different. You probably think all divorce wrong. We think, in
                         America, that a marriage which has become a burden to either party is no
                         marriage, and ought to cease. But that, of course”—she waved a rhetorical
@@ -5734,7 +5846,8 @@
                         weakened. He was badly nursed, and his state of mind at the time—his misery
                         and loneliness—left him little chance. Then the drinking habit, which he
                         contracted during those wretched months in the States, has been of course
-                        sorely against him. However, we hoped against hope<pb n="303" xml:id="VAB7046-309"/> —Elsie and I—till a few weeks ago. Then someone,
+                        sorely against him. However, we hoped against hope<pb n="303"
+                            xml:id="VAB7046-309"/> —Elsie and I—till a few weeks ago. Then someone,
                         we don't know who, made him go to a specialist, and the verdict is—phthisis;
                         not very advanced, but certain and definite. And the general outlook is not
                         favourable.”</p>
@@ -5754,7 +5867,8 @@
                         do not know. But you, at least, will have done something to set yourself
                         right—with God.”</p>
                     <p>The Christian and the priest had spoken; the low voice in its intensity had
-                        seemed to ring through the quiet sun-flooded room.<pb n="304" xml:id="VAB7046-310"/> Daphne rose, trembling with resentment and
+                        seemed to ring through the quiet sun-flooded room.<pb n="304"
+                            xml:id="VAB7046-310"/> Daphne rose, trembling with resentment and
                         antagonism.</p>
                     <p>“It is you, then, Mr. French, who make it impossible for me to discuss—to
                         help. I shall have to see if I can find some other means of carrying out my
@@ -5813,7 +5927,8 @@
                     <p>“I came to try and help you,” Daphne broke out, turning her head away, “to
                         ask Mr. French what I could do. It made me unhappy—”</p>
                     <p>“Did it?” He laughed again. “I don't see why. Oh, you needn't trouble
-                        yourself. Elsie and Herbert are awfully good to me.<pb n="307" xml:id="VAB7046-313"/> They're all I want, or at any rate,” he hesitated
+                        yourself. Elsie and Herbert are awfully good to me.<pb n="307"
+                            xml:id="VAB7046-313"/> They're all I want, or at any rate,” he hesitated
                         a moment, “they're all I <emph>shall</emph> want—from now on. Anyway, you
                         know there'd be something grotesque in your trying your hand at reforming
                         me.”</p>

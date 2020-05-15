@@ -18,7 +18,8 @@
             <extent><measure unit="words">109497</measure></extent>
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
             <sourceDesc><bibl type="digitalSource"><title>Gutenberg text of Mistress and Maid</title><author>Craik, Dinah Marie
-                        (1826-1887).</author><ref target="gut:13461"/></bibl><bibl type="printSource"><title>Mistress and Maid</title><author>Craik, Dinah Marie
+                        (1826-1887).</author><ref target="gut:13461"/></bibl>
+                <bibl type="printSource" n="B6926"><title>Mistress and Maid</title><author>Craik, Dinah Marie
                            </author><publisher>London: Hurst and
                                 Blackett</publisher><date>1863</date></bibl></sourceDesc>
         </fileDesc>

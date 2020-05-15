@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18953" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18953" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -11,14 +12,17 @@
           <name>Lou Burnard</name>
         </respStmt>
       </titleStmt>
-      <extent><measure unit="words">93900</measure></extent>
+      <extent>
+        <measure unit="words">93900</measure>
+      </extent>
       <publicationStmt>
         <p>Published as part of ELTeC <date>2020-03-21</date></p>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource"><title>Lilith: A Romance</title><author> George MacDonald
             </author><title level="s">Christian Classics Ethereal Library</title><publisher>Grand
-            Rapids, MI: Christian Classics Ethereal Library</publisher><date/><bibl type="firstEdition"><title>Lilith: A Romance</title><author>MacDonald, George
+            Rapids, MI: Christian Classics Ethereal Library</publisher><date/><bibl
+              type="firstEdition" n="B8821"><title>Lilith: A Romance</title><author>MacDonald, George
               (1824-1905).</author><publisher>London: Chatto and
             Windus</publisher><date>1895</date></bibl></bibl>
       </sourceDesc>
@@ -55,7 +59,7 @@
 
       </div>
       <div type="liminal">
-       <quote><p>I took a walk on Spaulding's Farm the other afternoon. I saw the setting sun
+        <quote><p>I took a walk on Spaulding's Farm the other afternoon. I saw the setting sun
             lighting up the opposite side of a stately pine wood. Its golden rays straggled into the
             aisles of the wood as into some noble hall. I was impressed as if some ancient and
             altogether admirable and shining family had settled there in that part of the land
@@ -76,13 +80,12 @@
             the finest imaginable sweet musical hum,—as of a distant hive in May, which perchance
             was the sound of their thinking. They had no idle thoughts, and no one without could see
             their work, for their industry was not as in knots and excrescences embayed.</p>
-
-        <p>But I find it difficult to remember them. They fade irrevocably out of my mind even
-            now while I speak and endeavor to recall them, and recollect myself. It is only after a
-            long and serious effort to recollect my best thoughts that I become again aware of their
+          <p>But I find it difficult to remember them. They fade irrevocably out of my mind even now
+            while I speak and endeavor to recall them, and recollect myself. It is only after a long
+            and serious effort to recollect my best thoughts that I become again aware of their
             cohabitancy. If it were not for such families as this, I think I should move out of
             Concord.</p>
-       </quote>
+        </quote>
         <p>Thoreau: <hi>"Walking."</hi></p>
       </div>
     </front>
@@ -6405,11 +6408,11 @@
         <p>"Ah, then, sir," I rejoined, "it is but too plain you have not yet learned to die, and I
           am heartily grieved for you. Such had I too been but for the Lady of Sorrow. I am indeed
           young, but I have wept many tears; pardon me, therefore, if I presume to offer counsel:—Go
-          to the Lady of Sorrow, and `take with both hands'<ref target="#N1"/> what she
-          will give you. Yonder lies her cottage. She is not in it now, but her door stands open,
-          and there is bread and water on her table. Go in; sit down; eat of the bread; drink of the
-          water; and wait there until she appear. Then ask counsel of her, for she is true, and her
-          wisdom is great."</p>
+          to the Lady of Sorrow, and `take with both hands'<ref target="#N1"/> what she will give
+          you. Yonder lies her cottage. She is not in it now, but her door stands open, and there is
+          bread and water on her table. Go in; sit down; eat of the bread; drink of the water; and
+          wait there until she appear. Then ask counsel of her, for she is true, and her wisdom is
+          great."</p>
         <p>He fell to weeping afresh, and I left him weeping. What I said, I fear he did not heed.
           But Mara would find him!</p>
         <p>The sun was down, and the moon unrisen, when I reached the abode of the monsters, but it
@@ -6928,10 +6931,11 @@
           indeed—yet ever expanding, ever making room to receive—was the conscious being where
           things kept entering by so many open doors! When a little breeze brushing a bush of
           heather set its purple bells a ringing, I was myself in the joy of the bells, myself in
-          the joy of the breeze to which responded their sweet <emph>tin-tinning</emph>,<ref target="#N2"/> myself in the joy of the sense, and of the soul that received
-          all the joys together. To everything glad I lent the hall of my being wherein to revel. I
-          was a peaceful ocean upon which the ground-swell of a living joy was continually lifting
-          new waves; yet was the joy ever the same joy, the eternal joy, with tens of thousands of
+          the joy of the breeze to which responded their sweet <emph>tin-tinning</emph>,<ref
+            target="#N2"/> myself in the joy of the sense, and of the soul that received all the
+          joys together. To everything glad I lent the hall of my being wherein to revel. I was a
+          peaceful ocean upon which the ground-swell of a living joy was continually lifting new
+          waves; yet was the joy ever the same joy, the eternal joy, with tens of thousands of
           changing forms. Life was a cosmic holiday.</p>
         <p>Now I knew that life and truth were one; that life mere and pure is in itself bliss; that
           where being is not bliss, it is not life, but life-in-death. Every inspiration of the dark
@@ -7095,8 +7099,7 @@
         <p>Immediately he turned and led the way higher. The scales of his armour flashed like
           flakes of lightning.</p>
         <p>Thought cannot form itself to tell what I felt, thus received by the officers of
-            heaven.<ref target="#N3"/> All I wanted and knew not, must be on its way to
-          me!</p>
+            heaven.<ref target="#N3"/> All I wanted and knew not, must be on its way to me!</p>
         <p>We stood for a moment at the gate whence issued roaring the radiant river. I know not
           whence came the stones that fashioned it, but among them I saw the prototypes of all the
           gems I had loved on earth—far more beautiful than they, for these were living stones—such

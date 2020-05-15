@@ -26,12 +26,14 @@
                 <bibl type="digitalSource"><title>The Man Who Was Thursday</title>
                     <publisher>Christian Classics Ethereal Library </publisher>
                     <idno>ccel/chesterton/thursday.html</idno></bibl>
-                <bibl type="printSource">
-                    <title>The Man Who Was Thursday. A Nightmare</title> by <author>G.K.
+                <bibl type="printSource" n="B0">
+                    <title>The Man Who Was Thursday. A Nightmare</title>
+                    <author>G.K.
                         Chesterton</author>
                     <publisher>Bristol: J.W. Arrowsmith, 11 Quay Street</publisher>
                     <publisher>London: Simpkin, Marshall, Hamilton, Kent &amp; Company Limited
-                    </publisher> First published in <date>1908</date></bibl>
+                    </publisher>
+                    <date>1908</date></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">

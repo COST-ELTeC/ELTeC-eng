@@ -16,7 +16,8 @@
 </extent>
 <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource"><title/><ref target="http://gerald-massey.org.uk/craig"/>
-</bibl><bibl type="printSource"><title>Esther West: a Story</title><author>Isa
+</bibl>
+            <bibl type="printSource" n="B12043"><title>Esther West: a Story</title><author>Isa
 Craig-Knox</author><publisher>London: Cassell &amp; co</publisher><date>1870</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">

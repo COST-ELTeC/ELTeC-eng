@@ -17,7 +17,7 @@
    <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
    <sourceDesc><bibl type="digitalSource"><title>William — an Englishman</title><ref target="gut:7926">Gutenberg</ref>
      <respStmt><resp>Produced by</resp>
-     <name>Al Haines</name></respStmt></bibl><bibl type="firstEdition"><title>William — an Englishman</title>
+      <name>Al Haines</name></respStmt></bibl><bibl type="firstEdition" n="B0"><title>William — an Englishman</title>
        <author>Cicely Hamilton</author><publisher>London: Skeffington</publisher><date>1919</date></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

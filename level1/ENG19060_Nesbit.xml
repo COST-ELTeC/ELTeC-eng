@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19060" xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19060"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -27,13 +29,25 @@
                 <measure unit="words">68607</measure>
                 <measure unit="pages">368</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-            <sourceDesc><bibl type="digitalSource"><title>The Story of the Amulet : VWWP edition </title><author>Nesbit, E.
-                        (Edith), 1858-1924</author><publisher>Digital Library Program, Indiana
-                        University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><idno>VAB7012</idno></bibl><bibl type="firstEdition"><title>The Story of the Amulet</title><author>Nesbit, E. (Edith),
-                                1858-1924</author><publisher>T. Fisher Unwin
-                                </publisher><pubPlace>London </pubPlace><date when="1906">1906</date></bibl></sourceDesc>
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2019-11-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource"><title>The Story of the Amulet : VWWP edition
+                        </title><author>Nesbit, E. (Edith), 1858-1924</author><publisher>Digital
+                        Library Program, Indiana University</publisher><pubPlace>Bloomington,
+                        IN</pubPlace><idno>VAB7012</idno></bibl>
+                <bibl type="firstEdition" n="B0"><title>The Story of the Amulet</title><author>Nesbit, E.
+                       </author><publisher>T. Fisher Unwin
+                        </publisher><pubPlace>London </pubPlace><date when="1906">1906</date></bibl>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -49,7 +63,8 @@
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+        <revisionDesc>
+            <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2010-08-05">elizabethmunson: Added genre term(s)</change>
             <change when="2010-07-27">elizabethmunson: Removed date and "a machine readable
@@ -122,7 +137,8 @@
                     find out exactly when and where the children met the Psammead again. Of course I
                     knew they would meet it, because it was a beast of its word, and when it said a
                     thing would happen, that thing happened without fail. How different from the
-                    people who tell us about what weather it is going to be on<pb n="17" xml:id="VAB7012-010"/> Thursday next, in London, the South Coast, and
+                    people who tell us about what weather it is going to be on<pb n="17"
+                        xml:id="VAB7012-010"/> Thursday next, in London, the South Coast, and
                     Channel!</p>
                 <p>The summer holidays during which the Psammead had been found and the wishes given
                     had been wonderful holidays in the country, and the children had the highest
@@ -134,22 +150,22 @@
                     really the sort of people that wonderful things happen to. So they looked
                     forward to the summer holiday; but when it came everything was different, and
                     very, very horrid. Father had to go out to Manchuria to telegraph news about the
-                    war to the tiresome paper he wrote for—the <title>Daily
-                        Bellower</title>, or something like that, was its name. And Mother,
-                    poor dear Mother, was away in Madeira, because she had been very ill. And The
-                    Lamb—I mean the baby—was with her. And Aunt Emma, who was Mother’s sister, had
-                    suddenly married Uncle Reginald, who was Father’s brother, and they had gone to
-                    China, which is much too far off for you to expect to be asked to spend the
-                    holidays in, however fond your aunt and uncle may be of you. So the children
-                        were<pb n="18" xml:id="VAB7012-011"/> left in the care of old Nurse, who
-                    lived in Fitzroy Street, near the British Museum, and though she was always very
-                    kind to them, and indeed spoiled them far more than would be good for the most
-                    grown‐up of us, the four children felt perfectly wretched, and when the cab had
-                    driven off with Father and all his boxes and guns and the sheepskin, with
-                    blankets and the aluminium mess‐kit inside it, the stoutest heart quailed, and
-                    the girls broke down altogether, and sobbed in each other’s arms, while the boys
-                    each looked out of one of the long gloomy windows of the parlour, and tried to
-                    pretend that no boy would be such a muff as to cry.</p>
+                    war to the tiresome paper he wrote for—the <title>Daily Bellower</title>, or
+                    something like that, was its name. And Mother, poor dear Mother, was away in
+                    Madeira, because she had been very ill. And The Lamb—I mean the baby—was with
+                    her. And Aunt Emma, who was Mother’s sister, had suddenly married Uncle
+                    Reginald, who was Father’s brother, and they had gone to China, which is much
+                    too far off for you to expect to be asked to spend the holidays in, however fond
+                    your aunt and uncle may be of you. So the children were<pb n="18"
+                        xml:id="VAB7012-011"/> left in the care of old Nurse, who lived in Fitzroy
+                    Street, near the British Museum, and though she was always very kind to them,
+                    and indeed spoiled them far more than would be good for the most grown‐up of us,
+                    the four children felt perfectly wretched, and when the cab had driven off with
+                    Father and all his boxes and guns and the sheepskin, with blankets and the
+                    aluminium mess‐kit inside it, the stoutest heart quailed, and the girls broke
+                    down altogether, and sobbed in each other’s arms, while the boys each looked out
+                    of one of the long gloomy windows of the parlour, and tried to pretend that no
+                    boy would be such a muff as to cry.</p>
                 <p>I hope you notice that they were not cowardly enough to cry till their Father had
                     gone; they knew he had quite enough to upset him without that. But when he was
                     gone everyone felt as if it had been trying not to cry all its life, and that it
@@ -178,7 +194,8 @@
                     everyone groaned; they thought of the white house with the beautiful tangled
                     garden—late roses, asters, marigold, sweet mignonette, and feathery asparagus—of
                     the wilderness which someone had once meant to make into an orchard, but which
-                    was now, as Father said, “five acres of thistles haunted by<pb n="20" xml:id="VAB7012-013"/> the ghosts of baby cherry‐trees.” They thought of the
+                    was now, as Father said, “five acres of thistles haunted by<pb n="20"
+                        xml:id="VAB7012-013"/> the ghosts of baby cherry‐trees.” They thought of the
                     view across the valley, where the lime‐kilns looked like Aladdin’s palaces in
                     the sunshine, and they thought of their own sandpit, with its fringe of yellowy
                     grasses and pale, stringy‐stalked wild flowers, and the little holes in the
@@ -260,7 +277,8 @@
                     repeat, but they never got there.</p>
                 <p>Between Fitzroy Street and St James’s Park there are a great many streets, and,
                     if you go the right way you will pass a great many shops that you cannot
-                    possibly help stopping to look at. The children stopped to look at<pb n="24" xml:id="VAB7012-017"/> several with gold‐lace and beads and pictures and
+                    possibly help stopping to look at. The children stopped to look at<pb n="24"
+                        xml:id="VAB7012-017"/> several with gold‐lace and beads and pictures and
                     jewellery and dresses, and hats, and oysters and lobsters in their windows, and
                     their sorrow did not seem nearly so impossible to bear as it had done in the
                     best parlour at No. 300, Fitzroy Street.</p>
@@ -278,7 +296,8 @@
                 <p>They went on, and Cyril tried to think out a scheme for making his fortune as a
                     gold‐digger at Klondyke, and then buying all the caged birds in the world and
                     setting them free. Then they came to a shop that sold cats, but the cats were in
-                    cages, and the children could not help wishing some one<pb n="25" xml:id="VAB7012-018"/> would buy all the cats and put them on hearthrugs,
+                    cages, and the children could not help wishing some one<pb n="25"
+                        xml:id="VAB7012-018"/> would buy all the cats and put them on hearthrugs,
                     which are the proper places for cats. And there was the dog‐shop, and that was
                     not a happy thing to look at either, because all the dogs were chained or caged,
                     and all the dogs, big and little, looked at the four children with sad wistful
@@ -361,7 +380,8 @@
                     the white rat. Now you are not to look at that hutch whatever I say.”</p>
                 <p>He stood in front of it to prevent mistakes.</p>
                 <p>“Now get yourselves ready for a great surprise. In that hutch there’s an old
-                    friend of ours—<emph>don’t</emph> look!—Yes; it’s the Psammead,<pb n="30" xml:id="VAB7012-023"/> the good old Psammead! it wants us to buy it. It says
+                    friend of ours—<emph>don’t</emph> look!—Yes; it’s the Psammead,<pb n="30"
+                        xml:id="VAB7012-023"/> the good old Psammead! it wants us to buy it. It says
                     you’re not to look at it. Look at the white rat and count your money! On your
                     honour don’t look!<corr>”</corr></p>
                 <p>The others responded nobly. They looked at the white rat till they quite stared
@@ -403,7 +423,8 @@
                         <emph>be</emph> a buyer—but I never had a customer yet as wanted to buy
                     mice, and lizards, and toads, and guineas all at once. So hout you goes.”</p>
                 <p>“Oh! wait a minute,” said the wretched Cyril, feeling how foolishly yet
-                    well‐meaningly he had carried out the Psammead’s<pb n="32" xml:id="VAB7012-025"/> instructions. “Just tell me one thing. What do you want for the mangy old
+                    well‐meaningly he had carried out the Psammead’s<pb n="32" xml:id="VAB7012-025"
+                    /> instructions. “Just tell me one thing. What do you want for the mangy old
                     monkey in the third hutch from the end?”</p>
                 <p>The shopman only saw in this a new insult.</p>
                 <p>“Mangy young monkey yourself,” said he; “get along with your blooming cheek. Hout
@@ -860,7 +881,8 @@
                     in jewellers’ shops.</p>
                 <p>The “poor learned gentleman” was sitting at a table in the window, looking at
                     something very small which he held in a pair of fine pincers. He had a round
-                    spy‐glass sort of thing in one eye—which reminded the<pb n="57" xml:id="VAB7012-050"/> children of watchmakers, and also of the long snail’s
+                    spy‐glass sort of thing in one eye—which reminded the<pb n="57"
+                        xml:id="VAB7012-050"/> children of watchmakers, and also of the long snail’s
                     eyes of the Psammead.</p>
                 <p>The gentleman was very long and thin, and his long, thin boots stuck out under
                     the other side of his table. He did not hear the door open, and the children
@@ -1009,7 +1031,8 @@
                     forgot them.</p>
                 <p>Anthea caught the others at the stair‐foot. They woke the Psammead, and it taught
                     them exactly how to use the word of power, and to make the charm speak. I am not
-                    going to tell you how this is done, because you might try to do it. And for<pb n="66" xml:id="VAB7012-059"/> you any such trying would be almost sure to
+                    going to tell you how this is done, because you might try to do it. And for<pb
+                        n="66" xml:id="VAB7012-059"/> you any such trying would be almost sure to
                     end in disappointment. Because in the first place it is a thousand million to
                     one against your ever getting hold of the right sort of charm, and if you did,
                     there would be hardly any chance at all of your finding a learned gentleman
@@ -1049,7 +1072,8 @@
                     that everyone could understand, if we only knew what it was. Nor can I tell you
                     how the charm spoke, nor whether it was the charm that spoke, or some presence
                     in the charm. The children could not have told you either. Indeed, they could
-                    not look at the charm while it was speaking, because<pb n="68" xml:id="VAB7012-061"/> the light was too bright. They looked instead at the
+                    not look at the charm while it was speaking, because<pb n="68"
+                        xml:id="VAB7012-061"/> the light was too bright. They looked instead at the
                     green radiance on the faded Kidderminster carpet at the edge of the circle. They
                     all felt very quiet, and not inclined to ask questions or fidget with their
                     feet. For this was not like the things that had happened in the country when the
@@ -1108,7 +1132,8 @@
                     his son after him, the Amulet was sold by those who came after to a merchant,
                     and from him you bought it, and it is here, and now, the name of power having
                     been spoken, I also am here.”</p>
-                <p>This is what the voice said. I think it must have meant Napoleon by the small<pb n="71" xml:id="VAB7012-064"/> man, the conqueror. Because I know I have been
+                <p>This is what the voice said. I think it must have meant Napoleon by the small<pb
+                        n="71" xml:id="VAB7012-064"/> man, the conqueror. Because I know I have been
                     told that he took an army to Egypt, and that afterwards a lot of wise people
                     went grubbing in the sand, and fished up all sorts of wonderful things, older
                     than you would think possible. And of these I believe this charm to have been
@@ -1127,7 +1152,8 @@
                     were safe in it—all of you?”</p>
                 <p>“Yes,” said the voice. “You must hold me up, and speak the word of power, and one
                     by one, beginning with the first‐born, you shall pass through me into the Past.
-                    But let the last that passes be the one that holds<pb n="72" xml:id="VAB7012-065"/> me, and let him not lose his hold, lest you lose me,
+                    But let the last that passes be the one that holds<pb n="72"
+                        xml:id="VAB7012-065"/> me, and let him not lose his hold, lest you lose me,
                     and so remain in the Past for ever.”</p>
                 <p>“That’s a nasty idea,” said Robert.</p>
                 <p>“When you desire to return,” the beautiful voice went on, “hold me up towards the
@@ -1188,7 +1214,8 @@
                 <p>It is no use to pretend that the children did not feel a good deal of agitation
                     at the thought of going through the charm into the Past. That idea, that perhaps
                     they might stay in the Past and never get back again, was anything but pleasing.
-                    Yet no one would have dared to suggest that the charm should<pb n="75" xml:id="VAB7012-068"/> not be used; and though each was in its heart very
+                    Yet no one would have dared to suggest that the charm should<pb n="75"
+                        xml:id="VAB7012-068"/> not be used; and though each was in its heart very
                     frightened indeed, they would all have joined in jeering at the cowardice of any
                     one of them who should have uttered the timid but natural suggestion, “Don’t
                     let’s!”</p>
@@ -1208,7 +1235,8 @@
                     clothes, besides your not being able to wash your hands and faces
                     afterwards.”</p>
                 <p>So Cyril took the shilling, and they all started off. They went round by the
-                    Tottenham Court Road to buy a piece of waterproof<pb n="76" xml:id="VAB7012-069"/> sheeting to put over the Psammead in case it should be raining in the Past
+                    Tottenham Court Road to buy a piece of waterproof<pb n="76" xml:id="VAB7012-069"
+                    /> sheeting to put over the Psammead in case it should be raining in the Past
                     when they got there. For it is almost certain death to a Psammead to get
                     wet.</p>
                 <p>The sun was shining very brightly, and even London looked pretty. Women were
@@ -1414,13 +1442,13 @@
                 <p>“Do say something,” whispered Anthea.</p>
                 <p>“We come,” said Cyril, with some dim remembrance of a dreadful day when he had
                     had to wait in an outer office while his father<pb n="88" xml:id="VAB7012-081"/>
-                    interviewed a solicitor, and there had been nothing to read but the
-                            <title>Daily Telegraph</title> —“we come from the world
-                    where the sun never sets. And peace with honour is what we want. We are the
-                    great Anglo‐Saxon or conquering race. Not that we want to conquer
-                        <emph>you</emph>,” he added hastily. “We only want to look at your houses
-                    and your—well, at all you’ve got here, and then we shall return to our own
-                    place, and tell of all that we have seen so that your name may be famed.”</p>
+                    interviewed a solicitor, and there had been nothing to read but the <title>Daily
+                        Telegraph</title> —“we come from the world where the sun never sets. And
+                    peace with honour is what we want. We are the great Anglo‐Saxon or conquering
+                    race. Not that we want to conquer <emph>you</emph>,” he added hastily. “We only
+                    want to look at your houses and your—well, at all you’ve got here, and then we
+                    shall return to our own place, and tell of all that we have seen so that your
+                    name may be famed.”</p>
                 <p>Cyril’s speech didn’t keep the crowd from pressing round and looking as eagerly
                     as ever at the clothing of the children. Anthea had an idea that these people
                     had never seen woven stuff before, and she saw how wonderful and strange it must
@@ -1451,7 +1479,8 @@
                     the village, and now for the first time they were able to look about them and to
                     see something more than a crowd of eager, curious faces.</p>
                 <p>They here noticed that the women wore necklaces made of beads of different
-                    coloured stone, and from these hung pendants of odd,<pb n="90" xml:id="VAB7012-083"/>
+                    coloured stone, and from these hung pendants of odd,<pb n="90"
+                        xml:id="VAB7012-083"/>
                     <pb n="91" xml:id="VAB7012-084"/> strange shapes, and some of them had bracelets
                     of ivory and flint.</p>
                 <p>“I say,” said Robert, “what a lot we could teach them if we stayed here!”</p>
@@ -2034,7 +2063,8 @@
                     Amulet, and oh, Pussy, think if we could only get Father and Mother and The Lamb
                     safe back! We <emph>must</emph> go, but we’ll wait a day or two if you like and
                     then perhaps you’ll feel braver.”</p>
-                <p>“Raw meat makes you brave, however cowardly you are,” said Robert, to show<pb n="125" xml:id="VAB7012-118"/> that there was now no ill‐feeling, “and
+                <p>“Raw meat makes you brave, however cowardly you are,” said Robert, to show<pb
+                        n="125" xml:id="VAB7012-118"/> that there was now no ill‐feeling, “and
                     cranberries—that’s what Tartars eat, and they’re so brave it’s simply awful. I
                     suppose cranberries are only for Christmas time, but I’ll ask old Nurse to let
                     you have your chop very raw if you like.”</p>
@@ -2119,7 +2149,8 @@
                     arch was the bedroom painted chest‐of‐drawers and the Kidderminster carpet, and
                     the washhand‐stand with the riveted willow‐pattern jug, and the faded curtains,
                     and the dull light of indoors on a wet day. Through the arch showed the gleam of
-                    soft green leaves and white blossoms. They stepped forward quite<pb n="129" xml:id="VAB7012-122"/> happily. Even Jane felt that this did not look like
+                    soft green leaves and white blossoms. They stepped forward quite<pb n="129"
+                        xml:id="VAB7012-122"/> happily. Even Jane felt that this did not look like
                     lions, and her hand hardly trembled at all as she held the charm for the others
                     to go through, and last, slipped through herself, and hung the charm, now grown
                     small again, round her neck.</p>
@@ -2245,7 +2276,8 @@
                     odds and ends, but these houses seemed to have been built by people who liked
                     the same sort of things. Not that they were all alike, for though all were
                     squarish, they were of different sizes, and decorated in all sorts of different
-                    ways, some with paintings in bright colours, some with black and silver<pb n="137" xml:id="VAB7012-130"/> designs. There were terraces, and gardens,
+                    ways, some with paintings in bright colours, some with black and silver<pb
+                        n="137" xml:id="VAB7012-130"/> designs. There were terraces, and gardens,
                     and balconies, and open spaces with trees. Their guide took them to a little
                     house in a back street, where a kind‐faced woman sat spinning at the door of a
                     very dark room.</p>
@@ -2264,7 +2296,8 @@
                 <p>The market was brighter than you would think anything could be. There were stalls
                     for everything you could possibly want—and for a great many things that if you
                     wanted here and now, want would be your master. There were pineapples and
-                    peaches in heaps—and stalls of crockery and glass things,<pb n="138" xml:id="VAB7012-131"/> beautiful shapes and glorious colours, there were
+                    peaches in heaps—and stalls of crockery and glass things,<pb n="138"
+                        xml:id="VAB7012-131"/> beautiful shapes and glorious colours, there were
                     stalls for necklaces, and clasps, and bracelets, and brooches, for woven stuffs,
                     and furs, and embroidered linen. The children had never seen half so many
                     beautiful things together, even at Liberty’s.</p>
@@ -2328,7 +2361,8 @@
                     sun never sets!”</p>
                 <p>A murmur of surprise and a thrill of excitement ran through the crowd. The
                     door‐porter spoke to a black man, he spoke to someone else. There was a
-                    whispering, waiting pause. Then a big man, with a cleanly‐<pb n="141" xml:id="VAB7012-134"/> shaven face, beckoned them from the top of a flight
+                    whispering, waiting pause. Then a big man, with a cleanly‐<pb n="141"
+                        xml:id="VAB7012-134"/> shaven face, beckoned them from the top of a flight
                     of red marble steps.</p>
                 <p>They went up; the boots of Robert clattering more than usual because he was so
                     nervous. A door swung open, a curtain was drawn back. A double line of bowing
@@ -2436,7 +2470,8 @@
                     Egypt! Now come into the garden, and we’ll have a nice, long, cosy talk.”</p>
                 <p>She led them through long, narrow corridors whose walls they somehow felt, were
                     very, very thick, into a sort of garden courtyard. There were thick shrubs
-                    closely planted, and roses were trained over trellises, and made a<pb n="148" xml:id="VAB7012-141"/> pleasant shade—needed, indeed, for already the sun
+                    closely planted, and roses were trained over trellises, and made a<pb n="148"
+                        xml:id="VAB7012-141"/> pleasant shade—needed, indeed, for already the sun
                     was as hot as it is in England in August at the seaside.</p>
                 <p>Slaves spread cushions on a low, marble terrace, and a big man with a smooth face
                     served cool drink in cups of gold studded with beryls. He drank a little from
@@ -2477,7 +2512,8 @@
                 <p>Anthea explained that they did not know; also why it was that they did not
                     know.</p>
                 <p>“Oh, <emph>that’s</emph> quite simple,” said the Queen, and every one breathed a
-                    deep sigh of relief as she said it. “Ritti‐Marduk shall<pb n="150" xml:id="VAB7012-143"/> run down to the gates and find out which guard your
+                    deep sigh of relief as she said it. “Ritti‐Marduk shall<pb n="150"
+                        xml:id="VAB7012-143"/> run down to the gates and find out which guard your
                     sister went home with.”</p>
                 <p>“Might he”—Anthea’s voice was tremulous—“might he—would it interfere with his
                     meal‐times, or anything like that, if he went <emph>now</emph>?”</p>
@@ -2758,7 +2794,8 @@
                     about time being only a something or other of thought. It <emph>is</emph> a
                     dream, and we’re bound to wake up all right and safe.”</p>
                 <p>“Humph,” said Cyril bitterly. And Robert suddenly said—</p>
-                <p>“It’s all my doing. If it really <emph>is</emph> all up do<pb n="165" xml:id="VAB7012-158"/> please not keep a down on me about it, and tell
+                <p>“It’s all my doing. If it really <emph>is</emph> all up do<pb n="165"
+                        xml:id="VAB7012-158"/> please not keep a down on me about it, and tell
                     Father— Oh, I forgot.”</p>
                 <p>What he had forgotten was that his father was three thousand miles and five
                     thousand or more years away from him.</p>
@@ -2888,7 +2925,8 @@
                 <p>“Ritti‐Marduk,” said Cyril.</p>
                 <p>“Yes,” said Jane, “Ritti‐Marduk, he came for me just after the Psammead had
                     bitten the guard‐of‐the‐gate’s wife’s little boy, and he took me to the Palace.
-                    And we had supper with the new little Queen from Egypt. She<pb n="173" xml:id="VAB7012-166"/>
+                    And we had supper with the new little Queen from Egypt. She<pb n="173"
+                        xml:id="VAB7012-166"/>
                     <emph>is</emph> a dear—not much older than you. She told me heaps about Egypt.
                     And we played ball after supper. And then the Babylon Queen sent for me. I like
                     her too. And she talked to the Psammead and I went to sleep. And then you woke
@@ -2908,7 +2946,8 @@
                 <p>“That’s where you, as so often happens, make the mistake,” rejoined the
                     Sand‐fairy. “<emph>I</emph> couldn’t mean anything but what <emph>she</emph>
                     meant by ‘soon.’ It wasn’t my wish. And what <emph>she</emph> meant was the next
-                    time the King happens to go out lion hunting. So she’ll<pb n="174" xml:id="VAB7012-167"/> have a whole day, and perhaps two, to do as she
+                    time the King happens to go out lion hunting. So she’ll<pb n="174"
+                        xml:id="VAB7012-167"/> have a whole day, and perhaps two, to do as she
                     wishes with. <emph>She</emph> doesn’t know about time only being a mode of
                     thought.”</p>
                 <p>“Well,” said Cyril, with a sigh of resignation, “we must do what we can to give
@@ -3213,7 +3252,8 @@
                     the courtyard.</p>
                 <p>It was followed by more stone images, by great slabs of carved stone, bricks,
                     helmets, tools, weapons, fetters, wine‐jars, bowls, bottles, vases, jugs,
-                    saucers, seals, and the round long things, something like rolling pins<pb n="190" xml:id="VAB7012-183"/>
+                    saucers, seals, and the round long things, something like rolling pins<pb
+                        n="190" xml:id="VAB7012-183"/>
                     <pb n="191" xml:id="VAB7012-184"/> with marks on them like the print of little
                     bird‐feet, necklaces, collars, rings, armlets, earrings—heaps and heaps and
                     heaps of things, far more than anyone had time to count, or even to see
@@ -3316,7 +3356,8 @@
                     cans as well. Roast meat, fowls, red lobsters, great yellowy crabs, fried fish,
                     boiled pork, beef‐steak puddings, baked onions, mutton pies; most of the young
                     people had oranges and sweets and cake. It made an enormous change in the look
-                    of the Mile End Road—brightened it up, so to speak,<pb n="197" xml:id="VAB7012-190"/>
+                    of the Mile End Road—brightened it up, so to speak,<pb n="197"
+                        xml:id="VAB7012-190"/>
                     <pb n="198" xml:id="VAB7012-191"/> and brightened up, more than you can possibly
                     imagine, the faces of the people.</p>
                 <p>“Makes a difference, doesn’t it?” said the Queen.</p>
@@ -3496,8 +3537,8 @@
                 <pb n="207" xml:id="VAB7012-200"/>
                 <p>“I’d rather go to Babylon,” said the learned gentleman.</p>
                 <p>“I wish you’d go to Atlantis some time, while we’re about it, so as to give me
-                    some tips for my <title>Nineteenth Century</title> article when you
-                    come home.”</p>
+                    some tips for my <title>Nineteenth Century</title> article when you come
+                    home.”</p>
                 <p>“I wish I could,” said the voice of the learned gentleman.</p>
                 <p>“Goodbye. Take care of yourself.”</p>
                 <p>The door was banged, and the visitor came smiling down the stairs—a stout,
@@ -3661,7 +3702,8 @@
                 <p>And then the people would draw back with a low murmur that sounded like a
                     suppressed cheer.</p>
                 <p>Many of the buildings were covered with gold, but the gold on the bigger
-                    buildings was of a different colour, and they had sorts of<pb n="216" xml:id="VAB7012-209"/> steeples of burnished silver rising above them.</p>
+                    buildings was of a different colour, and they had sorts of<pb n="216"
+                        xml:id="VAB7012-209"/> steeples of burnished silver rising above them.</p>
                 <p>“Are all these houses real gold?” asked Jane.</p>
                 <p>“The temples are covered with gold, of course,” answered the Captain, “but the
                     houses are only oricalchum. It’s not quite so expensive.”</p>
@@ -4327,7 +4369,8 @@
                     shall sail for this three‐cornered island. First, we will take but two legions.
                     This, if what we have heard be true, should suffice. But if my dream be true,
                     then a hundred legions will not suffice. For the dream I dreamed was the most
-                    wonderful that ever tormented the brain even of Cæsar. And<pb n="255" xml:id="VAB7012-248"/> Cæsar has dreamed some strange things in his
+                    wonderful that ever tormented the brain even of Cæsar. And<pb n="255"
+                        xml:id="VAB7012-248"/> Cæsar has dreamed some strange things in his
                     time.”</p>
                 <p>“And if you hadn’t told Cæsar all that about how things are now, he’d never have
                     invaded Britain,” said Robert to Jane as they sat down to tea.</p>
@@ -4426,7 +4469,8 @@
                     and—”</p>
                 <p>“Shells, and things like that. The great thing is to get people to love you by
                     being generous. And that’s what we’ve got to do. Next time we go into the Past
-                    we’ll regularly fit out the expedition. You remember how<pb n="260" xml:id="VAB7012-253"/> the Babylonian Queen froze on to that pocket‐book?
+                    we’ll regularly fit out the expedition. You remember how<pb n="260"
+                        xml:id="VAB7012-253"/> the Babylonian Queen froze on to that pocket‐book?
                     Well, we’ll take things like that. And offer them in exchange for a sight of the
                     Amulet.”</p>
                 <p>“A sight of it is not much good.”</p>
@@ -4450,7 +4494,8 @@
                 <pb n="261" xml:id="VAB7012-254"/>
                 <p>This advice seemed good. Soon the table was littered over with things which the
                     children thought likely to interest the Ancient Egyptians. Anthea brought dolls,
-                    puzzle blocks, a wooden tea‐service, a green leather case with <foreign xml:lang="fre">Nécessaire</foreign> written on it in gold letters. Aunt Emma
+                    puzzle blocks, a wooden tea‐service, a green leather case with <foreign
+                        xml:lang="fre">Nécessaire</foreign> written on it in gold letters. Aunt Emma
                     had once given it to Anthea, and it had then contained scissors, penknife,
                     bodkin, stiletto, thimble, corkscrew, and glove‐buttoner. The scissors, knife,
                     and thimble, and penknife were, of course, lost, but the other things were there
@@ -4669,7 +4714,8 @@
                     King. They came to it through a great square pillared doorway of sandstone that
                     stood in a high brick wall. The shut doors were of massive cedar, with bronze
                     hinges, and were studded with bronze nails. At the side was a little door and a
-                    wicket gate, and through this the priest led the children. He seemed<pb n="273" xml:id="VAB7012-266"/> to know a word that made the sentries make way for
+                    wicket gate, and through this the priest led the children. He seemed<pb n="273"
+                        xml:id="VAB7012-266"/> to know a word that made the sentries make way for
                     him.</p>
                 <p>Inside was a garden, planted with hundreds of different kinds of trees and
                     flowering shrubs, a lake full of fish, with blue lotus flowers at the margin,
@@ -4943,7 +4989,8 @@
                     show you!”</p>
                 <p>“Ah!” said old Nurse, going round the table and putting the knives and forks in
                     their places; “you’re a man all over, Master Robert. There was my poor Green,
-                    all the years he lived with me I never could get<pb n="290" xml:id="VAB7012-283"/> more out of him than ‘It’s all right!’ when I asked him if he’d fancied his
+                    all the years he lived with me I never could get<pb n="290" xml:id="VAB7012-283"
+                    /> more out of him than ‘It’s all right!’ when I asked him if he’d fancied his
                     dinner. And yet, when he lay a‐dying, his last words to me was, ‘Maria, you was
                     always a good cook!’” She ended with a trembling voice.</p>
                 <p>“And so you are,” cried Anthea, and she and Jane instantly hugged her.</p>
@@ -5239,7 +5286,8 @@
                     Course about?”</p>
                 <p>“Don’t you <emph>really</emph> know? Aren’t you pretending—just for fun? Really
                     not? Well, that course teaches you how to be a good citizen, what you must do
-                    and what you mayn’t do, so as to do your full share of the<pb n="307" xml:id="VAB7012-300"/> work of making your town a beautiful and happy place
+                    and what you mayn’t do, so as to do your full share of the<pb n="307"
+                        xml:id="VAB7012-300"/> work of making your town a beautiful and happy place
                     for people to live in. There’s a quite simple little thing they teach the tiny
                     children. How does it go ...?</p>
                 <quote>
@@ -5290,7 +5338,8 @@
                 <p>“Oh, what a <emph>horrible</emph> trick!” she cried. “What a hateful, dark, ugly
                     place!”</p>
                 <p>She ran to the window and looked out. The sky was grey, the street was foggy, a
-                    dismal organ‐grinder was standing opposite the door,<pb n="309" xml:id="VAB7012-302"/> a beggar and a man who sold matches were quarrelling
+                    dismal organ‐grinder was standing opposite the door,<pb n="309"
+                        xml:id="VAB7012-302"/> a beggar and a man who sold matches were quarrelling
                     at the edge of the pavement on whose greasy black surface people hurried along,
                     hastening to get to the shelter of their houses.</p>
                 <p>“Oh, look at their faces, their horrible faces!” she cried. “What’s the matter
@@ -5377,7 +5426,8 @@
                 <p>“Yes,” said Anthea, “it would.”</p>
                 <p>“That was the beginning. But after you’d given me the whole of the Amulet—ah, it
                     was generous of you!—then, somehow, I didn’t need to theorize, I seemed to
-                        <emph>know</emph> about the old Egyptian civilisation. And they<pb n="315" xml:id="VAB7012-308"/> can’t upset my theories”—he rubbed his thin hands and
+                        <emph>know</emph> about the old Egyptian civilisation. And they<pb n="315"
+                        xml:id="VAB7012-308"/> can’t upset my theories”—he rubbed his thin hands and
                     laughed triumphantly—“they can’t, though they’ve tried. Theories, they call
                     them, but they’re more like—I don’t know—more like memories. I <emph>know</emph>
                     I’m right about the secret rites of the Temple of Amen.”</p>
@@ -5466,7 +5516,7 @@
                 <p>They were all painting. Nurse in the flush of grateful emotion, excited by
                     Robert’s border of poppies, had presented each of the four with a shilling
                     paint‐box, and had supplemented the gift with a pile of old copies of the
-                            <title>Illustrated London News</title>.</p>
+                        <title>Illustrated London News</title>.</p>
                 <p>“Sepia,” said Cyril instructively, “is made out of beastly cuttle‐fish.”</p>
                 <p>“Purple’s made out of a fish, as well as out of red and blue,” said Robert.
                     “Tyrian purple was, I know.”</p>
@@ -5511,7 +5561,8 @@
                     animal with big, staring eyes. The boat rode at anchor in a bay, and the bay was
                     very smooth. The crew were dark, wiry fellows with black beards and hair. They
                     had no clothes except a tunic from waist to knee, and round caps with knobs on
-                    the top. They were very busy, and what they were doing was<pb n="322" xml:id="VAB7012-315"/> so interesting to the children that at first they did
+                    the top. They were very busy, and what they were doing was<pb n="322"
+                        xml:id="VAB7012-315"/> so interesting to the children that at first they did
                     not even wonder where the Amulet had brought them.</p>
                 <p>And the crew seemed too busy to notice the children. They were fastening rush
                     baskets to a long rope with a great piece of cork at the end, and in each basket
@@ -5661,7 +5712,8 @@
                     quite cheerfully through the city gate—it was not arched, but roofed over with a
                     great flat stone—and so through the street, which smelt horribly of fish and
                     garlic and a thousand other things even less agreeable. But far worse than the
-                    street scents was the scent of the factory, where the<pb n="331" xml:id="VAB7012-324"/> skipper called in to sell his night’s catch. I wish I
+                    street scents was the scent of the factory, where the<pb n="331"
+                        xml:id="VAB7012-324"/> skipper called in to sell his night’s catch. I wish I
                     could tell you all about that factory, but I haven’t time, and perhaps after all
                     you aren’t interested in dyeing works. I will only mention that Robert was
                     triumphantly proved to be right. The dye <emph>was</emph> a yellowish‐white
@@ -5682,7 +5734,8 @@
                     wise. Our interests are the same.”</p>
                 <p>Before anyone could say more the skipper came back, and with him the dye‐master.
                     His hair and beard were curled like the men’s in Babylon, and he was dressed
-                    like the skipper, but with added grandeur of gold<pb n="332" xml:id="VAB7012-325"/> and embroidery. He had necklaces of beads and silver,
+                    like the skipper, but with added grandeur of gold<pb n="332"
+                        xml:id="VAB7012-325"/> and embroidery. He had necklaces of beads and silver,
                     and a glass amulet with a man’s face, very like his own, set between two bull’s
                     heads, as well as gold and silver bracelets and armlets. He looked keenly at the
                     children. Then he said—</p>
@@ -5745,7 +5798,8 @@
                     sent to the kitchen and made to work.</p>
                 <p>Pheles, the master of the house, went off that very evening, by the King’s
                     orders, to start on another voyage. And when he was gone his wife found the
-                    children amusing company, and kept them talking and singing<pb n="335" xml:id="VAB7012-328"/> and dancing till quite late. “To distract my mind
+                    children amusing company, and kept them talking and singing<pb n="335"
+                        xml:id="VAB7012-328"/> and dancing till quite late. “To distract my mind
                     from my sorrows,” she said.</p>
                 <p>“I do like being a slave,” remarked Jane cheerfully, as they curled up on the
                     big, soft cushions that were to be their beds.</p>
@@ -6027,7 +6081,8 @@
                     home, and then the girls went in and engaged old Nurse’s attention by an account
                     of the conjuring and a fervent entreaty for dripping‐toast with their tea,
                     leaving the front door open so that while Nurse was talking to them the boys
-                    could creep quietly in with Rekh‐marā and smuggle<pb n="351" xml:id="VAB7012-344"/> him, unseen, up the stairs into their bedroom.</p>
+                    could creep quietly in with Rekh‐marā and smuggle<pb n="351"
+                        xml:id="VAB7012-344"/> him, unseen, up the stairs into their bedroom.</p>
                 <p>When the girls came up they found the Egyptian Priest sitting on the side of
                     Cyril’s bed, his hands on his knees, looking like a statue of a king.</p>
                 <p>“Come on,” said Cyril impatiently. “He won’t begin till we’re all here. And shut
@@ -6213,7 +6268,7 @@
                 <p>“Come,” cried Rekh‐marā, leaping up. “Come <emph>now</emph>!”</p>
                 <p>“May—may I come?” the learned gentleman timidly asked. “It’s only a dream, you
                     know.”</p>
-                <p>“Come, and welcome, oh brother,” Rekh‐marā<pb n="361" xml:id="VAB7012-354"/>  was
+                <p>“Come, and welcome, oh brother,” Rekh‐marā<pb n="361" xml:id="VAB7012-354"/> was
                     beginning, but Cyril and Robert with one voice cried, “<emph>No</emph>.”</p>
                 <p>“You weren’t with us in Atlantis,” Robert added, “or you’d know better than to
                     let him come.”</p>
