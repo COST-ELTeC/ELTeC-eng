@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18ddd" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18742"
+     xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -41,13 +43,19 @@
           </revisionDesc>
      </teiHeader>
      <text type="T2MSL">
-          <front><div type="titlepage">
-               <p>HARRY HEATHCOTE OF GANGOIL</p>
-               <p>A Tale of Australian Bush-Life</p>          
-               <p>By Anthony Trollope</p>
-               <p>London</p><p>Sampson Low, Marston, Low, &amp; Searle,</p><p>Crown Buildings, 188, Fleet Street.</p><p>1874</p>
-          </div></front> <body>
-              
+          <front>
+               <div type="titlepage">
+                    <p>HARRY HEATHCOTE OF GANGOIL</p>
+                    <p>A Tale of Australian Bush-Life</p>
+                    <p>By Anthony Trollope</p>
+                    <p>London</p>
+                    <p>Sampson Low, Marston, Low, &amp; Searle,</p>
+                    <p>Crown Buildings, 188, Fleet Street.</p>
+                    <p>1874</p>
+               </div>
+          </front>
+          <body>
+
                <div type="chapter">
                     <head>CHAPTER I. — GANGOIL.</head>
                     <p>Just a fortnight before Christmas, 1871, a young man, twenty-four years of
@@ -364,7 +372,7 @@
                     <p>“No buckets at all,” said Jacko. “Want the horses, master?”</p>
                     <p>“Of course. I want the horses, and I want you to come with me. There are two
                          horses saddled there; I’ll ride Hamlet.”</p>
-                  
+
                </div>
                <div type="chapter">
                     <head>CHAPTER II. — A NIGHT’S RIDE.</head>
@@ -655,9 +663,9 @@
                          seem to be in the least impeded by the fact that he was wet through to the
                          skin. Harry Heathcote had another nobbler—being only the second in the
                          day—and then went to bed.</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER III. — MEDLICOT’S MILL.</head>
@@ -926,9 +934,9 @@
                     <p>“I have not accused him,” said Harry; “but he knows that the man was
                          dismissed, and yet keeps him about the place. Of course he is
                          responsible.”</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER IV. — HARRY HEATHCOTE’S APPEAL.</head>
@@ -1218,9 +1226,9 @@
                     <p>“There’s the Brownbies.”</p>
                     <p>“Oh, the Brownbies. Well, it’s a bad thing to have enemies.” After that he
                          left the sugar-house and went across to the cottage.</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER V. — BOSCOBEL.</head>
@@ -1497,9 +1505,9 @@
                     <p>“Did Bates tell you he’d met me?” he asked his wife.</p>
                     <p>“Yes, Harry; kiss me, Harry. I was so glad you sent a word. Promise me,
                          Harry, not to think that I don’t agree with you in every thing.”</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER VI. — THE BROWNBIES OF BOOLABONG.</head>
@@ -1807,9 +1815,9 @@
                     <p>“And where have you been?”</p>
                     <p>“Not to Gangoil, anyway. Good-night, Mr. Medlicot.” Then the man took himself
                          into his hut, and was safe from further questioning that night.</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER VII. — “I WISH YOU’D LIKE ME.”</head>
@@ -2090,9 +2098,9 @@
                     <p>Medlicot drove his mother home safely, and, after he had taken her into the
                          house, encountered Nokes on his return from Boolabong, as has been told at
                          the close of the last chapter.</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER VIII. — “I DO WISH HE WOULD COME!”</head>
@@ -2363,9 +2371,9 @@
                          about an hour when Kate Daly declared that the heavens were on fire. The
                          two young women jumped up, flew to the gate, and found that the whole
                          western horizon was lurid with a dark red light.</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER IX. — THE BUSH FIGHT.</head>
@@ -2686,9 +2694,9 @@
                          saw him with the lighted torch in his hand, and that he placed it among the
                          grass. There were two others from Boolabong with him, and they must have
                          seen him too.”</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER X. — HARRY HEATHCOTE RETURNS IN TRIUMPH.</head>
@@ -3016,9 +3024,9 @@
                          declared that the police would never really bestir themselves in a
                          squatter’s cause. “As for Nokes, he’ll be out of Queensland by this time
                          to-morrow.”</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER XI. — SERGEANT FORREST.</head>
@@ -3203,9 +3211,9 @@
                          savage as solitary animals. And at last they die in the bush, creeping, we
                          may suppose, into hidden nooks, as the beasts do when the hour of death
                          comes on them.</p>
-                    
-                         
-                    
+
+
+
                </div>
                <div type="chapter">
                     <head>CHAPTER XII. — CONCLUSION.</head>
@@ -3471,7 +3479,7 @@
                          was asking when the policemen interrupted them.</p>
                     <p>“That’s what I call a happy Christmas,” said Harry, as the party finally
                          parted for the night.</p>
-                    
+
                </div>
           </body>
      </text>
