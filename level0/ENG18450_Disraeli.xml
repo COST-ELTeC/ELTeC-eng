@@ -38,18 +38,15 @@
   <encodingDesc n="eltec-0">
    <p/>
   </encodingDesc>
-  <profileDesc>
-   <langUsage>
+  <profileDesc><langUsage>
     <language ident="en"/>
-   </langUsage>
-   <textDesc>
+   </langUsage><textClass><keywords><term>Factory Novel</term><term>Social Problem Novel</term><term>University Novel</term></keywords></textClass><textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
     <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
-   </textDesc>
-  </profileDesc>
-  <revisionDesc>
+   </textDesc></profileDesc>
+  <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2018-09-29">LB checked pagenumbers against original</change>
    <change when="2018-09-18">LB working on header</change>

@@ -20,18 +20,15 @@ Milne</publisher><date>1896</date></bibl></sourceDesc>
 <encodingDesc n="eltec-0">
 <p/>
 </encodingDesc>
-<profileDesc>
-<langUsage>
+<profileDesc><langUsage>
 <language ident="eng">English</language>
-</langUsage>
-<textDesc>
+</langUsage><textClass><keywords><term>Detective Fiction</term></keywords></textClass><textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
-</textDesc>
-</profileDesc>
-<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+</textDesc></profileDesc>
+<revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2019-01-16">LB convert to ELTeC-1</change>
 </revisionDesc>
 </teiHeader>
