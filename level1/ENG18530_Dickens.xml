@@ -32,18 +32,15 @@
 <encodingDesc n="eltec-1">
 <p/>
 </encodingDesc>
-<profileDesc>
-<langUsage>
+<profileDesc><langUsage>
 <language ident="eng">English</language>
-</langUsage>
-<textDesc>
+</langUsage><textClass><keywords><term>Character: Drug Addict</term><term>Character: Suicide</term><term>Detective Fiction</term><term>Social Problem Novel</term></keywords></textClass><textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
-</textDesc>
-</profileDesc>
-<revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+</textDesc></profileDesc>
+<revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
 <change when="2018-08-12">LB auto convert from P4 to P5, and from P5 to ELTeC-1</change>
 <change when="2002-09-23"> Natalia Smith, project manager, finished TEI-conformant encoding and
 final proofing.</change>

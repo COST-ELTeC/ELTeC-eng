@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18632"
-    xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18632" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,8 +14,7 @@
                 <p>Published as part of ELTeC <date>2020-04-30</date></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digitalSource"><title>Hard Cash, by Charles Reade</title><ref
-                        target="gut:3067">Gutenberg</ref>
+                <bibl type="digitalSource"><title>Hard Cash, by Charles Reade</title><ref target="gut:3067">Gutenberg</ref>
                     <respStmt>
                         <resp>Produced by </resp>
                         <name>James Rusk and David Widger</name>
@@ -30,18 +27,15 @@
         <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
-        <profileDesc>
-            <langUsage>
+        <profileDesc><langUsage>
                 <language ident="eng">English</language>
-            </langUsage>
-            <textDesc>
+            </langUsage><textClass><keywords/></textClass><textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
-            </textDesc>
-        </profileDesc>
-        <revisionDesc>
+            </textDesc></profileDesc>
+        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
             <change when="2020-04-30">LB convert to ELTeC-1</change>
         </revisionDesc>
     </teiHeader>
@@ -74,25 +68,7 @@
         </front>
 
         <body>
-            <!--<div type="chapter">
-                <head>HARD CASH</head>
-            </div>
-            <div type="chapter">
-                <head>By Charles Reade</head>
-                <p><lb/>
-                    <lb/></p>
-                <quote><p>[Transcriber's Note: The pound sign is indicated by L. No attempt has been
-                        made to transcribe Greek text or sheet music. Accent marks in foreign words
-                        are ignored. Two chapters named Chapter XLI.]</p></quote>
-                <p><lb/>
-                    <lb/></p>
-                <p><lb/>
-                    <lb/></p>
-                <p>CONTENTS</p>
-                <p><lb/>
-                    <lb/></p>
-                
-            </div>-->
+            
 
             <div type="chapter">
                 <head>PROLOGUE</head>
@@ -7859,8 +7835,7 @@
                     in general, and Maxley's in particular, that the 900l. in pocket seemed small,
                     and the 30s. in jeopardy large.</p>
                 <p>“I can't afford to go with the creditors,” argued Maxley: “Dividend on 30s.! Why,
-                    that will be about thirty pence: the change for a hard half-crown<ref
-                        target="#ENG18630_N11"/> .”</p>
+                    that will be about thirty pence: the change for a hard half-crown<ref target="#ENG18630_N11"/> .”</p>
                 <p>He stuck his spade in the soil and made for his debtor's house. As he came up the
                     street, Dodd shot out of the bank radiant, and was about to pass him without
                     notice, full of his wife and children; but Maxley stopped him with a right
@@ -8700,8 +8675,7 @@
                 <p>Finally, he resolved to buy security in a world where after all one has to buy
                     everything: so he employed an adroit agent, and quietly purchased that mountain,
                     the refuse of all Barkington. But he felt so ill-used, he paid for it in his own
-                    notes: by this means the treaty reverted to the primitive form of barter<ref
-                        target="#ENG18630_N12"/>—ashes for rags.</p>
+                    notes: by this means the treaty reverted to the primitive form of barter<ref target="#ENG18630_N12"/>—ashes for rags.</p>
 
                 <p>This transaction he concealed from his confederate.</p>
                 <p>When he had completed it he was not yet secure; for another day had passed and
@@ -9276,8 +9250,7 @@
                     he does: he is not very clear as to the cause of the poor man's going mad.”</p>
                 <p>“The cause? Why, apoplexy.”</p>
                 <p>“Yes, but I mean what caused the apoplexy?”</p>
-                <p>Mr. Osmond replied that apoplexy was often idiopathic.<ref target="#ENG18630_N14"
-                    /> Captain Dodd, as he understood, had fallen down in the street in a sudden
+                <p>Mr. Osmond replied that apoplexy was often idiopathic.<ref target="#ENG18630_N14"/> Captain Dodd, as he understood, had fallen down in the street in a sudden
                     fit: “but as for the mania, that is to be attributed to an insufficient
                     evacuation of blood while under the apoplectic coma.”</p>
 
@@ -9334,8 +9307,7 @@
                     which I have been, I may say, somewhat successful in diagnosing the symptoms.
                     Unless I have been misinformed, he has, for a considerable time, experienced
                     persistent headache of a kephalalgic or true cerebral type, and has now advanced
-                    to the succeeding stage of taciturnity and depression, not unaccompanied <ref
-                        target="#ENG18630_N15"/>with isolation, and probably constipation: but as
+                    to the succeeding stage of taciturnity and depression, not unaccompanied <ref target="#ENG18630_N15"/>with isolation, and probably constipation: but as
                     yet without hallucination, though possibly, and, as my experience of the great
                     majority of these cases would induce me to say, probably he is not undisturbed
                         <ref target="#ENG18630_N16"/>by one or more of those latent, and, at first,
@@ -19504,8 +19476,7 @@
                     perfectly calm; so they remonstrated instead, and presently Billy's
                     commander-in-chief, a ship-boy called Georgie White, shoved in and asked him in
                     a shrill haughty voice how he dared do that. “My dear,” said Billy, with great
-                    humility and placidity, “he was killing God's creatures, no allowance: <ref
-                        target="#ENG18630_N25"/> so, ye see, to save their lives, I was
+                    humility and placidity, “he was killing God's creatures, no allowance: <ref target="#ENG18630_N25"/> so, ye see, to save their lives, I was
                         <hi>obliged.</hi>”</p>
                 <p>At this piece of reasoning, and the simplicity and gentle conviction with which
                     it was delivered, there was a roar. It subsided, and a doubt arose whether Billy

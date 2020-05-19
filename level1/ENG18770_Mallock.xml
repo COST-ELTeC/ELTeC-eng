@@ -34,18 +34,15 @@
         <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
-        <profileDesc>
-            <langUsage>
+        <profileDesc><langUsage>
                 <language ident="eng">English</language>
-            </langUsage>
-            <textDesc>
+            </langUsage><textClass><keywords><term>Bigamy Novel</term></keywords></textClass><textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
-            </textDesc>
-        </profileDesc>
-        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+            </textDesc></profileDesc>
+        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-08-14">LB add header; start checking against IA edition; supply suppressed footnote</change>
             <change when="2018-08-12">LB auto convert from HTML to ELTeC-1</change>
         </revisionDesc>

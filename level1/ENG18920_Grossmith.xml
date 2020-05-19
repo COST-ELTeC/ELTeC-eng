@@ -21,7 +21,7 @@
           and Weedon Grossmith</title>
           <ref target="http://fiftywordsforsnow.com/ebooks/nobody/"/>
         
-      </bibl><bibl type="printSource" n="B13381" ><author>George Grossmith</author> 
+      </bibl><bibl type="printSource" n="B13381"><author>George Grossmith</author> 
         <author>Weedon Grossmith</author>
         <publisher>Simpkin, Marshall</publisher>
         <date>1892</date></bibl></sourceDesc>
@@ -29,15 +29,12 @@
     <encodingDesc n="eltec-1">
       <p/>
     </encodingDesc>
-    <profileDesc>
-      <langUsage><language ident="en"/></langUsage>
-      <textDesc>
+    <profileDesc><langUsage><language ident="en"/></langUsage><textClass><keywords/></textClass><textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
-      </textDesc>
-    </profileDesc><revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+      </textDesc></profileDesc><revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
       <change when="2018-09-23">LB made header</change>
     </revisionDesc>
   </teiHeader>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18570"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18570" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -27,18 +25,15 @@
   <encodingDesc n="eltec-1">
    <p/>
   </encodingDesc>
-  <profileDesc>
-   <langUsage>
+  <profileDesc><langUsage>
     <language ident="eng">English</language>
-   </langUsage>
-   <textDesc>
+   </langUsage><textClass><keywords/></textClass><textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
     <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
-   </textDesc>
-  </profileDesc>
-  <revisionDesc>
+   </textDesc></profileDesc>
+  <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2020-04-28">LB convert to ELTeC-1</change>
   </revisionDesc>
  </teiHeader>

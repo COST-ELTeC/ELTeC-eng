@@ -15,7 +15,7 @@
             <sourceDesc><bibl type="digitalSource"><title>Wuthering Heights (1st edition) : wikisource edition</title>
                       <ref target="https://en.wikisource.org/wiki/Wuthering_Heights_(1st_edition)"/>
                
-            </bibl><bibl type="firstEdition" n="B7446" ><title>Wuthering Heights</title><title>A novel by</title>
+            </bibl><bibl type="firstEdition" n="B7446"><title>Wuthering Heights</title><title>A novel by</title>
                     <author>Ellis Bell</author>
                     <publisher>London: T. C. Newby</publisher>
                     <date>1847</date></bibl></sourceDesc>
@@ -23,18 +23,15 @@
         <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
-        <profileDesc>
-            <langUsage>
+        <profileDesc><langUsage>
                 <language ident="en"/>
-            </langUsage>
-            <textDesc>
+            </langUsage><textClass><keywords><term>Character: Gypsy</term></keywords></textClass><textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
-            </textDesc>
-        </profileDesc>
-        <revisionDesc><change when="2019-11-09">Checked by releaseChecker script</change>
+            </textDesc></profileDesc>
+        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-12-12">LB added header</change>
         </revisionDesc>
     </teiHeader>

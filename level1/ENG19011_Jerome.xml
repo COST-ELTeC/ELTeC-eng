@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
@@ -10,8 +9,7 @@
                          <name>Lou Burnard</name>
                     </respStmt>
                </titleStmt>
-               <extent><measure unit="words">25232</measure><measure unit="pages"
-                    >167</measure></extent>
+               <extent><measure unit="words">25232</measure><measure unit="pages">167</measure></extent>
                <publicationStmt>
                     <p>Published as part of ELTeC <date>2020-05-10</date></p>
                </publicationStmt>
@@ -22,8 +20,7 @@
                          <publisher>Bristol: J.W. Arrowsmith</publisher>
                          <date>1901</date>
                     </bibl>
-                    <bibl type="digitalSource"><title>The Observations of Henry</title><ref
-                              target="gut:17943">Gutenberg</ref>
+                    <bibl type="digitalSource"><title>The Observations of Henry</title><ref target="gut:17943">Gutenberg</ref>
                          <respStmt>
                               <resp>Transcription</resp>
                               <name>David Price</name>
@@ -33,18 +30,15 @@
           <encodingDesc n="eltec-1">
                <p/>
           </encodingDesc>
-          <profileDesc>
-               <langUsage>
+          <profileDesc><langUsage>
                     <language ident="eng">English</language>
-               </langUsage>
-               <textDesc>
+               </langUsage><textClass><keywords><term>Arrowsmith's Bristol Library</term></keywords></textClass><textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
                     <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
-               </textDesc>
-          </profileDesc>
-          <revisionDesc>
+               </textDesc></profileDesc>
+          <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
                <change when="2020-05-10">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>
@@ -131,8 +125,7 @@
                          after that.  Who she was and what she was he didn’t know, and she didn’t
                          know, so there was a pair of them.  She’d run away from an old woman down
                          Limehouse way, who used to beat her.  That was all she could tell him.  He
-                         got her a lodging with an old woman, who had an attic in the same <pb
-                              n="15"/>house where he slept—when it would run to that—taught her to
+                         got her a lodging with an old woman, who had an attic in the same <pb n="15"/>house where he slept—when it would run to that—taught her to
                          yell “Speshul!” and found a corner for her.  There ain’t room for boys and
                          girls in the Mile-End Road.  They’re either kids down there or they’re
                          grown-ups.  “Kipper” and “Carrots”—as we named her—looked upon themselves
@@ -164,8 +157,7 @@
                          spoony couples seemed to scent it out by instinct, and would spend hours
                          there over a pot of tea and assorted pastry.  “Idyllic,” some folks would
                          have thought it: I used to get the fair dismals watching it.  There was one
-                         girl—a weird-looking creature, with red eyes and long thin hands, that <pb
-                              n="18"/>gave you the creeps to look at.  She’d come in regular with
+                         girl—a weird-looking creature, with red eyes and long thin hands, that <pb n="18"/>gave you the creeps to look at.  She’d come in regular with
                          her young man, a pale-faced nervous sort of chap, at three o’clock every
                          afternoon.  Theirs was the funniest love-making I ever saw.  She’d pinch
                          him under the table, and run pins into him, and he’d sit with his eyes
@@ -281,8 +273,7 @@
                     <p>I’ve often wondered what she’d a’ said, if he’d up and put the case to her
                          plain, for she was a good sort; but, naturally enough, her head was a bit
                          swelled, and she’d read so much rot about herself in the papers that she’d
-                         got at last to half believe some of it.  The thought of her <pb n="28"
-                         />connection with the well-known judge seemed to hamper her at times, and
+                         got at last to half believe some of it.  The thought of her <pb n="28"/>connection with the well-known judge seemed to hamper her at times, and
                          she wasn’t quite so chummy with “Kipper” as used to be the case in the
                          Mile-End Road days, and he wasn’t the sort as is slow to see a thing.</p>
                     <p>One day when he was having lunch by himself, and I was waiting on him, he
@@ -364,8 +355,7 @@
                     <p>“Rum things, women,” he says; “never know their own minds.”</p>
                     <p>“Oh, they know them all right when they get there,” I says.  “How could she
                          tell what being a Marchioness was like till she’d tried it?”</p>
-                    <p>“Pity,” he says, musing like.  “I reckoned it the very thing she’d tumble <pb
-                              n="35"/>to.  I only come over to get a sight of ’er, and to satisfy
+                    <p>“Pity,” he says, musing like.  “I reckoned it the very thing she’d tumble <pb n="35"/>to.  I only come over to get a sight of ’er, and to satisfy
                          myself as she was getting along all right.  Seems I’d better a’ stopped
                          away.”</p>
                     <p>“You ain’t ever thought of marrying yourself?” I asks.</p>
@@ -479,8 +469,7 @@
                          the cook is going to make of you!  Will you be minced and devilled and
                          fricasseed till you are all sauce and no meat?  Will you be hammered tender
                          and grilled over a slow fire till you are a blessing to mankind?  Or will
-                         you be spoilt in the boiling, and come out a stringy rag, an <pb n="48"
-                         />immediate curse, and a permanent injury to those who have got to swallow
+                         you be spoilt in the boiling, and come out a stringy rag, an <pb n="48"/>immediate curse, and a permanent injury to those who have got to swallow
                          you?’</p>
                     <p>“There was a youngster I knew in my old coffee-shop days,” continued Henry,
                          “that in the end came to be eaten by cannibals.  At least, so the
@@ -491,8 +480,7 @@
                          when I first set eyes on him—Mile End fourteen, that is; which is the same,
                          I take it, as City eighteen and West End five-and-twenty—and he was smart
                          for his age into the bargain: a trifle too smart as a matter of fact.  He
-                         always came into the shop at the same time—half-past two; he <pb n="49"
-                         />always sat in the seat next the window; and three days out of six, he
+                         always came into the shop at the same time—half-past two; he <pb n="49"/>always sat in the seat next the window; and three days out of six, he
                          would order the same dinner: a fourpenny beef-steak pudding—we called it
                          beef-steak, and, for all practical purposes, it was beef-steak—a penny
                          plate of potatoes, and a penny slice of roly-poly pudding—‘chest expander’
@@ -713,8 +701,7 @@
                          young clerk he had to deal with.  The man sprang at him, and a desperate
                          struggle followed, with the result that in the end the officer was left
                          with a bullet in his leg, while Joseph jumped clean through the window, and
-                         fell thirty feet.  Cut and bleeding, if not broken, he would <pb n="68"
-                         />never have got away but that, fortunately for him, a tradesman’s cart
+                         fell thirty feet.  Cut and bleeding, if not broken, he would <pb n="68"/>never have got away but that, fortunately for him, a tradesman’s cart
                          happened to be standing at the servants’ entrance.  Joe was in it, and off
                          like a flash of greased lightning.  How he managed to escape, with all the
                          country in an uproar, I can’t tell you; but he did it.  The horse and cart,
@@ -805,8 +792,7 @@
                          had been there a month the place had been attacked twice.  On the first
                          occasion Joe’s ‘flock’ had crowded into the Mission House, and commenced to
                          pray, that having been the plan of defence adopted by his predecessor.  Joe
-                         cut the prayer short, and preached to them from the text, ‘Heaven <pb
-                              n="76"/>helps them as helps themselves’; after which he proceeded to
+                         cut the prayer short, and preached to them from the text, ‘Heaven <pb n="76"/>helps them as helps themselves’; after which he proceeded to
                          deal out axes and old rifles.  In his report he mentioned that he had taken
                          a hand himself, merely as an example to the flock; I bet he had never
                          enjoyed an evening more in all his life.  The second fight began, as usual,
@@ -1073,8 +1059,7 @@
                          where were we?  We might have to interview every cabman in the town.  As
                          likely as not, by the time we did find the kid, it wouldn’t be worth the
                          trouble of unpacking.  Still, it wasn’t my cue to blab my thoughts.  The
-                         father, poor fellow, was feeling, I take it, just about as bad as <pb
-                              n="102"/>he wanted to feel.  My business was to put hope into him; so
+                         father, poor fellow, was feeling, I take it, just about as bad as <pb n="102"/>he wanted to feel.  My business was to put hope into him; so
                          when he asked me for about the twentieth time if I thought as he would ever
                          see his child alive again, I snapped him up shortish.</p>
                     <p>“Don’t you fret yourself about that,” I says.  “You’ll see a good deal of
@@ -1227,8 +1212,7 @@
                          those cold-water enthusiasts, this fellow; took it himself for everything,
                          and always went to a hydropathic establishment for his holidays.  Rumour
                          had it that Meister Anton really did try this experiment on one unfortunate
-                         occasion—worried into it, I suppose, by the other chap’s persistency.  <pb
-                              n="117"/>Anyhow, we didn’t see him again for a week, he being confined
+                         occasion—worried into it, I suppose, by the other chap’s persistency.  <pb n="117"/>Anyhow, we didn’t see him again for a week, he being confined
                          to his bed with a chill on the liver.  And the next suggestion made to him
                          he rejected quite huffily, explaining that he had no intention of putting
                          any fresh ideas into his wife’s head.</p>
@@ -1274,8 +1258,7 @@
                     <p>“There was a fellow,” continued Henry, “as used to work with me a good many
                          years ago now at a small hotel in the City.  He was a waiter, like
                          myself—not a bad sort of chap, though a bit of a toff in his off-hours. 
-                         He’d been engaged for some two or three years to one of the <pb n="121"
-                         />chambermaids.  A pretty, gentle-looking little thing she was, with big
+                         He’d been engaged for some two or three years to one of the <pb n="121"/>chambermaids.  A pretty, gentle-looking little thing she was, with big
                          childish eyes, and a voice like the pouring out of water.  They are strange
                          things, women; one can never tell what they are made of from the taste of
                          them.  And while I was there, it having been a good season for both of
@@ -1308,8 +1291,7 @@
                          and fetching a little piece of goods as a man could wish to be seen out
                          with.  Dressed according to the advice of his new-found friends, of course
                          she looked like nothing else so much as a barn-yard chicken in
-                         turkey-cock’s feathers.  He was shocked to find that her size in gloves <pb
-                              n="124"/>was seven-and-a-quarter, and in boots something over four,
+                         turkey-cock’s feathers.  He was shocked to find that her size in gloves <pb n="124"/>was seven-and-a-quarter, and in boots something over four,
                          and that sort of thing naturally irritates a woman more even than finding
                          fault with her immortal soul.  I guess for about a year he made her life
                          pretty well a burden for her, trying to bring her up to the standard of the
@@ -1343,8 +1325,7 @@
                     <p>“He played a bit in the City, and won at first, and that swelled his head
                          worse than ever.  It also brought him a good deal of sympathy from an
                          Italian Countess, the sort you find at Homburg, and that generally speaking
-                         is a widow.  Her chief sorrow was for society—that in him was losing an <pb
-                              n="127"/>ornament.  She explained to him how an accomplished and
+                         is a widow.  Her chief sorrow was for society—that in him was losing an <pb n="127"/>ornament.  She explained to him how an accomplished and
                          experienced woman could help a man to gain admittance into the tiptop
                          circles, which, according to her, were just thirsting for him.  As a
                          waiter, he had his share of brains, and it’s a business that requires more
@@ -1652,8 +1633,7 @@
                          there had been no doing anything with young Tom from the very first.  At
                          fifteen he ran away from school at Clifton, and with everything belonging
                          to him tied up in a pocket-handkerchief made his way to Bristol Docks. 
-                         There he shipped as boy on board an American schooner, the <pb n="156"
-                         />Cap’n not pressing for any particulars, being short-handed, and the boy
+                         There he shipped as boy on board an American schooner, the <pb n="156"/>Cap’n not pressing for any particulars, being short-handed, and the boy
                          himself not volunteering much.  Whether his folks made much of an effort to
                          get him back, or whether they didn’t, I can’t tell you.  Maybe, they
                          thought a little roughing it would knock some sense into him.  Anyhow, the
@@ -1800,8 +1780,7 @@
                     <p>“‘Yes, I do,’ was her answer.  ‘But there’s a serious side to it also,’ says
                          she, ‘and that interests me more.’</p>
                     <p>“‘You’re sure you’re not making a mistake?’ I suggested.</p>
-                    <p>“‘He’s been in my thoughts too much for me to forget him,’ she replied.  <pb
-                              n="169"/>‘Besides, he’s told me his name and all about himself.’</p>
+                    <p>“‘He’s been in my thoughts too much for me to forget him,’ she replied.  <pb n="169"/>‘Besides, he’s told me his name and all about himself.’</p>
                     <p>“‘Not quite all,’ says I.</p>
                     <p>“‘No, and that’s why I feel hard toward him,’ answers she.</p>
                     <p>“‘Now you listen to me,’ says I.  ‘This is a very pretty comedy, and the way

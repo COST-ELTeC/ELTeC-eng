@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18870">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18870">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
@@ -22,17 +21,12 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>The New Antigone:
@@ -50,23 +44,15 @@
                         <encodingDesc n="eltec-1">
                                     <p/>
                         </encodingDesc>
-                        <profileDesc>
-                                    <langUsage>
+                        <profileDesc><langUsage>
                                                 <language ident="eng">English</language>
-                                    </langUsage>
-                                    <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="M"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="long"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="low"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T3"/>
-                                    </textDesc>
-                        </profileDesc>
-                        <revisionDesc>
+                                    </langUsage><textClass><keywords><term>New Woman Novel</term></keywords></textClass><textDesc>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+                                    </textDesc></profileDesc>
+                        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
                                     <change when="2019-11-09">Checked by releaseChecker
                                                 script</change>
                                     <change when="2019-01-04">LB convert to ELTeC-1</change>
@@ -347,8 +333,7 @@
                                                   <p>'Beyond me to say,' replied the Earl's cousin;
                                                   'but he does. He will probably draw your horoscope
                                                   if you can tell him the day, hour, and minute when
-                                                  you were born, and whether the room in which <pb
-                                                  n="11"/> you first saw the light, as he calls it,
+                                                  you were born, and whether the room in which <pb n="11"/> you first saw the light, as he calls it,
                                                   looked east or west.'</p>
                                                   <p>Mr. Glanville's lip curled scornfully. 'He will
                                                   not draw my horoscope,' he said; 'has he drawn
@@ -380,8 +365,7 @@
                                                   hare-hunting, but destitute of lute and learning,
                                                   and very shy of the Muses.' And he went on with
                                                   his mental portraiture.</p>
-                                                  <p>I wonder what Tom Davenant would have made <pb
-                                                  n="12"/> of these reflections had his companion
+                                                  <p>I wonder what Tom Davenant would have made <pb n="12"/> of these reflections had his companion
                                                   uttered them. He was not conscious in the least of
                                                   the beauty Nature had given him, and thought
                                                   fishing, hunting, and boating were the only
@@ -412,8 +396,7 @@
                                                   which knew how to shield themselves from the
                                                   sea-wind, and the red sandstone glowing, as the
                                                   rays of sunset kindled it, like a heavy purple
-                                                  cloak flung carelessly on the ground. The <pb
-                                                  n="13"/> waters were restless under a freshening
+                                                  cloak flung carelessly on the ground. The <pb n="13"/> waters were restless under a freshening
                                                   breeze, thin lines of foam stretching themselves
                                                   along and curling back as they touched the sands,
                                                   which at this point make a shelly, narrow, and
@@ -610,8 +593,7 @@
                                                   Great Hall would demand. Mr. Truscombe was the
                                                   clergyman of the parish, expressly invited to meet
                                                   the artist on the ground of his being learned
-                                                  beyond all others in British antiquities, and <pb
-                                                  n="20"/> already famous by his great book on the
+                                                  beyond all others in British antiquities, and <pb n="20"/> already famous by his great book on the
                                                   holy wells of Cornwall and Cumbria. Glanville
                                                   received this piece of news with a polite air, but
                                                   inwardly began to chafe at the appearance of King
@@ -674,8 +656,7 @@
                                                   handsomely to missionary efforts for explaining to
                                                   the natives of the Andaman and neighbouring
                                                   islands the exact difference between a cope and a
-                                                  chasuble; and was a large, good, dull man, <pb
-                                                  n="22"/> with heavy brows and an immovable
+                                                  chasuble; and was a large, good, dull man, <pb n="22"/> with heavy brows and an immovable
                                                   countenance. His enormous nose, as I have often
                                                   observed in persons of Lord Hallamshire's type,
                                                   indicated solidity rather than sagacity, and a
@@ -1217,8 +1198,7 @@
                                                   magnetic motion made itself felt, a rushing onward
                                                   from sphere to sphere, while in the dim and starry
                                                   distance portals shone half-opened, and round
-                                                  about them an awful faint-toned halo, like <pb
-                                                  n="39"/> a cloud or a rainbow, hiding yet
+                                                  about them an awful faint-toned halo, like <pb n="39"/> a cloud or a rainbow, hiding yet
                                                   betokening the mystery that should be revealed. A
                                                   glorious work of genius, but ruined. Yes, it was
                                                   too true. That which must have been the perfection
@@ -1403,8 +1383,7 @@
                                                   be as before. Valence was free, she said, but she
                                                   had given him her heart and could wait until he
                                                   was worthy of it. "That will never be," replied my
-                                                  father with some anger. "Valence has no heart <pb
-                                                  n="45"/> himself, and what brain he has will bring
+                                                  father with some anger. "Valence has no heart <pb n="45"/> himself, and what brain he has will bring
                                                   him to little good. If he cannot believe in God,
                                                   you ought never to believe in <hi>him</hi> . He
                                                   will only deceive you." Valence said nothing,
@@ -1434,8 +1413,7 @@
                                                   without assigning any reason. I asked her one
                                                   evening whether she thought Edgar Valence might
                                                   return, whether she hoped it; and she replied: "I
-                                                  cannot tell; but when I gave him my promise it <pb
-                                                  n="46"/> was once for all, and I will never break
+                                                  cannot tell; but when I gave him my promise it <pb n="46"/> was once for all, and I will never break
                                                   it." I argued that her promise was no longer
                                                   binding, that Edgar himself had tacitly released
                                                   her, since he neither came, nor wrote, nor gave
@@ -1636,8 +1614,7 @@
                                                   themselves; for it pretended to have come from
                                                   heaven, and they didn't much care whether they
                                                   came from heaven or hell; neither did they trouble
-                                                  as to which of the two would have them by <pb
-                                                  n="53"/> and by. They hated monkery, and they
+                                                  as to which of the two would have them by <pb n="53"/> and by. They hated monkery, and they
                                                   liked a wild life. Certain of them, however, were
                                                   fierce fanatics; and one of these gave me trouble
                                                   enough. He was a stalwart young fellow, more
@@ -1731,8 +1708,7 @@
                                                   the world without. Felayo beat upon them with his
                                                   thundering club, which had shattered so many
                                                   before. But they stood unshaken, and we saw that
-                                                  if we were to enter at that point we must <pb
-                                                  n="56"/> open with a regular assault. As we
+                                                  if we were to enter at that point we must <pb n="56"/> open with a regular assault. As we
                                                   hesitated to begin one of the men cried out that
                                                   the church doors would be easier. That great
                                                   building stood outside the cloister and opened on
@@ -2048,8 +2024,7 @@
                                                   above an altar. We did not often repeat the
                                                   legend; we had no picture to show, and assuredly
                                                   we did not dream that a resemblance existed
-                                                  between the features of my sister and those <pb
-                                                  n="67"/> of her far-away ancestress. Valence's
+                                                  between the features of my sister and those <pb n="67"/> of her far-away ancestress. Valence's
                                                   letter was a revelation.</p>
                                                   <p>'While we talked Lady Alice came back, looking
                                                   so pale that I ran to her, expecting her to faint
@@ -2688,8 +2663,7 @@
                                                   with slippery tracts of grass and prickly heather
                                                   between them, which composed the main part of the
                                                   ascent. He was soon out of breath, and paused to
-                                                  take in a fresh supply, and look round <pb n="88"
-                                                  /> on the view to which he had turned his back,
+                                                  take in a fresh supply, and look round <pb n="88"/> on the view to which he had turned his back,
                                                   for, like a true artist, he regretted leaving it.
                                                   The scene was unutterably grand. A strange, cold
                                                   light was coming over shore and ocean, bringing
@@ -2720,8 +2694,7 @@
                                                   ritual, were on each side of the dim recess. But
                                                   he could not rest there long. He must stand up and
                                                   gaze out once more upon the tempest, although to
-                                                  do so he had to shield his eyes from the <pb
-                                                  n="89"/> mingled dust and foam that came driving
+                                                  do so he had to shield his eyes from the <pb n="89"/> mingled dust and foam that came driving
                                                   in with the rain as it blew off the sea. A flash
                                                   of lightning followed by the rattle of thunder
                                                   overhead warned him that he was not in a very safe
@@ -3625,8 +3598,7 @@
                                                   lightness of hand in rendering them.'</p>
                                                   <p>'But why is he not celebrated? Has he no
                                                   ambition?'</p>
-                                                  <p>'I do not think he understands the word. He <pb
-                                                  n="118"/> earns money and gives it away; talks to
+                                                  <p>'I do not think he understands the word. He <pb n="118"/> earns money and gives it away; talks to
                                                   me when he wants society, or goes among the
                                                   working men in his neighbourhood; travels
                                                   occasionally in a modest way; can bear his own
@@ -3658,8 +3630,7 @@
                                                   features handsome. By the side of Glanville he
                                                   looked plain and slight. He was very thin, stooped
                                                   a little in the shoulders, walked negligently
-                                                  though not without ease, and for some <pb n="119"
-                                                  /> time hardly lifted his eyes from the ground
+                                                  though not without ease, and for some <pb n="119"/> time hardly lifted his eyes from the ground
                                                   while his hostess addressed him. When he did so,
                                                   however, he showed a countenance that, in the
                                                   manly expression of Robert Burns, 'had received
@@ -4370,8 +4341,7 @@
                                                   know,'she said, 'I am not so much your cousin as
                                                   Lady May; but, if I am hers, you ought to be mine.
                                                   Don't you think so, Mr.—Mr. Davenant?'The curious
-                                                  mingling of sarcasm, fright, and tenderness <pb
-                                                  n="142"/> with which the Countess uttered his name
+                                                  mingling of sarcasm, fright, and tenderness <pb n="142"/> with which the Countess uttered his name
                                                   thus formally was worth observing. Glanville,
                                                   hitherto intent on his letter, began to feel an
                                                   interest in the little comedy. He knew nothing of
@@ -4464,8 +4434,7 @@
                                                   clearly addressing Lady May. Glanville fled to the
                                                   other end of the terrace; he was aghast at having
                                                   heard what was not intended for his hearing. To
-                                                  forget the sentence was, however, impossible. <pb
-                                                  n="145"/> The Countess had spoken in loud tones,
+                                                  forget the sentence was, however, impossible. <pb n="145"/> The Countess had spoken in loud tones,
                                                   but her laugh sounded unnatural and her voice was
                                                   sharp and peremptory. It seemed to insist on a
                                                   thing which was not certain to be conceded. Could
@@ -4753,8 +4722,7 @@
                                                   sought and could not attain its object. It would
                                                   be hard to express in language the contrast
                                                   between that eager, throbbing life and the gray
-                                                  visions whereon it was feeding. Had but a <pb
-                                                  n="154"/> youthful knight come breaking through
+                                                  visions whereon it was feeding. Had but a <pb n="154"/> youthful knight come breaking through
                                                   the wild and careless brambles which closed her in
                                                   on one side, or riding along the green forest path
                                                   low down in the background on the other, it might
@@ -5042,8 +5010,7 @@
                                                   her meant the surrender, by her cousin, of Tom
                                                   Davenant. When the Countess spoke in the
                                                   drawing-room about Lady May's giving up the
-                                                  dignity of cousinhood, she was moved by a <pb
-                                                  n="163"/> mischievous desire to irritate all three
+                                                  dignity of cousinhood, she was moved by a <pb n="163"/> mischievous desire to irritate all three
                                                   who were sitting there. She had said, petulantly
                                                   enough, when the gentlemen left, that it was a
                                                   shame Lady May did not at once refuse Tom
@@ -5075,8 +5042,7 @@
                                                   While he forgot himself in speaking, she, in her
                                                   rapt attention, saw the earthly vanish and
                                                   themselves entering into a unity of which all the
-                                                  love we know is but a trembling shadow. <pb
-                                                  n="164"/> And he spoke of history, of the old
+                                                  love we know is but a trembling shadow. <pb n="164"/> And he spoke of history, of the old
                                                   classic times, of religion, not as a man
                                                   largely-informed indeed, but as a true artist,
                                                   whose eye sees things in their grouping and judges
@@ -5303,8 +5269,7 @@
                                                   restored the surface of the Virgin of the
                                                   Seraphim. My composition, as binding as Roman
                                                   cement, smooth enough to lay upon it the most
-                                                  delicate colours, and no thicker than a <pb
-                                                  n="172"/> transparent wash, will endure from
+                                                  delicate colours, and no thicker than a <pb n="172"/> transparent wash, will endure from
                                                   Rupert's hand whatever treatment he may attempt.
                                                   Who says that alchemy was good for nothing? or
                                                   that poring over its obscure and dusty records
@@ -5435,8 +5400,7 @@
                                                   lifted out of itself. Again, the beautiful face,
                                                   with its piercing passionate glances, came across
                                                   the vision; but it had lost its power. It passed
-                                                  by like a falling star, vanishing in the <pb
-                                                  n="176"/> steadfast night of eternity. And the
+                                                  by like a falling star, vanishing in the <pb n="176"/> steadfast night of eternity. And the
                                                   awful silent heavens looked down and were
                                                   reflected in the waters of the shining mere; and
                                                   deep calm fell upon Ivor. He drew the curtain
@@ -5467,8 +5431,7 @@
                                                   should I not still be exposed to temptation, while
                                                   the warm earth cherished the seed of love? Out
                                                   with it to the surface; let the light kill it! But
-                                                  in what way? Let me think. This book, <pb n="177"
-                                                  /> so scanty in its record of facts, is abundant
+                                                  in what way? Let me think. This book, <pb n="177"/> so scanty in its record of facts, is abundant
                                                   in delineation of moods and feelings. I always
                                                   meant to make it an autobiography,—the travels of
                                                   a soul towards truth. Why, now, should I not take
@@ -5500,8 +5463,7 @@
                                                   mere lad, of the technique of engraving, and took
                                                   me with him, almost as soon as I could walk, to
                                                   his workman's club, his tradesunion meetings, his
-                                                  political association, his temperance <pb n="178"
-                                                  /> and vegetarian propaganda, but at no time to
+                                                  political association, his temperance <pb n="178"/> and vegetarian propaganda, but at no time to
                                                   church. He did not believe greatly in churches.
                                                   However, I soon learnt that the world was a busy
                                                   place; and strange to say, I learnt equally soon
@@ -5595,8 +5557,7 @@
                                                   quickness; I spent hour after hour at my teacher's
                                                   side, watching all he did, and copying it as he
                                                   allowed me, always with astonishing accuracy for
-                                                  so young a hand. The good man looked on <pb
-                                                  n="181"/> me, I think, as something uncanny. I
+                                                  so young a hand. The good man looked on <pb n="181"/> me, I think, as something uncanny. I
                                                   must, indeed, have been a weird, elfish creature.
                                                   And how I went on dreaming, longing, imagining,
                                                   ever under a presentiment that, sooner or later, a
@@ -6110,8 +6071,7 @@
                                                   exceedingly definite in practice: they all aimed
                                                   at being English gentlemen. This did not keep the
                                                   boys from schoolboys' sins. They lied to their
-                                                  masters, and sometimes, though seldom, <pb n="198"
-                                                  /> to one another; they were cruel, selfish, and
+                                                  masters, and sometimes, though seldom, <pb n="198"/> to one another; they were cruel, selfish, and
                                                   spiteful; they believed in no religion, and they
                                                   had little morality. I had been educated hitherto
                                                   on such a different system that every day
@@ -6670,8 +6630,7 @@
                                                   in the house, Tom was pretty sure to be away; and
                                                   many an hour they passed by lakelet and stream,
                                                   during which their conversation ranged wider than
-                                                  might have been fancied. Ivor had not <pb n="216"
-                                                  /> begun as a fisherman, he told Tom, but as an
+                                                  might have been fancied. Ivor had not <pb n="216"/> begun as a fisherman, he told Tom, but as an
                                                   explorer. The sight of running water fascinated
                                                   him, and he had spent his holidays in following
                                                   the course of our English streams, going down with
@@ -6829,8 +6788,7 @@
                                                   was still and autumnal; but in Lady May's heart
                                                   rose the delicious feeling of spring. She was no
                                                   longer miserable; the clouds were dispersing, and
-                                                  the sun was coming out. She felt that <pb n="221"
-                                                  /> love was answering love; and while her own was
+                                                  the sun was coming out. She felt that <pb n="221"/> love was answering love; and while her own was
                                                   intensified, it was humbled too. Had she done that
                                                   which was unmaidenly? had there been a lack of
                                                   reticence, a boldness in speaking of what she had
@@ -6957,8 +6915,7 @@
                                                   motive with which an artist is commonly
                                                   credited—the love of fame. One purpose took
                                                   possession of him—to make this picture as perfect
-                                                  as he might; to enter into the heart of that <pb
-                                                  n="225"/> dead Friar who had painted it and wrest
+                                                  as he might; to enter into the heart of that <pb n="225"/> dead Friar who had painted it and wrest
                                                   from him the secret of its loveliness. He felt
                                                   that to restore was, in this instance, to create
                                                   anew. Rupert had learnt when he was very young,
@@ -7020,8 +6977,7 @@
                                                   ascending flame, was not to be quenched, but
                                                   transformed into the rarest sentiment of chivalry.
                                                   Ivor was more tender than passionate; the pity
-                                                  which was almost born with him coloured <pb
-                                                  n="227"/> his every feeling, even that friendship
+                                                  which was almost born with him coloured <pb n="227"/> his every feeling, even that friendship
                                                   for Rupert, wherein pity might have seemed to find
                                                   no place. Much more did it warm and melt his being
                                                   when the haggard looks of Lady May told him, the
@@ -7084,8 +7040,7 @@
                                                   graver than usual, for he was thinking of that
                                                   other morning, when the young Alice and Edgar
                                                   Valence exchanged, in the presence of this same
-                                                  Madonna, the pledges that had bereft him of <pb
-                                                  n="229"/> a friend and a sister. His eyes turned
+                                                  Madonna, the pledges that had bereft him of <pb n="229"/> a friend and a sister. His eyes turned
                                                   more than once towards Lady May, inquiringly,
                                                   anxiously, as if he were struck with her
                                                   resemblance to her unhappy aunt.</p>
@@ -7264,8 +7219,7 @@
                                                   servitude could not last. He was delighted to be
                                                   free; and with a light step he strolled on till he
                                                   came to the river.</p>
-                                                  <p>At the place where he paused the Yale was <pb
-                                                  n="235"/> moving over sand and jutting stones,
+                                                  <p>At the place where he paused the Yale was <pb n="235"/> moving over sand and jutting stones,
                                                   which broke the tiny stream into a hundred
                                                   glittering rivulets, and gave a sure footing if
                                                   one were tempted to cross. The other side, thickly
@@ -7392,8 +7346,7 @@
                                                   eternity?—into the calm, lustrous eyes that met
                                                   his own. They seemed of a most limpid
                                                   innocence—beautiful, shining, starlike. Did the
-                                                  lady look as steadily at him? I am sure <pb
-                                                  n="239"/> he did not know. All he saw were the
+                                                  lady look as steadily at him? I am sure <pb n="239"/> he did not know. All he saw were the
                                                   beautiful eyes, not any of the meaning they may
                                                   have had in them. He waited spellbound.</p>
                                                   <p>The lady did not blush, or seem greatly taken
@@ -7777,8 +7730,7 @@
                                                   unaware that there was a spectator of her actions,
                                                   put an arm round his neck and kissed him on the
                                                   forehead. Rupert bit his lip again. Young man,
-                                                  that is your punishment for spying and <pb n="251"
-                                                  /> gazing where you ought not to be! Hippolyta
+                                                  that is your punishment for spying and <pb n="251"/> gazing where you ought not to be! Hippolyta
                                                   vaulted into the saddle with the lightness of a
                                                   bird, gave the reins a shake, and was off like an
                                                   arrow. Hermes's sandals were now of no avail.
@@ -7839,8 +7791,7 @@
                                                   had spoken in a whisper, with what heavenly shame
                                                   in her accent, as though resisting the suggestion
                                                   which made her answer while yielding to it! Love,
-                                                  ah no, it was not love, but pity, modesty, the <pb
-                                                  n="253"/> exquisite compassion of Hippolyta, who
+                                                  ah no, it was not love, but pity, modesty, the <pb n="253"/> exquisite compassion of Hippolyta, who
                                                   was a queen yet a child. In this way he babbled
                                                   for hours—this great incontestable genius, walking
                                                   at random and getting wet to the skin, and not
@@ -8080,8 +8031,7 @@
                                                   path and disappeared round a corner of the
                                                   cottage. If Rupert could have made sure of being
                                                   unobserved, I think he too would have put his arm
-                                                  round the pony's neck and saluted him <pb n="261"
-                                                  /> on the forehead. But he was prudent. No more
+                                                  round the pony's neck and saluted him <pb n="261"/> on the forehead. But he was prudent. No more
                                                   risks through excess of demonstration for him.
                                                   Djalma, therefore, had to be content with much
                                                   patting and caressing, which, like all beings
@@ -8467,8 +8417,7 @@
                                                   woollen shawl which was assuredly no part of
                                                   Colonel Valence's apparel. The foolish young man
                                                   was now quite enough intoxicated not to recover
-                                                  from his state of delirium so long as <pb n="273"
-                                                  /> the remembrance of that night stayed with him.
+                                                  from his state of delirium so long as <pb n="273"/> the remembrance of that night stayed with him.
                                                   Hippolyta, on bidding him good-bye, detained him
                                                   for a moment. 'If,' she said, 'when you are
                                                   telling your adventures at Trelingham, you will
@@ -9008,8 +8957,7 @@
                                                   <p>'Rupert, how can you say so?' cried the other,
                                                   coming up to him and putting his hand on his
                                                   shoulder. 'You know that in comparison with you I
-                                                  have no friend. This is a matter of duty or <pb
-                                                  n="15"/> discipline, not of affection. I do not
+                                                  have no friend. This is a matter of duty or <pb n="15"/> discipline, not of affection. I do not
                                                   belong to myself. When I am summoned I must go. I
                                                   shall have no fixed address; in any case I am
                                                   bound to secrecy.'</p>
@@ -9198,8 +9146,7 @@
                                                   Europe; and she had books and a horse. All she
                                                   wanted besides—she hesitated, and looked in a
                                                   pleading, affectionate way from one lady to the
-                                                  other—was a friend or two of her own sex, who <pb
-                                                  n="21"/> might remind her that there were other
+                                                  other—was a friend or two of her own sex, who <pb n="21"/> might remind her that there were other
                                                   things as sweet and precious as the service in
                                                   which she was engaged. Especially, she went on, it
                                                   had been her desire to know a little of Lady May,
@@ -9402,8 +9349,7 @@
                                                   should rather say, he could not, for they would
                                                   have hindered his going. But a certain steady
                                                   light in his eyes and involuntary tension of the
-                                                  muscles betokened the excitement under <pb n="28"
-                                                  /> which he laboured. 'You are not very well,'
+                                                  muscles betokened the excitement under <pb n="28"/> which he laboured. 'You are not very well,'
                                                   said Tom to him; 'can't you wait a few days?'
                                                   Rupert noticed his mood, was exceedingly gentle
                                                   with him as on the like occasions in their
@@ -10536,8 +10482,7 @@
                                                   follow. He was so overcome that he leaned against
                                                   the wall to recover himself. Was he ashamed or
                                                   exultant, struck with remorse or full of hope and
-                                                  courage? He was all these at once. For the <pb
-                                                  n="64"/> notions that Hippolyta had learned from
+                                                  courage? He was all these at once. For the <pb n="64"/> notions that Hippolyta had learned from
                                                   her father he cared not a jot. Hers was a soul
                                                   that turned them all to favour and to prettiness;
                                                   she believed them because they seemed noble in her
@@ -11160,8 +11105,7 @@
                                                   what will become of your precious secret,
                                                   Hippolyta?'</p>
                                                   <p>'True,' she said in a lower tone; 'but I am so
-                                                  astonished. How could you recollect me in my <pb
-                                                  n="84"/> riding-habit, and paint it all from
+                                                  astonished. How could you recollect me in my <pb n="84"/> riding-habit, and paint it all from
                                                   memory. For you never saw me in this attitude but
                                                   once.'</p>
                                                   <p>'How could I recollect? Ask rather how I could
@@ -11728,8 +11672,7 @@
                                                   fond of Miss Valence, in that selfish way which
                                                   people have who like to see beautiful things about
                                                   them; fond as she might have been of a lovely
-                                                  flower, or an Arab steed. But she had only one <pb
-                                                  n="102"/> strong human feeling, and that was for
+                                                  flower, or an Arab steed. But she had only one <pb n="102"/> strong human feeling, and that was for
                                                   no woman. She did mean to marry her cousin; and
                                                   she would have immolated a thousand Hippolytas in
                                                   one holocaust rather than give him up.</p>
@@ -11759,8 +11702,7 @@
                                                   save her father. The power of first love is
                                                   proverbially intense; and when it comes at once,
                                                   without warning, to a heart so large as
-                                                  Hippolyta's, and hitherto so self-contained, <pb
-                                                  n="103"/> it has a depth of sacred purity, of
+                                                  Hippolyta's, and hitherto so self-contained, <pb n="103"/> it has a depth of sacred purity, of
                                                   kindling fire. Had <hi>she</hi> spoken of a
                                                   consuming passion she would have been better
                                                   justified than the Countess, who employed such
@@ -12081,8 +12023,7 @@
                                                   Hippolyta, who had not ventured to lift her eyes
                                                   at the beginning, looked up and saw the vast
                                                   spaces before her filled with a motley crowd, in
-                                                  all manner of fantastic and glittering attire, <pb
-                                                  n="113"/> while a flood of golden light fell upon
+                                                  all manner of fantastic and glittering attire, <pb n="113"/> while a flood of golden light fell upon
                                                   them from the sides of the hall, where Rupert's
                                                   grandly-conceived frescoes, marking out the whole
                                                   extent they were by and by to cover, added an air
@@ -12459,8 +12400,7 @@
                                                   direction of Fulham, where his studio lay. The
                                                   dinner-hour was past, and he thought of dining
                                                   <hi>extempore</hi> , as his aged female called it,
-                                                  in front of Hippolyta's picture, which was <pb
-                                                  n="126"/> hanging on the easel. Then he would
+                                                  in front of Hippolyta's picture, which was <pb n="126"/> hanging on the easel. Then he would
                                                   smoke a cigarette, and read or dream before the
                                                   fire according to his feelings. It had been a
                                                   chill day with much rain and wind. The clouds
@@ -12523,8 +12463,7 @@
                                                   was a cosy scene. The light played here and there
                                                   on the quaint cups and saucers, brought out the
                                                   gleam of the silver, and showed pictures,
-                                                  statuettes of marble, heavy crimson draperies, <pb
-                                                  n="128"/> and the confused mingling of carved
+                                                  statuettes of marble, heavy crimson draperies, <pb n="128"/> and the confused mingling of carved
                                                   woodwork, half-theatrical costumes, vases of
                                                   flowers, painters' lay-figures, and pieces of
                                                   shining armour, which made up the
@@ -12717,8 +12656,7 @@
                                                   guests, including his mother, had left Trelingham,
                                                   he went to the Earl and renewed his proposal. What
                                                   passed between them nobody of course can tell.
-                                                  Karina, who never quitted her Cousin Tom's <pb
-                                                  n="134"/> footsteps during those days, saw him
+                                                  Karina, who never quitted her Cousin Tom's <pb n="134"/> footsteps during those days, saw him
                                                   enter the library, and half an hour afterwards
                                                   heard Lord Trelingham ring his bell. She was still
                                                   watching when the servant who answered it went off
@@ -13003,8 +12941,7 @@
                                                   malignant, had thrust Hippolyta into this
                                                   frightful danger? How, good heavens, had she been
                                                   so foolish, so innocent, as to confide herself, at
-                                                  such a time, under such circumstances, <pb n="144"
-                                                  /> to a man who was passionately in love with her,
+                                                  such a time, under such circumstances, <pb n="144"/> to a man who was passionately in love with her,
                                                   casting away like an unsuspecting child the
                                                   protection with which society girds about maiden
                                                   honour? 'Oh,' he murmured, sighing heavily and
@@ -13067,8 +13004,7 @@
                                                   Hippolyta?' His voice trembled again. He could
                                                   hardly continue. 'Might I not do as other men have
                                                   done—be a scoundrel and desert the woman I had
-                                                  pretended to love? Where would be her remedy?' <pb
-                                                  n="146"/> He shook with excitement and the effort
+                                                  pretended to love? Where would be her remedy?' <pb n="146"/> He shook with excitement and the effort
                                                   to keep it down.</p>
                                                   <p>Hippolyta fairly laughed. 'And do you think the
                                                   Archbishop's license would give her a remedy? What
@@ -13449,8 +13385,7 @@
                                                   thing,—all feeling, purity, and affection,—must
                                                   Hippolyta be lost, and I be the instrument of her
                                                   undoing? It is too much.'</p>
-                                                  <p>He stopped and gazed up and down the silent <pb
-                                                  n="158"/> road, bewildered to such a degree that
+                                                  <p>He stopped and gazed up and down the silent <pb n="158"/> road, bewildered to such a degree that
                                                   he knew not whether to turn back and try to
                                                   persuade Hippolyta, or to leave it all to chance
                                                   and depart by the next mail for the Continent. He
@@ -13513,8 +13448,7 @@
                                                   Ivor go away? He would tell me what to do; he
                                                   would find a solution. Is it only inbred custom
                                                   that revolts in me, or something higher and
-                                                  better; is it the heart which will not <pb n="160"
-                                                  /> have its affection degraded, or a want of
+                                                  better; is it the heart which will not <pb n="160"/> have its affection degraded, or a want of
                                                   nobility in the intellect, fettered by chains of
                                                   use? I cannot tell. Who is there that can tell
                                                   me?' He lost himself in the endless discussion.
@@ -14050,8 +13984,7 @@
                                                   fastidiousness of sense held him above the vulgar
                                                   range of low desire. He was serious, enthusiastic,
                                                   given to labour, well content with Ivor's
-                                                  friendship instead of a thousand which <pb n="177"
-                                                  /> were to be had for the asking. When love came,
+                                                  friendship instead of a thousand which <pb n="177"/> were to be had for the asking. When love came,
                                                   he said, he would make it welcome; and he waited,
                                                   not impatiently, till its day should 'peer forth
                                                   the golden windows of the East.' He had not been
@@ -14338,8 +14271,7 @@
                                                   the famous artist in Belgravia, and Mr. Malcolm
                                                   the idle young gentleman at Forrest
                                                   House—concerned nobody but himself. The penalty
-                                                  was for bringing these things on the stage. <pb
-                                                  n="186"/> And Rupert, who was well acquainted with
+                                                  was for bringing these things on the stage. <pb n="186"/> And Rupert, who was well acquainted with
                                                   the rules of modern society, although hitherto not
                                                   called on to practise this particular one, felt by
                                                   turns amused and melancholy,—amused at lying
@@ -14554,8 +14486,7 @@
                                                   of the details to one of his friends. In that case
                                                   they would leave England and fix their home in
                                                   France or Italy. Much might depend on the
-                                                  adventures, in regions whither Glanville <pb
-                                                  n="193"/> could not follow him, of Colonel
+                                                  adventures, in regions whither Glanville <pb n="193"/> could not follow him, of Colonel
                                                   Valence; something, too,—the artist murmured in a
                                                   low aside, —on the development of Hippolyta's
                                                   character under these novel influences, and with
@@ -14775,8 +14706,7 @@
                                                   him the task which May Davenant had undertaken
                                                   would have seemed desperate. Either he was
                                                   inaccessible by nature, or the conquest was
-                                                  already made—by another. She did not appear <pb
-                                                  n="200"/> to think so. She was wary, attentive,
+                                                  already made—by another. She did not appear <pb n="200"/> to think so. She was wary, attentive,
                                                   engrossed, letting not a hint escape from her, and
                                                   watching every expression on his countenance,
                                                   every slightest accident in the day's proceedings.
@@ -15160,8 +15090,7 @@
                                                   said her mistress; 'why should it?' Well, the
                                                   housekeeper did not know, but some people were set
                                                   against Roman Catholics. Not Miss Foljambe, to be
-                                                  sure; that charitable lady had a kind word for <pb
-                                                  n="212"/> all the world. And that was why the
+                                                  sure; that charitable lady had a kind word for <pb n="212"/> all the world. And that was why the
                                                   gardener came. 'Let him come now, then,' said Mrs.
                                                   Malcolm, who had not learnt to tolerate servants'
                                                   long stories. The housekeeper beckoned to a man
@@ -15357,8 +15286,7 @@
                                                   hair, hanging about his shoulders in ringlets,
                                                   large laughing gray eyes, a face ruddy and white
                                                   with pouting rosy lips, and his little frame
-                                                  panting with innocent life which mantled in <pb
-                                                  n="218"/> blushes on his cheeks. He seemed between
+                                                  panting with innocent life which mantled in <pb n="218"/> blushes on his cheeks. He seemed between
                                                   five and six, a sturdy boy, wearing his sailor's
                                                   dress of dark blue with the pride which attends
                                                   new clothes in children. After standing still and
@@ -15569,8 +15497,7 @@
                                                   away her hand, turned to go, but, seeing Hippolyta
                                                   coming along at a little distance, went back to
                                                   where he had left his companion. Both of them
-                                                  waited, loitering in the shade with faces <pb
-                                                  n="225"/> averted till Hippolyta had passed by. It
+                                                  waited, loitering in the shade with faces <pb n="225"/> averted till Hippolyta had passed by. It
                                                   was not difficult to guess that they had been
                                                   quarrelling, and were ashamed to be seen. Annie
                                                   Dauris was never at home when Hippolyta called,
@@ -15633,8 +15560,7 @@
                                                   daresay you would have known her in the street if
                                                   you had. William says she is so like me when we
                                                   first married.' There was much affection in the
-                                                  mother's voice; not anger or coldness, which, <pb
-                                                  n="227"/> under the circumstances, might have
+                                                  mother's voice; not anger or coldness, which, <pb n="227"/> under the circumstances, might have
                                                   seemed more natural. Hippolyta did not know what
                                                   to reply. But with as much gentleness as she could
                                                   command, she answered, 'No, I never saw your
@@ -15859,8 +15785,7 @@
                                                   Dauris can begin the story better than I. She had
                                                   lived through it all. Sitting up on her couch, and
                                                   pausing from time to time when her breath failed
-                                                  her, she unburdened herself of this great <pb
-                                                  n="234"/> trouble to the young married lady one
+                                                  her, she unburdened herself of this great <pb n="234"/> trouble to the young married lady one
                                                   morning, when Annie was ironing in the little
                                                   back-kitchen and not likely to interrupt them.</p>
                                                   <p>'It shames me,' she said, 'to speak about such
@@ -16485,8 +16410,7 @@
                                                   He wrought then like a man who is aware that one
                                                   day's labour will purchase seven days' enjoyment,
                                                   —fiercely, furiously, with his genius concentrated
-                                                  in every stroke, and a haste that is possible <pb
-                                                  n="254"/> only to a spirit set on fire. He never
+                                                  in every stroke, and a haste that is possible <pb n="254"/> only to a spirit set on fire. He never
                                                   painted so admirably; it was the passage of the
                                                   beautiful, swift lightning over the face of a
                                                   landscape, lambent, not destructive, adding a
@@ -16582,8 +16506,7 @@
                                                   objection. But, half in shame and the least bit
                                                   inclined to be angry with her adored Rupert, she
                                                   answered no, it was not as he supposed, and, if he
-                                                  would promise to keep quiet and not laugh <pb
-                                                  n="257"/> at her, she would tell him. The artist,
+                                                  would promise to keep quiet and not laugh <pb n="257"/> at her, she would tell him. The artist,
                                                   however, was in that mood of abounding joy which
                                                   the old wise Greeks thought unseemly for a mere
                                                   creature of a day, whose happiness might be blown
@@ -16676,8 +16599,7 @@
                                                   the gate Mr. Malcolm was gone; and on inquiry she
                                                   learnt that Mrs. Malcolm had set out soon after
                                                   him, and would not be back till evening. But the
-                                                  housekeeper did not know that Hippolyta <pb
-                                                  n="260"/> had resolved on a visit to Saffron Hill.
+                                                  housekeeper did not know that Hippolyta <pb n="260"/> had resolved on a visit to Saffron Hill.
                                                   It was to be a secret from Annie, unless good was
                                                   certain to come from telling her.</p>
                                                   <p>Hippolyta, meanwhile, though acquainted with
@@ -16771,8 +16693,7 @@
                                                   She listened impatiently to Hippolyta's questions,
                                                   eyeing her elegantly-dressed visitor with marked
                                                   disdain; for there is the pride of Diogenes
-                                                  trampling on the pride of Plato in many an <pb
-                                                  n="263"/> unkempt and ragged woman, when she
+                                                  trampling on the pride of Plato in many an <pb n="263"/> unkempt and ragged woman, when she
                                                   brushes against another of her sex in silk attire.
                                                   The only answer this virago made was that if the
                                                   stranger would give Susan a penny, Susan would
@@ -17535,8 +17456,7 @@
                                                   that good existed; she attempted, but in vain, to
                                                   reckon up the pangs that made each particular
                                                   agony; she drew back to contemplate the universal
-                                                  woe in its length and height and breadth; <pb
-                                                  n="10"/> but the spectacle was too much for her,
+                                                  woe in its length and height and breadth; <pb n="10"/> but the spectacle was too much for her,
                                                   and she could not see for weeping. 'Why,' she
                                                   asked herself wonderingly, 'how did life continue
                                                   under these iron laws? What hindered men and women
@@ -17889,8 +17809,7 @@
                                                   and she was going now to find the father of the
                                                   child that should be born to her, and in case she
                                                   could not find him to put an end to her misery.
-                                                  She would never, never come home again. She <pb
-                                                  n="21"/> begged Mrs. Malcolm, for the love of God,
+                                                  She would never, never come home again. She <pb n="21"/> begged Mrs. Malcolm, for the love of God,
                                                   to break the news as gently as she could to her
                                                   poor mother. 'It will be her death,' were the
                                                   concluding words of the letter; 'but I cannot help
@@ -18992,8 +18911,7 @@
                                                   gates of Forrest House. He sprang out hastily,
                                                   dismissed the cabman, and ran as if wings were
                                                   carrying him along the garden path into the hall.
-                                                  When the housekeeper saw him she turned red <pb
-                                                  n="56"/> and pale. 'Where is Mrs. Malcolm?' he
+                                                  When the housekeeper saw him she turned red <pb n="56"/> and pale. 'Where is Mrs. Malcolm?' he
                                                   cried gaily. 'Is she in her room?' The housekeeper
                                                   stood motionless, looked at him compassionately,
                                                   and made no reply. He was struck with her silence,
@@ -19084,8 +19002,7 @@
                                                   he looked. But this slight action brought him to
                                                   himself. Hippolyta must have been seen when she
                                                   went away; if not by the servants, yet by those
-                                                  who were passing along the street, by the <pb
-                                                  n="60"/> neighbours, the police, by whatever
+                                                  who were passing along the street, by the <pb n="60"/> neighbours, the police, by whatever
                                                   people might be about in the early morning. What
                                                   if a misfortune to her father had driven her out
                                                   of her mind, and she were wandering somewhere
@@ -19149,8 +19066,7 @@
                                                   expression of intense sorrow in his countenance,
                                                   and so deeply grieved on hearing of Hippolyta's
                                                   disappearance from home that he could hardly reply
-                                                  to the questions which Rupert addressed <pb n="62"
-                                                  /> to him. He was evidently as much in the dark as
+                                                  to the questions which Rupert addressed <pb n="62"/> to him. He was evidently as much in the dark as
                                                   any one else. He could not think so feeling a lady
                                                   as Mrs. Malcolm would have set out on a long
                                                   journey, especially if it was connected with his
@@ -19496,8 +19412,7 @@
                                                   left him standing in the dark passage and
                                                   disappeared. Returning not long after, she showed
                                                   him into the sitting-room, which was almost as
-                                                  dark; and there he waited, considering <pb n="73"
-                                                  /> with himself how he should begin the
+                                                  dark; and there he waited, considering <pb n="73"/> with himself how he should begin the
                                                   cross-examination to which he intended to submit
                                                   the unknown ecclesiastic. Mr. Regan came in,
                                                   apologised for the want of light, turned on the
@@ -19862,8 +19777,7 @@
                                                   princely Bernsteins. But this was not one of them.
                                                   Plebeian, not prince, was stamped on his yellow
                                                   forehead, his starved and sallow countenance, and
-                                                  his drooping shoulders. He was of unusually <pb
-                                                  n="85"/> small stature, though not a dwarf; and
+                                                  his drooping shoulders. He was of unusually <pb n="85"/> small stature, though not a dwarf; and
                                                   the meagreness of his general appearance denoted
                                                   either scant opportunities of eating, or a severe
                                                   control over the grosser appetites. But it was the
@@ -19894,8 +19808,7 @@
                                                   with forefinger held up as if to bespeak earnest
                                                   attention, began in a strong penetrating voice,
                                                   where the German accent made itself harshly felt,
-                                                  'Before you tell me the story which I see <pb
-                                                  n="86"/> you are turning over in your mind, let me
+                                                  'Before you tell me the story which I see <pb n="86"/> you are turning over in your mind, let me
                                                   sketch the principles on which I conduct my
                                                   office. They are simple. On your side you
                                                   purchase, and no doubt you require, absolute
@@ -19927,8 +19840,7 @@
                                                   as simple as your principles. A lady—'</p>
                                                   <p>'Of course,' said Mr. Bernstein, taking out his
                                                   pocket-book; 'what is her name?'</p>
-                                                  <p>'Her name is Hippolyta Valence, but she has <pb
-                                                  n="87"/> been known for the last nine months as
+                                                  <p>'Her name is Hippolyta Valence, but she has <pb n="87"/> been known for the last nine months as
                                                   Mrs. Malcolm. She has suddenly disappeared from
                                                   home, and I am commissioned to discover and if
                                                   possible bring her back.'</p>
@@ -20161,8 +20073,7 @@
                                                   the door was shut on that venerable figure, he
                                                   returned to his study, and, throwing himself on
                                                   the sofa, fell into a troubled sleep. Mr.
-                                                  Bernstein, meanwhile, bearing an epistle <pb
-                                                  n="94"/> from the artist, drove at his top-speed
+                                                  Bernstein, meanwhile, bearing an epistle <pb n="94"/> from the artist, drove at his top-speed
                                                   to Forrest House, to inspect, as he said, 'the
                                                   basis of operations.' He had a strong belief that
                                                   the localities tell half the story when they are
@@ -20288,8 +20199,7 @@
                                                   ragged garments, had been brought in early that
                                                   morning, not from the river, but from a common
                                                   lodging-house. She had poisoned herself in a fit
-                                                  of despair, of shame, it appeared. They <pb n="98"
-                                                  /> had brought her round a little, but she could
+                                                  of despair, of shame, it appeared. They <pb n="98"/> had brought her round a little, but she could
                                                   not live. They did not know her name or history.
                                                   Would the gentleman see her? He followed the nurse
                                                   at once, stepping noiselessly upstairs, and was
@@ -20574,8 +20484,7 @@
                                                   innocent, there could be no harm in accepting a
                                                   proposal he had made himself. When the letter came
                                                   containing his attempted exculpation, Rupert had
-                                                  been minded to fling it in the fire without <pb
-                                                  n="107"/> opening it. He was now glad he had
+                                                  been minded to fling it in the fire without <pb n="107"/> opening it. He was now glad he had
                                                   restrained his passion. There were signs of
                                                   relenting in his attitude as he sat down once more
                                                   and motioned Bernstein to his seat.</p>
@@ -20606,8 +20515,7 @@
                                                   need not be scrupulous in joining them. You can
                                                   then keep an eye on Mr. Mardol during every one of
                                                   the twenty-four hours. He did not foreshadow this
-                                                  move when he wrote to you his letter. <pb n="108"
-                                                  /> It will give him the checkmate. He will be in
+                                                  move when he wrote to you his letter. <pb n="108"/> It will give him the checkmate. He will be in
                                                   your hands like a child or a teetotum, to spin
                                                   round.'</p>
                                                   <p>All this appeared plausible enough; and to a
@@ -22309,8 +22217,7 @@
                                                   evening to Grafton Place, in the hope of hearing
                                                   through Ivor Mardol that some one had brought
                                                   information from St. Petersburg. And as refugee
-                                                  after refugee appeared in London, but Colonel <pb
-                                                  n="162"/> Valence did not return, and nothing was
+                                                  after refugee appeared in London, but Colonel <pb n="162"/> Valence did not return, and nothing was
                                                   said of his daughter, the artist's despair became
                                                   uncontrollable. His suspicions of Mardol woke from
                                                   the slumber into which they had been cast by that
@@ -22341,8 +22248,7 @@
                                                   when I heard of the twofold motive? I said, "To
                                                   find Mrs. Malcolm I cannot promise." But, we say
                                                   in German, no thread so fine is spun that it comes
-                                                  not to the sun. And thus it will prove. I have <pb
-                                                  n="163"/> caused to be inserted your
+                                                  not to the sun. And thus it will prove. I have <pb n="163"/> caused to be inserted your
                                                   advertisements in the <hi>Times</hi> . There is no
                                                   answer yet. Perhaps the true answer was the news
                                                   from Russia. We must wait But,' continued he, 'two
@@ -22978,8 +22884,7 @@
                                                   that man, have known him these sixteen years; but
                                                   he is Mr. Felton, not Colonel Valence.'</p>
                                                   <p>'I tell you,' returned the other with emphasis,
-                                                  'it is Colonel Valence. Voice, and manner, and <pb
-                                                  n="183"/> appearance,—I recognise them all. I met
+                                                  'it is Colonel Valence. Voice, and manner, and <pb n="183"/> appearance,—I recognise them all. I met
                                                   and talked with him in Trelingham churchyard the
                                                   day after I went there.'</p>
                                                   <p>Ivor made him recount the incident, while they
@@ -23632,8 +23537,7 @@
                                                   fair hair and pallid eyes, seemed to be staring at
                                                   him terrifying him with the thoughts of muddy
                                                   death, recounting the horrors of the wicked river
-                                                  flowing to the sea. A stranger would have <pb
-                                                  n="204"/> guessed some story from his words, and
+                                                  flowing to the sea. A stranger would have <pb n="204"/> guessed some story from his words, and
                                                   guessed all wrong. But Ivor took care that Lady
                                                   May should not overhear them.</p>
                                                   <p>For weeks Rupert hung between life and death.
@@ -23662,8 +23566,7 @@
                                                   time. Lady May came frequently, as often as she
                                                   dared. He showed no sign of displeasure; he hardly
                                                   noticed. Later on, when he was convalescent, he
-                                                  saw that she looked worn and thin. 'Have you <pb
-                                                  n="205"/> had a fever too?' he asked, with the
+                                                  saw that she looked worn and thin. 'Have you <pb n="205"/> had a fever too?' he asked, with the
                                                   naïve manner which comes back at that stage, a
                                                   reminiscence of childhood. She smiled rather
                                                   sadly, and answered that it was gone. Lord
@@ -24171,8 +24074,7 @@
                                                   piecing together his shattered life and
                                                   endeavouring to make out his own story. Hippolyta
                                                   was lost and he was married to Lady May. That was
-                                                  the sum. Fate had been too strong for <pb n="222"
-                                                  /> them. Three years—he could not reckon, even
+                                                  the sum. Fate had been too strong for <pb n="222"/> them. Three years—he could not reckon, even
                                                   now, whether it was three years or how long it was
                                                   —since the only woman he loved had forsaken him,
                                                   and he was the husband of another! A cold sweat
@@ -24488,8 +24390,7 @@
                                                   sweet influence of air and sun, the genial
                                                   morning, and the prospects, which grew lovelier as
                                                   they advanced. Rupert, mindful of the purpose they
-                                                  were fulfilling, and the associations <pb n="232"
-                                                  /> which must be vividly present to Lady May and
+                                                  were fulfilling, and the associations <pb n="232"/> which must be vividly present to Lady May and
                                                   her father, exerted himself to bear a worthy part,
                                                   and by assiduous and delicate attentions all but
                                                   effaced from his own mind the feeling of
@@ -24552,8 +24453,7 @@
                                                   gray-white walls of the convent, its imposing
                                                   church seeming to stand in front of the other
                                                   buildings, as though to protect and sanctify them.
-                                                  The windows glittered, and below them, but <pb
-                                                  n="234"/> not far down, the waters of the
+                                                  The windows glittered, and below them, but <pb n="234"/> not far down, the waters of the
                                                   Guadalete, broadened to a lake, shone like a
                                                   blazing mirror beneath the rays of the sun, which
                                                   was now on the verge of the mountains, a fiery,
@@ -24583,8 +24483,7 @@
                                                   <p>Very slowly, for their beasts were tired, they
                                                   made the circuit of the road, now up, now down,
                                                   until they arrived at La Fonda d'Oro. Tom Davenant
-                                                  met them on the way. He had made everything <pb
-                                                  n="235"/> as comfortable as might be. The host, a
+                                                  met them on the way. He had made everything <pb n="235"/> as comfortable as might be. The host, a
                                                   travelled and well-educated Andalusian, full of
                                                   kindness and courtesy, received them with much
                                                   warmth, addressing them in a few words of very
@@ -24703,8 +24602,7 @@
                                                   gipsy and his companions that day they sacked the
                                                   cloister. No fear of violence seemed to be felt
                                                   now within those walls. The gates were open, so
-                                                  too were the doors of the church. They passed <pb
-                                                  n="239"/> in and could hardly see at first, the
+                                                  too were the doors of the church. They passed <pb n="239"/> in and could hardly see at first, the
                                                   roof was so low and the gloom so intense.</p>
                                                   <p>It was an exceedingly ancient edifice, which
                                                   had been first Gothic, then Moorish, and then
@@ -24768,8 +24666,7 @@
                                                   with its railing of wood instead of the bronze
                                                   gates that had been torn away, and its white walls
                                                   on which neither painting nor ornament was
-                                                  visible. No Madonna of the Seraphim hung <pb
-                                                  n="241"/> above the high altar; saints and angels
+                                                  visible. No Madonna of the Seraphim hung <pb n="241"/> above the high altar; saints and angels
                                                   had spread their lustrous wings and were fled. The
                                                   pictured glass had been struck into fragments by
                                                   Colonel Valence's soldiery, and was now replaced
@@ -24800,8 +24697,7 @@
                                                   upon his with overpowering astonishment. He
                                                   returned the look for a full half minute in
                                                   complete stupor. Lady May was examining the
-                                                  chancel, and her face was turned from <pb n="242"
-                                                  /> him. 'Good God,' he said, grasping her arm,
+                                                  chancel, and her face was turned from <pb n="242"/> him. 'Good God,' he said, grasping her arm,
                                                   'who is that?'</p>
                                                   <p>'Who?' said Lady May, turning round. The colour
                                                   was gone out of his cheeks; he stood bewildered.
@@ -24831,8 +24727,7 @@
                                                   <p>'You are not mad,' said the nun faintly; 'I am
                                                   Hippolyta.'</p>
                                                   <p>It was no other. Lost so long, vanished so
-                                                  suddenly, she was found in a moment, thus. He <pb
-                                                  n="243"/> sank speechless to the ground. He did
+                                                  suddenly, she was found in a moment, thus. He <pb n="243"/> sank speechless to the ground. He did
                                                   not swoon. His eyes, like those of a wounded
                                                   animal, looked up at her. After a minute and more,
                                                   when he could speak, he said pityingly,
@@ -25305,8 +25200,7 @@
                                                   where the body had gone down. Hippolyta and
                                                   Rupert, out of themselves with anguish, ran
                                                   headlong through the low underwood and arrived on
-                                                  the bank just as the stranger who had plunged <pb
-                                                  n="258"/> in turned round towards the shore,
+                                                  the bank just as the stranger who had plunged <pb n="258"/> in turned round towards the shore,
                                                   keeping himself afloat as well as he could while
                                                   holding the inanimate form of May Glanville.
                                                   Others came running at the same time, fishermen
@@ -25692,8 +25586,7 @@
                                                   joy. The new-found brother told, in feeble
                                                   accents, and pausing at the end of almost every
                                                   sentence, the story of his birth, and the reasons
-                                                  that had moved a father who, albeit in a <pb
-                                                  n="271"/> stern way, loved his children, to put a
+                                                  that had moved a father who, albeit in a <pb n="271"/> stern way, loved his children, to put a
                                                   veil of mystery between himself and his only son.
                                                   Ivor would not allow Colonel Valence to take the
                                                   word out of his mouth; an excessive gladness,
@@ -25786,8 +25679,7 @@
                                                   that a little knowledge of life would lead his son
                                                   to sufficiently stern principles, and he trusted
                                                   no one like Mr. Mardol.</p>
-                                                  <p>He went abroad, and was absent from England <pb
-                                                  n="274"/> many years. During the interval Lord
+                                                  <p>He went abroad, and was absent from England <pb n="274"/> many years. During the interval Lord
                                                   Trelingham had married, but the only issue was a
                                                   daughter, Lady May. Mr. Davenant, too, had been
                                                   caught by a clever woman, and surrendered his
@@ -26299,8 +26191,7 @@
                                                   learning at the same time, to his great amaze, the
                                                   relation in which they all stood to Ivor. He
                                                   begged earnestly for admittance to his friend's
-                                                  presence. He could not be refused; and the <pb
-                                                  n="290"/> meeting was another draught of happiness
+                                                  presence. He could not be refused; and the <pb n="290"/> meeting was another draught of happiness
                                                   to the agonised patient, whose sufferings
                                                   increased from hour to hour, but whose joy could
                                                   not be diminished. Tom sat by him till the clock
@@ -26366,8 +26257,7 @@
                                                   without raising her eyes. Tom Davenant stood at
                                                   the foot of the bed. He had a tired expression,
                                                   not having slept the previous night and being more
-                                                  affected than he was aware at the sight of <pb
-                                                  n="293"/> Ivor's sufferings. The chaplain, Don
+                                                  affected than he was aware at the sight of <pb n="293"/> Ivor's sufferings. The chaplain, Don
                                                   Ramiro, was likewise in the room, but they
                                                   scarcely observed his presence, and he did not
                                                   come forward.</p>
@@ -26462,8 +26352,7 @@
                                                   friend instead of me. I was very fond of you. And
                                                   Lady May—' She was weeping silently. He closed his
                                                   eyes and lay still. They waited for the coming of
-                                                  death, voiceless, recollected, as when <pb n="296"
-                                                  /> a great storm is gathering in the distance. Not
+                                                  death, voiceless, recollected, as when <pb n="296"/> a great storm is gathering in the distance. Not
                                                   a leaf stirred at the window; the sunset light was
                                                   streaming in. But there remained something else.
                                                   He called Rupert faintly. 'When you go home,' he
@@ -26619,8 +26508,7 @@
                                                   over-spreading his features; 'you that find it in
                                                   the stars of heaven and the flowers that spring up
                                                   from the earth? What can it be, but love?'</p>
-                                                  <p>A tender light came into Rupert's eyes. The <pb
-                                                  n="301"/> sound of a carriage was heard outside,
+                                                  <p>A tender light came into Rupert's eyes. The <pb n="301"/> sound of a carriage was heard outside,
                                                   and voices at the door.</p>
                                                   <p>'Who is it?' said the Duke.</p>
                                                   <p>It was Lady May, leading her child by the hand.

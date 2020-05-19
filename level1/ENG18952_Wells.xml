@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
@@ -22,17 +21,12 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>The Time Machine:
@@ -50,23 +44,15 @@
                         <encodingDesc n="eltec-1">
                                     <p/>
                         </encodingDesc>
-                        <profileDesc>
-                                    <langUsage>
+                        <profileDesc><langUsage>
                                                 <language ident="eng">English</language>
-                                    </langUsage>
-                                    <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="M"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="short"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="high"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T3"/>
-                                    </textDesc>
-                        </profileDesc>
-                        <revisionDesc>
+                                    </langUsage><textClass><keywords><term>Science Fiction</term></keywords></textClass><textDesc>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+                                    </textDesc></profileDesc>
+                        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
                                     <change when="2019-11-09">Checked by releaseChecker
                                                 script</change>
                                     <change when="2019-01-08">LB convert to ELTeC-1</change>
@@ -202,8 +188,7 @@
                                                   he said after some time, brightening in a quite
                                                   transitory manner.</p>
                                                 <p>"Well, I do not mind telling you I have been at
-                                                  work upon this geometry of Four Dimensions for <pb
-                                                  n="5"/> some time. Some of my results are curious.
+                                                  work upon this geometry of Four Dimensions for <pb n="5"/> some time. Some of my results are curious.
                                                   For instance, here is a portrait of a man at eight
                                                   years old, another at fifteen, another at
                                                   seventeen, another at twenty-three, and so on. All
@@ -230,8 +215,7 @@
                                                   always been, regarded as something different? And
                                                   why cannot we move about in Time as we move about
                                                   in the other dimensions of Space?"</p>
-                                                <p>The Time Traveller smiled. "Are you so sure <pb
-                                                  n="6"/> we can move freely in Space? Right and
+                                                <p>The Time Traveller smiled. "Are you so sure <pb n="6"/> we can move freely in Space? Right and
                                                   left we can go, backward and forward freely
                                                   enough, and men always have done so. I admit we
                                                   move freely in two dimensions. But how about up
@@ -355,8 +339,7 @@
                                                   brass candlesticks upon the mantel and several in
                                                   sconces, so that the room was brilliantly
                                                   illuminated. I sat in a low arm-chair nearest the
-                                                  fire, and I drew this forward so as to <pb n="11"
-                                                  /> be almost between the Time Traveller and the
+                                                  fire, and I drew this forward so as to <pb n="11"/> be almost between the Time Traveller and the
                                                   fireplace. Filby sat behind him, looking over his
                                                   shoulder. The Medical Man and the Provincial Mayor
                                                   watched him in profile from the right, the
@@ -781,8 +764,7 @@
                                                   sat myself in the saddle. I suppose a suicide who
                                                   holds a pistol to his skull feels much the same
                                                   wonder at what will come next as I felt then. I
-                                                  took the starting lever in one hand and <pb n="28"
-                                                  /> the stopping one in the other, pressed the
+                                                  took the starting lever in one hand and <pb n="28"/> the stopping one in the other, pressed the
                                                   first, and almost immediately the second. I seemed
                                                   to reel; I felt a nightmare sensation of falling;
                                                   and, looking round, I saw the laboratory exactly
@@ -834,8 +816,7 @@
                                                   deepness of blue, a splendid luminous colour like
                                                   that of early twilight; the jerking sun became a
                                                   streak of fire, a brilliant arch, in space, the
-                                                  moon a fainter fluctuating band; and I <pb n="30"
-                                                  /> could see nothing of the stars, save now and
+                                                  moon a fainter fluctuating band; and I <pb n="30"/> could see nothing of the stars, save now and
                                                   then a brighter circle flickering in the blue.</p>
                                                 <p>"The landscape was misty and vague. I was still
                                                   on the hill-side upon which this house now stands,
@@ -886,8 +867,7 @@
                                                   mattered: I was, so to speak, attenuated—was
                                                   slipping like a vapour through the interstices of
                                                   intervening substances! But to come to a stop
-                                                  involved the jamming of myself, molecule <pb
-                                                  n="32"/> by molecule, into whatever lay in my way:
+                                                  involved the jamming of myself, molecule <pb n="32"/> by molecule, into whatever lay in my way:
                                                   meant bringing my atoms into such intimate contact
                                                   with those of the obstacle that a profound
                                                   chemical reaction—possibly a far-reaching
@@ -1171,8 +1151,7 @@
                                                   near me was fractured. Nevertheless, the general
                                                   effect was extremely rich and picturesque. There
                                                   were, perhaps, a couple of hundred people dining
-                                                  in the hall, and most of them, seated as near <pb
-                                                  n="43"/> to me as they could come, were watching
+                                                  in the hall, and most of them, seated as near <pb n="43"/> to me as they could come, were watching
                                                   me with interest, their little eyes shining over
                                                   the fruit they were eating. All were clad in the
                                                   same soft, and yet strong, silky material.</p>
@@ -1269,8 +1248,7 @@
                                                   derelict remains of some vast structure, to what
                                                   end built I could not determine. It was here that
                                                   I was destined, at a later date, to have a very
-                                                  strange experience—the first intimation <pb n="47"
-                                                  /> of a still stranger discovery—but of that I
+                                                  strange experience—the first intimation <pb n="47"/> of a still stranger discovery—but of that I
                                                   will speak in its proper place.</p>
                                                 <p>"Looking round, with a sudden thought, from a
                                                   terrace on which I rested for awhile, I realized
@@ -1438,8 +1416,7 @@
                                                   arise therein, the fierce jealousy, the tenderness
                                                   for offspring, parental self-devotion, all found
                                                   their justification and support in the imminent
-                                                  dangers of the young. <hi>Now</hi> , where are <pb
-                                                  n="53"/> these imminent dangers? There is a
+                                                  dangers of the young. <hi>Now</hi> , where are <pb n="53"/> these imminent dangers? There is a
                                                   sentiment arising, and it will grow, against
                                                   connubial jealousy, against fierce maternity,
                                                   against passion of all sorts; unnecessary things
@@ -1906,8 +1883,7 @@
                                                   drew her safe to land. A little rubbing of the
                                                   limbs soon brought her round, and I had the
                                                   satisfaction of seeing she was all right before I
-                                                  left her. I had got to such a low estimate <pb
-                                                  n="72"/> of her kind that I did not expect any
+                                                  left her. I had got to such a low estimate <pb n="72"/> of her kind that I did not expect any
                                                   gratitude from her. In that, however, I was
                                                   wrong.</p>
                                                 <p>"This happened in the morning. In the afternoon I
@@ -1989,8 +1965,7 @@
                                                   to get to sleep again, but I felt restless and
                                                   uncomfortable. It was that dim grey hour when
                                                   things are just creeping out of darkness, when
-                                                  everything is colourless and clear cut, <pb n="75"
-                                                  /> and yet unreal. I got up, and went down into
+                                                  everything is colourless and clear cut, <pb n="75"/> and yet unreal. I got up, and went down into
                                                   the great hall, and so out upon the flagstones in
                                                   front of the palace. I thought I would make a
                                                   virtue of necessity, and see the sunrise.</p>
@@ -2566,8 +2541,7 @@
                                                   would come upon him soon.</p>
                                                 <p>"The enemy I dreaded may surprise you. It was the
                                                   darkness of the new moon. Weena had put this into
-                                                  my head by some at first incomprehensible <pb
-                                                  n="97"/> remarks about the Dark Nights. It was not
+                                                  my head by some at first incomprehensible <pb n="97"/> remarks about the Dark Nights. It was not
                                                   now such a very difficult problem to guess what
                                                   the coming Dark Nights might mean. The moon was on
                                                   the wane: each night there was a longer interval
@@ -2679,8 +2653,7 @@
                                                   darkling calm my senses seemed preternaturally
                                                   sharpened. I fancied I could even feel the
                                                   hollowness of the ground beneath my feet: could,
-                                                  indeed, almost see through it the Morlocks <pb
-                                                  n="101"/> on their ant-hill going hither and
+                                                  indeed, almost see through it the Morlocks <pb n="101"/> on their ant-hill going hither and
                                                   thither and waiting for the dark. In my excitement
                                                   I fancied that they would receive my invasion of
                                                   their burrows as a declaration of war. And why had
@@ -2949,8 +2922,7 @@
                                                   attained. Then we came to a gallery of simply
                                                   colossal proportions, but singularly ill-lit, the
                                                   floor of it running downward at a slight angle
-                                                  from the end at which I entered. At intervals <pb
-                                                  n="111"/> white globes hung from the ceiling—many
+                                                  from the end at which I entered. At intervals <pb n="111"/> white globes hung from the ceiling—many
                                                   of them cracked and smashed—which suggested that
                                                   originally the place had been artificially lit.
                                                   Here I was more in my element, for rising on
@@ -2968,8 +2940,7 @@
                                                 <p>"Suddenly Weena came very close to my side. So
                                                   suddenly that she startled me. Had it not been for
                                                   her I do not think I should have noticed that the
-                                                  floor of the gallery sloped at all. <ref
-                                                  target="#notedown1"> 1</ref> The end I had come in
+                                                  floor of the gallery sloped at all. <ref target="#notedown1"> 1</ref> The end I had come in
                                                   at was quite above ground, and was lit by rare
                                                   slit-like windows. As you went down the length,
                                                   the ground came up against these windows, until at
@@ -3164,8 +3135,7 @@
                                                   darkness before us; but a singular sense of
                                                   impending calamity, that should indeed have served
                                                   me as a warning, drove me onward. I had been
-                                                  without sleep for a night and two days, and I <pb
-                                                  n="119"/> was feverish and irritable. I felt sleep
+                                                  without sleep for a night and two days, and I <pb n="119"/> was feverish and irritable. I felt sleep
                                                   coming upon me, and the Morlocks with it.</p>
                                                 <p>"While we hesitated, among the black bushes
                                                   behind us, and dim against their blackness, I saw
@@ -3416,8 +3386,7 @@
                                                   poor little body in the forest. I cannot describe
                                                   how it relieved me to think that it had escaped
                                                   the awful fate to which it seemed destined. As I
-                                                  thought of that, I was almost moved to <pb n="128"
-                                                  /> begin a massacre of the helpless abominations
+                                                  thought of that, I was almost moved to <pb n="128"/> begin a massacre of the helpless abominations
                                                   about me, but I contained myself. The hillock, as
                                                   I have said, was a kind of island in the forest.
                                                   From its summit I could now make out through a
@@ -3466,8 +3435,7 @@
                                                   understood now what all the beauty of the
                                                   over-world people covered. Very pleasant was their
                                                   day, as pleasant as the day of the cattle in the
-                                                  field. Like the cattle, they knew of no <pb
-                                                  n="130"/> enemies, and provided against no needs.
+                                                  field. Like the cattle, they knew of no <pb n="130"/> enemies, and provided against no needs.
                                                   And their end was the same.</p>
                                                 <p>"I grieved to think how brief the dream of the
                                                   human intellect had been. It had committed
@@ -3493,8 +3461,7 @@
                                                   needs and dangers.</p>
                                                 <p>"So, as I see it, the upper-world man had drifted
                                                   towards his feeble prettiness, and the underworld
-                                                  to mere mechanical industry. But that <pb n="131"
-                                                  /> perfect state had lacked one thing even for
+                                                  to mere mechanical industry. But that <pb n="131"/> perfect state had lacked one thing even for
                                                   mechanical perfection—absolute permanency.
                                                   Apparently as time went on, the feeding of the
                                                   under-world, however it was effected, had become
@@ -3719,8 +3686,7 @@
                                                   little larger, a little duller— the same dying
                                                   sea, the same chill air, and the same crowd of
                                                   earthy crustacea creeping in and out among the
-                                                  green weed and the red rocks. And in the <pb
-                                                  n="139"/> westward sky I saw a curved pale line
+                                                  green weed and the red rocks. And in the <pb n="139"/> westward sky I saw a curved pale line
                                                   like a vast new moon.</p>
                                                 <p>"So I travelled, stopping ever and again, in
                                                   great strides of a thousand years or more, drawn
@@ -4001,8 +3967,7 @@
                                                   the hilt, specimens and all. If you'll forgive my
                                                   leaving you now?"</p>
                                                 <p>I consented, hardly comprehending then the full
-                                                  import of his words, and he nodded and went on <pb
-                                                  n="150"/> down the corridor. I heard the door of
+                                                  import of his words, and he nodded and went on <pb n="150"/> down the corridor. I heard the door of
                                                   the laboratory slam, seated myself in a chair, and
                                                   took up a daily paper. What was he going to do
                                                   before lunch-time? Then suddenly I was reminded by
@@ -4028,8 +3993,7 @@
                                                   blown in.</p>
                                                 <p>I felt an unreasonable amazement. I knew that
                                                   something strange had happened, and for the moment
-                                                  could not distinguish what the strange <pb n="151"
-                                                  /> thing might be. As I stood staring, the door
+                                                  could not distinguish what the strange <pb n="151"/> thing might be. As I stood staring, the door
                                                   into the garden opened, and the man-servant
                                                   appeared.</p>
                                                 <p>We looked at each other. Then ideas began to

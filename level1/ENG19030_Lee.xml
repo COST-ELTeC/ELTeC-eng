@@ -26,18 +26,15 @@
           <encodingDesc n="eltec-1">
                <p/>
           </encodingDesc>
-          <profileDesc>
-               <langUsage>
+          <profileDesc><langUsage>
                     <language ident="eng">English</language>
-               </langUsage>
-               <textDesc>
+               </langUsage><textClass><keywords><term>Historical Novel: 18th Century</term><term>Pseudonym Library</term></keywords></textClass><textDesc>
                     <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                     <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
                     <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
-               </textDesc>
-          </profileDesc>
-          <revisionDesc>
+               </textDesc></profileDesc>
+          <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
                <change when="2020-04-26">LB convert to ELTeC-1</change>
           </revisionDesc>
      </teiHeader>

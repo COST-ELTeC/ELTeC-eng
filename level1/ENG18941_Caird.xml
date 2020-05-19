@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18941"
-    xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18941" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -48,18 +46,15 @@
         <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
-        <profileDesc>
-            <langUsage>
+        <profileDesc><langUsage>
                 <language ident="eng">English</language>
-            </langUsage>
-            <textDesc>
+            </langUsage><textClass><keywords><term>New Woman Novel</term></keywords></textClass><textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
-            </textDesc>
-        </profileDesc>
-        <revisionDesc>
+            </textDesc></profileDesc>
+        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
             <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2011-06-28">kateboeree: Added div type="book"</change>
@@ -111,8 +106,7 @@
                             excellently well, as to the manner born, tripping in and out among the
                             shadows, with occasional stamping, in time to the music, and now and
                             again that wild Celtic shout or cry that sets the nerves athrill. In
-                            spite of the whole scene's being enacted in a low key, it seemed<pb
-                                n="6" xml:id="VAB7047-002"/> only to gain in intensity from that
+                            spite of the whole scene's being enacted in a low key, it seemed<pb n="6" xml:id="VAB7047-002"/> only to gain in intensity from that
                             circumstance, and in fantastic effect.</p>
                         <p>Among the dancers was one who danced with peculiar spirit and brilliancy,
                             and her little cry had a ring and a wildness that never failed to set
@@ -143,8 +137,7 @@
                             determination were the dominant qualities so indicated. Her sister stood
                             opposite, the moonshine making the smooth pallor of her face more
                             striking, and emphasizing its mysterious quality.</p>
-                        <p>The whole group of young faces, crowded together by the<pb n="7"
-                                xml:id="VAB7047-003"/> window, and lit up by the unsympathetic
+                        <p>The whole group of young faces, crowded together by the<pb n="7" xml:id="VAB7047-003"/> window, and lit up by the unsympathetic
                             light, had something characteristic and unusual in its aspect, that
                             might have excited curiosity.</p>
                         <p>“Tell us the story of the garret, Hadria,” said Austin, the youngest
@@ -270,8 +263,7 @@
                             Fate is as the statue of the sculptor.”</p>
                         <p>“That's where Hadria mainly differs from you,” said Fred, “you make the
                             thing absolute; Hadria makes it a matter of relation.”</p>
-                        <p>“Exactly,” assented the lecturer, catching the remark.<pb n="11"
-                                xml:id="VAB7047-007"/> “Difficulties need not be really obstructive
+                        <p>“Exactly,” assented the lecturer, catching the remark.<pb n="11" xml:id="VAB7047-007"/> “Difficulties need not be really obstructive
                             to the best development of a character or a power, nor a smooth path
                             always favourable. Obstacles may be of a kind to stimulate one person
                             and to annihilate another. It is <emph>not</emph> a question of relative
@@ -366,8 +358,7 @@
                             flinging back the cloudy black hair from her brow.</p>
                         <p>Algitha's firm, clear voice vibrated through the room.</p>
                         <p>“But I think it matters very much whether one's task is done well or
-                            ill,” she said, “and nobody has taught me to<pb n="14"
-                                xml:id="VAB7047-010"/> wish to make solid use of my life so much as
+                            ill,” she said, “and nobody has taught me to<pb n="14" xml:id="VAB7047-010"/> wish to make solid use of my life so much as
                             you have, Hadria. What possesses you to-night?”</p>
                         <p>“I tell you, the moonlight.”</p>
                         <p>“And something else.”</p>
@@ -701,8 +692,7 @@
                             speak from.”</p>
                         <p>“If one is to believe what one hears and reads,” said Algitha, “a life
                             must be full of sorrow indeed.”</p>
-                        <p>“But putting aside the big sorrows,” said her sister, “the<pb n="25"
-                                xml:id="VAB7047-021"/> ordinary every day existence that would be
+                        <p>“But putting aside the big sorrows,” said her sister, “the<pb n="25" xml:id="VAB7047-021"/> ordinary every day existence that would be
                             called prosperous, seems to me to be dull and stupid to a tragic
                             extent.”</p>
                         <p>“The Gordons of Drumgarran once more! I confess I can't see anything
@@ -733,8 +723,7 @@
                             reign in. A home, not a husband, was the important matter, and Algitha
                             had trusted to her attractions to make a good marriage; that is, to
                             obtain extensive regions for her activities. She craved a roomy stage
-                            for her drama, and obviously there was only one method of<pb n="26"
-                                xml:id="VAB7047-022"/> obtaining it, and even that method was but
+                            for her drama, and obviously there was only one method of<pb n="26" xml:id="VAB7047-022"/> obtaining it, and even that method was but
                             dubious. But Hadria had undermined this matter of fact,
                             take-things-as-you-find-them view, and set her sister's pride on the
                             track. That master-passion once aroused in the new direction, Algitha
@@ -765,8 +754,7 @@
                             lost their tails!”</p>
                         <p>“It may be illogical, but people generally are immensely comforted by
                             that circumstance.”</p>
-                        <p>The conversation waxed warmer and more personal. Fred<pb n="27"
-                                xml:id="VAB7047-023"/> took a conservative view of the question. He
+                        <p>The conversation waxed warmer and more personal. Fred<pb n="27" xml:id="VAB7047-023"/> took a conservative view of the question. He
                             thought that there were instincts implanted by Nature, which inspired
                             Mrs. Gordon with a yearning for exactly the sort of existence that fate
                             had assigned to her. Algitha, who had been the recipient of that lady's
@@ -797,8 +785,7 @@
                         <p>“It does,” said Algitha.</p>
                         <p>“Well, so I said to Wilkins, as a matter of fact, with my nose in the
                             air, on your behalf, and Wilkins replied, ‘Oh, it's all very well while
-                            girls are young and good-looking to be so<pb n="28" xml:id="VAB7047-024"
-                            /> high and mighty, but some day, when they are left out in the cold,
+                            girls are young and good-looking to be so<pb n="28" xml:id="VAB7047-024"/> high and mighty, but some day, when they are left out in the cold,
                             and all their friends married, they may sing a different tune.’ Feeling
                             there was something in this remark,” Fred continued, “I raised my nose
                             two inches higher, and adopted the argument that <emph>I</emph> also
@@ -861,8 +848,7 @@
                             accepting the post offered her by Mrs. Trevelyan last year, and now she
                             was resolved. The work was really wise, useful work among the poor,
                             which Algitha felt she could do well. At home, there was nothing that
-                            she did that the housekeeper could not do better. She felt herself<pb
-                                n="30" xml:id="VAB7047-026"/> fretting and growing irritable, for
+                            she did that the housekeeper could not do better. She felt herself<pb n="30" xml:id="VAB7047-026"/> fretting and growing irritable, for
                             mere want of some active employment. This was utterly absurd, in an
                             overworked world. Hadria had her music and her study, at any rate, but
                             Algitha had nothing that seemed worth doing; she did not care to paint
@@ -1111,8 +1097,7 @@
                             some of the other infernal pastimes that heaven decrees for recalcitrant
                             spirits in need of crushing discipline.”</p>
                         <p>“I think I see you!” Algitha exclaimed with a dispirited laugh.</p>
-                        <p>“It will be a trial,” Hadria admitted; “but it is said that<pb n="38"
-                                xml:id="VAB7047-034"/> suffering strengthens the character. You may
+                        <p>“It will be a trial,” Hadria admitted; “but it is said that<pb n="38" xml:id="VAB7047-034"/> suffering strengthens the character. You may
                             look forward before long, to claiming as sister a creature of iron
                             purpose.”</p>
                         <p>“I wonder, I wonder,” cried Algitha, bending her fine head; “we owe
@@ -1145,8 +1130,7 @@
                             even profess to have felt an unselfish desire to see one enjoying
                             oneself at their expense (though, as a matter of fact, what enjoyment
                             one has generally <emph>is</emph> at their expense). People are always
-                            enthusiastically congratulated on the arrival<pb n="39"
-                                xml:id="VAB7047-035"/> of a new child, though it be the fourteenth,
+                            enthusiastically congratulated on the arrival<pb n="39" xml:id="VAB7047-035"/> of a new child, though it be the fourteenth,
                             and the income two hundred a year! This seems to point to a pronounced
                             taste for new children, regardless of the consequences!”</p>
                         <p>“Oh, of course,” said Algitha, “it's one of the canons! Women, above all,
@@ -1211,8 +1195,7 @@
                                 <emph>some</emph>thing!” cried Hadria with a dispirited laugh.</p>
                         <p>“She says she has experience of life, and we are ignorant of it. I
                             reminded her that our ignorance was not exactly our fault.”</p>
-                        <p>“Ah! precisely. Parents thrown their children's ignorance<pb n="41"
-                                xml:id="VAB7047-037"/> in their teeth, having taken precious good
+                        <p>“Ah! precisely. Parents thrown their children's ignorance<pb n="41" xml:id="VAB7047-037"/> in their teeth, having taken precious good
                             care to prevent their knowing anything. I can't understand parents; they
                             must have been young themselves once. Yet they seem to have forgotten
                             all about it. They keep us hoodwinked and infantile, and then launch us
@@ -1291,8 +1274,7 @@
                             Will; that one can demand of one's days “bread, kingdoms, stars, or
                             sky,” and that the Days will obediently produce the objects desired. If
                             one has but the spirit that can soar high enough to really be resolved
-                            upon stars, or the ambition sufficiently vaulting to be determined on<pb
-                                n="44" xml:id="VAB7047-040"/> kingdoms, then—so ran the dogma—stars
+                            upon stars, or the ambition sufficiently vaulting to be determined on<pb n="44" xml:id="VAB7047-040"/> kingdoms, then—so ran the dogma—stars
                             and kingdoms would be forthcoming, though obstacles were never so
                             determined. No member except Hadria had ever dreamt of insinuating that
                             one might have a very pronounced taste for stars and kingdoms—nay, a
@@ -1390,8 +1372,7 @@
                             watching, beckoning, and exhorting and warning, and turning away, at
                             last, in sorrowful contempt, because she preferred to spend her youth
                             eternally in futilities. And then they all slowly drifted by with sad
-                            eyes fixed on her, and she was still left playing,<pb n="47"
-                                xml:id="VAB7047-043"/> playing. And it seemed as if whole weeks
+                            eyes fixed on her, and she was still left playing,<pb n="47" xml:id="VAB7047-043"/> playing. And it seemed as if whole weeks
                             passed in that way, and she grew mortally tired, but some power
                             prevented her from resting. The evil spell held her enthralled. Always
                             cheerful, always polite and agreeable, she continued her task, finding
@@ -1619,8 +1600,7 @@
                             glance at Miss Du Prel, whom she half expected to rise and walk out of
                             the room. It must surely be the first time in her life that her presence
                             had not been received as an honour!”</p>
-                        <p>“It is all very old and shabby,” said Mrs. Fullerton. “I<pb n="54"
-                                xml:id="VAB7047-050"/> hope you will take some tea; if you have
+                        <p>“It is all very old and shabby,” said Mrs. Fullerton. “I<pb n="54" xml:id="VAB7047-050"/> hope you will take some tea; if you have
                             walked far to-day, you must be cold and in need of something to
                             eat.”</p>
                         <p>“Oh no, no, thank you,” returned the visitor; “I ought to be getting back
@@ -1682,8 +1662,7 @@
                             to the arrangement.”</p>
                         <p>Hadria's heart beat faster. Could it be possible that Valeria Du Prel was
                             to be a near neighbour? It seemed too good to be true!</p>
-                        <p>When Miss Du Prel came down in her walking garments,<pb n="56"
-                                xml:id="VAB7047-052"/> she greeted Hadria with a certain absence of
+                        <p>When Miss Du Prel came down in her walking garments,<pb n="56" xml:id="VAB7047-052"/> she greeted Hadria with a certain absence of
                             mind, which smote chill upon the girl's eagerness.</p>
                         <p>“I wanted to know if you were comfortable, if I could do anything for
                             you.” Miss Du Prel woke up.</p>
@@ -1715,8 +1694,7 @@
                             its white shroud over the hills.</p>
                         <p>With every moment spent in the society of Valeria Du Prel, new and
                             clearer light seemed to Hadria, to be thrown upon all the problems of
-                            existence; not by any means only through<pb n="57" xml:id="VAB7047-053"
-                            /> what Miss Du Prel directly said, but by what she implied, by what she
+                            existence; not by any means only through<pb n="57" xml:id="VAB7047-053"/> what Miss Du Prel directly said, but by what she implied, by what she
                             took for granted, by what she omitted to say.</p>
                         <p>“It seems like a home-coming from long exile,” Hadria wrote to her
                             sister. “I have been looking through a sort of mist, or as one looks at
@@ -1747,8 +1725,7 @@
                                 <emph>had</emph> felt nervous, but a letter has the same advantage
                             as the pulpit: the adversary can never get up and contradict.</p>
                         <p>“That ridiculous adversary, Harold Wilkins, is staying again at
-                            Drumgarren, and I hear from Mrs. Gordon that he thinks<pb n="58"
-                                xml:id="VAB7047-054"/> it very strange that I should see so much of
+                            Drumgarren, and I hear from Mrs. Gordon that he thinks<pb n="58" xml:id="VAB7047-054"/> it very strange that I should see so much of
                             so extraordinary a person as Miss Du Prel! Opinions differ of course; I
                             think it very strange that the Gordons should see so much of so ordinary
                             a person as Mr. Wilkins. Everybody makes much of him here, and, alas!
@@ -1780,8 +1757,7 @@
                             would say to it. There appeared to be more here than mere heredity could
                             account for. But science had never solved this problem; originality
                             seemed always to enter upon its career, uncaused and unaccountable. It
-                            was ever a miraculous phenomenon. The Professor had always said<pb
-                                n="59" xml:id="VAB7047-055"/> so. Still the heritage was rich
+                            was ever a miraculous phenomenon. The Professor had always said<pb n="59" xml:id="VAB7047-055"/> so. Still the heritage was rich
                             enough, in this case. Heredity might have some discoverable part in the
                             apparent marvel. Each member of the Fullerton family had unusual ability
                             of some kind. Their knowledge of science, and their familiarity with the
@@ -1842,8 +1818,7 @@
                         <p>“Ah, that is a dreadful thought!”</p>
                         <p>“It comes to me so insistently, perhaps, because of my roving life,” she
                             said.</p>
-                        <p>She paused for a moment, and then she fell into one of her<pb n="61"
-                                xml:id="VAB7047-057"/> exalted moods, when she seemed to lose
+                        <p>She paused for a moment, and then she fell into one of her<pb n="61" xml:id="VAB7047-057"/> exalted moods, when she seemed to lose
                             consciousness of the ordinary conditions around her, or rather to pierce
                             deeper into their significance and beauty. Her speech would, at such
                             times, become rhythmic and picturesque; she evidently saw vivid images
@@ -1904,8 +1879,7 @@
                             this or that to curtail me and rob me of my possible experience.’”</p>
                         <p>“Well, I confess that has been my feeling too, though I admire the spirit
                             that can renounce.”</p>
-                        <p>“Admire? Oh, yes, perhaps; though I am not so sure<pb n="63"
-                                xml:id="VAB7047-059"/> that the submissive nature has not been too
+                        <p>“Admire? Oh, yes, perhaps; though I am not so sure<pb n="63" xml:id="VAB7047-059"/> that the submissive nature has not been too
                             much glorified—in theory. Nobody pays much attention to it in practice,
                             by the way.”</p>
                         <p>Miss Du Prel laughed. “What an observant young woman you are.”</p>
@@ -1936,8 +1910,7 @@
                             expect, in such a case, but disaster? I often envy now the simple-minded
                             woman who pays her price and has her reward—such as it is.”</p>
                         <p>“Ah! such as it is!” echoed Hadria.</p>
-                        <p>“Who was it said, the other day, that she thought a wise<pb n="64"
-                                xml:id="VAB7047-060"/> woman always took things as they were, and
+                        <p>“Who was it said, the other day, that she thought a wise<pb n="64" xml:id="VAB7047-060"/> woman always took things as they were, and
                             made the best of them?”</p>
                         <p>“Some dull spirit.”</p>
                         <p>“And yet a practical spirit.”</p>
@@ -2000,8 +1973,7 @@
                             the road.</p>
                         <p>“What is the eternal riddle?” Harold Wilkins enquired.</p>
                         <p>“Woman, woman!” Temperley replied, a little impatiently. He had not found
-                            young Wilkins quick to catch his meaning<pb n="66" xml:id="VAB7047-062"
-                            /> during the two hours' ride, and it occurred to him that Miss
+                            young Wilkins quick to catch his meaning<pb n="66" xml:id="VAB7047-062"/> during the two hours' ride, and it occurred to him that Miss
                             Fullerton would have been a more interesting companion.</p>
                         <p>He made a good many enquiries about her and her family, on the way back
                             to Drumgarren.</p>
@@ -2031,8 +2003,7 @@
                             told.”</p>
                         <p>“Really? Dear me, I must make a point of having a talk with her, on the
                             earliest opportunity.”</p>
-                        <p>Meanwhile, the occupants of the pony-cart had arrived at<pb n="67"
-                                xml:id="VAB7047-063"/> Darachanarvan, where they were to put up the
+                        <p>Meanwhile, the occupants of the pony-cart had arrived at<pb n="67" xml:id="VAB7047-063"/> Darachanarvan, where they were to put up the
                             pony and have luncheon. It was a prosaic little Scottish town, with only
                             a beautiful survival, here and there, from the past.</p>
                         <p>After luncheon, they wandered down to the banks of the river, and watched
@@ -2099,8 +2070,7 @@
                         <p>“Of human construction?”</p>
                         <p>“I mean that prejudice, rather than instinct, has built up the system
                             that Mrs. Gordon so amiably represents.”</p>
-                        <p>“Prejudice has perhaps taken advantage of instinct to<pb n="69"
-                                xml:id="VAB7047-065"/> establish a somewhat tyrannical tradition,”
+                        <p>“Prejudice has perhaps taken advantage of instinct to<pb n="69" xml:id="VAB7047-065"/> establish a somewhat tyrannical tradition,”
                             Miss Du Prel admitted, “but instinct is at the bottom of it. There is,
                             of course, in our society, no latitude for variety of type; that is the
                             fault of so many institutions.”</p>
@@ -2132,8 +2102,7 @@
                             wise to weave as many garlands as you can, to deck yourself for the
                             sacrifice. By that means, you don't quite see which way you are going,
                             because of the masses of elegant vegetation.”</p>
-                        <p>“Ah! Hadria, you exaggerate, you distort; you forget so<pb n="70"
-                                xml:id="VAB7047-066"/> many things—the sentiments, the affections,
+                        <p>“Ah! Hadria, you exaggerate, you distort; you forget so<pb n="70" xml:id="VAB7047-066"/> many things—the sentiments, the affections,
                             the thousand details that hallow that crude foundation which you see
                             only bare and unsoftened.”</p>
                         <p>“A repulsive object tastefully decorated, is to me only the more
@@ -2166,8 +2135,7 @@
                             her.”</p>
                         <p>“No, no, it is not so bad as that. There are many openings now for
                             women.”</p>
-                        <p>“But,” said Hadria, “as far as I can gather, ordinary<pb n="71"
-                                xml:id="VAB7047-067"/> ability is not sufficient to enable them to
+                        <p>“But,” said Hadria, “as far as I can gather, ordinary<pb n="71" xml:id="VAB7047-067"/> ability is not sufficient to enable them to
                             make a scanty living. The talent that would take a man to the top of the
                             tree is required to keep a woman in a meagre supply of bread and
                             butter.”</p>
@@ -2263,8 +2231,7 @@
                             note of music, and I am badly off for a kindred spirit.”</p>
                         <p>“My composing is a very mild affair,” Hadria answered. “I suppose you are
                             more fortunate.”</p>
-                        <p>“Not much. I am pretty busy you see. I have my profession<pb n="74"
-                                xml:id="VAB7047-070"/> fession. I play a good deal—the piano and the
+                        <p>“Not much. I am pretty busy you see. I have my profession<pb n="74" xml:id="VAB7047-070"/> fession. I play a good deal—the piano and the
                                 <foreign xml:lang="ita">'cello</foreign> are my instruments. But my
                             difficulty is to find someone to accompany me. My sister does when she
                             can, but of course with a house and family to look after—I am sometimes
@@ -2297,8 +2264,7 @@
                             of its wearer as was indicated by her thin, chattering tones, and
                             unreposeful manner. Her mode of dress was rich and florid—very obvious
                             in its effects, very <foreign xml:lang="fre">naïf</foreign>. She was
-                            built on a large scale, and might have been graceful, had<pb n="75"
-                                xml:id="VAB7047-071"/> not her mental constitution refused to
+                            built on a large scale, and might have been graceful, had<pb n="75" xml:id="VAB7047-071"/> not her mental constitution refused to
                             permit, or to inspire, that which physical construction seemed to
                             intend. She distributed smiles on all hands, of no particular meaning.
                             Though still a young woman, she looked worn and wearied. However, her
@@ -2330,8 +2296,7 @@
                             emotions were satisfied, it was really all they could expect.
                             Considering the number of family feuds, she did not see her way to
                             arranging both points, to everyone's satisfaction.</p>
-                        <p>Hadria was surrounded by a small group, among whom<pb n="76"
-                                xml:id="VAB7047-072"/> were Temperley, Harold Wilkins, and Mr.
+                        <p>Hadria was surrounded by a small group, among whom<pb n="76" xml:id="VAB7047-072"/> were Temperley, Harold Wilkins, and Mr.
                             Hawkesley, the brother who had been introduced to his sisters.</p>
                         <p>“How very handsome Hadria is looking this afternoon,” said Mrs. Gordon,
                             “and how becoming that dark green gown is.”</p>
@@ -2430,8 +2395,7 @@
                         <p>“I often think that modern women might take example from these little
                             creatures,” said Temperley, who, in common with many self-sufficient
                             persons, was fond of recommending humility to others. “<emph>They</emph>
-                            never attempt to shirk their lowly tasks on<pb n="79"
-                                xml:id="VAB7047-075"/> the plea of higher vocations. Not one turns
+                            never attempt to shirk their lowly tasks on<pb n="79" xml:id="VAB7047-075"/> the plea of higher vocations. Not one turns
                             from the path marked out by our great Mother, who also teaches her human
                             children the same lesson of patient duty; but, alas! by them is less
                             faithfully obeyed.”</p>
@@ -2440,8 +2404,7 @@
                         <p>Temperley had fallen into the dulcet strains of one who feels, not only
                             that he stands as the champion of true wisdom and virtue, but that he is
                             sure of support from the vast majority of his fellows. Miss Du Prel's
-                            brusqueness seemed to suit her less admirable <foreign xml:lang="fre"
-                                >rôle</foreign>.</p>
+                            brusqueness seemed to suit her less admirable <foreign xml:lang="fre">rôle</foreign>.</p>
                         <p>Temperley was tolerant and regretful. If Miss Du Prel would think for a
                             moment, she could not fail to see that Nature ... and so forth, in the
                             same strain of “pious devotion to other people's duties” as his
@@ -2557,8 +2520,7 @@
                             change his clothes and have something to eat.</p>
                         <p>As she entered, rather shyly, he rose and gave a gasp of
                             astonishment.</p>
-                        <p>“You mean to tell me that this is the little girl who used to<pb n="83"
-                                xml:id="VAB7047-079"/> take me for walks, and who had such an
+                        <p>“You mean to tell me that this is the little girl who used to<pb n="83" xml:id="VAB7047-079"/> take me for walks, and who had such an
                             inordinate appetite for stories! Good heavens, it is incredible!”</p>
                         <p>He held out a thin, finely-formed hand, with a kind smile.</p>
                         <p>“They change so much at that age, in a short time,” said Mrs. Fullerton,
@@ -2618,8 +2580,7 @@
                             streaming eyes as the Professor talked on in his old vein, with just
                             that particular little humorous manner of his that won its way so surely
                             to the hearts of his listeners. For a moment, in the midst of the bright
-                            talk and the mirth that he had created, the Professor<pb n="85"
-                                xml:id="VAB7047-081"/> lost the thread, and his face, as he stared
+                            talk and the mirth that he had created, the Professor<pb n="85" xml:id="VAB7047-081"/> lost the thread, and his face, as he stared
                             into the glowing centre of the fire, had a desolate look; but it was so
                             quick to pass away that one might have thought oneself the victim of a
                             fancy. His was the next chuckle, and “Do you remember that day when—?”
@@ -2668,8 +2629,7 @@
                         <p>“Oh, but he is musical, though his technical knowledge is small.”</p>
                         <p>But Temperley smiled dubiously.</p>
                         <p>The Professor, freed from his customary hard work, was like a schoolboy.
-                            His delight in the open air, in the freshness of<pb n="87"
-                                xml:id="VAB7047-083"/> the hills, in the peace of the mellow autumn,
+                            His delight in the open air, in the freshness of<pb n="87" xml:id="VAB7047-083"/> the hills, in the peace of the mellow autumn,
                             was never-ending.</p>
                         <p>He loved to take a walk before breakfast, so as to enjoy the first
                             sweetness of the morning; to bathe in some clear pool of the river to
@@ -2699,8 +2659,7 @@
                             the pleasure of your society in the infernal regions?’ I should arise
                             and take his arm and reply, ‘Delighted,’ and off we would march. But
                             what am I saying? Mr. Temperley would never ask anything so absurd.</p>
-                        <p>“You would have thought that when Miss Du Prel and<pb n="88"
-                                xml:id="VAB7047-084"/> Professor Fortescue arrived on the scene, I
+                        <p>“You would have thought that when Miss Du Prel and<pb n="88" xml:id="VAB7047-084"/> Professor Fortescue arrived on the scene, I
                             had about enough privileges; but no, Destiny, waking up at last to her
                             duties, remembers that I have a maniacal passion for music, and that
                             this has been starved. So she hastens to provide for me a fellow maniac,
@@ -2816,8 +2775,7 @@
                         <p>“You must have read some of my thoughts,” she said. “I often wonder how
                             it is, that the world can drill women into goodness at all.” She raised
                             her head, and went on in a low, bitter tone: “I often wonder why it is,
-                            that they don't, one and all, fling up their <foreign xml:lang="fre"
-                                >rôles</foreign> and revenge themselves to the best of their
+                            that they don't, one and all, fling up their <foreign xml:lang="fre">rôles</foreign> and revenge themselves to the best of their
                             ability—intentionally, I mean—upon the world that makes them live under
                             a permanent insult. I think, at times, that I should thoroughly enjoy
                             spending my life in sheer, unmitigated vengeance, and if I did”—she
@@ -2876,8 +2834,7 @@
                             his cause with no little eloquence. Hadria found it a painful ordeal.
                             She shrank from the ungracious necessity to disappoint what appeared to
                             be a very ardent hope. Happily, the interview was cut short by the
-                            entrance of Mr. Fullerton. The old man was not remarkable for <foreign
-                                xml:lang="fre">finesse</foreign>. He gave a dismayed “Oh!” He
+                            entrance of Mr. Fullerton. The old man was not remarkable for <foreign xml:lang="fre">finesse</foreign>. He gave a dismayed “Oh!” He
                             coughed, suppressed a smile, and murmuring some lame enquiry as to the
                             progress of the music, turned and marched out of the room. The sound of
                             laughter was presently heard from the dining-room below.</p>
@@ -2986,8 +2943,7 @@
                             prayed that as His might and His glory were limitless, so might His
                             mercy be to the miserable sinners who had offended Him.</p>
                         <p>Age after age, this same prayer, in different forms, had besieged the
-                            throne of heaven. Age after age, the spirit of<pb n="97"
-                                xml:id="VAB7047-093"/> man had sought for help, and mercy, and
+                            throne of heaven. Age after age, the spirit of<pb n="97" xml:id="VAB7047-093"/> man had sought for help, and mercy, and
                             inspiration, in the Power that was felt, or imagined, behind the veil of
                             mystery.</p>
                         <p>From the village at the foot of the hill, vague sounds floated up, and
@@ -3019,8 +2975,7 @@
                             Meanwhile, one of the creatures over whom God had given them dominion,
                             was wailing in vain appeal.</p>
                         <p>“I can't stand this,” cried the Professor, and he started off.</p>
-                        <p>“I will come too,” Hadria announced. Miss Du Prel said<pb n="98"
-                                xml:id="VAB7047-094"/> that she could not endure the sight of
+                        <p>“I will come too,” Hadria announced. Miss Du Prel said<pb n="98" xml:id="VAB7047-094"/> that she could not endure the sight of
                             suffering, and would await their return.</p>
                         <p>And then occurred the incident that made this afternoon memorable to
                             Hadria. In her last letter to her sister, she had said that she could
@@ -3132,8 +3087,7 @@
                             best selves, and to point to something infinitely better than that
                             best?”</p>
                         <p>Miss Du Prel brightened for a moment.</p>
-                        <p>“What does it matter if you do not provide mental food for<pb n="102"
-                                xml:id="VAB7047-098"/> the crowd, seeking nourishment for their
+                        <p>“What does it matter if you do not provide mental food for<pb n="102" xml:id="VAB7047-098"/> the crowd, seeking nourishment for their
                             vulgarity? Let them go starve.”</p>
                         <p>“But they don't; they go and gorge elsewhere. Besides, the question of
                             starvation faces <emph>me</emph> rather than them.”</p>
@@ -3166,8 +3120,7 @@
                         <p>“No, but we are responsible when we <emph>imitate</emph> them,” said the
                             Professor.</p>
                         <p>Miss Du Prel somewhat inconsequently attempted to defend such imitation,
-                            on the ground that sacrifice is a law of life, a<pb n="103"
-                                xml:id="VAB7047-099"/> law of which she had just been bitterly
+                            on the ground that sacrifice is a law of life, a<pb n="103" xml:id="VAB7047-099"/> law of which she had just been bitterly
                             complaining. But at this, the Professor would only laugh. His opponent
                             indignantly cited scientific authority of the most solemn and weighty
                             kind; the Professor shook his head. Familiarity with weighty scientific
@@ -3326,8 +3279,7 @@
                             fight against that penalty. I know you will not have a smooth time of
                             it; but who has, except cowards and weakliings? Your safeguard will be
                             in your work.”</p>
-                        <p>“And my difficulty,” said Hadria. “In the world that I<pb n="108"
-                                xml:id="VAB7047-104"/> was born into (for my sins), when one tries
+                        <p>“And my difficulty,” said Hadria. “In the world that I<pb n="108" xml:id="VAB7047-104"/> was born into (for my sins), when one tries
                             to do something that other people don't do, it is like trying to get up
                             early in a house where the breakfast-hour is late. Nothing fits in with
                             one's eccentric custom; everything conspires to discourage it.”</p>
@@ -3398,8 +3350,7 @@
                             exacting social mentor. In such a state, a woman might be induced to
                             accept anything!</p>
                         <p>Hadria brought out two letters from her pocket; one from the Professor,
-                            the other from Miss Du Prel. The latter had<pb n="111"
-                                xml:id="VAB7047-107"/> been writing frequently of late, pointing out
+                            the other from Miss Du Prel. The latter had<pb n="111" xml:id="VAB7047-107"/> been writing frequently of late, pointing out
                             the danger of Hadria's exaggerated ideas, and the probability of their
                             ruining her happiness in life. Valeria had suffered herself from
                             “ideas,” and knew how fatal they were. Life <emph>could</emph> not be
@@ -3494,8 +3445,7 @@
                             she drew it back, and half closed her eyes in self-scrutinizing thought.
                             “Come now,” she said to herself, “are you sincere in your intention of
                             giving up? Are you pot doing this in a fit of spite against destiny? as
-                            if destiny cared two straws. Heavens! what a poor little<pb n="114"
-                                xml:id="VAB7047-110"/> piece of melodrama. And to think that you
+                            if destiny cared two straws. Heavens! what a poor little<pb n="114" xml:id="VAB7047-110"/> piece of melodrama. And to think that you
                             should have actually taken yourself in it by it. One acts so badly with
                             only oneself for audience. You know perfectly well that you are
                                 <emph>not</emph> going to give in, you are <emph>not</emph> going to
@@ -3633,15 +3583,13 @@
                         <p>Hadria thought that she had never seen so strange a contrast as this
                             young woman's behaviour, within and without the circle of her
                             perceptions. It was the more remarkable, since her mind was bent upon
-                            the details and niceties of conduct, and the <foreign xml:lang="fre"
-                                >nuances</foreign> of existence.</p>
+                            the details and niceties of conduct, and the <foreign xml:lang="fre">nuances</foreign> of existence.</p>
                         <p>“I shall come and see you as soon as I can,” she promised, when Mrs.
                             Fullerton rose to leave.</p>
                         <p>Miss Temperley kept her word. She was charmed with the old house,
                             praising authoritatively.</p>
                         <p>“This is an excellent piece of carving; far superior to the one in the
-                            dining-room. Ah, yes, that is charming; so well<pb n="119"
-                                xml:id="VAB7047-115"/> arranged. You ought to have a touch of blue
+                            dining-room. Ah, yes, that is charming; so well<pb n="119" xml:id="VAB7047-115"/> arranged. You ought to have a touch of blue
                             there to make it perfect.”</p>
                         <p>Hubert shewed good taste in keeping away from Dunaghee, except to pay his
                             call on Mr. and Mrs. Fullerton.</p>
@@ -3784,8 +3732,7 @@
                             on the nights chosen by the Society for their meetings.</p>
                         <p>Henriette's paper was neatly expressed, and its sentiments were
                             admirable. She maintained a perfect balance between the bigotry of the
-                            past and the violence of the present. Her<pb n="124"
-                                xml:id="VAB7047-120"/> phrases seemed to rock, like a pair of
+                            past and the violence of the present. Her<pb n="124" xml:id="VAB7047-120"/> phrases seemed to rock, like a pair of
                             scales, from excess to excess, on either side. She came to rest in the
                             exact middle. This led to the Johnsonian structure, or, as Hadria
                             afterwards said, to the style of a <title>Times</title> leading article:
@@ -3818,8 +3765,7 @@
                         <p>For some not easily explained cause, the construction of this sentence
                             gave it a peculiar unctuous force: “than which,” as Fred afterwards
                             remarked, “would have bowled over any but the most hardened sinner.”</p>
-                        <p>For weeks after this memorable lecture, if any very lofty<pb n="125"
-                                xml:id="VAB7047-121"/> altitude had to be ascended in conversational
+                        <p>For weeks after this memorable lecture, if any very lofty<pb n="125" xml:id="VAB7047-121"/> altitude had to be ascended in conversational
                             excursions, the aspirant invariably smiled with ineffable tenderness and
                             lightly scaled the height, murmuring “than which” to a vanquished
                             audience.</p>
@@ -4078,8 +4024,7 @@
                             of idle creatures, who have to be supported by the deathly toil of those
                             who labour too much.”</p>
                         <p>“The devil is full of resources!” said Hadria.</p>
-                        <p>Miss Temperley had been asked to stay at Dunaghee for<pb n="133"
-                                xml:id="VAB7047-129"/> the New Year. Algitha conceived for her a
+                        <p>Miss Temperley had been asked to stay at Dunaghee for<pb n="133" xml:id="VAB7047-129"/> the New Year. Algitha conceived for her a
                             sentiment almost vindictive. Hadria and the boys enjoyed nothing better
                             than to watch Miss Temperley giving forth her opinions, while Algitha's
                             figure gradually stiffened and her neck drew out, as Fred said, in truly
@@ -4214,8 +4159,7 @@
                             a dream. She would not allow herself to be taken beyond the sound of the
                             grotesque old dance music that was still going on, but otherwise she was
                             unresisting.</p>
-                        <p>He sat down beside her in a corner of the dining-room.<pb n="137"
-                                xml:id="VAB7047-133"/> Now and then he glanced at his companion, and
+                        <p>He sat down beside her in a corner of the dining-room.<pb n="137" xml:id="VAB7047-133"/> Now and then he glanced at his companion, and
                             seemed about to speak. “You seem fond of your national music,” he at
                             last remarked.</p>
                         <p>“It fills me with bewildering memories,” she said in a dreamy tone. “It
@@ -4277,8 +4221,7 @@
                             holds him.</p>
                         <p>“Then I may hope a little, Hadria—I <emph>must</emph> hope.”</p>
                         <p>Still the trance seemed to hold her enthralled. The music was
-                            diabolically merry. She could fancy evil spirits tripping<pb n="139"
-                                xml:id="VAB7047-135"/> to it in swarms around her. They seemed to
+                            diabolically merry. She could fancy evil spirits tripping<pb n="139" xml:id="VAB7047-135"/> to it in swarms around her. They seemed to
                             point at her, and wave their arms around her, and from them came an
                             influence, magnetic in its quality, that forbade her to resist. All had
                             been pre-arranged. Nothing could avert it. She seemed to be waiting
@@ -4309,16 +4252,14 @@
                             cannot resent that. Ah, Hadria, why will you not listen to me?” He bent
                             forward, covering his face with his hands in deep dejection. His hope
                             had begun to wane.</p>
-                        <p>“You know what I think,” said Hadria. “You know how<pb n="140"
-                                xml:id="VAB7047-136"/> I should act if I married. Surely that ought
+                        <p>“You know what I think,” said Hadria. “You know how<pb n="140" xml:id="VAB7047-136"/> I should act if I married. Surely that ought
                             to cure you of all—.”</p>
                         <p>He seized her hand.</p>
                         <p>“No, no, nothing that you may think could cure me of the hope of making
                             you my wife. I care for what you <emph>are</emph>, not for what you
                                 <emph>think</emph>. You know how little I cling to the popular
                             version of the domestic story. I have told you over and over again that
-                            it offends me in a thousand ways. I hate the <foreign xml:lang="fre"
-                                >bourgeois</foreign> element in it. What have we really to disagree
+                            it offends me in a thousand ways. I hate the <foreign xml:lang="fre">bourgeois</foreign> element in it. What have we really to disagree
                             about?”</p>
                         <p>He managed to be very convincing. He shewed that for a woman, life in her
                             father's house is far less free than in her own home; that existence
@@ -4342,8 +4283,7 @@
                             But you cannot suppose that my feeling has not been confirmed and
                             strengthened since I have seen you again. Why should you turn from me?
                             Why may I not hope to win you? If you have no repugnance to me, why
-                            should not I have a chance? Hadria, Hadria,<pb n="141"
-                                xml:id="VAB7047-137"/> answer me, for heaven's sake. Oh, if I could
+                            should not I have a chance? Hadria, Hadria,<pb n="141" xml:id="VAB7047-137"/> answer me, for heaven's sake. Oh, if I could
                             only understand what is in your mind!”</p>
                         <p>She would have found it a hard task to enlighten him. He had succeeded,
                             to some extent, in lulling her fears, not in banishing them, for a
@@ -4374,8 +4314,7 @@
                             wise? Did it not seem more likely, on the face of it, that they
                                 <emph>should</emph> be right, considering the enormous majority of
                             those who would agree with them, than that she, Hadria, a solitary girl,
-                            unsupported by knowledge of life or by fellow-believers, should<pb
-                                n="142" xml:id="VAB7047-138"/> have chanced upon the truth? Had only
+                            unsupported by knowledge of life or by fellow-believers, should<pb n="142" xml:id="VAB7047-138"/> have chanced upon the truth? Had only
                             Valeria been on her side, she would have felt secure, but Valeria was
                             dead against her.</p>
                         <p>“We are not really at variance, believe me,” Temperley pleaded. “You
@@ -4405,8 +4344,7 @@
                         <p>“Every word of it.”</p>
                         <p>“And you realise that I mean it, <emph>mean</emph> it, with every fibre
                             of me.”</p>
-                        <p>“I understand; and I repeat that I shall not be happy until<pb n="143"
-                                xml:id="VAB7047-139"/> you are my wife. Have what ideas you please,
+                        <p>“I understand; and I repeat that I shall not be happy until<pb n="143" xml:id="VAB7047-139"/> you are my wife. Have what ideas you please,
                             only be my wife.”</p>
                         <p>She gazed at him in puzzled scrutiny. “You don't think I am really in
                             earnest. Let us go.”</p>
@@ -4509,8 +4447,7 @@
                             its tower first looked out from the hill-top over the southern
                             counties.</p>
                         <p>The little village seemed as if it had forgotten to change with the rest
-                            of the country, for at least a hundred years. The<pb n="146"
-                                xml:id="VAB7047-142"/> spirit of the last century lingered in its
+                            of the country, for at least a hundred years. The<pb n="146" xml:id="VAB7047-142"/> spirit of the last century lingered in its
                             quiet cottages, in the little ale-house with half-obliterated sign, in
                             its air of absolute repose and leisure. There was no evidence of contest
                             anywhere—except perhaps in a few mouldy advertisements of a circus and
@@ -4540,8 +4477,7 @@
                             approve of Mrs. Temperley. The Red House was not, it would seem, an
                             everflowing fount of sustaining port wine and spiritually nourishing
                             literature. The moral evolution of the village had proceeded on those
-                            lines. The prevailing feeling was vaguely<pb n="147"
-                                xml:id="VAB7047-143"/> hostile; neither Mrs. Gullick nor Mrs. Dodge
+                            lines. The prevailing feeling was vaguely<pb n="147" xml:id="VAB7047-143"/> hostile; neither Mrs. Gullick nor Mrs. Dodge
                             exactly knew why. Mrs. Dodge said that her husband (who was the sexton
                             and gravedigger) had found Mrs. Temperley always ready for a chat. He
                             spoke well of her. But Dodge was not one of many. Mrs. Temperley was
@@ -4671,8 +4607,7 @@
                             musingly, “to go off suddenly in the full flush of health and spirits;
                             it would be so discouraging.”</p>
                         <p>“Most was chills, took sudden,” Dodge explained; “chills is wot chokes up
-                            yer churchyards for yer. If we has another<pb n="151"
-                                xml:id="VAB7047-147"/> hard winter this year, we shall have a job to
+                            yer churchyards for yer. If we has another<pb n="151" xml:id="VAB7047-147"/> hard winter this year, we shall have a job to
                             find room in here. There's one or two in the village already, as I has
                             my eye on, wot—”</p>
                         <p>“Was this one a chill?” interrupted Mrs. Temperley, with a nod towards
@@ -4799,8 +4734,7 @@
                             library alone had been subjected to <foreign xml:lang="fre">peine forte
                                 et dure</foreign>. Mrs. Temperley said that it had been purified by
                             suffering. By dint of tearing down and dragging out offending objects
-                            (“such a pity!” cried the neighbours) its prosperous and complacent<pb
-                                n="155" xml:id="VAB7047-151"/> absurdity had been humbled. Mrs.
+                            (“such a pity!” cried the neighbours) its prosperous and complacent<pb n="155" xml:id="VAB7047-151"/> absurdity had been humbled. Mrs.
                             Temperley retired to this refuge after her encounter with Sophia. That
                             perennially aggrieved young person entered almost immediately afterwards
                             and announced a visitor, with an air that implied—“She'll stay to lunch;
@@ -4866,8 +4800,7 @@
                             elsewhere, and the winds have a reverence for the graves, as if they
                             felt it time that the dead were left in peace—the ‘happier dead,’ as
                             poor immortal Tithonius calls them, who has not the gift of death. And
-                            the grey old tower and the weather stains on<pb n="157"
-                                xml:id="VAB7047-153"/> the stones; there is a conspiracy of beauty
+                            the grey old tower and the weather stains on<pb n="157" xml:id="VAB7047-153"/> the stones; there is a conspiracy of beauty
                             in the place, that holds one as one is held by music.”</p>
                         <p>“Ah! I know the magic of these things; it tempts one to believe at times
                             that Nature is <emph>not</emph> all blind and unpitying. But that is a
@@ -4918,8 +4851,7 @@
                         <p>“I thought you would be at least seven,” cried the mistress of the house,
                             “and with all the pertinacity of Wordsworth's little girl.”</p>
                         <p>“What <emph>do</emph> you mean, if one may ask for simple English?”</p>
-                        <p>“Merely that that intolerable Sanders has broken his word—<foreign
-                                xml:lang="lat">hinc illæ lacrimæ</foreign>.”</p>
+                        <p>“Merely that that intolerable Sanders has broken his word—<foreign xml:lang="lat">hinc illæ lacrimæ</foreign>.”</p>
                         <p>Hubert Temperley turned away in annoyance. He used to be amused by his
                             wife's flippancy before her marriage, but he had long since grown to
                             dislike it. He retired to get out some wine, while Hadria went forward
@@ -4961,8 +4893,7 @@
                             Dunaghee, and found their sentiments in hopeless opposition.</p>
                         <p>Miss Du Prel took no interest in Hubert, though she admired his
                             character. She had every wish to make herself agreeable to him, but her
-                            efforts in that direction were somewhat<pb n="160" xml:id="VAB7047-156"
-                            /> what neutralized by an incurable absence of mind. If she was not
+                            efforts in that direction were somewhat<pb n="160" xml:id="VAB7047-156"/> what neutralized by an incurable absence of mind. If she was not
                             interested, as Hadria said, she was seldom affable.</p>
                         <p>Possibly Hubert's request to her, years ago at Dunaghee, to “think for a
                             moment” had not been forgiven.</p>
@@ -4994,8 +4925,7 @@
                             of eggs, and the luncheon was pronounced excellent and ample.</p>
                         <p>Miss Du Prel said that she hoped the butcher would always forget to send
                             the meat. She liked these imaginative meals.</p>
-                        <p>Temperley purposely misunderstood her to say “imaginary<pb n="161"
-                                xml:id="VAB7047-157"/> meals,” and hoped that next time she came,
+                        <p>Temperley purposely misunderstood her to say “imaginary<pb n="161" xml:id="VAB7047-157"/> meals,” and hoped that next time she came,
                             Hadria would not have an oratorio in course of composition. Miss Du Prel
                             expressed a fiery interest in the oratorio.</p>
                         <p>“I judge the presence of oratorio by the absence of food,” Temperley
@@ -5017,8 +4947,7 @@
                                 <foreign xml:lang="fre">edition de luxe</foreign> of the views of
                             everybody else. But his wife had made that discovery long ago. He smiled
                             at the views of everybody else: his own were put forth as something
-                            choice and superior. He had the happy knack of being <foreign
-                                xml:lang="fre">bourgeois</foreign> with the air of an artist. If one
+                            choice and superior. He had the happy knack of being <foreign xml:lang="fre">bourgeois</foreign> with the air of an artist. If one
                             could picture one's grocer weighing out sugar in a Spanish cloak and
                             brigand's hat, it would afford an excellent symbol of his spiritual
                             estate. To be perfectly commonplace in a brilliantly original way, is to
@@ -5027,8 +4956,7 @@
                             from time to time, wondering what she would say next. At Craddock Dene,
                             ladies usually listened with a more or less breathless deference when
                             Temperley spoke. This new-comer seemed recklessly independent.</p>
-                        <p>Mrs. Temperley endeavoured to lead the conversation in<pb n="162"
-                                xml:id="VAB7047-158"/> ways of peace, but Valeria was evidently on
+                        <p>Mrs. Temperley endeavoured to lead the conversation in<pb n="162" xml:id="VAB7047-158"/> ways of peace, but Valeria was evidently on
                             the war-path. Temperley was polite and ironical, with undermeanings for
                             Hadria's benefit.</p>
                         <p>“If one asks impossible things of life, one is apt to be disappointed, I
@@ -5060,8 +4988,7 @@
                             century, after all, was not much more than one person's lifetime, yet in
                             scarcely nine of these—nine little troubled lifetimes—what incredible
                             things had occurred in this island of ours! How did it all come about?
-                            “Not assuredly,” Valeria remarked with sudden malice,<pb n="163"
-                                xml:id="VAB7047-159"/> “by taking things as they stood, and making
+                            “Not assuredly,” Valeria remarked with sudden malice,<pb n="163" xml:id="VAB7047-159"/> “by taking things as they stood, and making
                             the best of them with imbecile impatience. If everyone had done that,
                             what sort of an England should I have had stretching before my eyes at
                             this moment?”</p>
@@ -5183,8 +5110,7 @@
                             short-lived. The dream, such as it was, came to an end. Hubert turned to
                             his sister, in his bewilderment and disappointment. They had both
                             counted so securely on the effect of experience and the pressure of
-                            events to teach Hadria the desirable lesson, and they were dismayed<pb
-                                n="167" xml:id="VAB7047-163"/> to find that, unlike other women, she
+                            events to teach Hadria the desirable lesson, and they were dismayed<pb n="167" xml:id="VAB7047-163"/> to find that, unlike other women, she
                             had failed to learn it. Henriette was in despair. It was she who had
                             brought about the ill-starred union. How could she ever forgive herself?
                             How repair the error she had made? Only by devoting herself to her
@@ -5246,8 +5172,7 @@
                             detestations. Valeria, with all her native pride, regarded these as
                             proof of a big flaw in an otherwise sound nature. Yet how deep, how
                             passionately strong, these feelings were, how gigantic the flaw!</p>
-                        <p>What possessed people that they did not see what was so<pb n="169"
-                                xml:id="VAB7047-165"/> brutally clear? As young girls led forth
+                        <p>What possessed people that they did not see what was so<pb n="169" xml:id="VAB7047-165"/> brutally clear? As young girls led forth
                             unconscious into the battle, with a bandage over their eyes, and
                             cotton-wool in their ears—yes, then it was inevitable that the! should
                             see and hear nothing. Had they been newly imported from the moon they
@@ -5311,8 +5236,7 @@
                             “Insult is so much a matter of course that people are surprised if one
                             takes umbrage at it. Read this passage from Aristotle that I came upon
                             the other day. He is perfectly calm and amiable, entirely unconscious of
-                            offence, when he says that ‘a wife ought to shew herself even more<pb
-                                n="171" xml:id="VAB7047-167"/> obedient to the rein than if she
+                            offence, when he says that ‘a wife ought to shew herself even more<pb n="171" xml:id="VAB7047-167"/> obedient to the rein than if she
                             entered the house as a purchased slave. For she has been bought at a
                             high price, for the sake of sharing life and bearing children, than
                             which no higher or holier tie can possibly exist.’ (Henriette to the
@@ -5378,8 +5302,7 @@
                             moved across it with the long-stretching winds. As it was, to look from
                             her window only meant to find repeated the trivialities of life, more
                             picturesque indeed, but still trivialities. It was the estimable and
-                            domestic qualities of Nature that presented themselves:<pb n="173"
-                                xml:id="VAB7047-169"/> Nature in her most maternal and uninspired
+                            domestic qualities of Nature that presented themselves:<pb n="173" xml:id="VAB7047-169"/> Nature in her most maternal and uninspired
                             mood—Mother earth submissive to the dictatorship of man, permitting
                             herself to be torn, and wounded, and furrowed, and harrowed at his
                             pleasure, yielding her substance and her life to sustain the produce of
@@ -5517,8 +5440,7 @@
                             dreadful event that happened there”—Mrs. Walker lowered her voice
                             discreetly—“but it seems a sin to leave the place untenanted.”</p>
                         <p>Lady Engleton explained that there was some prospect of the house being
-                            let at last to a friend and colleague of the<pb n="178"
-                                xml:id="VAB7047-174"/> Professor. Mrs. Walker doubtless would
+                            let at last to a friend and colleague of the<pb n="178" xml:id="VAB7047-174"/> Professor. Mrs. Walker doubtless would
                             remember Professor Theobald, who used to come and stay at Craddock Place
                             rather frequently some years ago, a big man with beard and moustache,
                             very learned and very amusing.</p>
@@ -5549,8 +5471,7 @@
                         <p>“I am used to it now,” Mrs. Temperley replied, “and it is so nice and
                             quiet in the empty house. One knows one can't be interrupted—unless by
                             ghosts.”</p>
-                        <p>“Well, that is certainly a blessing,” cried Lady Engleton.<pb n="179"
-                                xml:id="VAB7047-175"/> “I think I shall ask Professor Fortescue to
+                        <p>“Well, that is certainly a blessing,” cried Lady Engleton.<pb n="179" xml:id="VAB7047-175"/> “I think I shall ask Professor Fortescue to
                             allow me also to go to the Priory to pursue my art in peace and
                             quietness; a truly hyperborean state, beyond the region of
                             visitors!”</p>
@@ -5649,8 +5570,7 @@
                             say. She read all the new books, and went to the courageous plays that
                             Mrs. Walker wouldn't mention.</p>
                         <p>“Your last book, <title>Caterina</title>, is a mine of suggestion, Miss
-                            Du Prel,” she said. “It raises one most interesting point that<pb
-                                n="182" xml:id="VAB7047-178"/> has puzzled me greatly. I don't know
+                            Du Prel,” she said. “It raises one most interesting point that<pb n="182" xml:id="VAB7047-178"/> has puzzled me greatly. I don't know
                             if you have all read the book? The heroine finds herself differing in
                             her view of life from everyone round her. She is married, but she has
                             made no secret of her scorn for the old ideals, and has announced that
@@ -5714,8 +5634,7 @@
                         <p>Mrs. Walker looked at Algitha in dismay.</p>
                         <p>“One can throw it in the teeth of one's contemporaries,” added Algitha,
                             “if they fail to produce a dramatic climax of the same kind.”</p>
-                        <p>Only,” said Mrs. Temperley, “if they <emph>do</emph> venture upon<pb
-                                n="184" xml:id="VAB7047-180"/> their own dreadful deed—the deed
+                        <p>Only,” said Mrs. Temperley, “if they <emph>do</emph> venture upon<pb n="184" xml:id="VAB7047-180"/> their own dreadful deed—the deed
                             demanded by their particular modern predicament—then we all shriek
                             vigorously.”</p>
                         <p>“Oh, we shriek less than we used to,” said Lady Engleton. “It is quite a
@@ -5827,8 +5746,7 @@
                             child!”</p>
                         <p>No; that was a mystery still.</p>
                         <p>About a week later, Craddock Dene was amazed by the news that Mrs.
-                            Temperley had taken the child of Ellen Jervis<pb n="188"
-                                xml:id="VAB7047-184"/> under her protection. A cottage had been
+                            Temperley had taken the child of Ellen Jervis<pb n="188" xml:id="VAB7047-184"/> under her protection. A cottage had been
                             secured on the road to Craddock, a trustworthy nurse engaged, and here
                             the babe was established, with the consent and blessing of the aunt.</p>
                         <p>“You are the most inconsistent woman I ever met!” exclaimed Miss Du
@@ -5850,8 +5768,7 @@
                             myself in heaven, as well as Mrs. Walker and the rest?”</p>
                         <p>“You were not thinking of heaven when you did this deed, Hadria.”</p>
                         <p>“No; I was thinking of the other place.”</p>
-                        <p>“And do you hope to get any satisfaction out of your <foreign
-                                xml:lang="fre">protégée</foreign>?”</p>
+                        <p>“And do you hope to get any satisfaction out of your <foreign xml:lang="fre">protégée</foreign>?”</p>
                         <p>Hadria shrugged her shoulders.</p>
                         <p>“I don't know. The child is the result of great sorrow and suffering; it
                             is the price of a woman's life; a woman who offended the world, having
@@ -5993,8 +5910,7 @@
                             get absorbed in her children. Why, their pinafores alone would become
                             absorbing.”</p>
                         <p>“Quite so,” said Mr. Fleming. Then a little anxious to change the
-                            subject: “Oh, by the way, have you heard that<pb n="193"
-                                xml:id="VAB7047-189"/> the Priory is really to be inhabited at last?
+                            subject: “Oh, by the way, have you heard that<pb n="193" xml:id="VAB7047-189"/> the Priory is really to be inhabited at last?
                             Professor Theobald has almost decided to take it.”</p>
                         <p>“Really? that will be exciting for Craddock Dene. We shall have another
                             household to dissect and denounce. Providence watches over us all, I
@@ -6027,8 +5943,7 @@
                             not care to be invited too often to submit to the devitalizing processes
                             of social intercourse, to which the families of the district shrank not
                             from subjecting themselves. If Joseph Fleming chanced to call at the Red
-                            House after her return from one of these<pb n="194" xml:id="VAB7047-190"
-                            /> entertainments, he was sure to find Mrs. Temperley in one of her
+                            House after her return from one of these<pb n="194" xml:id="VAB7047-190"/> entertainments, he was sure to find Mrs. Temperley in one of her
                             least comprehensible moods. But whatever she might say, he stood up for
                             her among the neighbours with persistent loyalty. He decked her with
                             virtues that she did not possess, and represented her to the sceptical
@@ -6214,8 +6129,7 @@
                             fierce. It saddens me to see good fellows trampling one another down,
                             growing hard and ungenerous. And then the vulgarity, the irreverence:
                             they are almost identical, I think. One grows very sick and sorry at
-                            times amidst the cruelty and the baseness that threaten to destroy<pb
-                                n="200" xml:id="VAB7047-196"/> one's courage and one's hope. I know
+                            times amidst the cruelty and the baseness that threaten to destroy<pb n="200" xml:id="VAB7047-196"/> one's courage and one's hope. I know
                             that human nature has in it a germ of nobility that will save it, in the
                             long run, but meanwhile things seem sadly out of joint.”</p>
                         <p>“Is that the order of the universe?” asked Hadria.</p>
@@ -6279,8 +6193,7 @@
                             instincts of conquest and ownership appeared to be utterly dead in
                             him.</p>
                         <p>No wonder he had found life a lonely pilgrimage! He lived before his
-                            time. His wife had taunted him because he<pb n="202"
-                                xml:id="VAB7047-198"/> would not treat her as his legal property, or
+                            time. His wife had taunted him because he<pb n="202" xml:id="VAB7047-198"/> would not treat her as his legal property, or
                             rule her through the claims and opportunities that popular sentiment
                             assigned to him.</p>
                         <p>When a woman as generous as himself, as just, as gentle-hearted, had
@@ -6433,8 +6346,7 @@
                         <p>“Or say all I mean.”</p>
                         <p>Valeria laid her hand on Hadria's with wistful tenderness.</p>
                         <p>“I don't think anyone will ever quite understand you, Hadria.”</p>
-                        <p>“Including perhaps myself. I sometimes fancy that when<pb n="207"
-                                xml:id="VAB7047-203"/> it became necessary to provide me with a
+                        <p>“Including perhaps myself. I sometimes fancy that when<pb n="207" xml:id="VAB7047-203"/> it became necessary to provide me with a
                             disposition, the material had run out, for the moment, nothing being
                             left but a few remnants of other people's characters; so a living
                             handful of these was taken up, roughly welded together, and then the
@@ -6497,8 +6409,7 @@
                             pain always thinks it would be more bearable if only it were on the
                             other side.”</p>
                         <p>“Ah, I know you won't admit it,” said Hadria, “but some day we shall all
-                            see that this is the result of human cruelty<pb n="209"
-                                xml:id="VAB7047-205"/> and ignorance, and that it is no more
+                            see that this is the result of human cruelty<pb n="209" xml:id="VAB7047-205"/> and ignorance, and that it is no more
                             ‘intended’ or inherently necessary than that children should be born
                             with curvature of the spine, or rickets. Some day it will be as clear as
                             noon, that heartless ‘some day’ which can never help you or me, or any
@@ -6625,8 +6536,7 @@
                             old friends—you are a sort of cousin I think, Professor Fortescue—I
                             should really feel aggrieved. One has to endure so much more from
                             relations. No, but really; I appeal to Mrs. Temperley. When one is
-                            hungering for erudition, to be offered compliments! Not that I can<pb
-                                n="214" xml:id="VAB7047-210"/> accuse Professor Fortescue of
+                            hungering for erudition, to be offered compliments! Not that I can<pb n="214" xml:id="VAB7047-210"/> accuse Professor Fortescue of
                             compliments,” she added with a laugh; “wild horses would not drag one
                             from him. I angle vainly. But he is so ridiculously young. He enjoys
                             things as if he were a schoolboy. Does one look for that in one's
@@ -6688,8 +6598,7 @@
                         <p>“Perhaps Theobald leans to the picturesque and does not care for the
                             classic,” suggested his colleague; “a fundamental distinction in mental
                             bias.”</p>
-                        <p>“Then why does he enjoy so much of the <foreign xml:lang="fre"
-                                >Renaissance</foreign> work on caskets and goblets? He was raving
+                        <p>“Then why does he enjoy so much of the <foreign xml:lang="fre">Renaissance</foreign> work on caskets and goblets? He was raving
                             about them last night in the choicest English.”</p>
                         <p>Lady Engleton crossed over to speak to Miss Du Prel. Professor Theobald
                             approached Mrs. Temperley and Joseph Fleming. Hadria knew by some
@@ -6697,8 +6606,7 @@
                             to her. As he drew near, a feeling of intense enmity arose within her,
                             which reached its highest pitch when he addressed her in a fine,
                             low-toned voice of peculiarly fascinating quality. Every instinct rose
-                            up as if in warning. He sat down beside her, and began<pb n="216"
-                                xml:id="VAB7047-212"/> to talk about the Priory and its history. His
+                            up as if in warning. He sat down beside her, and began<pb n="216" xml:id="VAB7047-212"/> to talk about the Priory and its history. His
                             ability was obvious, even in his choice of words and his selection of
                             incidents. He had the power of making dry archæological facts almost
                             dramatic. His speech differed from that of most men, in the indefinable
@@ -6933,8 +6841,7 @@
                             subjects. She said that the kitchen-boiler was out of order, and yet she
                             had to take part in these highly-cultivated conversations and smile, as
                             she complained, with that kitchen-boiler gnawing at her vitals. She
-                            claimed to be set on a level with the Spartan boy, if not above him.<pb
-                                n="224" xml:id="VAB7047-220"/> Valeria might scoff, as those
+                            claimed to be set on a level with the Spartan boy, if not above him.<pb n="224" xml:id="VAB7047-220"/> Valeria might scoff, as those
                             proverbially did who never felt a wound. Hadria found a certain lack of
                             tender feeling among the happy few who had no such tragic burdens to
                             sustain.</p>
@@ -6997,8 +6904,7 @@
                             becoming to his character, made him a little recklessly frank at
                             times.</p>
                         <p>He admitted that throughout his varied experience of life, he had found
-                            flattery the most powerful weapon in a skilled<pb n="226"
-                                xml:id="VAB7047-222"/> hand, and that he had never known it fail. He
+                            flattery the most powerful weapon in a skilled<pb n="226" xml:id="VAB7047-222"/> hand, and that he had never known it fail. He
                             related instances of the signal success which had followed its
                             application with the trowel. He reminded his listeners of Lord
                             Beaconsfield's famous saying, and chuckled over the unfortunate woman,
@@ -7239,8 +7145,7 @@
                             creature,” said Theobald, with a chuckle.</p>
                         <p>“It certainly has its drowsy winters,” observed Hadria.</p>
                         <p>“Ah! but its spring awakenings!” cried Miss Du Prel.</p>
-                        <p>The chime of a clock startled them with its accusation of<pb n="234"
-                                xml:id="VAB7047-230"/> lingering too long. The hostess remonstrated
+                        <p>The chime of a clock startled them with its accusation of<pb n="234" xml:id="VAB7047-230"/> lingering too long. The hostess remonstrated
                             at the breaking up the party. Why should they hurry away?</p>
                         <p>“The time when we could lay claim to have ‘hurried’ has long since
                             passed, Lady Engleton,” said Hubert, “we can only plead forgiveness by
@@ -7420,8 +7325,7 @@
                             “taming the savage beast.” As for his intellect it took to blazing, as
                             if, he said, without false modesty, a torch had been placed in pure
                             oxygen.</p>
-                        <p>“My brain takes fire here and flames. I should make a<pb n="240"
-                                xml:id="VAB7047-236"/> very creditable beacon if the burning of
+                        <p>“My brain takes fire here and flames. I should make a<pb n="240" xml:id="VAB7047-236"/> very creditable beacon if the burning of
                             brains and the burning of faggots were only of equal value.”</p>
                         <p>The little feud between him and Mrs. Temperley had been patched up. She
                             felt that she had been rude to him, on one occasion at any rate, and
@@ -7453,8 +7357,7 @@
                             equally smiling, yourself a very emblem of spring in your fresh gown,
                             and a domestic tabby to complete the scene.”</p>
                         <p>“I wish I could come and see it,” said Hadria. She was waving a twig of
-                            lavender, and little Martha was making grabs<pb n="241"
-                                xml:id="VAB7047-237"/> at it, and laughing her gurgling laugh of
+                            lavender, and little Martha was making grabs<pb n="241" xml:id="VAB7047-237"/> at it, and laughing her gurgling laugh of
                             babyish glee. Professor Theobald stood in the road facing up hill
                             towards Craddock, whose church tower was visible from here, just peeping
                             through the spring foliage of the vicarage garden. He only now and again
@@ -7466,8 +7369,7 @@
                         <p>He paused a moment, and then bent down to open the little gate. His
                             stalwart figure, in the diminutive enclosure, reduced it to the
                             appearance of a doll's garden.</p>
-                        <p>“Step carefully or you will crush the young <foreign xml:lang="fre"
-                                >ménage</foreign>,” Hadria advised. The rosy-cheeked nurse looked
+                        <p>“Step carefully or you will crush the young <foreign xml:lang="fre">ménage</foreign>,” Hadria advised. The rosy-cheeked nurse looked
                             with proud expectancy at the face of the strange gentleman, to note the
                             admiration that he could not but feel.</p>
                         <p>His lips were set.</p>
@@ -7515,9 +7417,7 @@
                             Baby—your Majesty: will nothing soften you? She is beginning early to
                             take advantage of the chivalry of the stronger sex, and I doubt not she
                             will know how to pursue her opportunity later on.”</p>
-                        <p>“Oh! is <emph>that</emph> your parable? Into my head came quite a<pb
-                                n="243" xml:id="VAB7047-239"/> different one—<foreign xml:lang="fre"
-                                >à propos</foreign> of what we were talking of yesterday in
+                        <p>“Oh! is <emph>that</emph> your parable? Into my head came quite a<pb n="243" xml:id="VAB7047-239"/> different one—<foreign xml:lang="fre">à propos</foreign> of what we were talking of yesterday in
                             Griffin-land.”</p>
                         <p>“Ah, the eternal feminine!” cried the Professor. “Yes, you were very
                             brilliant, Mrs. Temperley.”</p>
@@ -7616,8 +7516,7 @@
                                 Progress</title> would read strangely and significantly with woman
                             as the pilgrim! But the end—that would be a difficulty.”</p>
                         <p>“One for your sex to solve,” said the Professor.</p>
-                        <p>When they arrived at the cottage the wails were dying<pb n="246"
-                                xml:id="VAB7047-242"/> away, and Hadria advised that they should
+                        <p>When they arrived at the cottage the wails were dying<pb n="246" xml:id="VAB7047-242"/> away, and Hadria advised that they should
                             leave well alone. So the baby's victim somewhat reluctantly retired.</p>
                         <p>“After all, you see, if one has strength of purpose, one <emph>can</emph>
                             achieve freedom,” he observed.</p>
@@ -7711,8 +7610,7 @@
                         <p>“See the ideal and ethereal being whom you have been so faithfully
                             impersonating all the afternoon!” exclaimed Hadria.</p>
                         <p>A fair, faint, admirably gentle creature, floating in a mist of tulle,
-                            was wafted out of the brougham, the spring sunshine<pb n="249"
-                                xml:id="VAB7047-245"/> burnishing the pale hair, and flashing a
+                            was wafted out of the brougham, the spring sunshine<pb n="249" xml:id="VAB7047-245"/> burnishing the pale hair, and flashing a
                             dazzling sword-like glance on the string of diamonds at her throat.</p>
                         <p>It seemed too emphatic, too keen a greeting for the faint ambiguous
                             being, about to put the teaching of her girlhood, and her pretty hopes
@@ -7805,8 +7703,7 @@
                             Engleton.</p>
                         <p>“They have been so drilled,” cried Hadria, “so gagged, so deafened, by
                             ‘the shrieks of near relations.’”</p>
-                        <p>Lady Engleton was asking for an explanation, when the<pb n="252"
-                                xml:id="VAB7047-248"/> wedding-bells began to clang out from the
+                        <p>Lady Engleton was asking for an explanation, when the<pb n="252" xml:id="VAB7047-248"/> wedding-bells began to clang out from the
                             belfry, merry and roughly rejoicing. “Tom-boy bells,” Hadria called
                             them. They seemed to tumble over one another and pick themselves up
                             again, and give chase, and roll over in a heap, and then peal firmly out
@@ -7936,8 +7833,7 @@
                             out for the first time how very strange all the <emph>other</emph> ages
                             have been.”</p>
                         <p>“However that may be, it seems to me, that a sort of shiver is going
-                            through all Society, as if it had suddenly become very<pb n="256"
-                                xml:id="VAB7047-252"/> much aware of things and couldn't make them
+                            through all Society, as if it had suddenly become very<pb n="256" xml:id="VAB7047-252"/> much aware of things and couldn't make them
                             out—nor itself.”</p>
                         <p>“Like a creature beginning to struggle through a bad illness. I do think
                             it is all extremely remarkable, especially the bad illness.”</p>
@@ -8111,8 +8007,7 @@
                             that if caution were carried too far, one might end by finding nothing
                             inside of one at all, which also threatened to be attended with
                             inconvenience.</p>
-                        <p>Dodge seemed to feel that the <foreign xml:lang="fre"
-                                >désagréments</foreign> in this last case were trivial as compared
+                        <p>Dodge seemed to feel that the <foreign xml:lang="fre">désagréments</foreign> in this last case were trivial as compared
                             with those of the former.</p>
                         <p>“Dodge is a born sceptic,” said Lady Engleton. “What would you say,
                             Dodge, if some tiresome, reasonable person were to come and point out
@@ -8228,8 +8123,7 @@
                         <p>“So much the better.”</p>
                         <p>“Then do you think it quite just to punish one man for the sin of
                             another?”</p>
-                        <p>“No; but there is a deadly feud between the sexes: it is<pb n="265"
-                                xml:id="VAB7047-261"/> a hereditary vendetta: the duty of vengeance
+                        <p>“No; but there is a deadly feud between the sexes: it is<pb n="265" xml:id="VAB7047-261"/> a hereditary vendetta: the duty of vengeance
                             is passed on from generation to generation.”</p>
                         <p>“Oh, Mrs. Temperley!” Lady Engleton's tone was one of reproach.</p>
                         <p>“Yes, it is vindictive, I know; one does not grow tender towards the
@@ -8321,8 +8215,7 @@
                         <p>“That is a very common trait. If we feared only the opinions that we
                             respect, our fear would cover but a small area.”</p>
                         <p>The music stole out again through the window. The thoughts of the
-                            listeners were busy. It was not until quite<pb n="268"
-                                xml:id="VAB7047-264"/> lately that Professor Fortescue had fully
+                            listeners were busy. It was not until quite<pb n="268" xml:id="VAB7047-264"/> lately that Professor Fortescue had fully
                             realised the nature of Hadria's present surroundings. It had taken all
                             his acuteness and his sympathy to enable him to perceive the number and
                             strength of the little threads that hampered her spontaneity. As she
@@ -8355,8 +8248,7 @@
                             arises freedom.”</p>
                         <p>Hadria was playing some joyous impromptu, which seemed to express the
                             very spirit of Freedom herself.</p>
-                        <p>“I think Hadria has something of the gipsy in her,” said<pb n="269"
-                                xml:id="VAB7047-265"/> Algitha. “She is so utterly and hopelessly
+                        <p>“I think Hadria has something of the gipsy in her,” said<pb n="269" xml:id="VAB7047-265"/> Algitha. “She is so utterly and hopelessly
                             unfitted to be the wife of a prim, measured, elegant creature like
                             Hubert—good fellow though he is—and to settle down for life at Craddock
                             Dene.”</p>
@@ -8390,8 +8282,7 @@
                             of the quiet land, formed a benign circle round the garden, and led the
                             sense of peace out and out to the horizon, where the liquid light of the
                             sky touched the hills.</p>
-                        <p>The face of the Professor had a transparent look and a<pb n="270"
-                                xml:id="VAB7047-266"/> singular beauty of expression, such as is
+                        <p>The face of the Professor had a transparent look and a<pb n="270" xml:id="VAB7047-266"/> singular beauty of expression, such as is
                             seen on the faces of the dead, or on the faces of those who are carried
                             beyond themselves by some generous enthusiasm.</p>
                         <p>They watched, in silence, the changes creeping over the heavens, the
@@ -8422,8 +8313,7 @@
                             the dreams dwell; life is a fairy-tale; but there is always that terror
                             of the departure of the sun.”</p>
                         <p>“<foreign xml:lang="lat">Carpe diem</foreign>.”</p>
-                        <p>Hadria turned a startled and eager face towards the Professor,<pb n="271"
-                                xml:id="VAB7047-267"/> who was leaning back in his chair,
+                        <p>Hadria turned a startled and eager face towards the Professor,<pb n="271" xml:id="VAB7047-267"/> who was leaning back in his chair,
                             thoughtfully smoking. The smoke curled away serenely through the calm
                             air of the evening.</p>
                         <p>“You have a great gift,” he said.</p>
@@ -8454,8 +8344,7 @@
                             their Sphere.” Algitha gave an approving chuckle. “I noticed,” Hadria
                             added, “that the desperate struggle to grow of that young tree had begun
                             to loosen the masonry of the edifice that cramped it. There was a great
-                            dangerous-looking crack right across the building.<pb n="272"
-                                xml:id="VAB7047-268"/> The tree was not saved from deformity,
+                            dangerous-looking crack right across the building.<pb n="272" xml:id="VAB7047-268"/> The tree was not saved from deformity,
                                 <emph>but</emph> it had its revenge! Some day that noble institution
                             would come down by the run.”</p>
                         <p>“Yes. Well, the thing to do is to get out of it,” said the Professor.</p>
@@ -8489,8 +8378,7 @@
                             morning, or opens, scroll-like, in a flood of noble music. It sounds
                             unreal, yet it brings a sense of conviction that is irresistible.”</p>
                         <p>“I think it was Pythagoras who declared that the woes of men are the work
-                            of their own hands,” said the Professor. “So<pb n="273"
-                                xml:id="VAB7047-269"/> are their joys. Nothing ever shakes my belief
+                            of their own hands,” said the Professor. “So<pb n="273" xml:id="VAB7047-269"/> are their joys. Nothing ever shakes my belief
                             that what the mind of man can imagine, that it can achieve.”</p>
                         <p>“But there are so many pulling the wrong way,” said Algitha sadly.</p>
                         <p>“Ah, one man may be miserable through the deeds of others; the race can
@@ -8523,8 +8411,7 @@
                             the plea of affection should be stoutly resisted. But I recognise that
                             cases must often occur when resistance is practically impossible.”</p>
                         <p>“One ought not to be too easily melted by the ‘shrieks of a near
-                            relation,’” said Hadria. “Ah, I have a good mind<pb n="274"
-                                xml:id="VAB7047-270"/> to try. I don't fear any risk for myself, nor
+                            relation,’” said Hadria. “Ah, I have a good mind<pb n="274" xml:id="VAB7047-270"/> to try. I don't fear any risk for myself, nor
                             any work; the stake is worth it. I don't want to grow cramped and
                             crooked, like my poor ash-tree. Perhaps this may be a form of vanity
                             too; I don't know, I was going to say I don't care.”</p>
@@ -8685,8 +8572,7 @@
                         <p>Perhaps so, but it seemed to be thought expedient to defer the lesson
                             till the distant future; at least, if one might judge from the
                             literature especially designed for growing minds, wherein clever
-                            villainy was exalted, and deeds of ferocious<pb n="279"
-                                xml:id="VAB7047-275"/> cruelty and revenge occurred as a daily
+                            villainy was exalted, and deeds of ferocious<pb n="279" xml:id="VAB7047-275"/> cruelty and revenge occurred as a daily
                             commonplace among heroes. The same policy was indicated by the practice
                             of allowing children to become familiar with the sight of slaughter, and
                             of violence of every kind towards animals, from earliest infancy. Hadria
@@ -8838,8 +8724,7 @@
                             beauty. The supreme moment had come of flowing wealth of foliage and
                             delicate splendour of blossom, yet the paleness of green and tenderness
                             of texture were still there.</p>
-                        <p>Professor Theobald said suddenly, that Hadria looked as if<pb n="284"
-                                xml:id="VAB7047-280"/> she were turning over some project very
+                        <p>Professor Theobald said suddenly, that Hadria looked as if<pb n="284" xml:id="VAB7047-280"/> she were turning over some project very
                             anxiously in her mind—a project on which much depended.</p>
                         <p>“You are very penetrating,” she replied, after a moment's hesitation,
                             “that is exactly what I <emph>am</emph> doing. When I was a girl, my
@@ -8933,8 +8818,7 @@
                             A large experience and wide observation always supported each opinion,
                             and eminent authorities swarmed to the standard.</p>
                         <p>“I do think that women want breadth of view,” said Lady Engleton.</p>
-                        <p>“They sometimes want accuracy of statement,” observed<pb n="287"
-                                xml:id="VAB7047-283"/> Professor Theobald, with a possible second
+                        <p>“They sometimes want accuracy of statement,” observed<pb n="287" xml:id="VAB7047-283"/> Professor Theobald, with a possible second
                             meaning in his words.</p>
                         <p>“It seems to me they lack concentration. They are too versatile,” was
                             Hubert's comment.</p>
@@ -9000,8 +8884,7 @@
                         <p>“The adorable creature is not always precisely obeisant,” observed
                             Theobald.</p>
                         <p>“No; as I say, she may be capricious and cruel enough to those who treat
-                            her justly and generously” (Hadria's eyes<pb n="289"
-                                xml:id="VAB7047-285"/> instinctively turned towards the distant
+                            her justly and generously” (Hadria's eyes<pb n="289" xml:id="VAB7047-285"/> instinctively turned towards the distant
                             Priory, and Valeria's followed them); “but ask her to sacrifice herself
                             for nothing; ask her to cherish the selfishness of some bully or fool;
                             assure her that it is her duty to waste her youth, lose her health, and
@@ -9129,8 +9012,7 @@
                             poorest, thinnest, vulgarest qualities in man and woman are those
                             selected for survival, in the struggle for existence.”</p>
                         <p>There was a cry of remonstrance from idealists.</p>
-                        <p>“But what else do we mean when we talk by common<pb n="293"
-                                xml:id="VAB7047-289"/> consent of the world's baseness, harshness,
+                        <p>“But what else do we mean when we talk by common<pb n="293" xml:id="VAB7047-289"/> consent of the world's baseness, harshness,
                             vulgarity, injustice? It means surely—and think of it!—that it is
                             composed of men and women with the best of them killed out, as a nerve
                             burnt away by acid; a heart won over to meaner things than it set out
@@ -9207,8 +9089,7 @@
                             gear: the tweed gown meet for service, the rug and friendly umbrella,
                             added to the feeling of overflowing satisfaction. The little girl stared
                             more fixedly than ever. A smile and the offer of a flower made her look
-                            down, for a minute, but the gaze was resumed. Wherefore?<pb n="296"
-                                xml:id="VAB7047-292"/> Was the inward tumult too evident in the
+                            down, for a minute, but the gaze was resumed. Wherefore?<pb n="296" xml:id="VAB7047-292"/> Was the inward tumult too evident in the
                             face? Well, no matter. The world was beautiful and wide!</p>
                         <p>The patient monster began to move again, with a gay whistle, as if he
                             enjoyed this chase across country, on the track of Time. He was soon at
@@ -9237,8 +9118,7 @@
                             hurrying crowd; occasionally a French sentence pronounced by one of the
                             officials, reminiscent of a thousand dreams and sights of foreign lands;
                             and then the breezy quay and waiting steamboat.</p>
-                        <p>The sound of that quiet, purposeful hiss of the steam sent<pb n="297"
-                                xml:id="VAB7047-293"/> a thrill along the nerves. Hannah and her
+                        <p>The sound of that quiet, purposeful hiss of the steam sent<pb n="297" xml:id="VAB7047-293"/> a thrill along the nerves. Hannah and her
                             charge were safely on board; the small luggage followed, and lastly
                             Hadria traversed the narrow bridge, wondering when the moment would
                             arrive for waking up and finding herself in her little bedroom at
@@ -9300,8 +9180,7 @@
                         <p>“Have you ever been to France before, ma'am?” Hannah asked, perhaps
                             noticing the sparkle of her employer's eye and the ring in her
                             voice.</p>
-                        <p>“Yes, once; I spent a week in Paris with Mr. Temperley,<pb n="299"
-                                xml:id="VAB7047-295"/> and we went on afterwards to the Pyrenees.
+                        <p>“Yes, once; I spent a week in Paris with Mr. Temperley,<pb n="299" xml:id="VAB7047-295"/> and we went on afterwards to the Pyrenees.
                             That was just before we took the Red House.”</p>
                         <p>“It must have been beautiful,” said Hannah. “And did you take the babies,
                             ma'am?”</p>
@@ -9330,8 +9209,7 @@
                             disposed to express her feelings by a marked lack of relish for her
                             food. She regarded Hadria's hearty appetite with a disdainful
                             expression. Martha ate bread and butter and fruit. She was to have some
-                            milk that had been brought for her, when they were <foreign
-                                xml:lang="fre">en route</foreign> again.</p>
+                            milk that had been brought for her, when they were <foreign xml:lang="fre">en route</foreign> again.</p>
                         <p>“<foreign xml:lang="fre">Tout le monde en voiture</foreign>!” Within five
                             minutes, the train<pb n="300" xml:id="VAB7047-296"/> was puffing across
                             the wastes of blowing sand that ran along the coast, beyond the town.
@@ -9409,8 +9287,7 @@
                             which seemed to hold aloof, with a quality of reserve rarely to be
                             noticed in things Parisian. Hadria greeted it with a feeling of
                             gratitude.</p>
-                        <p>The great Boulevard was ablaze and swarming with life. The <foreign
-                                xml:lang="fre">cafés</foreign> were full; the gilt and mirrors and
+                        <p>The great Boulevard was ablaze and swarming with life. The <foreign xml:lang="fre">cafés</foreign> were full; the gilt and mirrors and
                             the crowds of <foreign xml:lang="fre">consommateurs</foreign> within,
                             all visible as one passed along the street, while, under the awning
                             outside, crowds were sitting smoking, drinking, reading the papers.</p>
@@ -9431,8 +9308,7 @@
                         <p>“<foreign xml:lang="fre">Si Madame desire encore quelque
                             chose</foreign>?” The neat maid, in picturesque white cap and apron,
                             stood with her hand on the door of the little bedroom, on one of the
-                                highest<pb n="303" xml:id="VAB7047-299"/> storeys of the <foreign
-                                xml:lang="fre">pension</foreign>. Half of one of the long windows
+                                highest<pb n="303" xml:id="VAB7047-299"/> storeys of the <foreign xml:lang="fre">pension</foreign>. Half of one of the long windows
                             had been set open, and the sounds of the rolling of vehicles over the
                             smooth asphalte, mingled with those of voices, were coming up, straight
                             and importunate, into the dainty bedroom. The very sounds seemed nearer
@@ -9517,8 +9393,7 @@
                         <p>But all this was felt with infinitely greater force a little later, when
                             the period of solitude was over, and Hadria found herself in the midst
                             of a little society whose real codes and ideas she had gropingly to
-                            learn. Unfamiliar (in any practical sense)<pb n="306"
-                                xml:id="VAB7047-302"/> with life, even in her own country, she had
+                            learn. Unfamiliar (in any practical sense)<pb n="306" xml:id="VAB7047-302"/> with life, even in her own country, she had
                             no landmarks or finger-posts, of any kind, in this new land. Her
                             sentiment had never been narrowly British, but now she realized her
                             nationality over-keenly; she felt herself almost grotesquely English,
@@ -9549,8 +9424,7 @@
                             two great classes, both of whom they insult and enslave, insisting
                             peremptorily on the existence of each division, but treating one class
                             as private and the other as public property. One might as well talk to
-                            driven cattle in the shambles about their<pb n="307"
-                                xml:id="VAB7047-303"/> ‘sacred mission’ as to women. It is an added
+                            driven cattle in the shambles about their<pb n="307" xml:id="VAB7047-303"/> ‘sacred mission’ as to women. It is an added
                             mockery, a gratuitous piece of insolence.”</p>
                         <p>Having been, from childhood, more or less at issue with her surroundings,
                             Hadria had never fully realized their power upon her personality. But
@@ -9612,8 +9486,7 @@
                             even misleading than it had been when its proportions were less defined.
                             The faint twinkle of light revealed the dusky outline, bewildering and
                             discouraging the imagination. Intuitive knowledge was disturbed by the
-                            incursion of scraps of disconnected experience.<pb n="309"
-                                xml:id="VAB7047-305"/> This condition of mind made her an almost
+                            incursion of scraps of disconnected experience.<pb n="309" xml:id="VAB7047-305"/> This condition of mind made her an almost
                             insoluble pyschological problem. Since she was evidently a woman of
                             pronounced character, her bewilderment and tentitive attitude were not
                             allowed for. Her actions were regarded as deliberate and cool-headed,
@@ -9643,8 +9516,7 @@
                             existence, giving it cohesion and form. Recreation deserved its name,
                             after work of this kind. Any lurking danger of too great speculative
                             restlessness disappeared. There had been a moment when the luxurious joy
-                            of mere wandering observation and absorption, threatened to<pb n="310"
-                                xml:id="VAB7047-306"/> become overwhelming, and to loosen some of
+                            of mere wandering observation and absorption, threatened to<pb n="310" xml:id="VAB7047-306"/> become overwhelming, and to loosen some of
                             the rivets of the character.</p>
                         <p>But work was to the sum-total of impulse what the central weight was to
                             one of Martha's toys: a leaden ballast that always brought the balance
@@ -9697,8 +9569,7 @@
                             the picturesque mysteries of Parisian housekeeping. It was amusing to go
                             to the shops and markets with this shrewd Frenchwoman, and very
                             enlightening as to the method of living cheaply and well. Hadria began
-                            to think wistfully of a more permanent <foreign xml:lang="fre"
-                                >ménage</foreign> in this entrancing capital, where there were still
+                            to think wistfully of a more permanent <foreign xml:lang="fre">ménage</foreign> in this entrancing capital, where there were still
                             worlds within worlds to explore. She questioned Madame Vauchlelet as to
                             the probable cost of a <foreign xml:lang="fre">femme de ménage</foreign>
                             . Madame quickly ran through some calculations and pronounced a sum
@@ -9711,8 +9582,7 @@
                             many calculations and consultations<pb n="312" xml:id="VAB7047-308"/>
                             with Madame Vauchelet, Hadria finally decided to rent, for three months,
                             a cheerful little suite of rooms near the Arc de Triomphe.</p>
-                        <p>Madame Vauchelet drank a cup of tea in the little <foreign xml:lang="fre"
-                                >salon</foreign>, with quiet heroism, not liking to refuse Hadria's
+                        <p>Madame Vauchelet drank a cup of tea in the little <foreign xml:lang="fre">salon</foreign>, with quiet heroism, not liking to refuse Hadria's
                             offer of the friendly beverage. But she wondered at the powerful
                             physique of the nation that could submit to the trial daily.</p>
                         <p>Hadria was brimming over with pleasure in her new home, which breathed
@@ -9739,8 +9609,7 @@
                             stricken and sorrowing family. Being naturally heroic, it said little
                             but thought the more. Relations whose names Hadria scarcely remembered,
                             seemed to have waked up at the news of her departure and claimed their
-                            share of the woe. Obscure Temperleys raised astounded heads and<pb
-                                n="313" xml:id="VAB7047-309"/> mourned. Henriette wrote that she was
+                            share of the woe. Obscure Temperleys raised astounded heads and<pb n="313" xml:id="VAB7047-309"/> mourned. Henriette wrote that she was
                             really annoyed at the way in which everybody was talking about Hadria's
                             conduct. It was most uncomfortable. She hoped Hadria was able to be
                             happy. Hubert was ready to forgive her and to receive her back, in spite
@@ -9832,8 +9701,7 @@
                             performer, had not the cares of a family put an end to all hope of
                             bringing her gifts to fruition.</p>
                         <p>The piano was opened. Jouffroy played. Madame Vauchelet, with her large
-                            veil thrown back, her black cashmere folds<pb n="316"
-                                xml:id="VAB7047-312"/> falling around her, sat in the large
+                            veil thrown back, her black cashmere folds<pb n="316" xml:id="VAB7047-312"/> falling around her, sat in the large
                             arm-chair, a dignified and graceful figure, listening gravely. The
                             kindly, refined face of M. Thillard beamed with enjoyment; an occasional
                             cry of admiration escaping his lips, at some exquisite touch from the
@@ -9864,13 +9732,10 @@
                             old rules and conventions; to have her work despised and refused, and
                             again refused, till at last the dull ears shall he opened and all the
                             stupid world shall run shouting to her feet?”</p>
-                        <p>The colour rushed into Hadria's cheeks. “<foreign xml:lang="fre"
-                                >Voila</foreign>.” exclaimed Madame Vauchelet. M. Thillard beamed
+                        <p>The colour rushed into Hadria's cheeks. “<foreign xml:lang="fre">Voila</foreign>.” exclaimed Madame Vauchelet. M. Thillard beamed
                             with satisfaction. “Did I not tell you?”</p>
                         <pb n="317" xml:id="VAB7047-313"/>
-                        <p>Jouffroy clapped his friend on the back with enthusiasm. “<foreign
-                                xml:lang="fre">Il faut travailler</foreign>,” he said, “<foreign
-                                xml:lang="fre">mais travailler</foreign>!” He questioned Hadria
+                        <p>Jouffroy clapped his friend on the back with enthusiasm. “<foreign xml:lang="fre">Il faut travailler</foreign>,” he said, “<foreign xml:lang="fre">mais travailler</foreign>!” He questioned Hadria
                             minutely as to her course of study, approved it on the whole, suggesting
                             alterations and additions. He asked to look through some more of her
                             work.</p>
@@ -9900,8 +9765,7 @@
                             chanced to be gleaming in this soul or that, what cause for
                             astonishment? The rest might be the worst of dross. As well might the
                             chance occur to one of Nature's children as to another. She did not
-                            bestow even one golden grain for nothing, <foreign xml:lang="fre"
-                                >bien</foreign><pb n="318" xml:id="VAB7047-314"/>
+                            bestow even one golden grain for nothing, <foreign xml:lang="fre">bien</foreign><pb n="318" xml:id="VAB7047-314"/>
                             <foreign xml:lang="fre">sûr</foreign>; she meant to be paid back with
                             interest. Just one bright bead of the whole vast circlet of the truth:
                             perhaps it was hers, but more likely that these kind friends had been
@@ -9928,8 +9792,7 @@
                             careers had he not seen ruined by this fatal instinct! Jouffroy's
                             passion for his art had overcome the usual sentiment of the Frenchman,
                             and even the strain of Jewish blood. He did not think a woman of genius
-                            well lost for a child. He grudged her to the fetish <foreign
-                                xml:lang="fre">la famille</foreign>. He went so far as to say that,
+                            well lost for a child. He grudged her to the fetish <foreign xml:lang="fre">la famille</foreign>. He went so far as to say that,
                             even without the claims of genius, a woman ought to be permitted to
                             please herself in the matter. When he heard that Madame had two
                             children, and yet had not abandoned her ambition, he nodded gravely and
@@ -9947,8 +9810,7 @@
                         <p>One could not rely on them. They had enthusiasm—Oh, but enthusiasm
                                 <foreign xml:lang="fre">à faire peur</foreign>, but presently
                                 “<foreign xml:lang="fre">un monsieur avec des moustaches
-                                seduisantes</foreign>” approaches, and then “<foreign xml:lang="fre"
-                                >Phui, c'est tout fini</foreign>!” There was something of fatality
+                                seduisantes</foreign>” approaches, and then “<foreign xml:lang="fre">Phui, c'est tout fini</foreign>!” There was something of fatality
                             in the affair. The instinct was terrible; a demoniacal possession. It
                             was for women a veritable curse, a disease. M. Jouffroy had pronounced
                             views on the subject. He regarded the maternal instinct as the scourge
@@ -10066,8 +9928,7 @@
                             privilege that every man enjoys, of quietly pursuing his work without
                             giving either.</p>
                         <p>A disastrous sense of hurry and fatigue began to oppress her. This was
-                            becoming serious. She must make a stand.<pb n="323" xml:id="VAB7047-319"
-                            /> Yet her attempts at explanation were generally taken as polite
+                            becoming serious. She must make a stand.<pb n="323" xml:id="VAB7047-319"/> Yet her attempts at explanation were generally taken as polite
                             excuses for neglecting those who had been kind and cordial.</p>
                         <p>Jouffroy taxed her with looking tired. One must not be tired. One must
                             arrange the time so as to secure ample rest and recreation after the
@@ -10096,10 +9957,8 @@
                             him, he had a poor opinion of that which people called affection,
                             regard. As for <foreign xml:lang="fre">l'amour</foreign>, that was the
                             supreme egotism. The affections were simply a means to “make oneself
-                            paid.” Affection! Bah! One did not offer it for nothing, <foreign
-                                xml:lang="fre">bien sûr</foreign>! It was through this insufferable
-                            pretext that one arrived at governing others. “<foreign xml:lang="fre"
-                                >Comment</foreign>? Your presence can give me happiness, and you
+                            paid.” Affection! Bah! One did not offer it for nothing, <foreign xml:lang="fre">bien sûr</foreign>! It was through this insufferable
+                            pretext that one arrived at governing others. “<foreign xml:lang="fre">Comment</foreign>? Your presence can give me happiness, and you
                             will not remain<pb n="324" xml:id="VAB7047-320"/> always beside me? It
                             is nothing to you how I suffer? To me whom you love you refuse this
                             small demand?” Jouffroy opened his eyes, with a scornful glare. “It is
@@ -10149,8 +10008,7 @@
                             a landlady. This time M. Thillard had discovered the lodging for her; a
                             shabby, but sunny little house, kept by a motherly woman with a
                             reputation for perfect honesty. Expenses were thus kept down, but
-                            unhappily very little was coming in to meet them. It was<pb n="326"
-                                xml:id="VAB7047-322"/> impossible to pull through the year at this
+                            unhappily very little was coming in to meet them. It was<pb n="326" xml:id="VAB7047-322"/> impossible to pull through the year at this
                             rate. But, of course, there was daily hope of something turning up. The
                             arrival of the post was always an exciting moment. At last Hadria wrote
                             to ask Algitha to try and sell for her a spray of diamonds, worth about
@@ -10229,8 +10087,7 @@
                             to see. It seemed almost like the after-glow of the mother's
                             suffering.</p>
                         <p>Although adding to Hadria's anxieties, the child gave a sense of
-                            freshness and youth to the little <foreign xml:lang="fre"
-                                >ménage</foreign>. She made the anxieties easier to bear.</p>
+                            freshness and youth to the little <foreign xml:lang="fre">ménage</foreign>. She made the anxieties easier to bear.</p>
                         <p>Hadria came in, one morning, from her work, tired and full of foreboding.
                             Hat and cloak were laid aside, and she sank into an arm-chair, lying
                             back to lazily watch the efforts of the child to overturn the obstinate
@@ -10372,8 +10229,7 @@
                             one might judge from their laws and their conduct and their literature,
                             and the society that they had organized—admiration from this sex was a
                             thing scarcely to be endured. Yet superficially, it was gratifying.</p>
-                        <p>Why it should be so, was difficult to say, since it scarcely<pb n="333"
-                                xml:id="VAB7047-329"/> imposed upon one's very vanity. Yet it was
+                        <p>Why it should be so, was difficult to say, since it scarcely<pb n="333" xml:id="VAB7047-329"/> imposed upon one's very vanity. Yet it was
                             easy enough to understand how women who had no very dominant interest in
                             life, might come to have a thirst for masculine homage and for power
                             over men till it became like the gambler's passion for play; and surely
@@ -10407,8 +10263,7 @@
                             that she had no right to sacrifice to<pb n="334" xml:id="VAB7047-330"/>
                             any circumstances whatever. He had come to save her. Not finding her at
                             her <foreign xml:lang="fre">apartement</foreign>, he had concluded that
-                            she had taken refuge at her beloved St. Cloud. <foreign xml:lang="fre"
-                                >Mon Dieu</foreign>! was he to allow her to be taken away from her
+                            she had taken refuge at her beloved St. Cloud. <foreign xml:lang="fre">Mon Dieu</foreign>! was he to allow her to be taken away from her
                             work, dragged back to a narrow circle, crushed, broken, ruined—she who
                             could give such a sublime gift to her century—but it was impossible! It
                             would tear his heart. He would not permit it; she must promise him not
@@ -10436,23 +10291,18 @@
                             an artist merely by her presence. I told her that you had decided to
                             remain in France, to adopt it as your country, for it was the country of
                             your soul!”</p>
-                        <p>“Good heavens!” exclaimed Hadria, unable to repress a<pb n="335"
-                                xml:id="VAB7047-331"/> little burst of laughter, in spite of her
+                        <p>“Good heavens!” exclaimed Hadria, unable to repress a<pb n="335" xml:id="VAB7047-331"/> little burst of laughter, in spite of her
                             disappointment and foreboding.</p>
                         <p>“I told her that your friends would not let you go back to England, to
-                            the land of fogs, the land of the <foreign xml:lang="fre"
-                                >bourgeois</foreign>. The lady seemed astonished, even indignant,”
+                            the land of fogs, the land of the <foreign xml:lang="fre">bourgeois</foreign>. The lady seemed astonished, even indignant,”
                             continued Jouffroy, waving his hands excitedly, “and she endeavoured to
                             make me silent, but she did not have success, I promise you. I appealed
                             to her. I pointed out to her your unique power. I reminded her that such
                             power is a gift supreme to the world, which the world must not lose. For
-                            the making of little ones and the care of the <foreign xml:lang="fre"
-                                >ménage</foreign>, there were other women, but you—you were a
+                            the making of little ones and the care of the <foreign xml:lang="fre">ménage</foreign>, there were other women, but you—you were a
                             priestess in the temple of art, you were without prejudice, without the
-                                <foreign xml:lang="fre">bourgeois</foreign> conscience, <foreign
-                                xml:lang="fre">grâce au ciel</foreign>! you had the religion of the
-                            artist, and your worship was paid at the shrine of Apollo. <foreign
-                                xml:lang="fre">Enfin</foreign>, I counselled this elegant lady to
+                                <foreign xml:lang="fre">bourgeois</foreign> conscience, <foreign xml:lang="fre">grâce au ciel</foreign>! you had the religion of the
+                            artist, and your worship was paid at the shrine of Apollo. <foreign xml:lang="fre">Enfin</foreign>, I counselled this elegant lady to
                             return to England and to leave you in peace. Always with a perfect
                             politeness,” added Jouffroy, panting from excess of emotion. Hadria
                             tried in vain to gather the object of this sudden visit on the part of
@@ -10522,8 +10372,7 @@
                             would face anything on their behalf, including the present disagreeable
                             task. Hadria looked at her sister-in-law with admiration. She offered
                             homage to the prowess of the enemy.</p>
-                        <p>Miss Temperley held a commanding position, fortified by<pb n="338"
-                                xml:id="VAB7047-334"/> ideas and customs centuries old, and
+                        <p>Miss Temperley held a commanding position, fortified by<pb n="338" xml:id="VAB7047-334"/> ideas and customs centuries old, and
                             supported by allies on every side.</p>
                         <p>It ran through Hadria's mind that it was possible to refuse to allow the
                             subject to be broached, and thus escape the encounter altogether. It
@@ -10658,22 +10507,19 @@
                         <p>Miss Temperley clasped her hands in despair.</p>
                         <p>“I simply can't understand you. What you say is rank heresy against all
                             that is most beautiful in human nature.”</p>
-                        <p>“Surely the rank heresy is to be laid at the door of those<pb n="342"
-                                xml:id="VAB7047-338"/> who degrade and enslave that which they
+                        <p>“Surely the rank heresy is to be laid at the door of those<pb n="342" xml:id="VAB7047-338"/> who degrade and enslave that which they
                             assert to be most beautiful in human nature. But I am not speaking to
                             convince; merely to shew where you cannot count upon me for a point of
                             attack. Try something else.”</p>
                         <p>“But it is so strange, so insane, as it seems to me. Do you mean to throw
                             contempt on motherhood <foreign xml:lang="lat">per se</foreign>?”</p>
                         <p>“I am not discussing motherhood <foreign xml:lang="lat">per se</foreign>;
-                            no woman has yet been in a position to know what it is <foreign
-                                xml:lang="lat">per se</foreign>, strange as it may appear. No woman
+                            no woman has yet been in a position to know what it is <foreign xml:lang="lat">per se</foreign>, strange as it may appear. No woman
                             has yet experienced it apart from the enormous pressure of law and
                             opinion that has, always, formed part of its inevitable conditions. The
                             illegal mother is hounded by her fellows in one direction; the legal
                             mother is urged and incited in another: free motherhood is unknown
-                            amongst us. I speak of it as it is. To speak of it <foreign
-                                xml:lang="lat">per se</foreign>, for the present, is to discuss the
+                            amongst us. I speak of it as it is. To speak of it <foreign xml:lang="lat">per se</foreign>, for the present, is to discuss the
                             transcendental.”</p>
                         <p>There was a moment's excited pause, and Hadria then went on more rapidly.
                             “You know well enough, Henriette, what thousands of women there are to
@@ -10693,8 +10539,7 @@
                         <p>“<emph>Nature</emph>-allotted, if you please,” said Henriette. “There is
                             no need for alluring or coercing.”</p>
                         <p>“Why do it then? Now, be frank, Henriette, and try not to be offended.
-                            Would <emph>you</emph> feel no sense of indignity in performing<pb
-                                n="343" xml:id="VAB7047-339"/> a function of this sort (however
+                            Would <emph>you</emph> feel no sense of indignity in performing<pb n="343" xml:id="VAB7047-339"/> a function of this sort (however
                             noble and so on you might think it <foreign xml:lang="lat">per
                                 se</foreign>), you knew that it would be demanded of you as a duty,
                             if you did not welcome it as a joy?”</p>
@@ -10764,8 +10609,7 @@
                             would have objected to, in our conduct.”</p>
                         <p>Hadria stood looking down scornfully on her sister-in-law. She shrugged
                             her shoulders, as if in bewilderment.</p>
-                        <p>“And yet you would have felt yourselves stained with<pb n="345"
-                                xml:id="VAB7047-341"/> dishonour for the rest of your lives had you
+                        <p>“And yet you would have felt yourselves stained with<pb n="345" xml:id="VAB7047-341"/> dishonour for the rest of your lives had you
                             procured anything <emph>else</emph> on false pretences! But a woman—that
                             is a different affair. The code of honour does not here apply, it would
                             seem. <emph>Any</emph> fraud may be honourably practised on
@@ -10799,8 +10643,7 @@
                             honest.”</p>
                         <p>“My dear, he was in love with you.”</p>
                         <p>“And so he thought himself justified in deceiving me. There is
-                                <emph>indeed</emph> war to the knife between the sexes!” Hadria<pb
-                                n="346" xml:id="VAB7047-342"/> stood with her elbows on the back of
+                                <emph>indeed</emph> war to the knife between the sexes!” Hadria<pb n="346" xml:id="VAB7047-342"/> stood with her elbows on the back of
                             a high arm-chair, her chin resting on her hands.</p>
                         <p>“It is not fair to use that word. I tell you that we both confidently
                             expected that when you had more experience you would be like other women
@@ -10825,8 +10668,7 @@
                             to him that though you might be impulsive, even hard at times, you could
                             not persist in a course that would give pain, and that if you saw that
                             any act of yours caused him to suffer, you would give it up. I was
-                            convinced that your character was good and noble <foreign xml:lang="fre"
-                                >au fond</foreign>, Hadria, and I have believed it up to this
+                            convinced that your character was good and noble <foreign xml:lang="fre">au fond</foreign>, Hadria, and I have believed it up to this
                             moment.”</p>
                         <p>Hadria drew herself together with a start, and her face darkened. “You
                             make me regret that I ever had a good or a pitiful impulse!” she cried
@@ -10835,8 +10677,7 @@
                             crossed arms.</p>
                         <p>Henriette turned round in her chair.</p>
                         <p>“Why do you always resist your better nature, Hadria?”</p>
-                        <p>“You use it against me. It is the same with all women.<pb n="347"
-                                xml:id="VAB7047-343"/> Let them beware of their ‘better natures,’
+                        <p>“You use it against me. It is the same with all women.<pb n="347" xml:id="VAB7047-343"/> Let them beware of their ‘better natures,’
                             poor hunted fools! for that ‘better nature’ will be used as a dog-chain,
                             by which the! can be led, like toy-terriers, from beginning to end of
                             what they are pleased to call their lives!”</p>
@@ -10903,8 +10744,7 @@
                             sin against myself alone, which he acknowledged to be a sin. But this is
                             a sin against my entire sex, which he does <emph>not</emph> acknowledge
                             to be a sin. It is the insolence that is implied in supposing it
-                            allowable for a man to trick a woman in that way, without the<pb n="349"
-                                xml:id="VAB7047-345"/> smallest damage to his self-respect, that
+                            allowable for a man to trick a woman in that way, without the<pb n="349" xml:id="VAB7047-345"/> smallest damage to his self-respect, that
                             sticks so in my throat. What does it imply as regards his attitude
                             towards all women? Ah! it is <emph>that</emph> which makes me feel so
                             rancorous. And I resent Hubert's calm assumption that he had a right to
@@ -10937,8 +10777,7 @@
                         <p>Hadria recommenced her restless pacing to and fro.</p>
                         <p>“But, Hadria, <emph>do</emph> be calm, <emph>do</emph> look at the matter
                             from our point of view. I have owned my indiscretion.” (Hadria gave a
-                            little scornful cry.) “Surely you are not going to throw over<pb n="350"
-                                xml:id="VAB7047-346"/> all allegiance to your husband on
+                            little scornful cry.) “Surely you are not going to throw over<pb n="350" xml:id="VAB7047-346"/> all allegiance to your husband on
                                 <emph>that</emph> account, even granting he was to blame.” Hadria
                             stopped abruptly.</p>
                         <p>“I deny that I owe allegiance to a man who so treated me. I don't deny
@@ -11189,8 +11028,7 @@
                             live with! These impressions, floating vaguely in the upper currents of
                             the mind, were simultaneous with a thousand thoughts and anxieties, and
                             gusts of bitter fear and grief.</p>
-                        <p>What would be the end of it all? This uprooting from the<pb n="358"
-                                xml:id="VAB7047-354"/> old home—it wrung one's heart to think of it.
+                        <p>What would be the end of it all? This uprooting from the<pb n="358" xml:id="VAB7047-354"/> old home—it wrung one's heart to think of it.
                             Scarcely could the thought be faced. Her father, an exile from his
                             beloved fields and hills; her mother banished from her domain of so many
                             years, and after all these disappointments and mortifications and
@@ -11330,8 +11168,7 @@
                             accompanies all processes of decay, physical or moral. Not only the
                             strong appeal of old affection, entwined with the earliest associations,
                             was at work, but the appeal of womanhood itself:—the grey sad story of a
-                            woman's life, bare and dumb and pathetic in<pb n="363"
-                                xml:id="VAB7047-359"/> its irony and pain: the injury from without,
+                            woman's life, bare and dumb and pathetic in<pb n="363" xml:id="VAB7047-359"/> its irony and pain: the injury from without,
                             and then the self-injury, its direct offspring; unnecessary, yet
                             inevitable; the unconscious thirst for the sacrifice of others, the
                             hungry claims of a nature unfulfilled, the groping instinct to bring the
@@ -11394,8 +11231,7 @@
                             come home; it is her duty. I want her.”</p>
                         <p>Then, after a pause, “I have always done <emph>my</emph> duty,—I have
                             sacrificed myself for the children. Why do they desert me, why do they
-                            desert me?” And then came a low moaning<pb n="365" xml:id="VAB7047-361"
-                            /> cry, terrible to hear. The sisters were by the bedside, in a moment.
+                            desert me?” And then came a low moaning<pb n="365" xml:id="VAB7047-361"/> cry, terrible to hear. The sisters were by the bedside, in a moment.
                             Their father stood behind them.</p>
                         <p>“We are here, mother dear; we are here watching by you,” Hadria murmured,
                             with trembling voice.</p>
@@ -11472,8 +11308,7 @@
                             ready to submit to them. The possession of power had its usual effect.
                             She knew no mercy in its use. Her daughters were made to feel that if
                             they had been less headstrong and selfish in the past, she would have
-                            been a vigorous and active woman to this day.<pb n="368"
-                                xml:id="VAB7047-364"/> Obviously, the very least they could do, was
+                            been a vigorous and active woman to this day.<pb n="368" xml:id="VAB7047-364"/> Obviously, the very least they could do, was
                             to try by all means in their power, to lighten the burden they had laid
                             upon her. Yet Mrs. Fullerton was, by nature, unselfish. She would have
                             gladly sacrificed herself for her children's good, as indeed she had
@@ -11537,8 +11372,7 @@
                             She can't murder her mother outright, though she has not been far off
                             it!”</p>
                         <p>From the first, Hadria had understood what the future must be. These
-                            circumstances could not be overcome by any<pb n="370"
-                                xml:id="VAB7047-366"/> deed that she could bring herself to do. Even
+                            circumstances could not be overcome by any<pb n="370" xml:id="VAB7047-366"/> deed that she could bring herself to do. Even
                             Valeria was baffled. Her theories would not quite work. Hadria looked
                             things straight in the face. That which was strongest and most essential
                             in her must starve; there was no help for it, and no one was directly to
@@ -11568,8 +11402,7 @@
                             existence.”</p>
                         <p>“One <emph>must</emph> consider what people say,” said Henriette.</p>
                         <p>Hadria's time now was filled more and more with detail, since there were
-                            two households instead of one to manage.<pb n="371" xml:id="VAB7047-367"
-                            /> The new charge was particularly difficult, because she had not a free
+                            two households instead of one to manage.<pb n="371" xml:id="VAB7047-367"/> The new charge was particularly difficult, because she had not a free
                             hand.</p>
                         <p>Without entirely abandoning her music, it had, perforce, to fall into
                             abeyance. Progress was scarcely possible. But as Henriette pointed
@@ -11633,8 +11466,7 @@
                             discreetly. The youth twirled his moustaches thoughtfully, as the ladies
                             filed out.</p>
                         <p>Hadria's happiest hours were now those that she spent with little Martha,
-                            who was growing rapidly in stature and intelligence<pb n="373"
-                                xml:id="VAB7047-369"/> gence. The child's lovable nature blossomed
+                            who was growing rapidly in stature and intelligence<pb n="373" xml:id="VAB7047-369"/> gence. The child's lovable nature blossomed
                             sweetly under the influence of Hadria's tenderness. When wearied, and
                             sad at heart, an hour in the Priory garden, or a saunter along the
                             road-side with little Martha, was like the touch of a fresh breeze after
@@ -11727,8 +11559,7 @@
                             have those experiences and suffer through them.”</p>
                         <p>“Ah, yes, you are right,” Valeria admitted. “I would not be without it if
                             I could.”</p>
-                        <p>The thought of what she had missed was beginning to take<pb n="376"
-                                xml:id="VAB7047-372"/> a hold upon Hadria. Her life was passing,
+                        <p>The thought of what she had missed was beginning to take<pb n="376" xml:id="VAB7047-372"/> a hold upon Hadria. Her life was passing,
                             passing, and the supreme gifts would never be hers. She must for ever
                             stand outside, and be satisfied with shadows and echoes.</p>
                         <p>“Are you very miserable, Hadria?” Valeria asked, one day.</p>
@@ -11863,8 +11694,7 @@
                             of disaster.</p>
                         <p>“Professor Theobald!”</p>
                         <p>She did not look pleased to see him, and as they shook hands, his mouth
-                            shut sharply, as it always did when his self-<pb n="381"
-                                xml:id="VAB7047-377"/> love was wounded. Then, a gleam of resolve or
+                            shut sharply, as it always did when his self-<pb n="381" xml:id="VAB7047-377"/> love was wounded. Then, a gleam of resolve or
                             cunning came into his face, and the next instant he was at his
                             suavest.</p>
                         <p>“Do you know, Mrs. Temperley, I scarcely recognized you when you first
@@ -11932,8 +11762,7 @@
                             lasts?</p>
                         <p>Why should she abdicate? The human being was obviously susceptible to
                             personality beyond all other things. And beauty moved that absurd
-                            creature preposterously. <emph>There</emph>, at least,<pb n="383"
-                                xml:id="VAB7047-379"/> the woman who chanced to be born with these
+                            creature preposterously. <emph>There</emph>, at least,<pb n="383" xml:id="VAB7047-379"/> the woman who chanced to be born with these
                             superficial attractions, had a royal territory, so long as she could
                             prevent her clamorous fellows from harassing and wearing those
                             attractions away. By no direct attack could the jealous powers dethrone
@@ -12028,8 +11857,7 @@
                             unwritten laws of the great <foreign xml:lang="fre">bal masqué</foreign>
                             that we call society.”</p>
                         <p>The conversation took more and more intimate and serious turns. Mrs.
-                            Jordan was the only check upon it. Madame<pb n="386"
-                                xml:id="VAB7047-382"/> Bertaux followed up her first heresy by
+                            Jordan was the only check upon it. Madame<pb n="386" xml:id="VAB7047-382"/> Bertaux followed up her first heresy by
                             others even more bold.</p>
                         <p>“Whenever one wants very particularly to have one's way about a matter,”
                             she said, “one sneaks off and gets somebody else persuaded that it is
@@ -12126,8 +11954,7 @@
                             fashion to treat it airily, but if people only knew what an awful curse
                             it is, I think they would feel ashamed to be ‘moderate’ and indifferent
                             about it.”</p>
-                        <p>“I don't mean to treat it or anything that brings harm and<pb n="389"
-                                xml:id="VAB7047-385"/> suffering ‘moderately,’” returned Hadria. “I
+                        <p>“I don't mean to treat it or anything that brings harm and<pb n="389" xml:id="VAB7047-385"/> suffering ‘moderately,’” returned Hadria. “I
                             mean only that I can see why the vice is so common. It causes
                             forgetfulness, and I suppose most people crave for that.”</p>
                         <p>“I think, Hadria, if I may be allowed to say so, that you are finding
@@ -12229,8 +12056,7 @@
                             his mood was agitated. She could not be in much doubt as to its cause.
                             The reckless <foreign xml:lang="fre">rôle</foreign> that she had been
                             playing was bringing its result. Hadria was half alarmed, half exultant.
-                            She had a strange, vague notion of selling her<pb n="392"
-                                xml:id="VAB7047-388"/> life dearly, to the enemy. Only, of late,
+                            She had a strange, vague notion of selling her<pb n="392" xml:id="VAB7047-388"/> life dearly, to the enemy. Only, of late,
                             this feeling had been mixed with another, of which she was scarcely
                             conscious. The subtle fascination which the Professor exercised over her
                             had taken a stronger hold, far stronger than she knew.</p>
@@ -12302,8 +12128,7 @@
                             too might be tempted to try experiments with a power whose strength you
                             had found to be almost irresistible?”</p>
                         <p>“Perhaps I should,” Algitha admitted.</p>
-                        <p>“I don't say she is doing right, but you must remember<pb n="394"
-                                xml:id="VAB7047-390"/> that you have not the temperament that
+                        <p>“I don't say she is doing right, but you must remember<pb n="394" xml:id="VAB7047-390"/> that you have not the temperament that
                             prompts to these outbursts. I suppose that is only to say that you are
                             better than Hadria, by nature. I think perhaps you are, but remember you
                             have had the life and the work that you chose above all others—she has
@@ -12334,8 +12159,7 @@
                             Hadria appeared before them. She looked perturbed.</p>
                         <p>“What is it? Why are you by yourself?”</p>
                         <p>“Oh, our party split up, long ago, into cliques, and we all became so
-                            select, that, at last, we reduced each clique to one<pb n="395"
-                                xml:id="VAB7047-391"/> member. Behold the very acme of selectness!”
+                            select, that, at last, we reduced each clique to one<pb n="395" xml:id="VAB7047-391"/> member. Behold the very acme of selectness!”
                             Hadria stood before them, in an attitude of hauteur.</p>
                         <p>“This sounds like evasion,” said Algitha.</p>
                         <p>“And if it were, what right have you to try to force me to tell what I do
@@ -12428,8 +12252,7 @@
                             believe, there was something in him that powerfully attracted her. She
                             had feared an attraction that appeared unjustified by the man's
                             character. But now the fascination had begun to take a stronger grip, as
-                            the pre-occupying ideas of her life had been chased from<pb n="398"
-                                xml:id="VAB7047-394"/> their places. It had insensibly crept in to
+                            the pre-occupying ideas of her life had been chased from<pb n="398" xml:id="VAB7047-394"/> their places. It had insensibly crept in to
                             fill the empty throne. So long as she had cherished hope, so long as she
                             was still struggling, this insidious half-magnetic influence had been
                             easily resisted. Now, she was set adrift; her anchor was raised; she lay
@@ -12585,8 +12408,7 @@
                             a confidante of herself. She was afraid of her own ridicule, her own
                             blame, above all of finding herself confronted with some accusation
                             against the Professor, some overpowering reason for thinking poorly of
-                            him. Whenever they met, she was in terror lest he should leave her no<pb
-                                n="403" xml:id="VAB7047-399"/> alternative. She often opened
+                            him. Whenever they met, she was in terror lest he should leave her no<pb n="403" xml:id="VAB7047-399"/> alternative. She often opened
                             conversational channels by which he could escape his unknown peril, and
                             she would hold her breath till it was over. She dreaded the cool-headed,
                             ruthless critic, lurking within her own consciousness, who would hear of
@@ -12686,8 +12508,7 @@
                             means to a man who had lost it! Ah! speak—don't look like that,
                             Hadria,—what is there in me that you always turn from? Speak,
                             speak!”</p>
-                        <p>“Ah! life is horribly difficult!” she exclaimed. “I wish<pb n="406"
-                                xml:id="VAB7047-402"/> to heaven I had never budged from the
+                        <p>“Ah! life is horribly difficult!” she exclaimed. “I wish<pb n="406" xml:id="VAB7047-402"/> to heaven I had never budged from the
                             traditions in which I was educated—either that, or that everybody had
                             discarded them. I feel one way and think another.”</p>
                         <p>“Then you do love me, Hadria,” he cried.</p>
@@ -12762,8 +12583,7 @@
                             vast sigh when that feeling of confidence became confirmed. Life, then,
                             need no longer be ridiculous! Hard and cruel it might be, full of lost
                             dreams, but at least there would be something in it that was perfect.
-                            This new emotional centre offered the human <foreign xml:lang="lat"
-                                >summun bonum</foreign>: release from oneself.</p>
+                            This new emotional centre offered the human <foreign xml:lang="lat">summun bonum</foreign>: release from oneself.</p>
                         <p>Hadria and the Professor met, one morning, in the gardens of the Priory.
                             Hadria had been strolling down the yew avenue, her thoughts full of him,
                             as usual. She reached the seat at the end where once Professor Fortescue
@@ -12802,8 +12622,7 @@
                             life. She would trust him. He had conquered, step by step, his inimical
                             conditions. He was lonely, unused to real affection. Let her try to make
                             up for what he had lost. Let her forget herself and her own little woes,
-                            in the effort to fill his life with all that he had<pb n="410"
-                                xml:id="VAB7047-406"/> been forced to forego. (An impish thought
+                            in the effort to fill his life with all that he had<pb n="410" xml:id="VAB7047-406"/> been forced to forego. (An impish thought
                             danced before her for a second—“Fine talk, but you know you love to be
                             loved.”) If her love were worth anything, that must be her impulse. Let
                             her beware of considering her own feelings, her own wishes and fears. If
@@ -12901,8 +12720,7 @@
                         <p>“Fate <emph>is</emph> ironical!” she exclaimed. “Never in my life did I
                             feel more essentially frank and open-hearted than I feel now.”</p>
                         <p>The Professor laughed.</p>
-                        <p>“My impulse is to indulge in that sort of bluff, boisterous<pb n="413"
-                                xml:id="VAB7047-409"/> honesty which forms so charming a feature of
+                        <p>“My impulse is to indulge in that sort of bluff, boisterous<pb n="413" xml:id="VAB7047-409"/> honesty which forms so charming a feature of
                             our national character. Is it not disastrous?”</p>
                         <p>“It <emph>is</emph> a little inopportune,” Theobald admitted with a
                             chuckle.</p>
@@ -12931,8 +12749,7 @@
                             imp, with a yell of laughter.) It would be so mean to go back
                             now—(“Shocking!” exclaimed the imp.) Assuming that she ought never to
                             have allowed this thing to happen (“Oh, fie!”) because she bore another
-                            man's name (not being permitted to retain her own), ought<pb n="414"
-                                xml:id="VAB7047-410"/> she to throw this man over, on second and
+                            man's name (not being permitted to retain her own), ought<pb n="414" xml:id="VAB7047-410"/> she to throw this man over, on second and
                             (per assumption) better thoughts, or did the false step oblige her to
                             continue in the path she had entered?</p>
                         <p>“I seem to have got myself into one of those situations where there is
@@ -12964,8 +12781,7 @@
                         <p>Hadria was shocked to see him looking very ill. He said that his doctor
                             had bullied him, at last, into deciding to go south. His arrangements
                             for departure had been rather hastily made, and he had telegraphed this
-                            morning, to Craddock Place, to announce his coming. His luggage was<pb
-                                n="415" xml:id="VAB7047-411"/> following in a hand-cart, and he was
+                            morning, to Craddock Place, to announce his coming. His luggage was<pb n="415" xml:id="VAB7047-411"/> following in a hand-cart, and he was
                             taking the short cut through the Priory gardens. He had come to say
                             good-bye to them all. Miss Du Prel, he added, had already made up her
                             mind to go abroad, and he hoped to come across her somewhere in Italy.
@@ -12996,8 +12812,7 @@
                             means which the situation may make necessary are sometimes very
                             hateful.”</p>
                         <p>“Ah, that is among the cruelest of the victim's wrongs,” said Professor
-                            Fortescue. “He is reduced to employ artifices<pb n="416"
-                                xml:id="VAB7047-412"/> that he would despise, were he a free agent.
+                            Fortescue. “He is reduced to employ artifices<pb n="416" xml:id="VAB7047-412"/> that he would despise, were he a free agent.
                             Take a crude instance: a man is overpowered by a band of brigands.
                             Surely he is justified in deceiving those gentlemen of the road, and in
                             telling and acting lies without scruple.”</p>
@@ -13061,8 +12876,7 @@
                             Fortescue was coming to see them at the Red House, but her tone was less
                             open and warm than usual, in addressing him. He said that to-morrow he
                             would walk over in the afternoon, if he might. Hadria would not allow
-                            her companions to come out of their way to accompany<pb n="418"
-                                xml:id="VAB7047-414"/> her home. At the Priory gate—where the
+                            her companions to come out of their way to accompany<pb n="418" xml:id="VAB7047-414"/> her home. At the Priory gate—where the
                             griffins were grinning as derisively as ever at the ridiculous ways of
                             men—they took their respective roads.</p>
                         <p>Some domestic catastrophe had happened at the Red House. The cook had
@@ -13093,8 +12907,7 @@
                             deceived herself? Was it not for the sake of mere excitement,
                             distraction? Was it not the sensuous side of her nature that had been
                             touched, while the rest had been posing in the foreground? But no, that
-                            was only partly true. There had been more in it than that; very<pb
-                                n="419" xml:id="VAB7047-415"/> much more, or she could not have
+                            was only partly true. There had been more in it than that; very<pb n="419" xml:id="VAB7047-415"/> much more, or she could not have
                             deceived herself so completely. It was this craving to fill the place of
                             her lost art,—but oh, what morbid nonsense it had all been! Why, for the
                             first time in her life, did she feel ashamed to meet Professor
@@ -13147,8 +12960,7 @@
                             were not to be hidden in the clear light of the summer afternoon. He
                             insensibly shifted his chair so as not to have to gaze at her when he
                             spoke. That seemed to be a relief to her.</p>
-                        <p>“Valeria is here till the day after to-morrow,” she said. “She<pb n="421"
-                                xml:id="VAB7047-417"/> has gone for a walk, and has probably
+                        <p>“Valeria is here till the day after to-morrow,” she said. “She<pb n="421" xml:id="VAB7047-417"/> has gone for a walk, and has probably
                             forgotten the tea-hour; but I hope you will see her.”</p>
                         <p>“I want to find out what her plans are. It would be pleasant to come
                             across one another abroad. I wish you were coming too.”</p>
@@ -13212,8 +13024,7 @@
                             magic name, they fell into reminiscences of former journeyings; they
                             talked of towns and temples and palaces, of art, of sunshine; and Hadria
                             listened silently.</p>
-                        <p>Once, in her girlhood, when she was scarcely sixteen<pb n="423"
-                                xml:id="VAB7047-419"/> she had gone with her parents and Algitha for
+                        <p>Once, in her girlhood, when she was scarcely sixteen<pb n="423" xml:id="VAB7047-419"/> she had gone with her parents and Algitha for
                             a tour in Italy. It was a short but vivid experience which had tinged
                             her life, leaving a memory and a longing that never died. The movement
                             of travel, the sense of change and richness offered to eye and mind,
@@ -13377,8 +13188,7 @@
                             he should remain. And yet she ought to speak frankly to him. His
                             conversation was full of little under-meanings, intended for her only to
                             understand; his look, his manner to her made her actually hate him. Yet
-                            she felt the utter inconsequence and injustice of her attitude.<pb
-                                n="428" xml:id="VAB7047-424"/>
+                            she felt the utter inconsequence and injustice of her attitude.<pb n="428" xml:id="VAB7047-424"/>
                             <emph>He</emph> had not changed. There was nothing new in him. The
                             change was in herself. Professor Fortescue had awakened her. But, of
                             course, he was one in ten thousand. It was not fair to make the
@@ -13468,8 +13278,7 @@
                             His self-love basked and purred. He felt that his moment of triumph had
                             come. Contrasting this meeting with the last occasion when they had
                             stood together beside this grave, had he not ground for self-applause?
-                            He remembered so well that unpleasant episode. It was Hadria<pb n="431"
-                                xml:id="VAB7047-427"/> who stood <emph>then</emph> in the more
+                            He remembered so well that unpleasant episode. It was Hadria<pb n="431" xml:id="VAB7047-427"/> who stood <emph>then</emph> in the more
                             powerful position. He had actually feared to meet her eye. He remembered
                             how bitterly she had spoken, of her passion for revenge, of the
                             relentless feud between man and woman. They had discussed the question
@@ -13500,8 +13309,7 @@
                             ever Fate was ironical, this was the occasion! He felt so sure of Hadria
                             to-day, that he was swayed by an overpowering temptation to reveal to
                             her the almost comic situation. It appealed to his sense of the absurd,
-                            and to the savagery that lurked, like a beast of prey, at the<pb n="432"
-                                xml:id="VAB7047-428"/> foundation of his nature. Her evident emotion
+                            and to the savagery that lurked, like a beast of prey, at the<pb n="432" xml:id="VAB7047-428"/> foundation of his nature. Her evident emotion
                             when he arrived yesterday afternoon and all through his visit, her
                             agitation to-day, at the mere sound of his voice, assured him that his
                             hold over her was secure. He must be a fool indeed if he could not keep
@@ -13563,8 +13371,7 @@
                             injured, I should begin with the wives. In this case” (she turned to the
                             grave), “the tragedy is more obvious, but I believe the everyday tragedy
                             of the docile wife and mother is even more profound.”</p>
-                        <p>“You speak as coldly, as bitterly, as if you regarded me as<pb n="434"
-                                xml:id="VAB7047-430"/> your worst enemy—I who love you.” He came
+                        <p>“You speak as coldly, as bitterly, as if you regarded me as<pb n="434" xml:id="VAB7047-430"/> your worst enemy—I who love you.” He came
                             forward a step, and she drew back hurriedly.</p>
                         <p>“All that is over. I too have a confession to make.”</p>
                         <p>“Good heavens, what is it? Are you not what I thought you? Have you some
@@ -13594,8 +13401,7 @@
                             souls—ha, ha, ha! and the common interests and the deep sympathy—it is
                             screaming! Almost worth the price I pay, for the sake of the rattling
                             good joke! And by this grave! Great heavens, how humorous is destiny!”
-                            He leant his arms on the tombstone and laughed on softly,<pb n="435"
-                                xml:id="VAB7047-431"/> his big form shaking, his strange sinister
+                            He leant his arms on the tombstone and laughed on softly,<pb n="435" xml:id="VAB7047-431"/> his big form shaking, his strange sinister
                             face appearing over the stone, irradiated with merriment. In the dusk,
                             among the graves, the grinning face looked like that of some mocking
                             demon, some gargoyle come to life, to cast a spell of evil over the
@@ -13803,8 +13609,7 @@
                         <p>“But I thought Mrs. Temperley had been supporting it!” cried Lady
                             Engleton.</p>
                         <p>“Nevertheless I have continued to send the money to the aunt. If Mrs.
-                            Temperley chose to take charge of the child,<pb n="442"
-                                xml:id="VAB7047-438"/> I certainly had nothing to complain of. And I
+                            Temperley chose to take charge of the child,<pb n="442" xml:id="VAB7047-438"/> I certainly had nothing to complain of. And I
                             could not openly contribute without declaring myself.”</p>
                         <p>“Dear me, it is all very strange! What would Hadria say if she knew?”</p>
                         <p>“She does know.”</p>
@@ -13863,8 +13668,7 @@
                         <p>“Then I suppose you will not attempt to resist?”</p>
                         <p>“No,” said Hadria.</p>
                         <p>“He thinks of leaving Martha with you for another month.”</p>
-                        <p>“Really? It has not struck him that perhaps I may not<pb n="444"
-                                xml:id="VAB7047-440"/> keep her for another month. Now that it is
+                        <p>“Really? It has not struck him that perhaps I may not<pb n="444" xml:id="VAB7047-440"/> keep her for another month. Now that it is
                             once established that Martha is to be regarded as under <emph>his</emph>
                             guardianship and authority, and that my jurisdiction ceases, he must
                             take her at once. I will certainly not act for <emph>him</emph> in that
@@ -13897,8 +13701,7 @@
                         <p>His departure had been fixed for the following morning.</p>
                         <p>“So you and poor little Martha will go up together by the afternoon
                             train, I suppose,” said Lady Engleton.</p>
-                        <p>Hadria spent the rest of the day at Martha's cottage.<pb n="445"
-                                xml:id="VAB7047-441"/> There were many preparations to make. Hannah
+                        <p>Hadria spent the rest of the day at Martha's cottage.<pb n="445" xml:id="VAB7047-441"/> There were many preparations to make. Hannah
                             was bustling about, her eyes red with weeping. She was heart-broken. She
                             declared that she could never live with “that bad man.” But Hadria
                             persuaded her, for Martha's sake, to remain. And Hannah, with another
@@ -14029,8 +13832,7 @@
                             presumptuous as to decide for ourselves what shall afflict us.”</p>
                         <p>“Or what shall transport us with joy,” added Valeria, with a shrug.</p>
                         <p>“Still less perhaps. Tradition says ‘Weep, this is the moment,’ or
-                            ‘Rejoice, the hour has come,’ and we chant our<pb n="450"
-                                xml:id="VAB7047-446"/> dirge or kindle our bonfires accordingly.
+                            ‘Rejoice, the hour has come,’ and we chant our<pb n="450" xml:id="VAB7047-446"/> dirge or kindle our bonfires accordingly.
                             Why, it means a little martyrdom to the occasional sinner who selects
                             his own occasion for sorrow or for joy.”</p>
                         <p>Valeria laughed at the notion of Hadria's being under the dictatorship of
@@ -14061,8 +13863,7 @@
                             that we may be less of a hindrance and an obsession to our
                             granddaughters than our grandmothers have been to us.”</p>
                         <p>“Ah! that way lies hope!” cried the Professor.</p>
-                        <p>“I wish, I <emph>wish</emph> I could believe!” Valeria exclaimed.<pb
-                                n="451" xml:id="VAB7047-447"/> “But I was born ten years too early
+                        <p>“I wish, I <emph>wish</emph> I could believe!” Valeria exclaimed.<pb n="451" xml:id="VAB7047-447"/> “But I was born ten years too early
                             for the faith of this generation.”</p>
                         <p>“It is you who have helped to give this generation its faith,” said
                             Hadria.</p>
@@ -14093,8 +13894,7 @@
                         <p>She was longing to urge her to leave Craddock Dene, but was deterred by
                             the knowledge of the uselessness of such advice. Hadria could not take
                             it.</p>
-                        <p>“I chafe against these situations!” cried Valeria. “I am<pb n="452"
-                                xml:id="VAB7047-448"/> so unused, in my own life, to such tethers
+                        <p>“I chafe against these situations!” cried Valeria. “I am<pb n="452" xml:id="VAB7047-448"/> so unused, in my own life, to such tethers
                             and limitations. They would drive me crazy!”</p>
                         <p>“Oh,” Hadria exclaimed, with an amused smile, “this is a new cry!”</p>
                         <p>“I don't care,” said Valeria discontentedly. “I never supposed that one
@@ -14127,8 +13927,7 @@
                         <p>“Oh, you always go too far!” cried Valeria.</p>
                         <p>“I don't admit that in a horror of cruelty, it is possible to go too
                             far,” the Professor replied. “Cruelty is the one unpardonable sin.” He
-                            passed his hand across his brow, with a weary<pb n="453"
-                                xml:id="VAB7047-449"/> gesture, as if the pressure of misery and
+                            passed his hand across his brow, with a weary<pb n="453" xml:id="VAB7047-449"/> gesture, as if the pressure of misery and
                             tumult and anguish in the world, were more than he could bear.</p>
                         <p>“You won't give up your music, Hadria,” Valeria said, at the end of a
                             long cogitation.</p>
@@ -14346,8 +14145,7 @@
                             or departure. Dodge had laid to rest many victims of influenza, which
                             visited the neighbourhood with great severity. Among the slain, poor
                             Dodge had to number his own wife. The old man was broken down with his
-                            loss. He loved to talk over her illness and death with Hadria,<pb
-                                n="460" xml:id="VAB7047-456"/> whose presence seemed to comfort him
+                            loss. He loved to talk over her illness and death with Hadria,<pb n="460" xml:id="VAB7047-456"/> whose presence seemed to comfort him
                             more than anything else, as he assured her, in his quaint dialect.</p>
                         <p>Sometimes, returning through the Craddock Woods, Hadria would pass
                             through the churchyard on her way home, after her walk, and there she
@@ -14441,8 +14239,7 @@
                             people, less opinionated, wiser, and better in every way.</p>
                         <p>“Hadria was always very sweet, of course,” said Henriette, “but she had
                             the faults of her qualities, as we all have. You have had your trials,
-                            dear Hubert, but I rejoice to believe that<pb n="463"
-                                xml:id="VAB7047-459"/> Hadria will give you little further cause for
+                            dear Hubert, but I rejoice to believe that<pb n="463" xml:id="VAB7047-459"/> Hadria will give you little further cause for
                             pain or regret.” Hubert made no reply. He placed the tips of his fingers
                             together and looked into the fire.</p>
                         <p>“I think that the companionship of Lady Engleton has been of great
@@ -14627,8 +14424,7 @@
                             damp, and rank, and terribly depressing. Mrs. Fullerton felt the
                             influence of the weather, and complained of neuralgia and other
                             ailments. She needed watching very carefully, and plenty of cheerful
-                            companionship. This was hard to supply. In struggling<pb n="469"
-                                xml:id="VAB7047-465"/> to belie her feelings, day after day, Hadria
+                            companionship. This was hard to supply. In struggling<pb n="469" xml:id="VAB7047-465"/> to belie her feelings, day after day, Hadria
                             feared, at times, that she would break down disastrously. She was
                             frightened at the strange haunting ideas that came to her, the dread and
                             nameless horror that began to prey upon her, try as she would to protect
@@ -14659,8 +14455,7 @@
                             tricks exhausted nerves might play upon her, or what tortures they had
                             in store for her.</p>
                         <p>Algitha's judgments were inclined to be definite and clear-cut to the
-                            point of hardness. She did not know the meaning<pb n="470"
-                                xml:id="VAB7047-466"/> of over-wrought nerves, nor the difficulties
+                            point of hardness. She did not know the meaning<pb n="470" xml:id="VAB7047-466"/> of over-wrought nerves, nor the difficulties
                             of a nature more imaginative than her own. She had found her will-power
                             sufficient to meet all the emergencies of her life, and she was disposed
                             to feel a little contemptuous, especially of late, at a persistent
@@ -14691,8 +14486,7 @@
                             as my influence goes, it is all for the worst. What fatal argument my
                             life will give to those who are seeking reasons to hold our sex in the
                             old bondage! My struggles, my failure, will add to the staggering weight
-                            that we all stumble under. I have hindered more—that is the bitter<pb
-                                n="471" xml:id="VAB7047-467"/> thing—by having tried and failed,
+                            that we all stumble under. I have hindered more—that is the bitter<pb n="471" xml:id="VAB7047-467"/> thing—by having tried and failed,
                             than if I had never tried at all. Mrs. Walker, Mrs. Gordon herself, has
                             given less arguments to the oppressors than I.”</p>
                         <p>“But why? But how?” cried Algitha incredulously.</p>
@@ -14702,8 +14496,7 @@
                             of the life assigned them, by common consent, and end by failing in that
                             and in the other which they aspire to. What has become of all the talent
                             and all the theories and resolves?’ And so the next girl who dares to
-                            have ambitions, and dares to scorn the <foreign xml:lang="fre"
-                                >rôle</foreign> of adventuress that society allots to her, will have
+                            have ambitions, and dares to scorn the <foreign xml:lang="fre">rôle</foreign> of adventuress that society allots to her, will have
                             the harder fate because of my attempt. Now nothing in the whole world,”
                             cried Hadria, her voice losing the even tones in which she had been
                             speaking, “nothing in the whole world will ever persuade me that
@@ -14759,8 +14552,7 @@
                             Heaven in the abstract, and a little more of one another, in the
                             concrete.”</p>
                         <p>“Nobody has ever taught them to think of one another; on the contrary,
-                            they have always been trained to think of<pb n="473"
-                                xml:id="VAB7047-469"/> men, and of Heaven, and their souls. That
+                            they have always been trained to think of<pb n="473" xml:id="VAB7047-469"/> men, and of Heaven, and their souls. That
                             training accounts for their attitude towards their own sex.”</p>
                         <p>“I suppose so. A spirit of sisterhood among women would have sadly upset
                             the social scheme, as it has been hitherto conceived. Indeed the social
@@ -14937,8 +14729,7 @@
                             nothing but increasing loss and feebleness, as the surly years went by.
                             They were going, going, these years of life, slipping away with their
                             spoils. Youth was departing, everything was vanishing; her very self,
-                            bit by bit, slowly but surely, till the House of Life would grow<pb
-                                n="479" xml:id="VAB7047-475"/> narrow and shrunken to the sight, the
+                            bit by bit, slowly but surely, till the House of Life would grow<pb n="479" xml:id="VAB7047-475"/> narrow and shrunken to the sight, the
                             roof descend. The gruesome old story of the imprisoned prince flashed
                             into her mind; the wretched captive, young and life-loving, who used to
                             wake up, each morning, to find that of the original seven windows of his
@@ -14968,8 +14759,7 @@
                             vision—and the darkness of our daily, pompous, careworn, ridiculous
                             little existence made painfully visible.</p>
                         <p>“It is all absurd, all futile!” (so moved the procession of the
-                            thoughts); “and meanwhile the steady pulse of life<pb n="480"
-                                xml:id="VAB7047-476"/> beats on, not pausing while we battle out our
+                            thoughts); “and meanwhile the steady pulse of life<pb n="480" xml:id="VAB7047-476"/> beats on, not pausing while we battle out our
                             days, not waiting while we decide how we shall live. We are possessed by
                             a sentiment, an ideal, a religion; old Time makes no comment, but moves
                             quietly on; we fling the thing aside as tawdry, insufficient; the ideal
@@ -15139,8 +14929,7 @@
                         <p>“Don't be too sure, old friend,” said the Professor; “don't be too sure
                             of anything, in this mysterious universe.”</p>
                         <p>The weather kept warm and genial, and this was favourable to his
-                            lingering among them a little longer. But his suffering,<pb n="486"
-                                xml:id="VAB7047-482"/> at times, was so great that they could
+                            lingering among them a little longer. But his suffering,<pb n="486" xml:id="VAB7047-482"/> at times, was so great that they could
                             scarcely wish for this delay. Hadria used always to play to him during
                             some part of the afternoon. The robin had become a constant visitor, and
                             had found its way to the window of the sick-room, where crumbs had been
@@ -15198,8 +14987,7 @@
                             soft cooing of the wood-pigeons. Among the big trees behind the house,
                             there was a populous rookery, noisy now with the squeaky voices of the
                             young birds, and the deeper cawing of the parent rooks.</p>
-                        <p>“I have been for many years without one gleam of hope,”<pb n="488"
-                                xml:id="VAB7047-484"/> said the Professor slowly. “It is only lately
+                        <p>“I have been for many years without one gleam of hope,”<pb n="488" xml:id="VAB7047-484"/> said the Professor slowly. “It is only lately
                             that some of my obstinate preconceptions have begun to yield to other
                             suggestions and other thoughts, which have opened up a thousand
                             possibilities and a thousand hopes. And I have not been false to my
@@ -15261,8 +15049,7 @@
                             powers that have oppressed you. They are terrible powers, and yet people
                             won't admit their strength, and so they are left unopposed. It is worse
                             than folly to underrate the forces of the enemy. It is always worse than
-                            folly to deny facts in order to support a theory. Exhort people<pb
-                                n="490" xml:id="VAB7047-486"/> to face and conquer them. You can
+                            folly to deny facts in order to support a theory. Exhort people<pb n="490" xml:id="VAB7047-486"/> to face and conquer them. You can
                             help more than you dream, even as things stand. I cannot tell you what
                             you have done for me, dear Hadria.” (He held out his hand to her.) “And
                             the helpless, human and animal—how they wring one's heart! Do not forget
