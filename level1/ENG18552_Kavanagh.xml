@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18552" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18552"
+  xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -11,13 +13,19 @@
           <name>Lou Burnard</name>
         </respStmt>
       </titleStmt>
-      <extent><measure unit="words">48639</measure></extent>
+      <extent>
+        <measure unit="words">48639</measure>
+      </extent>
       <publicationStmt>
         <p>Published as part of ELTeC <date>2020-03-19</date></p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="firstEdition" n="B14105"><author>Julia Kavanagh</author><title>Rachel Gray: A Tale Founded
-            on Fact</title><publisher>London: Hurst and Blackett</publisher><date>1856</date></bibl>
+        <bibl type="firstEdition" n="B14105"><author>Julia Kavanagh</author><title>Rachel Gray: A
+            Tale Founded on Fact</title><publisher>London: Hurst and
+            Blackett</publisher><date>1856</date>
+          <ref target="bod:600053169.pdf"/>
+        <!-- Tauchnitz ed : Rachel_Gray.pdf from google books -->
+        </bibl>
         <bibl type="digitalSource"><title>The Project Gutenberg eBook, Rachel Gray, by Julia
             Kavanagh</title><ref target="gut:36160">Gutenberg</ref>
           <respStmt>
@@ -64,38 +72,39 @@
         <p>BERNHARD TAUCHNITZ</p>
         <p>1856</p>
       </div>
-     <div type="liminal">
-      <head>PREFACE.</head>
-      <p>This tale, as the title-page implies, is founded on fact. Its truth is its chief merit,
-        and the Author claims no other share in it, than that of telling it to the best of her
-        power.</p>
-      <p>I do not mean to aver that every word is a positive and literal truth, that every
-        incident occurred exactly as I have related it, and in no other fashion, but this I mean
-        to say: that I have invented nothing in the character of Rachel Gray, and that the sorrows
-        of Richard Jones are not imaginary sorrows.</p>
-      <p>My purpose in giving this story to the world is twofold. I have found that my first, and
-        in many respects, most imperfect work "Madeleine," is nevertheless that which has won the
-        greatest share of interest and sympathy; a result which I may, I think, safely attribute
-        to its truth, and which has induced me to believe that on similar grounds, a similar
-        distinction might be awarded to a heroine very different indeed from "Madeleine," but
-        whose silent virtues have perhaps as strong a claim to admiration and respect.</p>
-      <p>I had also another purpose, and though I mention it last, it was that which mainly
-        contributed to make me intrude on public attention; I wished to show the intellectual, the
-        educated, the fortunate, that minds which they are apt to slight as narrow, that lives
-        which they pity as moving in the straight and gloomy paths of mediocrity, are often
-        blessed and graced beyond the usual lot, with those lovely aspirations towards better
-        deeds and immortal things, without which life is indeed a thing of little worth; cold and
-        dull as a sunless day.</p>
-      
-      <trailer>JULIA KAVANAGH.</trailer>
-       <trailer>LONDON: DECEMBER 1855.</trailer>
-    </div></front>
+      <div type="liminal">
+        <head>PREFACE.</head>
+        <p>This tale, as the title-page implies, is founded on fact. Its truth is its chief merit,
+          and the Author claims no other share in it, than that of telling it to the best of her
+          power.</p>
+        <p>I do not mean to aver that every word is a positive and literal truth, that every
+          incident occurred exactly as I have related it, and in no other fashion, but this I mean
+          to say: that I have invented nothing in the character of Rachel Gray, and that the sorrows
+          of Richard Jones are not imaginary sorrows.</p>
+        <p>My purpose in giving this story to the world is twofold. I have found that my first, and
+          in many respects, most imperfect work "Madeleine," is nevertheless that which has won the
+          greatest share of interest and sympathy; a result which I may, I think, safely attribute
+          to its truth, and which has induced me to believe that on similar grounds, a similar
+          distinction might be awarded to a heroine very different indeed from "Madeleine," but
+          whose silent virtues have perhaps as strong a claim to admiration and respect.</p>
+        <p>I had also another purpose, and though I mention it last, it was that which mainly
+          contributed to make me intrude on public attention; I wished to show the intellectual, the
+          educated, the fortunate, that minds which they are apt to slight as narrow, that lives
+          which they pity as moving in the straight and gloomy paths of mediocrity, are often
+          blessed and graced beyond the usual lot, with those lovely aspirations towards better
+          deeds and immortal things, without which life is indeed a thing of little worth; cold and
+          dull as a sunless day.</p>
+
+        <trailer>JULIA KAVANAGH.</trailer>
+        <trailer>LONDON: DECEMBER 1855.</trailer>
+      </div>
+    </front>
     <body>
-      
 
 
-     
-      
+
+
+
       <div type="chapter">
         <head>CHAPTER I.</head>
         <p>In one of the many little suburbs which cling to the outskirts of London, there is a

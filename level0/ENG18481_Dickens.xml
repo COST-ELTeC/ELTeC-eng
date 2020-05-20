@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Dombey and Son : ELTeC edition</title>
-                
+
                 <author ref="viaf:88666393">Dickens, Charles (1812-1870)</author>
                 <respStmt>
                     <resp>creation of HTML version</resp>
@@ -16,43 +17,68 @@
                     <name>Lou Burnard</name>
                 </respStmt>
             </titleStmt>
-            <extent><measure unit="words">348793</measure></extent>
-           <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-            <sourceDesc><bibl type="digitalSource"><title>Dombey and Son</title>
+            <extent>
+                <measure unit="words">348793</measure>
+            </extent>
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2019-11-09"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource"><title>Dombey and Son</title>
                     <idno type="ota">http://ota.ox.ac.uk/id/3164</idno>
                     <publisher>Oxford Text Archive</publisher>
                     <respStmt>
                         <resp>Depositor</resp>
                         <name>Bibliomania.com Ltd</name>
                     </respStmt>
-                    
-                    
-                </bibl><bibl type="digitalSource"><title>Dombey and Son / by Charles Dickens</title>
-                            <ref target="http://ota.ox.ac.uk/id/2128"/></bibl>
-                <bibl type="firstEdition" n="B7467"><title>Dealing with the firm of Dombey and Son, 
-                            wholesale, retail, and for exportation</title>
-                            <author>Charles Dickens</author>
-                            <publisher>Chapman and Hall</publisher>
-                            <date>1848</date></bibl></sourceDesc>
+                </bibl>
+                <bibl type="digitalSource"><title>Dombey and Son / by Charles Dickens</title>
+                    <ref target="http://ota.ox.ac.uk/id/2128"/></bibl>
+                <bibl type="firstEdition" n="B7467"><title>Dealing with the firm of Dombey and Son,
+                        wholesale, retail, and for exportation</title>
+                    <author>Charles Dickens</author>
+                    <publisher>Chapman and Hall</publisher>
+                    <date>1848</date>
+                      <ref target="bod:503628841.pdf"></ref> 
+                     
+                </bibl>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
             <p/>
         </encodingDesc>
 
-        <profileDesc><langUsage>
+        <profileDesc>
+            <langUsage>
                 <language ident="eng">English</language>
-            </langUsage><textClass><keywords><term>Social Problem Novel</term></keywords></textClass><textDesc>
-    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-    <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
-</textDesc></profileDesc>
-        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Social Problem Novel</term>
+                </keywords>
+            </textClass>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-05-19">Add text classifications from Bassett</change>
+            <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2010-09-29">Header normalised</change>
         </revisionDesc>
     </teiHeader>
     <text type="T1MLH">
-        
+
         <body>
             <div type="chapter">
                 <head>CHAPTER I</head>
@@ -1731,8 +1757,8 @@
                     steadfastly, contained herself at this crisis, and, until the subsequent
                     departure of Mrs. Chick. But the nursery being at length free of visitors, she
                     made herself some recompense for her late restraint. </p>
-                <p>`You might keep me in a strait-waistcoat for six weeks,´ said Nipper, `and when
-                    I got it off I'd only be more aggravated, who ever heard the like of them two
+                <p>`You might keep me in a strait-waistcoat for six weeks,´ said Nipper, `and when I
+                    got it off I'd only be more aggravated, who ever heard the like of them two
                     Griffins, Mrs. Richards?´ </p>
                 <p>`And then to talk of having been dreaming, poor dear!´ said Polly. </p>
                 <p>`Oh you beauties!´ cried Susan Nipper, affecting to salute the door by which the
@@ -5088,7 +5114,8 @@
                     there was already beautifully written on a card in round text—down strokes very
                     thick, and up strokes very fine—<hi rend="sc">dombey</hi>; while two other
                     little bed-steads in the same room were announced, through like means, as
-                    respectively appertaining unto <hi rend="sc">briggs</hi> and <hi rend="sc">tozer</hi>. </p>
+                    respectively appertaining unto <hi rend="sc">briggs</hi> and <hi rend="sc"
+                        >tozer</hi>. </p>
                 <p>Just as they got down stairs again into the hall, Paul saw the weak-eyed young
                     man who had given that mortal offence to Mrs. Pipchin, suddenly seize a very
                     large drumstick, and fly at a gong that was hanging up, as if he had gone mad,
@@ -6643,12 +6670,11 @@
                     if he meant dancing and nothing else, but secretly to stimulate the music to
                     perform wild tunes. Further, he became particular in his attentions to the
                     ladies; and dancing with Miss Blimber, whispered to her—whispered to her!—though
-                    not so softly but that Paul heard him say this remarkable poetry, 
-                        <l>`Had I a heart for falsehood framed, </l>
-                        <l>I ne'er could injure You!´ </l>
-                     This Paul heard him repeat to young ladies in succession. Well might
-                    Mr. Feeder say to Mr. Toots, that he was afraid he should be the worse for it
-                    to-morrow! </p>
+                    not so softly but that Paul heard him say this remarkable poetry, <l>`Had I a
+                        heart for falsehood framed, </l>
+                    <l>I ne'er could injure You!´ </l> This Paul heard him repeat to young ladies in
+                    succession. Well might Mr. Feeder say to Mr. Toots, that he was afraid he should
+                    be the worse for it to-morrow! </p>
                 <p>Mrs. Blimber was a little alarmed by this—comparatively speaking—profligate
                     behaviour; and especially by the alteration in the character of the music,
                     which, beginning to comprehend low melodies that were popular in the streets,
@@ -6969,15 +6995,15 @@
                     when, Captain Cuttle; and I am persuaded he won't be less valuable when he
                     hasn't me there, every day, to awaken his dislike. So hurrah for the West
                     Indies, Captain Cuttle! How does that tune go that the sailors sing? </p>
-         
-                        <l>`For the Port of Barbados, Boys! </l>
-                        <l> Cheerily! </l>
-                        <l>Leaving old England behind us, Boys! </l>
-                        <l> Cheerily!´ </l>
-                        <p>Here the Captain roared in chorus— </p>
-                        
-                        <l>`Oh cheerily, cheerily! </l>
-                        <l> Oh cheer—i—ly!´ </l>
+
+                <l>`For the Port of Barbados, Boys! </l>
+                <l> Cheerily! </l>
+                <l>Leaving old England behind us, Boys! </l>
+                <l> Cheerily!´ </l>
+                <p>Here the Captain roared in chorus— </p>
+
+                <l>`Oh cheerily, cheerily! </l>
+                <l> Oh cheer—i—ly!´ </l>
                 <p>The last line reaching the quick ears of an ardent skipper not quite sober, who
                     lodged opposite, and who instantly sprung out of bed, threw up his window, and
                     joined in, across the street, at the top of his voice, produced a fine effect.
@@ -8189,9 +8215,9 @@
                     her face and head, and press her lips, in the yearning of her love. She crouched
                     upon the cold stone floor outside it, every night, to listen even for his
                     breath; and in her one absorbing wish to be allowed to show him some affection,
-                    to be a consolation to him, to win him over to the endurance of some
-                    tenderness from her, his solitary child, she would have knelt down at his feet,
-                    if she had dared, in humble supplication. </p>
+                    to be a consolation to him, to win him over to the endurance of some tenderness
+                    from her, his solitary child, she would have knelt down at his feet, if she had
+                    dared, in humble supplication. </p>
                 <p>No one knew it. No one thought of it. The door was ever closed, and he shut up
                     within. He went out once or twice, and it was said in the house that he was very
                     soon going on his country journey; but he lived in those rooms, and lived alone,
@@ -13510,7 +13536,8 @@
                     `because I trust I am not a fool. I make no claim to be considered a person of
                     superior intellect—though I believe some people have been extraordinary enough
                     to consider me so; one so little humoured as I am, would very soon be disabused
-                    of any such notion; but I trust I am not a downright fool. And to tell <hi rend="sc">me,</hi>´ said Mrs. Chick with ineffable disdain, `that my brother
+                    of any such notion; but I trust I am not a downright fool. And to tell <hi
+                        rend="sc">me,</hi>´ said Mrs. Chick with ineffable disdain, `that my brother
                     Paul Dombey could ever contemplate the possibility of uniting himself to
                     anybody—I don't care who´—she was more sharp and emphatic in that short clause
                     than in any other part of her discourse—`not possessing these requisites, would
@@ -21012,7 +21039,8 @@
                     race for its delight and happiness, offended, sickened and disgusted, and made a
                     channel by which misery and death alone can enter. Vainly attempt to think of
                     any simple plant, or flower, or wholesome weed, that, set in this foetid bed,
-                    could have its natural growth, or put its little leaves off to the sun as <hi rend="sc">god</hi> designed it. And then, calling up some ghastly child,
+                    could have its natural growth, or put its little leaves off to the sun as <hi
+                        rend="sc">god</hi> designed it. And then, calling up some ghastly child,
                     with stunted form and wicked face, hold forth on its unnatural sinfulness, and
                     lament its being, so early, far away from Heaven—but think a little of its
                     having been conceived, and born and bred, in Hell! </p>
@@ -28372,7 +28400,8 @@
                 <p>And how goes the Wooden Midshipman in these changed days? Why, here he still is,
                     right leg foremost, hard at work upon the hackney coaches, and more on the alert
                     than ever, being newly painted from his cocked hat to his buckled shoes; and up
-                    above him, in golden characters, these names shine refulgent, <hi rend="sc">gills and cuttle</hi>. </p>
+                    above him, in golden characters, these names shine refulgent, <hi rend="sc"
+                        >gills and cuttle</hi>. </p>
                 <p>Not another stroke of business does the Midshipman achieve beyond his usual easy
                     trade. But they do say, in a circuit of some half-mile round the blue umbrella
                     in Leadenhall Market, that some of Mr. Gills's old investments are coming out
@@ -28512,7 +28541,7 @@
                 <p>He only answers, `Little Florence! Little Florence!´ and smooths away the curls
                     that shade her earnest eyes. </p>
             </div>
-            
+
         </body>
     </text>
 </TEI>
