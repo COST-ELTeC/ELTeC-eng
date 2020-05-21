@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18702" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18702"
+  xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ginx's Baby: His Birth and Other Misfortunes : ELTec edition</title>
-        <author ref="viaf: 24837293">Jenkins, John Edward (1838-1910).</author>
+        <author ref="viaf:24837293">Jenkins, John Edward (1838-1910).</author>
         <respStmt>
           <resp>ELTeC conversion</resp>
           <name>Lou Burnard</name>
@@ -14,7 +16,8 @@
         <p>Published as part of ELTeC <date>2020-04-28</date></p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"><title>Ginx's Baby, by Edward Jenkins</title><ref target="gut:581">Gutenberg</ref>
+        <bibl type="digitalSource"><title>Ginx's Baby, by Edward Jenkins</title><ref
+            target="gut:581">Gutenberg</ref>
           <respStmt>
             <resp>Produced by</resp>
             <name> Charles Keller, and David Widger</name>
@@ -24,16 +27,27 @@
             Alexander Strahan</publisher><date>1871</date></bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc n="eltec-1"> <p/></encodingDesc>
-    <profileDesc><langUsage>
+    <encodingDesc n="eltec-1">
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
         <language ident="eng">English</language>
-      </langUsage><textClass><keywords><term>Character: Suicide</term></keywords></textClass><textDesc>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Character: Suicide</term>
+        </keywords>
+      </textClass>
+      <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
-      </textDesc></profileDesc>
-    <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-05-19">Add text classifications from Bassett</change>
       <change when="2020-04-28">LB convert to ELTeC-1</change>
     </revisionDesc>
   </teiHeader>

@@ -1,46 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18920" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18920" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The diary of a nobody : ELTeC edition</title>
         <author ref="viaf:64144601">Grossmith, George (1847-1912)</author>
         <author ref="viaf:64144601">Grossmith, George (1847-1912)</author>
-      <respStmt><resp>Original HTML version</resp>
-      <name>Louise Hope</name></respStmt>
-      <respStmt><resp>ELTeC encoding</resp>
-      <name>Lou Burnard</name></respStmt></titleStmt>
-    <extent>
-      <measure unit="words">42280</measure>
-      <measure unit="pages">218</measure>
-      
-    </extent>  <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-09"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-      <sourceDesc><bibl type="digitalSource"><title>The Diary of a Nobody
-          by George Grossmith
-          and Weedon Grossmith</title>
+        <respStmt>
+          <resp>Original HTML version</resp>
+          <name>Louise Hope</name>
+        </respStmt>
+        <respStmt>
+          <resp>ELTeC encoding</resp>
+          <name>Lou Burnard</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="words">42280</measure>
+        <measure unit="pages">218</measure>
+
+      </extent>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+          Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-09"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"><title>The Diary of a Nobody by George Grossmith and Weedon
+            Grossmith</title>
           <ref target="http://fiftywordsforsnow.com/ebooks/nobody/"/>
-        
-      </bibl><bibl type="printSource" n="B13381"><author>George Grossmith</author> 
-        <author>Weedon Grossmith</author>
-        <publisher>Simpkin, Marshall</publisher>
-        <date>1892</date></bibl></sourceDesc>
+        </bibl>
+        <bibl type="printSource" n="B13381"><author>George Grossmith</author>
+          <author>Weedon Grossmith</author>
+          <publisher>Simpkin, Marshall</publisher>
+          <date>1892</date></bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
     </encodingDesc>
-    <profileDesc><langUsage><language ident="en"/></langUsage><textClass><keywords/></textClass><textDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+      <textClass>
+        <keywords><term>canonical</term></keywords>
+      </textClass>
+      <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
-      </textDesc></profileDesc><revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change><change when="2019-11-09">Checked by releaseChecker script</change>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-05-19">Add text classifications from Bassett</change>
+      <change when="2019-11-09">Checked by releaseChecker script</change>
       <change when="2018-09-23">LB made header</change>
     </revisionDesc>
   </teiHeader>
   <text type="T3MSH">
     <front>
-      
+
       <div type="titlepage">
         <p>The Diary of a Nobody</p>
         <p>BY</p>
@@ -57,8 +85,8 @@
         <p><hi>THE DIARY OF A NOBODY</hi> ORIGINALLY APPEARED IN <hi>PUNCH</hi>, AND IS RE-PUBLISHED
           BY THE PERMISSION OF THE PROPRIETORS, MESSRS. BRADBURY AND AGNEW. THE DIARY HAS SINCE BEEN
           CONSIDERABLY ADDED TO.</p>
-        <p>THE EXCELLENT TITLE WAS SUGGESTED BY OUR MUTUAL FRIEND,
-          <hi rend="gothic">F. C. BURNAND</hi>TO WHOM WE HAVE THE GREAT PLEASURE OF DEDICATING THIS VOLUME.</p>
+        <p>THE EXCELLENT TITLE WAS SUGGESTED BY OUR MUTUAL FRIEND, <hi rend="gothic">F. C.
+            BURNAND</hi>TO WHOM WE HAVE THE GREAT PLEASURE OF DEDICATING THIS VOLUME.</p>
         <p>GEORGE GROSSMITH, WEEDON GROSSMITH.</p>
         <p>London, June, 1892.</p>
         <pb n="iv"/>
@@ -68,11 +96,9 @@
         <p>Why should I not publish my diary? I have often seen reminiscences of people I have never
           even heard of, and I fail to see-because I do not happen to be a 'Somebody'-why my diary
           should not be interesting. My only regret is that I did not commence it when I was a
-          youth.
-        </p><p>Charles Pooter.</p>
-        <p>The Laurels,
-           Brickfield Terrace,
-            Holloway.</p>
+          youth. </p>
+        <p>Charles Pooter.</p>
+        <p>The Laurels,  Brickfield Terrace,   Holloway.</p>
       </div>
     </front>
     <body>
@@ -84,7 +110,8 @@
           Laurels," Brickfield Terrace, Holloway-a nice six-roomed residence, not counting basement
           with a front breakfast-parlour. We have a little front garden; and there is a flight of
           ten steps up to the front door; which, by-the-by, we keep locked with the chain up.
-          Cummings, Gowing, and our other intimate friends always come to the little side <pb n="14"/> entrance, which saves the servant the trouble of going up to the front door, thereby
+          Cummings, Gowing, and our other intimate friends always come to the little side <pb n="14"
+          /> entrance, which saves the servant the trouble of going up to the front door, thereby
           taking her from her work. We have a nice little back garden which runs down to the
           railway. We were rather afraid of the noise of the trains at first, but the landlord said
           we should not notice them after a bit, and took £2 off the rent. He was certainly right;
@@ -92,7 +119,7 @@
           no inconvenience.</p>
         <p/>
         <gap unit="graphic" n="pic14"/>
-        
+
         <p>After my work in the City, I like to be at home. What's the good of a home, if you are
           never in it? "Home, Sweet Home," that's my motto. I am always in of an evening. Our old
           friend Gowing may drop in without ceremony; so may Cummings, who lives opposite. My dear
@@ -112,7 +139,7 @@
           ridiculous. Dear friend Gowing dropped in, but wouldn't stay, saying there was an infernal
           smell of paint.</p>
         <gap unit="graphic" n=""/>
-        
+
         <p><label>April 4.</label>-Tradesmen still calling: Carrie being out, I arranged to deal
           with Horwin, who seemed a civil butcher with a nice clean shop. Ordered a shoulder of
           mutton for to-morrow, to give him a trial. Carrie arranged with Dorset, the butterman, and
@@ -143,7 +170,7 @@
           However, I will keep it for another occasion.</p>
         <p/>
         <gap unit="graphic" n="pic18"/>
-        
+
         <p><label>April 7.</label>-Being Saturday, I looked forward to being home early, and putting
           a few things straight; but two of our principals at the office were absent through
           illness, and I did not get home till seven. Found Borset waiting. He had been three times
@@ -256,7 +283,8 @@
           on <hi>Gardening</hi>. I procured and sowed some half-hardy annuals in what I fancy will
           be a warm, sunny border. I thought of a joke, and called out Carrie. Carrie came out
           rather testy, I thought. I said: "I have just discovered we have got a lodging-house." She
-          replied: "How do you mean?" I said: "Look at the <hi>boarders</hi>." Carrie said: "Is <pb n="29"/> that all you wanted me for?" I said: "Any other time you would have laughed at
+          replied: "How do you mean?" I said: "Look at the <hi>boarders</hi>." Carrie said: "Is <pb
+            n="29"/> that all you wanted me for?" I said: "Any other time you would have laughed at
           my little pleasantry." Carrie said: "Certainly-<hi>at any other time</hi>, but not when I
           am busy in the house." The stairs looked very nice. Gowing called, and said the stairs
           looked <hi>all right</hi>, but it made the banisters look <hi>all wrong</hi>, and
@@ -265,14 +293,14 @@
           By-the-by, that is rather funny.</p>
         <p/>
         <gap unit="graphic" n="pic29"/>
-        
+
         <p><label>April 15, Sunday.</label>-At three o'clock Cummings and Gowing called for a good
           long walk over Hampstead and Finchley, and brought with them a friend <pb n="30"/> named
           Stillbrook. We walked and chatted together, except Stillbrook, who was always a few yards
           behind us staring at the ground and cutting at the grass with his stick.</p>
         <p/>
         <gap unit="graphic" n="pic30"/>
-        
+
         <p>As it was getting on for five, we four held a consultation, and Gowing suggested that we
           should make for "The Cow and Hedge" and get some tea. Stillbrook said: "A brandy-and-soda
           was good enough for him." I reminded them that all public-houses were closed till six
@@ -286,7 +314,7 @@
         <pb n="[31]"/>
         <p/>
         <gap unit="graphic" n="pic31"/>
-        
+
         <p>Gowing called to me across the gate, and said: "We shan't be a minute." I waited for them
           the best part of an hour. When they appeared they were all in most excellent spirits, and
           the only one who made an effort to apologise was Mr. Stillbrook, who said to me: "It was
@@ -304,13 +332,14 @@
           saying that both he and Gowing had been waiting for an explanation of <hi>my</hi> (mind
           you, MY) extraordinary conduct coming home on Sunday. At last I wrote: "I thought
             <hi>I</hi> was the aggrieved party; but as I freely forgive you, you-feeling yourself
-          aggrieved-should bestow forgiveness on me." I have copied this <foreign>verbatim</foreign> in the
-          diary, because I think it is one of the most perfect and thoughtful sentences I have ever
-          written. I posted the letter, but in my own heart I felt I was actually apologising for
-          having been insulted.</p>
+          aggrieved-should bestow forgiveness on me." I have copied this <foreign>verbatim</foreign>
+          in the diary, because I think it is one of the most perfect and thoughtful sentences I
+          have ever written. I posted the letter, but in my own heart I felt I was actually
+          apologising for having been insulted.</p>
         <p><label>April 18.</label>-Am in for a cold. Spent the whole day at the office sneezing. In
           the evening, the cold being intolerable, sent Sarah out for a bottle of Kinahan. Fell
-          asleep in the arm-chair, and woke with the shivers. Was startled by a loud knock at <pb n="34"/> the front-door. Carrie awfully flurried. Sarah still out, so went up, opened
+          asleep in the arm-chair, and woke with the shivers. Was startled by a loud knock at <pb
+            n="34"/> the front-door. Carrie awfully flurried. Sarah still out, so went up, opened
           the door, and found it was only Cummings. Remembered the grocer's boy had again broken the
           side-bell. Cummings squeezed my hand, and said: "I've just seen Gowing. All right. Say no
           more about it." There is no doubt they are both under the impression I have
@@ -327,7 +356,7 @@
         <pb n="35&#xA;36"/>
         <p/>
         <gap unit="graphic" n="pic35"/>
-        
+
       </div>
       <div type="chapter">
         <head>CHAPTER III.</head>
@@ -420,7 +449,7 @@
         <pb n="45"/>
         <p/>
         <gap unit="graphic" n="pic45"/>
-        
+
         <p><label>April 26.</label>-Got some more red enamel paint (red, to my mind, being the best
           colour), and painted the coal-scuttle, and the backs of our <title>Shakspeare</title>, the
           binding of which had almost worn out.</p>
@@ -474,7 +503,7 @@
           acceptable. I lay still for some time.</p>
         <p/>
         <gap unit="graphic" n="pic49"/>
-        
+
         <p>On moving my hand above the surface of the water, I experienced the greatest fright I
           ever received in the whole course of my life; for imagine my horror on discovering my
           hand, as I thought, full of blood. <pb n="50"/> My first thought was that I had ruptured
@@ -499,7 +528,8 @@
           saw the tears in Carrie's eyes, and she said: "Charlie dear, it is <hi>I</hi> who have to
           be proud of you. And I am very, very proud of you. You have called me pretty; and as long
           as I am pretty in your eyes, I am happy. You, dear old Charlie, are <hi>not</hi> handsome,
-          but you are <hi>good</hi>, which is far more noble." I gave her a kiss, and she said: <pb n="54"/> "I wonder if there will be any dancing? I have not danced with you for
+          but you are <hi>good</hi>, which is far more noble." I gave her a kiss, and she said: <pb
+            n="54"/> "I wonder if there will be any dancing? I have not danced with you for
           years."</p>
         <p>I cannot tell what induced me to do it, but I seized her round the waist, and we were
           silly enough to be executing a wild kind of polka when Sarah entered, grinning, and said:
@@ -517,7 +547,7 @@
         <pb n="55"/>
         <p/>
         <gap unit="graphic" n="pic55"/>
-        
+
         <pb n="56"/>
         <p><label>May 2.</label>-Sent my dress-coat and trousers to the little tailor's round the
           corner, to have the creases taken out. Told Gowing not to call next Monday, as we were
@@ -554,18 +584,18 @@
         <pb n="[58]"/>
         <p/>
         <gap unit="graphic" n="pic58"/>
-        
+
         <p>However, Mrs. James brought me down another shirt, which I changed in the drawing-room. I
           put a piece of court-plaister on my chin, and Sarah very neatly sewed up the tear at the
           knee. At nine o'clock Carrie swept into the room, looking like a queen. Never have I seen
           her look so lovely, or so distinguished. She was wearing a satin dress of sky-blue-my
           favourite colour-and a piece of lace, which Mrs. James lent her, round the shoulders, to
           give a finish. I thought perhaps the dress was a little too long behind, and decidedly too
-          short in front, but Mrs. James said it was <foreign>à la mode</foreign>. Mrs. James was most kind,
-          and lent Carrie a fan of ivory with red feathers, the value of which, she said, was
-          priceless, as the feathers belonged to the Kachu eagle-a bird now extinct. I preferred the
-          little white fan which Carrie bought for three-and-six at Shoolbred's, but both ladies sat
-          on me at once.</p>
+          short in front, but Mrs. James said it was <foreign>à la mode</foreign>. Mrs. James was
+          most kind, and lent Carrie a fan of ivory with red feathers, the value of which, she said,
+          was priceless, as the feathers belonged to the Kachu eagle-a bird now extinct. I preferred
+          the little white fan which Carrie bought for three-and-six at Shoolbred's, but both ladies
+          sat on me at once.</p>
         <p>We arrived at the Mansion House too early, which was rather fortunate, for I had an
           opportunity of speaking to his lordship, who graciously condescended to talk with me some
           minutes; but I <pb n="60"/> must say I was disappointed to find he did not even know Mr.
@@ -659,8 +689,8 @@
             Bi-weekly News</title>, contains a long list of the guests at the Mansion House ball.
           Disappointed to find our names omitted, though Farmerson's is in plainly enough with
           M.L.L. after it, whatever that may mean. More than vexed because we had ordered a dozen
-          copies to send to our friends. Wrote to the <title>Blackfriars Bi-weekly News</title>, pointing
-          out their omission.</p>
+          copies to send to our friends. Wrote to the <title>Blackfriars Bi-weekly News</title>,
+          pointing out their omission.</p>
         <p>Carrie had commenced her breakfast when I entered the parlour. I helped myself to a cup
           of tea, and I said, perfectly calmly and quietly: "Carrie, I wish a little explanation of
           your conduct last night."</p>
@@ -687,7 +717,7 @@
           was not desirable."</p>
         <p/>
         <gap unit="graphic" n="pic70"/>
-        
+
         <p>Goodness knows I felt humiliated enough at this; but, to make matters worse, Gowing
           entered the room, without knocking, with two hats on his head and holding the garden-rake
           in his hand, with Carrie's fur tippet (which he had taken off the downstairs hall-peg)
@@ -708,16 +738,16 @@
         <p>Gowing said: "Then all I can say is, it's a confounded liberty; and I <hi>would</hi> add,
           you're a bigger fool than you look, only <hi>that's</hi> absolutely impossible."</p>
         <pb n="72"/>
-        <p><label>May 12.</label>-Got a single copy of the <title>Blackfriars Bi-weekly News</title>.
-          There was a short list of several names they had omitted; but the stupid people had
-          mentioned our names as "Mr. and Mrs. C. Porter." Most annoying! Wrote again and I took
-          particular care to write our name in capital letters, <hi>POOTER</hi>, so that there
-          should be no possible mistake this time.</p>
+        <p><label>May 12.</label>-Got a single copy of the <title>Blackfriars Bi-weekly
+          News</title>. There was a short list of several names they had omitted; but the stupid
+          people had mentioned our names as "Mr. and Mrs. C. Porter." Most annoying! Wrote again and
+          I took particular care to write our name in capital letters, <hi>POOTER</hi>, so that
+          there should be no possible mistake this time.</p>
         <p><label>May 16.</label>-Absolutely disgusted on opening the <title>Blackfriars Bi-weekly
-            News</title> of to-day, to find the following paragraph: "We have received two letters from
-          Mr. and Mrs. Charles Pewter, requesting us to announce the important fact that they were
-          at the Mansion House Ball." I tore up the paper and threw it in the waste-paper basket. My
-          time is far too valuable to bother about such trifles.</p>
+            News</title> of to-day, to find the following paragraph: "We have received two letters
+          from Mr. and Mrs. Charles Pewter, requesting us to announce the important fact that they
+          were at the Mansion House Ball." I tore up the paper and threw it in the waste-paper
+          basket. My time is far too valuable to bother about such trifles.</p>
         <p><label>May 21.</label>-The last week or ten days terribly dull, Carrie being away at Mrs.
           James's, at Sutton. Cummings also away. Gowing, I presume, is still offended with me for
           black-enamelling his stick without asking him.</p>
@@ -744,8 +774,8 @@
         <p>June 1.-The last week has been like old times, Carrie being back, and Gowing and Cummings
           calling every evening nearly. Twice we sat out in the garden quite late. This evening we
           were like a pack of children, and played "consequences." It is a good game.</p>
-        <p><label>June 2.</label>-"Consequences" again this evening. Not quite so successful as last night; Gowing
-          having several times over-stepped the limits of good taste.</p>
+        <p><label>June 2.</label>-"Consequences" again this evening. Not quite so successful as last
+          night; Gowing having several times over-stepped the limits of good taste.</p>
         <p><label>June 4.</label>-In the evening Carrie and I went round to Mr. and Mrs. Cummings'
           to spend a quiet evening with them. Gowing was there, also Mr. Stillbrook. It was quiet
           but pleasant. Mrs. Cummings sang five or six songs, "No, Sir," and "The Garden of Sleep,"
@@ -764,7 +794,7 @@
           used for packing and bookbinding, why didn't you say so?"</p>
         <p/>
         <gap unit="graphic" n="pic76"/>
-        
+
         <p><label>June 7.</label>-A dreadful annoyance. Met Mr. Franching, who lives at Peckham, and
           who is a great swell in his way. I ventured to ask him to come home to meat-tea and take
           pot-luck. I did <pb n="76"/> not think he would accept such a humble invitation; but he
@@ -785,7 +815,7 @@
         <pb n="[77]"/>
         <p/>
         <gap unit="graphic" n="pic77"/>
-        
+
         <p>Eventually Carrie, like a good creature as she is, slipped down, washed up the tea-cups,
           and laid the cloth, and I gave Franching our views of Japan to look at while I ran round
           to the butcher's to get three chops.</p>
@@ -824,13 +854,13 @@
           knee, looked like a sailor's, and I heard Pitt, that objectionable youth at the office,
           call out "Hornpipe" as I passed his desk. Carrie has ordered of Miss Jibbons a pink
           Garibaldi and blue-serge skirt, which I always think looks so pretty at the seaside. In
-          the evening she trimmed herself a little sailor-hat, while I read to her the <title>Exchange
-            and Mart</title>. We had a good laugh over my trying on the hat when she had finished it;
-          Carrie saying it looked so funny with my beard, and how the <pb n="81"/> people would have
-          roared if I went on the stage like it.</p>
+          the evening she trimmed herself a little sailor-hat, while I read to her the
+            <title>Exchange and Mart</title>. We had a good laugh over my trying on the hat when she
+          had finished it; Carrie saying it looked so funny with my beard, and how the <pb n="81"/>
+          people would have roared if I went on the stage like it.</p>
         <p/>
         <gap unit="graphic" n="pic81"/>
-        
+
         <p><label>August 2.</label>-Mrs. Beck wrote to say we could have our usual rooms at
           Broad­stairs. That's off our mind. Bought a coloured shirt and a pair of <pb n="82"/>
           tan-coloured boots, which I see many of the swell clerks wearing in the City, and I hear
@@ -867,7 +897,7 @@
           'Willie' me there, they wouldn't know what you meant."</p>
         <p/>
         <gap unit="graphic" n="pic86"/>
-        
+
         <p>Of course, Lupin being a purely family name, Carrie was delighted, and began by giving a
           long history of the Lupins. I ventured to say that I thought William a nice simple name,
           and reminded him he was christened after his Uncle William, who was much respected in the
@@ -939,7 +969,7 @@
           coming to.</p>
         <p/>
         <gap unit="graphic" n="pic91"/>
-        
+
         <p><label>August 17.</label>-Lupin not falling in with our views, Carrie and I went for a
           sail. It was a relief to be <pb n="92"/> with her alone; for when Lupin irritates me, she
           always sides with him. On our return, he said: "Oh, you've been on the 'Shilling Emetic,'
@@ -962,7 +992,7 @@
         <pb n="[94]"/>
         <p/>
         <gap unit="graphic" n="pic94"/>
-        
+
         <p><label>August 20.</label>-I am glad our last day at the seaside was fine, though clouded
           overhead. We went over to Cummings' (at Margate) in the evening, and as it was cold, we
           stayed in and played games; Gowing, as usual, overstepping the mark. He suggested we
@@ -980,7 +1010,7 @@
         <pb n="[95]"/>
         <p/>
         <gap unit="graphic" n="pic95"/>
-        
+
       </div>
       <div type="chapter">
         <head>CHAPTER VII.</head>
@@ -999,7 +1029,7 @@
           is a little down, Carrie invited Mrs. James to come up from Sutton and spend two or three
           days with us. We have not said a word to Lupin, but mean to keep it as a surprise.</p>
         <gap unit="graphic" n=""/>
-        
+
         <p><label>August 25.</label>-Mrs. James, of Sutton, arrived in the afternoon, bringing with
           her an enormous bunch of wild flowers. The more I see of Mrs. James the nicer I think she
           is, and she is devoted to Carrie. She went into Carrie's room to take off her bonnet, and
@@ -1012,15 +1042,16 @@
           dog-carts, have already made themselves objectionable.</p>
         <p>An evening or two ago I had put on a white waistcoat for coolness, and while walking past
           with my thumbs in my waistcoat pockets (a habit I have), one man, seated in the cart, and
-          looking like an American, commenced singing some vulgar nonsense about "<title>I had thirteen
-            dollars in my waistcoat pocket</title>." I fancied it was meant for me, and my suspicions
-          were confirmed; for while walking round the garden in my tall hat this afternoon, a
-          "throw-down" cracker was deliberately aimed at my hat, and exploded on it like a
-          percussion cap. I turned sharply, and am positive I saw the man who was in the cart
+          looking like an American, commenced singing some vulgar nonsense about "<title>I had
+            thirteen dollars in my waistcoat pocket</title>." I fancied it was meant for me, and my
+          suspicions were confirmed; for while walking round the garden in my tall hat this
+          afternoon, a "throw-down" cracker was deliberately aimed at my hat, and exploded on it
+          like a percussion cap. I turned sharply, and am positive I saw the man who was in the cart
           retreating from one of the bedroom windows.</p>
         <p><label>August 27.</label>-Carrie and Mrs. James went off shopping, and had not returned
           when I came back from the office. Judging from the subsequent conversation, I am afraid
-          Mrs. James is filling Carrie's head with a lot of nonsense about dress. I walked <pb n="102"/> over to Gowing's, and asked him to drop in to supper, and make things
+          Mrs. James is filling Carrie's head with a lot of nonsense about dress. I walked <pb
+            n="102"/> over to Gowing's, and asked him to drop in to supper, and make things
           pleasant.</p>
         <p>Carrie prepared a little extemporised supper, consisting of the remainder of the cold
           joint, a small piece of salmon (which I was to refuse, in case there was not enough to go
@@ -1071,9 +1102,9 @@
             <hi>touch it</hi>."</p>
         <p>I said I was determined to find out who did it, whereupon she said she would do her best
           to help me; but she remembered the sweep lighting the fire with a bit of the
-          <title>Echo</title>. I requested the sweep to be sent to me to-morrow. I wish Carrie had not
-          given Lupin a latch-key; we never seem to see anything of him. I sat up till past one for
-          him, and then retired tired.</p>
+            <title>Echo</title>. I requested the sweep to be sent to me to-morrow. I wish Carrie had
+          not given Lupin a latch-key; we never seem to see anything of him. I sat up till past one
+          for him, and then retired tired.</p>
         <p><label>November 1.</label>-My entry yesterday about "retired tired," which I did not
           notice at the time, is rather funny. If I were not so worried just now, I might have had a
           little joke about it. The sweep called, but had the audacity to come up to the hall-door
@@ -1095,7 +1126,7 @@
           afterwards, he was positively dancing in his room, and shouting out, "See me dance the
           polka!" or some such nonsense.</p>
         <gap unit="graphic" n=""/>
-        
+
         <p><label>November 3.</label>-Good news at last. Mr. Perkupp has got an appointment for
           Lupin, and he is to go and see about it on Monday. Oh, how <pb n="107"/> my mind is
           relieved! I went to Lupin's room to take the good news to him, but he was in bed, very
@@ -1115,7 +1146,7 @@
         <pb n="109&#xA;110"/>
         <p/>
         <gap unit="graphic" n="pic109"/>
-        
+
       </div>
       <div type="chapter">
         <head>CHAPTER VIII.</head>
@@ -1129,7 +1160,7 @@
           fifty years he would wait, and he knew she would wait for him.</p>
         <p/>
         <gap unit="graphic" n="punch95-245"/>
-        
+
         <p>Lupin further said, with much warmth, that the world was a different world to him now,-it
           was a world worth living in. He lived with an object now, and that was to make Daisy
           Mutlar-Daisy Pooter, and he would guarantee she would <pb n="114"/> not disgrace the
@@ -1141,11 +1172,11 @@
           the sole topic of conversation for the remainder of the day. I asked Lupin who her people
           were, and he replied: "Oh, you know Mutlar, Williams and Watts." I did not know, but
           refrained from asking any further questions at present, for fear of irritating Lupin.</p>
-        <p><label>November 6.</label>-Lupin went with me to the office, and had a long conversation with Mr.
-          Perkupp, our principal, the result of which was that he accepted a clerkship in the firm
-          of Job Cleanands &amp; Co., Stock and Share Brokers. Lupin told me, privately, it was an
-          advertising firm, and he did not think much of it. I replied: "Beggars should not be
-          choosers;" and I will do Lupin the justice to say, he looked rather ashamed of
+        <p><label>November 6.</label>-Lupin went with me to the office, and had a long conversation
+          with Mr. Perkupp, our principal, the result of which was that he accepted a clerkship in
+          the firm of Job Cleanands &amp; Co., Stock and Share Brokers. Lupin told me, privately, it
+          was an advertising firm, and he did not think much of it. I replied: "Beggars should not
+          be choosers;" and I will do Lupin the justice to say, he looked rather ashamed of
           himself.</p>
         <p>In the evening we went round to the Cummings', to have a few fireworks. It began to rain,
           and I thought it rather dull. One of my squibs <pb n="115"/> would not go off, and Gowing
@@ -1160,17 +1191,17 @@
           it fell off the stake on to the grass. Anybody would have thought I had set the house on
           fire from the way in which they stormed at me. I will never join in any more firework
           parties. It is a ridiculous waste of time and money.</p>
-        <p><label>November 7.</label>-Lupin asked Carrie to call on Mrs. Mutlar, but Carrie said she thought Mrs.
-          Mutlar ought to call on her first. I agreed with Carrie, and this led to an argument.
-          However, the matter was settled by Carrie saying she could not <pb n="116"/> find any
-          visiting-cards, and we must get some more printed, and when they were finished would be
-          quite time enough to discuss the etiquette of calling.</p>
-        <p><label>November 8.</label>-I ordered some of our cards at Black's, the stationer's. I ordered
-          twenty-five of each, which will last us for a good long time. In the evening, Lupin
-          brought in Harry Mutlar, Miss Mutlar's brother. He was rather a gawky youth, and Lupin
-          said he was the most popular and best amateur in the club, referring to the "Holloway
-          Comedians." Lupin whispered to us that if we could only "draw out" Harry a bit, he would
-          make us roar with laughter.</p>
+        <p><label>November 7.</label>-Lupin asked Carrie to call on Mrs. Mutlar, but Carrie said she
+          thought Mrs. Mutlar ought to call on her first. I agreed with Carrie, and this led to an
+          argument. However, the matter was settled by Carrie saying she could not <pb n="116"/>
+          find any visiting-cards, and we must get some more printed, and when they were finished
+          would be quite time enough to discuss the etiquette of calling.</p>
+        <p><label>November 8.</label>-I ordered some of our cards at Black's, the stationer's. I
+          ordered twenty-five of each, which will last us for a good long time. In the evening,
+          Lupin brought in Harry Mutlar, Miss Mutlar's brother. He was rather a gawky youth, and
+          Lupin said he was the most popular and best amateur in the club, referring to the
+          "Holloway Comedians." Lupin whispered to us that if we could only "draw out" Harry a bit,
+          he would make us roar with laughter.</p>
         <p>At supper, young Mutlar did several amusing things. He took up a knife, and with the flat
           part of it played a tune on his cheek in a wonderful manner. He also gave an imitation of
           an old man with no teeth, smoking a big cigar. The way he kept dropping the cigar sent
@@ -1187,29 +1218,30 @@
           hat and coat, and went out with his new companion.</p>
         <p/>
         <gap unit="graphic" n="punch95-256"/>
-        
-        <p><label>November 9.</label>-My endeavours to discover who tore the sheets out of my diary still
-          fruitless. Lupin has Daisy Mutlar on the brain, so we see little of him, except that he
-          invariably turns up at meal times. Cummings dropped in.</p>
-        <p><label>November 10.</label>-Lupin seems to like his new berth-that's a comfort. Daisy Mutlar the sole
-          topic of conversation during tea. Carrie almost as full of it as Lupin. Lupin informs me,
-          to my disgust, that he has been persuaded to take part in the forthcoming <pb n="118"/>
-          performance of the "Holloway Comedians." He says he is to play Bob Britches in the farce,
-            <title>Gone to my Uncle's</title>; Frank Mutlar is going to play Old Musty. I told Lupin
-          pretty plainly I was not in the least degree interested in the matter, and totally
-          disapproved of amateur theatricals. Gowing came in the evening.</p>
-        <p><label>November 11.</label>-Returned home to find the house in a most disgraceful uproar. Carrie, who
-          appeared very frightened, was standing outside her bedroom, while Sarah was excited and
-          crying. Mrs. Birrell (the charwoman), who had evidently been drinking, was shouting at the
-          top of her voice that "she was no thief, that she was a respectable woman, who had to work
-          hard for her living, and she would smack anyone's face who put lies into her mouth."
-          Lupin, whose back was towards me, did not hear me come in. He was standing between the two
-          women, and, I regret to say, in his endeavour to act as peacemaker, he made use of rather
-          strong language in the presence of his mother; and I was just in time to hear him say:
-          "And all this fuss about the loss of a few pages from a rotten diary that wouldn't fetch
-          three-halfpence a pound!" I said, quietly: "Pardon me, Lupin, that is a matter of opinion;
-          and as I am <pb n="119"/> master of this house, perhaps you will allow me to take the
-          reins."</p>
+
+        <p><label>November 9.</label>-My endeavours to discover who tore the sheets out of my diary
+          still fruitless. Lupin has Daisy Mutlar on the brain, so we see little of him, except that
+          he invariably turns up at meal times. Cummings dropped in.</p>
+        <p><label>November 10.</label>-Lupin seems to like his new berth-that's a comfort. Daisy
+          Mutlar the sole topic of conversation during tea. Carrie almost as full of it as Lupin.
+          Lupin informs me, to my disgust, that he has been persuaded to take part in the
+          forthcoming <pb n="118"/> performance of the "Holloway Comedians." He says he is to play
+          Bob Britches in the farce, <title>Gone to my Uncle's</title>; Frank Mutlar is going to
+          play Old Musty. I told Lupin pretty plainly I was not in the least degree interested in
+          the matter, and totally disapproved of amateur theatricals. Gowing came in the
+          evening.</p>
+        <p><label>November 11.</label>-Returned home to find the house in a most disgraceful uproar.
+          Carrie, who appeared very frightened, was standing outside her bedroom, while Sarah was
+          excited and crying. Mrs. Birrell (the charwoman), who had evidently been drinking, was
+          shouting at the top of her voice that "she was no thief, that she was a respectable woman,
+          who had to work hard for her living, and she would smack anyone's face who put lies into
+          her mouth." Lupin, whose back was towards me, did not hear me come in. He was standing
+          between the two women, and, I regret to say, in his endeavour to act as peacemaker, he
+          made use of rather strong language in the presence of his mother; and I was just in time
+          to hear him say: "And all this fuss about the loss of a few pages from a rotten diary that
+          wouldn't fetch three-halfpence a pound!" I said, quietly: "Pardon me, Lupin, that is a
+          matter of opinion; and as I am <pb n="119"/> master of this house, perhaps you will allow
+          me to take the reins."</p>
         <p>I ascertained that the cause of the row was, that Sarah had accused Mrs. Birrell of
           tearing the pages out of my diary to wrap up some kitchen fat and leavings which she had
           taken out of the house last week. Mrs. Birrell had slapped Sarah's face, and said she had
@@ -1218,26 +1250,27 @@
           was kicking his legs in the air, and roaring with laughter.</p>
         <p/>
         <gap unit="graphic" n="pic119"/>
-        
-        <p><label>November 12, Sunday.</label>-Coming home from church Carrie and I met Lupin, Daisy Mutlar, and
-          her brother. Daisy was introduced to us, and we walked home <pb n="120"/> together, Carrie
-          walking on with Miss Mutlar. We asked them in for a few minutes, and I had a good look at
-          my future daughter-in-law. My heart quite sank. She is a big young woman, and I should
-          think at least eight years older than Lupin. I did not even think her good-looking. Carrie
-          asked her if she could come in on Wednesday next with her brother to meet a few friends.
-          She replied that she would only be too pleased.</p>
-        <p><label>November 13.</label>-Carrie sent out invitations to Gowing, the Cummings', to Mr. and Mrs. James
-          (of Sutton), and Mr. Stillbrook. I wrote a note to Mr. Franching, of Peckham. Carrie said
-          we may as well make it a nice affair, and why not ask our principal, Mr. Perkupp? I said I
-          feared we were not quite grand enough for him. Carrie said there was "no offence in asking
-          him." I said: "Certainly not," and I wrote Lim a letter. Carrie confessed she was a little
-          disappointed with Daisy Mutlar's appearance, but thought she seemed a nice girl.</p>
-        <p><label>November 14.</label>-Everybody so far has accepted for our quite grand little party for
-          to-morrow. Mr. Perkupp, in a nice letter, which I shall keep, wrote that he was dining in
-          Kensington, but if he could <pb n="121"/> get away, he would come up to Holloway for an
-          hour. Carrie was busy all day, making little cakes and open jam puffs and jellies. She
-          said she felt quite nervous about her responsi­bilities to-morrow evening. We decided to
-          have some light things on the table, such as sandwiches, cold chicken and ham, and some
+
+        <p><label>November 12, Sunday.</label>-Coming home from church Carrie and I met Lupin, Daisy
+          Mutlar, and her brother. Daisy was introduced to us, and we walked home <pb n="120"/>
+          together, Carrie walking on with Miss Mutlar. We asked them in for a few minutes, and I
+          had a good look at my future daughter-in-law. My heart quite sank. She is a big young
+          woman, and I should think at least eight years older than Lupin. I did not even think her
+          good-looking. Carrie asked her if she could come in on Wednesday next with her brother to
+          meet a few friends. She replied that she would only be too pleased.</p>
+        <p><label>November 13.</label>-Carrie sent out invitations to Gowing, the Cummings', to Mr.
+          and Mrs. James (of Sutton), and Mr. Stillbrook. I wrote a note to Mr. Franching, of
+          Peckham. Carrie said we may as well make it a nice affair, and why not ask our principal,
+          Mr. Perkupp? I said I feared we were not quite grand enough for him. Carrie said there was
+          "no offence in asking him." I said: "Certainly not," and I wrote Lim a letter. Carrie
+          confessed she was a little disappointed with Daisy Mutlar's appearance, but thought she
+          seemed a nice girl.</p>
+        <p><label>November 14.</label>-Everybody so far has accepted for our quite grand little
+          party for to-morrow. Mr. Perkupp, in a nice letter, which I shall keep, wrote that he was
+          dining in Kensington, but if he could <pb n="121"/> get away, he would come up to Holloway
+          for an hour. Carrie was busy all day, making little cakes and open jam puffs and jellies.
+          She said she felt quite nervous about her responsi­bilities to-morrow evening. We decided
+          to have some light things on the table, such as sandwiches, cold chicken and ham, and some
           sweets, and on the sideboard a nice piece of cold beef and a Paysandu tongue for the more
           hungry ones to peg into if they liked.</p>
         <p>Gowing called to know if he was to put on "swallow-tails" to-morrow. Carrie said he had
@@ -1361,7 +1394,7 @@
           dream about a dozen times.</p>
         <p/>
         <gap unit="graphic" n="punch95-309"/>
-        
+
         <p>Carrie annoyed me by saying: "You know champagne never agrees with you." I told her I had
           only a couple of glasses of it, having kept myself entirely to port. I added that good
           champagne hurt nobody, <pb n="134"/> and Lupin told me he had only got it from a traveller
@@ -1375,21 +1408,21 @@
           my head was as big as Baldwin's balloon." On the spur of the moment I said the cleverest
           thing I think I have ever said; viz.: "Perhaps that accounts for the para<hi>shooting</hi>
           pains." We all three roared.</p>
-        <p><label>November 17.</label>-Still feel tired and headachy! In the evening Gowing called, and was full of
-          praise about our party last Wednesday. He said everything was done beautifully, and he
-          enjoyed himself enormously. Gowing can be a very nice fellow when he likes, but you never
-          know how long it will last. <pb n="135"/> For instance, he stopped to supper, and seeing
-          some <hi>blanc-mange</hi> on the table, shouted out, while the servant was in the room:
-          "Hulloh! The remains of Wednesday?"</p>
-        <p><label>November 18.</label>-Woke up quite fresh after a good night's rest, and feel quite myself again.
-          I am satisfied a life of going-out and Society is not a life for me; we therefore declined
-          the invitation which we received this morning to Miss Bird's wedding. We only met her
-          twice at Mrs. James', and it means a present. Lupin said: "I am with you for once. To my
-          mind a wedding's a very poor play. There are only two parts in it-the bride and
-          bridegroom. The best man is only a walking gentleman. With the exception of a crying
-          father and a snivelling mother, the rest are <hi>supers</hi> who have to dress well and
-          have to <hi>pay</hi> for their insignificant parts in the shape of costly presents." I did
-          not care for the theatrical slang, but thought it clever, though disrespectful.</p>
+        <p><label>November 17.</label>-Still feel tired and headachy! In the evening Gowing called,
+          and was full of praise about our party last Wednesday. He said everything was done
+          beautifully, and he enjoyed himself enormously. Gowing can be a very nice fellow when he
+          likes, but you never know how long it will last. <pb n="135"/> For instance, he stopped to
+          supper, and seeing some <hi>blanc-mange</hi> on the table, shouted out, while the servant
+          was in the room: "Hulloh! The remains of Wednesday?"</p>
+        <p><label>November 18.</label>-Woke up quite fresh after a good night's rest, and feel quite
+          myself again. I am satisfied a life of going-out and Society is not a life for me; we
+          therefore declined the invitation which we received this morning to Miss Bird's wedding.
+          We only met her twice at Mrs. James', and it means a present. Lupin said: "I am with you
+          for once. To my mind a wedding's a very poor play. There are only two parts in it-the
+          bride and bridegroom. The best man is only a walking gentleman. With the exception of a
+          crying father and a snivelling mother, the rest are <hi>supers</hi> who have to dress well
+          and have to <hi>pay</hi> for their insignificant parts in the shape of costly presents." I
+          did not care for the theatrical slang, but thought it clever, though disrespectful.</p>
         <p>I told Sarah not to bring up the <hi>blanc-mange</hi> again for breakfast. It seems to
           have been placed on our table at every meal since Wednesday. Cummings came round in the
           evening, and congratulated us on the success of our party. He said <pb n="136"/> it was
@@ -1406,10 +1439,10 @@
           dish with jam round it. Carrie asked Lupin if he would have some, and he replied: "No
           second-hand goods for me, thank you." I told Carrie, when we were alone, if that
             <hi>blanc-mange</hi> were placed on the table again, I should walk out of the house.</p>
-        <p><label>November 19, Sunday.</label>-A delightfully quiet day. In the afternoon Lupin was off to spend
-          the <pb n="137"/> rest of the day with the Mutlars. He departed in the best of spirits,
-          and Carrie said: "Well, one advantage of Lupin's engagement with Daisy is that the boy
-          seems happy all day long. That quite reconciles me to what I must confess seems an
+        <p><label>November 19, Sunday.</label>-A delightfully quiet day. In the afternoon Lupin was
+          off to spend the <pb n="137"/> rest of the day with the Mutlars. He departed in the best
+          of spirits, and Carrie said: "Well, one advantage of Lupin's engagement with Daisy is that
+          the boy seems happy all day long. That quite reconciles me to what I must confess seems an
           imprudent engagement."</p>
         <p>Carrie and I talked the matter over during the evening, and agreed that it did not always
           follow that an early engagement meant an unhappy marriage. Dear Carrie reminded me that we
@@ -1468,7 +1501,7 @@
         <pb n="[143]"/>
         <p/>
         <gap unit="graphic" n="pic143"/>
-        
+
         <p>When he went, he said, to our surprise: "I will come to-morrow and bring my Irving
           make-up." Gowing and Cummings said they would like to see it and would come too. I could
           not help thinking they might as well give a party at my house while they are about it.
@@ -1486,7 +1519,7 @@
         <pb n="[145]"/>
         <p/>
         <gap unit="graphic" n="pic145"/>
-        
+
         <p>I must say we were all astounded. I never saw such a resemblance. It was astonishing. The
           only person who did not appear interested was the man Padge, who had got the best
           arm-chair, and was puffing away at a foul pipe into the fireplace. After some little time
@@ -1511,7 +1544,7 @@
         <pb n="[147]"/>
         <p/>
         <gap unit="graphic" n="pic147"/>
-        
+
         <p><label>November 24.</label>-I went to town without a pocket-handkerchief. This is the
           second time I have done this during the last week. I must be losing my memory. Had it not
           been for this Daisy Mutlar business, I would have written to Mr. Burwin-Fosselton and told
@@ -1563,7 +1596,8 @@
           mind pretty freely about Padge. Gowing said he had met him only once before that evening.
           He had been introduced by a friend, and as he (Padge) had "stood" a good dinner. Gowing
           wished to show him some little return. Upon my word. Gowing's coolness surpasses all
-          belief. Lupin came in before I could reply, and Gowing unfortunately enquired <pb n="152"/> after Daisy Mutlar. Lupin shouted: "Mind your own business, sir!" and bounced out of
+          belief. Lupin came in before I could reply, and Gowing unfortunately enquired <pb n="152"
+          /> after Daisy Mutlar. Lupin shouted: "Mind your own business, sir!" and bounced out of
           the room, slamming the door. The remainder of the night was Daisy Mutlar-Daisy
           Mutlar-Daisy Mutlar. Oh dear!</p>
         <p><label>November 26, Sunday.</label>-The curate preached a very good sermon to-day-very
@@ -1589,9 +1623,10 @@
           writer of these lines. The dandy horse of past days has been known to overtake the
             <hi>slow coach</hi>.</p>
         <p>"Do I make myself understood?</p>
-        <p>"Very well, then! Permit me, Mr. Pooter, to advise you to accept the <foreign>verb. sap.</foreign>
-          Acknowledge your defeat, and take your whipping gracefully: for remember you threw down
-          the glove, and I cannot claim to be either mentally or physically a <hi>coward!</hi></p>
+        <p>"Very well, then! Permit me, Mr. Pooter, to advise you to accept the <foreign>verb.
+            sap.</foreign> Acknowledge your defeat, and take your whipping gracefully: for remember
+          you threw down the glove, and I cannot claim to be either mentally or physically a
+            <hi>coward!</hi></p>
         <p>"<foreign>Revenons à nos moutons.</foreign></p>
         <p>"Our lives run in different grooves. I live for MY ART-THE STAGE. Your life is devoted to
           commercial pursuits-'A Life among Ledgers.' My books are of different metal. Your life in
@@ -1601,8 +1636,8 @@
         <p>"I have registered a vow to mount the steps of fame. I may crawl, I may slip, I may even
           falter (we all are weak), but <hi>reach the top rung of the ladder I will!!!</hi> When
           there, <pb n="154"/> my voice shall be heard, for I will shout to the multitudes below:
-            '<foreign>Vici!</foreign>' For the present I am only an amateur, and my work is unknown, forsooth,
-          save to a party of friends, with here and there an enemy.</p>
+            '<foreign>Vici!</foreign>' For the present I am only an amateur, and my work is unknown,
+          forsooth, save to a party of friends, with here and there an enemy.</p>
         <p>"But, Mr. Pooter, let me ask you, 'What is the difference between the amateur and the
           professional?'</p>
         <p>"None!!!</p>
@@ -1807,7 +1842,8 @@
           Gowing suddenly seized all the parsley off the cold mutton, and threw it full in my face.
           I looked daggers at Gowing, who replied: "I say, it's no good trying to look indignant,
           with your hair full of parsley." I rose from the table, and insisted that a stop should be
-          put to this foolery at once. Frank Mutlar shouted: "Time, gentlemen, please! time!" <pb n="173"/> and turned out the gas, leaving us in absolute darkness.</p>
+          put to this foolery at once. Frank Mutlar shouted: "Time, gentlemen, please! time!" <pb
+            n="173"/> and turned out the gas, leaving us in absolute darkness.</p>
         <p>I was feeling my way out of the room, when I suddenly received a hard intentional punch
           at the back of my head. I said, loudly: "Who did that?" There was no answer; so I repeated
           the question, with the same result. I struck a match, and lighted the gas. They were all
@@ -1921,8 +1957,8 @@
           mind, for it is anxiety of the right sort. That reminded me that I had forgotten to speak
           to Lupin about the letter I received from Mr. Mutlar, senr. I broached the subject to
           Lupin in the evening, having first consulted Carrie. Lupin was riveted to the
-            <title>Financial News</title>, as if he had been a born capitalist, and I said: "Pardon me a
-          moment, Lupin, how is it you have not been to the Mutlars any day this week?"</p>
+            <title>Financial News</title>, as if he had been a born capitalist, and I said: "Pardon
+          me a moment, Lupin, how is it you have not been to the Mutlars any day this week?"</p>
         <p>Lupin answered: "I told you! I cannot stand old Mutlar."</p>
         <p>I said: "Mr. Mutlar writes to me to say pretty plainly that he cannot stand you!"</p>
         <p>Lupin said: "Well, I like his cheek in writing to <hi>you</hi>. I'll find out if his
@@ -1954,7 +1990,7 @@
           Chlorates</hi>."</p>
         <p/>
         <gap unit="graphic" n="punch96-97"/>
-        
+
         <p><label>January 21.</label>-I am very much concerned at Lupin having started a pony-trap.
           I said: "Lupin, are you justified in this outrageous extravagance?" Lupin replied: "Well,
           one must get to the City somehow. I've only hired it, and can give it up any time I like."
@@ -2011,9 +2047,10 @@
           you to discover who are your <hi>true</hi> friends."</p>
         <p>I said such an observation was unworthy of him. To make matters worse, in came Gowing,
           who gave Cummings a violent slap on the back, and said: "Hulloh! Have you seen a ghost?
-          You look scared to death, like Irving in <title>Macbeth</title>." I said: "Gently, Gowing, the
-          poor fellow has been very ill." Gowing roared with laughter and said: "Yes, and you look
-          it, too." Cummings quietly said: "Yes, and I feel it too-not that I suppose you care."</p>
+          You look scared to death, like Irving in <title>Macbeth</title>." I said: "Gently, Gowing,
+          the poor fellow has been very ill." Gowing roared with laughter and said: "Yes, and you
+          look it, too." Cummings quietly said: "Yes, and I feel it too-not that I suppose you
+          care."</p>
         <p>An awkward silence followed. Gowing said: "Never mind, Cummings, you and the missis come
           round to my place to-morrow, and it will cheer you up a bit; for we'll open a bottle of
           wine."</p>
@@ -2091,7 +2128,8 @@
           everybody. He shouted to respectable people who were walking quietly in the road to get
           out of the way; he flicked at the horse of an old man who was riding, causing it to rear;
           and, as I had to ride backwards, I was compelled to face a gang of roughs in a
-          donkey-cart, whom Lupin had chaffed, and who turned and followed us for nearly <pb n="196"/> a mile, bellowing, indulging in coarse jokes and laughter, to say nothing of
+          donkey-cart, whom Lupin had chaffed, and who turned and followed us for nearly <pb n="196"
+          /> a mile, bellowing, indulging in coarse jokes and laughter, to say nothing of
           occasionally pelting us with orange-peel.</p>
         <p>Lupin's excuse-that the Prince of Wales would have to put up with the same sort of thing
           if he drove to the Derby-was of little consolation to either Carrie or myself. Frank
@@ -2123,7 +2161,7 @@
           he would never go in a <pb n="198"/> hansom cab, nor would he enter a four-wheeler until
           the driver had first got on the box with his reins in his hands.</p>
         <gap unit="graphic" n=""/>
-        
+
         <p>On being introduced, Gowing, with his usual want of tact, said: "Any relation to 'Posh's
           three-shilling hats'?" Mr. Posh replied: "Yes; but please understand I don't try on hats
           myself. I take no <hi>active</hi> part in the business." I replied: "I wish I had a
@@ -2196,17 +2234,17 @@
           "Unsweetened," as he was advised it was the most healthy spirit. I had none in the house,
           but sent Sarah round to Lockwood's for some.</p>
         <p><label>February 20.</label>-The first thing that caught my <pb n="207"/> eye on opening
-          the <title>Standard</title> was-"Great Failure of Stock and Share Dealers! Mr. Job Cleanands
-          Absconded!" I handed it to Carrie, and she replied: "Oh! perhaps it's for Lupin's good. I
-          never did think it a suitable situation for him." I thought the whole affair very
-          shocking.</p>
+          the <title>Standard</title> was-"Great Failure of Stock and Share Dealers! Mr. Job
+          Cleanands Absconded!" I handed it to Carrie, and she replied: "Oh! perhaps it's for
+          Lupin's good. I never did think it a suitable situation for him." I thought the whole
+          affair very shocking.</p>
         <p>Lupin came down to breakfast, and seeing he looked painfully distressed, I said: "We know
           the news, my dear boy, and feel very sorry for you." Lupin said: "How did you know? who
-          told you?" I handed him the <title>Standard</title>. He threw the paper down, and said: "Oh, I
-          don't care a button for that! I expected that, but I did not expect this." He then read a
-          letter from Frank Mutlar, announcing, in a cool manner, that Daisy Mutlar is to be married
-          next month to Murray Posh. I exclaimed: "Murray Posh! Is not that the very man Frank had
-          the impudence to bring here last Tuesday week?" Lupin said: "Yes; the
+          told you?" I handed him the <title>Standard</title>. He threw the paper down, and said:
+          "Oh, I don't care a button for that! I expected that, but I did not expect this." He then
+          read a letter from Frank Mutlar, announcing, in a cool manner, that Daisy Mutlar is to be
+          married next month to Murray Posh. I exclaimed: "Murray Posh! Is not that the very man
+          Frank had the impudence to bring here last Tuesday week?" Lupin said: "Yes; the
             '<hi>Posh's-three-shilling-hats</hi>' chap."</p>
         <p>We all then ate our breakfast in dead silence.</p>
         <p>In fact, I could eat nothing. I was not only too worried, but I cannot and will not eat
@@ -2260,7 +2298,8 @@
           appearance. I said: "Well, Lupin, how about Mr. Perkupp?" Lupin commenced his song:
           "What's the matter with Perkupp? He's all right!" I felt instinc­tively my boy was
           engaged. I went to Mr. Perkupp, but I could not speak. He said: "Well, Mr. Pooter, what is
-          it?" I must have looked a fool, for all I could say was: "Mr. Perkupp, you are a <pb n="214"/> good man." He looked at me for a moment, and said: "No, Mr. Pooter,
+          it?" I must have looked a fool, for all I could say was: "Mr. Perkupp, you are a <pb
+            n="214"/> good man." He looked at me for a moment, and said: "No, Mr. Pooter,
             <hi>you</hi> are the good man; and we'll see if we cannot get your son to follow such an
           excellent example." I said: "Mr. Perkupp, may I go home? I cannot work any more
           to-day."</p>
@@ -2275,7 +2314,8 @@
           together, and who knows but in the course of time he may take great interest in our little
           home. That he may help me to put a nail in here or a nail in there, or help his dear
           mother to hang a picture. In the summer he may help us in our little garden with the
-          flowers, and assist us to paint the stands and pots. (By-the-by, I must get <pb n="215&#xA;216"/> in some more enamel paint.) All this I thought over and over again,
+          flowers, and assist us to paint the stands and pots. (By-the-by, I must get <pb
+            n="215&#xA;216"/> in some more enamel paint.) All this I thought over and over again,
           and a thousand happy thoughts beside. I heard the clock strike four, and soon after fell
           asleep, only to dream of three happy people. Lupin, dear Carrie, and myself.</p>
       </div>
@@ -2326,7 +2366,7 @@
           table.</p>
         <p/>
         <gap unit="graphic" n="pic222"/>
-        
+
         <p><label>April 16.</label>-The night of the East Acton Volunteer Ball. On my advice, Carrie
           put on the same dress that she looked so beautiful in at the Mansion <pb n="223"/> House,
           for it had occurred to me, being a military ball, that Mr. Perkupp, who, I believe, is an
@@ -2418,8 +2458,8 @@
           that he had seen no assault, and that people should not ride in cabs without money.</p>
         <p>We had to walk home in the pouring rain, nearly two miles, and when I got in I put down
           the conversation I had with the cabman, word for word, as I intend writing to the
-            <title>Telegraph</title> for the purpose of proposing that cabs should be driven only by men
-          under Government control, to prevent civilians <pb n="229"/> being subjected to the
+            <title>Telegraph</title> for the purpose of proposing that cabs should be driven only by
+          men under Government control, to prevent civilians <pb n="229"/> being subjected to the
           disgraceful insult and outrage that I had had to endure.</p>
         <p><label>April 17.</label>-No water in our cistern again. Sent for Putley, who said he
           would soon remedy that, the cistern being zinc.</p>
@@ -2444,7 +2484,8 @@
           breaking his back; and though I had my suspicions that Lupin was laughing, I assured
           Cummings that he had only run out to open the door to a friend he expected. Cummings said
           this was the second time he had been laid up, and we had never sent to enquire. I said I
-          knew nothing about it. Cummings said: "It was mentioned in the <title>Bicycle News</title>."</p>
+          knew nothing about it. Cummings said: "It was mentioned in the <title>Bicycle
+          News</title>."</p>
         <p><label>April 22.</label>-I have of late frequently noticed Carrie rubbing her nails a
           good deal with an instrument, and on asking her what she was doing, she replied: "Oh, I'm
           going in for manicuring. It's all the fashion now." I said: "I suppose Mrs. James
@@ -2535,7 +2576,7 @@
         <pb n="239"/>
         <p/>
         <gap unit="graphic" n="pic239"/>
-        
+
         <pb n="240"/>
         <p>In this I was mistaken, for he was not at all particular in several of his remarks after
           dinner. In fact I was so ashamed of one of his observations that I took the opportunity to
@@ -2567,7 +2608,8 @@
         <p><label>April 29.</label>-I am getting quite accustomed to being snubbed by Lupin, and I
           do not mind being sat upon by Carrie, because I think she has a certain amount of right to
           do so; but I do think it hard to be at once snubbed by wife, son, and both my guests.</p>
-        <p>Gowing and Cummings had dropped in during the evening, and I suddenly remembered an <pb n="242"/> extraordinary dream I had a few nights ago, and I thought I would tell them
+        <p>Gowing and Cummings had dropped in during the evening, and I suddenly remembered an <pb
+            n="242"/> extraordinary dream I had a few nights ago, and I thought I would tell them
           about it. I dreamt I saw some huge blocks of ice in a shop with a bright glare behind
           them. I walked into the shop and the heat was overpowering. I found that the blocks of ice
           were on fire. The whole thing was so real and yet so supernatural I woke up in a cold
@@ -2631,7 +2673,7 @@
           Columbus and Stephenson had been orthodox, there would neither have been the discovery of
           America nor the steam-engine." There was quite a silence.</p>
         <gap unit="graphic" n=""/>
-        
+
         <p>It appeared to me that such teaching was absolutely dangerous, and yet I felt-in fact we
           must all have felt-there was no answer to the argument. A little later on, Mrs. Purdick,
           who is Franching's sister and also acted as hostess, rose from the table, and Mr. Huttle
@@ -2874,7 +2916,7 @@
           here, dear, and listen to this."</p>
         <p/>
         <gap unit="graphic" n="pic270"/>
-        
+
         <p>He detached his chronometer from the chain and made his watch strike six.</p>
         <p>To our horror, the child snatched it from his hand and bounced it down upon the ground
           like one would a ball.</p>
@@ -2897,8 +2939,8 @@
           nothing, and as I heard the 'bus coming, I left with a hurried kiss-a little too hurried,
           perhaps, for my upper lip came in contact with Carrie's teeth and slightly cut it. It was
           quite painful for an hour afterwards. When I came home in the evening I found Carrie
-          buried in a book on Spiritualism, called <title>There is no Birth</title>, by <pb n="272"/>
-          Florence Singleyet. I need scarcely say the book was sent her to read by Mrs. James, of
+          buried in a book on Spiritualism, called <title>There is no Birth</title>, by <pb n="272"
+          /> Florence Singleyet. I need scarcely say the book was sent her to read by Mrs. James, of
           Sutton. As she had not a word to say outside her book, I spent the rest of the evening
           altering the stair-carpets, which are beginning to show signs of wear at the edges.</p>
         <p>Mrs. James arrived and, as usual, in the evening took the entire management of
@@ -2909,10 +2951,10 @@
           it, I would not care. As I stopped it in the days gone by, I determined to do so now.</p>
         <p>I said: "I am very sorry Mrs. James, but I totally disapprove of it, apart from the fact
           that I receive my old friends on this evening."</p>
-        <p>Mrs. James said: "Do you mean to say you haven't read <title>There is no Birth?</title> I said:
-          "No, and I have no intention of doing so." Mrs. James seemed surprised and said: "All the
-          world is going mad over the book." I responded rather cleverly: "Let it. There will be one
-          sane man in it, at all events."</p>
+        <p>Mrs. James said: "Do you mean to say you haven't read <title>There is no Birth?</title> I
+          said: "No, and I have no intention of doing so." Mrs. James seemed surprised and said:
+          "All the world is going mad over the book." I responded rather cleverly: "Let it. There
+          will be one sane man in it, at all events."</p>
         <pb n="273"/>
         <p>Mrs. James said she thought I was very unkind, and if people were all as prejudiced as I
           was, there would never have been the electric telegraph or the telephone.</p>
@@ -2929,7 +2971,8 @@
           was willing to be convinced.</p>
         <p>I firmly declined to take any part in it, with the result that my presence was ignored. I
           left the three sitting in the parlour at a small round table which they had taken out of
-          the drawing-room. I walked into the hall with the ultimate intention of taking <pb n="274"/> a little stroll. As I opened the door, who should come in but Gowing!</p>
+          the drawing-room. I walked into the hall with the ultimate intention of taking <pb n="274"
+          /> a little stroll. As I opened the door, who should come in but Gowing!</p>
         <p>On hearing what was going on, he proposed that we should join the circle and he would go
           into a trance. He added that he <hi>knew</hi> a few things about old Cummings, and would
             <hi>invent</hi> a few about Mrs. James. Knowing how dangerous Gowing is, I declined to
@@ -2972,7 +3015,7 @@
         <pb n="[277]"/>
         <p/>
         <gap unit="graphic" n="pic277"/>
-        
+
         <p><label>June 3.</label>-The laundress called, and said she was very sorry about the
           handkerchiefs, and returned ninepence. I said, as the colour was completely washed out and
           the handkerchiefs quite spoiled, ninepence was not enough. Carrie replied that the two
@@ -3093,7 +3136,8 @@
           never loses by a good address, and, to use his own expression, Brickfield Terrace is a bit
           "off." Whether he means it is "far off" I do not know. I have long since given up trying
           to understand his curious expressions. I said the neighbourhood had always been good
-          enough for his parents. His reply was: "It is no question of being good or bad. There <pb n="288"/> is no money in it, and I am not going to rot away my life in the suburbs."</p>
+          enough for his parents. His reply was: "It is no question of being good or bad. There <pb
+            n="288"/> is no money in it, and I am not going to rot away my life in the suburbs."</p>
         <p>We are sorry to lose him, but perhaps he will get on better by himself, and there may be
           some truth in his remark that an old and a young horse can't pull together in the same
           cart.</p>
@@ -3102,16 +3146,17 @@
           help-youth.</p>
         <p><label>July 2.</label>-Cummings called, looking very pale, and said he had been very ill
           again, and of course not a single friend had been near him. Carrie said she had never
-          heard of it, whereupon he threw down a copy of the <title>Bicycle News</title> on the table,
-          with the following paragraph:-"We regret to hear that that favourite old roadster, Mr.
-          Cummings ('Long' Cummings), has met with what might have been a serious accident in Rye
-          Lane. A mischievous boy threw a stick between the spokes of one of the back wheels, and
-          the machine overturned, bringing our brother tricyclist heavily to the ground. Fortunately
-          he was more frightened than hurt, but we missed his merry face at the dinner at Chingford,
-          where they turned up in good numbers. 'Long' <pb n="289"/> Cummings' health was proposed
-          by our popular Vice, Mr. Westropp, the prince of bicyclists, who in his happiest vein said
-          it was a case of '<hi>Cumming</hi>(s) thro' the <hi>Rye</hi>, but fortunately there was
-          more <hi>wheel</hi> than <hi>woe</hi>,' a joke which created roars of laughter."</p>
+          heard of it, whereupon he threw down a copy of the <title>Bicycle News</title> on the
+          table, with the following paragraph:-"We regret to hear that that favourite old roadster,
+          Mr. Cummings ('Long' Cummings), has met with what might have been a serious accident in
+          Rye Lane. A mischievous boy threw a stick between the spokes of one of the back wheels,
+          and the machine overturned, bringing our brother tricyclist heavily to the ground.
+          Fortunately he was more frightened than hurt, but we missed his merry face at the dinner
+          at Chingford, where they turned up in good numbers. 'Long' <pb n="289"/> Cummings' health
+          was proposed by our popular Vice, Mr. Westropp, the prince of bicyclists, who in his
+          happiest vein said it was a case of '<hi>Cumming</hi>(s) thro' the <hi>Rye</hi>, but
+          fortunately there was more <hi>wheel</hi> than <hi>woe</hi>,' a joke which created roars
+          of laughter."</p>
         <p>We all said we were very sorry, and pressed Cummings to stay to supper. Cummings said it
           was like old times being without Lupin, and he was much better away.</p>
         <p><label>July 3, Sunday.</label>-In the afternoon, as I was looking out of the parlour
@@ -3159,7 +3204,7 @@
         <pb n="292"/>
         <p/>
         <gap unit="graphic" n="pic292"/>
-        
+
         <p>We were introduced to Miss Posh, whom Lupin called "Lillie Girl," as if he had known her
           all her life. She was very tall, rather plain, and I thought she was a little painted
           round the eyes. I hope I am wrong; but she had such fair hair, and yet her eyebrows were
