@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hard Cash : ELTec edition</title>
+                <title>Hard Cash. A matter of fact romance : ELTec edition</title>
                 <author ref="viaf:44314913">Reade, Charles (1814-1884).</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
@@ -24,7 +24,10 @@
                     </respStmt></bibl>
                 <bibl type="firstEdition" n="B579"><title>Hard Cash</title><author>Charles
                         Reade</author><publisher>London: Sampson
-                    Low</publisher><date>1863</date></bibl>
+                    Low</publisher><date>1863</date></bibl><bibl type="printSource">
+                       <title>Hard cash. A matter of fact romance. Library Edition.</title> 
+                        <publisher>London: Chatto and Windus, Piccadilly.</publisher><date>1895</date><ref target="ia:hardcashmatterof0000read.pdf"/>
+                    </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -35,7 +38,9 @@
                 <language ident="eng">English</language>
             </langUsage>
             <textClass>
-                <keywords><term>canonical</term></keywords>
+                <keywords>
+                    <term>canonical</term>
+                </keywords>
             </textClass>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -21638,7 +21643,9 @@
         </body>
         <back>
             <div type="notes">
-                <note xml:id="ENG18630_N2">There was at this time a prejudice against weight, which
+                <note xml:id="ENG18630_N1">This slang term is not quite accurate as applied to me. Without
+                    sensation there can be no interest: but my plan is to mix a little character and a little philosophy with the sensational element.
+                </note><note xml:id="ENG18630_N2">There was at this time a prejudice against weight, which
                     has yielded to experience</note>
                 <note xml:id="ENG18630_N3">Oh where, <hi>and</hi> oh where, <hi>was</hi> her Lindley
                     Murray gone?</note>

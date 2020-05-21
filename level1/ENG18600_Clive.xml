@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18600" xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18600"
+    xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
@@ -32,7 +34,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                 </availability>
                 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                
+
             </publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource"><title>Why Paul Ferroll Killed His Wife : VWWP edition
@@ -41,21 +43,32 @@
                         IN</pubPlace><idno>VAB7194</idno></bibl>
                 <bibl type="printSource" n="B7604"><title>Why Paul Ferroll Killed His
                         Wife</title><author>Clive, Caroline, 1801-1873</author><publisher>Saunders,
-                        Otley, and Co. </publisher><pubPlace>London </pubPlace><date when="1860">1860</date></bibl>
+                        Otley, and Co. </publisher><pubPlace>London </pubPlace><date when="1860"
+                        >1860</date>
+                <ref target="bod:600060055.pdf"></ref></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
-        <profileDesc><langUsage>
+        <profileDesc>
+            <langUsage>
                 <language ident="eng">English</language>
-            </langUsage><textClass><keywords><term>Sensation Novel</term></keywords></textClass><textDesc>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Sensation Novel</term>
+                </keywords>
+            </textClass>
+            <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
-            </textDesc></profileDesc>
-        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-05-19">Add text classifications from Bassett</change>
             <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-07-23">LB convert to ELTeC-1</change>
             <change when="2010-09-03">elizabethmunson: Added genre term</change>
@@ -408,7 +421,8 @@
                     those maxims; you are in a very different place from your nunnery. Don’t make
                     yourself ridiculous.”</p>
                 <p>The young girl coloured excessively; she was too young to bear being ridiculous,
-                    too, fond of her habitual teachers to fancy <emph>they</emph><pb n="23" xml:id="VAB7194-024"/> could be misinformed. She was perplexed, and rising,
+                    too, fond of her habitual teachers to fancy <emph>they</emph><pb n="23"
+                        xml:id="VAB7194-024"/> could be misinformed. She was perplexed, and rising,
                     shrank away to the stupid lady, whose work she began admiring; and as long as no
                     one else heard her voice, contrived to keep up a dialogue.</p>
                 <p>“What a quaint little creature!” said Miss Chanson, “But now I’ll do my part to
@@ -436,7 +450,8 @@
                 <p>“I should like to hear Frère du Lap’s scholar very much,” said Laura.</p>
                 <p>“Should you?” said Elinor, looking up at her, unconscious of the sarcasm; and she
                     placed herself before the piano‐forte.</p>
-                <p>Now nature had made her a present of a voice, such as she gives very rarely:<pb n="25" xml:id="VAB7194-026"/>
+                <p>Now nature had made her a present of a voice, such as she gives very rarely:<pb
+                        n="25" xml:id="VAB7194-026"/>
                     <quote>
                         <l>“It were the bul‐bul, but his throat,</l>
                         <l>Tho’ sweet, ne’er uttered such a note.”</l>
@@ -469,7 +484,8 @@
                     voices in the world.”</p>
                 <p>“Yes, she did say so—that you would try to persuade me of it.”</p>
                 <p>“I don’t wish it to be thought of me that I would persuade any one to believe an
-                    untrue thing. Let us consider for a moment,” and<pb n="27" xml:id="VAB7194-028"/> he sat down beside her at the table, leaning upon it, and trying to look in
+                    untrue thing. Let us consider for a moment,” and<pb n="27" xml:id="VAB7194-028"
+                    /> he sat down beside her at the table, leaning upon it, and trying to look in
                     her face, which was bent over her work. “You have heard the music of this
                     evening?”</p>
                 <p>“Yes!”</p>
@@ -617,7 +633,8 @@
                 <p>“Could I think of more than one?” said Leslie, with a look of gentleness.</p>
                 <p>“And that one was of course absent,” said Laura.</p>
                 <pb n="36" xml:id="VAB7194-037"/>
-                <p>“Ah! I see,” said Leslie, affecting a little <foreign xml:lang="fre">pique</foreign>, “that I am little understood. But at this moment,” he
+                <p>“Ah! I see,” said Leslie, affecting a little <foreign xml:lang="fre"
+                        >pique</foreign>, “that I am little understood. But at this moment,” he
                     added, quieting his voice, “however that may be, we must run back to take up our
                     charge, for do you know what o’clock it is?”</p>
                 <p>Laura looked at her watch.</p>
@@ -709,7 +726,8 @@
                     are not tired now, are you? Will you come a little out of the way?”</p>
                 <p>Elinor assented, eagerly, wishing to atone for having been tired once to‐day.
                     Leslie went off the path, and she followed, till the bank became steep and very
-                    inconvenient. Then he held out his hand and she leaned<pb n="42" xml:id="VAB7194-043"/> upon it as if it had been a helping stick; she wanted
+                    inconvenient. Then he held out his hand and she leaned<pb n="42"
+                        xml:id="VAB7194-043"/> upon it as if it had been a helping stick; she wanted
                     it again, up a few steep stones in the bank, and when she was at the top of
                     those she came upon a sight which made her pluck away her hand altogether to
                     fold both in speechless delight. The brook just in front of her came down under
@@ -753,7 +771,8 @@
                 <p>“Why, so it seems to me,” said he, with a candid tone.</p>
                 <p>Elinor was silent; he was no longer in haste to proceed, he lingered with her,
                     teaching her that pleasure was her lawful guide; and when, at last, they went
-                    forward, moved as slowly as she was inclined to move and<pb n="45" xml:id="VAB7194-046"/> wore away the time, so that when they got back to the
+                    forward, moved as slowly as she was inclined to move and<pb n="45"
+                        xml:id="VAB7194-046"/> wore away the time, so that when they got back to the
                     house, Laura had, long before, been compelled to give up waiting for them; had
                     gone in alone, had been forced to preside over luncheon and to eat with the
                     rest, or affect to eat, and after delaying to the utmost, had been driven from
@@ -792,7 +811,8 @@
                     like her, absorbed by one object, but that object was not Laura Chanson.</p>
                 <p>Little incidents of this kind altered the position of the three persons whom we
                     have presented to the reader. From a forlorn stranger, Elinor began to feel
-                    herself familiarised with persons and things, and to be<pb n="48" xml:id="VAB7194-049"/> aware that many were more favourable to her than the
+                    herself familiarised with persons and things, and to be<pb n="48"
+                        xml:id="VAB7194-049"/> aware that many were more favourable to her than the
                     mistress of the house, whom she had looked upon as about to take the place of
                     the Superior in her Convent.</p>
                 <p>Leslie, who had thought of nothing but amusing himself for a month or so,
@@ -806,7 +826,8 @@
                     was difficult to keep up the appearance of interest and tender protection which
                     had been their first relation to each other. She justified her altered feelings
                     to herself by saying that severity was necessary to teach Elinor something of
-                    the ways of the world she had to move in, and to correct<pb n="49" xml:id="VAB7194-050"/> the mistakes into which her Convent life led her;
+                    the ways of the world she had to move in, and to correct<pb n="49"
+                        xml:id="VAB7194-050"/> the mistakes into which her Convent life led her;
                     and, in fact, Elinor had great need of superintendence; for with all her early
                     impressions wrecking around her, she did not know to what to cling, or where to
                     stop, or how go back. They had laughed at her prudery, and in the innocence of
@@ -946,7 +967,8 @@
                     the key.</p>
                 <p>Elinor had a guiltless conscience in her favour, and recovered first; but she was
                     very unhappy, and being ignorant as to what she had done wrong she resolved
-                    first to beg Mr. Leslie’s pardon, and then to entreat his<pb n="58" xml:id="VAB7194-059"/> assistance in explaining to her the course of conduct
+                    first to beg Mr. Leslie’s pardon, and then to entreat his<pb n="58"
+                        xml:id="VAB7194-059"/> assistance in explaining to her the course of conduct
                     which would be doing right. She stole up the back staircase to her room; bathed
                     her face as she had often done in the pupils’ room in the Convent, when she had
                     been scolded and wanted to avoid the imputation of resenting the scolding; and
@@ -989,7 +1011,8 @@
                     along the road in the park.</p>
                 <p>Without the least hesitation. or embarrassment, Elinor came forward from the
                     trees, and caught his sight, making a motion inviting him to speak to her. He
-                    immediately rode up to the place where she stood, and<pb n="61" xml:id="VAB7194-062"/> dismounting, eagerly told her what he really had
+                    immediately rode up to the place where she stood, and<pb n="61"
+                        xml:id="VAB7194-062"/> dismounting, eagerly told her what he really had
                     done, and a great deal more which he claimed to have done for her. Elinor was
                     more and more troubled, and as soon as he would hear her, professed her regret
                     at having thus employed him, in so penitent a manner, that the tears again rose
@@ -1145,7 +1168,8 @@
                     nothing about her, beyond that I must take care of her. She has not a penny, and
                     I am afraid is whimmy.”</p>
                 <p>Leslie was vexed at the Squire’s caution. Laura’s would have been nothing, had
-                    not her brother’s confirmed it. There must be some‐<pb n="71" xml:id="VAB7194-072"/> thing, as both had made a similar observation. Yet,
+                    not her brother’s confirmed it. There must be some‐<pb n="71"
+                        xml:id="VAB7194-072"/> thing, as both had made a similar observation. Yet,
                     when he met Elinor before breakfast next morning, walking in the garden, and she
                     told him that she had hoped to see him there, and it was therefore she had come,
                     he forgot to ask himself if such child‐like simplicity could be feigned, and
@@ -1203,7 +1227,8 @@
                     free to go whithersoever his wishes directed him—and getting up one morning at
                     dawn, from a bed where he could not sleep, he put up a portmanteau before his
                     servant was awake, and by the time the labourers came to their work, was driving
-                    to the little neighbouring town where the coach changed horses at seven<pb n="75" xml:id="VAB7194-076"/> o’clock. Nobody asked, and nobody knew where
+                    to the little neighbouring town where the coach changed horses at seven<pb
+                        n="75" xml:id="VAB7194-076"/> o’clock. Nobody asked, and nobody knew where
                     he was going: he went quite alone, and by one change of vehicle and another
                     reached the neighbourhood of Chanson Wood by nightfall.</p>
                 <p>He would not on any account have been recognised; he was ashamed of returning so
@@ -1309,7 +1334,8 @@
                     on the summit of ambition then—but there is an interval between that time and
                     this, in which, oh! Elinor! your quiet heart must beat—beat as mine does now—in
                     which you must know the agony of my adoration—in which we must make life all
-                    diamond‐light, if it be but for the space of a moon’s change! Ex‐<pb n="82" xml:id="VAB7194-083"/> quisite calm face, when will you lighten thus for
+                    diamond‐light, if it be but for the space of a moon’s change! Ex‐<pb n="82"
+                        xml:id="VAB7194-083"/> quisite calm face, when will you lighten thus for
                     me?”</p>
                 <p>Next day, he came again, and saw her again. It was, as the village bells told
                     him, a Saint’s day, and Elinor, whom no one helped to perform her usual
@@ -1358,7 +1384,8 @@
                 <p>The intense pleasure of watching, and appropriating her solitary ways and
                     movements, had gone on long past mid‐day, when Leslie heard a step coming along
                     the rough track which led from the wood walk to this unfrequented place. It was
-                    only a servant, who, approaching Elinor, delivered some message<pb n="85" xml:id="VAB7194-086"/> and went away again; and she, in consequence it
+                    only a servant, who, approaching Elinor, delivered some message<pb n="85"
+                        xml:id="VAB7194-086"/> and went away again; and she, in consequence it
                     seemed, collected the materials of her employment, and left her seat probably to
                     obey a summons to the house. Leslie was vexed, first at losing his amusement,
                     and next at the way in which it was lost.</p>
@@ -1372,7 +1399,8 @@
                     path, and stopping to watch, perceived it was Elinor coming again, and in haste,
                     to the accustomed spot. Leslie was in front of her, and accident gave him a
                     better place to see her than he had ventured to choose for himself; his fear was
-                    that she should also perceive him, but she evidently<pb n="86" xml:id="VAB7194-087"/> was in a mood so preoccupied as not readily to have
+                    that she should also perceive him, but she evidently<pb n="86"
+                        xml:id="VAB7194-087"/> was in a mood so preoccupied as not readily to have
                     her attention caught by outer objects. All her humble tranquillity was gone. As
                     soon as she reached her fallen tree, she sank down upon it, and leaning both
                     hands upon one of the projecting branches, hid her face, and wept bitterly. She
@@ -1529,7 +1557,8 @@
                     he saw the Squire and Laura ride past his lodging, and thus knew they were out
                     of the way; and then he resolved to go himself to the house, in the peasant’s
                     dress he had worn in the morning, and there to put his answer into the hands of
-                    a labouring clod in the gardens. This he did, begging him to take “Mr. Davis<pb n="96" xml:id="VAB7194-097"/> tailior’s acquoint for the French lady, up
+                    a labouring clod in the gardens. This he did, begging him to take “Mr. Davis<pb
+                        n="96" xml:id="VAB7194-097"/> tailior’s acquoint for the French lady, up
                     speedy to the house.”</p>
                 <p>The obliging clod complied, and Leslie returned to his lodging, and early in the
                     evening to the woods, expecting the guileless creature who put such confidence
@@ -1777,7 +1806,8 @@
                     fallen tree, and trusted it would be found by Leslie, should she not meet with
                     him.</p>
                 <p>Leslie had been there early—as early as he thought it possible the usual morning
-                    ride or drive of the others would set Elinor at liberty<pb n="112" xml:id="VAB7194-113"/> —and the longer she delayed, the stronger the fear
+                    ride or drive of the others would set Elinor at liberty<pb n="112"
+                        xml:id="VAB7194-113"/> —and the longer she delayed, the stronger the fear
                     became that he should not see her, so much the intenser grew his desire to do
                     so, and the regard in which he held the object of it.</p>
                 <p>“Innocent and artless Elinor!” thought he; “with a whole heart to give, a whole
@@ -2075,7 +2105,8 @@
                     not comprehend the reproach, and as Laura was habitually out of temper with her,
                     taking it as an instance of what she must meekly bear from her hostess, rather
                     than as a true accusation against herself.</p>
-                <p>It influenced her conduct however, towards Leslie, for under Laura’s eye she<pb n="132" xml:id="VAB7194-133"/> could not act with the total unconsciousness
+                <p>It influenced her conduct however, towards Leslie, for under Laura’s eye she<pb
+                        n="132" xml:id="VAB7194-133"/> could not act with the total unconsciousness
                     of her behaviour hitherto; she was obliged to act by rule, for she had no
                     feeling of having transgressed a woman’s duty, and therefore no impulse to
                     direct her. There was, however, always such quiet maidenliness about her, that
@@ -2088,7 +2119,8 @@
                     if she did not offer apologies to her kind friend Leslie, had no spirit or
                     inclination to laugh or talk with Sir Peter, and was almost as silent to him as
                     she had been to Leslie, the first time he sat by her at breakfast.</p>
-                <p>In this mood, the amusements of the day were arranged. Men have a way of<pb n="133" xml:id="VAB7194-134"/> employing themselves at amusements, which
+                <p>In this mood, the amusements of the day were arranged. Men have a way of<pb
+                        n="133" xml:id="VAB7194-134"/> employing themselves at amusements, which
                     causes their feelings to become secondary to their sports, and thus Leslie,
                     angry, even anxious as he was, yet took it as a matter of course that he should
                     join heart and soul in the pastime suggested by Sir Peter, and accepted by the
@@ -2115,7 +2147,8 @@
                     and her spirits froze under the unsympathetic influence. To‐day, especially she
                     was shut into herself, and she mechanically pursued the occupation before her,
                     so far pleased that Laura did not disturb her in it.</p>
-                <p>At length the cheerfulest of sounds broke the silence, the distant tongue of<pb n="135" xml:id="VAB7194-136"/> hounds, rising and falling, bursting out and
+                <p>At length the cheerfulest of sounds broke the silence, the distant tongue of<pb
+                        n="135" xml:id="VAB7194-136"/> hounds, rising and falling, bursting out and
                     subsiding. It was a natural piano and forte exactly suiting woods and dingles,
                     and inspiring the ear, which heard them for the first time, with the delight of
                     an unexplored pleasure. Elinor, finely strung to sounds, took in these with a
@@ -2144,7 +2177,8 @@
                     them, but would only act like magical music, applauding their better guesses,
                     but not explaining wherein the achievement lay. They were maddened to accomplish
                     it, by his voice, and at last the hound which first came up put himself over the
-                    edge, where there seemed no hold, and whimpering at<pb n="137" xml:id="VAB7194-138"/> what he was about to venture, passed down the rock a
+                    edge, where there seemed no hold, and whimpering at<pb n="137"
+                        xml:id="VAB7194-138"/> what he was about to venture, passed down the rock a
                     little way, seemed to find a point where the leap was possible, and presently
                     breaking out into music again, was seen emerging almost perpendicularly on the
                     other side of the chasm, and away in full cry on the opposite bank. Once taught
@@ -2157,7 +2191,8 @@
                     pace on the track the rider judged by the sound, would bring him straight to the
                     hounds.</p>
                 <p>As he neared the chasm, he caught a glance of the horsemen who were now on the
-                    other side; he checked the speed of his horse a little, encouraged him by his<pb n="138" xml:id="VAB7194-139"/> voice and hand, and then rode steadily
+                    other side; he checked the speed of his horse a little, encouraged him by his<pb
+                        n="138" xml:id="VAB7194-139"/> voice and hand, and then rode steadily
                     towards the leap. Laura, aware of the danger, cried to him to turn up the
                     stream, but though he saw the difficulty, and though he had no wish to be
                     killed, he was at the age, when it seems a matter of course <emph>not</emph> to
@@ -2186,7 +2221,8 @@
                     “the waves used to dash against the garden wall, but could not come in, and we
                     all liked to be near them. But once the waves broke over, and then we all ran
                     away.”</p>
-                <p>Leslie laughed, and looked investigatingly at Elinor’s face which had blushed<pb n="140" xml:id="VAB7194-141"/> brightly, as she replied to his imperative
+                <p>Leslie laughed, and looked investigatingly at Elinor’s face which had blushed<pb
+                        n="140" xml:id="VAB7194-141"/> brightly, as she replied to his imperative
                     question, and he was thinking why she blushed. Laura was little pleased at this
                     effect of Elinor’s simplicity, and seeing him inclined to turn his attention
                     entirely to her young companion, suddenly declared herself tired, and said they
@@ -2210,7 +2246,8 @@
                     said her brother.</p>
                 <p>The word went like a dagger through her heart, but she smiled as though the thing
                     were beneath notice, and said merely, “Oh! <emph>that</emph> little girl! he is
-                    good natured to her.” And Mr. Chanson was willing to<pb n="142" xml:id="VAB7194-143"/> adopt her view of the subject. Nevertheless he would
+                    good natured to her.” And Mr. Chanson was willing to<pb n="142"
+                        xml:id="VAB7194-143"/> adopt her view of the subject. Nevertheless he would
                     have been glad the expected word should have been said, which plighted his guest
                     and his sister; and one morning as they stood together, after breakfast, in
                     front of a great dahlia bed, he broke out into words.</p>
@@ -2240,7 +2277,8 @@
                     put yourself in, you would surely have liked it.”</p>
                 <p>“No, no, it’s not the place for me; I was young once, but I never could hear
                     anybody talk above ten minutes without falling asleep, and what should I do
-                    therefore in the House of Commons? I leave all that<pb n="144" xml:id="VAB7194-145"/> to the clever men and the fine gentlemen. It is not
+                    therefore in the House of Commons? I leave all that<pb n="144"
+                        xml:id="VAB7194-145"/> to the clever men and the fine gentlemen. It is not
                     in <emph>me</emph>.”</p>
                 <p>Mr. Chanson was pleased with himself for this successful exposition of the
                     advantages which an alliance with Laura held out, and when he saw Leslie in the
@@ -2318,7 +2356,8 @@
                 <p>The boy was piqued at this, to strain his efforts for better success, and it was
                     therefore with eagerness that he watched next morning, lest the promised walk
                     should escape him; but, Leslie also had his attention alive, and in order to
-                    give Elinor a good excuse for not going out, he made<pb n="149" xml:id="VAB7194-150"/> use of a means, which no object less interesting
+                    give Elinor a good excuse for not going out, he made<pb n="149"
+                        xml:id="VAB7194-150"/> use of a means, which no object less interesting
                     could have induced him to bring into play. This was a literary effort of his
                     own, a poem which he could willingly have read to a severe judge, who would have
                     treated it according to its own faults or merits; but very unwillingly to an
@@ -2426,7 +2465,8 @@
                     conveying home a lame horse, and instantly he suspected Elinor of being a party
                     to this pre‐arranged lameness of Rampage; and he resolved to know what it all
                     meant.</p>
-                <p>He followed the party who had walked forward into the glen, and expressing his<pb n="156" xml:id="VAB7194-157"/> admiration of the scene to Laura, said he
+                <p>He followed the party who had walked forward into the glen, and expressing his<pb
+                        n="156" xml:id="VAB7194-157"/> admiration of the scene to Laura, said he
                     should like to climb the right side of the valley, where the rocks were
                     steepest, and would join her again at the farthest outlet; but, if he should not
                     be arrived by the time they reached it, they were not to wait. Laura gave an
@@ -2453,7 +2493,8 @@
                 <p>Turning at once to the wood, Leslie strode along the path which led to the
                     quarry, with all the feelings of an injured man, and in a very short time had
                     reached the hill, the highest point of which contained the quarry. It was dotted
-                    with trees in natural clumps, growing from rocky ledges<pb n="158" xml:id="VAB7194-159"/> which broke out over the surface from top to bottom,
+                    with trees in natural clumps, growing from rocky ledges<pb n="158"
+                        xml:id="VAB7194-159"/> which broke out over the surface from top to bottom,
                     and among these the path wound, appearing and disappearing in its descent to the
                     level ground. He stood a moment at the bottom, feeling that his appearance in
                     pursuit of his rival would not wear a very dignified aspect, and while this
@@ -2510,7 +2551,8 @@
                     say, even to himself, there was.</p>
                 <p>Meantime, she was so unhappy that she sometimes rebelled against it; she
                     seriously thought she would return to her convent, and hide herself from a world
-                    where plainly nobody cared for her. When all her efforts<pb n="162" xml:id="VAB7194-163"/> to speak to Leslie, and to conciliate him,
+                    where plainly nobody cared for her. When all her efforts<pb n="162"
+                        xml:id="VAB7194-163"/> to speak to Leslie, and to conciliate him,
                     failed—when he persevered in mortifying her, and in affecting unconsciousness of
                     her presence, her heart rose quite full of tears, and seemed too swollen for her
                     bosom.</p>
@@ -2524,7 +2566,8 @@
                     imagine would best please her favoured guest. His poem she continually brought
                     forward till he dreaded the very mention of it. Every post, she remembered not
                     to forget her interest about the expected answer, and each time she expressed
-                    her conviction that the editor would only not know how to give it<pb n="163" xml:id="VAB7194-164"/> sufficient welcome. Leslie felt confident enough of
+                    her conviction that the editor would only not know how to give it<pb n="163"
+                        xml:id="VAB7194-164"/> sufficient welcome. Leslie felt confident enough of
                     that also, but the <foreign xml:lang="fre">pudeur</foreign> of composition (when
                     the author has written what he felt) made him shrink from so much talk about it.
                     It was the fourth morning after his estrangement from Elinor that the letters as
@@ -2611,7 +2654,8 @@
                     put me higher than I was before.”</p>
                 <p>“Indeed,” said Elinor, “I wanted to know the meaning.”</p>
                 <p>“Indeed no,” said Leslie; “you had something better in view. You acted from the
-                    impulses of your noble heart. How inferior I am—despicable. If I might ever<pb n="169" xml:id="VAB7194-170"/> reach to your height—nay, do hear me,
+                    impulses of your noble heart. How inferior I am—despicable. If I might ever<pb
+                        n="169" xml:id="VAB7194-170"/> reach to your height—nay, do hear me,
                     Elinor—I begin to know myself.”</p>
                 <p>“I know you are good and clever,” said Elinor.</p>
                 <p>“Good? alas! but I may become so. All good is possible in contact with such
@@ -2639,7 +2683,8 @@
                 <p>“So they say in your convent,” said Leslie, “but consider how many things were
                     told you there, which differ from what you have learned in the world. Think,
                     most precious Elinor, is it he who can tell, or you, whether you would be
-                    pleased at dwelling always where I dwell, at being<pb n="171" xml:id="VAB7194-172"/> as certain that my heart is full of you, as that you
+                    pleased at dwelling always where I dwell, at being<pb n="171"
+                        xml:id="VAB7194-172"/> as certain that my heart is full of you, as that you
                     say your daily prayers, at making my life, (and yours with mine) good and happy;
                     at knowing all I know, no secret ever between us, and if we have any trouble,
                     having it together, and knowing exactly the measure and weight of each other’s
@@ -2668,7 +2713,8 @@
                     Why should every fool know our precious secret?”</p>
                 <p>Elinor was glad to be allowed silence, she would have felt it a painful task, to
                     say anything so interesting to Mr. Chanson, to whom she never talked; or to
-                    Laura, of whom she was afraid; and she went out of<pb n="173" xml:id="VAB7194-174"/> that room full of a consciousness of the great thing
+                    Laura, of whom she was afraid; and she went out of<pb n="173"
+                        xml:id="VAB7194-174"/> that room full of a consciousness of the great thing
                     that had happened, yet apparently as much the same quiet Elinor, as it was
                     possible to be.</p>
                 <p>Leslie was equally self‐controlled, he wished beyond measure to keep his secret,
@@ -2741,7 +2787,8 @@
                     head, and quitted the room, after an encouraging glance at Elinor.</p>
                 <p>When he was gone, the agitation of the scene acted upon Elinor, and she could not
                     restrain her tears, while she tried to possess herself of Laura’s hand, but
-                    Laura’s efforts were exhausted; she drew away her hand <pb n="178" xml:id="VAB7194-179"/> as if it had come in contact with a fester, or a nest
+                    Laura’s efforts were exhausted; she drew away her hand <pb n="178"
+                        xml:id="VAB7194-179"/> as if it had come in contact with a fester, or a nest
                     of snakes, and forcing open the door to her bed‐room flung it behind her, and
                     fell on the floor by her bed, totally giddy and beside herself for a brief time.
                     In some people, their first thought under a sudden shock is, that the thing is
@@ -2844,7 +2891,8 @@
                     despised persons always presume on their own particular clear‐sightedness, and
                     say others may be taken in, but as for them it is impossible.”</p>
                 <p>“Heaven forbid, that it should happen to you!” said Laura, then hastily went on.
-                    “You talk so loftily about despising, and being despised, like one who knows<pb n="185" xml:id="VAB7194-186"/> there is no such word for him; but come, the
+                    “You talk so loftily about despising, and being despised, like one who knows<pb
+                        n="185" xml:id="VAB7194-186"/> there is no such word for him; but come, the
                     party is all assembled now I think.”</p>
                 <p>She moved a step forward, and so did Leslie, and saw that Elinor was standing
                     just within the door, and that the officious Sir Peter had offered her his arm
@@ -2857,7 +2905,8 @@
                     fallen useless, and now, friendly as Leslie might be, faithfully as he kept by
                     her side, he did but confirm her anguish by a behaviour which was so friendly,
                     merely because he had made her the confidant of his successful love for another.
-                    She could not play out her part to the end to‐day. She was obliged to<pb n="186" xml:id="VAB7194-187"/> complain of a headache before the walk was over, and
+                    She could not play out her part to the end to‐day. She was obliged to<pb n="186"
+                        xml:id="VAB7194-187"/> complain of a headache before the walk was over, and
                     sank into silence, which this excuse justified, and which with her throbbing
                     head and dry lips, it was impossible for her to avoid. When they reached home
                     again, she went straight to her room, and appeared no more, accepting Elinor’s
@@ -3029,7 +3078,8 @@
                     with her at nothing but their own spirits, and their own active frames.</p>
                 <p>There, as they coasted along a high bank with an irregular hedge on the crest,
                     Elinor’s eye was caught by something hounding about in the fern, and in a moment
-                    they saw it was a leveret which seemed at play so near them. Elinor paused<pb n="198" xml:id="VAB7194-199"/> to look, but Leslie saw how it was, and said
+                    they saw it was a leveret which seemed at play so near them. Elinor paused<pb
+                        n="198" xml:id="VAB7194-199"/> to look, but Leslie saw how it was, and said
                     it was caught in a noose, and the string was tightening round its neck.</p>
                 <p>“Oh! how cruel, how wicked!” said Elinor; “who could! loose it do, pray.” Leslie,
                     to obey Elinor, went up the bank and tried to lay hold of the leveret, which,
@@ -3086,7 +3136,8 @@
                     had unconsciously sought the least frequented parts; but some hours after they
                     first began their walk, the forest silence was disturbed by a distant voice,
                     uttering a loud “mark!” and then was fired a gun as distant, and before long
-                    both sounds came nearer; nay, they presently saw a towering<pb n="202" xml:id="VAB7194-203"/> pheasant hit by the discharge from the loud gun, and
+                    both sounds came nearer; nay, they presently saw a towering<pb n="202"
+                        xml:id="VAB7194-203"/> pheasant hit by the discharge from the loud gun, and
                     tumbling over and over in the air, fall with hanging wings, and dropped head,
                     out of sight in the underwood.</p>
                 <p>The next moment, Sir Peter Bicester, and a gamekeeper, and couple of beaters came
@@ -3222,7 +3273,8 @@
                 <p>“Mr. Chanson said I must go with him to see his greyhounds fed,” said Elinor;
                     “but I will not.”</p>
                 <p>“Oh! Mr. Chanson. Yes, you may go with him.”</p>
-                <p>“Miss Chanson also said I was to carry the hymn books to the school. She wants<pb n="212" xml:id="VAB7194-213"/> to show me how to teach them to sing. I will
+                <p>“Miss Chanson also said I was to carry the hymn books to the school. She wants<pb
+                        n="212" xml:id="VAB7194-213"/> to show me how to teach them to sing. I will
                     tell her I cannot do it.”</p>
                 <p>“No, no; you must do what she asks till you leave her altogether.”</p>
                 <p>“But you said I was to walk with you only.”</p>
@@ -3236,7 +3288,8 @@
                 <p>“<emph>You</emph> are a young man,” said Elinor, smiling; “am I to believe
                     you?”</p>
                 <p>“Oh! it is quite a different thing with me. What I say now, does not apply to me.
-                    Only I don’t want you. to let that puppy talk to you. He can, only mean<pb n="213" xml:id="VAB7194-214"/> mischief, and you had better be on your
+                    Only I don’t want you. to let that puppy talk to you. He can, only mean<pb
+                        n="213" xml:id="VAB7194-214"/> mischief, and you had better be on your
                     guard.”</p>
                 <p>“So the Reverend Mother said,” repeated Elinor; “and I will obey her and
                     you.”</p>
@@ -3280,7 +3333,8 @@
                     chanted that her mother, who led a usually secluded life, was invited by a very
                     great house to very great feast on a Sunday; and the mother went, not because
                     she thought and explained that there was no harm in it, but because the
-                    temptation was so strong. Laura had opportunities enough to melt<pb n="216" xml:id="VAB7194-217"/> down the impression which this fact made on her; nor
+                    temptation was so strong. Laura had opportunities enough to melt<pb n="216"
+                        xml:id="VAB7194-217"/> down the impression which this fact made on her; nor
                     did it, probably, in itself produce much effect, but her nature had that bias
                     which caused it to select and feed upon this and various similar incidents which
                     the tide of things presented to her, until at length led away by selfishness and
@@ -3341,7 +3395,8 @@
                 <p>“As how, is it not?”</p>
                 <p>“When you smoke, you walk out; when you walk out you can be met.”</p>
                 <p>“Nay, is that it? nice little girl!”</p>
-                <p>“I don’t know that it is <emph>that</emph>, but it would<pb n="220" xml:id="VAB7194-221"/> be easy to make the experiment. If it is so, and she
+                <p>“I don’t know that it is <emph>that</emph>, but it would<pb n="220"
+                        xml:id="VAB7194-221"/> be easy to make the experiment. If it is so, and she
                     likes you Peter, do take her with you to Ceylon. I use no concealment. I should
                     be glad if she were gone.”</p>
                 <p>“Thanks, thanks, dear cousin, but I can’t be quite so convenient as that, for I
@@ -3401,7 +3456,8 @@
                     attention went nervously to the clock, which ticked on so composedly, and would
                     not hasten towards half‐past nine. Nor even when the half‐hour had leisurely
                     lifted up its voice twice, to denote that it was come, did the outer bell sound
-                    for prayers, till another full minute had gone by; and yet<pb n="224" xml:id="VAB7194-225"/> further, several seconds, which seemed like hours (as
+                    for prayers, till another full minute had gone by; and yet<pb n="224"
+                        xml:id="VAB7194-225"/> further, several seconds, which seemed like hours (as
                     they do to a man under the surgeon’s hands, or hanging on the edge of a
                     precipice while relief is coming), passed by, before the butler threw open the
                     door, and announced, after the manner of butlers, “Prayers is ready.” Laura rose
@@ -3444,7 +3500,8 @@
                 <p>And now came Monday, the day on which the drawing, the needlework, the gardening,
                     the professional duties, if there be any, or the gun and the dogs, the fishing
                     rod and ride if there be none, are resumed after one day’s suspension. There has
-                    been the village church changing the disposal of the<pb n="227" xml:id="VAB7194-228"/> morning and afternoon from the six days’ course;
+                    been the village church changing the disposal of the<pb n="227"
+                        xml:id="VAB7194-228"/> morning and afternoon from the six days’ course;
                     there has been, perhaps, a different style of books read, an abstinence from
                     some favourite employment, and, at all events, there has been the sight of the
                     poor man’s holiday; twenty‐four hours, in short, in some way different from
@@ -3471,7 +3528,8 @@
                     her mind, its habits were not those which led her to be true with herself; hence
                     all was slurred and burred within, and she had a most imperfect view of what she
                     herself was doing. But at half‐past nine she descended clean as a white pebble
-                    from a running brook, neat as a rose‐bud still bound<pb n="229" xml:id="VAB7194-230"/> by its unfolding calyx; agreeable, attentive,
+                    from a running brook, neat as a rose‐bud still bound<pb n="229"
+                        xml:id="VAB7194-230"/> by its unfolding calyx; agreeable, attentive,
                     handsome; but within, there was a heart constantly conscious in its way of
                     beating that something was wrong; there was a dry mouth which disliked the
                     business of talking, and hated that of eating; there was the sense of hearing
@@ -3517,7 +3575,8 @@
                 <p>They did so, and at the end of that time, Laura said she must return to the
                     house. “Elinor, will you be so good as to go as far as the clerk’s, and ask him
                     to look in our pew for my prayer book? the one in vellum, you know, which my
-                    brother gave me. I forgot to bring it away, and I want<pb n="232" xml:id="VAB7194-233"/> to gum down the label on the back before it gets
+                    brother gave me. I forgot to bring it away, and I want<pb n="232"
+                        xml:id="VAB7194-233"/> to gum down the label on the back before it gets
                     rubbed off.”</p>
                 <p>“I can’t do that to‐night,” said Elinor.; “in the morning if you like.”</p>
                 <p>“Why not?” said Laura, turning full round upon her.</p>
@@ -3608,7 +3667,8 @@
                     vigour, excited a great smoke, and marched to the end of the avenue; here he
                     turned, and about mid‐way, the two young men met, and crossed each other, each
                     sending out a large gale of tobacco, and looking as happy as he could. How long
-                    this was to go on, Leslie did not like to conjecture but at all<pb n="238" xml:id="VAB7194-239"/> events he did not intend to leave the ground while
+                    this was to go on, Leslie did not like to conjecture but at all<pb n="238"
+                        xml:id="VAB7194-239"/> events he did not intend to leave the ground while
                     his rival occupied it, even though they should walk thus till morning. Sir Peter
                     it seemed was not so persevering, for before they came across each other a third
                     time, he stepped on one side of the path, and left the avenue by a wicket which
@@ -3635,7 +3695,8 @@
                 <p>“I forgot something,” said he.</p>
                 <p>“Did you,” said Leslie.</p>
                 <p>“Yes!” said Sir Peter, and again they passed each other, and Sir Peter proceeding
-                    to the end of the avenue, opened the gate, and went finally out. “What right<pb n="240" xml:id="VAB7194-241"/> has <emph>he</emph> to act dragon?” said the
+                    to the end of the avenue, opened the gate, and went finally out. “What right<pb
+                        n="240" xml:id="VAB7194-241"/> has <emph>he</emph> to act dragon?” said the
                     young man, as he returned home.</p>
                 <p>Next morning, Tuesday, Leslie and Miss Chanson were walking together through the
                     garden to the conservatory. Elinor looking from her window saw them, and was
@@ -3694,7 +3755,8 @@
                     pleasure, that Leslie, by seeming accident sat by another than Elinor at dinner,
                     and that when they were all assembled in the drawing‐room, he and Elinor seemed
                     to want subjects of conversation, and were grave and embarrassed in place of
-                    that joyful glee which Leslie’s face had so often<pb n="244" xml:id="VAB7194-245"/> assumed, to Laura’s anguish, when listening to, and
+                    that joyful glee which Leslie’s face had so often<pb n="244"
+                        xml:id="VAB7194-245"/> assumed, to Laura’s anguish, when listening to, and
                     talking with Elinor.</p>
                 <p>Wednesday was come, and now Laura had her last blow to strike, the one that must
                     undo her if it did not succeed. There was a feeling in the house about seeing
@@ -3707,7 +3769,8 @@
                     morrow. They were to drive together to the neighbouring town, and there to
                     separate, the two first to pursue their way to Mr. Chanson’s property, and the
                     young soldier to go on to London where his final preparations would be made.
-                    Leslie, in a doubtful state of mind, was looking out for offence and cause of<pb n="245" xml:id="VAB7194-246"/> unhappiness; Elinor, in an humble one, was
+                    Leslie, in a doubtful state of mind, was looking out for offence and cause of<pb
+                        n="245" xml:id="VAB7194-246"/> unhappiness; Elinor, in an humble one, was
                     unconsciously giving it. She was accustomed to the discipline of a conventual
                     school education, and had learned a degree of patience, which made her take
                     Leslie’s absence as an unavoidable trouble, of which she must not complain. He
@@ -3842,7 +3905,8 @@
                 <p>“As I live and stand here, Leslie, there is no human being who cares for me, or
                     whom I care for, but you.”</p>
                 <p>“Words! sweetest words!” cried Leslie, “falser than sweet, and crueller than
-                    false, were I not free. But they are nothing to<pb n="255" xml:id="VAB7194-256"/> me now; no, nor those; tears, nor those clasped hands, nor that well‐acted
+                    false, were I not free. But they are nothing to<pb n="255" xml:id="VAB7194-256"
+                    /> me now; no, nor those; tears, nor those clasped hands, nor that well‐acted
                     fear—no, no, no.”</p>
                 <p>“Leslie!” cried Elinor, laying her hand upon his arm.</p>
                 <p>He caught hold of her hand, and crushed it in his, like one whose nerves have
@@ -3870,7 +3934,8 @@
                     him against all future malice, or should she see them alienated from each other,
                     and she herself successful. She opened the breakfast‐room door, with a
                     hesitation unseen on her serene face, and glanced round; but her conjectures
-                    were all wrong, for although all else were assembled, the two<pb n="257" xml:id="VAB7194-258"/> were not there. Again her heart bounded with fear,
+                    were all wrong, for although all else were assembled, the two<pb n="257"
+                        xml:id="VAB7194-258"/> were not there. Again her heart bounded with fear,
                     that they might be together, too angry to keep up any appearance of good will
                     with her; and after enduring the doubt and anxiety for a few decent minutes, she
                     affected to be anxious what could have become of Elinor, and left the room to
@@ -4024,7 +4089,8 @@
                     brother, before I could reflect what to do, she insisted on setting out for her
                     convent.”</p>
                 <p>“Her convent?”</p>
-                <p>“After you were all gone, and I returned to her room, she had already made her<pb n="268" xml:id="VAB7194-269"/> preparations, and no efforts of mine could
+                <p>“After you were all gone, and I returned to her room, she had already made her<pb
+                        n="268" xml:id="VAB7194-269"/> preparations, and no efforts of mine could
                     detain her. I did what I could; I sent to Mr. Roundel, you know him, my
                     brother’s man of business, and requested him to take charge of her on her
                     journey, which he did.”</p>
@@ -4051,7 +4117,8 @@
                     unlike the decided strong movement of his general pace. “He is ill,” she said to
                     herself; “I may lose him even in trying to win him. Better even that, than that
                     he should belong to another.”</p>
-                <p>The day was by this time dark, and Laura, whose general habits were luxu‐<pb n="270" xml:id="VAB7194-271"/> rious, and who was to be found on cold
+                <p>The day was by this time dark, and Laura, whose general habits were luxu‐<pb
+                        n="270" xml:id="VAB7194-271"/> rious, and who was to be found on cold
                     evenings in her lounging‐chair at the side of a bright fire, her feet upon the
                     warm hearth, abundance of wax light on her marqueterie table, her book, her
                     work, her dress all in keeping, on this night muffled her person in a gray
@@ -4080,7 +4147,8 @@
                     standing; and which she thought to subdue when he came in, by taking a seat with
                     as much dignity as if she were in her usual position of command. She did not
                     begin with any reference to the strange lateness of the visit, for the cause of
-                    it would soon, she knew, seem stranger than the visit<pb n="272" xml:id="VAB7194-273"/> itself, but without apology or explanation opened her
+                    it would soon, she knew, seem stranger than the visit<pb n="272"
+                        xml:id="VAB7194-273"/> itself, but without apology or explanation opened her
                     business.</p>
                 <p>“You have done me a service, Mr. Roundel,” Laura began, “in conveying that young
                     lady back to France.”</p>
@@ -4238,7 +4306,8 @@
                     useless.”</p>
                 <p>“Yes,” said Leslie; “but it is a kindness in you to speed me thus.”</p>
                 <p>“The kindness of letting you free yourself from my society without useless
-                    contradiction? you cannot say yes to that; social<pb n="283" xml:id="VAB7194-284"/> forms forbid you; but honesty forbids you to say
+                    contradiction? you cannot say yes to that; social<pb n="283"
+                        xml:id="VAB7194-284"/> forms forbid you; but honesty forbids you to say
                     no.”</p>
                 <p>“Not so much honesty,” said Leslie, “as the conviction that I am a dying man. I
                     cannot fence with words at this time; I have strength for nothing but the bare
@@ -4298,7 +4367,8 @@
                 <p>“On the contrary,” said Leslie, “our manly phrase is that we are much flattered
                     by such generosity.”</p>
                 <p>“And your meaning is that, you despise it.”</p>
-                <p>“That depends upon whether it gives pleasure. For my part,” he went on, “she<pb n="287" xml:id="VAB7194-288"/> whom I loved is dead, she is as if dead, and
+                <p>“That depends upon whether it gives pleasure. For my part,” he went on, “she<pb
+                        n="287" xml:id="VAB7194-288"/> whom I loved is dead, she is as if dead, and
                     that deadness has spread over me, so that I am already a mere citizen of that
                     quiet country, from returning to which I have been unblessed with a short
                     respite. Let us talk no more.”</p>
@@ -4372,7 +4442,8 @@
                     absolute solitude, so that through the twenty‐four hours he would sometimes not
                     find occasion to utter a word; he would lie at length on an easy chair, his
                     gloomy eyes fixed on one spot, or wander into the air, and out of sight, nobody
-                    knew whether afar off, or just hidden by the first<pb n="292" xml:id="VAB7194-293"/> great tree, or projecting buttress of the old wall;
+                    knew whether afar off, or just hidden by the first<pb n="292"
+                        xml:id="VAB7194-293"/> great tree, or projecting buttress of the old wall;
                     and here suffering his ideas to come or go as they would, the gloom of his mind
                     seemed to settle thicker and thicker, as weary day was added to weary day. To
                     himself he appeared drifting into that dark chaos, which, as he believed
@@ -4399,7 +4470,8 @@
                         <emph>not</emph> do it; the man who sets his fancy on power, must have
                     possessed the pride of governing, and the homage of the multitude, before he can
                     tell whether the sacrifices made for it were worth while. In the same way,
-                    Laura, with a mind incapable of self‐control or self‐sacrifice, acknow‐<pb n="294" xml:id="VAB7194-295"/> ledged no alternative except being the wife
+                    Laura, with a mind incapable of self‐control or self‐sacrifice, acknow‐<pb
+                        n="294" xml:id="VAB7194-295"/> ledged no alternative except being the wife
                     of Leslie; and thus, under gloomy auspices, their marriage was privately
                     celebrated in the drawing‐room of Chanson Wood, during the month of November of
                     this year.</p>
@@ -4485,7 +4557,8 @@
                     happened at any moment, and which did not happen, seemed like a thing gone into
                     oblivion, which never could possess a tangible shape again.</p>
                 <p>Laura grew bold in impunity, and then followed the reflection that she had
-                    secured the position she now occupied beyond the<pb n="301" xml:id="VAB7194-302"/> power even of discovery to dispossess her. By degrees she began to feel as if
+                    secured the position she now occupied beyond the<pb n="301" xml:id="VAB7194-302"
+                    /> power even of discovery to dispossess her. By degrees she began to feel as if
                     the very discovery would have its advantages. There would be at least a
                     momentary triumph, in showing how she had outwitted Leslie; and when his
                     superiority weighed upon her, unsoftened by any kindness on his part, there
@@ -4555,7 +4628,8 @@
                     that restoration of some kind is essential.”</p>
                 <p>“When do you mean to begin building,” said Mr. Chanson.</p>
                 <p>“I have not thought much about it,” said Leslie.</p>
-                <p>“Then you may leave it to me. I have thought, and I have a right to do as I<pb n="306" xml:id="VAB7194-307"/> please with a part, at least, of the
+                <p>“Then you may leave it to me. I have thought, and I have a right to do as I<pb
+                        n="306" xml:id="VAB7194-307"/> please with a part, at least, of the
                     expenditure of the house.”</p>
                 <p>“What is your meaning?” said Leslie.</p>
                 <p>“Once I could do as I pleased with all that was then my own.”</p>
@@ -4570,7 +4644,8 @@
                     deceive you?”</p>
                 <p>“Oh, dear no! <emph>I</emph> am not so easily blinded as others are who boast
                     very much of their penetration.”</p>
-                <p>“What are you saying or meaning,” said her brother, who observed Leslie’s<pb n="307" xml:id="VAB7194-308"/> heightened colour at this last thrust, and
+                <p>“What are you saying or meaning,” said her brother, who observed Leslie’s<pb
+                        n="307" xml:id="VAB7194-308"/> heightened colour at this last thrust, and
                     the sudden compression of his stern lips. In fact, he understood Laura to allude
                     to his fatal secret with regard to Elinor, which she had hitherto kept from her
                     brother, but which he would prefer at once revealing, to having it held out as a
@@ -4735,7 +4810,8 @@
                     profound lake, stands despairingly gazing into the waters; did Leslie stand
                     awhile, horror‐stricken at the knowledge of his own fate. All that he had left
                     behind he now saw and knew; all the clouds that had hidden past actions rolled
-                    away, and left the view of the sunny land behind him, which he<pb n="318" xml:id="VAB7194-319"/> had exchanged for the dreary pestilential region now
+                    away, and left the view of the sunny land behind him, which he<pb n="318"
+                        xml:id="VAB7194-319"/> had exchanged for the dreary pestilential region now
                     surrounding him. The horror of his entanglement bewildered him; the thought of
                     all those days and months, wherein reparation for his cruel injustice had been
                     delayed, pressed upon his senses; the choking feeling of distance and alienation
@@ -4748,7 +4824,8 @@
                     letters into the drawers, and summoning a servant, bade him instantly prepare
                     what was necessary for a journey, and bring it after him to the neighbouring
                     town, whither he himself would proceed at once on foot. To put himself into
-                    action was the only relief he could find, and hastily he passed through<pb n="319" xml:id="VAB7194-320"/> the hall, and out on his road away, able he
+                    action was the only relief he could find, and hastily he passed through<pb
+                        n="319" xml:id="VAB7194-320"/> the hall, and out on his road away, able he
                     knew to conceal his emotion from any one he might casually meet, but not
                     trusting himself either with inaction or with the sight of the woman who had
                     ruined him.</p>
@@ -4762,7 +4839,8 @@
                     therefore pressed forward with all haste to add one more chance to those shadowy
                     chances which remained of ever beholding that dear face again, but his heart
                     died within him to think how faint they were; sixteen months’ grief, neglect,
-                    Time, what had they done? Was she even there? was<pb n="320" xml:id="VAB7194-321"/> she perhaps lying at perpetual rest beneath a
+                    Time, what had they done? Was she even there? was<pb n="320"
+                        xml:id="VAB7194-321"/> she perhaps lying at perpetual rest beneath a
                     reviving turf? or if she lived, was she by this time a professed nun, alive, but
                     dead to him? Could she forgive him? had he not believed accusations which the
                     deceiver herself had thought it incredible to impose upon him? Oh! what mountain
@@ -4837,7 +4915,8 @@
                     for ever.”</p>
                 <p>“Then you, you—are <emph>you</emph> happy?”</p>
                 <p>“No!” said Elinor, hiding her face and weeping.</p>
-                <p>“Alas! and once we were so near it—a word or two was all that was between it<pb n="325" xml:id="VAB7194-326"/> and us. I had it in my hand, I let it go. But
+                <p>“Alas! and once we were so near it—a word or two was all that was between it<pb
+                        n="325" xml:id="VAB7194-326"/> and us. I had it in my hand, I let it go. But
                     it is near again, now we are near.”</p>
                 <p>“How <emph>could</emph> you doubt me?” said Elinor; “I learned you thought I
                     could possibly feel regard for one who was not you.”</p>
@@ -4879,7 +4958,8 @@
                     and vanished through the door, from his sight.</p>
                 <p>“You have brought her bad news, I fear,” said the Superior.</p>
                 <p>“Yes, bad news,” repeated Leslie, mechanically.</p>
-                <p>“Poor child! she has need of good. Ever since she came back here so suddenly,<pb n="328" xml:id="VAB7194-329"/> she has had a weight at her heart. What sort
+                <p>“Poor child! she has need of good. Ever since she came back here so suddenly,<pb
+                        n="328" xml:id="VAB7194-329"/> she has had a weight at her heart. What sort
                     of people were they, those guardians of hers?”</p>
                 <p>“I know scarcely anything about them,” said Leslie.</p>
                 <p>“Yet you came from them to her, I understood.”</p>

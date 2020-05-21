@@ -21,7 +21,9 @@
      David Widger</bibl>
     <bibl type="firstEdition" n="B7053"><title>The Professor</title><author>Currer
       Bell</author><publisher>London: Smith, Elderm &amp; co., 15 Waterloo
-      Place</publisher><date>1857</date></bibl>
+      Place</publisher><date>1857</date>
+     <ref target="bod:400294723">vol 1</ref>;
+     <ref target="bod:400294722">vol 2</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -3390,8 +3392,9 @@
     <p>“Eh bien! est-ce que je suis sa bonne—moi?” demanded Mdlle. Henri; then smiling, with that
      same bitter, derisive smile I had seen on her lips once before, she hastily rose and made her
      exit.</p>
-
    </div>
+   <!-- end of volume 1 -->
+   
    <div type="chapter">
     <head>CHAPTER XVIII.</head>
     <p>THE young Anglo-Swiss evidently derived both pleasure and profit from the study of her

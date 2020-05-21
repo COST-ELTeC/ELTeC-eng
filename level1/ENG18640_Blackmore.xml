@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,32 +28,43 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                 </availability>
                 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                
+
             </publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource"><title>Clara Vaughan</title>
                     <ref target="gut:41020 gut:41021                         gut:41022"/>
                 </bibl>
-                <bibl type="firstEdition" n="B120"><author>R.D. Blackmore</author><title>Clara Vaughan. A
-                        novel in three volumes</title>
+                <bibl type="firstEdition" n="B120"><author>R.D. Blackmore</author><title>Clara
+                        Vaughan. A novel in three volumes</title>
                     <publisher> MACMILLAN AND CO.</publisher>
                     <date>1864</date>
-                    <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058244.pdf"/>
+                    <ref target="bod:600058244.pdf">vol 1</ref>;
+                    <ref target="bod:600058245.pdf">vol 2</ref>;
+                    <ref target="bod:600058246.pdf">vol 3</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
         </encodingDesc>
-        <profileDesc><langUsage>
+        <profileDesc>
+            <langUsage>
                 <language ident="en"/>
-            </langUsage><textClass><keywords><term>Sensation Novel</term></keywords></textClass><textDesc>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Sensation Novel</term>
+                </keywords>
+            </textClass>
+            <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
-            </textDesc></profileDesc>
-        <revisionDesc><change when="2020-05-19">Add text classifications from Bassett</change>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-05-19">Add text classifications from Bassett</change>
             <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-12-20">LB made header</change>
         </revisionDesc>
@@ -136,7 +148,8 @@
                             attacks will be milder, and the intervals longer, when she has turned
                             fourteen. For the intellect you need have no fear whatever. Only keep
                             her quiet, and never force her to learn. She must only learn when it
-                            comes as it were with the wind. She will never forget what she <hi rend="italic">does</hi> learn."</p>
+                            comes as it were with the wind. She will never forget what she <hi
+                                rend="italic">does</hi> learn."</p>
                         <p>Hereupon, unless I am much mistaken, my father and mother fell to and
                             kissed and hugged one another, and I heard a sound like sobbing; then
                             they caught me up, and devoured me, as if I were born anew; and staring
@@ -363,7 +376,8 @@
                             follow me. The Gloucester physician said that since the disease of my
                             mind had taken that shape, it would be more dangerous to thwart than to
                             indulge it.</p>
-                        <p>It was the evening of the third day, and weary with but never <hi rend="italic">of</hi> my search, I was groping down the great
+                        <p>It was the evening of the third day, and weary with but never <hi
+                                rend="italic">of</hi> my search, I was groping down the great
                             oak-staircase in the dusk, hand after hand, and foot by foot, when
                             suddenly the main door-bell rang. The snow was falling heavily, and had
                             deadened the sound of wheels. At once I slid (as my father had taught me
@@ -1495,7 +1509,8 @@
                             worded; neither did it contain those powers to meet family exigencies,
                             which I am told a proper practitioner would have inserted.</p>
                         <p>There was no reason to suppose that the testator had contemplated
-                            anything more than a strict settlement of the usual kind, <hi rend="italic">i.e.</hi> a common estate entail, expectant upon a
+                            anything more than a strict settlement of the usual kind, <hi
+                                rend="italic">i.e.</hi> a common estate entail, expectant upon a
                             life-interest; and under which I should have succeeded my father, as his
                             heiress, in the ordinary course. But it is the chief fault of smatterers
                             in the law (and country attorneys at that time were no better) that they
@@ -1661,7 +1676,8 @@
                             minute's command of my faculties, I would have sold them for ever; but I
                             felt them ebbing from me, as the life does from a wound. The hemispheres
                             of my brain were parting one from the other, and a grey void spreading
-                            between them. I tried to think, but could not. I strove to say <hi rend="italic">anything</hi>, but failed. Fainter and fainter grew
+                            between them. I tried to think, but could not. I strove to say <hi
+                                rend="italic">anything</hi>, but failed. Fainter and fainter grew
                             the room, the lamp, the ceiling, the face at which I tried to look.
                             Things went to and fro with a quicker quiver, like flame in the wind,
                             then, round and round like whirling water; my mouth grew stiff, and the
@@ -5262,14 +5278,14 @@
                             the black riband, which was getting worn.</p>
                         <p>And so I came home before dark, full of wonder, but feeling rather
                             triumphant, and greatly delighted at having recovered dear Isola.</p>
-                       </div>
-                </div> 
-                    <trailer>END OF VOL. I.</trailer>
                     </div>
-              
-            <div type="group"> 
+                </div>
+                <trailer>END OF VOL. I.</trailer>
+            </div>
+
+            <div type="group">
                 <div type="group">
-                     <head>BOOK II. (<hi rend="italic">continued</hi>).</head>
+                    <head>BOOK II. (<hi rend="italic">continued</hi>).</head>
                     <div type="chapter">
                         <head>CHAPTER XVII.</head>
                         <p>Late in the evening of that same day, I sat in my room by the firelight
@@ -5374,334 +5390,319 @@
                         <p>"Oh no, I am not. A year ago I would have done so. But I am older and
                             wiser now."</p>
                         <p>I was thinking of dear mother; and began to feel already that my
-                            character was changing.</p></div>
-                        <div type="chapter">
-                            <head>CHAPTER XVIII.</head>
-                            <p>Inspector Cutting gave me some minute instructions, and in less than
-                                half an hour we set forth upon our enterprise. I was wrapped in a
-                                loose grey cloak having a hooded cape; and carefully hidden I
-                                carried for self-defence a very keen stiletto. I had procured it
-                                indirectly from the best cutler in London, but neither workmanship
-                                nor material could be compared to that of Italy.</p>
-                            <p>The night was dark and cold, the streets were almost deserted, and
-                                all the shops except the chemists' and the public-houses closed. We
-                                walked straightway to the nearest cabstand, where Mr. Cutting
-                                ordered a vehicle, and put me inside, himself riding with the
-                                driver. So little did I know as yet of London, that after the first
-                                turn or two, I could not even guess what direction we were taking. I
-                                had such confidence in my guide, a staid respectable man with a
-                                grown up family, that I never thought there could be harm in my
-                                journeying with him at night. And even had I thought so, most likely
-                                I should have done it all the same. Ever since the time he wounded
-                                me, or allowed me to wound myself, his manner towards me had been
-                                most kind, considerate, and respectful; though he found it his duty
-                                now and then to repress my impetuosity.</p>
-                            <p>With all my perception alert, I kept a sharp look-out from the
-                                window, but vainly strove to find anything that might serve for a
-                                landmark. Once we stopped for about five minutes, at a
-                                police-station somewhere in Clerkenwell, where, by the light of a
-                                lamp, I read, without leaving the cab, the ghastly descriptions of
-                                all the dead bodies recently found in London and waiting
-                                identification. Hereupon my courage began to ooze, and the weather
-                                seemed much colder. The type was hard to read at that distance, and
-                                the imagination had fair play, as it does when words come
-                                slowly.</p>
-                            <p>Anon the inspector reappeared, so altered in dress and countenance,
-                                that I did not know him until he made me a bow. With a glance of
-                                encouragement, and a little grin of dry humour, he mounted the box
-                                again. After another long drive, in the course of which we ran
-                                silently over a wooden road,—probably High Holborn,—we stopped in a
-                                broad but deserted thoroughfare, very badly lighted. Here Mr.
-                                Cutting opened the door, helped me out, and discharged the cab, but
-                                whispered something to the driver before he let him go.</p>
-                            <p>"Now take my arm, Miss Valence, if you please. I have escorted many a
-                                lady of higher birth than yours."</p>
-                            <p>"Of higher title perhaps, Mr. Cutting; and their grandfathers
-                                money-lenders, or perhaps far worse."</p>
-                            <p>"I am sure I don't know; we must take things as we find them. I
-                                thought you despised such nonsense. But the cabbage that runs to
-                                seed is the tallest in the field. No Englishman sees the nonsense of
-                                it, unless he happens to be a detective or a grave-digger."</p>
-                            <p>"Do you mean to say that those of lofty birth are worse than those of
-                                low birth?"</p>
-                            <p>"No, I mean nothing of the sort. But I do mean that they ought to be
-                                better, and on the whole are not so. Nature holds the balance, and
-                                temptation and education chuck into the opposite scales, and I think
-                                the first chucks fastest. At any rate I would rather have a good
-                                drunken navvy than a lord to take to the station. I mean of course
-                                when my own rank was not what it is."</p>
-                            <p>This little dissertation was meant to divert my thoughts. I made no
-                                reply, being ignorant of such matters; neither did I care to talk
-                                about them then. Nevertheless, I believe Inspector Cutting was
-                                wrong. As we entered a narrow street he suddenly turned and looked
-                                at me.</p>
-                            <p>"Poor child! how you tremble! Draw your cape more forward; the bitter
-                                cold requires it. Are you trembling from fear?"</p>
-                            <p>"No; only from cold." But I tried in vain to think so.</p>
-                            <p>"A steady hand and steadfast nerve are wanted for your task. If you
-                                cannot rely on them, say so at once. In five minutes you will have
-                                no retreat."</p>
-                            <p>"I shall be better directly. But I am so cold. Inspector Cutting, it
-                                must be freezing hard—ten degrees, I should think."</p>
-                            <p>"It does not freeze at all. I see we must warm you a little. But no
-                                more 'Inspector Cutting,' if you please, until to-morrow."</p>
-                            <p>Hereupon he led me into a little room, fenced off from the bar of
-                                some refreshment-house. A glorious fire was burning, by which he set
-                                and left me. Presently he returned, with a small glass in his
-                                hand.</p>
-                            <p>"Drink this, young lady. It will warm you, and brace your
-                                nerves."</p>
-                            <p>I saw by the firelight that it was brandy, or some dark-coloured
-                                spirit.</p>
-                            <p>"No, I thank you. Do you suppose that I require Dutch courage?"</p>
-                            <p>I threw such emphasis on the personal pronoun, and looked at him so
-                                indignantly, that he laughed outright.</p>
-                            <p>"I thank you in turn. You suppose that I do. I will justify your
-                                discernment." And with that he tipped it off, and then returned to
-                                business, all the graver for the interlude.</p>
-                            <p>"Now, if you are really warm, we will start again. Stop one moment. I
-                                have heard you cough two or three times. Can you keep it under?"</p>
-                            <p>I assured him that I could very easily do so, and that it was nothing
-                                but the sudden effect of the cold. Forth we went again into the
-                                winter night, after I had learned from him that we were now in
-                                Whitechapel, not far from Goodman's Fields.</p>
-                            <p>After another short walk, we came to the end of a narrow by-street,
-                                where there was an archway. Passing through this archway, we
-                                descended some steep and broken steps. Then the Inspector produced a
-                                small lamp brightly burning, which he must have lit at the
-                                public-house. It was not what is called a bull's-eye, but a
-                                reflector-lamp. By its light I saw that the chief entrance to the
-                                house must be round the corner, and perhaps in another street. With
-                                a small key which he took from his pocket, Mr. Cutting unlocked a
-                                little iron gate, and we entered a narrow passage. At the end of it
-                                was a massive door studded with great nails. Here my guide gave a
-                                gentle knock, and hid the lamp as before.</p>
-                            <p>Presently we heard a shrill sound from the keyhole, like a dryad's
-                                voice. The Inspector stooped thereto, and pronounced the password.
-                                Not without some difficulty the lock was turned and the bolts
-                                withdrawn, and we stood inside. A child, under-sized and unnaturally
-                                sharp, stared at us for a moment, then dodged away from the lamp, as
-                                if more accustomed to darkness. Mr. Cutting closed the door and
-                                refastened it, then led me through some basement rooms unpaved and
-                                unfurnished, until we came to an iron step-ladder. This he ascended,
-                                and helped me up, and we found ourselves in a small dark lobby,
-                                containing no furniture, except a high three-legged stool. When he
-                                closed his lamp all around was dark, but on the rafters overhead a
-                                faint patch of light appeared—ceiling there was none.</p>
-                            <p>"Do you see that light?" he whispered to me, pointing, as I could
-                                just perceive, to a narrow glazed opening high in the wall, whence
-                                the faint gleam proceeded.</p>
-                            <p>"Then jump upon this stool, and do your best to see through."</p>
-                            <p>He cast the light of his lamp upon the stool for a moment, while I
-                                did as he bade me. Standing there, I found that I was tall enough to
-                                look through; but the narrow pane which formed the window was
-                                thickly covered with size, or some opaque integument. All I could
-                                tell was, that the space beyond was lighted.</p>
-                            <p>"I know you can't see now," he said, as I came down despairing, "but
-                                you shall see by and by. The fools who were here before sized the
-                                glass on the wrong side, and this lot, though much sharper, have not
-                                corrected the error. They keep that window for escape in the last
-                                resort. Now take this bottle and this camel's-hair brush; it will
-                                make the glass transparent without the smallest noise. The men are
-                                not there yet. We could easily rub it clear now, but they will
-                                examine it. When the time comes, use the liquid most carefully and
-                                lightly, and don't spread it higher than an inch from the bottom of
-                                the frame. The lights are at this end; the shadow of the sill will
-                                allow you just an inch."</p>
-                            <p>"And how far may I go horizontally?"</p>
-                            <p>"The whole length of the glass, to command as much view as possible.
-                                The effect will pass in three or four minutes, but you must not do
-                                it again. If you do, the glass will fly, and you will be in their
-                                hands. Desperate men they are, and though I shall be near, I might
-                                be too late to save you. See all you can, to be able to swear to
-                                them all."</p>
-                            <p>"How shall I know the one?"</p>
-                            <p>"I cannot tell you. I must leave it to your instinct, or your
-                                intuition. I only know myself that he is one of the four. My
-                                information, such as it is, was obtained very oddly, and I trust to
-                                this night's work to make it more precise. One thing more: No noise,
-                                if you value your life. Keep the bottle stopped. Don't let the stuff
-                                drop on you; don't put your eyes to it, or it will blind you for
-                                ever. There is very little of it, because it is so deadly."</p>
-                            <p>"When shall I do it?"</p>
-                            <p>"In one hour from this time. Take this repeater. I have shown you how
-                                to use it. Look well at it now, while you have the light."</p>
-                            <p>I looked at the watch; it was nearly midnight.</p>
-                            <p>"Am I to be left in the dark—all in the dark here, by myself?"</p>
-                            <p>"Yes. I must be seen elsewhere, or the whole thing fails. They know
-                                me even in this dress, and they watch me as I do them. But for
-                                to-night I believe I have misled them. When it is over, wait here
-                                till I come for you, or the little girl you saw."</p>
-                            <p>"Oh! I wish I had never come; and all so vague and indecisive!"</p>
-                            <p>"You can go back now, if you please; though ever that would be
-                                dangerous."</p>
-                            <p>"I will not go back. No doubt I shall know him. When will you secure
-                                him?"</p>
-                            <p>"When my evidence is completed. Now, remember, you have to deal with
-                                men keen as hawks, and stealthy as tigers. But there is no real
-                                danger, if you keep your self-command. Observe all four as narrowly
-                                as you can, both for your own sake and for mine. Be careful to stand
-                                on the centre of the stool. But you had better not get upon it until
-                                they have searched the room. Now, good-bye. I trust to your courage.
-                                If any harm comes, I will avenge you."</p>
-                            <p>"A comfort that! What good will it be to me?"</p>
-                            <p>"If vengeance is no good, what are you doing here?"</p>
-                            <p>"Thank you. That is no business of yours. Don't let me detain
-                                you."</p>
-                            <p>He told me afterwards that he had vexed me on purpose to arouse my
-                                mettle. And I am sure I needed it.</p>
-                            <p>"Ah! now you are all right. If your caution fails you, the man who
-                                slew your father will be sure to escape us."</p>
-                            <p>"If it fails me, 'twill be from anger, not from terror."</p>
-                            <p>"I know it. Let me look at you."</p>
-                            <p>He threw the full light on my face. The burnished concave was not
-                                brighter or firmer than my eyes.</p>
-                            <p>"Pale as death, and quite as resolute. Rely only upon yourself."</p>
-                            <p>"God and myself," I whispered, as he glided out of sight along the
-                                vaults below. I could see no other entrance to the place in which I
-                                sat; but how could I tell?</p>
-                            <p>For a minute excitement kept me hot; but as the last gleam of the
-                                light died upon the wall below, my heart began to throb heavily, and
-                                a chill came over me. The pulse thumped in my ears, like a knocking
-                                in the cellar. "Was it fear?" I asked myself, in scorn that I should
-                                ask. No, it was not fear, but horrible suspense. The balance of life
-                                and death, of triumph and disgrace, swung there before me in the
-                                dark, as if my breath would turn it. No dream of a child, no vagary
-                                of the brain—the clear perception of strong will and soul poised
-                                upon this moment.</p>
-                            <p>The moment was too long; the powers began to fail, the senses grew
-                                more faint and confused at every heavy throb. Little images and
-                                little questions took the place of large ones. In vain I looked for
-                                even a cobweb, or the skeleton of a fly, where the dull light
-                                flickered through the pane of glass. In vain I listened for a mouse.
-                                Even a rat (much as I hate him) would have been welcome then. The
-                                repeater was purposely made so low of tick, that I got no comfort
-                                thence. All was deep, unfathomable silence, except the sound of my
-                                rebel heart.</p>
-                            <p>As a forlorn hope, I began to reckon sixty slowly, as a child keeps
-                                with a ticking clock.</p>
-                            <p>It would not do. My heart was beating louder than ever, and my hands
-                                were trembling; even my teeth rattled like dice in a box as the time
-                                approached.</p>
-                            <p>The nerves will not be hoodwinked; the mind cannot swindle the body.
-                                I once slapped the cheeks of my governess. I cannot treat nature so.
-                                Try the sweet influence, and the honest coin of reason. It will not
-                                do. All trembling, I strike the repeater. Five minutes more, and the
-                                trial must come. My heart is fluttering like a pigeon's throat. The
-                                long suspense has been too much. Oh! why was I submitted to this
-                                cruel ordeal? The walls are thick. I can hear no movement in the
-                                secret room.</p>
-                            <p>There comes a creeping, fingering, sound, as of one whose candle is
-                                out, groping for the door. It passes along the pane of glass, and a
-                                shadow is thrown on the rafter. Who can it be? What stealthy hand
-                                but that of my father's murderer?</p>
-                            <p>The word—the thought is enough. What resolution, reason, justice, all
-                                in turn, have failed to do, passion has done at once—passion at
-                                myself, as well as at my enemy. Is it Clara Vaughan, who, for eight
-                                long years of demon's reign, has breathed but for this moment—is
-                                Clara Vaughan to shake like the wooden-legged blackbird now her
-                                chance is come?</p>
-                            <p>A rush of triumph burned, like vitriol, through my veins. Every nerve
-                                was braced, every sense alert and eager. Against the light of that
-                                window, dull as it was, I could have threaded the finest needle that
-                                ever was made.</p>
-                            <p>I struck my repeater again. It was the hour, the minute, when my
-                                father died. With the mere spring of my instep I leaped upon the
-                                stool. I could see it clearly now. I dipped the broad camel's-hair
-                                brush in the flat phial, holding it carefully at arm's length, and
-                                then drew it lightly along the pane, quite at the bottom, from
-                                corner to corner. One more dip, one more stripe above, a steam
-                                hovered on the glass, and there was a gazing-place, clear as
-                                crystal, and wide enough to show most of the narrow room. Of the
-                                room itself I took no heed; the occupants were my study.</p>
-                            <p>Only four in all. One man at a high desk writing rapidly; three men
-                                sitting round a small table, talking earnestly, and with much
-                                gesticulation, but the tone too low for me even to guess their
-                                language. From the appearance, manner, and action of the speakers, I
-                                felt sure that it was not English, and I thought that it was not
-                                French. Why, I cannot say; but my attention fixed itself upon the
-                                man who was writing at the top of the room. Perhaps it was because I
-                                could see him best, for he stood with his face full towards me.</p>
-                            <p>He was a man of middle age and stature, strongly framed, closely
-                                knit, and light of limb, with a handsome, keenly oval face, broad
-                                forehead, black eyes, glancing quickly and scornfully at his three
-                                comrades, long hair of an iron grey, falling on his shoulders, and
-                                tossed back often with a jerk of the head. His hands were white and
-                                restless, quick as light in their motion. On the left thumb flashed
-                                a large red jewel. Though I could not see the paper, I knew by the
-                                course of the quill that the writing was very small. But one minute
-                                I watched him, for the film was returning upon the glass, and I must
-                                scan the others; yet in that time he had written several lines, half
-                                of them without looking at the paper, but with his eyes upon the
-                                other three.</p>
-                            <p>I knew him now he was in clear light, I could swear to him anywhere
-                                again. The last glance I could spare him sent a shudder through me,
-                                for in his impatience he shifted one foot from the shade of the
-                                desk. It was small, pointed, and elegant.</p>
-                            <p>The film was thickening, like frost upon the pane, when I began to
-                                observe the others. But I saw enough to print their faces on my
-                                memory, or those at least of two. The third I could not see so well.
-                                He seemed older than the rest. All the men wore loose grey tunics,
-                                with a red sash over the left shoulder. I judged that the three were
-                                debating hotly, as to some measure, upon which the fourth had
-                                resolved. Every now and then, they glanced at him uneasily.</p>
-                            <p>At him I gazed again, with deadly hatred, cold as ice, upon my heart.
-                                I felt my dagger handle. Oh for one moment with him! In my fury I
-                                forgot the Inspector's warning. The film was closing over. I touched
-                                the glass with my lashes. A flash of agony shot through my eyes.
-                                With a jerk I drew back, the stool rocked under me, one foot of it
-                                struck the wall. I clutched the window sill, and threw my weight
-                                inwards. Down came the foot of the stool, loud as the bang of a
-                                door.</p>
-                            <p>I thought it was all over. How I stifled a scream I know not; had it
-                                escaped me, I should never have told this story. I had the presence
-                                of mind to stand still, and watch, though my eyes were maddening me,
-                                what the cut-throats would do. Through the agony, and the dimness, I
-                                could just see them all start, and rush to the door at the side of
-                                the room. The writer stood first, with his papers thrust anyhow into
-                                his bosom, a pistol in one hand, a poniard in the other. Did I know
-                                the shape of it? The other three were armed, but I could not see
-                                with what. They crouched behind a heavy screen, presenting (I
-                                supposed) their pistol muzzles at the door. Finding no attack ensue,
-                                they began to search. Now was the real danger to me. If they
-                                searched that window before the size returned, my life ended there.
-                                Fear was past. Desperation seized me. If I was doomed to blindness,
-                                just as well to death. But I clutched my dagger.</p>
-                            <p>My left ear was against the wall. I heard a hand graze the partition
-                                inside, then a chair placed under the embrasure, and a step upon it.
-                                I was still upon the stool, stooping close beneath the window frame.
-                                Suddenly the light streak vanished, the size flew over it, as the
-                                breath flies over glass in the hardest frost. The hand felt along
-                                the window frame, the dull shadow of a head flitted upon the beam.
-                                It was within a foot of mine. The searcher passed on, without
-                                suspicion.</p>
-                            <p>Strange it was, but now the deadliest peril was over, triple fear
-                                fell upon me. The heat flew back to my heart, just now so stanch and
-                                rigid; my hair seemed to creep with terror. Dear life, like true
-                                love scorned, would have its way within me. Quietly I slid down from
-                                the stool, and cowered upon it, in a storm of trembling. My eyelids
-                                dropped in agony, I could not lift them again, but blue and red
-                                lights seemed to dance within them. I had made up my mind to
-                                blindness; but not, oh not just yet, to death.</p>
-                            <p>How long I remained in this abject state, scorning myself, yet none
-                                the braver, is more than I can tell, or even cared to ask. May it
-                                never be the lot of any, not even the basest murderer! Worn out at
-                                last, in a lull of pain and terror, I fell into deep sleep, from
-                                which I was awakened by a hand upon my shoulder.</p>
-                            <p>I tried to look up, but could not. Sight was fled, and as I thought
-                                for ever. But I felt that it was a friend.</p>
-                            <p>"Ah, I see how it is"—the voice was Inspector Cutting's—"my poor
-                                child, there is now no danger. Give me your hand:" he tried to lift
-                                me, but I fell against the wall.</p>
-                            <p>"Take a sip of this, we must restore circulation. It is the cold as
-                                much as anything; another sip, Miss Vaughan." He used my true name
-                                on purpose; it helped to restore me. He was most humane and kind; he
-                                did not even remind me of Dutch courage.</p>
-                        </div>
+                            character was changing.</p>
                     </div>
-                
+                    <div type="chapter">
+                        <head>CHAPTER XVIII.</head>
+                        <p>Inspector Cutting gave me some minute instructions, and in less than half
+                            an hour we set forth upon our enterprise. I was wrapped in a loose grey
+                            cloak having a hooded cape; and carefully hidden I carried for
+                            self-defence a very keen stiletto. I had procured it indirectly from the
+                            best cutler in London, but neither workmanship nor material could be
+                            compared to that of Italy.</p>
+                        <p>The night was dark and cold, the streets were almost deserted, and all
+                            the shops except the chemists' and the public-houses closed. We walked
+                            straightway to the nearest cabstand, where Mr. Cutting ordered a
+                            vehicle, and put me inside, himself riding with the driver. So little
+                            did I know as yet of London, that after the first turn or two, I could
+                            not even guess what direction we were taking. I had such confidence in
+                            my guide, a staid respectable man with a grown up family, that I never
+                            thought there could be harm in my journeying with him at night. And even
+                            had I thought so, most likely I should have done it all the same. Ever
+                            since the time he wounded me, or allowed me to wound myself, his manner
+                            towards me had been most kind, considerate, and respectful; though he
+                            found it his duty now and then to repress my impetuosity.</p>
+                        <p>With all my perception alert, I kept a sharp look-out from the window,
+                            but vainly strove to find anything that might serve for a landmark. Once
+                            we stopped for about five minutes, at a police-station somewhere in
+                            Clerkenwell, where, by the light of a lamp, I read, without leaving the
+                            cab, the ghastly descriptions of all the dead bodies recently found in
+                            London and waiting identification. Hereupon my courage began to ooze,
+                            and the weather seemed much colder. The type was hard to read at that
+                            distance, and the imagination had fair play, as it does when words come
+                            slowly.</p>
+                        <p>Anon the inspector reappeared, so altered in dress and countenance, that
+                            I did not know him until he made me a bow. With a glance of
+                            encouragement, and a little grin of dry humour, he mounted the box
+                            again. After another long drive, in the course of which we ran silently
+                            over a wooden road,—probably High Holborn,—we stopped in a broad but
+                            deserted thoroughfare, very badly lighted. Here Mr. Cutting opened the
+                            door, helped me out, and discharged the cab, but whispered something to
+                            the driver before he let him go.</p>
+                        <p>"Now take my arm, Miss Valence, if you please. I have escorted many a
+                            lady of higher birth than yours."</p>
+                        <p>"Of higher title perhaps, Mr. Cutting; and their grandfathers
+                            money-lenders, or perhaps far worse."</p>
+                        <p>"I am sure I don't know; we must take things as we find them. I thought
+                            you despised such nonsense. But the cabbage that runs to seed is the
+                            tallest in the field. No Englishman sees the nonsense of it, unless he
+                            happens to be a detective or a grave-digger."</p>
+                        <p>"Do you mean to say that those of lofty birth are worse than those of low
+                            birth?"</p>
+                        <p>"No, I mean nothing of the sort. But I do mean that they ought to be
+                            better, and on the whole are not so. Nature holds the balance, and
+                            temptation and education chuck into the opposite scales, and I think the
+                            first chucks fastest. At any rate I would rather have a good drunken
+                            navvy than a lord to take to the station. I mean of course when my own
+                            rank was not what it is."</p>
+                        <p>This little dissertation was meant to divert my thoughts. I made no
+                            reply, being ignorant of such matters; neither did I care to talk about
+                            them then. Nevertheless, I believe Inspector Cutting was wrong. As we
+                            entered a narrow street he suddenly turned and looked at me.</p>
+                        <p>"Poor child! how you tremble! Draw your cape more forward; the bitter
+                            cold requires it. Are you trembling from fear?"</p>
+                        <p>"No; only from cold." But I tried in vain to think so.</p>
+                        <p>"A steady hand and steadfast nerve are wanted for your task. If you
+                            cannot rely on them, say so at once. In five minutes you will have no
+                            retreat."</p>
+                        <p>"I shall be better directly. But I am so cold. Inspector Cutting, it must
+                            be freezing hard—ten degrees, I should think."</p>
+                        <p>"It does not freeze at all. I see we must warm you a little. But no more
+                            'Inspector Cutting,' if you please, until to-morrow."</p>
+                        <p>Hereupon he led me into a little room, fenced off from the bar of some
+                            refreshment-house. A glorious fire was burning, by which he set and left
+                            me. Presently he returned, with a small glass in his hand.</p>
+                        <p>"Drink this, young lady. It will warm you, and brace your nerves."</p>
+                        <p>I saw by the firelight that it was brandy, or some dark-coloured
+                            spirit.</p>
+                        <p>"No, I thank you. Do you suppose that I require Dutch courage?"</p>
+                        <p>I threw such emphasis on the personal pronoun, and looked at him so
+                            indignantly, that he laughed outright.</p>
+                        <p>"I thank you in turn. You suppose that I do. I will justify your
+                            discernment." And with that he tipped it off, and then returned to
+                            business, all the graver for the interlude.</p>
+                        <p>"Now, if you are really warm, we will start again. Stop one moment. I
+                            have heard you cough two or three times. Can you keep it under?"</p>
+                        <p>I assured him that I could very easily do so, and that it was nothing but
+                            the sudden effect of the cold. Forth we went again into the winter
+                            night, after I had learned from him that we were now in Whitechapel, not
+                            far from Goodman's Fields.</p>
+                        <p>After another short walk, we came to the end of a narrow by-street, where
+                            there was an archway. Passing through this archway, we descended some
+                            steep and broken steps. Then the Inspector produced a small lamp
+                            brightly burning, which he must have lit at the public-house. It was not
+                            what is called a bull's-eye, but a reflector-lamp. By its light I saw
+                            that the chief entrance to the house must be round the corner, and
+                            perhaps in another street. With a small key which he took from his
+                            pocket, Mr. Cutting unlocked a little iron gate, and we entered a narrow
+                            passage. At the end of it was a massive door studded with great nails.
+                            Here my guide gave a gentle knock, and hid the lamp as before.</p>
+                        <p>Presently we heard a shrill sound from the keyhole, like a dryad's voice.
+                            The Inspector stooped thereto, and pronounced the password. Not without
+                            some difficulty the lock was turned and the bolts withdrawn, and we
+                            stood inside. A child, under-sized and unnaturally sharp, stared at us
+                            for a moment, then dodged away from the lamp, as if more accustomed to
+                            darkness. Mr. Cutting closed the door and refastened it, then led me
+                            through some basement rooms unpaved and unfurnished, until we came to an
+                            iron step-ladder. This he ascended, and helped me up, and we found
+                            ourselves in a small dark lobby, containing no furniture, except a high
+                            three-legged stool. When he closed his lamp all around was dark, but on
+                            the rafters overhead a faint patch of light appeared—ceiling there was
+                            none.</p>
+                        <p>"Do you see that light?" he whispered to me, pointing, as I could just
+                            perceive, to a narrow glazed opening high in the wall, whence the faint
+                            gleam proceeded.</p>
+                        <p>"Then jump upon this stool, and do your best to see through."</p>
+                        <p>He cast the light of his lamp upon the stool for a moment, while I did as
+                            he bade me. Standing there, I found that I was tall enough to look
+                            through; but the narrow pane which formed the window was thickly covered
+                            with size, or some opaque integument. All I could tell was, that the
+                            space beyond was lighted.</p>
+                        <p>"I know you can't see now," he said, as I came down despairing, "but you
+                            shall see by and by. The fools who were here before sized the glass on
+                            the wrong side, and this lot, though much sharper, have not corrected
+                            the error. They keep that window for escape in the last resort. Now take
+                            this bottle and this camel's-hair brush; it will make the glass
+                            transparent without the smallest noise. The men are not there yet. We
+                            could easily rub it clear now, but they will examine it. When the time
+                            comes, use the liquid most carefully and lightly, and don't spread it
+                            higher than an inch from the bottom of the frame. The lights are at this
+                            end; the shadow of the sill will allow you just an inch."</p>
+                        <p>"And how far may I go horizontally?"</p>
+                        <p>"The whole length of the glass, to command as much view as possible. The
+                            effect will pass in three or four minutes, but you must not do it again.
+                            If you do, the glass will fly, and you will be in their hands. Desperate
+                            men they are, and though I shall be near, I might be too late to save
+                            you. See all you can, to be able to swear to them all."</p>
+                        <p>"How shall I know the one?"</p>
+                        <p>"I cannot tell you. I must leave it to your instinct, or your intuition.
+                            I only know myself that he is one of the four. My information, such as
+                            it is, was obtained very oddly, and I trust to this night's work to make
+                            it more precise. One thing more: No noise, if you value your life. Keep
+                            the bottle stopped. Don't let the stuff drop on you; don't put your eyes
+                            to it, or it will blind you for ever. There is very little of it,
+                            because it is so deadly."</p>
+                        <p>"When shall I do it?"</p>
+                        <p>"In one hour from this time. Take this repeater. I have shown you how to
+                            use it. Look well at it now, while you have the light."</p>
+                        <p>I looked at the watch; it was nearly midnight.</p>
+                        <p>"Am I to be left in the dark—all in the dark here, by myself?"</p>
+                        <p>"Yes. I must be seen elsewhere, or the whole thing fails. They know me
+                            even in this dress, and they watch me as I do them. But for to-night I
+                            believe I have misled them. When it is over, wait here till I come for
+                            you, or the little girl you saw."</p>
+                        <p>"Oh! I wish I had never come; and all so vague and indecisive!"</p>
+                        <p>"You can go back now, if you please; though ever that would be
+                            dangerous."</p>
+                        <p>"I will not go back. No doubt I shall know him. When will you secure
+                            him?"</p>
+                        <p>"When my evidence is completed. Now, remember, you have to deal with men
+                            keen as hawks, and stealthy as tigers. But there is no real danger, if
+                            you keep your self-command. Observe all four as narrowly as you can,
+                            both for your own sake and for mine. Be careful to stand on the centre
+                            of the stool. But you had better not get upon it until they have
+                            searched the room. Now, good-bye. I trust to your courage. If any harm
+                            comes, I will avenge you."</p>
+                        <p>"A comfort that! What good will it be to me?"</p>
+                        <p>"If vengeance is no good, what are you doing here?"</p>
+                        <p>"Thank you. That is no business of yours. Don't let me detain you."</p>
+                        <p>He told me afterwards that he had vexed me on purpose to arouse my
+                            mettle. And I am sure I needed it.</p>
+                        <p>"Ah! now you are all right. If your caution fails you, the man who slew
+                            your father will be sure to escape us."</p>
+                        <p>"If it fails me, 'twill be from anger, not from terror."</p>
+                        <p>"I know it. Let me look at you."</p>
+                        <p>He threw the full light on my face. The burnished concave was not
+                            brighter or firmer than my eyes.</p>
+                        <p>"Pale as death, and quite as resolute. Rely only upon yourself."</p>
+                        <p>"God and myself," I whispered, as he glided out of sight along the vaults
+                            below. I could see no other entrance to the place in which I sat; but
+                            how could I tell?</p>
+                        <p>For a minute excitement kept me hot; but as the last gleam of the light
+                            died upon the wall below, my heart began to throb heavily, and a chill
+                            came over me. The pulse thumped in my ears, like a knocking in the
+                            cellar. "Was it fear?" I asked myself, in scorn that I should ask. No,
+                            it was not fear, but horrible suspense. The balance of life and death,
+                            of triumph and disgrace, swung there before me in the dark, as if my
+                            breath would turn it. No dream of a child, no vagary of the brain—the
+                            clear perception of strong will and soul poised upon this moment.</p>
+                        <p>The moment was too long; the powers began to fail, the senses grew more
+                            faint and confused at every heavy throb. Little images and little
+                            questions took the place of large ones. In vain I looked for even a
+                            cobweb, or the skeleton of a fly, where the dull light flickered through
+                            the pane of glass. In vain I listened for a mouse. Even a rat (much as I
+                            hate him) would have been welcome then. The repeater was purposely made
+                            so low of tick, that I got no comfort thence. All was deep, unfathomable
+                            silence, except the sound of my rebel heart.</p>
+                        <p>As a forlorn hope, I began to reckon sixty slowly, as a child keeps with
+                            a ticking clock.</p>
+                        <p>It would not do. My heart was beating louder than ever, and my hands were
+                            trembling; even my teeth rattled like dice in a box as the time
+                            approached.</p>
+                        <p>The nerves will not be hoodwinked; the mind cannot swindle the body. I
+                            once slapped the cheeks of my governess. I cannot treat nature so. Try
+                            the sweet influence, and the honest coin of reason. It will not do. All
+                            trembling, I strike the repeater. Five minutes more, and the trial must
+                            come. My heart is fluttering like a pigeon's throat. The long suspense
+                            has been too much. Oh! why was I submitted to this cruel ordeal? The
+                            walls are thick. I can hear no movement in the secret room.</p>
+                        <p>There comes a creeping, fingering, sound, as of one whose candle is out,
+                            groping for the door. It passes along the pane of glass, and a shadow is
+                            thrown on the rafter. Who can it be? What stealthy hand but that of my
+                            father's murderer?</p>
+                        <p>The word—the thought is enough. What resolution, reason, justice, all in
+                            turn, have failed to do, passion has done at once—passion at myself, as
+                            well as at my enemy. Is it Clara Vaughan, who, for eight long years of
+                            demon's reign, has breathed but for this moment—is Clara Vaughan to
+                            shake like the wooden-legged blackbird now her chance is come?</p>
+                        <p>A rush of triumph burned, like vitriol, through my veins. Every nerve was
+                            braced, every sense alert and eager. Against the light of that window,
+                            dull as it was, I could have threaded the finest needle that ever was
+                            made.</p>
+                        <p>I struck my repeater again. It was the hour, the minute, when my father
+                            died. With the mere spring of my instep I leaped upon the stool. I could
+                            see it clearly now. I dipped the broad camel's-hair brush in the flat
+                            phial, holding it carefully at arm's length, and then drew it lightly
+                            along the pane, quite at the bottom, from corner to corner. One more
+                            dip, one more stripe above, a steam hovered on the glass, and there was
+                            a gazing-place, clear as crystal, and wide enough to show most of the
+                            narrow room. Of the room itself I took no heed; the occupants were my
+                            study.</p>
+                        <p>Only four in all. One man at a high desk writing rapidly; three men
+                            sitting round a small table, talking earnestly, and with much
+                            gesticulation, but the tone too low for me even to guess their language.
+                            From the appearance, manner, and action of the speakers, I felt sure
+                            that it was not English, and I thought that it was not French. Why, I
+                            cannot say; but my attention fixed itself upon the man who was writing
+                            at the top of the room. Perhaps it was because I could see him best, for
+                            he stood with his face full towards me.</p>
+                        <p>He was a man of middle age and stature, strongly framed, closely knit,
+                            and light of limb, with a handsome, keenly oval face, broad forehead,
+                            black eyes, glancing quickly and scornfully at his three comrades, long
+                            hair of an iron grey, falling on his shoulders, and tossed back often
+                            with a jerk of the head. His hands were white and restless, quick as
+                            light in their motion. On the left thumb flashed a large red jewel.
+                            Though I could not see the paper, I knew by the course of the quill that
+                            the writing was very small. But one minute I watched him, for the film
+                            was returning upon the glass, and I must scan the others; yet in that
+                            time he had written several lines, half of them without looking at the
+                            paper, but with his eyes upon the other three.</p>
+                        <p>I knew him now he was in clear light, I could swear to him anywhere
+                            again. The last glance I could spare him sent a shudder through me, for
+                            in his impatience he shifted one foot from the shade of the desk. It was
+                            small, pointed, and elegant.</p>
+                        <p>The film was thickening, like frost upon the pane, when I began to
+                            observe the others. But I saw enough to print their faces on my memory,
+                            or those at least of two. The third I could not see so well. He seemed
+                            older than the rest. All the men wore loose grey tunics, with a red sash
+                            over the left shoulder. I judged that the three were debating hotly, as
+                            to some measure, upon which the fourth had resolved. Every now and then,
+                            they glanced at him uneasily.</p>
+                        <p>At him I gazed again, with deadly hatred, cold as ice, upon my heart. I
+                            felt my dagger handle. Oh for one moment with him! In my fury I forgot
+                            the Inspector's warning. The film was closing over. I touched the glass
+                            with my lashes. A flash of agony shot through my eyes. With a jerk I
+                            drew back, the stool rocked under me, one foot of it struck the wall. I
+                            clutched the window sill, and threw my weight inwards. Down came the
+                            foot of the stool, loud as the bang of a door.</p>
+                        <p>I thought it was all over. How I stifled a scream I know not; had it
+                            escaped me, I should never have told this story. I had the presence of
+                            mind to stand still, and watch, though my eyes were maddening me, what
+                            the cut-throats would do. Through the agony, and the dimness, I could
+                            just see them all start, and rush to the door at the side of the room.
+                            The writer stood first, with his papers thrust anyhow into his bosom, a
+                            pistol in one hand, a poniard in the other. Did I know the shape of it?
+                            The other three were armed, but I could not see with what. They crouched
+                            behind a heavy screen, presenting (I supposed) their pistol muzzles at
+                            the door. Finding no attack ensue, they began to search. Now was the
+                            real danger to me. If they searched that window before the size
+                            returned, my life ended there. Fear was past. Desperation seized me. If
+                            I was doomed to blindness, just as well to death. But I clutched my
+                            dagger.</p>
+                        <p>My left ear was against the wall. I heard a hand graze the partition
+                            inside, then a chair placed under the embrasure, and a step upon it. I
+                            was still upon the stool, stooping close beneath the window frame.
+                            Suddenly the light streak vanished, the size flew over it, as the breath
+                            flies over glass in the hardest frost. The hand felt along the window
+                            frame, the dull shadow of a head flitted upon the beam. It was within a
+                            foot of mine. The searcher passed on, without suspicion.</p>
+                        <p>Strange it was, but now the deadliest peril was over, triple fear fell
+                            upon me. The heat flew back to my heart, just now so stanch and rigid;
+                            my hair seemed to creep with terror. Dear life, like true love scorned,
+                            would have its way within me. Quietly I slid down from the stool, and
+                            cowered upon it, in a storm of trembling. My eyelids dropped in agony, I
+                            could not lift them again, but blue and red lights seemed to dance
+                            within them. I had made up my mind to blindness; but not, oh not just
+                            yet, to death.</p>
+                        <p>How long I remained in this abject state, scorning myself, yet none the
+                            braver, is more than I can tell, or even cared to ask. May it never be
+                            the lot of any, not even the basest murderer! Worn out at last, in a
+                            lull of pain and terror, I fell into deep sleep, from which I was
+                            awakened by a hand upon my shoulder.</p>
+                        <p>I tried to look up, but could not. Sight was fled, and as I thought for
+                            ever. But I felt that it was a friend.</p>
+                        <p>"Ah, I see how it is"—the voice was Inspector Cutting's—"my poor child,
+                            there is now no danger. Give me your hand:" he tried to lift me, but I
+                            fell against the wall.</p>
+                        <p>"Take a sip of this, we must restore circulation. It is the cold as much
+                            as anything; another sip, Miss Vaughan." He used my true name on
+                            purpose; it helped to restore me. He was most humane and kind; he did
+                            not even remind me of Dutch courage.</p>
+                    </div>
+                </div>
+
                 <div type="group">
-                     <head>BOOK III.</head>
+                    <head>BOOK III.</head>
                     <div type="chapter">
                         <head>CHAPTER I.</head>
                         <p>In the morning I dreamed of Isola. Across a broad black river, I saw her
@@ -7441,7 +7442,8 @@
                             slept with that beneath my pillow for fear the priest should get it.
                             Lord, how they did fight over the poor old lady's rags and bones, that
                             leathery priest and three yellow kites of cousins, they said they was,
-                            as come from Portugal. At last they got a ministration<ref target="#ENG18640_N6"/> with the testament and text, and they robbed
+                            as come from Portugal. At last they got a ministration<ref
+                                target="#ENG18640_N6"/> with the testament and text, and they robbed
                             me shameful, shameful, my good friend. Never catch me going to mass
                             again, or you may tell me of it."</p>
 
@@ -8504,343 +8506,329 @@
                             I could do no harm, since the physician gave up, and I might do
                             good—sleep, the lover of repetition, laid his hand alike on my formula
                             and myself. Dear Judy's howl was in my dream, and Mrs. Shelfer's never
-                            ceasing prattle.</p></div>
-                        <div type="chapter">
-                            <head>CHAPTER XVIII.</head>
-                            <p>Cold and fresh was the morning air, and the open window invited the
-                                sounds of country life. Who could think of fever with the bright dew
-                                sparkling on the lawn, the lilac buds growing fat enough to claim
-                                their right of shadow, the pleasant ring of the sharpening scythe,
-                                and the swishing sweep of the swathe? From the stable-yard, round
-                                the corner, came the soothing hiss of the grooms, the short stamp of
-                                the lively steed (I fancied I knew my own favourite "Lilla"), and
-                                the gruff "Stand still, mare, wull'e?" Far down the avenue whistled
-                                the cowboy, waddle-footed, on his way to the clover leys, or the
-                                milkmaid sung with the pail on her hip, and the deer came trooping
-                                and stooping their horns along. Was it not one of my own pet robins,
-                                who hopped on the window-sill, peered bravely at himself in the jug,
-                                and tried to remember the last of his winter notes?</p>
-                            <p>But it is cold, Jane, very cold indeed; and we have never been to
-                                bed; and now the mowers have descried us, why do they stop their
-                                work, and shake their heads together so, and keep outside the
-                                ranunculus bed, and agree that the grass beneath our windows does
-                                not require cutting? Why, if they were Papists, they would cross
-                                themselves, and that saves many an oath. But the grass does want
-                                cutting, Jane. It cannot have been cut for a week. I will call to
-                                them. No, it might disturb my uncle.</p>
-                            <p>There is no sound from the bed-room yet: all deep and deadly silence.
-                                I will go and see.</p>
-                            <p>There my patient lies, just as when I saw him first, except that I
-                                have arranged the wreck of his hoary locks, and applied a lotion to
-                                his temple on the burning side. And yet, now I look closer, the face
-                                is not quite so livid; or is it the difference between the
-                                candle-light and the morning ray?</p>
-                            <p>Even while I looked, he started up, as if my eyes revived him. He did
-                                not moan or cry; but opened wide his filmy eyes, and gazed feebly
-                                and placidly at me. For a time he did not know me: then a great
-                                change gradually crept through his long faltering gaze. Fearing the
-                                effects of excitement upon him, I tried to divert his attention by
-                                another good dose of yeast. Three times he took it with resignation
-                                like a well-trained child, but his eyes all the time intent on me.
-                                Presently they began to swim and swerve; the effort of the faint
-                                blood-tissued brain and the exertion of swallowing had been too much
-                                for his shattered powers. He fell off again into the comatose state,
-                                but with a palpable difference. The pulse, which had throbbed on the
-                                hot side only, could now be felt most feebly moving in the other
-                                wrist, and the tension of the muscles was relaxed: circulation was
-                                being restored and balanced, and the breathing could now be traced,
-                                short as it was and irregular.</p>
-                            <p>I have not time to describe all the symptoms of gradual improvement,
-                                and I have not the medical knowledge needful to do so clearly.
-                                Enough that the six-hour interval was shortened that day by half,
-                                that the breathing became more regular, and a soft perspiration
-                                broke through the clogged and clammy pores. Jane wanted to second
-                                this by an additional blanket, but I feared to allow it in a case of
-                                so utter prostration. When the perspiration was over, then I
-                                prescribed the blanket for fear of a chill reaction.</p>
-                            <p>At every return of consciousness, our patient made an effort to
-                                speak, but I hushed him with my hand on his lips, and he even
-                                managed to smile, when he found that I would be obeyed. In the
-                                evening he tried to open his arms to me, and then tried to push me
-                                away, in some faint recollection of the nature of his disorder. To
-                                me the interest was so intense, and the delight so deep, that if I
-                                had lost him now, it would surely have broken my heart.</p>
-                            <p>At sunset of that day, as nurse and I sat near the dressing-room
-                                window, watching the slant rays flickering on the sward, and the
-                                rooks alighting and swinging over their noisy nests, a black cloud
-                                hung for a moment just above the sun, a black cloud with a vivid
-                                edge of gold. It tempered the light in a peculiar manner, and seemed
-                                to throw it downwards. Peering through my fingers at it, for it was
-                                very beautiful, I saw a whitish mist or vapour steaming and hovering
-                                above the disk of the setting sun, between my eyes and that golden
-                                marge. I wondered what this could be; there was no heat to cause
-                                strong evaporation, nor any mist or dewy haze about, nor was the sun
-                                "drawing water." But what I saw was like that trembling twinkle of
-                                the air, which we often observe on a meadow footpath in the hot
-                                forenoon of July. I drew Jane's attention to it, not expecting any
-                                solution, but just for something to say.</p>
-                            <p>"Dear me, Miss, don't you know what that is? I see it every evening;
-                                it will be twice as plain when the sun goes down, and then it will
-                                be quite white."</p>
-                            <p>"Well, what is it? Why can't you tell me? Is everything here a
-                                secret?"</p>
-                            <p>I was rather irritable, but vexed with myself for being so. Too much
-                                excitement and too little sleep were the causes.</p>
-                            <p>"No, Miss, there's no secret at all about that. Every one knows what
-                                that is. It's only the scum that rises through the grass from the
-                                arched pool that takes all the drains of the house. Some of the arch
-                                fell in they say, and the ground shakes when they mow it; they are
-                                afraid to roll there."</p>
-                            <p>"Is it possible? And you knew it, a practised nurse like you! Did my
-                                uncle know it?"</p>
-                            <p>"I am sure, Miss, I can't tell: most likely not, or he would have had
-                                it mended, he hates things out of repair. But it can't do any harm,
-                                with the mould and the grass above it."</p>
-                            <p>"Can't it indeed? And you can see it rise. Shut all the bedroom
-                                windows in a moment, Jane. I'll shut this."</p>
-                            <p>She thought my wits were wandering, from what I had gone through;
-                                nevertheless she obeyed me.</p>
-                            <p>It happened that I had attended, at Isola's urgent request, one
-                                lecture of the many delivered by Dr. Ross. She forgot what the
-                                subject was to be. It proved to be an unsavoury and "unlady-like"
-                                one—Mephitis. Isola wanted to run away, but I have none of that
-                                nonsense about me, when human life is concerned, and listened with
-                                great attention, and even admiration; for he handled the matter
-                                eloquently and well.</p>
-                            <p>"Now, Jane, throw all the doors open, and the lobby window that looks
-                                in the other direction. When do you think it will be possible to
-                                move our poor patient from these rooms? The air here is deadly
-                                poison."</p>
-                            <p>"Well I'm sure, Miss! And he couldn't have a nicer nor a more airy
-                                room; and all my things in order too, and so handy, and so many
-                                cupboards!"</p>
-                            <p>"Out of this poison he must go. When can he be moved?"</p>
-                            <p>"Well, Miss, he might be moved to-morrow, if we could only get plenty
-                                of hands, and do it cleverly."</p>
-                            <p>"Surely we can have plenty of hands. There used to be twenty-five
-                                servants here; and I have not heard that my uncle has lessened the
-                                number."</p>
-                            <p>"No, Miss; but save and keep us, we shan't get one of them here."</p>
-                            <p>"Nonsense! I will have them, or they leave the house. Of course I
-                                won't peril their lives. We shall only want two or three; and they
-                                may take a bath of disinfecting stuff, with all their clothes on,
-                                before they come; and they may smoke all the while."</p>
-                            <p>The nurse laughed grimly, and shook her gray head.</p>
-                            <p>"And we will fumigate, Jane, fumigate tremendously. Surely Englishmen
-                                have more self-respect than to be such babies, and you a woman, and
-                                I a girl, shaming them out of face."</p>
-                            <p>"It doesn't matter, Miss; they won't come. I know them well, the lot
-                                I mean that are in the house now."</p>
-                            <p>"Very well, Jane, we'll have Gamekeeper Hiatt, and his eldest son;
-                                they are men I know. And if that is not enough, we'll send to
-                                Gloucester for Thomas Henwood. But why don't you open the lobby
-                                door, as I told you?"</p>
-                            <p>"If you please, Miss, I can't. They have fastened it outside."</p>
-                            <p>"Do you mean to say that they have dared to lock us in?"</p>
-                            <p>"Indeed I do, Miss; we have been fastened in since the morning."</p>
-                            <p>"And pray, why did you not tell me?'</p>
-                            <p>"Because I feared to excite you, Miss. I know your temper when you
-                                are wronged, ever since you was that high; and in this fever air,
-                                excitement is sure to kill you. Brutes! But I suppose they don't
-                                know it."</p>
-                            <p>"They know it well; at least the master-spirit does. And for that
-                                very reason I will crush my indignation. Since I was that high,
-                                Jane, I have passed through much tribulation, and have dropped my
-                                lady-heiress tone. I can now command myself."</p>
-                            <p>"Then, Miss, I will show you what they sent this morning, round the
-                                handle of the coffee-jug. I was afraid to let you see it before."
-                                She gave me a twist of paper, on which was written as follows:—</p>
-                            <p>"For the safety of the household, Mrs. Fletcher orders that the
-                                persons in the fever-room be allowed no communication with the other
-                                servants. The intercepting door is fastened, because a most sinful
-                                un-Christian act was perpetrated last night. Due supplies will be
-                                delivered once a-day, at 10 A.M. No empty vessels and no
-                                correspondence received. Any attempt to break these rules will be
-                                punished by suspension of supplies. Servants are forbidden to come
-                                beneath the sick-room windows. May the Lord have you in His keeping,
-                                in His tender mercy, according to His holy will. You are requested
-                                to read Philippians i. 8-11 inclusive. There are three holy bibles
-                                on the drawers and dressing-tables."</p>
-                            <p>When I had read this, and perceived, by the blasphemy at the end,
-                                that it could proceed from no other than that awful woman, I confess
-                                that my spirit was cowed within me. Not from selfish fear, nor yet
-                                from the taming of passion, but from the lowering thought that I
-                                belonged to the same race of being as the author of such Satanity.
-                                Presently, I became too indignant to speak, or even think. It added,
-                                if that were possible, to my indignation, that I had seen her leave
-                                the house, about nine o'clock that morning, in our best close
-                                carriage. She kept the windows up until she was past the lawn and
-                                the light iron gates, beyond the arcade of roses; then, at the first
-                                turn in the avenue, she let down the glass and gracefully kissed her
-                                hand to me. I did not believe, however, that she was gone back to
-                                Cheltenham. With so much at stake in our house, and depending on her
-                                direction, she would surely stop in the neighbourhood, if only to
-                                watch the course of events.</p>
-                            <p>Sooner than I dared to expect, I regained the command of myself;
-                                horror within me was stronger than wrath, and stronger than either
-                                became the resolve to survive and win. "There can be no God," I
-                                exclaimed, in my presumptuous ignorance, "if this scheme of the
-                                devil is permitted to triumph."</p>
-                            <p>First I tried the door, which severed us from the rest of the house.
-                                My uncle's rooms were in the western wing, very near those which my
-                                dear mother had occupied, and not very far from my own. They formed
-                                one floor of the western gable; the three bedroom windows and that
-                                of the dressing-room looked to the west, while the great lobby
-                                window, from which I had seen Mrs. Daldy's departure, looked
-                                southward along the avenue, the curve of which could be seen also
-                                from the bedroom windows. An oaken door, at the end of the main
-                                passage, cut off the rooms in this storey of the gable from all the
-                                rest of the house. This door Jane had left locked from the inside,
-                                fearing lest others should lock her in, as they had threatened to
-                                do. But now we found that a strong iron bolt had been fixed upon the
-                                outside, while we were asleep in the morning, and that we had no
-                                chance of forcing it.</p>
-                            <p>Next I asked Jane, whether she thought that the house, now Mrs. Daldy
-                                was gone, would be still in the hands of our enemies. Would not Mrs.
-                                Fletcher at once re-assert her authority? Might not Matilda Jenkins
-                                be expected to fly to the rescue? The nurse, knowing all the
-                                politics of the servants' hall, assured me that there was no hope of
-                                either of these events. Robert, a drunken Wesleyan, turned out of
-                                the sect in Cheltenham, was Mrs. Daldy's lieutenant, and would take
-                                all care of Matilda, to whose good graces he had been making
-                                overture. As for Mrs. Fletcher, she was probably in the same plight
-                                as ourselves. From what I heard about Robert, I began to believe
-                                that he had private orders to disown me at the station, for the
-                                double purpose of yielding a tit-bit of insolence, and warning of my
-                                arrival.</p>
-                            <p>However, that mattered very little; but out of those rooms I must
-                                get, either by door or by window; and that, too, without delay. Do
-                                they expect to triumph so easily over Clara Vaughan? And in her
-                                father's house? The windows were about twenty feet from the ground,
-                                as nearly as I could guess, and the rooms beneath were empty. At
-                                once I resolved to attempt an escape that way, and to do so before
-                                the moon, which was southing now, should shine on the western
-                                aspect. Good Jane was terrified at the thought; and then, upon my
-                                persisting, implored me to let her make the attempt, if it must be
-                                made at all.</p>
-                            <p>"Now, Jane, no more, if you please. We can't waste time about that.
-                                You have a husband partly dependent upon you, and several children
-                                to think of. For me nobody cares." But I hoped somebody did. "And
-                                you know I am far more active and much lighter than you are. Help me
-                                out with the feather bed."</p>
-                            <p>The little bed in the dressing-room, which she had to sleep on, was
-                                speedily brought to the window, and dropped just underneath it. It
-                                fell upon the grass with a pleasing and quiet flop. Then the two
-                                strong bell-ropes, already cut down and plaited together, were tied
-                                round the bars of the double window sashes, the lower sash being
-                                thrown up to the full extent, the glass pressed quietly out with a
-                                pair of wet towels, and the splinters removed, so as not to cut the
-                                rope. The latter still failed to reach more than half-way to the
-                                ground, but I would venture the drop if I could only descend so far.
-                                After winding a linen sheet around my body and dress, with the end
-                                tied round one ankle, so as to leave me free use of my limbs, I sat
-                                upon the window-sill in the broad shadow, and calculated my chances.
-                                Should I begin the descent with face, or with back, to the wall?
-                                Face to the wall I resolved on, for though I should have to drop
-                                backward so, yet what I feared most of all was having the back of my
-                                head crushed against the house. Next to this I dreaded a sprain of
-                                the ankle, but all our family are well-knit and straight in the
-                                joint.</p>
-                            <p>So I launched myself off, beginning as gently as could be, Jane
-                                having firm hold of one hand, until I was well on the voyage. Though
-                                not well versed in calisthenic arts, I got on famously almost as far
-                                as the end of the rope, keeping away from the wall by the
-                                over-saling of the window-sill, and the rapid use of my feet. Then I
-                                rested a moment on a projecting ledge—called, I believe, a
-                                "stringing-course"—and away hand below hand again. But I struck my
-                                knuckles terribly against that stringing-course, and very nearly
-                                lost hold from the pain of the blow; then bending my body forward I
-                                gave one good push at the wall, and shutting both eyes, I believe,
-                                let go the rope altogether. Backward I fell, and rolled over upon
-                                the feather bed. I was not even stunned, but feared for a moment to
-                                try if my limbs were sound.</p>
-                            <p>There I sat and stripped off the winding sheet. Presently, up I got,
-                                and, in my triumph, alas! could not help crying "All right, Hurrah!"
-                                like a foolish little child. In a moment I saw that my cry had been
-                                heard, where it should not have been. A rapid flitting of lights
-                                along the lower windows and in the stableyard, and I knew that chase
-                                would be given.</p>
-                            <p>But after leaving my father's house in such a dignified manner, was
-                                it likely that I would give in and be caught? Now, Clara, you could
-                                beat all your nurses in running, off and away like the wind! Away I
-                                went full speed towards the shade of the avenue, while Jane had the
-                                wit to scream out of the window, "Help! Help! Here's the house on
-                                fire!" This made some little diversion; I had a capital start, and
-                                it was but half a mile to the lodge where old Whitehead lived. Once
-                                there, I should care for nobody. I must have escaped very easily,
-                                for my feet seemed as swift as a deer's; but, as my luck would have
-                                it, the light iron gates between the lawn and the park were
-                                fastened. What on earth should I do? I saw men running across the
-                                lawn, and, what was worse, they saw me. In vain I pulled at the
-                                gates; they rattled, but would not yield. Had I owned true presence
-                                of mind, I should have walked boldly up to the men, and dared them
-                                to touch me fresh from the fever-room. In the flurry of the moment I
-                                never thought of that, but darted into the shrubbery, and crouched
-                                among thick laurels. Presently I heard them rush down the main drive
-                                and begin the search, with some heavy swearing. Two of them came to
-                                the very clump I was hiding in, and pushed a pitchfork almost into
-                                my side, but the stupid fellows had lanterns, which blinded them to
-                                the moonlight. On they went with grumblings and growlings, which
-                                told me exactly where to shun them. Judging at length, from the
-                                silence, that the search had passed to the right, I slipped from my
-                                tangled lair, and glided away to the left, beyond the shrubbery
-                                spring, where a little gate, as I knew, led to a glade in the park.
-                                The deep ha-ha which I had feared to jump in the dark, because of
-                                the loose stones at the bottom, was here succeeded by a high oak
-                                paling, and probably through that gate had come the murderer of my
-                                father.</p>
-                            <p>With a cold shudder at the remembrance, I stole along through the
-                                shadowy places, and had almost reached the little gate, when I saw
-                                two of the searchers coming straight towards me. To the right of me
-                                was the park-paling, on the left a breastwork of sod, which I could
-                                not climb without being clearly seen; to fly was to meet the enemy;
-                                should I yield, and be baffled after all; insulted too, most likely,
-                                for I knew that the men were tipsy?</p>
-                            <p>In my hand was the tightly-wound sheet, used as a rope to confine my
-                                dress. I had folded it short and carried it, on the chance of its
-                                proving useful. In a moment I was under the palings in deep shadow,
-                                with the white sheet thrown around me, falling from my forehead, and
-                                draped artistically over the right arm. Stock still I stood against
-                                the black boards, and two great coils of long black hair flowed down
-                                the winding sheet. The men came up, tired of the chase, and
-                                grumbling; and by their voices I knew them for my good friends Jacob
-                                and Bob. Suddenly, they espied a tall, white figure, of tremendous
-                                aspect. They stopped short, both tongue and foot, and I distinctly
-                                heard their teeth chatter. With a slow and spectral motion, I raised
-                                my draped white arm, and fetched a low, sepulchral moan. Down fell
-                                the lantern, and, with a loud yell, away went the men, as hard as
-                                their legs could carry them.</p>
-                            <p>Laughing heartily, I refolded my sheet, and taking the short cut
-                                across the park to the lodge where old Whitehead lived, arrived,
-                                without having met even my old friend "Tulip."</p>
-                            <p>The old man, in hot indignation, drew forth his battered musket—for
-                                he had once been in the militia—and swore that he would march upon
-                                the —— rogues at once. Instead of that I sent him for the two
-                                Hiatts, and the village constable; and soon, without invitation,
-                                half the village attended. With my torn dress tucked up by good Mrs.
-                                Whitehead, and a hat on my head, newly bought for her clean little
-                                grandchild, I set forth again in the moonlight, at the head of a
-                                faithful army, to recover my native home.</p>
-                            <p>Hiatt easily opened the gate, which had defied my flurried efforts,
-                                and we presented ourselves at the main entrance, a force that would
-                                frighten a castle. It is needless to say that we carried all before
-                                us. The state of siege was rescinded, Mrs. Fletcher and Tilly set
-                                free, all the ringleaders turned away neck and crop, and what was
-                                far more important, my poor uncle removed, without being conscious
-                                of it, to a sweet and wholesome room. The sturdy Gloucestershire
-                                yeomen scorned all idea of danger.</p>
-                            <p>Tired with all my adventures, before I slept that night—still near my
-                                uncle's bed—two reflections came dreamily over my mind.</p>
-                            <p>The first was a piece of vanity. "Ah, Mrs. Daldy, you little know
-                                Clara Vaughan!"</p>
-                            <p>The second was, "Dear me, how Conrad would be astonished at this! And
-                                how strange that his father should thus have saved my uncle's life!
-                                For he must have died, if left in that noisome room."</p>
-                        </div>
+                            ceasing prattle.</p>
                     </div>
-              
+                    <div type="chapter">
+                        <head>CHAPTER XVIII.</head>
+                        <p>Cold and fresh was the morning air, and the open window invited the
+                            sounds of country life. Who could think of fever with the bright dew
+                            sparkling on the lawn, the lilac buds growing fat enough to claim their
+                            right of shadow, the pleasant ring of the sharpening scythe, and the
+                            swishing sweep of the swathe? From the stable-yard, round the corner,
+                            came the soothing hiss of the grooms, the short stamp of the lively
+                            steed (I fancied I knew my own favourite "Lilla"), and the gruff "Stand
+                            still, mare, wull'e?" Far down the avenue whistled the cowboy,
+                            waddle-footed, on his way to the clover leys, or the milkmaid sung with
+                            the pail on her hip, and the deer came trooping and stooping their horns
+                            along. Was it not one of my own pet robins, who hopped on the
+                            window-sill, peered bravely at himself in the jug, and tried to remember
+                            the last of his winter notes?</p>
+                        <p>But it is cold, Jane, very cold indeed; and we have never been to bed;
+                            and now the mowers have descried us, why do they stop their work, and
+                            shake their heads together so, and keep outside the ranunculus bed, and
+                            agree that the grass beneath our windows does not require cutting? Why,
+                            if they were Papists, they would cross themselves, and that saves many
+                            an oath. But the grass does want cutting, Jane. It cannot have been cut
+                            for a week. I will call to them. No, it might disturb my uncle.</p>
+                        <p>There is no sound from the bed-room yet: all deep and deadly silence. I
+                            will go and see.</p>
+                        <p>There my patient lies, just as when I saw him first, except that I have
+                            arranged the wreck of his hoary locks, and applied a lotion to his
+                            temple on the burning side. And yet, now I look closer, the face is not
+                            quite so livid; or is it the difference between the candle-light and the
+                            morning ray?</p>
+                        <p>Even while I looked, he started up, as if my eyes revived him. He did not
+                            moan or cry; but opened wide his filmy eyes, and gazed feebly and
+                            placidly at me. For a time he did not know me: then a great change
+                            gradually crept through his long faltering gaze. Fearing the effects of
+                            excitement upon him, I tried to divert his attention by another good
+                            dose of yeast. Three times he took it with resignation like a
+                            well-trained child, but his eyes all the time intent on me. Presently
+                            they began to swim and swerve; the effort of the faint blood-tissued
+                            brain and the exertion of swallowing had been too much for his shattered
+                            powers. He fell off again into the comatose state, but with a palpable
+                            difference. The pulse, which had throbbed on the hot side only, could
+                            now be felt most feebly moving in the other wrist, and the tension of
+                            the muscles was relaxed: circulation was being restored and balanced,
+                            and the breathing could now be traced, short as it was and
+                            irregular.</p>
+                        <p>I have not time to describe all the symptoms of gradual improvement, and
+                            I have not the medical knowledge needful to do so clearly. Enough that
+                            the six-hour interval was shortened that day by half, that the breathing
+                            became more regular, and a soft perspiration broke through the clogged
+                            and clammy pores. Jane wanted to second this by an additional blanket,
+                            but I feared to allow it in a case of so utter prostration. When the
+                            perspiration was over, then I prescribed the blanket for fear of a chill
+                            reaction.</p>
+                        <p>At every return of consciousness, our patient made an effort to speak,
+                            but I hushed him with my hand on his lips, and he even managed to smile,
+                            when he found that I would be obeyed. In the evening he tried to open
+                            his arms to me, and then tried to push me away, in some faint
+                            recollection of the nature of his disorder. To me the interest was so
+                            intense, and the delight so deep, that if I had lost him now, it would
+                            surely have broken my heart.</p>
+                        <p>At sunset of that day, as nurse and I sat near the dressing-room window,
+                            watching the slant rays flickering on the sward, and the rooks alighting
+                            and swinging over their noisy nests, a black cloud hung for a moment
+                            just above the sun, a black cloud with a vivid edge of gold. It tempered
+                            the light in a peculiar manner, and seemed to throw it downwards.
+                            Peering through my fingers at it, for it was very beautiful, I saw a
+                            whitish mist or vapour steaming and hovering above the disk of the
+                            setting sun, between my eyes and that golden marge. I wondered what this
+                            could be; there was no heat to cause strong evaporation, nor any mist or
+                            dewy haze about, nor was the sun "drawing water." But what I saw was
+                            like that trembling twinkle of the air, which we often observe on a
+                            meadow footpath in the hot forenoon of July. I drew Jane's attention to
+                            it, not expecting any solution, but just for something to say.</p>
+                        <p>"Dear me, Miss, don't you know what that is? I see it every evening; it
+                            will be twice as plain when the sun goes down, and then it will be quite
+                            white."</p>
+                        <p>"Well, what is it? Why can't you tell me? Is everything here a
+                            secret?"</p>
+                        <p>I was rather irritable, but vexed with myself for being so. Too much
+                            excitement and too little sleep were the causes.</p>
+                        <p>"No, Miss, there's no secret at all about that. Every one knows what that
+                            is. It's only the scum that rises through the grass from the arched pool
+                            that takes all the drains of the house. Some of the arch fell in they
+                            say, and the ground shakes when they mow it; they are afraid to roll
+                            there."</p>
+                        <p>"Is it possible? And you knew it, a practised nurse like you! Did my
+                            uncle know it?"</p>
+                        <p>"I am sure, Miss, I can't tell: most likely not, or he would have had it
+                            mended, he hates things out of repair. But it can't do any harm, with
+                            the mould and the grass above it."</p>
+                        <p>"Can't it indeed? And you can see it rise. Shut all the bedroom windows
+                            in a moment, Jane. I'll shut this."</p>
+                        <p>She thought my wits were wandering, from what I had gone through;
+                            nevertheless she obeyed me.</p>
+                        <p>It happened that I had attended, at Isola's urgent request, one lecture
+                            of the many delivered by Dr. Ross. She forgot what the subject was to
+                            be. It proved to be an unsavoury and "unlady-like" one—Mephitis. Isola
+                            wanted to run away, but I have none of that nonsense about me, when
+                            human life is concerned, and listened with great attention, and even
+                            admiration; for he handled the matter eloquently and well.</p>
+                        <p>"Now, Jane, throw all the doors open, and the lobby window that looks in
+                            the other direction. When do you think it will be possible to move our
+                            poor patient from these rooms? The air here is deadly poison."</p>
+                        <p>"Well I'm sure, Miss! And he couldn't have a nicer nor a more airy room;
+                            and all my things in order too, and so handy, and so many
+                            cupboards!"</p>
+                        <p>"Out of this poison he must go. When can he be moved?"</p>
+                        <p>"Well, Miss, he might be moved to-morrow, if we could only get plenty of
+                            hands, and do it cleverly."</p>
+                        <p>"Surely we can have plenty of hands. There used to be twenty-five
+                            servants here; and I have not heard that my uncle has lessened the
+                            number."</p>
+                        <p>"No, Miss; but save and keep us, we shan't get one of them here."</p>
+                        <p>"Nonsense! I will have them, or they leave the house. Of course I won't
+                            peril their lives. We shall only want two or three; and they may take a
+                            bath of disinfecting stuff, with all their clothes on, before they come;
+                            and they may smoke all the while."</p>
+                        <p>The nurse laughed grimly, and shook her gray head.</p>
+                        <p>"And we will fumigate, Jane, fumigate tremendously. Surely Englishmen
+                            have more self-respect than to be such babies, and you a woman, and I a
+                            girl, shaming them out of face."</p>
+                        <p>"It doesn't matter, Miss; they won't come. I know them well, the lot I
+                            mean that are in the house now."</p>
+                        <p>"Very well, Jane, we'll have Gamekeeper Hiatt, and his eldest son; they
+                            are men I know. And if that is not enough, we'll send to Gloucester for
+                            Thomas Henwood. But why don't you open the lobby door, as I told
+                            you?"</p>
+                        <p>"If you please, Miss, I can't. They have fastened it outside."</p>
+                        <p>"Do you mean to say that they have dared to lock us in?"</p>
+                        <p>"Indeed I do, Miss; we have been fastened in since the morning."</p>
+                        <p>"And pray, why did you not tell me?'</p>
+                        <p>"Because I feared to excite you, Miss. I know your temper when you are
+                            wronged, ever since you was that high; and in this fever air, excitement
+                            is sure to kill you. Brutes! But I suppose they don't know it."</p>
+                        <p>"They know it well; at least the master-spirit does. And for that very
+                            reason I will crush my indignation. Since I was that high, Jane, I have
+                            passed through much tribulation, and have dropped my lady-heiress tone.
+                            I can now command myself."</p>
+                        <p>"Then, Miss, I will show you what they sent this morning, round the
+                            handle of the coffee-jug. I was afraid to let you see it before." She
+                            gave me a twist of paper, on which was written as follows:—</p>
+                        <p>"For the safety of the household, Mrs. Fletcher orders that the persons
+                            in the fever-room be allowed no communication with the other servants.
+                            The intercepting door is fastened, because a most sinful un-Christian
+                            act was perpetrated last night. Due supplies will be delivered once
+                            a-day, at 10 A.M. No empty vessels and no correspondence received. Any
+                            attempt to break these rules will be punished by suspension of supplies.
+                            Servants are forbidden to come beneath the sick-room windows. May the
+                            Lord have you in His keeping, in His tender mercy, according to His holy
+                            will. You are requested to read Philippians i. 8-11 inclusive. There are
+                            three holy bibles on the drawers and dressing-tables."</p>
+                        <p>When I had read this, and perceived, by the blasphemy at the end, that it
+                            could proceed from no other than that awful woman, I confess that my
+                            spirit was cowed within me. Not from selfish fear, nor yet from the
+                            taming of passion, but from the lowering thought that I belonged to the
+                            same race of being as the author of such Satanity. Presently, I became
+                            too indignant to speak, or even think. It added, if that were possible,
+                            to my indignation, that I had seen her leave the house, about nine
+                            o'clock that morning, in our best close carriage. She kept the windows
+                            up until she was past the lawn and the light iron gates, beyond the
+                            arcade of roses; then, at the first turn in the avenue, she let down the
+                            glass and gracefully kissed her hand to me. I did not believe, however,
+                            that she was gone back to Cheltenham. With so much at stake in our
+                            house, and depending on her direction, she would surely stop in the
+                            neighbourhood, if only to watch the course of events.</p>
+                        <p>Sooner than I dared to expect, I regained the command of myself; horror
+                            within me was stronger than wrath, and stronger than either became the
+                            resolve to survive and win. "There can be no God," I exclaimed, in my
+                            presumptuous ignorance, "if this scheme of the devil is permitted to
+                            triumph."</p>
+                        <p>First I tried the door, which severed us from the rest of the house. My
+                            uncle's rooms were in the western wing, very near those which my dear
+                            mother had occupied, and not very far from my own. They formed one floor
+                            of the western gable; the three bedroom windows and that of the
+                            dressing-room looked to the west, while the great lobby window, from
+                            which I had seen Mrs. Daldy's departure, looked southward along the
+                            avenue, the curve of which could be seen also from the bedroom windows.
+                            An oaken door, at the end of the main passage, cut off the rooms in this
+                            storey of the gable from all the rest of the house. This door Jane had
+                            left locked from the inside, fearing lest others should lock her in, as
+                            they had threatened to do. But now we found that a strong iron bolt had
+                            been fixed upon the outside, while we were asleep in the morning, and
+                            that we had no chance of forcing it.</p>
+                        <p>Next I asked Jane, whether she thought that the house, now Mrs. Daldy was
+                            gone, would be still in the hands of our enemies. Would not Mrs.
+                            Fletcher at once re-assert her authority? Might not Matilda Jenkins be
+                            expected to fly to the rescue? The nurse, knowing all the politics of
+                            the servants' hall, assured me that there was no hope of either of these
+                            events. Robert, a drunken Wesleyan, turned out of the sect in
+                            Cheltenham, was Mrs. Daldy's lieutenant, and would take all care of
+                            Matilda, to whose good graces he had been making overture. As for Mrs.
+                            Fletcher, she was probably in the same plight as ourselves. From what I
+                            heard about Robert, I began to believe that he had private orders to
+                            disown me at the station, for the double purpose of yielding a tit-bit
+                            of insolence, and warning of my arrival.</p>
+                        <p>However, that mattered very little; but out of those rooms I must get,
+                            either by door or by window; and that, too, without delay. Do they
+                            expect to triumph so easily over Clara Vaughan? And in her father's
+                            house? The windows were about twenty feet from the ground, as nearly as
+                            I could guess, and the rooms beneath were empty. At once I resolved to
+                            attempt an escape that way, and to do so before the moon, which was
+                            southing now, should shine on the western aspect. Good Jane was
+                            terrified at the thought; and then, upon my persisting, implored me to
+                            let her make the attempt, if it must be made at all.</p>
+                        <p>"Now, Jane, no more, if you please. We can't waste time about that. You
+                            have a husband partly dependent upon you, and several children to think
+                            of. For me nobody cares." But I hoped somebody did. "And you know I am
+                            far more active and much lighter than you are. Help me out with the
+                            feather bed."</p>
+                        <p>The little bed in the dressing-room, which she had to sleep on, was
+                            speedily brought to the window, and dropped just underneath it. It fell
+                            upon the grass with a pleasing and quiet flop. Then the two strong
+                            bell-ropes, already cut down and plaited together, were tied round the
+                            bars of the double window sashes, the lower sash being thrown up to the
+                            full extent, the glass pressed quietly out with a pair of wet towels,
+                            and the splinters removed, so as not to cut the rope. The latter still
+                            failed to reach more than half-way to the ground, but I would venture
+                            the drop if I could only descend so far. After winding a linen sheet
+                            around my body and dress, with the end tied round one ankle, so as to
+                            leave me free use of my limbs, I sat upon the window-sill in the broad
+                            shadow, and calculated my chances. Should I begin the descent with face,
+                            or with back, to the wall? Face to the wall I resolved on, for though I
+                            should have to drop backward so, yet what I feared most of all was
+                            having the back of my head crushed against the house. Next to this I
+                            dreaded a sprain of the ankle, but all our family are well-knit and
+                            straight in the joint.</p>
+                        <p>So I launched myself off, beginning as gently as could be, Jane having
+                            firm hold of one hand, until I was well on the voyage. Though not well
+                            versed in calisthenic arts, I got on famously almost as far as the end
+                            of the rope, keeping away from the wall by the over-saling of the
+                            window-sill, and the rapid use of my feet. Then I rested a moment on a
+                            projecting ledge—called, I believe, a "stringing-course"—and away hand
+                            below hand again. But I struck my knuckles terribly against that
+                            stringing-course, and very nearly lost hold from the pain of the blow;
+                            then bending my body forward I gave one good push at the wall, and
+                            shutting both eyes, I believe, let go the rope altogether. Backward I
+                            fell, and rolled over upon the feather bed. I was not even stunned, but
+                            feared for a moment to try if my limbs were sound.</p>
+                        <p>There I sat and stripped off the winding sheet. Presently, up I got, and,
+                            in my triumph, alas! could not help crying "All right, Hurrah!" like a
+                            foolish little child. In a moment I saw that my cry had been heard,
+                            where it should not have been. A rapid flitting of lights along the
+                            lower windows and in the stableyard, and I knew that chase would be
+                            given.</p>
+                        <p>But after leaving my father's house in such a dignified manner, was it
+                            likely that I would give in and be caught? Now, Clara, you could beat
+                            all your nurses in running, off and away like the wind! Away I went full
+                            speed towards the shade of the avenue, while Jane had the wit to scream
+                            out of the window, "Help! Help! Here's the house on fire!" This made
+                            some little diversion; I had a capital start, and it was but half a mile
+                            to the lodge where old Whitehead lived. Once there, I should care for
+                            nobody. I must have escaped very easily, for my feet seemed as swift as
+                            a deer's; but, as my luck would have it, the light iron gates between
+                            the lawn and the park were fastened. What on earth should I do? I saw
+                            men running across the lawn, and, what was worse, they saw me. In vain I
+                            pulled at the gates; they rattled, but would not yield. Had I owned true
+                            presence of mind, I should have walked boldly up to the men, and dared
+                            them to touch me fresh from the fever-room. In the flurry of the moment
+                            I never thought of that, but darted into the shrubbery, and crouched
+                            among thick laurels. Presently I heard them rush down the main drive and
+                            begin the search, with some heavy swearing. Two of them came to the very
+                            clump I was hiding in, and pushed a pitchfork almost into my side, but
+                            the stupid fellows had lanterns, which blinded them to the moonlight. On
+                            they went with grumblings and growlings, which told me exactly where to
+                            shun them. Judging at length, from the silence, that the search had
+                            passed to the right, I slipped from my tangled lair, and glided away to
+                            the left, beyond the shrubbery spring, where a little gate, as I knew,
+                            led to a glade in the park. The deep ha-ha which I had feared to jump in
+                            the dark, because of the loose stones at the bottom, was here succeeded
+                            by a high oak paling, and probably through that gate had come the
+                            murderer of my father.</p>
+                        <p>With a cold shudder at the remembrance, I stole along through the shadowy
+                            places, and had almost reached the little gate, when I saw two of the
+                            searchers coming straight towards me. To the right of me was the
+                            park-paling, on the left a breastwork of sod, which I could not climb
+                            without being clearly seen; to fly was to meet the enemy; should I
+                            yield, and be baffled after all; insulted too, most likely, for I knew
+                            that the men were tipsy?</p>
+                        <p>In my hand was the tightly-wound sheet, used as a rope to confine my
+                            dress. I had folded it short and carried it, on the chance of its
+                            proving useful. In a moment I was under the palings in deep shadow, with
+                            the white sheet thrown around me, falling from my forehead, and draped
+                            artistically over the right arm. Stock still I stood against the black
+                            boards, and two great coils of long black hair flowed down the winding
+                            sheet. The men came up, tired of the chase, and grumbling; and by their
+                            voices I knew them for my good friends Jacob and Bob. Suddenly, they
+                            espied a tall, white figure, of tremendous aspect. They stopped short,
+                            both tongue and foot, and I distinctly heard their teeth chatter. With a
+                            slow and spectral motion, I raised my draped white arm, and fetched a
+                            low, sepulchral moan. Down fell the lantern, and, with a loud yell, away
+                            went the men, as hard as their legs could carry them.</p>
+                        <p>Laughing heartily, I refolded my sheet, and taking the short cut across
+                            the park to the lodge where old Whitehead lived, arrived, without having
+                            met even my old friend "Tulip."</p>
+                        <p>The old man, in hot indignation, drew forth his battered musket—for he
+                            had once been in the militia—and swore that he would march upon the ——
+                            rogues at once. Instead of that I sent him for the two Hiatts, and the
+                            village constable; and soon, without invitation, half the village
+                            attended. With my torn dress tucked up by good Mrs. Whitehead, and a hat
+                            on my head, newly bought for her clean little grandchild, I set forth
+                            again in the moonlight, at the head of a faithful army, to recover my
+                            native home.</p>
+                        <p>Hiatt easily opened the gate, which had defied my flurried efforts, and
+                            we presented ourselves at the main entrance, a force that would frighten
+                            a castle. It is needless to say that we carried all before us. The state
+                            of siege was rescinded, Mrs. Fletcher and Tilly set free, all the
+                            ringleaders turned away neck and crop, and what was far more important,
+                            my poor uncle removed, without being conscious of it, to a sweet and
+                            wholesome room. The sturdy Gloucestershire yeomen scorned all idea of
+                            danger.</p>
+                        <p>Tired with all my adventures, before I slept that night—still near my
+                            uncle's bed—two reflections came dreamily over my mind.</p>
+                        <p>The first was a piece of vanity. "Ah, Mrs. Daldy, you little know Clara
+                            Vaughan!"</p>
+                        <p>The second was, "Dear me, how Conrad would be astonished at this! And how
+                            strange that his father should thus have saved my uncle's life! For he
+                            must have died, if left in that noisome room."</p>
+                    </div>
+                </div>
+
                 <div type="group">
-                     <head>BOOK IV.</head>
+                    <head>BOOK IV.</head>
                     <div type="chapter">
                         <head>CHAPTER I.</head>
                         <p>Before that week was over, my uncle could sit up in bed for a short time
@@ -9900,7 +9888,8 @@
                             and gonfalon, and she could see bright cavalcades winding through the
                             greenwood shade. In "coat and waistcoat" novels her soul took no
                             delight. Not a shilling would she squeeze from her little beaded purse
-                            for all the quicksilver of Dickens, or the frosted gold<ref target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
+                            for all the quicksilver of Dickens, or the frosted gold<ref
+                                target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
                             what fast young ladies call a "spooney;" she had plenty of common sense
                             upon the things of daily life, plenty of general information, and no
                             lack of gentle self-respect.</p>
@@ -10836,7 +10825,8 @@
                         </quote>
                         <p rend="pfirst">The Corsicans, on the contrary, have always been famous for
                             candour, whose very soul is truth, and for superstition, the wen or hump
-                            of religion. For my own part, loving not that unprincipled<ref target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
+                            of religion. For my own part, loving not that unprincipled<ref
+                                target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
                             islanders entertain a like antipathy, and loving much any freedom not
                             hostile to my own, I got on with the natives admirably, for a certain
                             time. Time had reconciled me to their custom of carrying, instead of
@@ -10980,15 +10970,15 @@
                             careworn man with beard of snow, seemed at times no little proud of his
                             sweet and only child, but was too proud to show his pride. As for me, he
                             must have thought that I spoke very poor Italian.</p>
-                      </div>
+                    </div>
                 </div>
-            <trailer>END OF VOL. II.</trailer>
-            
+                <trailer>END OF VOL. II.</trailer>
+
             </div>
-            
+
             <div type="group">
                 <div type="group">
-                     <head>BOOK IV. (continued).</head>
+                    <head>BOOK IV. (continued).</head>
                     <div type="chapter">
                         <head>CHAPTER X.</head>
                         <head>STORY OF EDGAR VAUGHAN.</head>
@@ -15120,7 +15110,8 @@
                             cross. My gaze was rivetted on a pair of boots, fixed in a ledge with
                             horse-shoe bays; on the sole of one I perceived a cross of metal inlaid;
                             I drew nearer to see it more closely, when something fell over my head.
-                            All down me, and round me, and twisted behind in a tight <hi rend="italic">tourniquet</hi>, before I could guess what it was. I
+                            All down me, and round me, and twisted behind in a tight <hi
+                                rend="italic">tourniquet</hi>, before I could guess what it was. I
                             am not weak, for a girl; but I could no more lift my arms than a swathed
                             mummy can. Neither could I kick, although as a child I had been famous
                             for that accomplishment; if I lifted either foot, I must tumble
@@ -15989,7 +15980,8 @@
                             ought to be very thankful, and what's more, I am. All of you likes Miss
                             Lily, unless they tell me stories, John.' 'Sir,' says I, 'we wusships
                             her, though not like our own Miss Vaughan.'"</p>
-                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi rend="italic">ex post facto</hi>?</p>
+                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi
+                                rend="italic">ex post facto</hi>?</p>
                         <p>"So he looked very pleased at that, Miss, and he says again, 'John, let
                             all that love her know that she is the living image of her mother. Now
                             go and send her quickly; but John, take care not to frighten my little

@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18641" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18641"
+     xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
                     <title>Fern's Hollow : ELTec edition</title>
-                    <author ref="viaf:29892399">Stretton, Hesba [pseud Sara Smith] (1832-1911).</author>
+                    <author ref="viaf:29892399">Stretton, Hesba [pseud Sara Smith]
+                         (1832-1911).</author>
                     <respStmt>
                          <resp>ELTeC conversion</resp>
                          <name>Lou Burnard</name>
@@ -24,8 +27,9 @@
                          </respStmt></bibl>
                     <bibl type="firstEdition" n="B10253"><title>Fern's
                               Hollow</title><author>Stretton, Hesba
-                              (1832-1911).</author><publisher>London:
-                                   Religious Tract Society</publisher><date>1864</date></bibl>
+                              (1832-1911).</author><publisher>London: Religious Tract
+                              Society</publisher><date>1864</date>
+                         <ref target="bod:590921254"/></bibl>
                </sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-1">
@@ -54,7 +58,7 @@
                     <p>By HESBA STRETTON</p>
                     <p>Author of 'Jessica's First Prayer,' 'Alone in London' 'Pilgrim Street,'
                          'Little Meg's Children' etc.</p>
-<p/>
+                    <p/>
                </div>
                <div type="chapter">
                     <head>CHAPTER I.</head>
@@ -3515,7 +3519,7 @@
                          heaven is perfect.'</p>
                     <trailer>THE END.</trailer>
                </div>
-               
+
 
 
           </body>
