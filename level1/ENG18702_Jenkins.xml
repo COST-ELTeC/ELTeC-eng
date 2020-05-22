@@ -24,7 +24,8 @@
           </respStmt></bibl>
         <bibl type="firstEdition" n="B8122"><title>Ginx's Baby: His Birth and Other
             Misfortunes</title><author>Jenkins, John Edward (1838-1910).</author><publisher>London:
-            Alexander Strahan</publisher><date>1871</date></bibl>
+            Alexander Strahan</publisher><date>1871</date>
+        <ref target="bod:600071699.pdf"/></bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -52,28 +53,32 @@
     </revisionDesc>
   </teiHeader>
   <text type="T2MSL">
-    <body>
-      <div type="titlepage">
-
-
-        <p>GINX'S BABY</p>
-
-        <p>His Birth and other Misfortunes</p>
-
-        <p>A SATIRE</p>
-
-
-
-        <p>By Edward Jenkins</p>
-        <quote><p>CRITIC.—I never read a more improbable story in my
-            life.</p><p>AUTHOR.—Notwithstanding, it may be true.</p></quote>
-
-
+    <front> 
+      
+      <div type="liminal">
+        <quote xml:lang="lat"><l>En quid agis? duplici in diversum scinderis hamo</l>
+          <l>Hunccine an hunc sequeris? </l>
+          <milestone unit="gap" rend="stars"/>
+          <l>Nam et luctata canis nodum abripit, attamen illi</l>
+          <l>Quum fugit a collo trabitur pars longa catenæ!</l></quote>
       </div>
-
-      <div type="group">
+      <div type="titlepage">    
+      <p>GINX'S BABY</p>
+      <p>His Birth and other Misfortunes</p>
+    <!--  
+      <p>By Edward Jenkins</p>
+      
+    -->
+  <p>Strahan &amp; co., publishers</p><p>56 Ludgate Hill, London</p><p>1870</p></div>
+      <div type="liminal">
+        <head>Preface.</head>  <quote><p>CRITIC.—I never read a more improbable story in my
+        life.</p><p>AUTHOR.—Notwithstanding, it may be true.</p></quote>
+      </div>
+      <gap unit="toc"/>
+    </front> 
+    <body> 
+       <div type="group">
         <head>PART I. WHAT GINX DID WITH HIM.</head>
-
         <div type="chapter">
           <head>I.—Ab initio.</head>
           <p>The name of the father of Ginx's Baby was Ginx. By a not unexceptional coincidence, its

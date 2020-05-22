@@ -44,7 +44,11 @@
                 <bibl type="firstEdition" n="B7723"><title>The True History of Joshua
                         Davidson</title><author>Linton, E. Lynn (Elizabeth Lynn),
                         1822-1898</author><publisher>Strahan and Co.</publisher><pubPlace>London
-                        </pubPlace><date when="1872">1872</date></bibl>
+                        </pubPlace><date when="1872">1872</date></bibl><bibl type="printSource">
+                            <title>The true history of Joshua Davidson</title>
+                            <ref target="bod:600014497">4th edition, 1873</ref>
+                            <!-- contains additional prefaces -->
+                        </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -102,7 +106,7 @@
                     JOSHUA will know who I am well enough; and if I have said anything wrong they
                     can come forward and challenge me. And for the rest it does not signify. I have
                     written merely for truth's sake and love's; and with this I leave my dear
-                    friend's memory to the verdict of all honest hearts.</p>
+                    friend's memory to the verdict of all honest hearts.</p><p>JOHN.</p>
             </div>
         </front>
         <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
