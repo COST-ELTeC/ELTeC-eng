@@ -24,6 +24,8 @@
     <bibl n="B13706" type="firstEdition"><title>The water of the wondrous
       isles</title><author>William Morris</author><publisher>Kelmscott Press</publisher>
      <date>1897</date>
+     <ref target="http://morrisedition.lib.uiowa.edu/Images/WaterWondrousIsles/waterwondrouskelmscott.html">Page images</ref>
+     <!-- combined at private:221177-MorrisWaterWondrousIsles_reduced.pdf -->
     </bibl>
     <bibl type="digitalSource"><title>The water of the wondrous isles</title><ref
       target="http://morrisedition.lib.uiowa.edu/waterwondrousisles.html"/>
@@ -31,13 +33,13 @@
      <respStmt>
       <resp>General Editor</resp>
       <name>Florence Boos</name>
-     </respStmt></bibl><bibl type="printSource">
-      <title>The water of the wondrous isles... in two volumes. Pocket edition. </title>
-      <publisher>Longmans, Green &amp; co.</publisher>
-      <date>1914</date>
-      <ref target="bod:590699513.pdf">vol 1</ref>;
-      <ref target="bod:555080323.pdf">vol 2</ref>;
-     </bibl>
+     </respStmt></bibl>
+    <bibl type="printSource">
+     <title>The water of the wondrous isles... in two volumes. Pocket edition. </title>
+     <publisher>Longmans, Green &amp; co.</publisher>
+     <date>1914</date>
+     <ref target="bod:590699513.pdf">vol 1</ref>; <ref target="bod:555080323.pdf">vol 2</ref>;
+    </bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
