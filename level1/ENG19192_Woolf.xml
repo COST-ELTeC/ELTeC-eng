@@ -25,9 +25,10 @@
       <name>Judy Boss, and David Widger</name>
      </respStmt>
      <ref target="gut:1245">http://www.gutenberg.org/1/2/4/1245/</ref>
-   </bibl><bibl type="printSource">
-    <publisher>Harcourt, Brace and company. New York.</publisher>
-   <ref target="ia:nightday00wool"/></bibl>
+    </bibl>
+    <bibl type="printSource">
+     <publisher>Harcourt, Brace and company. New York.</publisher>
+     <ref target="ia:nightday00wool"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
