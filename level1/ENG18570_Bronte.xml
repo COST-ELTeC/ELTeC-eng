@@ -22,8 +22,7 @@
     <bibl type="firstEdition" n="B7053"><title>The Professor</title><author>Currer
       Bell</author><publisher>London: Smith, Elderm &amp; co., 15 Waterloo
       Place</publisher><date>1857</date>
-     <ref target="bod:400294723">vol 1</ref>;
-     <ref target="bod:400294722">vol 2</ref></bibl>
+     <ref target="bod:400294723.pdf">vol 1</ref>; <ref target="bod:400294722.pdf">vol 2</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -34,7 +33,9 @@
     <language ident="eng">English</language>
    </langUsage>
    <textClass>
-    <keywords><term>canonical</term></keywords>
+    <keywords>
+     <term>canonical</term>
+    </keywords>
    </textClass>
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -3394,7 +3395,7 @@
      exit.</p>
    </div>
    <!-- end of volume 1 -->
-   
+
    <div type="chapter">
     <head>CHAPTER XVIII.</head>
     <p>THE young Anglo-Swiss evidently derived both pleasure and profit from the study of her
@@ -5023,20 +5024,22 @@
      in the apartment. Fascinated, I stood, more fixedly fascinated when a voice rewarded the
      attention of my strained ear—so low, so self-addressed, I never fancied the speaker otherwise
      than alone; solitude might speak thus in a desert, or in the hall of a forsaken house.</p>
-    <quote><l> “‘And ne’er but once, my son,’ he said, ‘Was yon dark cavern trod; In persecution’s
-      iron days, When the land was left by God. From Bewley’s bog, with slaughter red, A wanderer
-      hither drew; And oft he stopp’d and turn’d his head, As by fits the night-winds blew. For
-      trampling round by Cheviot-edge Were heard the troopers keen; And frequent from the Whitelaw
-      ridge The death-shot flash’d between.’” &amp;c. &amp;c. </l></quote>
+    <quote>
+     <l> “‘And ne’er but once, my son,’ he said, ‘Was yon dark cavern trod; In persecution’s iron
+      days, When the land was left by God. From Bewley’s bog, with slaughter red, A wanderer hither
+      drew; And oft he stopp’d and turn’d his head, As by fits the night-winds blew. For trampling
+      round by Cheviot-edge Were heard the troopers keen; And frequent from the Whitelaw ridge The
+      death-shot flash’d between.’” &amp;c. &amp;c. </l></quote>
     <p>The old Scotch ballad was partly recited, then dropt; a pause ensued; then another strain
      followed, in French, of which the purport, translated, ran as follows:—</p>
-    <quote><l> I gave, at first, attention close; Then interest warm ensued; From interest, as
-      improvement rose, Succeeded gratitude. Obedience was no effort soon, And labour was no pain;
-      If tired, a word, a glance alone Would give me strength again. From others of the studious
-      band, Ere long he singled me; But only by more close demand, And sterner urgency. The task he
-      from another took, From me he did reject; He would no slight omission brook, And suffer no
-      defect. If my companions went astray, He scarce their wanderings blam’d; If I but falter’d in
-      the way, His anger fiercely flam’d. </l></quote>
+    <quote>
+     <l> I gave, at first, attention close; Then interest warm ensued; From interest, as improvement
+      rose, Succeeded gratitude. Obedience was no effort soon, And labour was no pain; If tired, a
+      word, a glance alone Would give me strength again. From others of the studious band, Ere long
+      he singled me; But only by more close demand, And sterner urgency. The task he from another
+      took, From me he did reject; He would no slight omission brook, And suffer no defect. If my
+      companions went astray, He scarce their wanderings blam’d; If I but falter’d in the way, His
+      anger fiercely flam’d. </l></quote>
     <p>Something stirred in an adjoining chamber; it would not do to be surprised eaves-dropping; I
      tapped hastily, and as hastily entered. Frances was just before me; she had been walking slowly
      in her room, and her step was checked by my advent: Twilight only was with her, and tranquil,
@@ -5079,7 +5082,8 @@
      portions of that experience suggested. Thus while egotism was avoided, the fancy was exercised,
      and the heart satisfied. I translate as before, and my translation is nearly literal; it
      continued thus:—</p>
-    <quote><l> When sickness stay’d awhile my course, He seem’d impatient still, Because his pupil’s
+    <quote>
+     <l> When sickness stay’d awhile my course, He seem’d impatient still, Because his pupil’s
       flagging force Could not obey his will. One day when summoned to the bed Where pain and I did
       strive, I heard him, as he bent his head, Say, “God, she must revive!” I felt his hand, with
       gentle stress, A moment laid on mine, And wished to mark my consciousness By some responsive

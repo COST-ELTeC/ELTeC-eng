@@ -25,7 +25,6 @@
      <licence target="https://creativecommons.org/licenses/by/4.0/"/>
     </availability>
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Hosts of the Lord</title><ref target="gut:39991"
@@ -68,9 +67,9 @@
     <p>1900</p>
     <p>All rights reserved</p>
    </div>
-<div type="liminal">
- <gap unit="musicalScore"/>
-</div>
+   <div type="liminal">
+    <gap unit="musicalScore"/>
+   </div>
   </front>
   <body>
 
