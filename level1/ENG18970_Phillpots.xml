@@ -27,13 +27,13 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>Gutenberg text of Lying Prophets: A Novel</title>
-     <ref target="gut:7968"/>
+     <ref target="gut:7968">Gutenberg</ref>
     </bibl>
     <bibl type="firstEdition" n="B11027"><title>Lying Prophets: A Novel</title><author>Phillpotts,
       Eden (1862-1960).</author><publisher>London: A.D. Innes</publisher><date>1897</date></bibl><bibl type="printSource">
        <title>Lying prophets. A novel.</title>
        <publisher>New York: Frederick A Stokes company</publisher><date>[1897]</date>
-       <ref target="ia:lyingprophetsnov00phil.pdf"/>
+       <ref target="ia:lyingprophetsnov00phil"/>
       </bibl>
    </sourceDesc>
   </fileDesc>

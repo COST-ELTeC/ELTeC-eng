@@ -24,17 +24,17 @@
    <sourceDesc>
     <bibl type="digitalSource">
      <title>The Project Gutenberg E-text of Middlemarch, by George Eliot</title>
-     <ref target="gut:145"/>
+     <ref target="gut:145">Gutenberg</ref>
     </bibl>
     <bibl type="printSource" n="B5429">
      <title>Middlemarch. A study of provincial life</title>
      <author>George Eliot</author>
      <publisher>William Blackwood and Sons</publisher>
      <date>1872</date>
-     <ref target="ia:middlemarchstudy01eliorich.pdf">vol 1</ref>;
-     <ref target="ia:middlemarchstudy02eliorich.pdf">vol 2</ref>;
-     <ref target="ia:middlemarchstudy03eliorich.pdf">vol 3</ref>;
-    <ref target="ia:middlemarchstudy04eliorich.pdf">vol 4</ref></bibl>
+     <ref target="ia:middlemarchstudy01eliorich">vol 1</ref>;
+     <ref target="ia:middlemarchstudy02eliorich">vol 2</ref>;
+     <ref target="ia:middlemarchstudy03eliorich">vol 3</ref>;
+    <ref target="ia:middlemarchstudy04eliorich">vol 4</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
