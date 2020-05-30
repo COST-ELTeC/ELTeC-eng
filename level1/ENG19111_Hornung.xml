@@ -28,10 +28,8 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource">
-     <title>The Camera Fiend</title>
-     <publisher>Project Gutenberg</publisher>
-     <date>September 26, 2009</date>
-     <idno type="etext-no">30096</idno>
+     <title>The Project Gutenberg EBook of The Camera Fiend by E.W. Hornung</title>
+     <ref target="gut:30096">Gutenberg</ref>
     </bibl>
     <bibl type="firstEdition" n="B0">
      <title>The Camera Fiend</title>
@@ -39,7 +37,8 @@
      <pubPlace>London</pubPlace>
      <publisher>T. Fisher Unwin, Ltd.</publisher>
      <date>1911</date>
-    </bibl><bibl type="printSource">
+    </bibl>
+    <bibl type="printSource">
      <title>The Camera Fiend</title>
      <publisher>Charlesd Scribner's sons. New York, 1911</publisher>
      <ref target="ia:thecamerafiend00horn"/>
@@ -88,11 +87,13 @@
   <body>
 
 
+
    <pb n="3"/>
    <div type="chapter">
 
 
     <head>A CONSCIENTIOUS ASS</head>
+
 
     <p> Pocket Upton had come down late and panting, in spite of his daily exemption from first
      school, and the postcard on his plate had taken away his remaining modicum of breath. He could
@@ -584,6 +585,7 @@
 
 
 
+
    <pb n="33"/>
    <div type="chapter">
 
@@ -759,6 +761,7 @@
     <p> “I saw him,” she quavered. “I saw him plainer than I see you now. And I'm almost positive I
      heard—a shot!” </p>
    </div>
+
 
 
    <pb n="43"/>
@@ -2381,6 +2384,7 @@
     <p> “Forgive me!” he choked, and held the door open for her, and shut it after her with all the
      gallantry the poor lad had left. </p>
    </div>
+
 
 
    <pb n="137"/>

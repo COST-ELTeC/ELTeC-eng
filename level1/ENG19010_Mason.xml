@@ -25,7 +25,7 @@
     <bibl type="digitalSource">
      <title>The Project Gutenberg EBook of Clementina</title>
      <author>A.E.W. Mason</author>
-     <idno type="pg">13567</idno>
+     <ref target="gut:13567">Gutenberg</ref>
      <respStmt>
       <resp>HTML encoding</resp>
       <name>Josephine Paolucci </name>
@@ -41,7 +41,7 @@
      <title>Clementina... illustrated by Bernard Partridge</title>
      <publisher>New York: Frederick A. Stokes company.</publisher>
      <date>1901</date>
-     <ref target="ia:clementinaatale00masogoog.pdf"/>
+     <ref target="ia:clementinaatale00masogoog"/>
     </bibl>
    </sourceDesc>
   </fileDesc>

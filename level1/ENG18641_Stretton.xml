@@ -51,15 +51,16 @@
           </revisionDesc>
      </teiHeader>
      <text type="T2FSL">
+      <front><div type="titlepage">
+       <p>FERN'S HOLLOW</p>
+       
+       <p>By HESBA STRETTON</p>
+       <p>Author of 'Jessica's First Prayer,' 'Alone in London' 'Pilgrim Street,'
+        'Little Meg's Children' etc.</p>
+       <p/>
+      </div></front>
           <body>
-               <div type="titlepage">
-                    <p>FERN'S HOLLOW</p>
-
-                    <p>By HESBA STRETTON</p>
-                    <p>Author of 'Jessica's First Prayer,' 'Alone in London' 'Pilgrim Street,'
-                         'Little Meg's Children' etc.</p>
-                    <p/>
-               </div>
+               
                <div type="chapter">
                     <head>CHAPTER I.</head>
                     <head>THE HUT IN THE HOLLOW.</head>

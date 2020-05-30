@@ -42,13 +42,13 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Story of the Amulet : VWWP edition </title><author>Nesbit,
       E. (Edith), 1858-1924</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><idno>VAB7012</idno></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7012">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B0"><title>The Story of the Amulet</title><author>Nesbit, E.
       </author><publisher>T. Fisher Unwin </publisher><pubPlace>London </pubPlace><date when="1906"
        >1906</date></bibl><bibl type="printSource">
         <title>The Story of the Amulet</title>
         <publisher>New York: E.P. Dutton</publisher>
-        <ref target="ia:storyofamulet00nesb_0.pdf"/>
+        <ref target="ia:storyofamulet00nesb_0"/>
        </bibl>
    </sourceDesc>
   </fileDesc>
