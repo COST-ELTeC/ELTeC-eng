@@ -36,10 +36,13 @@
      </respStmt></bibl>
     <bibl type="firstEdition" n="B12907"><title>The Farringdons</title><author>Fowler, Ellen
       Thorneycroft (1860-1929).</author><publisher>London:
-     Hutchinson</publisher><date>1900</date></bibl><bibl type="printSource">
-      <publisher>New York: D. Appleton and company.</publisher>
-      <date>1900</date>
-    <ref target="ia:farringdons00fowl"/></bibl>
+     Hutchinson</publisher><date>1900</date></bibl>
+    <bibl type="printSource">
+     <title>The Farringdons</title>
+     <author>Ellen Thorneycroft Fowler</author>
+     <publisher>New York: D. Appleton and company.</publisher>
+     <date>1900</date>
+     <ref target="ia:farringdons00fowl"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -73,22 +76,15 @@
    </div>
    <div type="liminal">
     <head>DEDICATION</head>
-
-
     <l>For all such readers as have chanced to be</l>
     <l>Either in Mershire or in Arcady,</l>
     <l>I write this book, that each may smile, and say,</l>
     <l>"Once on a time I also passed that way."</l>
-
    </div>
   </front>
   <body>
-
-
-
    <pb n="1"/>
    <div type="chapter">
-
     <head>THE OSIERFIELD</head>
     <quote>
      <l>They herded not with soulless swine,</l>
@@ -106,7 +102,8 @@
      street have sunny gardens and fruitful orchards, sloping down toward a fertile land of woods
      and streams and meadows, bounded in the far distance by the Clee Hills and the Wrekin, and in
      the farthest distance of all by the blue Welsh mountains.</p>
-    <p>In the dark valley lying to the immediate east of Sedgehill stood the Osierfield Works, the largest
+    <p>In the dark valley lying to the immediate east of Sedgehill stood the Osierfield Works, the
+     largest
      <pb n="2"/> ironworks in Mershire in the good old days when Mershire made iron for half the
      world. The owners of these works were the Farringdons, and had been so for several generations.
      So it came to pass that the Farringdons were the royal family of Sedgehill; and the Osierfield
@@ -434,7 +431,8 @@
      pretend it was the execution of Mary Queen of Scots, and find it most awfully exciting."</p>
     <p>"How you do go on about Mary Queen of Scots! Not long ago you were always bothering about
      heathen goddesses, and now you have no thought for anything but Mary."</p>
-    <p>"Oh! but I'm still immensely interested in goddesses, Chris; and I do wish, when you are doing
+    <p>"Oh! but I'm still immensely interested in goddesses, Chris; and I do wish, when you are
+     doing
      <pb n="18"/> Latin and Greek at school, you'd find out what colour Pallas Athene's hair was.
      Couldn't you?"</p>
     <p>"No; I couldn't."</p>
@@ -622,7 +620,8 @@
      pleasing a person you are fond of isn't goodness. I wonder if grown-up people get to be as fond
      of religion as they are of one another. I expect they do; and then they do good things just for
      the sake of doing good."</p>
-    <p>"Of course they do," replied Christopher, who was always at sea when Elisabeth became metaphysical.
+    <p>"Of course they do," replied Christopher, who was always at sea when Elisabeth became
+     metaphysical.
      <pb n="27"/></p>
     <p>"I suppose," she continued seriously, "that if I were really good, religion ought to be the
      same to me as Cousin Anne."</p>
@@ -724,7 +723,8 @@
     <p>"The younger officers began to giggle, as you are doing," Miss Farringdon continued; "but the
      colonel, to whom the ice was handed next, took a lump and put it in his soup also; and then the
      young officers did not want to laugh any more. The colonel was a perfect gentleman."</p>
-    <p>"It seems to me," said Elisabeth thoughtfully, "that you've got to be good before you can be polite."
+    <p>"It seems to me," said Elisabeth thoughtfully, "that you've got to be good before you can be
+     polite."
      <pb n="32"/></p>
     <p>"Politeness appears to be what goodness really is," replied Miss Farringdon, "and is an
      attitude rather than an action. Fine breeding is not the mere learning of any code of manners,
@@ -1316,7 +1316,8 @@
     <p>"Still, it must be lovely to know there is one person in the world to whom you can tell all
      your thoughts, and who will understand them, and be interested in them."</p>
     <p>"It must be far lovelier to know that you have the power to tell all your thoughts to the
-     whole world, and that the world will understand them and be interested in them," Elisabeth persisted.
+     whole world, and that the world will understand them and be interested in them," Elisabeth
+     persisted.
      <pb n="60"/></p>
     <p>"I don't think so. I should like to fall in love with a man who was so much better than I,
      that I could lean on him and learn from him in everything; and I should like to feel that
@@ -1358,7 +1359,8 @@
     <p>"I wonder if Miss Farringdon will leave her her fortune," said Mrs. Bateson, who, in common
      with the rest of her class, was consumed with an absorbing curiosity as to all testamentary
      dispositions.</p>
-    <p>"She may, and she may not; there's no prophesying about wills. I'm pleased to say I can generally
+    <p>"She may, and she may not; there's no prophesying about wills. I'm pleased to say I can
+     generally
      <pb n="62"/> foretell when folks is going to die, having done a good bit of sick-nursing in my
      time afore I married Hankey; but as to foretelling how they're going to leave their money, I
      can no more do it than the babe unborn; nor nobody can, as ever I heard tell on."</p>
@@ -1437,7 +1439,8 @@
     <p>"So do I," agreed Mrs. Bateson; "I'd never have adopted a child myself. I should always have
      been expecting to see its parents' faults coming out in it—so different from the peace you have
      with your own flesh and blood."</p>
-    <p>Mrs. Hankey groaned. "Your own flesh and blood may take after their father; you never can tell."
+    <p>Mrs. Hankey groaned. "Your own flesh and blood may take after their father; you never can
+     tell."
      <pb n="66"/></p>
     <p>"So they may, Mrs. Hankey—so they may; but, as the Scripture says, it is our duty to whip the
      old man out of them."</p>
@@ -1539,7 +1542,8 @@
      the better course to pursue—an experience not confined to lanes. But in this respect lanes are
      happier than men and women, in that they are able to pursue both courses, and so learn for
      themselves which is the wiser one, as is the case with this particular lane. One course leads
-     headlong down another steep hill—so steep that unwary travellers usually descend from their carriages
+     headlong down another steep hill—so steep that unwary travellers usually descend from their
+     carriages
      <pb n="71"/> to walk up or down it, and thus are enabled to ensure relief to their horses and a
      chill to themselves at the same time; for it is hot work walking up or down that sunny
      precipice, and the cold winds of Mershire await one with equal gusto at the top and at the
@@ -1582,7 +1586,8 @@
      difficult task.</p>
     <p>"Yes; I have seen him."</p>
     <p>"What is he like? I am dying to know."</p>
-    <p>"When I saw him he was exactly like a man riding on horseback; but as he was obviously too well-dressed
+    <p>"When I saw him he was exactly like a man riding on horseback; but as he was obviously too
+     well-dressed
      <pb n="73"/> to be a beggar, I have no reason to believe that the direction in which he was
      riding was the one which beggars on horseback are proverbially expected to take."</p>
     <p>"How silly you are! You know what I mean."</p>
@@ -1627,7 +1632,8 @@
      the things that you have never learned yourself."</p>
     <p>"Then I couldn't have taught them."</p>
     <p>"But you did; that is where your genius comes in."</p>
-    <p>"I really am tremendously quick in judging character," repeated Elisabeth thoughtfully; "if I met
+    <p>"I really am tremendously quick in judging character," repeated Elisabeth thoughtfully; "if I
+     met
      <pb n="75"/> you for the first time I should know in five minutes that you were a man with
      plenty of head, and heaps of soul, and very little heart."</p>
     <p>"That would show wonderful penetration on your part."</p>
@@ -1669,7 +1675,8 @@
      perceive. You will also notice that there are no seaports on the coast of my map; that shows
      that you are self-contained, and that you neither send exports to, nor receive imports from,
      the hearts and minds of other people."</p>
-    <p>"What ever are those queer little castellated things round the coast that you are drawing now?"
+    <p>"What ever are those queer little castellated things round the coast that you are drawing
+     now?"
      <pb n="77"/></p>
     <p>"Those are floating icebergs, to show that it is a cold country. There, my map is finished,"
      concluded Elisabeth, half closing her eyes and contemplating her handiwork through her
@@ -2107,7 +2114,8 @@
      proudly; "they have an ex-president as superintendent, and three ministers under him, and a
      supernumerary as well. They never hear the same preached more than once a month; it's something
      grand!"</p>
-    <p>"Eh! it's a fine place is Craychester," added Caleb; "they held Conference there two years ago."
+    <p>"Eh! it's a fine place is Craychester," added Caleb; "they held Conference there two years
+     ago."
      <pb n="97"/></p>
     <p>"It must be a grand thing to live in a place where they hold Conference," remarked Mrs.
      Hankey.</p>
@@ -2236,7 +2244,8 @@
     <p>"So I am, Caleb; and if it had been one of the minor prophets I shouldn't have said a word—I
      can't always tell Jonah myself unless there's a whale somewhere at the back; but John the
      Baptist——!"</p>
-    <p>When the inspection of the pictures had been accomplished, the company sat down to dinner in the
+    <p>When the inspection of the pictures had been accomplished, the company sat down to dinner in
+     the
      <pb n="103"/> large saloon; and Alan was slightly disconcerted when they opened the proceedings
      by singing, at the top of their voices, "Be present at our table, Lord." Elisabeth, on seeing
      the expression of his face, sorely wanted to laugh; but she stifled this desire, as she had
@@ -2622,7 +2631,8 @@
      she cherished a profound admiration both for Miss Farringdon and Christopher Thornley. Tremaine
      she had never met—he had been abroad each time that she had visited Sedgehill—but she
      disapproved most heartily of his influence upon Elisabeth, and of his views as set forth by
-     that young lady. Felicia had been brought up along extremely strict lines, and in a spirit of comfortable
+     that young lady. Felicia had been brought up along extremely strict lines, and in a spirit of
+     comfortable
      <pb n="122"/> intolerance of all forms of religion not absolutely identical with her own;
      consequently, a man with no form of religion at all was to her a very terrible monster indeed.
      On the Sundays of her early youth she had perused a story treating of an Unbeliever (always
@@ -2684,7 +2694,8 @@
      despise me when I was a little girl and he was a big boy—and that is awfully riling when you
      know you are clever."</p>
     <p>"Is it? I would much rather a man liked me than thought I was clever."</p>
-    <p>"I wouldn't; anybody can like you, but it takes a clever person to appreciate cleverness. I have
+    <p>"I wouldn't; anybody can like you, but it takes a clever person to appreciate cleverness. I
+     have
      <pb n="125"/> studied myself thoroughly, and I have come to the conclusion that I need
      appreciation far more than affection: I'm made like that."</p>
     <p>"I don't understand you. To me affection is everything, and I can not live without it. If
@@ -2853,7 +2864,8 @@
      say."</p>
     <p>"He has a new heart and a nice fresh colour, has Master Christopher; which is more than his
      own mother—supposing she was alive—could say for Mr. Tremaine."</p>
-    <p>"That is so, Mrs. Hankey. I'm afeared there isn't much religion about him. He don't even go to
+    <p>"That is so, Mrs. Hankey. I'm afeared there isn't much religion about him. He don't even go
+     to
      <pb n="133"/> church on a Sunday, let alone chapel; though he is wonderful charitable to the
      poor, I must admit."</p>
     <p>Mrs. Hankey pursed up her mouth. "And what are works without faith, I should like to
@@ -2896,7 +2908,8 @@
     <p>"Don't say that, Mrs. Hankey. Daughters may be more useful in the house, I must confess, and
      less mischievous all round; but they can't work as hard for their living as the sons can when
      you ain't there to look after them."</p>
-    <p>"You don't know what it is to live in a house full of nothing but men, with not a soul to speak
+    <p>"You don't know what it is to live in a house full of nothing but men, with not a soul to
+     speak
      <pb n="135"/> to about all the queer tricks they're at, many a time I feel like Robinson Crusoe
      on a desert island among a lot of savages."</p>
     <p>"And I don't blame you," agreed Mrs. Bateson sympathetically; "for my part I don't know what
@@ -2916,7 +2929,8 @@
      French kickshaws, and having no mother to see that he takes a dose of soda and nitre now and
      then to keep his system cool. Poor young man!"</p>
     <p>"I hear as he goes so far as to deny the existence of a God," continued Mrs. Hankey.</p>
-    <p>"All liver!" repeated Mrs. Bateson; "it often takes men like that; when they begin to doubt the
+    <p>"All liver!" repeated Mrs. Bateson; "it often takes men like that; when they begin to doubt
+     the
      <pb n="136"/> inspiration of the Scriptures you know they will be all the better for a dose of
      dandelion tea; but when they go on to deny the existence of a God, there's nothing for it but
      chamomile. And I don't believe as the Lord takes their doubts any more seriously than their
@@ -2997,7 +3011,8 @@
      obviously rude. Those are your very words, Cousin Maria: you see I can give chapter and
      verse."</p>
     <p>"And I meant what I said, my dear. Wider knowledge and higher breeding are signs of actual
-     superiority, and therefore should never be flaunted. The vulgarity in the woman I am speaking about
+     superiority, and therefore should never be flaunted. The vulgarity in the woman I am speaking
+     about
      <pb n="140"/> lay in imagining that there is any superiority in having more money than another
      person: there is not. To hide the difference proved that she thought there was a difference,
      and this proved that her standpoint was an essentially plebeian one. There was no difference at
@@ -4406,7 +4421,8 @@
      more cases, either in the circus or in the town. Now, I should imagine, all danger of its
      spreading is practically over; but, of course, it made everybody in the neighbourhood, and
      everybody who had been to the circus, very nervous and uncomfortable for a few days. The local
-     authorities, however, omitted no possible precaution which should assist them in stamping out the
+     authorities, however, omitted no possible precaution which should assist them in stamping out
+     the
      <pb n="207"/> epidemic, should those few cases have started an epidemic—which was, of course,
      possible, though hardly likely."</p>
     <p>And then Alan proceeded to expound his views on the matter of sanitary authorities in general
@@ -4587,7 +4603,8 @@
      only yesterday from rheumatism in the legs; one of the best sitters I ever had. You remember
      her?—the speckled one that I got from Tetleigh, four years ago come Michaelmas. But that's the
      way in this world; the most missed are the first taken."</p>
-    <p>"I wonder if that's Miss Elisabeth there," said Mrs. Bateson, catching sight of a dark-robed figure
+    <p>"I wonder if that's Miss Elisabeth there," said Mrs. Bateson, catching sight of a dark-robed
+     figure
      <pb n="216"/> in the distance. "I notice she's taken to go to church regular now Miss
      Farringdon isn't here to look after her. How true it is, 'When the cat's away the mice will
      play!'" Worship according to the methods of that branch of the Church Militant established in
@@ -5065,7 +5082,8 @@
      pieces like a linen button at the wash, simply because some ignorant man did the inevitable,
      and preferred a more foolish and better-looking woman to themselves."</p>
     <p>"Have you really never been in love, Elisabeth?"</p>
-    <p>Elisabeth pondered for a moment. "No; I've sometimes thought I was, but I've always known I wasn't."
+    <p>Elisabeth pondered for a moment. "No; I've sometimes thought I was, but I've always known I
+     wasn't."
      <pb n="239"/></p>
     <p>"I wonder at that; because you really are affectionate."</p>
     <p>"That is quite true; but no one has ever seemed to want as much as I had to give," said
@@ -5217,7 +5235,8 @@
      far-off hills and the land beyond the sunset; and that there they would find an abundant
      compensation for the suffering and poverty that had blighted their lives as they toiled here
      for their daily bread.</p>
-    <p>Even those who could not understand the underlying meaning of Elisabeth's picture, marvelled at
+    <p>Even those who could not understand the underlying meaning of Elisabeth's picture, marvelled
+     at
      <pb n="246"/> the power and technical skill whereby she had brought the weird mystery of the
      Black Country into the heart of London, until one almost felt the breath of the furnaces as one
      gazed entranced at her canvas; and those who did understand the underlying meaning, marvelled
@@ -5261,7 +5280,8 @@
      <pb n="248"/> they would only have been frightened and run away.</p>
     <p>But here at last was a man who understood what she was feeling; to whom she could tell her
      troubles, and who would know what she meant; and she made up her mind that before that season
-     was over, she and the unknown artist, who had painted The Daughters of Philip, should be friends.
+     was over, she and the unknown artist, who had painted The Daughters of Philip, should be
+     friends.
      <pb n="249"/></p>
    </div>
    <div type="chapter">
@@ -5591,7 +5611,8 @@
     <p>"You will remember how we played together as children round the temple of Philæ, and let my
      prehistoric memories of you be my excuse?"</p>
     <p>"Yes."</p>
-    <p>"I was overcome by the thought of how glorious it would be to teach you all the things you don't
+    <p>"I was overcome by the thought of how glorious it would be to teach you all the things you
+     don't
      <pb n="264"/> know, and how delightful it would be to see you learn them."</p>
     <p>"Let us go into the next room," said Elisabeth, rising from her seat; "I see Lady
      Silverhampton nodding to me, and I must go and speak to her."</p>
@@ -5742,7 +5763,8 @@
     <p>"Thank you—thank you more than I can ever say."</p>
     <p>After a moment's silence Elisabeth asked—</p>
     <p>"Are you going to Lady Silverhampton's picnic on the river to-morrow?"</p>
-    <p>"Yes; I accepted because I thought I should be sure to meet you," replied Cecil, who would have
+    <p>"Yes; I accepted because I thought I should be sure to meet you," replied Cecil, who would
+     have
      <pb n="271"/> accepted the invitation of a countess if it had been to meet his bitterest
      foe.</p>
     <p>"Then your forethought will be rewarded, for I am going, too," Elisabeth said.</p>
@@ -6074,7 +6096,8 @@
      help knowing that we are not aristocrats. Being conscious that certain people lack certain
      qualities which one happens to possess, is not the same thing as despising those people; and I
      always think it as absurd as it is customary to describe one's consciousness of one's own
-     qualifications as self-respect, and other people's consciousness of theirs as pride and vanity."
+     qualifications as self-respect, and other people's consciousness of theirs as pride and
+     vanity."
      <pb n="287"/></p>
     <p>"Then aren't you ever afraid of being looked down upon?" asked Cecil, to whom any sense of
      social inferiority was as gall and wormwood.</p>
@@ -6115,7 +6138,8 @@
      marred my character, and—through that—my art."</p>
     <p>"Tell me about your life," Elisabeth said softly. "I seem to know so little of you and yet to
      know you so well."</p>
-    <p>"You shall read what back-numbers I have, but most of them have been lost, so that I have not read
+    <p>"You shall read what back-numbers I have, but most of them have been lost, so that I have not
+     read
      <pb n="289"/> them myself. I really don't know who I am, as my father died when I was a baby,
      and my poor mother followed him in a few months, never having recovered from the shock of his
      death. I was born in Australia, at Broken Hill, and was an only child. As far as I can make
@@ -6883,7 +6907,8 @@
      thing he loved best in the world. Which of us would not be happy if we thought we were about to
      win the thing we loved best? And is it altogether our own fault if the thing we happen to love
      best be unworthy of love, or is it only our misfortune?</p>
-    <p>Because he was triumphant, Cecil looked handsomer than usual, for there are few things more be
+    <p>Because he was triumphant, Cecil looked handsomer than usual, for there are few things more
+     be
      <pb n="327"/>coming than happiness; and as he entered the room, radiant with that vitality
      which is so irresistibly attractive, Elisabeth recognised his charm without feeling it, just as
      one sees people speaking and gesticulating in the distance without hearing a word of what is
@@ -6925,7 +6950,8 @@
     <p>"Yes; it is. If the woman hadn't led him on, the man wouldn't have made sure of her. You have
      been unutterably cruel to me—unpardonably cruel; and I will never forgive you as long as I
      live."</p>
-    <p>Elisabeth winced at this—not at Cecil's refusal to forgive her, but at the thought that she had
+    <p>Elisabeth winced at this—not at Cecil's refusal to forgive her, but at the thought that she
+     had
      <pb n="329"/> placed herself within the reach of his forgiveness. But she was not penitent—she
      was only annoyed. Penitence is the last experience that comes to strong-willed, light-hearted
      people, such as Elisabeth; they are so sure they are right at the time, and they so soon forget
@@ -7150,7 +7176,8 @@
      answer to her life's problem, the fulfilment of her heart's desire; and although she might be
      obliged to go down again into the valley of the shadow, she could never forget that she had
      once stood upon the mountain-top and had beheld the glory of the promised land.</p>
-    <p>And she never remembered that now her fortune was secured to her, and that the Willows and the
+    <p>And she never remembered that now her fortune was secured to her, and that the Willows and
+     the
      <pb n="340"/> Osierfield would always be hers; even these were henceforth of no moment to her,
      save as monuments of Christopher's love.</p>
     <p>So in the dingy dining-room, on that hot summer's afternoon, Elisabeth Farringdon became a
@@ -7211,7 +7238,8 @@
      bank at your account, but until you gave a cheque for it you couldn't get at it. And the cheque
      was my knowing that you cared for me."</p>
     <p>"And how did you find that out, Betty?"</p>
-    <p>"I was rummaging in the safe just now for the plans of the Osierfield, and I came upon your letter."
+    <p>"I was rummaging in the safe just now for the plans of the Osierfield, and I came upon your
+     letter."
      <pb n="343"/></p>
     <p>"I didn't mean you to read that while I was alive; but, all the same, I think I am rather
      glad that you did."</p>
@@ -7233,7 +7261,8 @@
     <p>"Well, you did what you decided, as you generally do; there is no doubt of that. You were
      always very prone to administer justice and to maintain truth, Elisabeth, and you certainly
      never spared the rod as far as I was concerned."</p>
-    <p>"But now I see that I was wrong; I understand that it was because you cared so much for abstract
+    <p>"But now I see that I was wrong; I understand that it was because you cared so much for
+     abstract
      <pb n="344"/> right, that you were able to care so much for me; a lower nature would have given
      me a lower love; and if only we could go through it all again, I should want you to go to
      Australia after George Farringdon's son."</p>
@@ -7379,7 +7408,8 @@
      to letters."</p>
     <p>"Well, anyhow, I've written my name all over it."</p>
     <p>"I know you have; and it was very untidy of you, my dearest. Once would have been enough to
-     show that it belonged to you; but you weren't content with that: you scribbled all over every available
+     show that it belonged to you; but you weren't content with that: you scribbled all over every
+     available
      <pb n="351"/> space, until there was no room left even for advertisements; and now nobody else
      will ever be able to write another name upon it as long as I live."</p>
     <p>"I'm glad of that; I wouldn't have anybody else's name upon it for anything. And I'm glad
@@ -7569,7 +7599,8 @@
     <p>"Great fun; and I don't think it will need much pretending, do you know?" replied
      Christopher, who saw deeper sometimes than Elisabeth did, and now realized that it was only
      when they two became as little children—he by ceasing to play Providence to her, and she by
-     ceasing to play Providence to herself—that they had at last caught glimpses of the kingdom of heaven.
+     ceasing to play Providence to herself—that they had at last caught glimpses of the kingdom of
+     heaven.
      <pb n="360"/></p>
     <p>So they walked hand in hand to Caleb Bateson's cottage, as they had so often walked in
      far-off, childish days; and the cottage looked so exactly the same as it used to look, and

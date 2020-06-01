@@ -37,9 +37,11 @@
       Grossmith</title>
      <ref target="http://fiftywordsforsnow.com/ebooks/nobody/"/>
     </bibl>
-    <bibl type="printSource" n="B13381"><author>George Grossmith</author>
+    <bibl type="printSource" n="B13381">
+     <title>The diary of a nobody.</title>
+     <author>George Grossmith</author>
      <author>Weedon Grossmith</author>
-     <publisher>Simpkin, Marshall</publisher>
+     <publisher>London: Simpkin, Marshall</publisher>
      <date>1892</date>
      <ref target="ia:diarynobody"/></bibl>
    </sourceDesc>
