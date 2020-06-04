@@ -36,7 +36,7 @@
     <bibl type="digitalSource"><title>Bleak House [monthly parts] : TEI P5 edition</title>
      <ref target="https://github.com/lb42/Dickens">Github</ref>
     </bibl>
-    <bibl type="firstEdition" n="B7470">
+    <bibl type="printSource" n="B7470">
      <title>Bleak House </title>
      <author>Charles Dickens</author>
      <publisher>Bradbury &amp; Evans, Bouverie Street.</publisher>
@@ -78,6 +78,87 @@
   </revisionDesc>
  </teiHeader>
  <text type="T1MLH">
+  <front>
+   <div type="titlepage">
+    <p>BLEAK HOUSE </p>
+    <p> BY CHARLES DICKENS. </p>
+    <p>WITH ILLUSTRATIONS BY H. K. BROWNE. </p>
+    <p> LONDON: BRADBURY &amp; EVANS, BOUVERIE STREET. </p>
+    <p>AGENTS: J. MENZIES, EDINBURGH; MURRAY AND SON, GLASGOW; J. M'GLASHAN, DUBLIN. </p>
+    <p> NOTICE is hereby given that the Author of “BLEAK HOUSE”, reserves to himself the right of
+     publishing a Translation in France. </p>
+   </div>
+   <div  type="liminal">
+    <pb xml:id="pxxx11"/>
+    <p>DEDICATED,  AS A REMEMBRANCE OF OUR FRIENDLY UNION,  TO MY COMPANIONS  IN
+     THE  GUILD OF LITERATURE AND ART.</p>
+   </div>
+   <div  type="liminal">
+    <pb xml:id="pvii"/>
+    <head>PREFACE.</head>
+    <p>A FEW months ago, on a public occasion, a Chancery Judge had the kindness to inform me, as
+     one of a company of some hundred and fifty men and women not laboring under any suspicions of
+     lunacy, that the Court of Chancery, though the shining subject of much popular prejudice (at
+     which point I thought the Judge's eye had a cast in my direction), was almost immaculate.
+     There had been, he admitted, a trivial blemish or so in its rate of progress, but this was
+     exaggerated, and had been entirely owing to the “parsimony of the public;” which guilty
+     public, it appeared, had been until lately bent in the most determined manner on by no means
+     enlarging the number of Chancery Judges appointed—I believe by Richard the Second, but any
+     other King will do as well.</p>
+    <p>This seemed to me too profound a joke to be inserted in the body of this book, or I should
+     have restored it to Conversation Kenge or to Mr. Vholes, with one or other of whom I think it
+     must have originated. In such mouths I might have
+     <pb xml:id="pviii"/> coupled it with an apt quotation from one of SHAKSPEARE'S Sonnets:
+     <quote>
+      <l>My nature is subdued</l>
+      <l>To what it works in, like the dyer's hand:</l>
+      <l>Pity me then, and wish I were renew'd!</l>
+     </quote>
+    </p>
+    <p>But as it is wholesome that the parsimonious public should know what has been doing, and
+     still is doing, in this connexion, I mention here that everything set forth in these pages
+     concerning the Court of Chancery is substantially true, and within the truth. The case of
+     Gridley is in no essential altered from one of actual occurrence, made public by a
+     disinterested person who was professionally acquainted with the whole of the monstrous wrong
+     from beginning to end. At the present moment there is a suit before the Court which was
+     commenced nearly twenty years ago; in which from thirty to forty counsel have been known to
+     appear at one time; in which costs have been incurred to the amount of seventy thousand
+     pounds; which is <hi >a friendly suit;</hi> and which is (I am assured) no
+     nearer to its termination now than when it was begun. There is another well-known suit in
+     Chancery, not yet decided, which was commenced before the close of the last century, and in
+     which more than double the amount of seventy thousand pounds has been swallowed up in costs.
+     If I wanted other authorities for JARNDYCE AND JARNDYCE, I could rain them on these pages, to
+     the shame of—a parsimonious public.</p>
+    <p>There is only one other point on which I offer a word of remark. The possibility of what is
+     called Spontaneous Combustion has been denied since the death of Mr. Krook;
+     <pb xml:id="pix"/> and my good friend MR. LEWES (quite mistaken, as he soon found, in
+     supposing the thing to have been abandoned by all authorities) published some ingenious
+     letters to me at the time when that event was chronicled, arguing that Spontaneous Combustion
+     could not possibly be. I have no need to observe that I do not wilfully or negligently
+     mislead my readers, and that before I wrote that description I took pains to investigate the
+     subject. There are about thirty cases on record, of which the most famous, that of the
+     Countess Cornelia de Bandi Cesenate was minutely investigated and described by Giuseppe
+     Bianchini, a prebendary of Verona, otherwise distinguished in letters, who published an
+     account of it at Verona, in 1731, which he afterwards republished at Rome. The appearances
+     beyond all rational doubt observed in that case, are the appearances observed in Mr. Krook's
+     case. The next most famous instance happened at Rheims, six years earlier; and the historian
+     in that case is LE CAT, one of the most renowned surgeons produced by France. The subject was
+     a woman, whose husband was ignorantly convicted of having murdered her; but, on solemn appeal
+     to a higher court, he was acquitted, because it was shown upon the evidence that she had died
+     the death to which this name of Spontaneous Combustion is given. I do not think it necessary
+     to add to these notable facts, and that general reference to the authorities which will be
+     found at page 329, the recorded opinions and experiences of distinguished medical professors,
+     French, English, and Scotch, in more modern days; contenting myself with observing, that I
+     shall not abandon the facts until there shall have been a considerable
+     <pb xml:id="px"/> Spontaneous Combustion of the testimony on which human occurrences are
+     usually received.</p>
+    <p>In Bleak House, I have purposely dwelt upon the romantic side of familiar things. I believe
+     I have never had so many readers as in this book. May we meet again!</p>
+    <trailer>
+    LONDON,  August, 1853.
+    </trailer>
+   </div>
+  </front>
   <body>
    <div type="group">
     <div type="chapter">
@@ -23736,7 +23817,1948 @@
       aside, and turned the face. And it was my mother, cold and dead.</p>
     </div>
    </div>
-   <div type="group"/>
+  <div type="group">
+    <div  type="chapter">
+     <pb xml:id="p577"/>
+     <head>CHAPTER LX. PERSPECTIVE.</head>
+     <p>I PROCEED to other passages of my narrative. From the goodness of all about me, I derived
+      such consolation as I can never think of unmoved. I have already said so much of myself, and
+      so much still remains, that I will not dwell upon my sorrow. I had an illness, but it was not
+      a long one; and I would avoid even this mention of it, if I could quite keep down the
+      recollection of their sympathy.</p>
+     <p>I proceed to other passages of my narrative.</p>
+     <p>During the time of my illness, we were still in London, where Mrs. Woodcourt had come, on my
+      guardian's invitation, to stay with us. When my guardian thought me well and cheerful enough
+      to talk with him in our old way—though I could have done that sooner, if he would have
+      believed me—I resumed my work, and my chair beside his. He had appointed the time himself, and
+      we were alone.</p>
+     <p>“Dame Trot,” said he, receiving me with a kiss, “welcome to the Growlery again, my dear. I
+      have a scheme to develope, little woman. I purpose to remain here, perhaps for six months,
+      perhaps for a longer time—as it may be. Quite to settle here for a while, in short.”</p>
+     <p>“And in the meanwhile leave Bleak House?” said I.</p>
+     <p>“Aye, my dear! Bleak House,” he returned, “must learn to take care of itself.”</p>
+     <p>I thought his tone sounded sorrowful; but, looking at him, I saw his kind face lighted up by
+      its pleasantest smile.</p>
+     <p>“Bleak House,” he repeated; and his tone did <hi>not</hi> sound sorrowful, I found, “must
+      learn to take care of itself. It is a long way from Ada, my dear, and Ada stands much in need
+      of you.”</p>
+     <p>“It is like you, guardian,” said I, “to have been taking that into consideration, for a
+      happy surprise to both of us.”</p>
+     <p>“Not so disinterested either, my dear, if you mean to extol me for that virtue; since, if
+      you were generally on the road, you could be seldom with me. And besides; I wish to hear as
+      much and as often of Ada as I can, in this condition of estrangement from poor Rick. Not of
+      her alone, but of him too, poor fellow.”</p>
+     <p>“Have you seen Mr. Woodcourt, this morning, guardian?”</p>
+     <p>“I see Mr. Woodcourt every morning, Dame Durden.”</p>
+     <p>“Does he still say the same of Richard?”</p>
+     <p>“Just the same. He knows of no direct bodily illness that he has; on the contrary, he
+      believes that he has none. Yet he is not easy about him; who <hi>can</hi> be?”</p>
+     <p>My dear girl had been to see us lately, every day: sometimes twice in a day. But we had
+      foreseen, all along, that this would only last until I was quite myself. We knew full well
+      that her fervent heart was as full of affection and gratitude towards her cousin John as it
+      had ever been, and we acquitted Richard of laying any injunctions upon her to stay
+      <pb xml:id="p578"/> away; but we knew on the other hand that she felt it a part of her duty to
+      him, to be sparing of her visits at our house. My guardian's delicacy had soon perceived this,
+      and had tried to convey to her that he thought she was right.</p>
+     <p>“Dear, unfortunate, mistaken Richard,” said I. “When will he awake from his delusion!”</p>
+     <p>“He is not in the way to do so now, my dear,” replied my guardian. “The more he suffers, the
+      more averse he will be to me: having made me the principal representative of the great
+      occasion of his suffering.”</p>
+     <p>I could not help adding, “So unreasonably!”</p>
+     <p>“Ah, Dame Trot, Dame Trot!” returned my guardian, “what shall we find reasonable in Jarndyce
+      and Jarndyce! Unreason and injustice at the top, unreason and injustice at the heart and at
+      the bottom, unreason and injustice from beginning to end—if it ever has an end—how should poor
+      Rick, always hovering near it, pluck reason out of it? He no more gathers grapes from thorns,
+      or figs from thistles, than older men did, in old times.”</p>
+     <p>His gentleness and consideration for Richard, whenever we spoke of him, touched me so, that
+      I was always silent on this subject very soon.</p>
+     <p>“I suppose the Lord Chancellor, and the Vice Chancellors, and the whole Chancery battery of
+      great guns, would be infinitely astonished by such unreason and injustice in one of their
+      suitors,” pursued my guardian. “When those learned gentlemen begin to raise moss-roses from
+      the powder they sow in their wigs, I shall begin to be astonished too!”</p>
+     <p>He checked himself in glancing towards the window to look where the wind was, and leaned on
+      the back of my chair instead.</p>
+     <p>“Well, well, little woman! To go on, my dear. This rock we must leave to time, chance, and
+      hopeful circumstance. We must not shipwreck Ada upon it. She cannot afford, and he cannot
+      afford, the remotest chance of another separation from a friend. Therefore, I have
+      particularly begged of Woodcourt, and I now particularly beg of you, my dear, not to move this
+      subject with Rick. Let it rest. Next week, next month, next year, sooner or later, he will see
+      me with clearer eyes. I can wait.”</p>
+     <p>But I had already discussed it with him, I confessed; and so, I thought, had Mr.
+      Woodcourt.</p>
+     <p>“So he tells me,” returned my guardian. “Very good. He has made his protest, and Dame Durden
+      has made hers, and there is nothing more to be said about it. Now, I come to Mrs. Woodcourt.
+      How do you like her, my dear?”</p>
+     <p>In answer to this question, which was oddly abrupt, I said I liked her very much, and
+      thought she was more agreeable than she used to be.</p>
+     <p>“I think so too,” said my guardian. “Less pedigree? Not so much of Morgan-ap—what's his
+      name?”</p>
+     <p>That was what I meant, I acknowledged; though he was a very harmless person, even when we
+      had more of him.</p>
+     <p>“Still, upon the whole, he is as well in his native mountains,” said my guardian. “I agree
+      with you. Then, little woman, can I do better for a time than retain Mrs. Woodcourt here?”</p>
+     <p>No. And yet—</p>
+     <pb xml:id="p579"/>
+     <p>My guardian looked at me, waiting for what I had to say.</p>
+     <p>I had nothing to say. At least I had nothing in my mind that I could say. I had an undefined
+      impression that it might have been better if we had had some other inmate, but I could hardly
+      have explained why, even to myself. Or, if to myself, certainly not to anybody else.</p>
+     <p>“You see,” said my guardian, “our neighbourhood is in Woodcourt's way, and he can come here
+      to see her as often as he likes, which is agreeable to them both; and she is familiar to us,
+      and fond of you.”</p>
+     <p>Yes. That was undeniable. I had nothing to say against it. I could not have suggested a
+      better arrangement; but I was not quite easy in my mind. Esther, Esther, why not? Esther,
+      think!</p>
+     <p>“It is a very good plan indeed, dear guardian, and we could not do better.”</p>
+     <p>“Sure, little woman?”</p>
+     <p>Quite sure. I had had a moment's time to think, since I had urged that duty on myself, and I
+      was quite sure.</p>
+     <p>“Good,” said my guardian. “It shall be done. Carried unanimously.”</p>
+     <p>“Carried unanimously,” I repeated, going on with my work.</p>
+     <p>It was a cover for his book-table that I happened to be ornamenting. It had been laid by on
+      the night preceding my sad journey, and never resumed. I showed it to him now, and he admired
+      it highly. After I had explained the pattern to him, and all the great effects that were to
+      come out by-and-by, I thought I would go back to our last theme.</p>
+     <p>“You said, dear guardian, when we spoke of Mr. Woodcourt before Ada left us, that you
+      thought he would give a long trial to another country. Have you been advising him since?”</p>
+     <p>“Yes, little woman; pretty often.”</p>
+     <p>“Has he decided to do so?”</p>
+     <p>“I rather think not.”</p>
+     <p>“Some other prospect has opened to him, perhaps?” said I.</p>
+     <p>“Why—yes—perhaps,” returned my guardian, beginning his answer in a very deliberate manner.
+      “About half a year hence or so, there is a medical attendant for the poor to be appointed at a
+      certain place in Yorkshire. It is a thriving place, pleasantly situated; streams and streets,
+      town and country, mill and moor; and seems to present an opening for such a man. I mean, a man
+      whose hopes and aims may sometimes lie (as most men's sometimes do, I dare say) above the
+      ordinary level, but to whom the ordinary level will be high enough after all, if it should
+      prove to be a way of usefulness and good service leading to no other. All generous spirits are
+      ambitious, I suppose; but the ambition that calmly trusts itself to such a road, instead of
+      spasmodically trying to fly over it, is of the kind I care for. It is Woodcourt's kind.”</p>
+     <p>“And will he get this appointment?” I asked.</p>
+     <p>“Why, little woman,” returned my guardian, smiling, “not being an oracle, I cannot
+      confidently say; but I think so. His reputation stands very high; there were people from that
+      part of the country in the shipwreck; and, strange to say, I believe the best man has the best
+      chance. You must not suppose it to be a fine endowment. It is a very, very commonplace affair,
+      my dear; an appointment to a great amount of work
+      <pb xml:id="p580"/> and a small amount of pay; but better things will gather about it, it may
+      be fairly hoped.”</p>
+     <p>“The poor of that place will have reason to bless the choice, if it falls on Mr. Woodcourt,
+      guardian.”</p>
+     <p>“You are right, little woman; that I am sure they will.”</p>
+     <p>We said no more about it, nor did he say a word about the future of Bleak House. But it was
+      the first time I had taken my seat at his side in my mourning dress, and that accounted for it
+      I considered.</p>
+     <p>I now began to visit my dear girl every day, in the dull dark corner where she lived. The
+      morning was my usual time; but whenever I found I had an hour or so to spare, I put on my
+      bonnet and bustled off to Chancery Lane. They were both so glad to see me at all hours, and
+      used to brighten up so when they heard me opening the door and coming in (being quite at home,
+      I never knocked), that I had no fear of becoming troublesome just yet.</p>
+     <p>On these occasions I frequently found Richard absent. At other times he would be writing, or
+      reading papers in the Cause, at that table of his, so covered with papers, which was never
+      disturbed. Sometimes I would come upon him, lingering at the door of Mr. Vholes's office.
+      Sometimes I would meet him in the neighbourhood, lounging about, and biting his nails. I often
+      met him wandering in Lincoln's Inn, near the place where I had first seen him, O how
+      different, how different!</p>
+     <p>That the money Ada brought him was melting away with the candles I used to see burning after
+      dark in Mr. Vholes's office, I knew very well. It was not a large amount in the beginning; he
+      had married in debt; and I could not fail to understand, by this time, what was meant by Mr.
+      Vholes's shoulder being at the wheel—as I still heard it was. My dear made the best of
+      housekeepers, and tried hard to save; but I knew that they were getting poorer and poorer
+      every day.</p>
+     <p>She shone in the miserable corner like a beautiful star. She adorned and graced it so, that
+      it became another place. Paler than she had been at home, and a little quieter than I had
+      thought natural when she was yet so cheerful and hopeful, her face was so unshadowed, that I
+      half believed she was blinded by her love for Richard to his ruinous career.</p>
+     <p>I went one day to dine with them, while I was under this impression. As I turned into
+      Symond's Inn, I met little Miss Flite coming out. She had been to make a stately call upon the
+      wards in Jarndyce, as she still called them, and had derived the highest gratification from
+      that ceremony. Ada had already told me that she called every Monday at five o'clock, with one
+      little extra white bow in her bonnet, which never appeared there at any other time, and with
+      her largest reticule of documents on her arm.</p>
+     <p>“My dear!” she began. “So delighted! How do you do! So glad to see you. And you are going to
+      visit our interesting Jarndyce wards? <hi>To</hi> be sure! Our beauty is at home, my dear, and
+      will be charmed to see you.”</p>
+     <p>“Then Richard is not come in yet?” said I. “I am glad of that, for I was afraid of being a
+      little late.”</p>
+     <p>“No, he is not come in,” returned Miss Flite. “He has had a long day in court. I left him
+      there, with Vholes. You don't like Vholes, I hope? <hi>Don't</hi> like Vholes. Dan-gerous
+      man!”</p>
+     <pb xml:id="p581"/>
+     <p>“I am afraid you see Richard oftener than ever now?” said I.</p>
+     <p>“My dearest,” returned Miss Flite, “daily and hourly. You know what I told you of the
+      attraction on the Chancellor's table? My dear, next to myself he is the most constant suitor
+      in court. He begins quite to amuse our little party. Ve-ry friendly little party, are we
+      not?”</p>
+     <p>It was miserable to hear this from her poor mad lips, though it was no surprise.</p>
+     <p>“In short, my valued friend,” pursued Miss Flite, advancing her lips to my ear, with an air
+      of equal patronage and mystery, “I must tell you a secret. I have made him my executor.
+      Nominated, constituted, and appointed him. In my will. Ye-es.”</p>
+     <p>“Indeed?” said I.</p>
+     <p>“Ye-es,” repeated Miss Flite, in her most genteel accents, “my executor, administrator, and
+      assign. (Our Chancery phrases, my love.) I have reflected that if I should wear out, he will
+      be able to watch that judgment. Being so very regular in his attendance.”</p>
+     <p>It made me sigh to think of him.</p>
+     <p>“I did at one time mean,” said Miss Flite, echoing the sigh, “to nominate, constitute, and
+      appoint poor Gridley. Also very regular, my charming girl. I assure you, most exemplary! But
+      he wore out, poor man, so I have appointed his successor. Don't mention it. This is in
+      confidence.”</p>
+     <p>She carefully opened her reticule a little way, and shewed me a folded piece of paper
+      inside, as the appointment of which she spoke.</p>
+     <p>“Another secret, my dear. I have added to my collection of birds.”</p>
+     <p>“Really, Miss Flite?” said I, knowing how it pleased her to have her confidence received
+      with an appearance of interest.</p>
+     <p>She nodded several times, and her face became overcast and gloomy. “Two more. I call them
+      the Wards in Jarndyce. They are caged up with all the others. With Hope, Joy, Youth, Peace,
+      Rest, Life, Dust, Ashes, Waste, Want, Ruin, Despair, Madness, Death, Cunning, Folly, Words,
+      Wigs, Rags, Sheepskin, Plunder, Precedent, Jargon, Gammon, and Spinach!”</p>
+     <p>The poor soul kissed me, with the most troubled look I had ever seen in her; and went her
+      way. Her manner of running over the names of her birds, as if she were afraid of hearing them
+      even from her own lips, quite chilled me.</p>
+     <p>This was not a cheering preparation for my visit, and I could have dispensed with the
+      company of Mr. Vholes, when Richard (who arrived within a minute or two after me) brought him
+      to share our dinner. Although it was a very plain one, Ada and Richard were for some minutes
+      both out of the room together, helping to get ready what we were to eat and drink. Mr. Vholes
+      took that opportunity of holding a little conversation in a low voice with me. He came to the
+      window where I was sitting, and began upon Symond's Inn.</p>
+     <p>“A dull place, Miss Summerson, for a life that is not an official one,” said Mr. Vholes,
+      smearing the glass with his black glove to make it clearer for me.</p>
+     <p>“There is not much to see here,” said I.</p>
+     <p>“Nor to hear, miss,” returned Mr. Vholes. “A little music does
+      <pb xml:id="p582"/> occasionally stray in; but we are not musical in the law, and soon eject
+      it. I hope Mr. Jarndyce is as well as his friends could wish him?”</p>
+     <p>I thanked Mr. Vholes, and said he was quite well.</p>
+     <p>“I have not the pleasure to be admitted among the number of his friends myself,” said Mr.
+      Vholes, “and I am aware that the gentlemen of our profession are sometimes regarded in such
+      quarters with an unfavorable eye. Our plain course, however, under good report and evil
+      report, and all kinds of prejudice, (we are the victims of prejudice) is to have everything
+      openly carried on. How do you find Mr. C looking, Miss Summerson?”</p>
+     <p>“He looks very ill. Dreadfully anxious.”</p>
+     <p>“Just so,” said Mr. Vholes.</p>
+     <p>He stood behind me, with his long black figure reaching nearly to the ceiling of those low
+      rooms; feeling the pimples on his face as if they were ornaments, and speaking inwardly and
+      evenly as though there were not a human passion or emotion in his nature.</p>
+     <p>“Mr. Woodcourt is in attendance upon Mr. C, I believe?” he resumed.</p>
+     <p>“Mr. Woodcourt is his disinterested friend,” I answered.</p>
+     <p>“But I mean in professional attendance, medical attendance.”</p>
+     <p>“That can do little for an unhappy mind,” said I.</p>
+     <p>“Just so,” said Mr. Vholes.</p>
+     <p>So slow, so eager, so bloodless and gaunt, I felt as if Richard were wasting away beneath
+      the eyes of this adviser, and there were something of the Vampire in him.</p>
+     <p>“Miss Summerson,” said Mr. Vholes, very slowly rubbing his gloved hands, as if, to his cold
+      sense of touch, they were much the same in black kid or out of it, “this was an ill-advised
+      marriage of Mr. C's.”</p>
+     <p>I begged he would excuse me for discussing it. They had been engaged when they were both
+      very young, I told him (a little indignantly), and when the prospect before them was much
+      fairer and brighter. When Richard had not yielded himself to the unhappy influence which now
+      darkened his life.</p>
+     <p>“Just so,” assented Mr. Vholes again. “Still, with a view to everything being openly carried
+      on, I will, with your permission, Miss Summerson, observe to you that I consider this a very
+      ill-advised marriage indeed. I owe the opinion, not only to Mr. C's connexions, against whom I
+      should naturally wish to protect myself, but also to my own reputation—dear to myself, as a
+      professional man aiming to keep respectable; dear to my three girls at home, for whom I am
+      striving to realise some little independence; dear, I will even say, to my aged father, whom
+      it is my privilege to support.”</p>
+     <p>“It would become a very different marriage, a much happier and better marriage, another
+      marriage altogether, Mr. Vholes,” said I, “if Richard were persuaded to turn his back on the
+      fatal pursuit in which you are engaged with him.”</p>
+     <p>Mr. Vholes, with a noiseless cough—or rather gasp—into one of his black gloves, inclined his
+      head as if he did not wholly dispute even that.</p>
+     <p>“Miss Summerson,” he said, “it may be so; and I freely admit that the young lady who has
+      taken Mr. C's name upon herself in so ill-advised
+      <pb xml:id="p583"/> a manner—you will I am sure not quarrel with me for throwing out that
+      remark again, as a duty I owe to Mr. C's connexions—is a highly genteel young lady. Business
+      has prevented me from mixing much with general society, in any but a professional character;
+      still I trust I am competent to perceive that she is a highly genteel young lady. As to
+      beauty, I am not a judge of that myself, and I never did give much attention to it from a boy;
+      but I dare say the young lady is equally eligible, in that point of view. She is considered so
+      (I have heard) among the clerks in the Inn, and it is a point more in their way than in mine.
+      In reference to Mr. C's pursuit of his interests—”</p>
+     <p>“O! His interests, Mr. Vholes!”</p>
+     <p>“Pardon me,” returned Mr. Vholes, going on in exactly the same inward and dispassionate
+      manner, “Mr. C takes certain interests under certain wills disputed in the suit. It is a term
+      we use. In reference to Mr. C's pursuit of his interests, I mentioned to you, Miss Summerson,
+      the first time I had the pleasure of seeing you, in my desire that everything should be openly
+      carried on—I used those words, for I happened afterwards to note them in my diary, which is
+      producible at any time—I mentioned to you that Mr. C had laid down the principle of watching
+      his own interests; and that when a client of mine laid down a principle which was not of an
+      immoral (that is to say, unlawful) nature, it devolved upon me to carry it out. I
+       <hi>have</hi> carried it out; I <hi>do</hi> carry it out. But I will not smooth things over,
+      to any connexion of Mr. C's, on any account. As open as I was to Mr. Jarndyce, I am to you. I
+      regard it in the light of a professional duty to be so, though it can be charged to no one. I
+      openly say, unpalatable as it may be, that I consider Mr. C's affairs in a very bad way, that
+      I consider Mr. C himself in a very bad way, and that I regard this as an exceedingly
+      ill-advised marriage.—Am I here, sir? Yes, I thank you; I am here, Mr. C, and enjoying the
+      pleasure of some agreeable conversation with Miss Summerson, for which I have to thank you
+      very much, sir!”</p>
+     <p>He broke off thus, in answer to Richard, who addressed him as he came into the room. By this
+      time, I too well understood Mr. Vholes's scrupulous way of saving himself and his
+      respectability, not to feel that our worst fears did but keep pace with his client's
+      progress.</p>
+     <p>We sat down to dinner, and I had an opportunity of observing Richard, anxiously. I was not
+      disturbed by Mr. Vholes (who took off his gloves to dine), though he sat opposite to me at the
+      small table; for I doubt if, looking up at all, he once removed his eyes from his host's face.
+      I found Richard thin and languid, slovenly in his dress, abstracted in his manner forcing his
+      spirits now and then, and at other intervals relapsing into a dull thoughtfulness. About his
+      large bright eyes that used to be so merry, there was a wanness and a restlessness that
+      changed them altogether I cannot use the expression that he looked old. There is a ruin of
+      youth which is not like age; and into such a ruin, Richard's youth and youthful beauty had all
+      fallen away.</p>
+     <p>He ate little, and seemed indifferent what it was; shewed himself to be much more impatient
+      than he used to be; and was quick, even with Ada. I thought, at first, that his
+      old-light-hearted manner was all gone; but it shone out of him sometimes, as I had
+      occasionally known little momentary glimpses of my own old face to look out upon me from the
+      <pb xml:id="p584"/> glass. His laugh had not quite left him either; but it was like the echo
+      of a joyful sound, and that is always sorrowful.</p>
+     <p>Yet he was as glad as ever, in his old affectionate way, to have me there; and we talked of
+      the old times pleasantly. These did not appear to be interesting to Mr. Vholes, though he
+      occasionally made a gasp which I believe was his smile. He rose shortly after dinner, and said
+      that with the permission of the ladies he would retire to his office.</p>
+     <p>“Always devoted to business, Vholes!” cried Richard.</p>
+     <p>“Yes, Mr. C,” he returned, “the interests of clients are never to be neglected, sir. They
+      are paramount in the thoughts of a professional man like myself, who wishes to preserve a good
+      name among his fellow practitioners and society at large. My denying myself the pleasure of
+      the present agreeable conversation, may not be wholly irrespective of your own interests, Mr.
+      C.”</p>
+     <p>Richard expressed himself quite sure of that, and lighted Mr. Vholes out. On his return he
+      told us, more than once, that Vholes was a good fellow, a safe fellow, a man who did what he
+      pretended to do, a very good fellow, indeed! He was so defiant about it, that it struck me he
+      had begun to doubt Mr. Vholes.</p>
+     <p>Then he threw himself on the sofa, tired out; and Ada and I put things to rights, for they
+      had no other servant than the woman who attended to the chambers. My dear girl had a cottage
+      piano there, and quietly sat down to sing some of Richard's favorites; the lamp being first
+      removed into the next room, as he complained of its hurting his eyes.</p>
+     <p>I sat between them, at my dear girl's side, and felt very melancholy listening to her sweet
+      voice. I think Richard did too; I think he darkened the room for that reason. She had been
+      singing some time, rising between-whiles to bend over him and speak to him; when Mr. Woodcourt
+      came in. Then he sat down by Richard; and half playfully, half earnestly, quite naturally and
+      easily, found out how he felt, and where he had been all day. Presently he proposed to
+      accompany him in a short walk on one of the bridges, as it was a moonlight airy night; and
+      Richard readily consenting, they went out together.</p>
+     <p>They left my dear girl still sitting at the piano, and me still sitting beside her. When
+      they were gone out, I drew my arm round her waist. She put her left hand in mine (I was
+      sitting on that side), but kept her right upon the keys—going over and over them, without
+      striking any note.</p>
+     <p>“Esther, my dearest,” she said, breaking silence, “Richard is never so well, and I am never
+      so easy about him, as when he is with Allan Woodcourt. We have to thank you for that.”</p>
+     <p>I pointed out to my darling how this could scarcely be, because Mr. Woodcourt had come to
+      her cousin John's house, and had known us all there; and because he had always liked Richard,
+      and Richard had always liked him, and—and so forth.</p>
+     <p>“All true,” said Ada; “but that he is such a devoted friend to us, we owe to you.”</p>
+     <p>I thought it best to let my dear girl have her way, and to say no more about it. So I said
+      as much. I said it lightly, because I felt her trembling.</p>
+     <pb xml:id="p585"/>
+     <p>“Esther, my dearest, I want to be a good wife, a very, very good wife indeed. You shall
+      teach me.”</p>
+     <p>I teach! I said no more; for I noticed the hand that was fluttering over the keys, and I
+      knew that it was not I who ought to speak; that it was she who had something to say to me.</p>
+     <p>“When I married Richard, I was not insensible to what was before him. I had been perfectly
+      happy for a long time with you, and I had never known any trouble or anxiety, so loved and
+      cared for; but I understood the danger he was in, dear Esther.”</p>
+     <p>“I know, I know, my darling.”</p>
+     <p>“When we were married, I had some little hope that I might be able to convince him of his
+      mistake; that he might come to regard it in a new way as my husband, and not pursue it all the
+      more desperately for my sake—as he does. But if I had not had that hope, I would have married
+      him just the same, Esther. Just the same!”</p>
+     <p>In the momentary firmness of the hand that was never still—a firmness inspired by the
+      utterance of these last words, and dying away with them—I saw the confirmation of her earnest
+      tones.</p>
+     <p>“You are not to think, my dearest Esther, that I fail to see what you see, and fear what you
+      fear. No one can understand him better than I do. The greatest wisdom that ever lived in the
+      world could scarcely know Richard better than my love does.”</p>
+     <p>She spoke so modestly and softly, and her trembling hand expressed such agitation, as it
+      moved to and fro upon the silent notes! My dear, dear girl!</p>
+     <p>“I see him at his worst, every day. I watch him in his sleep. I know every change of his
+      face. But when I married Richard I was quite determined, Esther, if Heaven would help me,
+      never to show him that I grieved for what he did, and so to make him more unhappy. I want him,
+      when he comes home, to find no trouble in my face. I want him, when he looks at me, to see
+      what he loved in me. I married him to do this, and this supports me.”</p>
+     <p>I felt her trembling more. I waited for what was yet to come, and I now thought I began to
+      know what it was.</p>
+     <p>“And something else supports me, Esther.”</p>
+     <p>She stopped a minute. Stopped speaking only; her hand was still in motion.</p>
+     <p>“I look forward a little while, and I don't know what great aid may come to me. When Richard
+      turns his eyes upon me then, there may be something lying on my breast more eloquent than I
+      have been, with greater power than mine to show him his true course, and win him back.”</p>
+     <p>Her hand stopped now. She clasped me in her arms, and I clasped her in mine.</p>
+     <p>“If that little creature should fail too, Esther, I still look forward. I look forward a
+      long while, through years and years, and think that then, when I am growing old, or when I am
+      dead perhaps a beautiful woman, his daughter, happily married, may be proud of him and a
+      blessing to him. Or that a generous brave man, as handsome as he used to be, as hopeful, and
+      far more happy, may walk in the sunshine
+      <pb xml:id="p586"/> with him, honoring his grey head, and saying to himself, ‘I thank God this
+      is my father! ruined by a fatal inheritance, and restored through me!’ ”</p>
+     <p>O, my sweet girl, what a heart was that which beat so fast against me! “These hopes uphold
+      me, my dear Esther, and I know they will. Though sometimes even they depart from me, before a
+      dread that arises when I look at Richard.”</p>
+     <p>I tried to cheer my darling, and asked her what it was? Sobbing and weeping, she
+      replied:</p>
+     <p>“That he may not live to see his child.”</p>
+    </div>
+    <div  type="chapter">
+     <head>CHAPTER LXI. A DISCOVERY.</head>
+     <p>THE days when I frequented that miserable corner which my dear girl brightened, can never
+      fade in my remembrance. I never see it, and I never wish to see it, now; I have been there
+      only once since; but in my memory there is a mournful glory shining on the place, which will
+      shine for ever.</p>
+     <p>Not a day passed, without my going there, of course. At first I found Mr. Skimpole there, on
+      two or three occasions, idly playing the piano, and talking in his usual vivacious strain.
+      Now, besides my very much mistrusting the probability of his being there without making
+      Richard poorer, I felt as if there were something in his careless gaiety, too inconsistent
+      with what I knew of the depths of Ada's life. I clearly perceived, too, that Ada shared my
+      feelings. I therefore resolved, after much thinking of it, to make a private visit to Mr.
+      Skimpole, and try delicately to explain myself. My dear girl was the great consideration that
+      made me bold.</p>
+     <p>I set off one morning, accompanied by Charley, for Somers Town. As I approached the house, I
+      was strongly inclined to turn back, for I felt what a desperate attempt it was to make an
+      impression on Mr. Skimpole, and how extremely likely it was that he would signally defeat me.
+      However, I thought that being there, I would go through with it. I knocked with a trembling
+      hand at Mr. Skimpole's door—literally with a hand, for the knocker was gone—and after a long
+      parley gained admission from an Irishwoman, who was in the area when I knocked, breaking up
+      the lid of a water-butt with a poker, to light the fire with.</p>
+     <p>Mr. Skimpole, lying on the sofa in his room, playing the flute a little, was enchanted to
+      see me. Now, who should receive me, he asked? Who would I prefer for mistress of the
+      ceremonies? Would I have his Comedy daughter, his Beauty daughter, or his Sentiment daughter?
+      Or would I have all the daughters at once, in a perfect nosegay?</p>
+     <p>I replied, half defeated already, that I wished to speak to himself only, if he would give
+      me leave.</p>
+     <p>“My dear Miss Summerson, most joyfully! Of course,” he said, bringing his chair near mine,
+      and breaking into his fascinating smile, “of course it's not business. Then it's
+      pleasure!”</p>
+     <pb xml:id="p587"/>
+     <p>I said it certainly was not business that I came upon, but it was not quite a pleasant
+      matter.</p>
+     <p>“Then, my dear Miss Summerson,” said he, with the frankest gaiety, “don't allude to it. Why
+      should you allude to anything that is <hi>not</hi> a pleasant matter? <hi>I</hi> never do. And
+      you are a much pleasanter creature, in every point of view, than I. You are perfectly
+      pleasant; I am imperfectly pleasant; then, if I never allude to an unpleasant matter, how much
+      less should you! So that's disposed of, and we will talk of something else.”</p>
+     <p>Although I was embarrassed, I took courage to intimate that I still wished to pursue the
+      subject.</p>
+     <p>“I should think it a mistake,” said Mr. Skimpole, with his airy laugh, “if I thought Miss
+      Summerson capable of making one. But I don't!”</p>
+     <p>“Mr. Skimpole,” said I, raising my eyes to his, “I have so often heard you say that you are
+      unacquainted with the common affairs of life——”</p>
+     <p>“Meaning our three banking-house friends, L, S, and who's the junior partner? D?” said Mr.
+      Skimpole, brightly. “Not an idea of them!”</p>
+     <p>“—That, perhaps,” I went on, “you will excuse my boldness on that account. I think you ought
+      most seriously to know that Richard is poorer than he was.”</p>
+     <p>“Dear me!” said Mr. Skimpole. “So am I, they tell me.”</p>
+     <p>“And in very embarrassed circumstances.”</p>
+     <p>“Parallel case exactly!” said Mr. Skimpole, with a delighted countenance.</p>
+     <p>“This at present naturally causes Ada much secret anxiety; and as I think she is less
+      anxious when no claims are made upon her by visitors, and as Richard has one uneasiness always
+      heavy on his mind, it has occurred to me to take the liberty of saying that—if you
+      would—not—”</p>
+     <p>I was coming to the point with great difficulty, when he took me by both hands, and, with a
+      radiant face and in the liveliest way, anticipated it.</p>
+     <p>“Not go there? Certainly not, my dear Miss Summerson, most assuredly not. Why
+       <hi>should</hi> I go there? When I go anywhere, I go for pleasure. I don't go anywhere for
+      pain, because I was made for pleasure. Pain comes to <hi>me</hi> when it wants me. Now I have
+      had very little pleasure at our dear Richard's, lately, and your practical sagacity
+      demonstrates why. Our young friends, losing the youthful poetry which was once so captivating
+      in them, begin to think, ‘this is a man who wants pounds.’ So I am; I always want pounds; not
+      for myself, but because tradespeople always want them of me. Next, our young friends begin to
+      think, becoming mercenary, ‘this is the man who <hi>had</hi> pounds,—who borrowed them’; which
+      I did. I always borrow pounds. So our young friends, reduced to prose (which is much to be
+      regretted), degenerate in their power of imparting pleasure to me. Why should I go to see them
+      therefore? Absurd!”</p>
+     <p>Through the beaming smile with which he regarded me, as he reasoned thus, there now broke
+      forth a look of disinterested benevolence quite astonishing.</p>
+     <p>“Besides,” he said, pursuing his argument, in his tone of light-hearted conviction, “if I
+      don't go anywhere for pain—which would be a perversion
+      <pb xml:id="p588"/> of the intention of my being, and a monstrous thing to do—why should I go
+      anywhere to be the cause of pain? If I went to see our young friends in their present
+      ill-regulated state of mind, I should give them pain. The associations with me would be
+      disagreeable. They might say, ‘this is the man who had pounds, and who can't pay pounds,’
+      which I can't, of course; nothing could be more out of the question! Then, kindness requires
+      that I shouldn't go near them—and I won't.”</p>
+     <p>He finished by genially kissing my hand, and thanking me. Nothing but Miss Summerson's fine
+      tact, he said, would have found this out for him.</p>
+     <p>I was much disconcerted: but I reflected that if the main point were gained, it mattered
+      little how strangely he perverted everything leading to it. I had determined to mention
+      something else, however, and I thought I was not to be put off in that.</p>
+     <p>“Mr. Skimpole,” said I, “I must take the liberty of saying, before I conclude my visit, that
+      I was much surprised to learn, on the best authority, some little time ago, that you knew with
+      whom that poor boy left Bleak House, and that you accepted a present on that occasion. I have
+      not mentioned it to my guardian, for I fear it would hurt him unnecessarily; but I may say to
+      you that I was much surprised.”</p>
+     <p>“No? Really surprised, my dear Miss Summerson?” he returned, inquiringly, raising his
+      pleasant eyebrows.</p>
+     <p>“Greatly surprised.”</p>
+     <p>He thought about it for a little while, with a highly agreeable and whimsical expression of
+      face; then quite gave it up, and said, in his most engaging manner:</p>
+     <p>“You know what a child I am. Why surprised?”</p>
+     <p>I was reluctant to enter minutely into that question; but as he begged I would, for he was
+      really curious to know, I gave him to understand, in the gentlest words I could use, that his
+      conduct seemed to involve a disregard of several moral obligations. He was much amused and
+      interested when he heard this, and said, “No, really?” with ingenuous simplicity.</p>
+     <p>“You know I don't pretend to be responsible. I never could do it. Responsibility is a thing
+      that has always been above me—or below me,” said Mr. Skimpole, “I don't even know which; but,
+      as I understand the way in which my dear Miss Summerson (always remarkable for her practical
+      good sense and clearness) puts this case, I should imagine it was chiefly a question of money,
+      do you know?”</p>
+     <p>I incautiously gave a qualified assent to this.</p>
+     <p>“Ah! Then you see,” said Mr. Skimpole, shaking his head, “I am hopeless of understanding
+      it.”</p>
+     <p>I suggested, as I rose to go, that it was not right to betray my guardian's confidence for a
+      bribe.</p>
+     <p>“My dear Miss Summerson,” he returned, with a candid hilarity that was all his own. “I can't
+      be bribed.”</p>
+     <p>“Not by Mr. Bucket?” said I.</p>
+     <p>“No,” said he. “Not by anybody. I don't attach any value to money. I don't care about it, I
+      don't know about it, I don't want it, I don't keep it—it goes away from me directly. How can
+       <hi>I</hi> be bribed?”</p>
+     <pb xml:id="p589"/>
+     <p>I showed that I was of a different opinion, though I had not the capacity for arguing the
+      question.</p>
+     <p>“On the contrary,” said Mr. Skimpole, “I am exactly the man to be placed in a superior
+      position, in such a case as that. I am above the rest of mankind, in such a case as that. I
+      can act with philosophy, in such a case as that. I am not warped by prejudices, as an Italian
+      baby is by bandages. I am as free as the air. I feel myself as far above suspicion as Cæsar's
+      wife.”</p>
+     <p>Anything to equal the lightness of his manner, and the playful impartiality with which he
+      seemed to convince himself, as he tossed the matter about like a ball of feathers, was surely
+      never seen in anybody else!</p>
+     <p>“Observe the case, my dear Miss Summerson. Here is a boy received into the house and put to
+      bed, in a state that I strongly object to. The boy being in bed, a man arrives—like the house
+      that Jack built. Here is the man who demands the boy who is received into the house and put to
+      bed in a state that I strongly object to. Here is a bank-note produced by the man who demands
+      the boy who is received into the house and put to bed in a state that I strongly object to.
+      Here is the Skimpole who accepts the bank-note produced by the man who demands the boy who is
+      received into the house and put to bed in a state that I strongly object to. Those are the
+      facts. Very well. Should the Skimpole have refused the note? <hi>Why</hi> should the Skimpole
+      have refused the note? Skimpole protests to Bucket; ‘what's this for? I don't understand it,
+      it is of no use to me, take it away.’ Bucket still entreats Skimpole to accept it. Are there
+      reasons why Skimpole, not being warped by prejudices, should accept it? Yes. Skimpole
+      perceives them. What are they? Skimpole reasons with himself, this is a tamed lynx, an active
+      police officer, an intelligent man, a person of a peculiarly directed energy and great
+      subtlety both of conception and execution, who discovers our friends and enemies for us when
+      they run away, recovers our property for us when we are robbed, avenges us comfortably when we
+      are murdered. This active police officer and intelligent man has acquired, in the exercise of
+      his art, a strong faith in money; he finds it very useful to him, and he makes it very useful
+      to society. Shall I shake that faith in Bucket, because I want it myself; shall I deliberately
+      blunt one of Bucket's weapons; shall I possibly paralyse Bucket, in his next detective
+      operation? And again. If it is blameable in Skimpole to take the note, it is blameable in
+      Bucket to offer the note—much more blameable in Bucket, because he is the knowing man. Now,
+      Skimpole wishes to think well of Bucket; Skimpole deems it essential, in its little place, to
+      the general cohesion of things, that he <hi>should</hi> think well of Bucket. The State
+      expressly asks him to trust to Bucket. And he does. And that's all he does!”</p>
+     <p>I had nothing to offer in reply to this exposition, and therefore took my leave. Mr.
+      Skimpole, however, who was in excellent spirits, would not hear of my returning home attended
+      only by “Little Coavinses,” and accompanied me himself. He entertained me, on the way, with a
+      variety of delightful conversation; and assured me, at parting, that he should never forget
+      the fine tact with which I had found that out for him about our young friends.</p>
+     <p>As it so happened that I never saw Mr. Skimpole again, I may at once
+      <pb xml:id="p590"/> finish what I know of his history. A coolness arose between him and my
+      guardian, based chiefly on the foregoing grounds, and on his having heartlessly disregarded my
+      guardian's entreaties (as we afterwards learned from Ada) in reference to Richard. His being
+      heavily in my guardian's debt, had nothing to do with their separation. He died some five
+      years afterwards, and left a diary behind him, with letters and other materials towards his
+      Life; which was published, and which showed him to have been the victim of a combination on
+      the part of mankind against an amiable child. It was considered very pleasant reading, but I
+      never read more of it myself than the sentence on which I chanced to light on opening the
+      book. It was this. “Jarndyce, in common with most other men I have known, is the Incarnation
+      of Selfishness.”</p>
+     <p>And now I come to a part of my story, touching myself very nearly indeed, and for which I
+      was quite unprepared when the circumstance occurred. Whatever little lingerings may have now
+      and then revived in my mind, associated with my poor old face, had only revived as belonging
+      to a part of my life that was gone—gone like my infancy or my childhood. I have suppressed
+      none of my many weaknesses on that subject, but have written them as faithfully as my memory
+      has recalled them. And I hope to do, and mean to do, the same down to the last words of these
+      pages: which I see now, not so very very far before me.</p>
+     <p>The months were gliding away; and my dear girl, sustained by the hopes she had confided to
+      me, was the same beautiful star in the miserable corner. Richard, more worn and haggard,
+      haunted the Court day after day; listlessly sat there the whole day long, when he knew there
+      was no remote chance of the suit being mentioned; and became one of the stock sights of the
+      place. I wonder whether any of the gentlemen remembered him as he was when he first went
+      there.</p>
+     <p>So completely was he absorbed in his fixed idea, that he used to avow in his cheerful
+      moments, that he should never have breathed the fresh air now “but for Woodcourt.” It was only
+      Mr. Woodcourt who could occasionally divert his attention, for a few hours at a time; and
+      rouse him, even when he sunk into a lethargy of mind and body that alarmed us greatly, and the
+      returns of which became more frequent as the months went on. My dear girl was right in saying
+      that he only pursued his errors the more desperately for her sake. I have no doubt that his
+      desire to retrieve what he had lost, was rendered the more intense by his grief for his young
+      wife, and became like the madness of a gamester.</p>
+     <p>I was there, as I have mentioned, at all hours. When I was there at night, I generally went
+      home with Charley in a coach; sometimes my guardian would meet me in the neighbourhood, and we
+      would walk home together. One evening, he had arranged to meet me at eight o'clock. I could
+      not leave, as I usually did, quite punctually to the time, for I was working for my dear girl,
+      and had a few stitches more to do, to finish what I was about; but it was within a few minutes
+      of the hour, when I bundled up my little work-basket, gave my darling my last kiss for the
+      night, and hurried down-stairs. Mr. Woodcourt went with me, as it was dusk.</p>
+     <p>When we came to the usual place of meeting—it was close by, and
+      <pb xml:id="p591"/> Mr. Woodcourt had often accompanied me before—my guardian was not there.
+      We waited half an hour, walking up and down; but there were no signs of him. We agreed that he
+      was either prevented from coming, or that he had come, and gone away; and Mr. Woodcourt
+      proposed to walk home with me.</p>
+     <p>It was the first walk we had ever taken together, except that very short one to the usual
+      place of meeting. We spoke of Richard and Ada the whole way. I did not thank him, in words,
+      for what he had done—my appreciation of it had risen above all words then—but I hoped he might
+      not be without some understanding of what I felt so strongly.</p>
+     <p>Arriving at home and going up-stairs, we found that my guardian was out, and that Mrs.
+      Woodcourt was out too. We were in the very same room into which I had brought my blushing
+      girl, when her youthful lover, now her so altered husband, was the choice of her young heart;
+      the very same room, from which my guardian and I had watched them going away through the
+      sunlight, in the fresh bloom of their hope and promise.</p>
+     <p>We were standing by the opened window, looking down into the street, when Mr. Woodcourt
+      spoke to me. I learned in a moment that he loved me. I learned in a moment that my scarred
+      face was all unchanged to him. I learned in a moment that what I had thought was pity and
+      compassion, was devoted, generous, faithful love. O, too late to know it now, too late, too
+      late. That was the first ungrateful thought I had. Too late.</p>
+     <p>“When I returned,” he told me, “when I came back, no richer than I went away, and found you
+      newly risen from a sick bed, yet so inspired by sweet consideration for others, and so free
+      from a selfish thought—”</p>
+     <p>“O, Mr. Woodcourt, forbear, forbear!” I entreated him. “I do not deserve your high praise. I
+      had many selfish thoughts at that time, many!”</p>
+     <p>“Heaven knows, beloved of my life,” said he, “that my praise is not a lover's praise, but
+      the truth. You do not know what all around you see in Esther Summerson, how many hearts she
+      touches and awakens, what sacred admiration and what love she wins.”</p>
+     <p>“O, Mr. Woodcourt,” cried I, “it is a great thing to win love, it is a great thing to win
+      love! I am proud of it, and honored by it; and the hearing of it causes me to shed these tears
+      of mingled joy and sorrow—joy that I have won it, sorrow that I have not deserved it better;
+      but I am not free to think of yours.”</p>
+     <p>I said it with a stronger heart; for when he praised me thus, and when I heard his voice
+      thrill with his belief that what he said was true, I aspired to be more worthy of it. It was
+      not too late for that. Although I closed this unforeseen page in my life to-night, I could be
+      worthier of it all through my life. And it was a comfort to me, and an impulse to me, and I
+      felt a dignity rise up within me that was derived from him, when I thought so.</p>
+     <p>He broke the silence.</p>
+     <p>“I should poorly show the trust that I have in the dear one who will evermore be as dear to
+      me as now,” and the deep earnestness with which he said it, at once strengthened me and made
+      me weep, “if, after her assurance that she is not free to think of my love, I urged it. Dear
+      <pb xml:id="p592"/> Esther, let me only tell you that the fond idea of you which I took
+      abroad, was exalted to the Heavens when I came home. I have always hoped, in the first hour
+      when I seemed to stand in any ray of good fortune, to tell you this. I have always feared that
+      I should tell it you in vain. My hopes and fears are both fulfilled to-night. I distress you.
+      I have said enough.”</p>
+     <p>Something seemed to pass into my place that was like the Angel he thought me, and I felt so
+      sorrowful for the loss he had sustained! I wished to help him in his trouble, as I had wished
+      to do when he showed that first commiseration for me.</p>
+     <p>“Dear Mr. Woodcourt,” said I, “before we part to-night, something is left for me to say. I
+      never could say it as I wish—I never shall—but—”</p>
+     <p>I had to think again of being more deserving of his love, and his affliction, before I could
+      go on.</p>
+     <p>“—I am deeply sensible of your generosity, and I shall treasure its remembrance to my dying
+      hour. I know full well how changed I am, I know you are not unacquainted with my history, and
+      I know what a noble love that is which is so faithful. What you have said to me, could have
+      affected me so much from no other lips; for there are none that could give it such a value to
+      me. It shall not be lost. It shall make me better.”</p>
+     <p>He covered his eyes with his hand, and turned away his head. How could I ever be worthy of
+      those tears?</p>
+     <p>“If, in the unchanged intercourse we shall have together—in tending Richard and Ada; and I
+      hope in many happier scenes of life—you ever find anything in me which you can honestly think
+      is better than it used to be, believe that it will have sprung up from to-night, and that I
+      shall owe it to you. And never believe, dear dear Mr. Woodcourt, never believe, that I forget
+      this night; or that while my heart beats, it can be insensible to the pride and joy of having
+      been beloved by you.”</p>
+     <p>He took my hand, and kissed it. He was like himself again, and I felt still more
+      encouraged.</p>
+     <p>“I am induced, by what you said just now,” said I, “to hope that you have succeeded in your
+      endeavour?”</p>
+     <p>“I have,” he answered. “With such help from Mr. Jarndyce, as you who know him so well can
+      imagine him to have rendered me, I have succeeded.”</p>
+     <p>“Heaven bless him for it,” said I, giving him my hand; “and Heaven bless you in all you
+      do!”</p>
+     <p>“I shall do it better for the wish,” he answered; “it will make me enter on these new
+      duties, as on another sacred trust from you.”</p>
+     <p>“Ah! Richard!” I exclaimed involuntarily, “what will he do when you are gone!”</p>
+     <p>“I am not required to go yet; I would not desert him, dear Miss Summerson, even if I
+      were.”</p>
+     <p>One other thing I felt it needful to touch upon, before he left me. I knew that I should not
+      be worthier of the love I could not take, if I reserved it.</p>
+     <p>“Mr. Woodcourt,” said I, “you will be glad to know from my lips before I say Good night,
+      that in the future, which is clear and bright
+      <pb xml:id="p593"/> before me, I am most happy, most fortunate, have nothing to regret or to
+      desire.”</p>
+     <p>It was indeed a glad hearing to him, he replied.</p>
+     <p>“From my childhood I have been,” said I, “the object of the untiring goodness of the best of
+      human beings; to whom I am so bound by every tie of attachment, gratitude, and love, that
+      nothing I could do in the compass of a life could express the feelings of a single day.”</p>
+     <p>“I share those feelings,” he returned; “you speak of Mr. Jarndyce.”</p>
+     <p>“You know his virtues well,” said I, “but few can know the greatness of his character as I
+      know it. All its highest and best qualities have been revealed to me in nothing more brightly,
+      than in the shaping out of that future in which I am so happy. And if your highest homage and
+      respect had not been his already,—which I know they are,—they would have been his, I think, on
+      this assurance, and in the feeling it would have awakened in you towards him for my sake.”</p>
+     <p>He fervently replied, that indeed indeed they would have been. I gave him my hand again.</p>
+     <p>“Good-night,” I said; “good-bye.”</p>
+     <p>“The first, until we meet to-morrow; the second, as a farewell to this theme between us for
+      ever?”</p>
+     <p>“Yes.”</p>
+     <p>“Good-night; good-bye!”</p>
+     <p>He lest me, and I stood at the dark window watching the street. His love, in all its
+      constancy and generosity, had come so suddenly upon me, that he had not left me a minute when
+      my fortitude gave way again, and the street was blotted out by my rushing tears.</p>
+     <p>But they were not tears of regret and sorrow. No. He had called me the beloved of his life,
+      and had said I would be evermore as dear to him as I was then; and I felt as if my heart would
+      not hold the triumph of having heard those words. My first wild thought had died away. It was
+      not too late to hear them, for it was not too late to be animated by them to be good, true,
+      grateful, and contented. How easy my path; how much easier than his!</p>
+    </div>
+    <div  type="chapter">
+     <head>CHAPTER LXII. ANOTHER DISCOVERY.</head>
+     <p>I HAD not the courage to see any one that night. I had not even the courage to see myself,
+      for I was afraid that my tears might a little reproach me. I went up to my room in the dark,
+      and prayed in the dark, and lay down in the dark to sleep. I had no need of any light to read
+      my guardian's letter by, for I knew it by heart. I took it from the place where I kept it, and
+      repeated its contents by its own clear light of integrity and love, and went to sleep with it
+      on my pillow.</p>
+     <p>I was up very early in the morning, and called Charley to come for a
+      <pb xml:id="p594"/> walk. We bought flowers for the breakfast-table, and came back and
+      arranged them, and were as busy as possible. We were so early, that I had good time still for
+      Charley's lesson, before breakfast; Charley (who was not in the least improved in the old
+      defective article of grammar) came through it with great applause; and we were altogether very
+      notable. When my guardian appeared, he said, “Why, little woman, you look fresher than your
+      flowers!” And Mrs. Woodcourt repeated and translated a passage from the Mewlinwillinwodd,
+      expressive of my being like a mountain with the sun upon it.</p>
+     <p>This was all so pleasant, that I hope it made me still more like the mountain than I had
+      been before. After breakfast, I waited my opportunity, and peeped about a little, until I saw
+      my guardian in his own room—the room of last night—by himself. Then I made an excuse to go in
+      with my housekeeping keys, shutting the door after me.</p>
+     <p>“Well, Dame Durden?” said my guardian; the post had brought him several letters, and he was
+      writing. “You want money!”</p>
+     <p>“No, indeed, I have plenty in hand.”</p>
+     <p>“There never was such a Dame Durden,” said my guardian, “for making money last.”</p>
+     <p>He had laid down his pen, and leaned back in his chair looking at me. I have often spoken of
+      his bright face, but I thought I had never seen it look so bright and good. There was a high
+      happiness upon it, which made me think, “he has been doing some great kindness this
+      morning.”</p>
+     <p>“There never was,” said my guardian, musing as he smiled upon me, “such a Dame Durden for
+      making money last.”</p>
+     <p>He had never yet altered his old manner. I loved it, and him, so much, that when I now went
+      up to him and took my usual chair, which was always put at his side—for sometimes I read to
+      him, and sometimes I talked to him, and sometimes I silently worked by him—I hardly liked to
+      disturb it by laying my hand on his breast. But I found I did not disturb it at all.</p>
+     <p>“Dear guardian,” said I, “I want to speak to you. Have I been remiss in any thing?”</p>
+     <p>“Remiss in anything, my dear!”</p>
+     <p>“Have I not been what I have meant to be, since—I brought the answer to your letter,
+      guardian?”</p>
+     <p>“You have been everything I could desire, my love.”</p>
+     <p>“I am very glad indeed to hear that,” I returned. “You know, you said to me, was this the
+      mistress of Bleak House? And I said, yes.”</p>
+     <p>“Yes,” said my guardian, nodding his head. He had put his arm about me, as if there were
+      something to protect me from; and looked in my face, smiling.</p>
+     <p>“Since then,” said I, “we have never spoken on the subject except once.</p>
+     <p>“And then I said, Bleak House was thinning fast; and so it was, my dear.”</p>
+     <p>“And <hi>I</hi> said,” I timidly reminded him, “but its mistress remained.”</p>
+     <p>He still held me, in the same protecting manner, and with the same bright goodness in his
+      face.</p>
+     <p>“Dear guardian,” said I, “I know how you have felt all that has happened, and how
+      considerate you have been. As so much time has passed, and as you spoke only this morning of
+      my being so well again,
+      <pb xml:id="p595"/> perhaps you expect me to renew the subject. Perhaps I ought to do so. I
+      will be the mistress of Bleak House when you please.”</p>
+     <p>“See,” he returned gaily, “what a sympathy there must be between us! I have had nothing
+      else, poor Rick excepted—it's a large exception—in my mind. When you came in, I was full of
+      it. When shall we give Bleak House its mistress, little woman?”</p>
+     <p>“When you please.”</p>
+     <p>“Next month?”</p>
+     <p>“Next month, dear guardian.”</p>
+     <p>“The day on which I take the happiest and best step of my life—the day on which I shall be a
+      man more exulting and more enviable than any other man in the world—the day on which I give
+      Bleak House its little mistress—shall be next month, then,” said my guardian.</p>
+     <p>I put my arms round his neck and kissed him, just as I had done on the day when I brought my
+      answer.</p>
+     <p>A servant came to the door to announce Mr. Bucket, which was quite unnecessary, for Mr.
+      Bucket was already looking in over the servant's shoulder. “Mr. Jarndyce and Miss Summerson,”
+      said he rather out of breath, “with all apologies for intruding, <hi>will</hi> you allow me to
+      order up a person that's on the stairs, and that objects to being left there in case of
+      becoming the subject of observations in his absence? Thank you. Be so good as chair that there
+      Member in this direction, will you?” said Mr. Bucket, beckoning over the bannisters.</p>
+     <p>This singular request produced an old man in a black skull-cap, unable to walk, who was
+      carried up by a couple of bearers, and deposited in the room near the door. Mr. Bucket
+      immediately got rid of the bearers, mysteriously shut the door, and bolted it.</p>
+     <p>“Now you see, Mr. Jarndyce,” he then began, putting down his hat, and opening his subject
+      with a flourish of his well-remembered finger, “you know me, and Miss Summerson knows me. This
+      gentleman likewise knows me, and his name is Smallweed. The discounting line is his line
+      principally, and he's what you may call a dealer in bills. That's about what <hi>you</hi> are,
+      you know, ain't you?” said Mr. Bucket, stooping a little to address the gentleman in question,
+      who was exceedingly suspicious of him.</p>
+     <p>He seemed about to dispute this designation of himself, when he was seized with a violent
+      fit of coughing.</p>
+     <p>“Now, Moral, you know!” said Mr. Bucket, improving the accident. “Don't you contradict when
+      there ain't no occasion, and you won't be took in that way. Now, Mr. Jarndyce, I address
+      myself to you. I've been negociating with this gentleman on behalf of Sir Leicester Dedlock,
+      Baronet; and one way and another I've been in and out and about his premises a deal. His
+      premises are the premises formerly occupied by Krook, Marine Store Dealer—a relation of this
+      gentleman's, that you saw in his life-time, if I don't mistake?”</p>
+     <p>My guardian replied “Yes.”</p>
+     <p>“Well! You are to understand,” said Mr. Bucket, “that this gentleman he come into Krook's
+      property, and a good deal of Magpie property there was. Vast lots of waste paper among the
+      rest. Lord bless you, of no use to nobody!”</p>
+     <p>The cunning of Mr. Bucket's eye, and the masterly manner in which he contrived, without a
+      look or a word against which his watchful auditor
+      <pb xml:id="p596"/> could protest, to let us know that he stated the case according to
+      previous agreement, and could say much more of Mr. Smallweed if he thought it advisable,
+      deprived us of any merit in quite understanding him. His difficulty was increased by Mr.
+      Smallweed's being deaf as well as suspicious, and watching his face with the closest
+      attention.</p>
+     <p>“Among them odd heaps of old papers, this gentleman, when he comes into the property,
+      naturally begins to rummage, don't you see?” said Mr. Bucket.</p>
+     <p>“To which? Say that again,” cried Mr. Smallweed, in a shrill, sharp voice.</p>
+     <p>“To rummage,” repeated Mr. Bucket. “Being a prudent man, and accustomed to take care of your
+      own affairs, you begin to rummage among the papers as you have come into; don't you?”</p>
+     <p>“Of course I do,” cried Mr. Smallweed.</p>
+     <p>“Of course you do,” said Mr. Bucket, conversationally, “and much to blame you would be if
+      you didn't. And so you chance to find, you know,” Mr. Bucket went on, stooping over him with
+      an air of cheerful raillery which Mr. Smallweed by no means reciprocated, “and so you chance
+      to find, you know, a paper, with the signature of Jarndyce to it. Don't you?”</p>
+     <p>Mr. Smallweed glanced with a troubled eye at us, and grudgingly nodded assent.</p>
+     <p>“And coming to look at that paper, at your full leisure and convenience—all in good time,
+      for you're not curious to read it, and why should you be!—what do you find it to be but a
+      Will, you see. That's the drollery of it,” said Mr. Bucket, with the same lively air of
+      recalling a joke for the enjoyment of Mr. Smallweed, who still had the same crest-fallen
+      appearance of not enjoying it at all; “what do you find it to be, but a Will?”</p>
+     <p>“I don't know that it's good as a will, or as anything else,” snarled Mr. Smallweed.</p>
+     <p>Mr. Bucket eyed the old man for a moment—he had slipped and shrunk down in his chair into a
+      mere bundle—as if he were much disposed to pounce upon him; nevertheless, he continued to bend
+      over him with the same agreeable air, keeping the corner of one of his eyes upon us.</p>
+     <p>“Notwithstanding which,” said Mr. Bucket, “you get a little doubtful and uncomfortable in
+      your mind about it, having a very tender mind of your own.”</p>
+     <p>“Eh? What do you say I have got of my own?” asked Mr. Smallweed, with his hand to his
+      ear.</p>
+     <p>“A very tender mind.”</p>
+     <p>“Ho! Well, go on,” said Mr. Smallweed.</p>
+     <p>“And as you've heard a good deal mentioned regarding a celebrated Chancery will case, of the
+      same name; and as you know what a card Krook was for buying all manner of old pieces of
+      furniter, and books, and papers, and what not, and never liking to part with 'em, and always a
+      going to teach himself to read; you begin to think—and you never was more correct in your born
+      days—‘Ecod, if I don't look about me, I may get into trouble regarding this will.’”</p>
+     <pb xml:id="p597"/>
+     <p>“Now, mind how you put it, Bucket,” cried the old man anxiously, with his hand at his ear.
+      “Speak up; none of your brimstone tricks. Pick me up; I want to hear better. O Lord, I am
+      shaken to bits!”</p>
+     <p>Mr. Bucket had certainly picked him up at a dart. However, as soon as he could be heard
+      though Mr. Smallweed's coughing, and his vicious ejaculations of “O my bones! O dear! I've no
+      breath in my body! I'm worse than the chattering, clattering, brimstone pig at home!” Mr.
+      Bucket proceeded, in the same convivial manner as before.</p>
+     <p>“So, as I happen to be in the habit of coming about your premises, you take me into your
+      confidence, don't you?”</p>
+     <p>I think it would be impossible to make an admission with more ill-will, and a worse grace,
+      than Mr. Smallweed displayed when he admitted this; rendering it perfectly evident that Mr.
+      Bucket was the very last person he would have thought of taking into his confidence, if he
+      could by any possibility have kept him out of it.</p>
+     <p>“And I go into the business with you,—very pleasant we are over it; and I confirm you in
+      your well-founded fears, that you will-get-your-self-in-to-a-most precious line if you don't
+      come out with that there will,” said Mr. Bucket, emphatically; “and accordingly you arrange
+      with me that it shall be delivered up to this present Mr. Jarndyce, on no conditions. If it
+      should prove to be valuable, you trusting yourself to him for your reward; that's about where
+      it is, ain't it?”</p>
+     <p>“That's what was agreed,” Mr. Smallweed assented, with the same bad grace.</p>
+     <p>“In consequence of which,” said Mr. Bucket, dismissing his agreeable manner all at once, and
+      becoming strictly business-like, “you've got that will upon your person at the present time;
+      and the only thing that remains for you to do is, just to Out with it!”</p>
+     <p>Having given us one glance out of the watching corner of his eye, and having given his nose
+      one triumphant rub with his fore-finger, Mr. Bucket stood with his eyes fastened on his
+      confidential friend, and his hand stretched forth ready to take the paper and present it to my
+      guardian. It was not produced without much reluctance, and many declarations on the part of
+      Mr. Smallweed that he was a poor industrious man, and that he left it to Mr. Jarndyce's honor
+      not to let him lose by his honesty. Little by little, he very slowly took from a breast-pocket
+      a stained discolored paper, which was much singed upon the outside, and a little burnt at the
+      edges, as if it had long ago been thrown upon a fire, and hastily snatched off again. Mr.
+      Bucket lost no time in transferring this paper, with the dexterity of a conjuror, from Mr.
+      Smallweed to Mr. Jarndyce. As he gave it to my guardian, he whispered behind his fingers:</p>
+     <p>“Hadn't settled how to make their market of it. Quarrelled and hinted about it. I laid out
+      twenty pound upon it. First, the avaricious grandchildren split upon him, on account of their
+      objections to his living so unreasonably long, and then they split on one another. Lord! there
+      ain't one of the family that wouldn't sell the other for a pound or two, except the old
+      lady—and she's only out of it because she's too weak in her mind to drive a bargain.”</p>
+     <p>“Mr. Bucket,” said my guardian aloud, “whatever the worth of this
+      <pb xml:id="p598"/> paper may be to any one, my obligations are great to you; and if it be of
+      any worth, I hold myself bound to see Mr. Smallweed remunerated accordingly.”</p>
+     <p>“Not according to your merits you know,” said Mr. Bucket, in friendly explanation to Mr.
+      Smallweed. “Don't you be afraid of that. According to its value.”</p>
+     <p>“That is what I mean,” said my guardian. “You may observe, Mr. Bucket, that I abstain from
+      examining this paper myself. The plain truth is, I have forsworn and abjured the whole
+      business these many years, and my soul is sick of it. But Miss Summerson and I will
+      immediately place the paper in the hands of my solicitor in the cause, and its existence shall
+      be made known without delay to all other parties interested.</p>
+     <p>“Mr. Jarndyce can't say fairer than that, you understand,” observed Mr. Bucket, to his
+      fellow visitor. “And it being now made clear to you that nobody's a going to be wronged—which
+      must be a great relief to <hi>your</hi> mind—we may proceed with the ceremony of chairing you
+      home again.”</p>
+     <p>He unbolted the door, called in the bearers, wished us good morning, and with a look full of
+      meaning, and a crook of his finger at parting, went his way.</p>
+     <p>We went our way too, which was to Lincoln's Inn, as quickly as possible. Mr. Kenge was
+      disengaged; and we found him at his table in his dusty room, with the inexpressive-looking
+      books, and the piles of papers. Chairs having been placed for us by Mr. Guppy, Mr. Kenge
+      expressed the surprise and gratification he felt at the unusual sight of Mr. Jarndyce in his
+      office. He turned over his double eye-glass as he spoke, and was more Conversation Kenge than
+      ever.</p>
+     <p>“I hope,” said Mr. Kenge, “that the genial influence of Miss Summerson,” he bowed to me,
+      “may have induced Mr. Jarndyce,” he bowed to him, “to forego some little of his animosity
+      towards a Cause and towards a Court which are—shall I say, which take their place in the
+      stately vista of the pillars of our profession?”</p>
+     <p>“I am inclined to think,” returned my guardian, “that Miss Summerson has seen too much of
+      the effects of the Court and the Cause to exert any influence in their favor. Nevertheless,
+      they are a part of the occasion of my being here. Mr. Kenge, before I lay this paper on your
+      desk and have done with it, let me tell you how it has come into my hands.”</p>
+     <p>He did so shortly and distinctly. “It could not, sir,” said Mr. Kenge, “have been stated
+      more plainly and to the purpose, if it had been a case at law.” “Did you ever know English
+      law, or equity either, plain and to the purpose?” said my guardian. “O fie!” said Mr.
+      Kenge.</p>
+     <p>At first he had not seemed to attach much importance to the paper but when he saw it he
+      appeared more interested, and when he had opened and read a little of it through his
+      eye-glass, he became amazed. “Mr. Jarndyce,” he said, looking off it, “you have perused
+      this?”</p>
+     <p>“Not I!” returned my guardian.</p>
+     <p>“But, my dear sir,” said Mr. Kenge, “it is a Will of later date than any in the suit. It
+      appears to be all in the Testator's handwriting. It is duly executed and attested. And even if
+      intended to be cancelled, as
+      <pb xml:id="p599"/> might possibly be supposed to be denoted by these marks of fire, it is
+       <hi>not</hi> cancelled. Here it is, a perfect instrument!”</p>
+     <p>“Well!” said my guardian. “What is that to me?”</p>
+     <p>“Mr. Guppy!” cried Mr. Kenge, raising his voice.—“I beg your pardon, Mr. Jarndyce.”</p>
+     <p>“Sir.”</p>
+     <p>“Mr. Vholes of Symond's Inn. My compliments. Jarndyce and Jarndyce. Glad to speak with
+      him.</p>
+     <p>Mr. Guppy disappeared.</p>
+     <p>“You ask me what is this to you, Mr. Jarndyce. If you had perused this document, you would
+      have seen that it reduces your interest considerably, though still leaving it a very handsome
+      one, still leaving it a very handsome one,” said Mr. Kenge, waving his hand persuasively and
+      blandly. “You would further have seen, that the interests of Mr. Richard Carstone, and of Miss
+      Ada Clare, now Mrs. Richard Carstone, are very materially advanced by it.”</p>
+     <p>“Kenge,” said my guardian, “if all the flourishing wealth that the suit brought into this
+      vile court of Chancery could fall to my two young cousins, I should be well contented. But do
+      you ask <hi>me</hi> to believe that any good is to come of Jarndyce and Jarndyce?”</p>
+     <p>“O really, Mr. Jarndyce! Prejudice, prejudice. My dear sir, this is a very great country, a
+      very great country. Its system of equity is a very great system, a very great system. Really,
+      really!”</p>
+     <p>My guardian said no more, and Mr. Vholes arrived. He was modestly impressed by Mr. Kenge's
+      professional eminence.</p>
+     <p>“How do you do, Mr. Vholes? Will you be so good as to take a chair here by me, and look over
+      this paper?”</p>
+     <p>Mr. Vholes did as he was asked, and seemed to read it every word. He was not excited by it;
+      but he was not excited by anything. When he had well examined it, he retired with Mr. Kenge
+      into a window, and shading his mouth with his black glove, spoke to him at some length. I was
+      not surprised to observe Mr. Kenge inclined to dispute what he said before he had said much,
+      for I knew that no two people ever did agree about anything in Jarndyce and Jarndyce. But he
+      seemed to get the better of Mr. Kenge too, in a conversation that sounded as if it were almost
+      composed of the words, “Receiver-General,” “Accountant-General,” “Report,” “Estate,” and
+      “Costs.” When they had finished, they came back to Mr. Kenge's table, and spoke aloud.</p>
+     <p>“Well! But this is a very remarkable document, Mr. Vholes?” said Mr. Kenge.</p>
+     <p>Mr. Vholes said, “Very much so.”</p>
+     <p>“And a very important document, Mr. Vholes?” said Mr. Kenge. Again Mr. Vholes said, “Very
+      much so.”</p>
+     <p>“And as you say, Mr. Vholes, when the Cause is in the paper next Term, this document will be
+      an unexpected and interesting feature in it,” said Mr. Kenge, looking loftily at my
+      guardian.</p>
+     <p>Mr. Vholes was gratified, as a smaller practitioner striving to keep respectable, to be
+      confirmed in any opinion of his own by such an authority.</p>
+     <p>“And when,” asked my guardian, rising after a pause, during which
+      <pb xml:id="p600"/> Mr. Kenge had rattled his money, and Mr. Vholes had picked his pimples,
+      “when is next Term?”</p>
+     <p>“Next Term, Mr. Jarndyce, will be next month,” said Mr. Kenge. “Of course we shall at once
+      proceed to do what is necessary with this document, and to collect the necessary evidence
+      concerning it; and of course you will receive our usual notification of the Cause being in the
+      paper.”</p>
+     <p>“To which I shall pay, of course, my usual attention.”</p>
+     <p>“Still bent, my dear sir,” said Mr. Kenge, shewing us through the outer office to the door,
+      “still bent, even with your enlarged mind, on echoing a popular prejudice? We are a prosperous
+      community, Mr. Jarndyce, a very prosperous community. We are a great country, Mr. Jarndyce, we
+      are a very great country. This is a great system, Mr. Jarndyce, and would you wish a great
+      country to have a little system? Now, really, really!”</p>
+     <p>He said this at the stair-head, gently moving his right hand as if it were a silver trowel,
+      with which to spread the cement of his words on the structure of the system, and consolidate
+      it for a thousand ages.</p>
+    </div>
+    <div  type="chapter">
+     <head>CHAPTER LXIII. STEEL AND IRON.</head>
+     <p>GEORGE'S shooting-gallery is to let, and the stock is sold off, and George himself is at
+      Chesney Wold, attending on Sir Leicester in his rides, and riding very near his bridle-rein,
+      because of the uncertain hand with which he guides his horse. But not to-day is George so
+      occupied. He is journeying to-day into the iron country farther north, to look about him.</p>
+     <p>As he comes into the iron country farther north, such fresh green woods as those of Chesney
+      Wold are left behind; and coalpits and ashes, high chimnies and red bricks, blighted verdure,
+      scorching fires, and a heavy never-lightening cloud of smoke, become the features of the
+      scenery. Among such objects rides the trooper, looking about him, and always looking for
+      something he has come to find.</p>
+     <p>At last, on the black canal bridge of a busy town, with a clang of iron in it, and more
+      fires and more smoke than he has seen yet, the trooper, swart with the dust of the coal roads,
+      checks his horse, and asks a workman does he know the name of Rouncewell thereabouts?</p>
+     <p>“Why, master,” quoth the workman, “do I know my own name?”</p>
+     <p>“'Tis so well known here, is it, comrade?” asks the trooper.</p>
+     <p>“Rouncewells? Ah! you're right.”</p>
+     <p>“And where might it be now?” asks the trooper, with a glance before him.</p>
+     <p>“The bank, the factory, or the house?” the workman wants to know.</p>
+     <p>“Hum! Rouncewells is so great apparently,” mutters the trooper,
+      <pb xml:id="p601"/> stroking his chin, “that I have as good as half a mind to go back again.
+      Why, I don't know which I want. Should I find Mr. Rouncewell at the factory, do you
+      think?”</p>
+     <p>“'Tain't easy to say where you'd find him—at this time of the day you might find either him
+      or his son there, if he's in town; but his contracts take him away.”</p>
+     <p>And which is the factory? Why, he sees those chimnies—the tallest ones! Yes, he sees
+       <hi>them.</hi> Well! let him keep his eye on those chimnies, going on as straight as ever he
+      can, and presently he'll see 'em down a turning on the left, shut in by a great brick wall
+      which forms one side of the street. That's Rouncewells.</p>
+     <p>The trooper thanks his informant, and rides slowly on, looking about him. He does not turn
+      back, but puts up his horse (and is much disposed to groom him too) at a public-house where
+      some of Rouncewell's hands are dining, as the ostler tells him. Some of Rouncewell's hands
+      have just knocked off for dinner time, and seem to be invading the whole town. They are very
+      sinewy and strong, are Rouncewell's hands—a little sooty too.</p>
+     <p>He comes to a gateway in the brick wall, looks in, and sees a great perplexity of iron lying
+      about, in every stage, and in a vast variety of shapes; in bars, in wedges, in sheets; in
+      tanks, in boilers, in axles, in wheels, in cogs, in cranks, in rails; twisted and wrenched
+      into eccentric and perverse forms, as separate parts of machinery; mountains of it broken-up,
+      and rusty in its age; distant furnaces of it glowing and bubbling in its youth; bright
+      fireworks of it showering about, under the blows of the steam hammer; red-hot iron, white-hot
+      iron, cold-black iron; an iron taste, an iron smell, and a Babel of iron sounds.</p>
+     <p>“This is a place to make a man's head ache, too!” says the trooper, looking about him for a
+      counting-house. “Who comes here? This is very like me before I was set up. This ought to be my
+      nephew, if likenesses run in families. Your servant, sir.”</p>
+     <p>“Yours, sir. Are you looking for any one?”</p>
+     <p>“Excuse me. Young Mr. Rouncewell, I believe?”</p>
+     <p>“Yes.”</p>
+     <p>“I was looking for your father, sir. I wished to have a word with him.”</p>
+     <p>The young man, telling him he is fortunate in his choice of a time, for his father is there,
+      leads the way to the office where he is to be found. “Very like me before I was set
+      up—devilish like me!” thinks the trooper, as he follows. They come to a building in the yard;
+      with an office on an upper floor. At sight of the gentleman in the office, Mr. George turns
+      very red.</p>
+     <p>“What name shall I say to my father?” asks the young man.</p>
+     <p>George, full of the idea of iron, in desperation answers “Steel,” and is so presented. He is
+      left alone with the gentleman in the office, who sits at a table with account-books before
+      him, and some sheets of paper, blotted with hosts of figures and drawings of cunning shapes.
+      It is a bare office, with bare windows, looking on the iron view below. Tumbled together on
+      the table are some pieces of iron, purposely broken to be tested, at various period of their
+      service, in various capacities. There is iron-dust on everything; and the smoke is seen,
+      <pb xml:id="p602"/> through the windows, rolling heavily out of the tall chimnies, to mingle
+      with the smoke from a vaporous Babylon of other chimnies.</p>
+     <p>“I am at your service, Mr. Steel,” says the gentleman, when his visitor has taken a rusty
+      chair.</p>
+     <p>“Well, Mr. Rouncewell,” George replies, leaning forward, with his left arm on his knee, and
+      his hat in his hand; and very chary of meeting his brother's eye; “I am not without my
+      expectations, that in the present visit I may prove to be more free than welcome. I have
+      served as a Dragoon in my day; and a comrade of mine that I was once rather partial to, was,
+      if I don't deceive myself, a brother of yours. I believe you had a brother who gave his family
+      some trouble, and ran away, and never did any good but in keeping away?”</p>
+     <p>“Are you quite sure,” returns the ironmaster, in an altered voice, “that your name is
+      Steel?”</p>
+     <p>The trooper falters, and looks at him. His brother starts up, calls him by his name, and
+      grasps him by both hands.</p>
+     <p>“You are too quick for me!” cries the trooper, with the tears springing out of his eyes.
+      “How do you do, my dear old fellow. I never could have thought you would have been half so
+      glad to see me as all this. How do you do, my dear old fellow, how do you do!”</p>
+     <p>They shake hands, and embrace each other, over and over again; the trooper still coupling
+      his “How do you do, my dear old fellow!” with his protestation that he never thought his
+      brother would have been half so glad to see him as all this!</p>
+     <p>“So far from it,” he declares, at the end of a full account of what has preceded his arrival
+      there, “I had very little idea of making myself known. I thought, if you took by any means
+      forgivingly to my name, I might gradually get myself up to the point of writing a letter. But
+      I should not have been surprised, brother, if you had considered it anything but welcome news
+      to hear of me.”</p>
+     <p>“We will show you at home what kind of news we think it, George,” returns his brother. “This
+      is a great day at home, and you could not have arrived, you bronzed old soldier, on a better.
+      I make an agreement with my son Watt to-day, that on this day twelvemonth he shall marry as
+      pretty and as good a girl as you have seen in all your travels. She goes to Germany to-morrow,
+      with one of your nieces, for a little polishing up in her education. We make a feast of the
+      event, and you will be made the hero of it.”</p>
+     <p>Mr. George is so entirely overcome at first by this prospect, that he resists the proposed
+      honor with great earnestness. Being overborne, however, by his brother and his
+      nephew—concerning whom he renews his protestations that he never could have thought they would
+      have been half so glad to see him—he is taken home to an elegant house, in all the
+      arrangements of which there is to be observed a pleasant mixture of the originally simple
+      habits of the father and mother, with such as are suited to their altered station and the
+      higher fortunes of their children. Here, Mr. George is much dismayed by the graces and
+      accomplishments of his nieces that are; and by the beauty of Rosa, his niece that is to be;
+      and by the affectionate salutations of these young ladies, which he receives in a sort of
+      dream. He is sorely taken aback, too, by the dutiful behaviour of his nephew; and has a woful
+      consciousness upon him of being a scapegrace.
+      <pb xml:id="p603"/> However, there is great rejoicing, and a very hearty company, and infinite
+      enjoyment; and Mr. George comes bluff and martial through it all; and his pledge to be present
+      at the marriage and give away the bride, is received with universal favor. A whirling head has
+      Mr. George that night, when he lies down in the state-bed of his brother's house, to think of
+      all these things, and to see the images of his nieces (awfull all the evening in their
+      floating muslins), waltzing, after the German manner, over his counterpane.</p>
+     <p>The brothers are closeted next morning in the ironmaster's room; where the elder is
+      proceeding, in his clear sensible way, to show how he thinks he may best dispose of George in
+      his business, when George squeezes his hand and stops him.</p>
+     <p>“Brother, I thank you a million times for your more than brotherly welcome, and a million
+      times more to that for your more than brotherly intentions. But my plans are made. Before I
+      say a word as to them, I wish to consult you upon one family point. How,” says the trooper,
+      folding his arms, and looking with indomitable firmness at his brother, “how is my mother to
+      be got to scratch me?”</p>
+     <p>“I am not sure that I understand you, George,” replies the ironmaster.</p>
+     <p>“I say, brother, how is my mother to be got to scratch me? She must be got to do it,
+      somehow.”</p>
+     <p>“Scratch you out of her will, I think you mean?”</p>
+     <p>“Of course I do. In short,” says the trooper, folding his arms more resolutely yet, “I
+       mean—<hi>to</hi>—scratch me?”</p>
+     <p>“My dear George,” returns his brother, “is it so indispensable that you should undergo that
+      process?”</p>
+     <p>“Quite! Absolutely! I couldn't be guilty of the meanness of coming back without it. I should
+      never be safe not to be off again. I have not sneaked home to rob your children, if not
+      yourself, brother, of your rights. I, who forfeited mine long ago! If I am to remain, and hold
+      up my head, I must be scratched. Come. You are a man of celebrated penetration and
+      intelligence, and you can tell me how it's to be brought about.”</p>
+     <p>“I can tell you, George,” replies the ironmaster, deliberately, “how it is not to be brought
+      about, which I hope may answer the purpose as well. Look at our mother, think of her, recal
+      her emotion when she recovered you. Do you believe there is a consideration in the world that
+      would induce her to take such a step against her favorite son? Do you believe there is any
+      chance of her consent, to balance against the outrage it would be to her (loving dear old
+      lady!) to propose it? If you do, you are wrong. No, George! You must make up your mind to
+      remain <hi>un</hi>scratched. I think,” there is an amused smile on the ironmaster's face, as
+      he watches his brother, who is pondering, deeply disappointed, “I think you may manage almost
+      as well as if the thing were done, though.”</p>
+     <p>“How, brother?”</p>
+     <p>Being bent upon it, you can dispose by will of anything you have the misfortune to inherit,
+      in any way you like, you know.”</p>
+     <p>“That's true!” says the trooper, pondering again. Then he wistfully asks, with his hand on
+      his brother's, “Would you mind mentioning that, brother, to your wife and family?”</p>
+     <pb xml:id="p604"/>
+     <p>“Not at all.”</p>
+     <p>“Thank you. You wouldn't object to say, perhaps, that although an undoubted vagabond, I am a
+      vagabond of the harum scarum order, and not of the mean sort?”</p>
+     <p>The ironmaster, repressing his amused smile, assents.</p>
+     <p>“Thank you. Thank you. It's a weight off my mind,” says the trooper, with a heave of his
+      chest as he unfolds his arms, and puts a hand on each leg; “though I had set my heart on being
+      scratched, too!”</p>
+     <p>The brothers are very like each other, sitting face to face; but a certain massive
+      simplicity, and absence of usage in the ways of the world, is all on the trooper's side.</p>
+     <p>“Well,” he proceeds, throwing off his disappointment, “next and last, those plans of mine.
+      You have been so brotherly as to propose to me to fall in here, and take my place among the
+      products of your perseverance and sense. I thank you heartily. It's more than brotherly, as I
+      said before; and I thank you heartily for it,” shaking him a long time by the hand. “But the
+      truth is, brother, I am a—I am a kind of a Weed, and it's too late to plant me in a regular
+      garden.”</p>
+     <p>“My dear George,” returns the elder, concentrating his strong steady brow upon him, and
+      smiling confidently; “leave that to me, and let me try.”</p>
+     <p>George shakes his head. “You could do it, I have not a doubt, if anybody could; but it's not
+      to be done. Not to be done, sir! Whereas it so falls out, on the other hand, that I am able to
+      be of some trifle of use to Sir Leicester Dedlock since his illness—brought on by family
+      sorrows; and that he would rather have that help from our mother's son than from anybody
+      else.”</p>
+     <p>“Well, my dear George,” returns the other, with a very slight shade upon his open face, “if
+      you prefer to serve in Sir Leicester Dedlock's household brigade—”</p>
+     <p>“There it is, brother!” cries the trooper, checking him, with his hand upon his knee again:
+      “there it is! You don't take kindly to that idea; I don't mind it. You are not used to being
+      officered; I am. Everything about you is in perfect order and discipline; everything about me
+      requires to be kept so. We are not accustomed to carry things with the same hand, or to look
+      at 'em from the same point. I don't say much about my garrison manners, because I found myself
+      pretty well at my ease last night, and they wouldn't be noticed here, I dare say, once and
+      away. But I shall get on best at Chesney Wold—where there's more room for a Weed than there is
+      here; and the dear old lady will be made happy besides. Therefore I accept of Sir Leicester
+      Dedlock's proposals. When I come over next year to give away the bride, or whenever I come, I
+      shall have the sense to keep the household brigade in ambuscade and not to manoeuvre it on
+      your ground. I thank you heartily again, and am proud to think of the Rouncewells as they'll
+      be founded by you.”</p>
+     <p>“You know yourself, George,” says the elder brother, returning the grip of his hand, “and
+      perhaps you know me better than I know myself. Take your way. So that we don't quite lose one
+      another again, take your way.”</p>
+     <pb xml:id="p605"/>
+     <p>“No fear of that!” returns the trooper. “Now, before I turn my horse's head homeards,
+      brother, I will ask you—if you'll be so good—to look over a letter for me. I brought it with
+      me to send from these parts, as Chesney Wold might be a painful name just now to the person
+      it's written to. I am not much accustomed to correspondence myself, and I am particular
+      respecting this present letter, because I want it to be both straightforward and
+      delicate.”</p>
+     <p>Herewith he hands a letter, closely written in somewhat pale ink but in a neat round hand,
+      to the ironmaster, who reads as follows:</p>
+     <quote>
+      <p>“MISS ESTHER SUMMERSON,</p>
+      <p>“A communication having been made to me by Inspector Bucket of a letter to myself being
+       found among the papers of a certain person, I take the liberty to make known to you that it
+       was but a few lines of instruction from abroad, when, where, and how to deliver an enclosed
+       letter to a young and beautiful lady, then unmarried in England. I duly observed the
+       same.</p>
+      <p>“I further take the liberty to make known to you, that it was got from me as a proof of
+       hand-writing only, and that otherwise I would not have given it up as appearing to be the
+       most harmless in my possession, without being previously shot through the heart.</p>
+      <p>“I further take the liberty to mention, that if I could have supposed a certain unfortunate
+       gentleman to have been in existence, I never could and never would have rested until I had
+       discovered his retreat, and shared my last farthing with him, as my duty and my inclination
+       would have equally been. But he was (officially) reported drowned, and assuredly went over
+       the side of a transport-ship at night in an Irish harbor, within a few hours of her arrival
+       from the West Indies, as I have myself heard both from officers and men on board, and know to
+       have been (officially) confirmed.</p>
+      <p>“I further take the liberty to state that in my humble quality as one of the rank and file,
+       I am, and shall ever continue to be, your thoroughly devoted and admiring servant, and that I
+       esteem the qualities you possess above all others, far beyond the limits of the present
+       dispatch.</p>
+      <p>“I have the honor to be,</p>
+      <p>“GEORGE.”</p>
+     </quote>
+     <p>“A little formal,” observes the elder brother, refolding it with a puzzled face.</p>
+     <p>“But nothing that might not be sent to a pattern young lady?” asks the younger.</p>
+     <p>“Nothing at all.”</p>
+     <p>Therefore it is sealed, and deposited for posting among the iron correspondence of the day.
+      This done, Mr. George takes a hearty farewell of the family party, and prepares to saddle and
+      mount. His brother, however, unwilling to part with him so soon, proposes to ride with him in
+      a light open carriage to the place where he will bait for the night, and there remain with him
+      until morning: a servant riding, for so much of the journey, on the thorough-bred old grey
+      from Chesney Wold. The offer being gladly accepted, is followed by a pleasant ride, a pleasant
+      dinner, and a pleasant breakfast all in brotherly communion. Then they once more shake hands
+      long and heartily, and part; the ironmaster turning his face to the smoke and fires, and the
+      trooper to the green country. Early in the afternoon, the subdued sound of his heavy military
+      trot is heard on the turf in the avenue, as he rides on with imaginary clank and jingle of
+      accoutrements under the old elm trees.</p>
+    </div>
+    <div  type="chapter">
+     <pb xml:id="p606"/>
+     <head>CHAPTER LXIV. ESTHER'S NARRATIVE.</head>
+     <p>SOON after I had had that conversation with my guardian, he put a sealed paper in my hand
+      one morning, and said, “This is for next month, my dear.” I found in it two hundred
+      pounds.</p>
+     <p>I now began very quietly to make such preparations as I thought were necessary. Regulating
+      my purchases by my guardian's taste, which I knew very well of course, I arranged my wardrobe
+      to please him, and hoped I should be highly successful. I did it all so quietly, because I was
+      not quite free from my old apprehension that Ada would be rather sorry, and because my
+      guardian was so quiet himself. I had no doubt that under all the circumstances we should be
+      married in the most private and simple manner. Perhaps I should only have to say to Ada,
+      “Would you like to come and see me married to-morrow, my pet?” Perhaps our wedding might even
+      be as unpretending as her own, and I might not find it necessary to say anything about it
+      until it was over. I thought that if I were to choose, I would like this best.</p>
+     <p>The only exception I made was Mrs. Woodcourt. I told her that I was going to be married to
+      my guardian, and that we had been engaged some time. She highly approved. She could never do
+      enough for me; and was remarkably softened now, in comparison with what she had been when we
+      first knew her. There was no trouble she would not have taken to have been of use to me; but I
+      need hardly say that I only allowed her to take as little, as gratified her kindness without
+      tasking it.</p>
+     <p>Of course this was not a time to neglect my guardian; and of course it was not a time for
+      neglecting my darling. So I had plenty of occupation—which I was glad of; and as to Charley,
+      she was absolutely not to be seen for needlework. To surround herself with great heaps of
+      it—baskets full and tables full—and do a little, and spend a great deal of time in staring
+      with her round eyes at what there was to do, and persuade herself that she was going to do it,
+      were Charley's great dignities and delights.</p>
+     <p>Meanwhile, I must say, I could not agree with my guardian on the subject of the Will, and I
+      had some sanguine hopes of Jarndyce and Jarndyce. Which of us was right will soon appear, but
+      I certainly did encourage expectations. In Richard, the discovery gave occasion for a burst of
+      business and agitation that buoyed him up for a little time; but he had lost the elasticity
+      even of hope now, and seemed to me to retain only its feverish anxieties. From something my
+      guardian said one day, when we were talking about this, I understood that my marriage would
+      not take place until after the Term-time we had been told to look forward to; and I thought
+      the more, for that, how rejoiced I should be if I could be married when Richard and Ada were a
+      little more prosperous.</p>
+     <p>The Term was very near indeed, when my guardian was called out of town, and went down into
+      Yorkshire on Mr. Woodcourt's business. He
+      <pb xml:id="p607"/> had told me beforehand that his presence there would be necessary. I had
+      just come in one night from my dear girl's, and was sitting in the midst of all my new
+      clothes, looking at them all around me, and thinking, when a letter from my guardian was
+      brought to me. It asked me to join him in the country; and mentioned by what stage-coach my
+      place was taken, and at what time in the morning I should have to leave town. It added in a
+      postscript that I would not be many hours from Ada.</p>
+     <p>I expected few things less than a journey at that time, but I was ready for it in
+      half-an-hour, and set off as appointed early next morning. I travelled all day, wondering all
+      day what I could be wanted for at such a distance; now I thought it might be for this purpose,
+      and now I thought it might be for that purpose; but I was never, never, never near the
+      truth.</p>
+     <p>It was night when I came to my journey's end, and found my guardian waiting for me. This was
+      a great relief, for towards evening I had begun to fear (the more so as his letter was a very
+      short one) that he might be ill. However, there he was, as well as it was possible to be; and
+      when I saw his genial face again at its brightest and best, I said to myself he has been doing
+      some other great kindness. Not that it required much penetration to say that, because I knew
+      that his being there at all was an act of kindness.</p>
+     <p>Supper was ready at the hotel, and when we were alone at table he said:</p>
+     <p>“Full of curiosity, no doubt, little woman, to know why I have brought you here?”</p>
+     <p>“Well, guardian,” said I, “without thinking myself a Fatima, or you a Blue Beard, I am a
+      little curious about it.”</p>
+     <p>“Then to ensure your night's rest, my love,” he returned, gaily, “I won't wait until
+      to-morrow to tell you. I have very much wished to express to Woodcourt, somehow, my sense of
+      his humanity to poor unfortunate Jo, his inestimable services to my young cousins, and his
+      value to us all. When it was decided that he should settle here, it came into my head that I
+      might ask his acceptance of some unpretending and suitable little place, to lay his own head
+      in. I therefore caused such a place to be looked out for, and such a place was found on very
+      easy terms, and I have been touching it up for him and making it habitable. However, when I
+      walked over it the day before yesterday, and it was reported ready, I found that I was not
+      housekeeper enough to know whether things were all as they ought to be. So I sent off for the
+      best little housekeeper that could possibly be got, to come and give me her advice and
+      opinion. And here she is,” said my guardian, “laughing and crying both together!”</p>
+     <p>Because he was so dear, so good, so admirable. I tried to tell him what I thought of him,
+      but I could not articulate a word.</p>
+     <p>“Tut, tut!” said my guardian. “You make too much of it, little woman. Why how you sob, Dame
+      Durden how you sob!”</p>
+     <p>“It is with exquisite pleasure, guardian—with a heart full of thanks.”</p>
+     <p>“Well, well,” said he. “I am delighted that you approve. I thought you would. I meant it as
+      a pleasant surprise for the little mistress of Bleak House.”</p>
+     <pb xml:id="p608"/>
+     <p>I kissed him, and dried my eyes. “I know now!” said I. “I have seen this in your face a long
+      while.”</p>
+     <p>“No; have you really, my dear?” said he. “What a Dame Durden it is to read a face!”</p>
+     <p>He was so quaintly cheerful that I could not long be otherwise, and was almost ashamed of
+      having been otherwise at all. When I went to bed, I cried. I am bound to confess that I cried;
+      but I hope it was with pleasure, though I am not quite sure it was with pleasure. I repeated
+      every word of the letter twice over.</p>
+     <p>A most beautiful summer morning succeeded; and after breakfast we went out arm in arm, to
+      see the house of which I was to give my mighty housekeeping opinion. We entered a
+      flower-garden by a gate in a side wall, of which he had the key; and the first thing I saw,
+      was, that the beds and flowers were all laid out according to the manner of my beds and
+      flowers at home.</p>
+     <p>“You see, my dear,” observed my guardian, standing still, with a delighted face, to watch my
+      looks; “knowing there could be no better plan, I borrowed yours.”</p>
+     <p>We went on by a pretty little orchard, where the cherries were nestling among the green
+      leaves, and the shadows of the apple-trees were sporting on the grass, to the house itself,—a
+      cottage, quite a rustic cottage of doll's rooms; but such a lovely place, so tranquil and so
+      beautiful, with such a rich and smiling country spread around it; with water sparkling away
+      into the distance, here all overhung with summer-growth, there turning a humming mill; at its
+      nearest point glancing through a meadow by the cheerful town, where cricket-players were
+      assembling in bright groups, and a flag was flying from a white tent that rippled in the sweet
+      west wind. And still, as we went through the pretty rooms, out at the little rustic verandah
+      doors, and underneath the tiny wooden colonnades, garlanded with woodbine, jasmine, and
+      honeysuckle, I saw, in the papering on the walls, in the colors of the furniture, in the
+      arrangement of all the pretty objects, <hi>my</hi> little tastes and fancies, <hi>my</hi>
+      little methods and inventions which they used to laugh at while they praised them, my odd ways
+      everywhere.</p>
+     <p>I could not say enough in admiration of what was all so beautiful, but one secret doubt
+      arose in my mind, when I saw this. I thought, O would he be the happier for it! Would it not
+      have been better for his peace that I should not have been so brought before him? Because,
+      although I was not what he thought me, still he loved me very dearly, and it might remind him
+      mournfully of what he believed he had lost. I did not wish him to forget me,—perhaps he might
+      not have done so, without these aids to his memory,—but my way was easier than his, and I
+      could have reconciled myself even to that, so that he had been the happier for it.</p>
+     <p>“And now, little woman,” said my guardian, whom I had never seen so proud and joyful as in
+      showing me these things, and watching my appreciation of them, “now, last of all, for the name
+      of this house.”</p>
+     <p>“What is it called, dear guardian?”</p>
+     <p>“My child,” said he, “come and see.”</p>
+     <p>He took me to the porch, which he had hitherto avoided, and said, pausing before we went
+      out:</p>
+     <p>“My dear child, don't you guess the name?”</p>
+     <pb xml:id="p609"/>
+     <p>“No!” said I.</p>
+     <p>We went out of the porch; and he showed me written over it, BLEAK HOUSE.</p>
+     <p>He led me to a seat among the leaves close by, and sitting down beside me, and taking my
+      hand in his, spoke to me thus:</p>
+     <p>“My darling girl, in what there has been between us, I have, I hope, been really solicitous
+      for your happiness. When I wrote you the letter to which you brought the answer,” smiling as
+      he referred to it, “I had my own too much in view; but I had yours too. Whether, under
+      different circumstances, I might ever have renewed the old dream I sometimes dreamed when you
+      were very young, of making you my wife one day, I need not ask myself. I did renew it, and I
+      wrote my letter, and you brought your answer. You are following what I say, my child?”</p>
+     <p>I was cold, and I trembled violently; but not a word he uttered was lost. As I sat looking
+      fixedly at him, and the sun's rays descended, softly shining through the leaves, upon his bare
+      head, I felt as if the brightness on him must be like the brightness of the Angels.</p>
+     <p>“Hear me, my love, but do not speak. It is for me to speak now. When it was that I began to
+      doubt whether what I had done would really make you happy, is no matter. Woodcourt came home,
+      and I soon had no doubt at all.”</p>
+     <p>I clasped him round the neck, and hung my head upon his breast, and wept. “Lie lightly,
+      confidently, here, my child,” said he, pressing me gently to him. “I am your guardian and your
+      father now. Rest confidently here.”</p>
+     <p>Soothingly, like the gentle rustling of the leaves; and genially, like the ripening weather;
+      and radiantly and beneficently, like the sunshine; he went on.</p>
+     <p>“Understand me, my dear girl. I had no doubt of your being contented and happy with me,
+      being so dutiful and so devoted; but I saw with whom you would be happier. That I penetrated
+      his secret when Dame Durden was blind to it, is no wonder; for I knew the good that could
+      never change in her, better far than she did. Well! I have long been in Allan Woodcourt's
+      confidence, although he was not, until yesterday, a few hours before you came here, in mine.
+      But I would not have my Esther's bright example lost; I would not have a jot of my dear girl's
+      virtues unobserved and unhonored; I would not have her admitted on sufferance into the line of
+      Morgan ap Kerrig, no, not for the weight in gold of all the mountains in Wales!”</p>
+     <p>He stopped to kiss me on the forehead, and I sobbed and wept afresh. For I felt as if I
+      could not bear the painful delight of his praise.</p>
+     <p>“Hush, little woman! Don't cry; this is to be a day of joy. I have looked forward to it,” he
+      said, exultingly, “for months on months! A few words more, Dame Trot, and I have said my say.
+      Determined not to throw away one atom of my Esther's worth, I took Mrs. Woodcourt into a
+      separate confidence. ‘Now madam,’ said I, ‘I clearly perceive—and indeed I know, to boot—that
+      your son loves my ward. I am further very sure that my ward loves your son, but will sacrifice
+      her love to a sense of duty and affection, and will sacrifice it so completely, so entirely,
+      so religiously, that you should never suspect it, though you watched her night and day.’ Then
+      I told her all our story—ours—yours and mine.
+      <pb xml:id="p610"/> ‘Now, madam,’ said I, ‘come you, knowing this, and live with us. Come you,
+      and see my child from hour to hour; set what you see, against her pedigree, which is this, and
+      this’—for I scorned to mince it—‘and tell me what is the true legitimacy, when you shall have
+      quite made up your mind on that subject.’ Why, honor to her old Welch blood, my dear!” cried
+      my guardian, with enthusiasm, “I believe the heart it animates beats no less warmly, no less
+      admiringly, no less lovingly, towards Dame Durden, than my own!”</p>
+     <p>He tenderly raised my head, and as I clung to him, kissed me in his old fatherly way again
+      and again. What a light, now, on the protecting manner I had thought about!</p>
+     <p>“One more last word. When Allan Woodcourt spoke to you, my dear, he spoke with my knowledge
+      and consent—but I gave him no encouragement, not I, for these surprises were my great reward,
+      and I was too miserly to part with a scrap of it. He was to come, and tell me all that passed;
+      and he did. I have no more to say. My dearest, Allan Woodcourt stood beside your father when
+      he lay dead—stood beside your mother. This is Bleak House. This day I give this house its
+      little mistress; and before God, it is the brightest day in all my life!”</p>
+     <p>He rose, and raised me with him. We were no longer alone. My husband—I have called him by
+      that name full seven happy years now—stood at my side.</p>
+     <p>“Allan,” said my guardian, “take from me, a willing gift, the best wife that ever a man had.
+      What more can I say for you, than that I know you deserve her! Take with her the little home
+      she brings you. You know what she will make it, Allan; you know what she has made its
+      namesake. Let me share its felicity sometimes, and what do I sacrifice? Nothing, nothing.”</p>
+     <p>He kissed me once again; and now the tears were in his eyes, as he said more softly:</p>
+     <p>“Esther, my dearest, after so many years, there is a kind of parting in this too. I know
+      that my mistake has caused you some distress. Forgive your old guardian, in restoring him to
+      his old place in your affections; and blot it out of your memory. Allan, take my dear!”</p>
+     <p>He moved away from under the green roof of leaves, and stopping in the sunlight outside, and
+      turning cheerfully towards us, said:</p>
+     <p>“I shall be found about here somewhere. It's a West wind, little woman, due West! Let no one
+      thank me any more; for I am going to revert to my bachelor habits, and if anybody disregards
+      this warning, I'll run away, and never come back!”</p>
+     <p>What happiness was our's that day, what joy, what rest, what hope, what gratitude, what
+      bliss! We were to be married before the month was out; but when we were to come and take
+      possession of our own house, was to depend on Richard and Ada.</p>
+     <p>We all three went home together next day. As soon as we arrived in town Allan went straight
+      to see Richard, and to carry our joyful news to him and my darling. Late as it was, I meant to
+      go to her for a few minutes before lying down to sleep: but I went home with my guardian
+      first, to make his tea for him, and to occupy the old chair by his side; for I did not like to
+      think of its being empty so soon.</p>
+     <pb xml:id="p611"/>
+     <p>When we came home, we found that a young man had called three times in the course of that
+      one day, to see me; and that, having been told, on the occasion of his third call, that I was
+      not expected to return before ten o'clock at night, he had left word, “that he would call
+      about then.” He had left his card three times. MR. GUPPY.</p>
+     <p>As I naturally speculated on the object of these visits, and as I always associated
+      something ludicrous with the visitor, it fell out that in laughing about Mr. Guppy I told my
+      guardian of his old proposal, and his subsequent retractation. “After that,” said my guardian,
+      “we will certainly receive this hero.” So, instructions were given that Mr. Guppy should be
+      shown in, when he came again; and they were scarcely given when he did come again.</p>
+     <p>He was embarrassed when he found my guardian with me, but recovered himself, and said, “How
+      de do, sir?”</p>
+     <p>“How do you do, sir?” returned my guardian.</p>
+     <p>“Thank you, sir, I am tolerable,” returned Mr. Guppy. “Will you allow me to introduce my
+      mother, Mrs. Guppy of the Old Street Road, and my particular friend, Mr. Weevle. That is to
+      say, my friend has gone by the name of Weevle, but his name is really and truly Jobling.”</p>
+     <p>My guardian begged them to be seated, and they all sat down.</p>
+     <p>“Tony,” said Mr. Guppy to his friend, after an awkward silence. “Will you open the
+      case?”</p>
+     <p>“Do it yourself,” returned the friend, rather tartly.</p>
+     <p>“Well, Mr. Jarndyce, sir,” Mr. Guppy, after a moment's consideration, began; to the great
+      diversion of his mother, which she displayed by nudging Mr. Jobling with her elbow, and
+      winking at me in a most remarkable manner; “I had an idea that I should see Miss Summerson by
+      herself, and was not quite prepared for your esteemed presence. But Miss Summerson has
+      mentioned to you, perhaps, that something has passed between us on former occasions?”</p>
+     <p>“Miss Summerson,” returned my guardian smiling, “has made a communication to that effect to
+      me.”</p>
+     <p>“That,” said Mr. Guppy, “makes matters easier. Sir, I have come out of my articles at Kenge
+      and Carboy's, and I believe with satisfaction to all parties. I am now admitted (after
+      undergoing an examination that's enough to badger a man blue, touching a pack of nonsense that
+      he don't want to know) on the roll of attornies, and have taken out my certificate, if it
+      would be any satisfaction to you to see it.”</p>
+     <p>“Thank you, Mr. Guppy,” returned my guardian. “I am quite willing—I believe I use a legal
+      phrase—to admit the certificate.”</p>
+     <p>Mr. Guppy therefore desisted from taking something out of his pocket, and proceeded without
+      it.</p>
+     <p>“I have no capital myself, but my mother has a little property which takes the form of an
+      annuity;” here Mr. Guppy's mother rolled her head as if she never could sufficiently enjoy the
+      observation, and put her handkerchief to her mouth, and again winked at me; “and a few pounds
+      for expences out of pocket in conducting business, will never be wanting, free of interest.
+      Which is an advantage, you know,” said Mr. Guppy, feelingly.</p>
+     <p>“Certainly an advantage,” returned my guardian.</p>
+     <p>“I <hi>have</hi> some connexion,” pursued Mr. Guppy, “and it lays in the
+      <pb xml:id="p612"/> direction of Walcot Square, Lambeth. I have therefore taken a ouse in that
+      locality, which, in the opinion of my friends, is a hollow bargain (taxes ridiculous, and use
+      of fixtures included in the rent), and intend setting up professionally for myself there,
+      forthwith.”</p>
+     <p>Here Mr. Guppy's mother fell into an extraordinary passion of rolling her head, and smiling
+      waggishly at anybody who would look at her.</p>
+     <p>“It's a six roomer, exclusive of kitchens,” said Mr. Guppy, “and in the opinion of my
+      friends, a commodious tenement. When I mention my friends, I refer principally to my friend
+      Jobling, who I believe has known me,” Mr. Guppy looked at him with a sentimental air, “from
+      boyhood's hour?”</p>
+     <p>Mr. Jobling confirmed this, with a sliding movement of his legs.</p>
+     <p>“My friend Jobling will render me his assistance in the capacity of clerk, and will live in
+      the ouse,” said Mr. Guppy. “My mother will likewise live in the ouse, when her present quarter
+      in the Old Street Road shall have ceased and expired; and consequently there will be no want
+      of society. My friend Jobling is naturally aristocratic by taste; and besides being acquainted
+      with the movements of the upper circles, fully backs me in the intentions I am now
+      developing.”</p>
+     <p>Mr. Jobling said “certainly,” and withdrew a little from the elbow of Mr. Guppy's
+      mother.</p>
+     <p>“Now, I have no occasion to mention to you, sir, you being in the confidence of Miss
+      Summerson,” said Mr. Guppy “(mother, I wish you'd be so good as to keep still), that Miss
+      Summerson's image was formerly imprinted on my art, and that I made her a proposal of
+      marriage.”</p>
+     <p>“That I have heard,” returned my guardian.</p>
+     <p>“Circumstances,” pursued Mr. Guppy, “over which I had no control, but quite the contrary,
+      weakened the impression of that image for a time. At which time, Miss Summerson's conduct was
+      highly genteel; I may even add, magnanimous.”</p>
+     <p>My guardian patted me on the shoulder, and seemed much amused.</p>
+     <p>“Now, sir,” said Mr. Guppy, “I have got into that state of mind myself, that I wish for a
+      reciprocity of magnanimous behaviour. I wish to prove to Miss Summerson that I can rise to a
+      heighth, of which perhaps she hardly thought me capable. I find that the image which I did
+      suppose had been eradicated from my art, is <hi>not</hi> eradicated. Its influence over me is
+      still tremenjous; and yielding to it I am willing to overlook the circumstances over which
+      none of us have had any control, and to renew those proposals to Miss Summerson which I had
+      the honor to make at a former period. I beg to lay the ouse in Walcot Square, the business,
+      and myself, before Miss Summerson for her acceptance.”</p>
+     <p>“Very magnanimous, indeed, sir,” observed my guardian.</p>
+     <p>“Well, sir,” returned Mr. Guppy, with candor, “my wish is to <hi>be</hi> magnanimous. I do
+      not consider that in making this offer to Miss Summerson, I am by any means throwing myself
+      away; neither is that the opinion of my friends. Still there are circumstances which I submit
+      may be taken into account as a set-off against any little drawbacks of mine, and so a fair and
+      equitable balance arrived at.”</p>
+     <p>“I take upon myself, sir,” said my guardian, laughing as he rang the bell, “to reply to your
+      proposals on behalf of Miss Summerson. She is
+      <pb xml:id="p613"/> very sensible of your handsome intentions, and wishes you good evening,
+      and wishes you well.”</p>
+     <p>“Oh!” said Mr. Guppy, with a blank look. “Is that tantamount, sir, to acceptance, or
+      rejection, or consideration?”</p>
+     <p>“To decided rejection, if you please,” returned my guardian.</p>
+     <p>Mr. Guppy looked incredulously at his friend, and at his mother who suddenly turned very
+      angry, and at the floor, and at the ceiling.</p>
+     <p>“Indeed?” said he. “Then, Jobling, if you was the friend you represent yourself, I should
+      think you might hand my mother out of the gangway, instead of allowing her to remain where she
+      ain't wanted.”</p>
+     <p>But Mrs. Guppy positively refused to come out of the gangway. She wouldn't hear of it. “Why,
+      get along with you,” said she to my guardian, “what do you mean? Ain't my son good enough for
+      you? You ought to be ashamed of yourself. Get out with you!”</p>
+     <p>“My good lady,” returned my guardian, “it is hardly reasonable to ask me to get out of my
+      own room.”</p>
+     <p>“I don't care for that,” said Mrs. Guppy. “Get out with you. If we ain't good enough for
+      you, go and procure somebody that is good enough. Go along and find 'em.”</p>
+     <p>I was quite unprepared for the rapid manner in which Mrs. Guppy's power of jocularity merged
+      into a power of taking the profoundest offence.</p>
+     <p>“Go along and find somebody that's good enough for you,” repeated Mrs. Guppy. “Get out!”
+      Nothing seemed to astonish Mr. Guppy's mother so much, and to make her so very indignant, as
+      our not getting out. “Why don't you get out?” said Mrs. Guppy. “What are you stopping here
+      for?”</p>
+     <p>“Mother,” interposed her son, always getting before her, and pushing her back with one
+      shoulder, as she sidled at my guardian, “<hi>will</hi> you hold your tongue?”</p>
+     <p>“No, William,” she returned; “I won't! Not unless he gets out, I won't!”</p>
+     <p>However, Mr. Guppy and Mr. Jobling together closed on Mr. Guppy's mother (who began to be
+      quite abusive), and took her, very much against her will, down-stairs; her voice rising a
+      stair higher every time her figure got a stair lower, and insisting that we should immediately
+      go and find somebody who was good enough for us, and above all things that we should get
+      out.</p>
+    </div>
+    <div  type="chapter">
+     <head>CHAPTER LXV. BEGINNING THE WORLD.</head>
+     <p>THE Term had commenced, and my guardian found an intimation from Mr. Kenge that the Cause
+      would come on in two days. As I had sufficient hopes of the will to be in a flutter about it,
+      Allan and I agreed to go down to the Court that morning. Richard was extremely agitated, and
+      was so weak and low, though his illness was still of the mind, that my dear girl indeed had
+      sore occasion to be supported. But she looked
+      <pb xml:id="p614"/> forward—a very little way now—to the help that was to come to her, and
+      never drooped.</p>
+     <p>It was at Westminster that the Cause was to come on. It had come on there, I dare say, a
+      hundred times before, but I could not divest myself of an idea that it <hi>might</hi> lead to
+      some result now. We left home directly after breakfast, to be at Westminster Hall in good
+      time; and walked down there through the lively streets—so happily and strangely it
+      seemed!—together.</p>
+     <p>As we were going along, planning what we should do for Richard and Ada, I heard somebody
+      calling “Esther! My dear Esther! Esther!” And there was Caddy Jellyby, with her head out of
+      the window of a little carriage which she hired now to go about in to her pupils (she had so
+      many), as if she wanted to embrace me at a hundred yards' distance. I had written her a note
+      to tell her of all that my guardian had done, but had not had a moment to go and see her. Of
+      course we turned back; and the affectionate girl was in that state of rapture, and was so
+      overjoyed to talk about the night when she brought me the flowers, and was so determined to
+      squeeze my face (bonnet and all) between her hands, and go on in a wild manner altogether,
+      calling me all kinds of precious names, and telling Allan I had done I don't know what for
+      her, that I was just obliged to get into the little carriage and calm her down, by letting her
+      say and do exactly what she liked. Allan, standing at the window, was as pleased as Caddy; and
+      I was as pleased as either of them; and I wonder that I got away as I did, rather than that I
+      came off, laughing, and red, and anything but tidy, and looking after Caddy, who looked after
+      us out of the coach-window as long as she could see us.</p>
+     <p>This made us some quarter of an hour late, and when we came to Westminster Hall we found
+      that the day's business was begun. Worse than that, we found such an unusual crowd in the
+      Court of Chancery that it was full to the door, and we could neither see nor hear what was
+      passing within. It appeared to be something droll, for occasionally there was a laugh, and a
+      cry of “Silence!” It appeared to be something interesting, for every one was pushing and
+      striving to get nearer. It appeared to be something that made the professional gentlemen very
+      merry, for there were several young counsellors in wigs and whiskers on the outside of the
+      crowd, and when one of them told the others about it, they put their hands in their pockets,
+      and quite doubled themselves up with laughter, and went stamping about the pavement of the
+      hall.</p>
+     <p>We asked a gentleman by us, if he knew what cause was on? He told us Jarndyce and Jarndyce.
+      We asked him if he knew what was doing in it? He said, really no he did not, nobody ever did;
+      but as well as he could make out, it was over. Over for the day? we asked him. No, he said;
+      over for good.</p>
+     <p>Over for good!</p>
+     <p>When we heard this unaccountable answer, we looked at one another quite lost in amazement.
+      Could it be possible that the Will had set things right at last, and that Richard and Ada were
+      going to be rich? It seemed too good to be true. Alas it was!</p>
+     <p>Our suspense was short; for a break up soon took place in the crowd, and the people came
+      streaming out looking flushed and hot, and bringing
+      <pb xml:id="p615"/> a quantity of bad air with them. Still they were all exceedingly amused,
+      and were more like people coming out from a Farce or a Juggler than from a court of Justice.
+      We stood aside, watching for any countenance we knew; and presently great bundles of papers
+      began to be carried out—bundles in bags, bundles too large to be got into any bags, immense
+      masses of papers of all shapes and no shapes, which the bearers staggered under, and threw
+      down for the time being, anyhow, on the Hall pavement, while they went back to bring out more.
+      Even these clerks were laughing. We glanced at the papers, and seeing Jarndyce and Jarndyce
+      everywhere, asked an official-looking person who was standing in the midst of them, whether
+      the cause was over. “Yes,” he said; “it was all up with it at last!” and burst out laughing
+      too.</p>
+     <p>At this juncture, we perceived Mr. Kenge coming out of court with an affable dignity upon
+      him, listening to Mr. Vholes, who was deferential, and carried his own bag. Mr. Vholes was the
+      first to see us. “Here is Miss Summerson, sir,” he said. “And Mr. Woodcourt.”</p>
+     <p>“O indeed! Yes. Truly!” said Mr. Kenge, raising his hat to me with polished politeness. “How
+      do you do? Glad to see you. Mr. Jarndyce is not here?”</p>
+     <p>No. He never came there, I reminded him.</p>
+     <p>“Really,” returned Mr. Kenge, “it is as well that he is <hi>not</hi> here to-day, for
+      his—shall I say, in my good friend's absence, his indomitable singularity of opinion?—might
+      have been strengthened, perhaps; not reasonably, but might have been strengthened.”</p>
+     <p>“Pray what has been done to-day?” asked Allan.</p>
+     <p>“I beg your pardon?” said Mr. Kenge, with excessive urbanity.</p>
+     <p>“What has been done to-day?”</p>
+     <p>“What has been done,” repeated Mr. Kenge. “Quite so. Yes. Why, not much has been done; not
+      much. We have been checked—brought up suddenly, I would say—upon the—shall I term it
+      threshold?”</p>
+     <p>“Is this Will considered a genuine document, sir?” said Allan; “will you tell us that?”</p>
+     <p>“Most certainly, if I could,” said Mr. Kenge; “but we have not gone into that, we have not
+      gone into that.”</p>
+     <p>“We have not gone into that,” repeated Mr. Vholes, as if his low inward voice were an
+      echo.</p>
+     <p>“You are to reflect, Mr. Woodcourt,” observed Mr. Kenge, using his silver trowel,
+      persuasively and smoothingly, “that this has been a great cause, that this has been a
+      protracted cause, that this has been a complex cause. Jarndyce and Jarndyce has been termed,
+      not inaptly, a Monument of Chancery practice.”</p>
+     <p>“And Patience has sat upon it a long time,” said Allan.</p>
+     <p>“Very well indeed, sir,” returned Mr. Kenge, with a certain condescending laugh he had.
+      “Very well! You are further to reflect, Mr. Woodcourt,” becoming dignified to severity, “that
+      on the numerous difficulties, contingencies, masterly fictions, and forms of procedure in this
+      great cause, there has been expended study, ability, eloquence, knowledge, intellect, Mr.
+      Woodcourt, high intellect. For many years, the—a—I would say the flower of the Bar, and
+      the—a—I would presume to add, the matured autumnal fruits of the Woolsack—have been lavished
+      upon Jarndyce and Jarndyce. If the public have the
+      <pb xml:id="p616"/> benefit, and if the country have the adornment, of this great Grasp, it
+      must be paid for, in money or money's worth, sir.”</p>
+     <p>“Mr. Kenge,” said Allan, appearing enlightened all in a moment. “Excuse me, our time
+      presses. Do I understand that the whole estate is found to have been absorbed in costs?”</p>
+     <p>“Hem! I believe so,” returned Mr. Kenge. “Mr. Vholes, what do <hi>you</hi> say?”</p>
+     <p>“I believe so,” said Mr. Vholes.</p>
+     <p>“And that thus the suit lapses and melts away?”</p>
+     <p>“Probably,” returned Mr. Kenge. “Mr. Vholes?”</p>
+     <p>“Probably,” said Mr. Vholes.</p>
+     <p>“My dearest life,” whispered Allan, “this will break Richard's heart!”</p>
+     <p>There was such a shock of apprehension in his face, and he knew Richard so perfectly, and I
+      too had seen so much of his gradual decay, that what my dear girl had said to me in the
+      fulness of her foreboding love, sounded like a knell in my ears.</p>
+     <p>“In case you should be wanting Mr. C, sir,” said Mr. Vholes, coming after us, “you'll find
+      him in court. I left him there resting himself a little. Good day, sir; good day, Miss
+      Summerson.” As he gave me that slowly devouring look of his, while twisting up the strings of
+      his bag, before he hastened with it after Mr. Kenge, the benignant shadow of whose
+      conversational presence he seemed afraid to leave, he gave one gasp as if he had swallowed the
+      last morsel of this client, and his black buttoned-up unwholesome figure glided away to the
+      low door at the end of the hall.</p>
+     <p>“My dear love,” said Allan, “leave to me, for a little while, the charge you gave me. Go
+      home with this intelligence, and come to Ada's by-and-by!”</p>
+     <p>I would not let him take me to a coach, but entreated him to go to Richard without a
+      moment's delay, and leave me to do as he wished. Hurrying home, I found my guardian, and told
+      him gradually with what news I had returned. “Little woman,” said he, quite unmoved for
+      himself, “to have done with the suit on any terms, is a greater blessing than I had looked
+      for. But my poor young cousins!”</p>
+     <p>We talked about them all the morning, and discussed what it was possible to do. In the
+      afternoon, my guardian walked with me to Symond's Inn, and left me at the door. I went
+      up-stairs. When my darling heard my footsteps, she came out into the small passage and threw
+      her arms round my neck; but she composed herself directly, and said that Richard had asked for
+      me several times. Allan had found him sitting in a corner of the court, she told me, like a
+      stone figure. On being roused, he had broken away, and made as if he would have spoken in a
+      fierce voice to the judge. He was stopped by his mouth being full of blood, and Allan had
+      brought him home.</p>
+     <p>He was lying on the sofa with his eyes closed, when I went in. There were restoratives on
+      the table; the room was made as airy as possible, and was darkened, and was very orderly and
+      quiet. Allan stood behind him, watching him gravely. His face appeared to me to be quite
+      destitute of color, and, now that I saw him without his seeing me, I fully saw, for the first
+      time, how worn away he was. But he looked handsomer than I had seen him look for many a
+      day.</p>
+     <pb xml:id="p617"/>
+     <p>I sat down by his side in silence. Opening his eyes by-and-by, he said, in a weak voice but
+      with his old smile, “Dame Durden, kiss me, my dear!”</p>
+     <p>It was a great comfort and surprise to me, to find him in his low state cheerful and looking
+      forward. He was happier, he said, in our intended marriage, than he could find words to tell
+      me. My husband had been a guardian angel to him and Ada, and he blessed us both, and wished us
+      all the joy that life could yield us. I almost felt as if my own heart would have broken, when
+      I saw him take my husband's hand and hold it to his breast.</p>
+     <p>We spoke of the future as much as possible, and he said several times that he must be
+      present at our marriage if he could stand upon his feet. Ada would contrive to take him,
+      somehow, he said. “Yes, surely, dearest Richard!” But as my darling answered him thus
+      hopefully, so serene and beautiful, with the help that was to come to her so near,—I knew—I
+      knew!</p>
+     <p>It was not good for him to talk too much; and when he was silent, we were silent too.
+      Sitting beside him, I made a pretence of working for my dear, as he had always been used to
+      joke about my being busy. Ada leaned upon his pillow, holding his head upon her arm. He dozed
+      often; and whenever he awoke without seeing him, said, first of all, “Where is Woodcourt?”</p>
+     <p>Evening had come on, when I lifted up my eyes, and saw my guardian standing in the little
+      hall. “Who is that, Dame Durden?” Richard asked me. The door was behind him, but he had
+      observed in my face that some one was there.</p>
+     <p>I looked to Allan for advice, and as he nodded “Yes,” bent over Richard and told him. My
+      guardian saw what passed, came softly by me in a moment, and laid his hand on Richard's. “O
+      sir,” said Richard, “you are a good man, you are a good man!” and burst into tears for the
+      first time.</p>
+     <p>My guardian, the picture of a good man, sat down in my place, keeping his hand on
+      Richard's.</p>
+     <p>“My dear Rick,” said he, “the clouds have cleared away, and it is bright now. We can see
+      now. We were all bewildered, Rick, more or less. What matters! And how are you, my dear
+      boy?”</p>
+     <p>“I am very weak, sir, but I hope I shall be stronger. I have to begin the world.”</p>
+     <p>“Aye, truly; well said!” cried my guardian.</p>
+     <p>“I will not begin it in the old way now,” said Richard with a sad smile. “I have learned a
+      lesson now, sir. It was a hard one; but you shall be assured, indeed, that I have learned
+      it.”</p>
+     <p>“Well, well,” said my guardian, comforting him; “well, well, well, dear boy!”</p>
+     <p>“I was thinking, sir,” resumed Richard, “that there is nothing on earth I should so much
+      like to see as their house—Dame Durden's and Woodcourt's house. If I could be moved there when
+      I begin to recover my strength, I feel as if I should get well there, sooner than
+      anywhere.”</p>
+     <p>“Why, so have I been thinking, too, Rick,” said my guardian, “and our little woman likewise;
+      she and I have been talking of it, this very day. I dare say her husband won't object. What do
+      you think?”</p>
+     <pb xml:id="p618"/>
+     <p>Richard smiled; and lifted up his arm to touch him, as he stood behind the head of his
+      couch.</p>
+     <p>“I say nothing of Ada,” said Richard, “but I think of her, and have thought of her very
+      much. Look at her! see her here, sir, bending over this pillow when she has so much need to
+      rest upon it herself, my dear love, my poor girl!”</p>
+     <p>He clasped her in his arms, and none of us spoke. He gradually released her; and she looked
+      upon us, and looked up to Heaven, and moved her lips.</p>
+     <p>“When I get down to Bleak House,” said Richard, “I shall have much to tell you, sir, and you
+      will have much to show me. You will go, won't you?”</p>
+     <p>“Undoubtedly, dear Rick.”</p>
+     <p>“Thank you; like you, like you,” said Richard. “But it's all like you. They have been
+      telling me how you planned it, and how you remembered all Esther's familiar tastes and ways.
+      It will be like coming to the old Bleak House again.”</p>
+     <p>“And you will come there too, I hope, Rick. I am a solitary man now, you know, and it will
+      be a charity to come to me. A charity to come to me, my love!” he repeated to Ada, as he
+      gently passed his hand over her golden hair, and put a lock of it to his lips. (I think he
+      vowed within himself to cherish her if she were left alone.)</p>
+     <p>“It was all a troubled dream?” said Richard, clasping both my guardian's hands eagerly.</p>
+     <p>“Nothing more, Rick; nothing more.”</p>
+     <p>“And you, being a good man, can pass it as such, and forgive and pity the dreamer, and be
+      lenient and encouraging when he wakes?”</p>
+     <p>“Indeed I can. What am I but another dreamer, Rick?”</p>
+     <p>“I will begin the world!” said Richard, with a light in his eyes.</p>
+     <p>My husband drew a little nearer towards Ada, and I saw him solemnly lift up his hand to warn
+      my guardian.</p>
+     <p>“When shall I go from this place, to that pleasant country where the old times are, where I
+      shall have strength to tell what Ada has been to me, where I shall be able to recall my many
+      faults and blindnesses, where I shall prepare myself to be a guide to my unborn child?” said
+      Richard. “When shall I go?”</p>
+     <p>“Dear Rick, when you are strong enough,” returned my guardian.</p>
+     <p>“Ada, my darling!”</p>
+     <p>He sought to raise himself a little. Allan raised him so that she could hold him on her
+      bosom: which was what he wanted.</p>
+     <p>“I have done you many wrongs, my own. I have fallen like a poor stray shadow on your way, I
+      have married you to poverty and trouble, I have scattered your means to the winds. You will
+      forgive me all this, my Ada, before I begin the world?”</p>
+     <p>A smile irradiated his face, as she bent to kiss him. He slowly laid his face down upon her
+      bosom, drew his arms closer round her neck, and with one parting sob began the world. Not this
+      world, O not this! The world that sets this right.</p>
+     <p>When all was still, at a late hour, poor crazed Miss Flite came weeping to me, and told me
+      that she had given her birds their liberty.</p>
+    </div>
+    <div  type="chapter">
+     <pb xml:id="p619"/>
+     <head>CHAPTER LXVI. DOWN IN LINCOLNSHIRE.</head>
+     <p>THERE is a hush upon Chesney Wold in these altered days, as there is upon a portion of the
+      family history. The story goes, that Sir Leicester paid some who could have spoken out, to
+      hold their peace; but it is a lame story, feebly whispering and creeping about, and any
+      brighter spark of life it shows soon dies away. It is known for certain that the handsome Lady
+      Dedlock lies in the mausoleum in the park, where the trees arch darkly overhead, and the owl
+      is heard at night making the woods ring; but whence she was brought home, to be laid among the
+      echoes of that solitary place, or how she died, is all mystery. Some of her old friends,
+      principally to be found among the peachy-cheeked charmers with the skeleton throats, did once
+      occasionally say, as they toyed in a ghastly manner with large fans—like charmers reduced to
+      flirting with grim Death, after losing all their other beaux—did once occasionally say, when
+      the World assembled together, that they wondered the ashes of the Dedlocks, entombed in the
+      mausoleum, never rose against the profanation of her company. But the dead-and-gone Dedlocks
+      take it very calmly, and have never been known to object.</p>
+     <p>Up from among the fern in the hollow, and winding by the bridle-road among the trees, comes
+      sometimes to this lonely spot the sound of horses' hoofs. Then may be seen Sir
+      Leicester—invalided, bent, and almost blind, but of a worthy presence yet—riding with a
+      stalwart man beside him, constant to his bridle-rein. When they come to a certain spot before
+      the mausoleum door, Sir Leicester's accustomed horse stops of his own accord, and Sir
+      Leicester, pulling off his hat, is still for a few moments before they ride away.</p>
+     <p>War rages yet with the audacious Boythorn, though at uncertain intervals, and now hotly, and
+      now coolly; flickering like an unsteady fire. The truth is said to be, that when Sir Leicester
+      came down to Lincolnshire for good, Mr. Boythorn showed a manifest desire to abandon his right
+      of way, and do whatever Sir Leicester would: which Sir Leicester, conceiving to be a
+      concession to his illness or misfortune, took in such high dudgeon, and was so magnificently
+      aggrieved by, that Mr. Boythorn found himself under the necessity of committing a flagrant
+      trespass to restore his neighbour to himself. Similarly Mr. Boythorn continues to post
+      tremendous placards on the disputed thoroughfare, and (with his bird upon his head) to hold
+      forth vehemently against Sir Leicester in the sanctuary of his own home; similarly, also, he
+      defies him as of old in the little church, by testifying a bland unconsciousness of his
+      existence. But it is whispered that when he is most ferocious towards his old foe, he is
+      really most considerate; and that Sir Leicester, in the dignity of being implacable, little
+      supposes how much he is humoured. As little does he think how near together he and his
+      antagonist have suffered, in the fortunes of two sisters; and his antagonist, who knows it
+      now, is
+      <pb xml:id="p620"/> not the man to tell him. So the quarrel goes on, to the satisfaction of
+      both.</p>
+     <p>In one of the lodges of the Park; that lodge within sight of the house where, once upon a
+      time, when the waters were out down in Lincolnshire, my Lady used to see the Keeper's child;
+      the stalwart man, the trooper formerly, is housed. Some relies of his old calling hang upon
+      the walls, and these it is the chosen recreation of a little lame man about the stable-yard to
+      keep gleaming bright. A busy little man he always is, in the polishing at harness-house doors,
+      of stirrup-irons, bits, curb-chains, harness-bosses, anything in the way of a stable-yard that
+      will take a polish: leading a life of friction. A shaggy little damaged man, withal, not
+      unlike an old dog of some mongrel breed, who has been considerably knocked about. He answers
+      to the name of Phil.</p>
+     <p>A goodly sight it is to see the grand old housekeeper (harder of hearing now) going to
+      church on the arm of her son, and to observe—which few do, for the house is scant of company
+      in these times—the relations of both towards Sir Leicester, and his towards them. They have
+      visitors in the high summer weather, when a grey cloak and umbrella, unknown to Chesney Wold
+      at other periods, are seen among the leaves; when two young ladies are occasionally found
+      gambolling, in sequestered sawpits and such nooks of the park; and when the smoke of two pipes
+      wreathes away into the fragrant evening air, from the trooper's door. Then is a fife heard
+      trolling within the lodge, on the inspiring topic of the British Grenadiers; and, as the
+      evening closes in, a gruff inflexible voice is heard to say, while two men pace together up
+      and down, “But I never own to it before the old girl. Discipline must be maintained.”</p>
+     <p>The greater part of the house is shut up, and it is a show-house no longer; yet Sir
+      Leicester holds his shrunken state in the long drawing-room for all that, and reposes in his
+      old place before my Lady's picture. Closed in by night with broad screens, and illumined only
+      in that part, the light of the drawing-room seems gradually contracting and dwindling until it
+      shall be no more. A little more, in truth, and it will be all extinguished for Sir Leicester;
+      and the damp door in the mausoleum which shuts so tight, and looks so obdurate, will have
+      opened and relieved him.</p>
+     <p>Volumnia, growing with the flight of time pinker as to the red in her face and yellower as
+      to the white, reads to Sir Leicester in the long evenings, and is driven to various artifices
+      to conceal her yawns: of which the chief and most efficacious is the insertion of the pearl
+      necklace between her rosy lips. Long-winded treatises on the Buffy and Boodle question,
+      showing how Buffy is immaculate and Boodle villainous, and how the country is lost by being
+      all Boodle and no Buffy, or saved by being all Buffy and no Boodle (it must be one of the two,
+      and cannot be anything else), are the staple of her reading. Sir Leicester is not particular
+      what it is, and does not appear to follow it very closely; further than that he always comes
+      broad awake the moment Volumnia ventures to leave off, and, sonorously repeating her last
+      word, begs with some displeasure to know if she finds herself fatigued? However, Volumnia, in
+      the course of her bird-like hopping about and pecking at papers, has lighted on a memorandum
+      concerning herself, in the event of “anything happening” to her kinsman, which is handsome
+      compensation
+      <pb xml:id="p621"/> for an extensive course of reading, and holds even the dragon Boredom at
+      bay.</p>
+     <p>The cousins generally are rather shy of Chesney Wold in its dulness, but take to it a little
+      in the shooting season, when guns are heard in the plantations, and a few scattered beaters
+      and keepers wait at the old places of appointment, for low spirited twos and threes of
+      cousins. The debilitated cousin, more debilitated by the dreariness of the place, gets into a
+      fearful state of depression, groaning under penitential sofa-pillows in his gunless hours, and
+      protesting that such fernal old jail's—nough t'sew fler up—frever.</p>
+     <p>The only great occasions for Volumnia, in this changed aspect of the place in Lincolnshire,
+      are those occasions, rare and widely-separated, when something is to be done for the county,
+      or the country, in the way of gracing a public ball. Then, indeed, does the tuckered sylph
+      come out in fairy form, and proceed with joy under cousinly escort to the exhausted old
+      assembly-room, fourteen heavy miles off; which, during three hundred and sixty-four days and
+      nights of every ordinary year, is a kind of Antipodean lumber-room, full of old chairs and
+      tables, upside down. Then, indeed, does she captivate all hearts by her condescension, by her
+      girlish vivacity, and by her skipping about as in the days when the hideous old general with
+      the mouth too full of teeth, had not cut one of them at two guineas each. Then does she twirl
+      and twine, a pastoral nymph of good family, through the mazes of the dance. Then do the swains
+      appear with tea, with lemonade, with sandwiches, with homage. Then is she kind and cruel,
+      stately and unassuming, various, beautifully wilful. Then is there a singular kind of parallel
+      between her and the little glass chandeliers of another age, embellishing that assembly-room;
+      which, with their meagre stems, their spare little drops, their disappointing knobs where no
+      drops are, their bare little stalks from which knobs and drops have both departed, and their
+      little feeble prismatic twinkling, all seem Volumnias.</p>
+     <p>For the rest, Lincolnshire life to Volumnia is a vast blank of overgrown house looking out
+      upon trees, sighing, wringing their hands, bowing their heads, and casting their tears upon
+      the window-panes in monotonous depression. A labyrinth of grandeur, less the property of an
+      old family of human beings and their ghostly likenesses, than of an old family of echoings and
+      thunderings which start out of their hundred graves at every sound, and go resounding through
+      the building. A waste of unused passages and staircases, in which to drop a comb upon a
+      bed-room floor at night is to send a stealthy footfall on an errand through the house. A place
+      where few people care to go about alone; where a maid screams if an ash drops from the fire,
+      takes to crying at all times and seasons, becomes the victim of a low disorder of the spirits,
+      and gives warning and departs.</p>
+     <p>Thus Chesney Wold. With so much of itself abandoned to darkness and vacancy; with so little
+      change under the summer shining or the wintry lowering; so sombre and motionless always—no
+      flag flying now by day, no rows of lights sparkling by night; with no family to come and go,
+      no visitors to be the souls of pale cold shapes of rooms, no stir of life about it;—passion
+      and pride, even to the stranger's eye, have died away from the place in Lincolnshire, and
+      yielded it to dull repose.</p>
+    </div>
+    <div  type="chapter">
+     <pb xml:id="p622"/>
+     <head>CHAPTER LXVII. THE CLOSE OF ESTHER'S NARRATIVE.</head>
+     <p>FULL seven happy years I have been the mistress of Bleak House. The few words that I have to
+      add to what I have written, are soon penned; then I, and the unknown friend to whom I write,
+      will part for ever. Not without much dear remembrance on my side. Not without some, I hope, on
+      his or hers.</p>
+     <p>They gave my darling into my arms, and through many weeks I never left her. The little child
+      who was to have done so much, was born before the turf was planted on its father's grave. It
+      was a boy; and I, my husband, and my guardian, gave him his father's name.</p>
+     <p>The help that my dear counted on, did come to her; though it came, in the Eternal wisdom,
+      for another purpose. Though to bless and restore his mother, not his father, was the errand of
+      this baby, its power was mighty to do it. When I saw the strength of the weak little hand, and
+      how its touch could heal my darling's heart, and raise up hope within her, I felt a new sense
+      of the goodness and the tenderness of God.</p>
+     <p>They throve; and by degrees I saw my dear girl pass into my country garden, and walk there
+      with her infant in her arms. I was married then. I was the happiest of the happy.</p>
+     <p>It was at this time that my guardian joined us, and asked Ada when she would come home?</p>
+     <p>“Both houses are your home, my dear,” said he, “but the older Bleak House claims priority.
+      When you and my boy are strong enough to do it, come and take possession of your home.”</p>
+     <p>Ada called him “her dearest cousin, John.” But he said, No, it must be guardian now. He was
+      her guardian henceforth, and the boy's; and he had an old association with the name. So she
+      called him guardian, and has called him guardian ever since. The children know him by no other
+      name.—I say the children; I have two little daughters.</p>
+     <p>It is difficult to believe that Charley (round-eyed still, and not at all grammatical) is
+      married to a miller in our neighbourhood; yet so it is; and even now, looking up from my desk
+      as I write, early in the morning at my summer window, I see the very mill beginning to go
+      round. I hope the miller will not spoil Charley; but he is very fond of her, and Charley is
+      rather vain of such a match—for he is well to do, and was in great request. So far as my small
+      maid is concerned, I might suppose Time to have stood for seven years as still as the mill did
+      half an hour ago; since little Emma, Charley's sister, is exactly what Charley used to be. As
+      to Tom, Charley's brother, I am really afraid to say what he did at school in cyphering, but I
+      think it was Decimals. He is apprenticed to the miller, whatever it was; and is a good bashful
+      fellow, always falling in love with somebody, and being ashamed of it.</p>
+     <p>Caddy Jellyby passed her very last holidays with us, and was a dearer creature than ever;
+      perpetually dancing in and out of the house with the
+      <pb xml:id="p623"/> children, as if she had never given a dancing-lesson in her life. Caddy
+      keeps her own little carriage now, instead of hiring one, and lives full two miles further
+      westward than Newman Street. She works very hard, her husband (an excellent one) being lame,
+      and able to do very little. Still, she is more than contented, and does all she has to do with
+      all her heart. Mr. Jellyby spends his evenings at her new house with his head against the
+      wall, as he used to do in her old one. I have heard that Mrs. Jellyby was understood to suffer
+      great mortification, from her daughter's ignoble marriage and pursuits; but I hope she got
+      over it in time. She has been disappointed in Borrioboola Gha, which turned out a failure in
+      consequence of the King of Borrioboola wanting to sell everybody—who survived the climate—for
+      Rum; but she has taken up with the rights of women to sit in Parliament, and Caddy tells me it
+      is a mission involving more correspondence than the old one. I had almost forgotten Caddy's
+      poor little girl. She is not such a mite now; but she is deaf and dumb. I believe there never
+      was a better mother than Caddy, who learns, in her scanty intervals of leisure, innumerable
+      deaf and dumb arts, to soften the affliction of her child.</p>
+     <p>As if I were never to have done with Caddy, I am reminded here of Peepy and old Mr.
+      Turveydrop. Peepy is in the Custom-house, and doing extremely well. Old Mr. Turveydrop, very
+      apoplectic, still exhibits his Deportment about town; still enjoys himself in the old manner;
+      is still believed in, in the old way. He is constant in his patronage of Peepy, and is
+      understood to have bequeathed him a favorite French clock in his dressing-room—which is not
+      his property.</p>
+     <p>With the first money we saved at home, we added to our pretty house by throwing out a little
+      Growlery expressly for my guardian; which we inaugurated with great splendour the next time he
+      came down to see us. I try to write all this lightly, because my heart is full in drawing to
+      an end; but when I write of him, my tears will have their way.</p>
+     <p>I never look at him, but I hear our poor dear Richard calling him a good man. To Ada and her
+      pretty boy, he is the fondest father; to me, he is what he has ever been, and what name can I
+      give to that! He is my husband's best and dearest friend, he is our children's darling, he is
+      the object of our deepest love and veneration. Yet while I feel towards him as if he were a
+      superior being, I am so familiar with him, and so easy with him, that I almost wonder at
+      myself. I have never lost my old names, nor has he lost his; nor do I ever, when he is with
+      us, sit in any other place than in my old chair at his side. Dame Trot, Dame Durden, Little
+      Woman!—all just the same as ever; and I answer, Yes, dear guardian!—just the same.</p>
+     <p>I have never known the wind to be in the East for a single moment, since the day when he
+      took me to the porch to read the name. I remarked to him, once, that the wind seemed never in
+      the East now: and he said, No, truly; it had finally departed from that quarter on that very
+      day.</p>
+     <p>I think my darling girl is more beautiful than ever. The sorrow that has been in her
+      face—for it is not there now—seems to have purified even its innocent expression, and to have
+      given it a diviner quality. Sometimes, when I raise my eyes and see her, in the black dress
+      that she still wears, teaching my Richard, I feel—it is difficult to express—
+      <pb xml:id="p624"/> as if it were so good to know that she remembers her dear Esther in her
+      prayers.</p>
+     <p>I call him my Richard! But he says that he has two mamas, and I am one.</p>
+     <p>We are not rich in the bank, but we have always prospered, and we have quite enough. I never
+      walk out with my husband, but I hear the people bless him. I never go into a house of any
+      degree, but I hear his praises, or see them in grateful eyes. I never lie down at night, but I
+      know that in the course of that day he has alleviated pain, and soothed some fellow-creature
+      in the time of need. I know that from the beds of those who were past recovery, thanks have
+      often, often gone up, in the last hour, for his patient ministration. Is not this to be
+      rich?</p>
+     <p>The people even praise Me as the doctor's wife. The people even like Me as I go about, and
+      make so much of me that I am quite abashed. I owe it all to him, my love, my pride! They like
+      me for his sake, as I do everything I do in life for his sake.</p>
+     <p>A night or two ago, after bustling about preparing for my darling and my guardian and little
+      Richard, who are coming to-morrow, I was sitting out in the porch of all places, that dearly
+      memorable porch, when Allan came home. So he said, “My precious little woman, what are you
+      doing here?” And I said, “The moon is shining so brightly, Allan, and the night is so
+      delicious, that I have been sitting here, thinking.”</p>
+     <p>“What have you been thinking about, my dear?” said Allan then.</p>
+     <p>“How curious you are!” said I. “I am almost ashamed to tell you, but I will. I have been
+      thinking about my old looks—such as they were.”</p>
+     <p>“And what have you been thinking about <hi>them,</hi> my busy bee?” said Allan.</p>
+     <p>“I have been thinking, that I thought it was impossible that you <hi>could</hi> have loved
+      me any better, even if I had retained them.”</p>
+     <p>“—Such as they were?” said Allan, laughing.</p>
+     <p>“Such as they were, of course.”</p>
+     <p>“My dear Dame Durden,” said Allan, drawing my arm through his, “do you ever look in the
+      glass?”</p>
+     <p>“You know I do; you see me do it.”</p>
+     <p>“And don't you know that you are prettier than you ever were?”</p>
+     <p>I did not know that; I am not certain that I know it now. But I know that my dearest little
+      pets are very pretty, and that my darling is very beautiful, and that my husband is very
+      handsome, and that my guardian has the brightest and most benevolent face that ever was seen;
+      and that they can very well do without much beauty in me—even supposing—.</p>
+     <trailer>THE END.</trailer>
+     <trailer>LONDON: BRADBURY AND EVANS, PRINTERS, WHITEFRIARS.</trailer>
+    </div>
+   </div>
   </body>
  </text>
 </TEI>
