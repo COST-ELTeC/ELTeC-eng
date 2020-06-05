@@ -12,7 +12,7 @@
      <resp>Transcribed, encoded and edited by </resp>
      <name>Perry Willett</name>
     </respStmt>
-    <respStmt >
+    <respStmt>
      <resp>E-text Editor</resp>
      <name>Brian Norberg</name>
     </respStmt>
@@ -38,10 +38,12 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
       Mona</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7047">VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7047"
+      >VWWP</ref></bibl>
     <bibl type="firstEdition" n="B9120"><title>The Daughters of Danaus</title><author>Caird,
       Mona</author><publisher>Bliss, Sands, and Foster</publisher><pubPlace>London </pubPlace><date
-      when="1894">1894</date></bibl>
+      when="1894">1894</date>
+     <ref target="https://hdl.handle.net/2027/uc1.aa0016186033"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -3678,6 +3680,7 @@
       <p>Tithonius, TENNYSON.</p>
 
 
+
       <p><hi>A COUNTRYMAN</hi> with stooping gait touched his cap and bid good-day to a young woman
        who walked rapidly along the crisp high road, smiling a response as she passed.</p>
       <p>The road led gradually upward through a country blazing with red and orange for rolling
@@ -4237,7 +4240,8 @@
        painfully. The two jarred on one another, in great things and in small. The halcyon period
        was short-lived. The dream, such as it was, came to an end. Hubert turned to his sister, in
        his bewilderment and disappointment. They had both counted so securely on the effect of
-       experience and the pressure of events to teach Hadria the desirable lesson, and they were dismayed
+       experience and the pressure of events to teach Hadria the desirable lesson, and they were
+       dismayed
        <pb n="167" xml:id="VAB7047-163"/> to find that, unlike other women, she had failed to learn
        it. Henriette was in despair. It was she who had brought about the ill-starred union. How
        could she ever forgive herself? How repair the error she had made? Only by devoting herself
@@ -4392,7 +4396,8 @@
        into the grandeur of a plain, Hadria thought that it would have comforted her, as if a song
        had moved across it with the long-stretching winds. As it was, to look from her window only
        meant to find repeated the trivialities of life, more picturesque indeed, but still
-       trivialities. It was the estimable and domestic qualities of Nature that presented themselves:
+       trivialities. It was the estimable and domestic qualities of Nature that presented
+       themselves:
        <pb n="173" xml:id="VAB7047-169"/> Nature in her most maternal and uninspired mood—Mother
        earth submissive to the dictatorship of man, permitting herself to be torn, and wounded, and
        furrowed, and harrowed at his pleasure, yielding her substance and her life to sustain the
@@ -5674,7 +5679,8 @@
       <p>Hadria was incorrigibly flippant about the banishment of important local subjects. She said
        that the kitchen-boiler was out of order, and yet she had to take part in these
        highly-cultivated conversations and smile, as she complained, with that kitchen-boiler
-       gnawing at her vitals. She claimed to be set on a level with the Spartan boy, if not above him.
+       gnawing at her vitals. She claimed to be set on a level with the Spartan boy, if not above
+       him.
        <pb n="224" xml:id="VAB7047-220"/> Valeria might scoff, as those proverbially did who never
        felt a wound. Hadria found a certain lack of tender feeling among the happy few who had no
        such tragic burdens to sustain.</p>
@@ -5846,7 +5852,8 @@
        enclose the little moment, but its contents had the condensed character of that which stands
        within limits, and reminded her, with a little sting, as of spur to horse, of her sharp,
        terrible aptitude for delight and her hunger for it. Why not, why not? What pinched,
-       ungenerous philosophy was it that insisted on voluntary starvation? One saw its offspring in the
+       ungenerous philosophy was it that insisted on voluntary starvation? One saw its offspring in
+       the
        <pb n="231" xml:id="VAB7047-227"/> troops of thin white souls that hurry, like ghosts, down
        the avenues of Life.</p>
       <p>Again Professor Theobald's stealthy glance was directed towards Mrs. Temperley.</p>
@@ -6136,7 +6143,8 @@
        tick to save their skins. Martha had no notion of relinquishing her hold, so they need not
        tug in that feeble way; if they pulled too hard, she would yell!</p>
       <p>She evidently meant business, said her captive. So long as they left her the watch, they
-       might do as they pleased; she was perfectly indifferent to the accidental human accompaniments
+       might do as they pleased; she was perfectly indifferent to the accidental human
+       accompaniments
        <pb n="242" xml:id="VAB7047-238"/> of the new treasure, but on that one point she was firm.
        She proceeded to stuff the watch into her mouth as far as it would go. The Professor was
        dismayed.</p>
@@ -6570,7 +6578,8 @@
       <p>“Oh, really competent persons will tell us all about the possibilities of woman: her
        feelings, desires, capabilities, and limitations, now and for all time to come. And the
        wildly funny thing is that women are ready, with open mouths, to reverently swallow this male
-       verdict on their inherent nature, as if it were gospel divinely inspired. I may appear a little
+       verdict on their inherent nature, as if it were gospel divinely inspired. I may appear a
+       little
        <pb n="258" xml:id="VAB7047-254"/> inconsistent,” Hadria added with a laugh, “but I do think
        women are fools!”</p>
       <p>They had strolled on along the path till they came to the schoolmistress's grave, which was
@@ -7683,7 +7692,8 @@
        disdainful expression. Martha ate bread and butter and fruit. She was to have some milk that
        had been brought for her, when they were <foreign xml:lang="fre">en route</foreign>
        again.</p>
-      <p>“<foreign xml:lang="fre">Tout le monde en voiture</foreign>!” Within five minutes, the train
+      <p>“<foreign xml:lang="fre">Tout le monde en voiture</foreign>!” Within five minutes, the
+       train
        <pb n="300" xml:id="VAB7047-296"/> was puffing across the wastes of blowing sand that ran
        along the coast, beyond the town. The child, who had become accustomed to the noise and
        movement, behaved better than had been expected. She seemed to take pleasure in looking out
@@ -7790,6 +7800,7 @@
        <l rend="ti-2">Even we,</l>
        <l rend="ti-2">Even so.”</l>
       </quote>
+
 
       <p><hi>JUST</hi> at first, it was a sheer impossibility to do anything but bask and bathe in
        the sunny present, to spend the days in wandering incredulously through vernal Paris, over
@@ -8243,7 +8254,8 @@
       <p>Through his influence, one of the shorter articles was accepted, and Hadria felt
        encouraged. Her day was now very full. The new art was laborious, severely simple in
        character, though she studiously made her articles. Her acquaintances had multiplied very
-       rapidly of late, and although this brought into her experience much that was pleasant and interesting,
+       rapidly of late, and although this brought into her experience much that was pleasant and
+       interesting,
        <pb n="322" xml:id="VAB7047-318"/> the demands of an enlarging circle swallowed an
        astonishing number of hours. An element of trouble had begun to come into the life that had
        been so full of serenity, as well as of regular and strenuous work. Hadria was already
@@ -8410,7 +8422,8 @@
        inclining to <foreign xml:lang="fre">embonpoint</foreign>; bound to succeed, if only from
        sheer solidity of person. Hadria was drawn into the game, and the two spent a good half hour
        on the rug together, playing with that and other toys which Martha toddled off to the
-       cupboard to collect. The child was in great delight. Hadria was playing with her; she liked that
+       cupboard to collect. The child was in great delight. Hadria was playing with her; she liked
+       that
        <pb n="329" xml:id="VAB7047-325"/> better than having Jean Paul Auguste to play with. He took
        her toys away and always wanted to play a different game.</p>
       <p>The clock struck two. Hadria felt that she ought to go and see Madame Vauchelet; it was
@@ -9412,7 +9425,8 @@
        debt tardily paid, and the habit grew insensibly upon her of increasing her demands, as she
        found everyone so ready to submit to them. The possession of power had its usual effect. She
        knew no mercy in its use. Her daughters were made to feel that if they had been less
-       headstrong and selfish in the past, she would have been a vigorous and active woman to this day.
+       headstrong and selfish in the past, she would have been a vigorous and active woman to this
+       day.
        <pb n="368" xml:id="VAB7047-364"/> Obviously, the very least they could do, was to try by all
        means in their power, to lighten the burden they had laid upon her. Yet Mrs. Fullerton was,
        by nature, unselfish. She would have gladly sacrificed herself for her children's good, as
@@ -9680,7 +9694,8 @@
        told upon her,” said everyone. The illness of the two boys had come at an unfortunate moment.
        She looked worn and white, and dreadfully thin. She seemed cheerful, and at times her mood
        was even merry, but she could not recover strength. At the end of the day, she would be
-       completely exhausted. This had not been surprising at first, after the long strain of nursing,
+       completely exhausted. This had not been surprising at first, after the long strain of
+       nursing,
        <pb n="379" xml:id="VAB7047-375"/> but Mrs. Fullerton thought it was time that she began to
        mend. She feared that Hadria spent too many hours over her composing; she sat up at night,
        perhaps. What good did all this composing do? Nobody ever heard of it. Such a sad pity that
@@ -10474,7 +10489,8 @@
       <p>Hadria and the Professor met, one morning, in the gardens of the Priory. Hadria had been
        strolling down the yew avenue, her thoughts full of him, as usual. She reached the seat at
        the end where once Professor Fortescue had found her—centuries ago, it seemed to her now. How
-       different was <emph>this</emph> meeting! Professor Theobald came by the path through the thick
+       different was <emph>this</emph> meeting! Professor Theobald came by the path through the
+       thick
        <pb n="409" xml:id="VAB7047-405"/> shrubberies, behind the seat. There was a small space of
        grass at the back. Here he stood, bending over the seat, and though he was usually prudent,
        he did not even assure himself that no one was in sight, before drawing Hadria's head gently
@@ -10630,7 +10646,8 @@
       <p>“The hoped-for instant has come sooner than I thought,” he cried genially.</p>
       <p>Hadria was shocked to see him looking very ill. He said that his doctor had bullied him, at
        last, into deciding to go south. His arrangements for departure had been rather hastily made,
-       and he had telegraphed this morning, to Craddock Place, to announce his coming. His luggage was
+       and he had telegraphed this morning, to Craddock Place, to announce his coming. His luggage
+       was
        <pb n="415" xml:id="VAB7047-411"/> following in a hand-cart, and he was taking the short cut
        through the Priory gardens. He had come to say good-bye to them all. Miss Du Prel, he added,
        had already made up her mind to go abroad, and he hoped to come across her somewhere in
@@ -10971,7 +10988,8 @@
        that now filled Hadria with unspeakable dismay. She was terrified lest the other two should
        go, and he should remain. And yet she ought to speak frankly to him. His conversation was
        full of little under-meanings, intended for her only to understand; his look, his manner to
-       her made her actually hate him. Yet she felt the utter inconsequence and injustice of her attitude.
+       her made her actually hate him. Yet she felt the utter inconsequence and injustice of her
+       attitude.
        <pb n="428" xml:id="VAB7047-424"/>
        <emph>He</emph> had not changed. There was nothing new in him. The change was in herself.
        Professor Fortescue had awakened her. But, of course, he was one in ten thousand. It was not
@@ -11587,7 +11605,8 @@
        the worst of loss.”</p>
       <p>“Oh, you always go too far!” cried Valeria.</p>
       <p>“I don't admit that in a horror of cruelty, it is possible to go too far,” the Professor
-       replied. “Cruelty is the one unpardonable sin.” He passed his hand across his brow, with a weary
+       replied. “Cruelty is the one unpardonable sin.” He passed his hand across his brow, with a
+       weary
        <pb n="453" xml:id="VAB7047-449"/> gesture, as if the pressure of misery and tumult and
        anguish in the world, were more than he could bear.</p>
       <p>“You won't give up your music, Hadria,” Valeria said, at the end of a long cogitation.</p>
@@ -11841,7 +11860,8 @@
        that she was growing more like other people, less opinionated, wiser, and better in every
        way.</p>
       <p>“Hadria was always very sweet, of course,” said Henriette, “but she had the faults of her
-       qualities, as we all have. You have had your trials, dear Hubert, but I rejoice to believe that
+       qualities, as we all have. You have had your trials, dear Hubert, but I rejoice to believe
+       that
        <pb n="463" xml:id="VAB7047-459"/> Hadria will give you little further cause for pain or
        regret.” Hubert made no reply. He placed the tips of his fingers together and looked into the
        fire.</p>
