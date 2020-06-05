@@ -16,7 +16,7 @@
      <resp>Edited by </resp>
      <name>Perry Willett</name>
     </respStmt>
-    <respStmt >
+    <respStmt>
      <resp>E-text Editor</resp>
      <name>Brian Norberg</name>
     </respStmt>
@@ -43,14 +43,15 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Story of a Modern Woman : VWWP edition
       </title><author>Dixon, Ella Hepworth Wynman, Margaret</author><publisher>Digital Library
-      Program, Indiana University</publisher><pubPlace>Bloomington,
-      IN</pubPlace><ref target="vwwp:VAB7169">VWWP</ref></bibl>
+      Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><ref
+      target="vwwp:VAB7169">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B7490"><title>The Story of a Modern Woman</title>
      <author>Dixon, Ella Hepworth</author><publisher>Methuen</publisher><pubPlace>London
-      </pubPlace><date when="1894">1894</date></bibl><bibl type="printSource"><title>The story of a modern woman</title>
-      <publisher>New York: The Cassell Publishing Company</publisher>
-      <date>[1894]</date>
-      <ref target="ia:storyamodernwom00dixogoog"/></bibl>
+      </pubPlace><date when="1894">1894</date></bibl>
+    <bibl type="printSource"><title>The story of a modern woman</title>
+     <publisher>New York: The Cassell Publishing Company</publisher>
+     <date>[1894]</date>
+     <ref target="ia:storyamodernwom00dixogoog"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -92,6 +93,15 @@
   </revisionDesc>
  </teiHeader>
  <text type="T3FML">
+  <front>
+   <div type="titlepage">
+    <p>The story of a modern woman</p>
+    <p>by Ella Hepworth Dixon</p>
+    <p> New York</p>
+    <p>The Cassell Publishing Company</p>
+    <p>31 East 17th Street (Union Square)</p>
+   </div>
+  </front>
   <body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <div type="chapter">
     <head>CHAPTER I</head>
@@ -249,7 +259,8 @@
      dots which were now seen descending the paths to the cemetery-gate. And slowly, they too
      stepped down the gravel path.</p>
     <p>They came home to a house that was empty and orderly again; a house in which <emph>his</emph>
-     door stood open, the pale light of a spring afternoon filling the desolate room. The blinds were
+     door stood open, the pale light of a spring afternoon filling the desolate room. The blinds
+     were
      <pb n="11" xml:id="VAB7169-010"/> pulled up, and downstairs, in the kitchen, the servants had
      begun to talk and laugh.</p>
     <p>Towards dusk, Jimmie got engrossed in a new book of adventures, but the girl, restless still,
@@ -732,7 +743,8 @@
     <p>‘Oh, don't.’</p>
     <p>‘Never mind, my dear girl. You must work at something. Try the British Art School. Has
      Vincent Hemming been?’ she added, rather inconsequently.</p>
-    <p>‘Oh, yes, he has called. Two or three times, Elizabeth says, but I haven't seen any one,’ said
+    <p>‘Oh, yes, he has called. Two or three times, Elizabeth says, but I haven't seen any one,’
+     said
      <pb n="43" xml:id="VAB7169-042"/> Mary, remembering, with a little shudder, the inquisitive
      voices at the door.</p>
     <p>‘I don't see why,’ said Alison, thoughtfully, ‘you shouldn't take a flat in the same building
@@ -844,7 +856,8 @@
      Vincent, though Jimmie generally adored new acquaintances—for the space of about six weeks.</p>
     <p>Hemming's father had been a politician of some note, who had twice held office, and Vincent
      had pre-eminently the manners of one burdened with state secrets. His little reserves, a
-     certain air of caution, of discretion, all belonged to those early experiences when his father was
+     certain air of caution, of discretion, all belonged to those early experiences when his father
+     was
      <pb n="51" xml:id="VAB7169-050"/> alive. To be sure, he had charming, rather old-fashioned
      manners, affected the speech of the mid-century, and was carried away by few of the modern
      crazes or fads. A well-shaped forehead—of the showily intellectual type—wavy hair, already
@@ -911,7 +924,8 @@
      The tone of his voice was vague: he was evidently considering something which took up all his
      attention.</p>
     <p>‘It isn't brave at all,’ she said, simply. ‘It's an absolute physical necessity. I should go
-     mad if I sat down to think. It all seems so cruel, so terrible, so unjust. He was only fifty-three,
+     mad if I sat down to think. It all seems so cruel, so terrible, so unjust. He was only
+     fifty-three,
      <pb n="55" xml:id="VAB7169-054"/> and there was so much work for him still to do. He used to
      say that an ordinary long life could not suffice—’</p>
     <p>‘The death of Professor Erle is a national disaster,’ replied Vincent, ‘and is not to be
@@ -1376,7 +1390,8 @@
      and the professor would come in, with his keen eyes, and his dear, thin face, and stand with
      his back to the fire while he sipped his tea and teased his ‘little girl.’</p>
     <p>But instead, she entered the narrow passage of a house in Bulstrode Street, of which the
-     varnished marble paper, as well as the grained staircase and stiff patterned oil-cloth were worn
+     varnished marble paper, as well as the grained staircase and stiff patterned oil-cloth were
+     worn
      <pb n="85" xml:id="VAB7169-084"/> and stained with age, and ascended to her own domain, which
      consisted of two rooms. In the little bed-room, giving on a grimy back-yard, there was a small
      iron bed with starved-looking pillows, a washing apparatus of which every article, by a strange
@@ -1643,7 +1658,8 @@
     <p>‘Let us hope,’ said Mary, who remembered the great art critic at dinner-parties, exhibiting
      his culture, with a modest air, ‘let us hope Mr. Somervail isn't vindictive.’</p>
     <p>Perry looked uneasy.</p>
-    <p>‘I say,’ he suggested, genially, ‘why shouldn't you turn art critic, Miss Erle, and slate us all
+    <p>‘I say,’ he suggested, genially, ‘why shouldn't you turn art critic, Miss Erle, and slate us
+     all
      <pb n="102" xml:id="VAB7169-101"/> round? Old Somervail, he's made a good thing out of it!’</p>
     <p>At that instant a tumult of voices behind the curtain made further conversation impossible. A
      girl's shrill scream was suddenly audible, and then, the next second, the heavy crash of a
@@ -1793,7 +1809,8 @@
     <p>After many inquiries, Mary found that the office was located in a huge building in one of the
      queer little squares out of Fleet Street, and that it was only one of many magazines and
      newspapers published by the same firm.</p>
-    <p>It proved to be a little world in itself, this vast bee-hive, for the printing, publishing, and
+    <p>It proved to be a little world in itself, this vast bee-hive, for the printing, publishing,
+     and
      <pb n="111" xml:id="VAB7169-110"/> editing of some dozen magazines and journals were all
      conducted on the premises. There was a deafening whirr of machinery which reminded the girl
      vaguely of international exhibitions, and at every turn she saw an editor's room, with the name
@@ -2242,7 +2259,8 @@
     <p>And it was then that his mind ran back to his meeting with his new friends. He had found them
      first, Mr., Mrs., and Miss Violet Higgins, of Northborough, Lancashire, engaged in a protracted
      quarrel with the black porter in a train bound New York-wards from Niagara. The Higgins family
-     had wished to have the windows of the long compartment opened, but the black porter, having no per-
+     had wished to have the windows of the long compartment opened, but the black porter, having no
+     per-
      <pb n="139" xml:id="VAB7169-138"/> sonal objection to tropical heat, had insisted on shutting
      every aperture. Finally, Vincent had effected a compromise, and the perspiring mayor and
      mayoress of Northborough had been, he thought, somewhat unduly thankful. The daughter, a young
@@ -2669,7 +2687,8 @@
      the case, of course, but she won't get it. They're betting on it at the clubs.’</p>
     <p>‘I see she's got that old woman, what's-her-name, who's so very proper, in the box,’ said
      Lady Jane, as she surveyed the coming heroine of the divorce court exhaustively with her
-     tortoise-shell lorgnette. ‘How <emph>clever</emph>,’ she continued in an approving tone: ‘white muslin,
+     tortoise-shell lorgnette. ‘How <emph>clever</emph>,’ she continued in an approving tone: ‘white
+     muslin,
      <pb n="167" xml:id="VAB7169-166"/> and not a jewel. I was so fond of her poor mother. She was
      one of the first women who smoked—I mean before people. She was a sort of Mrs. Norton. Lord
      Houghton used to say she was one of the few women in society that he could ask to his literary
@@ -2702,7 +2721,8 @@
      and her uneasy attitude, and remembering Hemming's fastidious tastes, she decided, with a
      little throb of feminine exultation, that she had nothing to dread from Miss Violet
      Higgins.</p>
-    <p>‘Does anybody know what the play is about?’ asked the girl in a relieved voice, in which there
+    <p>‘Does anybody know what the play is about?’ asked the girl in a relieved voice, in which
+     there
      <pb n="169" xml:id="VAB7169-168"/> was even a note of happiness. ‘It seems to me to be
      rubbish.’</p>
     <p>‘Oh, I simply <emph>love</emph> these old-fashioned pieces, where all the poor young men turn
@@ -2996,7 +3016,8 @@
     <p>The doctor never took his eyes from her face. To have this woman for his wife would be the
      crowning act of a brilliantly successful career. He only hesitated to speak until he had
      received the baronetcy which was in store for him. Not that Alison herself would care; she had
-     none of the usual small feminine ambitions; but the doctor was quite aware that it would influence
+     none of the usual small feminine ambitions; but the doctor was quite aware that it would
+     influence
      <pb n="187" xml:id="VAB7169-186"/> Lady Jane, who had made up her mind that Alison, when she
      married, should only make, if she could help it, what she called a ‘sensible match.’</p>
     <p>They went up a stone staircase, to which a somewhat false air of cheerfulness was imparted by
@@ -3247,7 +3268,8 @@
      dinner-table, sat the woman who was more to him than any other feminine personality—the woman
      who was to make him one of the most envied men in London.</p>
     <p>Alison was speaking now to her neighbour on the right, but Strange was struck, when she
-     turned round, with the hard look on her face. There was an expression in the girl's eyes to-night
+     turned round, with the hard look on her face. There was an expression in the girl's eyes
+     to-night
      <pb n="203" xml:id="VAB7169-202"/> night which he had never seen there, and which he could not
      quite understand, unless—</p>
     <p>‘You look tired,’ he said, in his soft professional voice. ‘What have you been doing
@@ -3484,7 +3506,8 @@
      Alison, of her mother, and of Mary. A prolonged consultation with the other doctor resulted in
      frequent doses of brandy or port wine being ordered, and an admission, just at the hall-door,
      that the case was serious.</p>
-    <p>Mary went down to the dining-room when the bell rang, leaving Alison's old nurse at the bedside
+    <p>Mary went down to the dining-room when the bell rang, leaving Alison's old nurse at the
+     bedside
      <pb n="217" xml:id="VAB7169-216"/> side. Lady Jane's one idea was that Dunlop Strange should be
      called in.</p>
     <p>‘If she would only see him,’ she reiterated for the fifth time, shaking her head tragically

@@ -24,7 +24,9 @@
     <bibl n="B13706" type="firstEdition"><title>The water of the wondrous
       isles</title><author>William Morris</author><publisher>Kelmscott Press</publisher>
      <date>1897</date>
-     <ref target="http://morrisedition.lib.uiowa.edu/Images/WaterWondrousIsles/waterwondrouskelmscott.html">Page images</ref>
+     <ref
+      target="http://morrisedition.lib.uiowa.edu/Images/WaterWondrousIsles/waterwondrouskelmscott.html"
+      >Page images</ref>
      <!-- combined at private:221177-MorrisWaterWondrousIsles_reduced.pdf -->
     </bibl>
     <bibl type="digitalSource"><title>The water of the wondrous isles</title><ref
@@ -61,8 +63,20 @@
   </revisionDesc>
  </teiHeader>
  <text type="T3MLL">
+  <front>
+   <div type="titlepage">
+    <p>The Water of the Wondrous Isles By William Morris</p>
+    <p>In two volumes. </p>
+    <p>Vol 1. </p>
+    <p>Pocket Edition</p>
+    <p>Longmans, Green and Co</p>
+    <p>39 Paternoster Row, London</p>
+    <p>New York, Bombay, and Calcutta</p>
+    <p>1914</p>
+    <!--  Kelmscott edition has no titlepage: just a colophon-->
+   </div>
+  </front>
   <body>
-
    <div type="group">
     <head> The Water of the Wondrous Isles </head>
     <head>The First Part: Of the House of Captivity </head>
@@ -4612,6 +4626,7 @@
       was noon, they were among the said woods, which were grown mostly with big trees, as oak here
       and beech there, and the going was good for them.</p>
     </div>
+    <!-- volume 2 starts here -->
     <div type="chapter">
      <p>Chapter IV ~ Of the Slaying of Friend and Foe</p>
      <p>So came they, three hours after noon, to where was a clearing in the woodland, and a long
