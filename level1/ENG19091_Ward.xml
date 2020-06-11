@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19091"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19091" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>Daphne, or Marriage a la Mode : ELTeC edition</title>
-    <author ref="viaf:27084321">Ward, Humphry, Mrs. (1851-1920)</author>
+    <author ref="https://viaf.org/viaf/27084321/">Ward, Humphry, Mrs. (1851-1920)</author>
     <respStmt>
      <resp>Optically scanned, encoded and proofed by </resp>
      <name>Naomi Zimmer</name>
@@ -43,11 +41,11 @@
     <bibl type="digitalSource"><title>Daphne, or Marriage a la Mode : VWWP
       edition</title><author>Ward, Humphry, Mrs., 1851-1920</author><publisher>Digital Library
       Program, Indiana University</publisher><pubPlace>Bloomington,
-      IN</pubPlace><ref target="vwwp:VAB7046">VWWP</ref></bibl>
+      IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7046">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B0"><title>Daphne, or Marriage a la Mode</title><author>Ward,
       Humphry, Mrs., 1851-1920</author><publisher>Cassell </publisher><pubPlace>London; New York
       </pubPlace><date when="1909">1909</date>
-     <ref target="ia:daphneormarriage00ward"/></bibl>
+     <ref target="http://archive.org/details/daphneormarriage00ward"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -262,8 +260,7 @@
       small estate in Northamptonshire. Before the death of Roger's father this prospective
       inheritance, indeed, had not counted for very much in the family calculations. The General had
       even felt a shyness in alluding to a matter so insignificant in comparison with the general
-      scale on which the Barnes family lived. But since the death of Barnes <foreign xml:lang="fre"
-       >père</foreign>, and the complete pecuniary ruin revealed by that event, Roger's expectations
+      scale on which the Barnes family lived. But since the death of Barnes <foreign xml:lang="fre">père</foreign>, and the complete pecuniary ruin revealed by that event, Roger's expectations
       from his uncle had assumed
       <pb n="13" xml:id="VAB7046-014"/> a new importance. The General was quite aware of it. A year
       before this date he would never have dreamed of summoning Roger to attend him at a moment's
@@ -880,8 +877,7 @@
       white, showed the artistic mind; the chairs and sofas were a trifle stiff and straight-legged;
       the electric fittings were of a Georgian plainness to match the Colonial architecture of the
       house; the beautiful self-coloured carpet was indeed Persian and costly, but it betrayed its
-      costliness only to the expert. Altogether, the room, one would have said, of any <foreign
-       xml:lang="fre">bourse moyenne</foreign> with
+      costliness only to the expert. Altogether, the room, one would have said, of any <foreign xml:lang="fre">bourse moyenne</foreign> with
       <pb n="50" xml:id="VAB7046-053"/> an eye for beauty. Fine photographs also, of Italian and
       Dutch pictures, suggested travel, and struck the cultivated cosmopolitan note.</p>
      <p>Mrs. Verrier looked round it with a smile. It was all as unpretending as the maid who
@@ -1086,8 +1082,7 @@
      <p>“Do you suppose he knows that you—are not exactly a pauper?”</p>
      <p>Daphne drew herself away impatiently. “I really don't suppose anything, Madeleine. He never
       talks about money, and I should think he had plenty himself.”</p>
-     <p>Mrs. Verrier replied by giving an outline of the financial misfortunes of Barnes <foreign
-       xml:lang="fre">père</foreign>, as they had been described to her by another English traveller
+     <p>Mrs. Verrier replied by giving an outline of the financial misfortunes of Barnes <foreign xml:lang="fre">père</foreign>, as they had been described to her by another English traveller
       in Washington.</p>
      <p>Daphne listened indifferently. “He can't be very poor or he wouldn't behave as he does. And
       he is to inherit the General's property. He told me so.”</p>
@@ -2238,8 +2233,7 @@
       He had been ordained some two years before this date.</p>
      <p>It was this inborn pastoral gift, just as real as the literary or artistic gifts, and containing
       <pb n="133" xml:id="VAB7046-137"/> the same potentialities of genius as they, which was
-      leading him to feel a deep anxiety about the Barnes's <foreign xml:lang="fre"
-      >ménage</foreign>. It seemed to him necessary that Daphne should respect her husband; and
+      leading him to feel a deep anxiety about the Barnes's <foreign xml:lang="fre">ménage</foreign>. It seemed to him necessary that Daphne should respect her husband; and
       Roger, in a state of complete idleness, was not altogether respect-able.</p>
      <p>So, with much quizzing of him as “the Squire,” French tried to goad his companion into some
       of a Squire's duties. “Stand for the County Council, old fellow,” he said. “Your father was on
@@ -2443,8 +2437,7 @@
       through her brain, even while she went on talking fast and recklessly to the Duchess.</p>
      <p>At tea-time conversation turned on the various beautiful things which the room contained—its
       Nattiers, its Gobelins, its two <foreign xml:lang="fre">dessus de portes</foreign> by Boucher,
-      and its two cabinets, of which one had belonged to Beaumarchais and the other to the <foreign
-       xml:lang="fre">Appartement du Dauphin</foreign> at Versailles.</p>
+      and its two cabinets, of which one had belonged to Beaumarchais and the other to the <foreign xml:lang="fre">Appartement du Dauphin</foreign> at Versailles.</p>
      <p>Daphne restrained herself for a time, asked questions, and affected no special knowledge.
       Then, at a pause, she lifted a careless hand, inquiring whether “the Fragonard sketch”
       opposite were not the pendant of one—she named it—at Berlin.</p>
@@ -2615,8 +2608,7 @@
       she never gave any unnecessary trouble to her friends' servants—through country lanes
       chequered with pale sun. As for the Duchess's attack upon her, Chloe smarted. The Duchess had
       clearly pulled her up, and Chloe was not a person who took it well.</p>
-     <p>If Roger's American wife was by now wildly jealous of his old <foreign xml:lang="fre"
-       >fiancée</foreign>, whose fault was it? Had not Mrs. Barnes herself thrown them perpetually
+     <p>If Roger's American wife was by now wildly jealous of his old <foreign xml:lang="fre">fiancée</foreign>, whose fault was it? Had not Mrs. Barnes herself thrown them perpetually
       together? Dinners at Upcott!—invitations to Heston!—a resolute frequenting of the same festal
       gatherings with Mrs. Fairmile. None of it with Roger's goodwill, or his mother's,—Chloe
       admitted it. It had been the wife's doing—all of it. There had been even—rare occurrences—two
@@ -2624,13 +2616,11 @@
       all. Merely that she might display her eyes, her diamonds, and her gowns? Not at all. The real
       psychology of it was plain. “She wishes to keep us under observation—to give us
       opportunities—and then
-      <pb n="156" xml:id="VAB7046-161"/> torment her husband. Very well then!—<foreign
-       xml:lang="fre">tu l'as voulu, Madame</foreign>!”</p>
+      <pb n="156" xml:id="VAB7046-161"/> torment her husband. Very well then!—<foreign xml:lang="fre">tu l'as voulu, Madame</foreign>!”</p>
      <p>As to the “opportunities,” Chloe coolly confessed to herself that she had made rather a
       scandalous use of them. The gossip of the neighbourhood had been no doubt a good deal roused;
       and Daphne, it seemed, was discontented. But is it not good for such people to be
-      discontented? The money and the arrogance of Roger's wife had provoked Roger's former <foreign
-       xml:lang="fre">fiancée</foreign> from the beginning; the money to envy, and the arrogance to
+      discontented? The money and the arrogance of Roger's wife had provoked Roger's former <foreign xml:lang="fre">fiancée</foreign> from the beginning; the money to envy, and the arrogance to
       chastisement. Why not? What is society but a discipline?</p>
      <p>As for Roger, who is it says there is a little polygamy in all men? Anyway, a man can
       always—nearly always—keep a corner for the old love, if the new love will let him. Roger
@@ -3627,8 +3617,7 @@
      <p>“Then there was some local scandal—on the subject of Barnes and Mrs. Fairmile?”</p>
      <p>“Possibly. Scandal <foreign xml:lang="fre">pour rire</foreign>! Not a soul believed that
       there was anything more in it than mischief on the woman's side, and a kind of incapacity for
-      dealing with a woman as she deserved, on the man's. Mrs. Fairmile has been an <foreign
-       xml:lang="fre">intrigante</foreign> from her cradle. Barnes was at one time deeply in love
+      dealing with a woman as she deserved, on the man's. Mrs. Fairmile has been an <foreign xml:lang="fre">intrigante</foreign> from her cradle. Barnes was at one time deeply in love
       with her. His wife became jealous of her after the marriage, and threw them together, by way
       of getting at the truth, and he shilly-shallied with the situation, instead of putting a
       prompt end to it, as of course he ought to have done. He was honestly fond of his wife the
@@ -3832,8 +3821,7 @@
       in particular—for the women bring two-thirds of the actions—are going to the deuce, simply
       <pb n="231" xml:id="VAB7046-235"/> because they have the opportunity of going. And the
       children—it doesn't bear thinking of! Well—no good haranguing! I'm ashamed of my country in
-      this matter—I have been for a long time—and I mean to help Barnes out, <foreign xml:lang="fre"
-       >coûte que coûte</foreign>! And as to the money, Barnes, you and I'll discuss that.”</p>
+      this matter—I have been for a long time—and I mean to help Barnes out, <foreign xml:lang="fre">coûte que coûte</foreign>! And as to the money, Barnes, you and I'll discuss that.”</p>
      <p>Barnes lifted a face that quivered, and he and Boyson exchanged looks.</p>
      <p>Penrose glanced at the pair. That imaginative power, combined with the power of drudgery,
       which was in process of making a great lawyer out of a Balliol scholar, showed him something
@@ -4361,11 +4349,9 @@
      <p>“It was Madeleine's mother who made it hopeless,” thought Daphne. “But for Mrs. Fanshaw—it
       might have lasted.”</p>
      <p>And memory called up Mrs. Fanshaw, the beautifully dressed woman of fifty, with her pride of
-      wealth and family, belonging to the strictest sect of New York's social <foreign
-       xml:lang="fre">élite</foreign>, with her hard, fastidious face, her formidable elegance and
+      wealth and family, belonging to the strictest sect of New York's social <foreign xml:lang="fre">élite</foreign>, with her hard, fastidious face, her formidable elegance and
       self-possession. How she had loathed the marriage! And with what a harpy-like eagerness had
-      she seized on the first signs of Madeleine's discontent and <foreign xml:lang="fre"
-       >ennui</foreign>; persuaded her to come home; prepared the divorce; poisoned public
+      she seized on the first signs of Madeleine's discontent and <foreign xml:lang="fre">ennui</foreign>; persuaded her to come home; prepared the divorce; poisoned public
       <pb n="264" xml:id="VAB7046-270"/> opinion. It was from a last interview with Mrs. Fanshaw
       that Leopold Verrier had gone straight to his death. What was it that she had said to him?</p>
      <p>Daphne lingered on the question; haunted, too, by other stray recollections of the dismal
@@ -4620,8 +4606,7 @@
       own position. She was most troubled, often, by certain episodes in the past, of which, she
       supposed, Alfred Boyson knew least; the corrupt use she had made of her money; the false
       witnesses she had paid for; the bribes she had given. At the time it had seemed to her all
-      part of the campaign, in the day's work. She had found herself in a <foreign xml:lang="fre"
-       >milieu</foreign> that demoralised
+      part of the campaign, in the day's work. She had found herself in a <foreign xml:lang="fre">milieu</foreign> that demoralised
       <pb n="279" xml:id="VAB7046-285"/> ised her; her mind had become like “the dyer's hand,
       subdued to what it worked in.” Now, she found herself thinking in a sudden terror, “If Alfred
       Boyson knew so and so!” or, as she looked down on Madeleine's dying face, “Could I even tell

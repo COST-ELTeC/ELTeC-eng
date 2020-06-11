@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18950"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18950" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The Woman Who Didn't : ELTeC edition</title>
-    <author ref="viaf:67411362">Cross, Victoria (1868-1952)</author>
+    <author ref="https://viaf.org/viaf/67411362/">Cross, Victoria (1868-1952)</author>
     <respStmt>
      <resp>Transcribed, encoded, and proofed by </resp>
      <name>Jessica Loving</name>
@@ -42,11 +40,9 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Woman Who Didn't : VWWP edition </title><author>Crosse,
       Victoria</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7197"
-      >VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7197">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B8318"><title>The Woman Who Didn't</title><author>Cross,
-      Victoria</author><publisher>John Lane</publisher><pubPlace>London </pubPlace><date when="1895"
-      >1895</date>
+      Victoria</author><publisher>John Lane</publisher><pubPlace>London </pubPlace><date when="1895">1895</date>
      <ref target="https://hdl.handle.net/2027/uiug.30112041697373"/></bibl>
    </sourceDesc>
   </fileDesc>
@@ -1982,8 +1978,7 @@
      thought, in hope, in anticipation.</p>
     <p>And as the strains of the violins rose and fell and swelled through the brilliant
      light-flooded house, how I longed for the white-washed walls, the smoking oil-lamps, the
-     blatant, strident music, and the narrow benches of the Egyptian <foreign xml:lang="fre"
-      >café</foreign> with those hopes again. ‘Programme! Programme!’ came sharply through the door
+     blatant, strident music, and the narrow benches of the Egyptian <foreign xml:lang="fre">café</foreign> with those hopes again. ‘Programme! Programme!’ came sharply through the door
      as the boy came down the corridor, and in another moment he pushed our door open. ‘Programme,
      sir?’ I bought
      <pb n="153" xml:id="VAB7197-154"/> a couple and the libretto, and laid them on her knees,

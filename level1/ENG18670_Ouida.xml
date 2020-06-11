@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18670">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18670">
 <teiHeader>
 <fileDesc>
  <titleStmt>
   <title>Under Two Flags: A Story of the Household and
     the Desert : ELTeC edition</title>
-  <author ref="viaf:34490941">Ouida, [pseud.]
+  <author ref="https://viaf.org/viaf/34490941/">Ouida, [pseud.]
     (1839-1908)</author>
   <respStmt>
     <resp>ELTeC conversion</resp>
@@ -22,17 +21,12 @@
   <publisher ref="https://distant-reading.net">COST
     Action "Distant Reading for European Literary
     History" (CA16204)</publisher>
-  <distributor
-    ref="https://zenodo.org/communities/eltec/"
-    >Zenodo.org</distributor>
+  <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
   <date when="2019-11-09"/>
   <availability>
-    <licence
-    target="https://creativecommons.org/licenses/by/4.0/"
-    />
+    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
   </availability>
-  <ref type="doi"
-    target="https://doi.org/10.5281/zenodo.3462435"/>
+  <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
  </publicationStmt>
  <sourceDesc>
   <bibl type="digitalSource"><title>Under Two Flags: A
@@ -47,7 +41,7 @@
     Desert</title><author>Ouida, [pseud.]
     (1839-1908).</author><publisher>London: Chapman
     and Hall</publisher><date>1867</date>
-              <ref target="ia:undertwoflagssto01ouid">vol 1</ref>;   <ref target="ia:undertwoflagssto02ouid">vol 2</ref> ; <ref target="ia:undertwoflagssto03ouid">vol 3</ref></bibl>
+              <ref target="http://archive.org/details/undertwoflagssto01ouid">vol 1</ref>;   <ref target="http://archive.org/details/undertwoflagssto02ouid">vol 2</ref> ; <ref target="http://archive.org/details/undertwoflagssto03ouid">vol 3</ref></bibl>
  </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -64,15 +58,10 @@
   </keywords>
  </textClass>
  <textDesc>
-  <authorGender
-    xmlns="http://distantreading.net/eltec/ns" key="F"/>
-  <size xmlns="http://distantreading.net/eltec/ns"
-    key="long"/>
-  <reprintCount
-    xmlns="http://distantreading.net/eltec/ns"
-    key="high"/>
-  <timeSlot xmlns="http://distantreading.net/eltec/ns"
-    key="T2"/>
+  <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+  <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+  <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+  <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
  </textDesc>
   </profileDesc>
   <revisionDesc>
@@ -697,8 +686,7 @@
     felt himself near the wind when settling-day came,
     or the Jews appeared utterly impracticable; but,
     as a rule, things had always trimmed
-    <hi>somehow</hi> , and though his debts were <pb
-    n="19"/> considerable, and he was literally as
+    <hi>somehow</hi> , and though his debts were <pb n="19"/> considerable, and he was literally as
     penniless as a man can be to stay in the Guards at
     all, he had never in any shape realised the want
     of money. He might not be able to raise a guinea
@@ -1278,8 +1266,7 @@
     <p>"Jimmy Delmar? Oh yes; I know Jimmy," answered
     Lord Cosmo Wentworth, of the Scots Fusiliers, from
     the far depths of an arm-chair. "Knew him at
-    Aldershot. Fine rider; give you a good bit <pb
-    n="37"/> of trouble, Beauty. Hasn't been in
+    Aldershot. Fine rider; give you a good bit <pb n="37"/> of trouble, Beauty. Hasn't been in
     England for years; troop been such a while at
     Calcutta. The Fancy take to him rather; offering
     very freely on him this morning in the Village;
@@ -1577,8 +1564,7 @@
     prominence by the azure of the Heavy Cavalry
     champion, Sir Eyre Montacute.</p>
     <p>A drag with four bays—with fine hunting points
-    about them—had dashed up, late of course; the <pb
-    n="47"/> Seraph had swung himself from the
+    about them—had dashed up, late of course; the <pb n="47"/> Seraph had swung himself from the
     roller-bolt into the saddle of his hack (one of
     those few rare hacks that are <hi>perfect</hi> ,
     and combine every excellence of pace, bone, and
@@ -2032,8 +2018,7 @@
     be beat at fencing and ran even with him; Wild
     Geranium flew still as fleet as a deer; true to
     her sex she would not bear rivalry; but little
-    Grafton, though he rode like a professional, <pb
-    n="61"/> was but a young one, and went too wildly;
+    Grafton, though he rode like a professional, <pb n="61"/> was but a young one, and went too wildly;
     her spirit wanted cooler curb.</p>
     <p>And now only, Cecil loosened the King to his
     full will and his full speed. Now only, the
@@ -2197,8 +2182,7 @@
     ahead!" "Bay Regent's caught him!" "Violet's
     winning, Violet's winning!" "The King's neck by
     neck!" "The King's beating!" "The Guards will get
-    it." "The Guards' crack has it!" "Not yet, <pb
-    n="66"/> not yet!" "Violet will thrash him at the
+    it." "The Guards' crack has it!" "Not yet, <pb n="66"/> not yet!" "Violet will thrash him at the
     jump!" "Now for it!" "The Guards, the Guards, the
     Guards!" "Scarlet will win!" "The King has the
     finish!" "No, no, no, No!"</p>
@@ -2230,8 +2214,7 @@
     grey's flank. "Oh, my darling, my beauty—
     <hi>now!</hi> "</p>
     <p>One touch of the spur—the first—and Forest King
-    rose at the leap, all the life and power there <pb
-    n="67"/> were in him gathered for one superhuman
+    rose at the leap, all the life and power there <pb n="67"/> were in him gathered for one superhuman
     and crowning effort; a flash of time, not half a
     second in duration, and he was lifted in the air
     higher, and higher, and higher in the cold, fresh,
@@ -2569,8 +2552,7 @@
     Royallieu at Nice, some three years after her
     marriage; accident had thrown them across each
     other's path; the old love, stronger, perhaps, now
-    than it had ever been, had made him linger <pb
-    n="78"/> in her presence, had made her shrink from
+    than it had ever been, had made him linger <pb n="78"/> in her presence, had made her shrink from
     sending him to exile. Evil tongues at last had
     united their names together; Alan Bertie had left
     the woman he idolised lest slander should touch
@@ -4697,8 +4679,7 @@
     brothers was the thing he had now to tell, "and—I
     borrowed three ponies of Granville Lee yesterday,
     as he came from the Corner with a lot of
-    bank-notes after settling-day. I told him I <pb
-    n="144"/> would pay them to-morrow; I made sure I
+    bank-notes after settling-day. I told him I <pb n="144"/> would pay them to-morrow; I made sure I
     should have won to-night."</p>
     <p>The piteous unreason of the born gamester, who
     clings so madly to the belief that luck must come
@@ -4827,8 +4808,7 @@
     <p>And with that Cecil puffed a great cloud of
     smoke to envelop him; the subject was painful; the
     denial wounded him by whom it had to be given full
-    as much as it could wound him whom it refused. <pb
-    n="148"/> Berkeley heard it in silence, his head
+    as much as it could wound him whom it refused. <pb n="148"/> Berkeley heard it in silence, his head
     still hung down, his colour changing, his hands
     nervously playing with the bouquet-bottles,
     shutting and opening their gold tops.</p>
@@ -5399,8 +5379,7 @@
     that to rouse yourself for anything was a
     <hi>niaiserie</hi> of the strongest possible
     folly; but it was there. It always is there with
-    men of Bertie's order, and only comes to light <pb
-    n="166"/> when the match of danger is applied to
+    men of Bertie's order, and only comes to light <pb n="166"/> when the match of danger is applied to
     the touchhole. Then, though "the Tenth don't
     dance," perhaps, with graceful indolent dandy
     insolence, they can fight as no others fight when
@@ -5432,8 +5411,7 @@
     wins—Twelve," meant that if she wore white
     camellias in her hair at the opera, she would give
     "Beauty" a meeting after it.</p>
-    <p>Lady Guenevere was very scrupulous never to <pb
-    n="167"/> violate conventionalities. And yet she
+    <p>Lady Guenevere was very scrupulous never to <pb n="167"/> violate conventionalities. And yet she
     was a little fast—very fast, indeed, and was a
     queen of one of the fastest sets; but then—O
     sacred shield of a wife's virtue—she could not
@@ -5657,8 +5635,7 @@
     stood the deer, a dozen of them, a clan of stags
     alone, with their antlers clashing like the clash
     of swords, and waving like swaying banners as they
-    tossed their heads and listened. <ref
-    target="#ENG18670_N2"> 2</ref></p>
+    tossed their heads and listened. <ref target="#ENG18670_N2"> 2</ref></p>
     <pb n="174"/>
     <p>In an instant the hunter pricked his ears,
     snuffed the air, and twitched with passionate
@@ -5686,8 +5663,7 @@
     stop them now; on they went, hunting as straight
     in line as though staghounds streamed in front of
     them, and no phaeton rocked and swayed in a dead
-    and dragging weight behind them. In a moment <pb
-    n="175"/> he gauged the closeness and the vastness
+    and dragging weight behind them. In a moment <pb n="175"/> he gauged the closeness and the vastness
     of the peril; there was nothing for it but to
     trust to chance, to keep his grasp on the reins to
     the last, and to watch for the first sign of
@@ -5984,8 +5960,7 @@
     as far as memory of money went. With much more
     than the serenity in other matters of most
     millionaires, who, finding themselves uncommonly
-    ill at ease in the pot-pourri of monarchs <pb
-    n="185"/> and ministers, of beau-monde and
+    ill at ease in the pot-pourri of monarchs <pb n="185"/> and ministers, of beau-monde and
     demi-monde, would have given half their
     newly-turned thousands to get rid of the odour of
     Capel Court and the Bourse, and to attain the
@@ -6016,8 +5991,7 @@
     to-morrow we die," was an universal panacea. He
     was reckless to the uttermost stretch of
     recklessness, all serene and quiet though his
-    poco-curantism and his daily manner were; and <pb
-    n="186"/> while subdued to the undeviating
+    poco-curantism and his daily manner were; and <pb n="186"/> while subdued to the undeviating
     monotone and languor of his peculiar set in all
     his temper and habits, the natural dare-devil in
     him took out its inborn instincts in a wildly
@@ -6315,8 +6289,7 @@
     pleasure; he was all impatience, all power, all
     longing, vivid, intensity of life. If only that
     nausea would go! He felt a restless sickliness
-    stealing on him that his young and gallant <pb
-    n="195"/> strength had never known since he was
+    stealing on him that his young and gallant <pb n="195"/> strength had never known since he was
     foaled. But it was not in the King to yield to a
     little; he flung his head up, champing angrily at
     the bit, then walked down to the starting-post
@@ -7019,8 +6992,7 @@
     Besides, laying agin' him by that ere commission's
     piled up hatsful of the ready to be sure, I don't
     say it hain't, but there's two thou' knocked off
-    for Willon, and the fool don't deserve a <pb
-    n="217"/> tizzy of it; he went and put the paint
+    for Willon, and the fool don't deserve a <pb n="217"/> tizzy of it; he went and put the paint
     on so think, that if the Club don't have a
     flare-up about the whole thing——"</p>
     <p>"Let dem!" said the Jew, serenely. "Dey can do
@@ -7444,8 +7416,7 @@
     sent for you to expose the whole abominable
     business, never because I believe—— Hang it!
     Beauty, I can't bring myself to say it even! If a
-    sound thrashing would have settled the matter, <pb
-    n="231"/> I wouldn't have bothered you about it,
+    sound thrashing would have settled the matter, <pb n="231"/> I wouldn't have bothered you about it,
     nor told you a syllable. Only you <hi>are</hi>
     sure, Bertie, aren't you, that I never listened to
     this miserable outrage on us both with a second's
@@ -7511,8 +7482,7 @@
     it had done at the Jew's first charge—not doubt;
     such heresy to his creeds, such shame to his
     comrade and his corps could not be in him, but a
-    vague dread hushed his impetuous vehemence. <pb
-    n="233"/> The dignity of the old Lyonnesse blood
+    vague dread hushed his impetuous vehemence. <pb n="233"/> The dignity of the old Lyonnesse blood
     asserted its ascendancy.</p>
     <p>"Monsieur Baroni, make your statement. Later
     on, Mr. Cecil can avenge it."</p>
@@ -7604,8 +7574,7 @@
     friend's name should have been added to the bond
     you placed with us. Business men's pertinacity is
     a little wearisome, no doubt, to officers and
-    members of the aristocracy like yourself; <pb
-    n="236"/> but all the same I must persist—how can
+    members of the aristocracy like yourself; <pb n="236"/> but all the same I must persist—how can
     you disprove this charge?"</p>
     <p>The Seraph turned on him with the fierceness of
     a bloodhound.</p>
@@ -7897,8 +7866,7 @@
     and to avenge—the deadliest thing his fearless
     life had ever known.</p>
     <p>"Pardon me, my Lord," interposed Baroni, "I can
-    waste time no more. You must be now convinced <pb
-    n="245"/> yourself of your friend's implication in
+    waste time no more. You must be now convinced <pb n="245"/> yourself of your friend's implication in
     this very distressing affair."</p>
     <p>" <hi>I!</hi> " The Seraph's majesty of
     haughtiest amaze and scorn blazed from his azure
@@ -8522,8 +8490,7 @@
     the ground. Once touching earth, off he glided,
     swiftly and noiselessly, keeping in the shadow of
     the walls all the length of the streets he took,
-    and shunning every place where any sort of <pb
-    n="265"/> tumult could suggest the neighbourhood
+    and shunning every place where any sort of <pb n="265"/> tumult could suggest the neighbourhood
     of those who were out and hunting him down. As it
     chanced, they had taken to the open country; he
     passed on unquestioned, and wound his way to the
@@ -8616,8 +8583,7 @@
     also a farewell. The delicate perfume of her
     floating dress, the gleam of the scarlet
     flower-spray, the flash of the diamonds studding
-    her domino, the fragrance of her lips as <pb
-    n="268"/> they breathed so near his own; they
+    her domino, the fragrance of her lips as <pb n="268"/> they breathed so near his own; they
     haunted him many a long year afterwards.</p>
     <p>His voice was very calm, his smile was very
     gentle, his step, as he swung easily through the
@@ -9040,8 +9006,7 @@
     dealt himself a far deadlier one when he had
     resolved to part for ever from the King. He loved
     the horse better than he loved anything, fed from
-    his hand in foalhood, reared, broken, <pb n="281"
-    /> and trained under his own eye and his own care,
+    his hand in foalhood, reared, broken, <pb n="281"/> and trained under his own eye and his own care,
     he had had a truer welcome from those loving,
     lustrous eyes, than all his mistresses ever gave
     him. He had had so many victories, so many
@@ -9202,8 +9167,7 @@
     with veneration.</p>
     <p>"You might have let me buy my breakfast without
     making me do murder," said Bertie, quietly, as he
-    tried to eat. The meal was coarse—he could <pb
-    n="286"/> scarcely touch it, but he drank the beer
+    tried to eat. The meal was coarse—he could <pb n="286"/> scarcely touch it, but he drank the beer
     down thirstily, and took a crust of bread. He
     slipped his ring, a great sapphire graven with his
     crest, off his finger, and held it out to the
@@ -9498,8 +9462,7 @@
     more honour and guiltlessness in the sight of the
     world. With a word she could do this: his life was
     in the balance that she held as utterly as though
-    it were now hers to sign, or to destroy his <pb
-    n="295"/> death-warrant. It rested with her to
+    it were now hers to sign, or to destroy his <pb n="295"/> death-warrant. It rested with her to
     speak, and to say he had no guilt!</p>
     <p>But to do this she must sacrifice herself. She
     stood mute, irresolute, a shudder running through
@@ -9585,8 +9548,7 @@
     shrouded in haick and serroual, eagle-eyed Arabs
     flinging back snow-white burnous, and handling
     ominously the jewelled hilts of their cangiars.
-    Alcazar chansons rang out from the cafés, <pb
-    n="298"/> while in their midst stood the mosque,
+    Alcazar chansons rang out from the cafés, <pb n="298"/> while in their midst stood the mosque,
     that had used to resound with the Muezzin;
     Bijou-blondine and Bebée La-la and all the
     sister-heroines of demi-monde dragged their
@@ -9620,8 +9582,7 @@
     <hi>demi-tasses</hi> , absinthe, vermout, or old
     wines, in the comparative silence that had
     succeeded to a song, sung by a certain favourite
-    of the Spahis, known as Loo-Loo-j'n-m'en <pb
-    n="299"/> soucie-guère from Mlle. Loo-Loo's
+    of the Spahis, known as Loo-Loo-j'n-m'en <pb n="299"/> soucie-guère from Mlle. Loo-Loo's
     well-known habits of independence and bravado,
     which last had gone once so far as shooting a man
     through the chest in the Rue Bab-al-Oued, and
@@ -9722,8 +9683,7 @@
     were at our backs— a fine field for the
     duello;—and, true to time, the Arabs filed on to
     the plain, and fronted us in a long line, with
-    their standards, and their crescents, and <pb
-    n="302"/> their cymbals, and reed-pipes, and
+    their standards, and their crescents, and <pb n="302"/> their cymbals, and reed-pipes, and
     kettle-drums, all glittering and sounding. <hi>Sac
     à papier</hi> ! there was a show, and we could not
     fight one of them! We were drawn up in
@@ -9757,8 +9717,7 @@
     devils than men. Mort de Dieu! it was a
     magnificent sight! He was gashed here, and gashed
     there; but they they could never unseat him, try
-    how they would; and one after another he <pb
-    n="303"/> caught them sooner or later, and sent
+    how they would; and one after another he <pb n="303"/> caught them sooner or later, and sent
     them reeling out of their saddles, till there was
     a great red lake of blood all round him, and five
     of them lay dead or dying down in the sand. He had
@@ -9790,8 +9749,7 @@
     Allah is great!' And he knew his son lay there
     dead. Then we broke from the ranks, and we rushed
     to the place where the chargers and men were piled
-    like so many slaughtered sheep. Rire-pour-tout <pb
-    n="304"/> laughed such a gay ringing laugh as the
+    like so many slaughtered sheep. Rire-pour-tout <pb n="304"/> laughed such a gay ringing laugh as the
     desert never had heard. 'Vive la France!' he
     cried. 'And now bring me my toss of brandy.' Then
     down headlong out of his stirrups he reeled and
@@ -9823,8 +9781,7 @@
     <p>"They all want to come to us and to the
     Zouaves," smiled Chanrellon, surveying the figure
     of the one who addressed him with a keen sense of
-    its symmetry and its sinew. "Still, a good <pb
-    n="305"/> sword brings it welcome. Do you ask
+    its symmetry and its sinew. "Still, a good <pb n="305"/> sword brings it welcome. Do you ask
     seriously, monsieur?"</p>
     <p>The bearded Arabs smoking their long pipes, the
     little <hi>piou-piou</hi> drowning his
@@ -10099,8 +10056,7 @@
     Those new men never know anything. 'You purchased
     that famous steeple-chaser of his from Mr. Cecil's
     creditors, didn't you?' asks Pulteney. Rock just
-    looks him over. Such a look, by George! 'I <pb
-    n="314"/> received Forest King as my dead friend's
+    looks him over. Such a look, by George! 'I <pb n="314"/> received Forest King as my dead friend's
     last gift.' Pulteney never takes the hint,—not he!
     On he blunders: 'Because, if you were inclined to
     part with him, I want a good new hunting strain,
@@ -10541,8 +10497,7 @@
     nationality the Amie du Drapeau gave in.</p>
     <p>"Yes, like enough. Besides, the other one is
     <pb/> English. Lour-i-loo, of the
-    <hi>Chasses-marais</hi> , <ref
-    target="#ENG18670_N4">4</ref> tells me that the
+    <hi>Chasses-marais</hi> , <ref target="#ENG18670_N4">4</ref> tells me that the
     other one waits on him like a slave when he
     can—cleans his harness, litters his horse, saves
     him all the hard work, when he can do it without
@@ -10664,8 +10619,7 @@
     toss of her curly head, and she had some of the
     virtues of soldiers. Soldiers had been about her
     ever since she first remembered having a wooden
-    casserole for a cradle, and sucking down <pb
-    n="11"/> red wine through a pipe-stem. Soldiers
+    casserole for a cradle, and sucking down <pb n="11"/> red wine through a pipe-stem. Soldiers
     had been her books, her teachers, her models, her
     guardians, and, later on, her lovers, all the days
     of her life. She had had no guiding-star except
@@ -10756,16 +10710,14 @@
     African night.</p>
     <p>She woke him unceremoniously from his reverie,
     with a challenge to wine.</p>
-    <p>"Ah-ha, mon Roumi! <ref target="#ENG18670_N6"
-    >6</ref> Tata Leroux says you are English; by the
+    <p>"Ah-ha, mon Roumi! <ref target="#ENG18670_N6">6</ref> Tata Leroux says you are English; by the
     faith, he must be right, or you would never set
     musing there like an owl in the sunlight! Take a
     draught of my burgundy; bright as rubies. I never
     sell bad wines;—not I!—I know better than to drink
     them myself."</p>
     <p>He started and rose; and, before he took the
-    <hi>bidon</hi> , <ref target="#ENG18670_N7"
-    >7</ref>
+    <hi>bidon</hi> , <ref target="#ENG18670_N7">7</ref>
     <pb n="14"/> bowed to her, raising his cap with a
     grave courteous obeisance; a bow that had used to
     be noted in throne-rooms for its perfection of
@@ -10833,8 +10785,7 @@
     curiosity and unmoved nonchalance imaginable, as
     she launched the question point-blank.</p>
     <p>"Before!" he said, slowly. "Well—a fool."</p>
-    <p>"You belonged to the majority, then!" said <pb
-    n="16"/> Cigarette, with a piquance made a
+    <p>"You belonged to the majority, then!" said <pb n="16"/> Cigarette, with a piquance made a
     thousand times more piquant by the camp slang she
     spoke in. "You should not have had to come into
     the ranks, <hi>mon ami</hi> ; majorities—specially
@@ -11126,8 +11077,7 @@
     relish, and devouring truffles with all the zest
     of a bon-vivant, did not lose a word, and catching
     the inflection of Châteauroy's voice, settled with
-    her own thoughts that "Bel-à-faire-peur" <pb
-    n="25"/> had not a fair field or a smooth course
+    her own thoughts that "Bel-à-faire-peur" <pb n="25"/> had not a fair field or a smooth course
     with his Colonel. The weathercock heart of the
     little "Friend of the Flag" veered round, with her
     sex's common custom, to the side that was the
@@ -11537,8 +11487,7 @@
     running, heedless of thirst, or heat, or famine,
     and as full of monkey-like jests as any
     gamins.</p>
-    <p>There was En-ta-maboull, <ref
-    target="#ENG18670_N9">9</ref> so nicknamed from
+    <p>There was En-ta-maboull, <ref target="#ENG18670_N9">9</ref> so nicknamed from
     his love for that unceremonious slang phrase—a
     Zouave who had the history of a Gil Blas, and the
     talent of a Crichton, the morals of an Abruzzi
@@ -11546,10 +11495,8 @@
     aquiline-nosed, eagle-eyed, black-skinned as an
     African, with adventures enough in his life to
     outvie Munchausen, with a purse always <hi>pleine
-    de vide</hi> , <ref target="#ENG18670_N10"
-    >10</ref> as the camp sentence runs; who thrust
-    his men through the body as coolly as others <pb
-    n="38"/> kill wasps; who roasted a shepherd over
+    de vide</hi> , <ref target="#ENG18670_N10">10</ref> as the camp sentence runs; who thrust
+    his men through the body as coolly as others <pb n="38"/> kill wasps; who roasted a shepherd over
     the campfire for contumacy in concealing Bedouin
     where-abouts; yet who would pawn his last shirt at
     the bazaar to help a comrade in debt, and had once
@@ -11637,8 +11584,7 @@
     <p>He was not there; he was leaning over the
     little wooden ledge of a narrow window in an inner
     room, from which, one by one, some Spahis and some
-    troopers of his own <hi>tribu</hi> , <ref
-    target="#ENG18670_N11">11</ref> with whom he had
+    troopers of his own <hi>tribu</hi> , <ref target="#ENG18670_N11">11</ref> with whom he had
     just been drinking such burgundies and brandies as
     the place could give, had sloped away one by one
     under the irresistible attraction of the
@@ -11725,12 +11671,10 @@
     knew that Bel-à-faire-peur would offer his last
     sou to aid him, or, if money were all gone, would
     sell the last trifle he possessed to the
-    Riz-pain-sels, <ref target="#ENG18670_N15"
-    >15</ref> to get enough to assist his comrade. It
+    Riz-pain-sels, <ref target="#ENG18670_N15">15</ref> to get enough to assist his comrade. It
     was a virtue which went far to vouch for all
     others in the view of his lawless, open-handed
-    brethren of the Chambrée <ref
-    target="#ENG18670_N16">16</ref> and the Camp, and
+    brethren of the Chambrée <ref target="#ENG18670_N16">16</ref> and the Camp, and
     made them forgive him many moments, when the mood
     of silence and the habit of solitude, not uncommon
     with him, would otherwise have incensed a
@@ -11836,8 +11780,7 @@
     speciality, in the Sabir that she, a child of the
     regiments of Africa, had known as her mother
     tongue.</p>
-    <p>" <hi>Il fait suisse</hi> ?" <ref
-    target="#ENG18670_N20"> 20</ref> she cried,
+    <p>" <hi>Il fait suisse</hi> ?" <ref target="#ENG18670_N20"> 20</ref> she cried,
     disdainfully. " <hi>Paf! et tu as bu de sa gourde,
     chenapan</hi> ?"</p>
     <p>The grumbled assent of the accused was
@@ -11861,8 +11804,7 @@
     kills women, he <pb n="47"/> kills women with his
     lady's grace! <hi>Grand' chose ça!</hi> "</p>
     <p>"He does not pull their ears to make them give
-    him their <hi>style</hi> , <ref
-    target="#ENG18670_N23">23</ref> and beat them with
+    him their <hi>style</hi> , <ref target="#ENG18670_N23">23</ref> and beat them with
     a <hi>matraque</hi>
     <ref target="#ENG18670_N24">24</ref> if they don't
     fry his eggs fast enough, as you do, Barbe-Grise,"
@@ -11895,8 +11837,7 @@
     officers gave you last week for stealing his
     <hi>jambon</hi>
     <ref target="#ENG18670_N25">25</ref> from the
-    <hi>blanc-bec</hi> ?" <ref target="#ENG18670_N26"
-    >26</ref></p>
+    <hi>blanc-bec</hi> ?" <ref target="#ENG18670_N26">26</ref></p>
     <pb n="48"/>
     <p>A growl like a lion from the badgered
     Barbe-Grise shook the walls; she had cast her
@@ -12086,8 +12027,7 @@
     and turbulence within.</p>
     <p>There she dropped on a broad stone step, and
     leant her head on her hand.</p>
-    <p>"Unsexed! unsexed! What did he mean?" she <pb
-    n="54"/> thought, while for the first time, with a
+    <p>"Unsexed! unsexed! What did he mean?" she <pb n="54"/> thought, while for the first time, with a
     vague sense of his meaning, tears welled hot and
     bitter into her sunny eyes while the pained colour
     burned in her face. Those tears were the first
@@ -12329,8 +12269,7 @@
     in the measureless distance. The men lay under
     canvas, dead beat, half naked, without the power
     to do anything except to fight like
-    thirst-maddened dogs for a draught at the <pb
-    n="62"/> shallow stream that they and their
+    thirst-maddened dogs for a draught at the <pb n="62"/> shallow stream that they and their
     breathless horses soon drained dry.</p>
     <p>Even Raoul de Châteauroy, though his frame was
     like an Arab's, and knit into Arab endurance, was
@@ -12346,8 +12285,7 @@
     the outlines of half a dozen horsemen were seen
     looming nearer and nearer with every moment; they
     were some Spahis who had been out " <hi>sondant le
-    terrain aux environs</hi> ." <ref
-    target="#ENG18670_N27">27</ref> The mighty frame
+    terrain aux environs</hi> ." <ref target="#ENG18670_N27">27</ref> The mighty frame
     of Châteauroy, almost as unclothed as an athlete,
     started from its slumberous panting rest; his eyes
     lightened hungrily; he muttered a fiery oath,
@@ -12735,8 +12673,7 @@
     melodiously on the silence in the <hi>lingua
     sapir</hi> of the France-Arab tongue.</p>
     <p>"Your comrades are gallant men; they are
-    <hi>lascars kébirs</hi> , <ref
-    target="#ENG18670_N28">28</ref> and fearless foes,
+    <hi>lascars kébirs</hi> , <ref target="#ENG18670_N28">28</ref> and fearless foes,
     against such my voice is never lifted, however my
     sword may cross with them. But the locust-swarms
     that devour the land are the money-eaters, the
@@ -13073,8 +13010,7 @@
     his teeth. "Over there in England, you know, sir,
     pipeclay is the deuce-and-all, you've always got
     to have the stock on, and look as stiff as a
-    stake, or it's all up with you; you're that <pb
-    n="85"/> tormented about little things that you
+    stake, or it's all up with you; you're that <pb n="85"/> tormented about little things that you
     get riled and kick the traces before the great
     'uns come to try you. There's a lot of lads would
     be game as game could be in battle, ay, and good
@@ -13106,8 +13042,7 @@
     to be a machine when the machine's wanted in
     working trim, but when it's run off the line and
     the steam all let off, he do like to oil his own
-    wheels, and lie a bit in the sun at his <pb n="86"
-    /> fancy. There aren't better stuff to make
+    wheels, and lie a bit in the sun at his <pb n="86"/> fancy. There aren't better stuff to make
     soldiers out of nowhere than Englishmen, God bless
     'em! but they're badgered, they're horribly
     badgered, and that's why the Service don't take
@@ -13535,8 +13470,7 @@
     the General of Brigade, who had begun life in his
     time driving an ox-plough over the heavy tillage
     of Alsace.</p>
-    <p>"A private of Châteauroy's—eh?" asked the <pb
-    n="100"/> Tirailleur, lifting his eye-glass to
+    <p>"A private of Châteauroy's—eh?" asked the <pb n="100"/> Tirailleur, lifting his eye-glass to
     watch the Chasseur as he went.</p>
     <p>"Pardieu,—yes,—more's the pity," said
     Chanrellon, who spoke his thoughts as hastily as a
@@ -14062,8 +13996,7 @@
     culture of it, until, cast adrift on the world,
     and forced to do something to maintain himself, he
     had watched the skill of the French soldiers at
-    all such expedients to gain a few coins, <pb
-    n="116"/> and had solaced many a dreary hour in
+    all such expedients to gain a few coins, <pb n="116"/> and had solaced many a dreary hour in
     barracks and under canvas with the toy-sculpture,
     till he had attained a singular art at it. He had
     commonly given Rake the office of selling them,
@@ -14188,8 +14121,7 @@
     his sculptures had brought on some mellow figs and
     some cool golden grapes, and some ice-chilled
     wines that should soothe a little of the pangs of
-    dissolution, to his comrade, and bear <pb n="120"
-    /> him back a moment, if only in some fleeting
+    dissolution, to his comrade, and bear <pb n="120"/> him back a moment, if only in some fleeting
     dream, to the vine shadows, and the tossing seas
     of corn, and the laughing sunlit sweetness, of his
     own fair country by the blue Biscayan waves.</p>
@@ -14563,8 +14495,7 @@
     Napoléons until the Chasseurs, who had begun to
     think their trades would take them to Beylick,
     thought instead that they had drifted into dreams
-    of El Dorado. He never looked up; he heard <pb
-    n="132"/> nothing, heeded nothing; he was dreamily
+    of El Dorado. He never looked up; he heard <pb n="132"/> nothing, heeded nothing; he was dreamily
     wondering whether he should always be able so to
     hold his peace, and to withhold his arm, that he
     should never strike his tyrant down with one blow,
@@ -14692,8 +14623,7 @@
     him still, and were still inclined to thrust away
     and glide from all pain as it arose. Though much
     of gravity and of thoughtfulness had stolen on
-    him, much of insouciance remained; and <pb n="136"
-    /> there were times when there was not a more
+    him, much of insouciance remained; and <pb n="136"/> there were times when there was not a more
     reckless or a more nonchalant <hi>lion</hi> in all
     the battalions than "Bel-à-faire-peur." Under his
     gentleness there was "wild blood" in him still,
@@ -14760,8 +14690,7 @@
     weight that probably a more strictly virtuous
     man's would have strained for, and missed, for
     ever. The coarsest ruffian felt ashamed to make an
-    utter beast of himself before the calm <pb n="138"
-    /> eyes of the patrician. The most lawless
+    utter beast of himself before the calm <pb n="138"/> eyes of the patrician. The most lawless
     <hi>pratique</hi> felt a lie halt on his lips when
     the contemptuous glance of his gentleman-comrade
     taught him that falsehood was poltroonery.
@@ -15506,8 +15435,7 @@
     through the sharp-pointed leaves and the close
     barriers of spines, and launched herself with
     inimitable dexterity on to the other side of the
-    cacti. Cigarette had too often played a game <pb
-    n="162"/> at spying and reconnoitring for her
+    cacti. Cigarette had too often played a game <pb n="162"/> at spying and reconnoitring for her
     regiments, and played it with a cleverness that
     distanced even the most <hi>rusé</hi> of the
     Zéphyrs, not to be able to do just whatever she
@@ -15569,8 +15497,7 @@
     she had bewitched the officers of the guard into
     letting her pass in to see the pageantry. But she
     had never felt for those <hi>grandes dames</hi>
-    anything save a considerably contemptuous <pb
-    n="164"/> indifference. She had looked on them
+    anything save a considerably contemptuous <pb n="164"/> indifference. She had looked on them
     pretty much as a war-worn powder-tried veteran
     looks on the curled dandy of some fashionable
     home-staying corps. She had never realised the
@@ -15885,8 +15812,7 @@
     land too hot to hold him."</p>
     <p>"Of what country is your Corporal, then?"</p>
     <p>"I have not an idea. I imagine his past must
-    have been something very black indeed, for the <pb
-    n="174"/> slightest trace of it has never, that I
+    have been something very black indeed, for the <pb n="174"/> slightest trace of it has never, that I
     know of, been allowed to let slip from him. He
     encourages the men in every insubordination, buys
     their favour with every sort of stage trick,
@@ -15951,8 +15877,7 @@
     who had wrought them. She was no coquette; she was
     of too imperial a nature, had too lofty a pride,
     and was too difficult to charm or to enchain; but
-    those meditative, brilliant, serene eyes <pb
-    n="176"/> had a terrible gift of wakening without
+    those meditative, brilliant, serene eyes <pb n="176"/> had a terrible gift of wakening without
     ever seeking love, and of drawing without ever
     recompensing homage.</p>
     <p>Couched down among her rose-hued covert,
@@ -16932,8 +16857,7 @@
     trick! If it had a drawback, it was that it was
     too simple, too little <hi>risqué</hi> . A child
     might do it.</p>
-    <p>Still—a hundred Naps.! What fat geese, what <pb
-    n="208"/> flagons of brandy, what dozens of wine,
+    <p>Still—a hundred Naps.! What fat geese, what <pb n="208"/> flagons of brandy, what dozens of wine,
     what rich soups, what handsome moukieras, what
     tavern banquets they would bring! Picpon had
     chuckled again as he arranged the little bag so
@@ -17656,8 +17580,7 @@
     so strangely through the blindness of pain. Then
     he smiled as the last echo of the choral melodies
     died softly on the silence.</p>
-    <p>"That is joy enough! Ah! have no fear. With <pb
-    n="230"/> the dawn you will be free once more. Did
+    <p>"That is joy enough! Ah! have no fear. With <pb n="230"/> the dawn you will be free once more. Did
     you think that I could have taken your sacrifice?
     I knew well, let them say as they would, that I
     should not live the night through. But, lest
@@ -17724,8 +17647,7 @@
     gliding grey and soft, and like a living psalm of
     consolation, beside those couches of misery, bore
     with them the infinite inexpressible charm that
-    the Friend of the Flag brought to the <pb n="233"
-    /> sufferers. The Sisters were good, were gentle,
+    the Friend of the Flag brought to the <pb n="233"/> sufferers. The Sisters were good, were gentle,
     were valued as they merited by the greatest
     blackguard prostrate there; but they never smiled,
     they never took the dying heart of a man back with
@@ -17988,8 +17910,7 @@
     the cadence of its music was so silvery-sweet that
     it soothed like a spell all the fever-racked
     brains, all the pain-tortured spirits.</p>
-    <p>"Ah! that is good," murmured the dying man. <pb
-    n="241"/> "It is like the brooks—like the
+    <p>"Ah! that is good," murmured the dying man. <pb n="241"/> "It is like the brooks—like the
     birds—like the winds in the leaves."</p>
     <p>He was but half conscious; but the lulling of
     that gliding voice brought him peace. And
@@ -18316,8 +18237,7 @@
     <p>"You have vexed her, Victor," said Léon Ramon,
     as she was lost to sight through the doors of the
     great desolate chamber,</p>
-    <p>"I hope not; I do not know how," answered <pb
-    n="251"/> Cecil. "It is impossible to follow the
+    <p>"I hope not; I do not know how," answered <pb n="251"/> Cecil. "It is impossible to follow the
     windings of her wayward caprices. A child—a
     soldier—a dancer —a brigand—a spoilt beauty—a
     mischievous gamin— how is one to treat such a
@@ -18903,8 +18823,7 @@
     reverent as a child's before an altar. In her
     sight the survivor of the Army of Italy was
     sacred; sacred the eyes which, when full of light,
-    had seen the sun glitter on the squadrons <pb
-    n="269"/> of the Hussars of Murat, the Dragoons of
+    had seen the sun glitter on the squadrons <pb n="269"/> of the Hussars of Murat, the Dragoons of
     Kellerman, the Cuirassiers of Milhaud; sacred the
     hands which when nervous with youth, had borne the
     standard of the Republic victorious against the
@@ -19181,8 +19100,7 @@
     England; he remembered nothing save that he, and
     he alone, was the rightful Lord of Royallieu.</p>
     <p>" <hi>Tiens, es-tu fou, mon brave? Bois de
-    m'avoine</hi> , <ref target="#ENG18670_N34"
-    >34</ref>
+    m'avoine</hi> , <ref target="#ENG18670_N34">34</ref>
     <hi>Bel-à-faire-peur!</hi> "</p>
     <p>The coarse good-humoured challenge, as the hand
     of a broad-chested black-visaged veteran of
@@ -19196,8 +19114,7 @@
     journal clenched close in his grasp, went swiftly
     through the masses of the people out and away, he
     little noted where, till he had forced his road
-    beyond the gates, beyond the town, beyond all <pb
-    n="279"/> reach of its dust and its babble and its
+    beyond the gates, beyond the town, beyond all <pb n="279"/> reach of its dust and its babble and its
     discord, and was alone in the further outskirts,
     where to the north the calm sunlit bay slept
     peacefully with a few scattered ships riding at
@@ -19262,8 +19179,7 @@
     but as a dishonoured memory, as one whom violent
     death had well snatched from the shame of a
     criminal career.</p>
-    <p>"But who would believe me now?" he thought. <pb
-    n="281"/> "Besides, this makes no difference. If
+    <p>"But who would believe me now?" he thought. <pb n="281"/> "Besides, this makes no difference. If
     three words spoken would reinstate me, I could not
     speak them at that cost. The beginning perhaps was
     folly, but for sheer justice sake there is no
@@ -19481,8 +19397,7 @@
     error."</p>
     <p>"Error!"—a haughty surprise glanced from her
     eyes as they swept over him. Such a word had never
-    been used to her in the whole course of her <pb
-    n="288"/> brilliant and pampered life of
+    been used to her in the whole course of her <pb n="288"/> brilliant and pampered life of
     sovereignty and indulgence.</p>
     <p>"One common enough, Madame, in your Order. The
     error to suppose that under the rough cloth of a
@@ -19607,8 +19522,7 @@
     acting so munificently on my slight hint. Your
     generosity has made many happy hearts in the
     hospital."</p>
-    <p>"Generosity! Oh, do not call it by any such <pb
-    n="292"/> name! What did it cost me? We are
+    <p>"Generosity! Oh, do not call it by any such <pb n="292"/> name! What did it cost me? We are
     terribly selfish here. I am indebted to you that
     for once you made me remember those who
     suffered."</p>
@@ -19638,8 +19552,7 @@
     his comrades, of his daily life, of his harassing
     routine of duties in peace, and of his various
     experiences in war. He told her, too, of Léon
-    Ramon's history; and as she listened, he saw <pb
-    n="293"/> a mist arise and dim the brilliancy of
+    Ramon's history; and as she listened, he saw <pb n="293"/> a mist arise and dim the brilliancy of
     those eyes that men complained would never soften.
     The very fidelity with which he sketched to her
     the bitter sufferings and the rough nobility that
@@ -19764,8 +19677,7 @@
     representative of his race, although the power to
     declare himself so had been for ever abandoned and
     lost, had given him in her presence that day a
-    certain melancholy, and a certain grave <pb
-    n="297"/> dignity, that would have shown a far
+    certain melancholy, and a certain grave <pb n="297"/> dignity, that would have shown a far
     more superficial observer than she was that he had
     come of a great race, and had memories that were
     of a very different hue to the coarse and hard
@@ -19796,8 +19708,7 @@
     voice and is ill-treated by his officers!" she
     thought, with a smile, while she opened the poems
     which had that day arrived, radiant in the creamy
-    vellum, the white velvet, and the gold <pb n="298"
-    /> of a dedication copy, with the coronet of the
+    vellum, the white velvet, and the gold <pb n="298"/> of a dedication copy, with the coronet of the
     Corona d'Amägué on their binding. The poems were
     sparkling with all the grace of airy <hi>vers de
     société</hi> and elegant silvery harmonies; but
@@ -20030,13 +19941,11 @@
     <p>"Mon Caporal!"</p>
     <p>"You, Picpon? What is it?"</p>
     <p>" <hi>Mon Caporal</hi> , there is great news.
-    <hi>La danse commence là-bas</hi> ." <ref
-    target="#ENG18670_N35">35</ref></p>
+    <hi>La danse commence là-bas</hi> ." <ref target="#ENG18670_N35">35</ref></p>
     <p>"Ah! Are you sure?"</p>
     <p>"Sure, <hi>mon Caporal</hi> . The
     <hi>Arbicos</hi> want a <hi>fantasia à la
-    clarinette</hi> . <ref target="#ENG18670_N36"
-    >36</ref> We are not to know just yet: we are to
+    clarinette</hi> . <ref target="#ENG18670_N36">36</ref> We are not to know just yet: we are to
     have the <hi>ordre de route</hi> to-morrow. I
     overheard our officers say so. They think we shall
     have brisk work. And for that they will not punish
@@ -20094,8 +20003,7 @@
     <p>"Wait, <hi>mon Caporal</hi> ; I have something
     to tell you," said Picpon, quickly. "The
     <hi>zig</hi> has a motive in what he does. Rac
-    wanted to get the <hi>trou</hi> . <ref
-    target="#ENG18670_N38">38</ref> He has done more
+    wanted to get the <hi>trou</hi> . <ref target="#ENG18670_N38">38</ref> He has done more
     than one bit of mischief only for that."</p>
     <p>"Only for what? He cannot be in love with the
     <hi>trou</hi> ?"</p>
@@ -20103,8 +20011,7 @@
     mysteriously. "Did you never guess why, <hi>mon
     Caporal</hi> ? Well, I have.
     <hi>Crache-au-nez-d'la-Mort</hi> is a
-    <hi>risquetout</hi> . <ref target="#ENG18670_N39"
-    >39</ref> officers know it; the bureaux know it.
+    <hi>risquetout</hi> . <ref target="#ENG18670_N39">39</ref> officers know it; the bureaux know it.
     He would have mounted, mounted, mounted, and been
     a Captain long before now, if he had not been a
     <hi>pratique</hi> ."</p>
@@ -20116,15 +20023,13 @@
     and for promotion; but whenever they do—
     <hi>cric-crac!</hi> he goes off to a bit a
     mischief, and gets himself punished. Any
-    <hi>rabiat</hi> , <ref target="#ENG18670_N40"
-    >40</ref> long or short, serves his purpose. They
+    <hi>rabiat</hi> , <ref target="#ENG18670_N40">40</ref> long or short, serves his purpose. They
     think him too wild to take out of the ranks. You
     remember, <hi>mon Caporal</hi> , that splendid
     thing that he did five years ago at Sabasasta?
     Well, you know they spoke of promoting him for it,
     and he would have run up all the grades like a
-    squirrel, and died a <hi>Kébir</hi> , <ref
-    target="#ENG18670_N41">41</ref> I dare say. What
+    squirrel, and died a <hi>Kébir</hi> , <ref target="#ENG18670_N41">41</ref> I dare say. What
     did he do to prevent it? Why, went that escapade
     into Oran disguised as a Dervish, and got the
     <hi>trou</hi> instead."</p>
@@ -20240,8 +20145,7 @@
     first day out, or give it to the first
     <hi>moukiera</hi> that winked her black eye for
     it! The star put on my buttons suits me a deal
-    better; if you'll believe me, sir, it do." <ref
-    target="#ENG18670_N43"> 43</ref></p>
+    better; if you'll believe me, sir, it do." <ref target="#ENG18670_N43"> 43</ref></p>
     <pb n="312"/>
     <p>Cecil's eyes rested on him with a look that
     said far more than his answer.</p>
@@ -21179,8 +21083,7 @@
     still hovered above her exhausted mare, the torn
     flag was still in her left hand; and the bright
     laughter, the flash of ecstatic triumph, was still
-    in her face as she sang the last lines <pb n="23"
-    /> of her own war-chant. The leopard nature was
+    in her face as she sang the last lines <pb n="23"/> of her own war-chant. The leopard nature was
     roused in her. She was a soldier; death had been
     about her from her birth; she neither feared to
     give nor to receive it; she was proud as ever was
@@ -21405,8 +21308,7 @@
     black eyes that had glistened in such malicious
     mirth, and sparkled in such malignant mischief
     during life, were open, and had a mournful pitiful
-    serenity in their look as if from their depths <pb
-    n="30"/> the soul still gazed—that soul which had
+    serenity in their look as if from their depths <pb n="30"/> the soul still gazed—that soul which had
     been neglected and cursed, and left to wander
     amongst evil ways, yet which, through all its
     darkness, all its ignorance, had reached,
@@ -21636,8 +21538,7 @@
     where he had fallen in the van of his Zouaves,
     exposing himself with all the splendid reckless
     gallantry of France; and the soup stood unserved,
-    the wild plovers were taken by Flick-Flack, <pb
-    n="37"/> the empty dishes waited for the viands
+    the wild plovers were taken by Flick-Flack, <pb n="37"/> the empty dishes waited for the viands
     which there were no hands to prepare and no mouths
     to eat. Cigarette glanced round, and saw all with
     one flash of her eyes; then she knelt down beside
@@ -21893,8 +21794,7 @@
     murmured of—his past, and the beauty of the woman
     who had brought all the memories of that past back
     on him.</p>
-    <p>And this was Cigarette's reward—to hear him <pb
-    n="45"/> mutter wearily of the proud eyes and of
+    <p>And this was Cigarette's reward—to hear him <pb n="45"/> mutter wearily of the proud eyes and of
     the lost smile of another!</p>
     <p>The dawn came at last; her constant care and
     the skill with which she had cooled and dressed
@@ -21967,8 +21867,7 @@
     it was a bit of fun—that was all. A passion that
     had pain in it had never touched the Little One;
     she had disdained it with lightest, airiest
-    contumely. "If your dragée have a bitter <pb
-    n="48"/> almond in it, eat the sugar and throw the
+    contumely. "If your dragée have a bitter <pb n="48"/> almond in it, eat the sugar and throw the
     almond away, you goose! that is simple enough,
     isn't it? Bah! I don't pity the people who eat the
     bitter almond; not I— <hi>ce sont bien bêtes, ces
@@ -22065,8 +21964,7 @@
     <p>"How goes the day, Monsieur Victor? So you got
     sharp scratches, I hear? Ah! that was a splendid
     thing we had yesterday! When did you go down? We
-    charged together!" she cried gaily to him; <pb
-    n="51"/> then her voice dropped suddenly, with an
+    charged together!" she cried gaily to him; <pb n="51"/> then her voice dropped suddenly, with an
     indescribable sweetness and change of tone.
     "So!—you suffer still?" she asked, softly.</p>
     <p>Coming close up to where he lay on the straw,
@@ -22152,8 +22050,7 @@
     <p>"Well, what of that? He is not the less
     hungry."</p>
     <p>"What of that? Why, you were going to be turned
-    into the First Battalion <ref
-    target="#ENG18670_N45"> 45</ref> . disgraced for
+    into the First Battalion <ref target="#ENG18670_N45"> 45</ref> . disgraced for
     the affair, because you would not tell of him: if
     Vireflou had not found out the rights of the
     matter in time!"</p>
@@ -22292,8 +22189,7 @@
     hilly and more picturesque portion of the country.
     Cigarette came to the side of the temporary
     ambulance in which Cecil was placed. He was
-    asleep—sleeping for once peacefully with <pb
-    n="58"/> little trace of pain upon his features,
+    asleep—sleeping for once peacefully with <pb n="58"/> little trace of pain upon his features,
     as he had slept the previous night. She saw that
     his face and chest had not been touched by the
     stinging insect-swarm; he was doubly screened by a
@@ -22475,8 +22371,7 @@
     overlooked by brown rugged scarps of rock, stunted
     bushes on their summits, and here and there a
     maritime pine clinging to their naked slopes. At
-    sight of the food-laden little beasts, and <pb
-    n="64"/> the well-known form behind them, the
+    sight of the food-laden little beasts, and <pb n="64"/> the well-known form behind them, the
     Tirailleurs, the Indigènes, and the Zouaves, on
     whose side of the encampment she had approached,
     rushed towards her with frantic shouts, and wild
@@ -22707,8 +22602,7 @@
     news, render him so precious and so welcome an
     arrival at an encampment. The dead Biribi had been
     one of the lightest, brightest, cheeriest, and
-    sauciest of the gay, kindly, industrious <pb
-    n="71"/> wanderers of his branch of the service;
+    sauciest of the gay, kindly, industrious <pb n="71"/> wanderers of his branch of the service;
     always willing to lend, always ready to help;
     always smoking, singing, laughing, chattering;
     treating his three mules as an indulgent mother
@@ -22962,8 +22856,7 @@
     <p>"You little Anglophobist! You have the tongue
     of a Voltaire."</p>
     <p>"Voltaire?" questioned Cigarette. "Voltaire.
-    Let me see. I know that name. He was the man <pb
-    n="79"/> who championed Calas? who had a fowl in
+    Let me see. I know that name. He was the man <pb n="79"/> who championed Calas? who had a fowl in
     the pot for every poor wretch that passed his
     house? who was taken to the Panthéon by the people
     in the Revolution?"</p>
@@ -23252,8 +23145,7 @@
     their rude meal, that had to them that savour
     which long hunger alone can give. Their voices
     came dull on his ear; the ruddy warmth of the fire
-    was obscured to his sight; the din, the <pb n="88"
-    /> laughter, the stir all over the great camp, at
+    was obscured to his sight; the din, the <pb n="88"/> laughter, the stir all over the great camp, at
     the hour of dinner were lost on him. He was
     insensible to everything except the innumerable
     memories that thronged upon him, and the aching
@@ -23679,8 +23571,7 @@
     that delicious gaiety, like a kitten's play, was
     gone from her, and its place, for the first time
     in her life, was supplied by unreal and hectic
-    excitation. In truth, whilst she laughed, <pb
-    n="102"/> and coquetted, and fenced with the
+    excitation. In truth, whilst she laughed, <pb n="102"/> and coquetted, and fenced with the
     bright two-edged blade of her wit, and tossed down
     the wines into her little throat like a trooper,
     she was thinking nothing at all of what was around
@@ -25824,8 +25715,7 @@
     and bewildered her.</p>
     <p>"You fled from Philip? Ah! how you must wrong
     him! What will it matter to him whether you be
-    prince or trooper, wear a peer's robes or a <pb
-    n="170"/> soldier's uniform? His friendship never
+    prince or trooper, wear a peer's robes or a <pb n="170"/> soldier's uniform? His friendship never
     yet was given to externals. But—stay!—that reminds
     me of your inheritance. Do you know that Lord
     Royallieu is dead? that your younger brother bears
@@ -26247,8 +26137,7 @@
     hands as he bent over them:</p>
     <p>"God bless you! You were an angel of pity to me
     in your childhood; in your womanhood you give me
-    the only mercy I have known since the last <pb
-    n="183"/> day you looked upon my face! We shall be
+    the only mercy I have known since the last <pb n="183"/> day you looked upon my face! We shall be
     far sundered for ever;—may I come to you once
     more?"</p>
     <p>She paused in hesitation and in thought awhile,
@@ -26662,8 +26551,7 @@
     breathlessly to give their tribute of applause to
     their darling also, a great shout rose as with one
     voice, strong, full, echoing over and over again
-    across the plains in thunder that joined her <pb
-    n="197"/> name with the name of France and of
+    across the plains in thunder that joined her <pb n="197"/> name with the name of France and of
     Napoléon, and hurled it upward in fierce
     tumultuous idolatrous love to those cruel
     cloudless skies that shone above the dead. She was
@@ -26819,8 +26707,7 @@
     neck or a bird's wing. But these did not weigh
     with her one instant to make her withhold the
     words that she deemed deserved; these did not
-    balance against him one instant the pique and <pb
-    n="202"/> the pain of her own heart in opposition
+    balance against him one instant the pique and <pb n="202"/> the pain of her own heart in opposition
     to the due of his courage and his fortitude.</p>
     <p>Cigarette was rightly proud of her immunity
     from the weaknesses of her sex; she had neither
@@ -26851,8 +26738,7 @@
     for having spoken the name of that Chasseur who
     was yonder, out of earshot, where the lance-heads
     of his squadrons glistened against the blue skies.
-    She saw a face which, though seen but <pb n="203"
-    /> once before, she knew instantly again—the face
+    She saw a face which, though seen but <pb n="203"/> once before, she knew instantly again—the face
     of "Miladi." And she saw it change colour, and
     lose its beautiful hue, and grow grave and
     troubled as the last words passed between herself
@@ -27199,8 +27085,7 @@
     decoration on her heart which had been ever in her
     sight what the crown of wild olive and the wreath
     of summer grasses were to the youths and to the
-    victors of the old dead classic years! <pb n="214"
-    /> As she stood in solitude under the brilliancy
+    victors of the old dead classic years! <pb n="214"/> As she stood in solitude under the brilliancy
     of the stars, tears, unfamiliar and unbidden, rose
     in her eyes as they gazed over the hosts around
     her.</p>
@@ -27276,8 +27161,7 @@
     as that of the snow-white carving had done, so did
     this fair and regal beauty touch her, even in the
     midst of her fury, with a certain reverent awe,
-    with a certain dim sense of something her <pb
-    n="217"/> own life had missed. She had trodden the
+    with a certain dim sense of something her <pb n="217"/> own life had missed. She had trodden the
     ivory in pieces with all the violence of childish,
     savage, uncalculating hate, and she had been
     chidden, as by a rebuking voice, by the wreck
@@ -27376,8 +27260,7 @@
     the town, and through the shouting crowds of the
     multitudes, and tossed it out on to the sea,
     laughing still as the waves flung it out from
-    billow to billow, and the fish sucked <pb n="220"
-    /> it down to make their feast. " <hi>Voilà tes
+    billow to billow, and the fish sucked <pb n="220"/> it down to make their feast. " <hi>Voilà tes
     secondes noces!</hi> " she cried, where she stood
     and laughed by the side of the grey angry water
     watching the tresses of the floating hair sink
@@ -27534,8 +27417,7 @@
     hatred would have reigned on, and, it might have
     been, have rushed from threat to execution; but
     showing the only quality, that of courage, for
-    which she had respect, her great rival <pb n="225"
-    /> confused and disarmed her. She was only
+    which she had respect, her great rival <pb n="225"/> confused and disarmed her. She was only
     sensible, with a vivid agonising sense of shame,
     that her only cause of hatred against this woman
     was that he loved her. And this she would have
@@ -27788,8 +27670,7 @@
     its consequences might become. She felt incensed,
     amazed, irritated, to see no trace of any emotion
     come on her hearer's face: the hot, impetuous,
-    expansive, untrained nature underrated <pb n="233"
-    /> the power for self-command of the Order she so
+    expansive, untrained nature underrated <pb n="233"/> the power for self-command of the Order she so
     blindly hated.</p>
     <p>"You speak idly and at random, like the child
     you are," the <hi>grande dame</hi> answered her
@@ -28015,8 +27896,7 @@
     <p>Cigarette's flashing searching eyes bent all
     their brown light on her.</p>
     <p>"Madame Corona, you are courageous; to those
-    who are so, all things are possible." <pb n="240"
-    /> "A great fallacy! You must have seen many
+    who are so, all things are possible." <pb n="240"/> "A great fallacy! You must have seen many
     courageous men vanquished. But what would you
     imply by it?"</p>
     <p>"That you can help this man if you will."</p>
@@ -28441,8 +28321,7 @@
     Europe knowing you are living thus and leaving you
     to such a fate. What motive you have to sentence
     yourself to such eternal banishment I am ignorant;
-    but all I ask of you is, confide in him. <pb
-    n="254"/> Let him learn that you live; let him
+    but all I ask of you is, confide in him. <pb n="254"/> Let him learn that you live; let him
     decide whether or not this sacrifice of yourself
     be needed. His honour is as punctilious as that of
     any man on earth; his friendship you can never
@@ -29085,8 +28964,7 @@
     irresponsible authority to waste breath or to
     waste dignity in vain contest with the absolute
     and the immutable. He was content with what he had
-    done—content to have met once, not as soldier <pb
-    n="274"/> to chief, but as man to man, the tyrant
+    done—content to have met once, not as soldier <pb n="274"/> to chief, but as man to man, the tyrant
     who held his fate.</p>
     <p>For once, beneath the spur of that foul outrage
     to the dignity and the innocence of the woman he
@@ -30213,8 +30091,7 @@
     <p>She turned and gave him one look, infinitely
     sweet, infinitely eloquent.</p>
     <p>"Ah!—France!" she said, so softly that the word
-    was but a sigh of unutterable tenderness. The <pb
-    n="310"/> old imperishable early love was not
+    was but a sigh of unutterable tenderness. The <pb n="310"/> old imperishable early love was not
     dethroned; it was there still before all else.
     France was without rival with her.</p>
     <p>Then, without another second's pause, she flew
@@ -30311,8 +30188,7 @@
     life, she was willing to lose it if by its loss
     she did this thing, to save the man condemned to
     die with the rising of the sun. She did not spare
-    herself; and she would have spared no <pb n="313"
-    /> living thing, to fulfil the mission that she
+    herself; and she would have spared no <pb n="313"/> living thing, to fulfil the mission that she
     undertook. She loved with the passionate blindness
     of her sex, with the absolute abandonment of the
     southern blood. If to spare him she must have
@@ -30343,8 +30219,7 @@
     distended eyeballs, his neck covered with foam and
     blood, his heaving flanks that seem bursting with
     every throb that his heart gave; she knew that,
-    half a league more forced from him, and he <pb
-    n="314"/> would drop like a dead thing never to
+    half a league more forced from him, and he <pb n="314"/> would drop like a dead thing never to
     rise again. Her eyes swept over the dusky plains
     with all the horror in them of one who sees murder
     done and cannot raise his hand to ward it off: the
@@ -30705,8 +30580,7 @@
     was once more calm, as though the vacant grave
     yawning at his feet had been but a couch of down
     to rest his tired limbs. His eyes watched the
-    daylight deepen, and widen, and grow into one <pb
-    n="326"/> sheet of glowing roseate warmth; but
+    daylight deepen, and widen, and grow into one <pb n="326"/> sheet of glowing roseate warmth; but
     there was no regret in the gaze; there was a fixed
     fathomless resignation that moved with a vague
     sense of awe those who had come to slay him, and
@@ -31275,8 +31149,7 @@
     <p>"Say no more," he murmured. "It has been well
     for me that I have suffered these things. For
     yourself—if you do indeed repent and feel that you
-    owe me any debt, atone for it, and pay it by <pb
-    n="344"/> letting your own life be strong in truth
+    owe me any debt, atone for it, and pay it by <pb n="344"/> letting your own life be strong in truth
     and fair in honour."</p>
     <p>And it seemed to him that he himself had done
     no great or righteous thing in that servitude for

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18702"
-  xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18702" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ginx's Baby: His Birth and Other Misfortunes : ELTec edition</title>
-        <author ref="viaf:24837293">Jenkins, John Edward (1838-1910).</author>
+        <author ref="https://viaf.org/viaf/24837293/">Jenkins, John Edward (1838-1910).</author>
         <respStmt>
           <resp>ELTeC conversion</resp>
           <name>Lou Burnard</name>
@@ -16,8 +14,7 @@
         <p>Published as part of ELTeC <date>2020-04-28</date></p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"><title>Ginx's Baby, by Edward Jenkins</title><ref
-            target="gut:581">Gutenberg</ref>
+        <bibl type="digitalSource"><title>Ginx's Baby, by Edward Jenkins</title><ref target="http://www.gutenberg.org/files/581/581-h/581-h.htm">Gutenberg</ref>
           <respStmt>
             <resp>Produced by</resp>
             <name> Charles Keller, and David Widger</name>
@@ -25,7 +22,7 @@
         <bibl type="firstEdition" n="B8122"><title>Ginx's Baby: His Birth and Other
             Misfortunes</title><author>Jenkins, John Edward (1838-1910).</author><publisher>London:
             Alexander Strahan</publisher><date>1871</date>
-        <ref target="bod:600071699.pdf"/></bibl>
+        <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600071699.pdf"/></bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -65,10 +62,7 @@
       <div type="titlepage">    
       <p>GINX'S BABY</p>
       <p>His Birth and other Misfortunes</p>
-    <!--  
-      <p>By Edward Jenkins</p>
-      
-    -->
+    
   <p>Strahan &amp; co., publishers</p><p>56 Ludgate Hill, London</p><p>1870</p></div>
       <div type="liminal">
         <head>Preface.</head>  <quote><p>CRITIC.—I never read a more improbable story in my

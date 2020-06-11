@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19010" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19010" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Clementina : ELTeC edition</title>
-    <author ref="viaf:89734277">Mason, Alfred Edward Woodley (1865-1948)</author>
+    <author ref="https://viaf.org/viaf/89734277/">Mason, Alfred Edward Woodley (1865-1948)</author>
    </titleStmt>
    <extent>
     <measure unit="words">89033</measure>
@@ -25,7 +24,7 @@
     <bibl type="digitalSource">
      <title>The Project Gutenberg EBook of Clementina</title>
      <author>A.E.W. Mason</author>
-     <ref target="gut:13567">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/13567/13567-h/13567-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>HTML encoding</resp>
       <name>Josephine Paolucci </name>
@@ -41,7 +40,7 @@
      <title>Clementina... illustrated by Bernard Partridge</title>
      <publisher>New York: Frederick A. Stokes company.</publisher>
      <date>1901</date>
-     <ref target="ia:clementinaatale00masogoog"/>
+     <ref target="http://archive.org/details/clementinaatale00masogoog"/>
     </bibl>
    </sourceDesc>
   </fileDesc>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18400" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18400" xml:lang="en">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>The Life and Adventures of Michael Armstrong : ELTeC edition</title>
-				<author ref="viaf:34551336">Trollope, Frances Milton (1780-1863)</author>
+				<author ref="https://viaf.org/viaf/34551336/">Trollope, Frances Milton (1780-1863)</author>
 				<respStmt>
 					<resp>ELTeC conversion</resp>
 					<name>Lou Burnard</name>
@@ -33,7 +32,7 @@
 					<author>Frances Trollope</author>
 					<publisher>London: Henry Colburn, Great Marlborough Street</publisher>
 					<date>1840</date>
-					<ref target="ia:lifeadventuresof00troliala"/>
+					<ref target="http://archive.org/details/lifeadventuresof00troliala"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -816,8 +815,7 @@
 				<p> "Teddy? — who is Teddy, my little man?" inquired Lady Clarissa, graciously
 					smiling upon him; for her ladyship, at no time an ill-natured woman, was at this
 					moment in the best of all possible humours with herself, and every body else.
-					There had been various passages in what had passed between herself and Sir <pb
-						n="18"/> Matthew, during this most delightful walk, which convinced her that
+					There had been various passages in what had passed between herself and Sir <pb n="18"/> Matthew, during this most delightful walk, which convinced her that
 					the knight, notwithstanding the homage he paid to her rank, could not wholly
 					resist the fascinations of her person, talents, and manners; — and the
 					conviction pleased her. But let not the character of this noble lady be for a
@@ -4979,8 +4977,7 @@
 					idiot looking slatterns that we mostly get at the mill, I'll bet what you please
 					that I should never hate the sight of a girl, as I do the sight of this
 					boy."</p>
-				<p> "Very likely not, Sir Matthew," replied the doctor, laughing immoderately. <pb
-						n="117"/> "But what would my lady say? And what would all the other ladies
+				<p> "Very likely not, Sir Matthew," replied the doctor, laughing immoderately. <pb n="117"/> "But what would my lady say? And what would all the other ladies
 					say? No, no, leave that alone, and make up your mind to let the boy have the run
 					of the house for a month or two; after which you may send him to the devil if
 					you will; for the good will be done, and the boy himself forgotten." </p>
@@ -5697,8 +5694,7 @@
 					pressing forward, dropped on her knees beside the bed, and throwing her two arms
 					over the emaciated body, remained with streaming eyes that rested piteously on
 					the face of her mother. The second girl looked on, till by degrees her heavy
-					countenance appeared to stiffen into horror, and she too drew near, <pb n="134"
-					/> but with distended and tearless eyes, that seemed to speak more of fear than
+					countenance appeared to stiffen into horror, and she too drew near, <pb n="134"/> but with distended and tearless eyes, that seemed to speak more of fear than
 					love. </p>
 				<p>Mrs. Tremlett looked anxiously into the face of her charge. It was deadly pale,
 					and wore an expression of solemnity so new and strange, that the good woman
@@ -5869,8 +5865,7 @@
 					thousands upon thousands, and acres upon acres, by the secret mysteries of their
 					wonderful compound of human and divine machinery, do rarely or never take their
 					way into the dwellings that shelter and that hide the sufferings of their
-					operatives. Nothing is so distasteful to a truly elegant mill-owner as <pb
-						n="138"/> any allusion, domestic or foreign, gossiping or professional,
+					operatives. Nothing is so distasteful to a truly elegant mill-owner as <pb n="138"/> any allusion, domestic or foreign, gossiping or professional,
 					religious or political, to his factory, or his factory people; and the gay
 					fatherly phrase, "Don't talk of that, for God's sake, my dear! — it smells of
 					the shop," has turned away many innocent eyes from contemplating that, which had
@@ -6220,8 +6215,7 @@
 						<hi>kind to little Michael</hi> ," but her honest heart would not let her
 					pronounce the words; so she changed the phrase, and went on with "very desirous
 					of being really useful to Michael, has commissioned me, Mrs. Armstrong, to ask
-					you if you do not think it would be more profitable and advantageous to <pb
-						n="146"/> him to be apprenticed to some good trade, the stocking-weaving for
+					you if you do not think it would be more profitable and advantageous to <pb n="146"/> him to be apprenticed to some good trade, the stocking-weaving for
 					instance, than to run about our house any longer? Papa says, he fears it will
 					give him habits of idleness which he may be the worse for all his life — and
 					that would be quite contrary to his wishes, which have always been that he
@@ -6389,8 +6383,7 @@
 					deal, for her father was an anti-(black)-slavery man, who subscribed to the
 					African society, and the missionary fund; drank Mr. Wilberforce's health after
 					dinner whenever he had company at his table; and while his own mills daily sent
-					millions of groans to be registered in heaven from joyless young hearts <pb
-						n="150"/> and aching infant limbs, he rarely failed to despatch with nearly
+					millions of groans to be registered in heaven from joyless young hearts <pb n="150"/> and aching infant limbs, he rarely failed to despatch with nearly
 					equal regularity (all booked for the same region) a plentiful portion of
 					benevolent lamentations over the sable sons of Africa, all uttered comfortably
 					from a soft arm-chair, while digestion was gently going on, and his well-fed
@@ -6902,8 +6895,7 @@
 				<p>"Poor soul!" said he. "How natural is this weakness! Give her, by your advice,
 					the strength she wants, Martha — it is the most valuable gift you can
 					bestow!"</p>
-				<p> "Indeed papa is very right, Mrs. Armstrong," said Martha cheerfully. <pb n="162"
-					/> "Michael will never forgive me if I let you throw away this golden
+				<p> "Indeed papa is very right, Mrs. Armstrong," said Martha cheerfully. <pb n="162"/> "Michael will never forgive me if I let you throw away this golden
 					opportunity." </p>
 				<p>"And I am sure I should never forgive myself if I threw away for him any thing
 					that you could call so, my dear young lady, — I know full well all you have done
@@ -7717,8 +7709,7 @@
 					of the hills it so happens, that it is possible to wander for hours over their
 					summits, without discovering it; one undulation rising beyond another, so as to
 					blend together beneath the eye, leaving no opening by which this strip of
-					water-level in their very centre, can be discerned. <ref target="#ENG18400N3"
-						>[3]</ref>
+					water-level in their very centre, can be discerned. <ref target="#ENG18400N3">[3]</ref>
 				</p>
 				<pb n="181"/>
 				<p>For about another half mile, the narrow cart-road runs beside the stream without
@@ -7848,8 +7839,7 @@
 					the walls. Poor Michael lay as motionless as the rest, but he was not sleeping.
 					Disappointment, fearful forebodings, and excessive nausea, all conspired to
 					banish this only blessing that an apprenticed factory child can know.</p>
-				<p> He had already laboured, poor fellow, for nearly half his little life, <pb
-						n="184"/> and that under most hard and unrelenting masters; but till now, he
+				<p> He had already laboured, poor fellow, for nearly half his little life, <pb n="184"/> and that under most hard and unrelenting masters; but till now, he
 					had never known how very wretched his young thoughts could make him. His
 					mother's fond caresses, and his brother's fervent love, had in spite of toil,
 					and sometimes in spite of hunger, cheered and comforted the last moments of
@@ -8759,8 +8749,7 @@
 					a legal one, begin to fear that mercy will be clamoured for with very dangerous
 					rudeness, before the parliament of England shall have roused up it wisdom to the
 					task of affording it.</p>
-				<p> "And in what way, Mr. Bell, is it wished, or hoped, that the legislature <pb
-						n="205"/> should step forward to cure this dreadful evil? Is it proposed to
+				<p> "And in what way, Mr. Bell, is it wished, or hoped, that the legislature <pb n="205"/> should step forward to cure this dreadful evil? Is it proposed to
 					abolish the use of machinery?" </p>
 				<p>Mr. Bell smiled, and shook his head.</p>
 				<p>"You perhaps think," said he, "that there is a great disproportion between my
@@ -8890,8 +8879,7 @@
 					on this subject. Documents are not wanting, my dear Miss Brotherton, to prove
 					that all, or nearly all, that private individuals can do, in the way of petition
 					and remonstrance, has been already tried; nor are we yet without hope that good
-					may come of it. But it must be long, and perhaps the longer the better, ere <pb
-						n="208"/> your young head and innocent heart, can conceive our difficulties.
+					may come of it. But it must be long, and perhaps the longer the better, ere <pb n="208"/> your young head and innocent heart, can conceive our difficulties.
 					You would hardly believe the ingenious devices to which frightened avarice can
 					have recourse in order to retard, mutilate, and render abortive a measure having
 					for its object a reduction of profits, with no equivalent save the beholding
@@ -8934,8 +8922,7 @@
 					generous benevolence, I cannot in conscience tell you that it is in your power
 					effectually to assist them. That you may save your own excellent heart from the
 					palsy of hopeless and helpless pity, by the indulgence of your benevolence in
-					individual cases of distress, I need not point out to you; but that any <pb
-						n="209"/> of the ordinary modes of being useful on a larger scale, such as
+					individual cases of distress, I need not point out to you; but that any <pb n="209"/> of the ordinary modes of being useful on a larger scale, such as
 					organising schools, founding benefit societies, or the like, could be of any use
 					to beings so crushed, so toil-worn, and so degraded, it would be idle to hope." </p>
 				<p>Miss Brotherton now rose to depart — but as she extended her hand, and began to
@@ -9748,8 +9735,7 @@
 					any feeling stop us till we have restored Michael Armstrong to his mother."</p>
 				<p>"Restore him!" sobbed Martha. "Alas! Miss Brotherton, the poor woman herself has
 					prevented the possibility of that! Do you not know that he is apprenticed?"</p>
-				<p> "Let us but know <hi>where</hi> he is, Martha, and if the situation be one <pb
-						n="228"/> that his mother can reasonably disapprove, there can be little
+				<p> "Let us but know <hi>where</hi> he is, Martha, and if the situation be one <pb n="228"/> that his mother can reasonably disapprove, there can be little
 					doubt but means may be taken to release him. Teach us but where to find him,
 					dearest Martha," cried Mary fervently, "and we will all pray for blessings on
 					your head!" </p>
@@ -9920,8 +9906,7 @@
 				<p>"But how, my dear young lady, could you represent yourself with any face of
 					probability as interested in the inquiries you would have to make?" demanded Mr.
 					Bell.</p>
-				<p> "Methinks, Mr. Bell," replied Mary, colouring with her own enthusiasm, <pb
-						n="232"/> — "methinks I could carry through an enterprise which had the
+				<p> "Methinks, Mr. Bell," replied Mary, colouring with her own enthusiasm, <pb n="232"/> — "methinks I could carry through an enterprise which had the
 					recovery of little Michael for its object, with a degree of diplomatic skill
 					that would surprise you. It should not be by downright and direct inquiry that I
 					should proceed. Where such inquiry would be likely to excite suspicion, I would
@@ -9963,8 +9948,7 @@
 					before, only carrying with us a small travelling-trunk or so, such as would be
 					necessary if we were going to pass a week with you. On the following morning we
 					would set off by the — coach, in which you will secure places for us. At — we
-					will order dinner and beds, like any other travellers, and inquire of <pb
-						n="233"/> the waiter what will be the best way of getting a sight of the
+					will order dinner and beds, like any other travellers, and inquire of <pb n="233"/> the waiter what will be the best way of getting a sight of the
 					factories." </p>
 				<p>"And he will tell you that such and such factories — naming precisely those in
 					which there would not be the slightest chance of finding the boy — may be seen
@@ -10172,8 +10156,7 @@
 				<p> Fortunately, they were near the door of the room, and Mrs. Tremlett, urging her
 					steps forward, now brought her to an open window outside it. The fresh air, so
 					carefully excluded within, <ref target="#ENG18400N4">[4]</ref> soon revived her:
-					the colour returned to her lips, and having remained silently inhaling <pb
-						n="238"/> the breeze for another minute or two, she signified her wish to
+					the colour returned to her lips, and having remained silently inhaling <pb n="238"/> the breeze for another minute or two, she signified her wish to
 					proceed. </p>
 				<p>"Not now, Mary! Pray, not now!" said the frightened Mrs. Tremlett. "Indeed,
 					indeed, you have not strength for it!"</p>
@@ -10260,8 +10243,7 @@
 					than those they had seen before; nevertheless Mary failed not, when taking leave
 					of their conductor, to request permission to attend the Sunday-school on the
 					morrow.</p>
-				<p> "Certainly!" was the reply, pronounced in a tone as clearly announcing <pb
-						n="240"/> the speaker's connexion with the party self-styled evangelical, as
+				<p> "Certainly!" was the reply, pronounced in a tone as clearly announcing <pb n="240"/> the speaker's connexion with the party self-styled evangelical, as
 					the broadest Irish brogue does the birthright of the speaker to call himself a
 					son of the Emerald Isle. "Certainly! the Lord forbid that Christian women should
 					ask to be present at the doings of the godly and be refused!" </p>
@@ -11372,8 +11354,7 @@
 				<p>"I will not loiter to amuse myself," replied her young mistress with a cheering
 					smile; "and now take my place, and let this poor little head rest on your
 					shoulder."</p>
-				<p> "She shall lie down on that bit of level turf yonder, with her head <pb n="266"
-					/> upon my lap," said the old nurse, tenderly assisting Mary to lift her up. </p>
+				<p> "She shall lie down on that bit of level turf yonder, with her head <pb n="266"/> upon my lap," said the old nurse, tenderly assisting Mary to lift her up. </p>
 				<p>"God bless you, my dear good soul! I will be quickly back again," replied her
 					grateful mistress. "How much more you show you love me now, than if you insisted
 					upon walking after me. There! she lies as nicely as if she were in bed. If our
@@ -13023,9 +13004,7 @@
 					acquirement, and having had his first infant stretch of thought happily and
 					indelibly directed, though with primeval simplicity, to one God and father of
 					all, his transition from a condition in which "Scarcely could you fancy that a
-					gleam Could break from out those languid eyes," <ref target="#ENG18400N6"
-						>[6]</ref> to one "Sublime from present purity and joy," <ref
-						target="#ENG18400N7">[7]</ref> was rapid and delightful. His heavy losses
+					gleam Could break from out those languid eyes," <ref target="#ENG18400N6">[6]</ref> to one "Sublime from present purity and joy," <ref target="#ENG18400N7">[7]</ref> was rapid and delightful. His heavy losses
 					were not forgotten; but while he meditated beneath the bright arch of heaven on
 					the mother and the brother he had so fondly loved, there were so many sublime
 						<pb n="305"/> and hope-inspiring thoughts mixed with his sorrow, that it
@@ -13155,8 +13134,7 @@
 					among them — and whether his old tyrant, Parsons, was still their chief, — the
 					gates opened, and one of the engine-men, a grizzly fellow, whom he well
 					remembered when his sable hair was somewhat less silvered, came forth.</p>
-				<p> He gave Michael a look, that very plainly said, "What do <hi>you</hi> want?" <pb
-						n="308"/> and in truth, his neat appearance, unstained skin, and free
+				<p> He gave Michael a look, that very plainly said, "What do <hi>you</hi> want?" <pb n="308"/> and in truth, his neat appearance, unstained skin, and free
 					unshrinking eye, very naturally suggested the idea that he could have no
 					business there. </p>
 				<p>"Is Mr. Parsons within?" said Michael boldly, and daring the inquiry as much
@@ -14535,8 +14513,7 @@
 					distance from him. He had by no means settled to his satisfaction the question
 					of whether he ought, or ought not, to strip the generous Martha of her little
 					hoard when she again appeared. But she looked hurried and out of breath.</p>
-				<p> "Make haste, Michael, dear Michael!" she said, with much agitation. <pb n="340"
-					/> "For pity's sake let me not be again plunged in all the misery of
+				<p> "Make haste, Michael, dear Michael!" she said, with much agitation. <pb n="340"/> "For pity's sake let me not be again plunged in all the misery of
 					self-reproach from which I have so recently escaped. Take this parcel, Michael!
 					Nay, never stay to count them! My father has left his room — may have inquired
 					for me — and even now be following me. Bless you, Michael! Bless you! Go, go,
@@ -15052,8 +15029,7 @@
 					Don't think me such a brute! I would not leave you just yet, for the whole
 					world! You shall go yourself, my dear, if you will, and bring her ladyship up. I
 					will stay here as quiet as a mouse, and watch by your poor papa. But perhaps it
-					might be as well to desire that young man to finish with his scribbling, <pb
-						n="352"/> and get out of the room. He must have gone over every thing by
+					might be as well to desire that young man to finish with his scribbling, <pb n="352"/> and get out of the room. He must have gone over every thing by
 					this time, mustn't he?" </p>
 				<p>"I will have her right honourable ladyship here before that fellow stirs a step,
 					Martha. Do you hear me? That's more than half the fun," cried Sir Matthew,
@@ -15181,8 +15157,7 @@
 					that my poor father ought to be alone. It is very important — fearfully
 					important, I am afraid — that he should be kept perfectly quiet! Give me leave
 					to wish you good morning."</p>
-				<p> "I must say that it does seem very odd in you, Miss Martha, to persist <pb
-						n="355"/> in calling me <hi>company</hi> . Good gracious! To think of the
+				<p> "I must say that it does seem very odd in you, Miss Martha, to persist <pb n="355"/> in calling me <hi>company</hi> . Good gracious! To think of the
 					terms on which I have always been in this house before your poor papa's
 					unfortunate marriage! I cannot and I will not leave you in such a condition. It
 					would be perfectly monstrous, and every body would call me a brute for it. Till
@@ -16278,8 +16253,7 @@
 					rejoiced heartily to find that she was wrong as to the subject on which she had
 					suspected he wished to speak. Had she been right in her conjecture, all she
 					could have done would have been to endow the boy and girl with such a portion of
-					her wealth as might have sufficed to make them independent; but under such <pb
-						n="381"/> circumstances, all notion of essential improvement must of course
+					her wealth as might have sufficed to make them independent; but under such <pb n="381"/> circumstances, all notion of essential improvement must of course
 					be abandoned for ever, and for many reasons this would have been a source of
 					lasting regret to her. It was therefore with cordial approbation that after the
 					interval of a few moments, she replied, "Michael, you are right. Nature has done
@@ -16445,8 +16419,7 @@
 					heart to her, and do for his guilty, but suffering brother, what it was evident
 					he had not courage to do for himself. In pursuance of this resolution, he again
 					sought the heiress, and whispered in her ear, "Mary! — will you let me talk to
-					you a little more?" She eagerly complied with the implied invitation, <pb
-						n="385"/> and passing her arm through his, accompanied him to the scene of
+					you a little more?" She eagerly complied with the implied invitation, <pb n="385"/> and passing her arm through his, accompanied him to the scene of
 					their former <hi>tête-à-tête</hi> . </p>
 				<p>There was no shyness on the part of Michael. The familiar appellation he had used
 					was not assumed for the purpose of proving his obedience, but resulted from a

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18931"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18931" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Ships that Pass in the Night : ELTec edition</title>
-    <author ref="viaf:10209589">Harraden, Beatrice (1864-1936).</author>
+    <author ref="https://viaf.org/viaf/10209589/">Harraden, Beatrice (1864-1936).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -18,10 +16,10 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>Project Gutenberg's Ships That Pass In The Night, by Beatrice
       Harraden</title>
-     <ref target="gut:12476">Gutenberg</ref></bibl>
+     <ref target="http://www.gutenberg.org/files/12476/12476-h/12476-h.htm">Gutenberg</ref></bibl>
     <bibl type="firstEdition" n="B13385"><title>Ships that pass in the Night</title><author>Beatrice
       Harraden </author><publisher>London: Lawrence and Bullen</publisher><date>1893</date>
-    <ref target="ia:shipsthatpassi00harr.pdf"/></bibl>
+    <ref target="http://archive.org/details/shipsthatpassi00harr.http://archive.org/details/pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

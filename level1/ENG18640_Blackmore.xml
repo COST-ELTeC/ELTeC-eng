@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Clara Vaughan : ELTeC edition</title>
-                <author ref="viaf:59105182">Blackmore, Richard Doddridge (1825-1900)</author>
+                <author ref="https://viaf.org/viaf/59105182/">Blackmore, Richard Doddridge (1825-1900)</author>
                 <respStmt>
                     <resp>HTML encoding</resp>
                     <name>Al Haines</name>
@@ -32,17 +31,17 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource"><title>Clara Vaughan by R.D. Blackmore (3 volumes)</title>
-                    <ref target="gut:41020">Gutenberg: vol 1</ref>; 
-                 <ref target="gut:41021">Gutenberg: vol 2</ref>; 
-                 <ref target="gut:41022">Gutenberg: vol 3</ref> 
+                    <ref target="http://www.gutenberg.org/files/41020/41020-h/41020-h.htm">Gutenberg: vol 1</ref>; 
+                 <ref target="http://www.gutenberg.org/files/41021/41021-h/41021-h.htm">Gutenberg: vol 2</ref>; 
+                 <ref target="http://www.gutenberg.org/files/41022/41022-h/41022-h.htm">Gutenberg: vol 3</ref> 
                 </bibl>
                 <bibl type="firstEdition" n="B120"><author>R.D. Blackmore</author><title>Clara
                         Vaughan. A novel in three volumes</title>
                     <publisher> MACMILLAN AND CO.</publisher>
                     <date>1864</date>
-                    <ref target="bod:600058244.pdf">vol 1</ref>;
-                    <ref target="bod:600058245.pdf">vol 2</ref>;
-                    <ref target="bod:600058246.pdf">vol 3</ref>
+                    <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058244.pdf">vol 1</ref>;
+                    <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058245.pdf">vol 2</ref>;
+                    <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058246.pdf">vol 3</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -150,8 +149,7 @@
                             attacks will be milder, and the intervals longer, when she has turned
                             fourteen. For the intellect you need have no fear whatever. Only keep
                             her quiet, and never force her to learn. She must only learn when it
-                            comes as it were with the wind. She will never forget what she <hi
-                                rend="italic">does</hi> learn."</p>
+                            comes as it were with the wind. She will never forget what she <hi rend="italic">does</hi> learn."</p>
                         <p>Hereupon, unless I am much mistaken, my father and mother fell to and
                             kissed and hugged one another, and I heard a sound like sobbing; then
                             they caught me up, and devoured me, as if I were born anew; and staring
@@ -378,8 +376,7 @@
                             follow me. The Gloucester physician said that since the disease of my
                             mind had taken that shape, it would be more dangerous to thwart than to
                             indulge it.</p>
-                        <p>It was the evening of the third day, and weary with but never <hi
-                                rend="italic">of</hi> my search, I was groping down the great
+                        <p>It was the evening of the third day, and weary with but never <hi rend="italic">of</hi> my search, I was groping down the great
                             oak-staircase in the dusk, hand after hand, and foot by foot, when
                             suddenly the main door-bell rang. The snow was falling heavily, and had
                             deadened the sound of wheels. At once I slid (as my father had taught me
@@ -1511,8 +1508,7 @@
                             worded; neither did it contain those powers to meet family exigencies,
                             which I am told a proper practitioner would have inserted.</p>
                         <p>There was no reason to suppose that the testator had contemplated
-                            anything more than a strict settlement of the usual kind, <hi
-                                rend="italic">i.e.</hi> a common estate entail, expectant upon a
+                            anything more than a strict settlement of the usual kind, <hi rend="italic">i.e.</hi> a common estate entail, expectant upon a
                             life-interest; and under which I should have succeeded my father, as his
                             heiress, in the ordinary course. But it is the chief fault of smatterers
                             in the law (and country attorneys at that time were no better) that they
@@ -1678,8 +1674,7 @@
                             minute's command of my faculties, I would have sold them for ever; but I
                             felt them ebbing from me, as the life does from a wound. The hemispheres
                             of my brain were parting one from the other, and a grey void spreading
-                            between them. I tried to think, but could not. I strove to say <hi
-                                rend="italic">anything</hi>, but failed. Fainter and fainter grew
+                            between them. I tried to think, but could not. I strove to say <hi rend="italic">anything</hi>, but failed. Fainter and fainter grew
                             the room, the lamp, the ceiling, the face at which I tried to look.
                             Things went to and fro with a quicker quiver, like flame in the wind,
                             then, round and round like whirling water; my mouth grew stiff, and the
@@ -7444,8 +7439,7 @@
                             slept with that beneath my pillow for fear the priest should get it.
                             Lord, how they did fight over the poor old lady's rags and bones, that
                             leathery priest and three yellow kites of cousins, they said they was,
-                            as come from Portugal. At last they got a ministration<ref
-                                target="#ENG18640_N6"/> with the testament and text, and they robbed
+                            as come from Portugal. At last they got a ministration<ref target="#ENG18640_N6"/> with the testament and text, and they robbed
                             me shameful, shameful, my good friend. Never catch me going to mass
                             again, or you may tell me of it."</p>
 
@@ -9890,8 +9884,7 @@
                             and gonfalon, and she could see bright cavalcades winding through the
                             greenwood shade. In "coat and waistcoat" novels her soul took no
                             delight. Not a shilling would she squeeze from her little beaded purse
-                            for all the quicksilver of Dickens, or the frosted gold<ref
-                                target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
+                            for all the quicksilver of Dickens, or the frosted gold<ref target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
                             what fast young ladies call a "spooney;" she had plenty of common sense
                             upon the things of daily life, plenty of general information, and no
                             lack of gentle self-respect.</p>
@@ -10827,8 +10820,7 @@
                         </quote>
                         <p rend="pfirst">The Corsicans, on the contrary, have always been famous for
                             candour, whose very soul is truth, and for superstition, the wen or hump
-                            of religion. For my own part, loving not that unprincipled<ref
-                                target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
+                            of religion. For my own part, loving not that unprincipled<ref target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
                             islanders entertain a like antipathy, and loving much any freedom not
                             hostile to my own, I got on with the natives admirably, for a certain
                             time. Time had reconciled me to their custom of carrying, instead of
@@ -15112,8 +15104,7 @@
                             cross. My gaze was rivetted on a pair of boots, fixed in a ledge with
                             horse-shoe bays; on the sole of one I perceived a cross of metal inlaid;
                             I drew nearer to see it more closely, when something fell over my head.
-                            All down me, and round me, and twisted behind in a tight <hi
-                                rend="italic">tourniquet</hi>, before I could guess what it was. I
+                            All down me, and round me, and twisted behind in a tight <hi rend="italic">tourniquet</hi>, before I could guess what it was. I
                             am not weak, for a girl; but I could no more lift my arms than a swathed
                             mummy can. Neither could I kick, although as a child I had been famous
                             for that accomplishment; if I lifted either foot, I must tumble
@@ -15982,8 +15973,7 @@
                             ought to be very thankful, and what's more, I am. All of you likes Miss
                             Lily, unless they tell me stories, John.' 'Sir,' says I, 'we wusships
                             her, though not like our own Miss Vaughan.'"</p>
-                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi
-                                rend="italic">ex post facto</hi>?</p>
+                        <p>Ah, John Hoxton, did you say that to him, I wonder, or interpolate, <hi rend="italic">ex post facto</hi>?</p>
                         <p>"So he looked very pleased at that, Miss, and he says again, 'John, let
                             all that love her know that she is the living image of her mother. Now
                             go and send her quickly; but John, take care not to frighten my little

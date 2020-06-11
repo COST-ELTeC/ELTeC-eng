@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18820">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18820">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
                                                 <title>Vice Versa: or, A Lesson to Fathers : ELTeC
                                                   edition</title>
-                                                <author ref="viaf:69063398">Anstey, F. [pseud.]
+                                                <author ref="https://viaf.org/viaf/69063398/">Anstey, F. [pseud.]
                                                   (1856-1934)</author>
                                                 <respStmt>
                                                   <resp>ELTeC conversion</resp>
@@ -22,17 +21,12 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>The Project
@@ -41,14 +35,13 @@
                                                   <resp>Original data capture</resp>
                                                   <name>David Clarke, Martin Pettit and the Online
                                                   Distributed Proofreading Team</name>
-                                                  </respStmt><ref target="gut:26853"
-                                                  >Gutenberg</ref></bibl>
+                                                  </respStmt><ref target="http://www.gutenberg.org/files/26853/26853-h/26853-h.htm">Gutenberg</ref></bibl>
                                                 <bibl type="printSource" n="B9340"><title>Vice
                                                   Versa: or, A Lesson to
                                                   Fathers</title><author>Anstey, F. [pseud.]
                                                   (1856-1934).</author><publisher>London: Smith,
                                                   Elder</publisher><date>1882</date>
-                                                <ref target="bod:503310642.pdf"/></bibl>
+                                                <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503310642.pdf"/></bibl>
                                     </sourceDesc>
                         </fileDesc>
                         <encodingDesc n="eltec-1">
@@ -64,15 +57,10 @@
                                                 </keywords>
                                     </textClass>
                                     <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="M"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="medium"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="high"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T3"/>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
@@ -1480,8 +1468,7 @@
                                                   place; and now he, Paul Bultitude, the
                                                   widely-respected merchant of Mincing Lane, a man
                                                   of means and position, was being ignominiously
-                                                  packed off to school as if he were actually<pb
-                                                  n="35"/> the schoolboy some hideous juggle had
+                                                  packed off to school as if he were actually<pb n="35"/> the schoolboy some hideous juggle had
                                                   made him appear!</p>
                                                 <p>It was only with a violent effort that he could
                                                   succeed in commanding his thoughts sufficiently to
@@ -2995,8 +2982,7 @@
                                                   forgetfulness. It was not till the dull grey light
                                                   of morning was glimmering through the blinds that
                                                   Mr. Bultitude awoke to his troubles.</p>
-                                                <p>The room was bitterly cold, and he remained <pb
-                                                  n="70"/>shivering in bed for some time, trying to
+                                                <p>The room was bitterly cold, and he remained <pb n="70"/>shivering in bed for some time, trying to
                                                   realise and prepare for his altered condition.</p>
                                                 <p>He was the only one awake. Now and then from one
                                                   of the beds around a boy would be heard talking in
@@ -3080,8 +3066,7 @@
                                                   plaintively. "I—I thought perhaps you'd be glad to
                                                   see me. You were once. And—and—when you went away
                                                   last you asked me to—to—kiss you, and I did, and I
-                                                  wish I hadn't. And you gave me a ginger<pb n="72"
-                                                  /> lozenge with your name written on it in lead
+                                                  wish I hadn't. And you gave me a ginger<pb n="72"/> lozenge with your name written on it in lead
                                                   pencil, and I gave you a cough-lozenge with mine;
                                                   and you said it was to show that you were my
                                                   sweetheart and I was yours. But I suppose you've
@@ -3341,8 +3326,7 @@
                                                   the corner, who should we see coming straight down
                                                   on us but a Proctor with his bull-dogs (not dogs,
                                                   you know, but the strongest 'gyps' in college).
-                                                  Bosher said, 'Let's cut it!' and he and<pb n="78"
-                                                  /> Peebles bolted. (They were neither of them
+                                                  Bosher said, 'Let's cut it!' and he and<pb n="78"/> Peebles bolted. (They were neither of them
                                                   funks, of course, but they lost their heads.) I
                                                   went calmly on, smoking my cigar as if nothing was
                                                   the matter. That put the Proctor in a bait, I can
@@ -3726,8 +3710,7 @@
                                                 <p>"I've—ah—every reason to fear," said Mr.
                                                   Bultitude stiffly, "that I am indeed going to
                                                   'catch it,' as you call it."</p>
-                                                <p>"Hooray!" shouted Coggs hysterically: "I don't<pb
-                                                  n="87"/> care now. And I'll have some revenge on
+                                                <p>"Hooray!" shouted Coggs hysterically: "I don't<pb n="87"/> care now. And I'll have some revenge on
                                                   my own account as well. I don't mind an extra
                                                   licking, and you're in for one as it is. Will you
                                                   stand up to me or not?"</p>
@@ -3810,8 +3793,7 @@
                                                   householder! This is no place for me, and I appeal
                                                   to you to set me free. If you only knew one
                                                   tenth——"</p>
-                                                <p>"Let us understand one another, Bultitude," <pb
-                                                  n="89"/>interrupted the Doctor. "You may think it
+                                                <p>"Let us understand one another, Bultitude," <pb n="89"/>interrupted the Doctor. "You may think it
                                                   an excellent joke to talk nonsense to me like
                                                   this. But let me tell you there is a point where a
                                                   jest becomes an insult. I've spared you hitherto
@@ -4244,8 +4226,7 @@
                                                   (Very nice, Miss Grimstone!) More
                                                   '<hi>abandon</hi>,' Chawner! Lift the feet more
                                                   from the floor. Not so high as that! Oh, dear me!
-                                                  that last figure over again. And slide the<pb
-                                                  n="99"/> feet, oh, slide the feet! (Bultitude,
+                                                  that last figure over again. And slide the<pb n="99"/> feet, oh, slide the feet! (Bultitude,
                                                   you're leaving out all the steps!")</p>
                                                 <p>Paul was dragged, unwilling but unresisting,
                                                   through it all by his partner, who jerked and
@@ -4547,8 +4528,7 @@
                                                   expressions. But, at all events, you come back
                                                   here an altogether different being. Am I right in
                                                   saying so?"</p>
-                                                <p>"Perfectly," said Paul, overjoyed at being so<pb
-                                                  n="106"/> thoroughly understood, "perfectly.
+                                                <p>"Perfectly," said Paul, overjoyed at being so<pb n="106"/> thoroughly understood, "perfectly.
                                                   You're a very intelligent young man, sir. Shake
                                                   hands. Why, I shouldn't be surprised, after that,
                                                   if you knew how it all happened?"</p>
@@ -9069,8 +9049,7 @@
                                                   leisure here, and thought to put by a part to
                                                   devour in secret at a future time. It's a most
                                                   painful exhibition of pure piggishness. There
-                                                  shall be no pocketing at this table, sir.<pb
-                                                  n="211"/> You will eat that pudding under my eye
+                                                  shall be no pocketing at this table, sir.<pb n="211"/> You will eat that pudding under my eye
                                                   at once, and you will stay in and write out French
                                                   verbs for two days. That will put an end to any
                                                   more gorging in the garden for a time, at
@@ -9799,8 +9778,7 @@
                                                   this second ark of refuge, even though he did
                                                   bruise his legs over the broom-handles; he was
                                                   gladder still by-and-by, when he heard a rapid
-                                                  heavy footfall outside, and a voice he<pb n="228"
-                                                  /> knew only too well, saying, "I want to see the
+                                                  heavy footfall outside, and a voice he<pb n="228"/> knew only too well, saying, "I want to see the
                                                   station-master. Ha, there he is. Good evening,
                                                   station-master, you know me—Dr. Grimstone, of
                                                   Crichton House. I want you to assist me in a very
@@ -10532,8 +10510,7 @@
                                                   hoped not" (Eliza having apparently tossed her
                                                   head); "but do you remember that afternoon last
                                                   week as master stayed at home a-playin' games with
-                                                  the children? I was a-goin' upstairs to<pb n="245"
-                                                  /> fetch my thimble, and there, on the bedroom
+                                                  the children? I was a-goin' upstairs to<pb n="245"/> fetch my thimble, and there, on the bedroom
                                                   landin', was master all alone, with one of Master
                                                   Dick's toy-guns in his 'and, and a old slouch 'at
                                                   on his head.</p>
@@ -10957,8 +10934,7 @@
                                                   return: a man with nerve and his fair share of
                                                   brains, like myself, only wants a capitalist (he
                                                   need not be a millionaire) at his back to conquer
-                                                  the world. It's not by any means my first<pb
-                                                  n="255"/> campaign, and I've had my reverses, but
+                                                  the world. It's not by any means my first<pb n="255"/> campaign, and I've had my reverses, but
                                                   I see victory in my grasp, sir, in my grasp at
                                                   last!"</p>
                                                 <p>Paul groaned.</p>
@@ -12267,8 +12243,7 @@
                                                   who became her humble slave for a too brief
                                                   period; after which he was found wanting in
                                                   polish, and was ignominiously thrown over for the
-                                                  shy new boy Kiffin, whose head Dick found a<pb
-                                                  n="286"/> certain melancholy pleasure in punching
+                                                  shy new boy Kiffin, whose head Dick found a<pb n="286"/> certain melancholy pleasure in punching
                                                   in consequence.</p>
                                                 <p>This was Dick's punishment, and a very real and
                                                   heavy one he found it. He is at Harrow now, where

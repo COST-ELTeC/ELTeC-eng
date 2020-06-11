@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18701">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18701">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Esther West: a Story : ELTeC edition</title>
-    <author ref="viaf:121952028">Craig, Isa (1831-1903)</author>
+    <author ref="https://viaf.org/viaf/121952028/">Craig, Isa (1831-1903)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -30,7 +29,7 @@
     </bibl>
     <bibl type="printSource" n="B12043"><title>Esther West: a Story</title><author>Isa
       Craig-Knox</author><publisher>London: Cassell &amp; co</publisher><date>1870</date>
-     <ref target="bod:600069685.pdf"/></bibl>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600069685.pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -4701,8 +4700,7 @@
      any one who loved her could have detected a change for the worse.  Her father did, and so did
      Constance; Milly did not, for she was engaged in baby worship all the time of Kate's first
      visit, and then Kate had softened even to tears over her little nephew, and had quite satisfied
-     the mother by the fervour of her devotion to the king of the cradle. <gap unit="graphic"
-      n="plate_4"/> Kate was as bright as ever, but a trifle harder; her colour was harder, her eyes
+     the mother by the fervour of her devotion to the king of the cradle. <gap unit="graphic" n="plate_4"/> Kate was as bright as ever, but a trifle harder; her colour was harder, her eyes
      had the weary look of much surface-gazing.  She could not help showing that she was glad to get
      home. </p>
     <p>"You do not seem to have taken much rest," said her father. </p>
@@ -6953,8 +6951,7 @@
     <p>He had thus wandered aimlessly for an hour or so, and was thinking of returning to the hotel,
      when he saw before him, at a little distance, Constance and her father.  They did not see him. 
      They were looking out to sea, pointing, in all probability, to the spot where the last glimpse
-     of the departing ship had been caught by their watching eyes. <gap unit="graphic" n="Plate 6"
-     />  </p>
+     of the departing ship had been caught by their watching eyes. <gap unit="graphic" n="Plate 6"/>  </p>
     <p>He went up to them slowly.  They were evidently in the deepest grief, though outwardly calm. 
      Constance was clinging to her father piteously.  She was the first to observe Mr. Carrington's
      approach.  She did not even look surprized, far less pleased. </p>

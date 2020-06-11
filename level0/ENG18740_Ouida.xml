@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18740">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18740">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Two Little Wooden Shoes: A Sketch : ELTeC edition</title>
-    <author ref="viaf:34490941">Ouida, [pseud.] (1839-1908)</author>
+    <author ref="https://viaf.org/viaf/34490941/">Ouida, [pseud.] (1839-1908)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -32,11 +31,11 @@
       <name>Sara Peattie, Mary Meehan, and the Project Gutenberg Online Distributed Proofreading
        Team</name>
      </respStmt>
-     <ref target="gut:13912">Gutenberg</ref></bibl>
+     <ref target="http://www.gutenberg.org/files/13912/13912-h/13912-h.htm">Gutenberg</ref></bibl>
     <bibl type="printSource" n="B8481"><title>Two Little Wooden Shoes: A
       Sketch</title><author>Ouida, [pseud.] (1839-1908).</author><publisher>London: Chapman and
       Hall</publisher><date>1874</date>
-     <ref target="bod:600073428.pdf"/></bibl>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600073428.pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">

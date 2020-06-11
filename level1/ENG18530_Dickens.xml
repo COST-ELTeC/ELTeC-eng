@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18530" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18530" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Bleak House : ELTeC edition</title>
-    <author ref="viaf:88666393">Dickens, Charles (1812-1870)</author>
+    <author ref="https://viaf.org/viaf/88666393/">Dickens, Charles (1812-1870)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -41,7 +40,7 @@
      <author>Charles Dickens</author>
      <publisher>Bradbury &amp; Evans, Bouverie Street.</publisher>
      <date>1853</date>
-     <ref target="ia:bleakhouse00dickrich"/>
+     <ref target="http://archive.org/details/bleakhouse00dickrich"/>
     </bibl>
    </sourceDesc>
   </fileDesc>
@@ -88,12 +87,12 @@
     <p> NOTICE is hereby given that the Author of “BLEAK HOUSE”, reserves to himself the right of
      publishing a Translation in France. </p>
    </div>
-   <div  type="liminal">
+   <div type="liminal">
     <pb xml:id="pxxx11"/>
     <p>DEDICATED,  AS A REMEMBRANCE OF OUR FRIENDLY UNION,  TO MY COMPANIONS  IN
      THE  GUILD OF LITERATURE AND ART.</p>
    </div>
-   <div  type="liminal">
+   <div type="liminal">
     <pb xml:id="pvii"/>
     <head>PREFACE.</head>
     <p>A FEW months ago, on a public occasion, a Chancery Judge had the kindness to inform me, as
@@ -123,7 +122,7 @@
      from beginning to end. At the present moment there is a suit before the Court which was
      commenced nearly twenty years ago; in which from thirty to forty counsel have been known to
      appear at one time; in which costs have been incurred to the amount of seventy thousand
-     pounds; which is <hi >a friendly suit;</hi> and which is (I am assured) no
+     pounds; which is <hi>a friendly suit;</hi> and which is (I am assured) no
      nearer to its termination now than when it was begun. There is another well-known suit in
      Chancery, not yet decided, which was commenced before the close of the last century, and in
      which more than double the amount of seventy thousand pounds has been swallowed up in costs.
@@ -23818,7 +23817,7 @@
     </div>
    </div>
   <div type="group">
-    <div  type="chapter">
+    <div type="chapter">
      <pb xml:id="p577"/>
      <head>CHAPTER LX. PERSPECTIVE.</head>
      <p>I PROCEED to other passages of my narrative. From the goodness of all about me, I derived
@@ -24194,7 +24193,7 @@
       replied:</p>
      <p>“That he may not live to see his child.”</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <head>CHAPTER LXI. A DISCOVERY.</head>
      <p>THE days when I frequented that miserable corner which my dear girl brightened, can never
       fade in my remembrance. I never see it, and I never wish to see it, now; I have been there
@@ -24496,7 +24495,7 @@
       not too late to hear them, for it was not too late to be animated by them to be good, true,
       grateful, and contented. How easy my path; how much easier than his!</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <head>CHAPTER LXII. ANOTHER DISCOVERY.</head>
      <p>I HAD not the courage to see any one that night. I had not even the courage to see myself,
       for I was afraid that my tears might a little reproach me. I went up to my room in the dark,
@@ -24763,7 +24762,7 @@
       with which to spread the cement of his words on the structure of the system, and consolidate
       it for a thousand ages.</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <head>CHAPTER LXIII. STEEL AND IRON.</head>
      <p>GEORGE'S shooting-gallery is to let, and the stock is sold off, and George himself is at
       Chesney Wold, attending on Sir Leicester in his rides, and riding very near his bridle-rein,
@@ -24994,7 +24993,7 @@
       trot is heard on the turf in the avenue, as he rides on with imaginary clank and jingle of
       accoutrements under the old elm trees.</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <pb xml:id="p606"/>
      <head>CHAPTER LXIV. ESTHER'S NARRATIVE.</head>
      <p>SOON after I had had that conversation with my guardian, he put a sealed paper in my hand
@@ -25310,7 +25309,7 @@
       go and find somebody who was good enough for us, and above all things that we should get
       out.</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <head>CHAPTER LXV. BEGINNING THE WORLD.</head>
      <p>THE Term had commenced, and my guardian found an intimation from Mr. Kenge that the Cause
       would come on in two days. As I had sufficient hopes of the will to be in a flutter about it,
@@ -25526,7 +25525,7 @@
      <p>When all was still, at a late hour, poor crazed Miss Flite came weeping to me, and told me
       that she had given her birds their liberty.</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <pb xml:id="p619"/>
      <head>CHAPTER LXVI. DOWN IN LINCOLNSHIRE.</head>
      <p>THERE is a hush upon Chesney Wold in these altered days, as there is upon a portion of the
@@ -25645,7 +25644,7 @@
       and pride, even to the stranger's eye, have died away from the place in Lincolnshire, and
       yielded it to dull repose.</p>
     </div>
-    <div  type="chapter">
+    <div type="chapter">
      <pb xml:id="p622"/>
      <head>CHAPTER LXVII. THE CLOSE OF ESTHER'S NARRATIVE.</head>
      <p>FULL seven happy years I have been the mistress of Bleak House. The few words that I have to

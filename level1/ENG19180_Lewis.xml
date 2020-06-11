@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19180" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19180" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Tarr : ELTeC edition</title>
-    <author ref="viaf:41843119">Lewis, Percy Wyndham (1882-1957)</author>
+    <author ref="https://viaf.org/viaf/41843119/">Lewis, Percy Wyndham (1882-1957)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -29,7 +28,7 @@
    <sourceDesc>
     <bibl type="firstEdition" n="B0"><title>Tarr</title><author>P. Wyndham
       Lewis</author><publisher>London: Egoist Press</publisher><date>1918</date>
-     <ref target="ia:tarregoist00lewi"/></bibl>
+     <ref target="http://archive.org/details/tarregoist00lewi"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -1038,8 +1037,7 @@
       a canvas in the place where it was begun. He had an Impressionist’s horror of change.</p>
      <pb n="35"/>
      <p>So Tarr had evolved a plan. At first sight it was wicked. It was no blacker than most of his
-      ingenuities. Bertha, as he had suggested to Butcher, he had in some lymphatic way, <hi
-       xml:lang="fr">dans la peau.</hi> It appeared a matter of physical discomfort to leave her
+      ingenuities. Bertha, as he had suggested to Butcher, he had in some lymphatic way, <hi xml:lang="fr">dans la peau.</hi> It appeared a matter of physical discomfort to leave her
       altogether. It must be done gradually. So he had thought that, instead of going away to
       England-where the separation might cause him restlessness, he had perhaps better settle down
       in her neighbour, hood. Through a series of specially tended ennuis, he would soon find

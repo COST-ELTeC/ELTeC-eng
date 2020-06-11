@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18631"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18631" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Heart and Cross : ELTec edition</title>
-    <author ref="viaf:49256072">Oliphant, Margaret (1828-1897).</author>
+    <author ref="https://viaf.org/viaf/49256072/">Oliphant, Margaret (1828-1897).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -17,7 +15,7 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of Heart and Cross, by Mrs.
-      Oliphant..</title><ref target="gut:53645">Gutenberg</ref>
+      Oliphant..</title><ref target="http://www.gutenberg.org/files/53645/53645-h/53645-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by </resp>
       <name>Chuck Greif and the Online Distributed Proofreading Team</name>

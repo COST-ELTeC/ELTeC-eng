@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19090" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19090" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Tono-bungay: ELTeC edition</title>
-    <author ref="viaf:97006424">Wells, Herbert George (1866-1946)</author>
+    <author ref="https://viaf.org/viaf/97006424/">Wells, Herbert George (1866-1946)</author>
     <respStmt>
      <resp>Original HTML</resp>
      <name>John Bean</name>
@@ -35,13 +34,13 @@
    <sourceDesc>
     <bibl type="digitalSource">
      <title>The Project Gutenberg EBook of Tono Bungay, by H. G. Wells</title>
-     <ref target="gut:718">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/718/718-h/718-h.htm">Gutenberg</ref>
     </bibl>
     <bibl type="printSource" n="B0"><title>Tono-Bungay</title>
      <author>H.G. Wells</author>
      <publisher>Macmillan and Co</publisher>
      <date>1909</date>
-    <ref target="ia:tonobungay00welluoft"/></bibl>
+    <ref target="http://archive.org/details/tonobungay00welluoft"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -4977,8 +4976,7 @@
       this damned rascality."</p>
      <p>"Eh? Eh?" said my uncle. "WHAT-rascality?"</p>
      <p>"Oh, YOU know. I want some STUFF, man. I want something to hold on to. I shall go amok if I
-      don't get it. I'm a different sort of beast from you. You float in all this bunkum. <hi
-       rend="italic">I</hi> feel like a man floundering in a universe of soapsuds, up and downs,
+      don't get it. I'm a different sort of beast from you. You float in all this bunkum. <hi rend="italic">I</hi> feel like a man floundering in a universe of soapsuds, up and downs,
       east and west. I can't stand it. I must get my foot on something solid or-I don't know
       what."</p>
      <p>I laughed at the consternation in his face.</p>
@@ -9031,8 +9029,7 @@
       Certainly from those slimy, tormented lips above the bristling grey beard came nothing but
       dreams and disconnected fancies....</p>
      <p>Sometimes he raved about Neal, threatened Neal. "What has he got invested?" he said. "Does
-      he think he can escape me?... If I followed him up.... Ruin. Ruin.... One would think <hi
-       rend="italic">I</hi> had taken his money."</p>
+      he think he can escape me?... If I followed him up.... Ruin. Ruin.... One would think <hi rend="italic">I</hi> had taken his money."</p>
      <p>And sometimes he reverted to our airship flight. "It's too long, George, too long and too
       cold. I'm too old a man-too old-for this sort of thing.... You know you're not saving-you're
       killing me."</p>

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19005"
- xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19005" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Hosts of the Lord : ELTeC edition</title>
-    <author ref="viaf:211452326">Steel, Flora Annie (1847-1929).</author>
+    <author ref="https://viaf.org/viaf/211452326/">Steel, Flora Annie (1847-1929).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -27,11 +25,10 @@
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="digitalSource"><title>The Hosts of the Lord</title><ref target="gut:39991"
-      >Gutenberg</ref></bibl>
+    <bibl type="digitalSource"><title>The Hosts of the Lord</title><ref target="http://www.gutenberg.org/files/39991/39991-h/39991-h.htm">Gutenberg</ref></bibl>
     <bibl type="firstEdition" n="B14948"><title>The Hosts of the Lord</title><author>Steel, Flora
       Annie (1847-1929).</author><publisher>London: William Heinemann</publisher><date>1900</date>
-     <ref target="ia:hostsoflord00steerich"/></bibl>
+     <ref target="http://archive.org/details/hostsoflord00steerich"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -856,8 +853,7 @@
     <p>"They poisoned him, folk say; is't true?" asked Gu-gu. It was a point in the oft-told tale
      which was still discussed by Eshwara gossips.</p>
     <p>"That is other folks' news, not mine," replied Akbar, discreetly. "May be, may be not. The
-      <hi>Huzoors</hi>, anyhow, sent the Nawab to die in Calcutta on a <hi>pinson</hi><ref
-      target="#ENG19005_N02">[2]</ref> for it; but they have ever an excuse to take land! Pidar
+      <hi>Huzoors</hi>, anyhow, sent the Nawab to die in Calcutta on a <hi>pinson</hi><ref target="#ENG19005_N02">[2]</ref> for it; but they have ever an excuse to take land! Pidar
      Narâyan had a hard fight to keep Bun-avatâr-<hi>sahib's</hi> grants--the Nawab was ever
      generous to his favourites, look you--for Anâri Begum's baby; ay! though he showed a writing of
      marriage, and had made the infant Christian after their habit. Still he got them, land and
@@ -1106,8 +1102,7 @@
      is to say she is not thy cousin twice over?... I say not that she is, look you, but who can
      tell. Yet this is certain, Roshan; she hath Anâri Begum's eyes. For I have seen her; but a
      month ago the Miss who reads brought her, not knowing of these tales; for Pidar Narâyan keeps a
-     silent tongue. Her name is Laila,<ref target="#ENG19005_N03">[3]</ref> and thine Roshan.<ref
-      target="#ENG19005_N04">[4]</ref> Is not that a fate? and she hath thy grand-aunt's eyes; ay!
+     silent tongue. Her name is Laila,<ref target="#ENG19005_N03">[3]</ref> and thine Roshan.<ref target="#ENG19005_N04">[4]</ref> Is not that a fate? and she hath thy grand-aunt's eyes; ay!
      and thy grandfather's land too; for would it not have been Walidâd's, if Bun-avatâr had not
      ousted him from the <hi>wazeer</hi>-ship with singing birds?"</p>
     <p>Roshan Khân stood up feeling as if he was being suffocated. It was ten years since he had had
@@ -4539,8 +4534,7 @@
      sealing wax! What God would stand that! And how could the very Gods themselves work miracles if
      everybody could see how they were done?</p>
     <p>They had already refused to work them for pious <hi>jogi</hi> Gorakh-nâth. What wonder? The
-     Gods did not like laughter, especially the laughter of <hi>M'lléchas</hi>.<ref
-      target="#ENG19005_N10">[10]</ref></p>
+     Gods did not like laughter, especially the laughter of <hi>M'lléchas</hi>.<ref target="#ENG19005_N10">[10]</ref></p>
     <p>Therefore, who was to tell if the spring would even rise in the Pool? So those who were wise
      would make certain of at least a modicum of salvation, and go straight to the bathing-steps;
      since the river, anyhow, must be there.</p>

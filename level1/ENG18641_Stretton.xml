@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18641"
-     xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18641" xml:lang="en">
      <teiHeader>
           <fileDesc>
                <titleStmt>
                     <title>Fern's Hollow : ELTec edition</title>
-                    <author ref="viaf:29892399">Stretton, Hesba [pseud Sara Smith]
+                    <author ref="https://viaf.org/viaf/29892399/">Stretton, Hesba [pseud Sara Smith]
                          (1832-1911).</author>
                     <respStmt>
                          <resp>ELTeC conversion</resp>
@@ -18,7 +16,7 @@
                </publicationStmt>
                <sourceDesc>
                     <bibl type="digitalSource"><title>The Project Gutenberg eBook of Fern's Hollow,
-                              by Hesba Stretton.</title><ref target="gut:16853">Gutenberg</ref>
+                              by Hesba Stretton.</title><ref target="http://www.gutenberg.org/files/16853/16853-h/16853-h.htm">Gutenberg</ref>
                          <respStmt>
                               <resp>Produced by </resp>
                               <name> Joel Erickson</name>
@@ -29,7 +27,7 @@
                               Hollow</title><author>Stretton, Hesba
                               (1832-1911).</author><publisher>London: Religious Tract
                               Society</publisher><date>1864</date>
-                         <ref target="bod:590921254"/></bibl>
+                         <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590921254"/></bibl>
                </sourceDesc>
           </fileDesc>
           <encodingDesc n="eltec-1">

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19020"
- xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19020" xml:lang="en">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The Red House : ELTeC edition</title>
 
-    <author ref="viaf:7394811">Nesbit, Edith (1858-1924)</author>
+    <author ref="https://viaf.org/viaf/7394811/">Nesbit, Edith (1858-1924)</author>
     <respStmt>
      <resp>Transcribed and encoded by</resp>
      <name>Naomi Zimmer </name>
@@ -45,8 +43,7 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Red House : VWWP edition </title><author>Nesbit, E.
       (Edith), 1858-1924</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7142"
-      >VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7142">VWWP</ref></bibl>
     <bibl type="printSource" n="B8325"><title>The Red House</title><author>Nesbit, E. (Edith),
       1858-1924</author><publisher>Harper &amp; Brothers</publisher><pubPlace>London and New
       York</pubPlace><date when="1902">1902</date>
@@ -1474,8 +1471,7 @@
       Paterson, enlightened me. I found myself now working with vigor and enthusiasm. Since she
       really <emph>was</emph> coming! I knew then that I had never believed she would come, and it
       had seemed futile to spread milk-white over the doorstep, just for Chloe and me, whose eyes
-      its blotted gray and moss green had always delighted. Now I finished the doorstep <foreign
-       xml:lang="ita">con amore</foreign>, and hastened to the kitchen where Chloe and a hammer were
+      its blotted gray and moss green had always delighted. Now I finished the doorstep <foreign xml:lang="ita">con amore</foreign>, and hastened to the kitchen where Chloe and a hammer were
       busy together. I scrubbed the dressers and the table and the deal shelf that pulls out under
       the window. Chloe is always wise enough to feed energy with praise—a diet too often grudged
       it.</p>
@@ -1709,8 +1705,7 @@
      <p>Our garden's peace was broken. We never knew now when the hoarse, raucous voice of our
       tenant might desecrate the moonlit stillness with coarse echoes of transpontine musichalls.
       The knowledge of Mr. Prosser's nearness seemed to smirch the clean sweetness of life. The very
-      jasmine stars seemed less white for the presence of our tenant's sordid <foreign
-       xml:lang="fre">ménage</foreign> on the other side of our red wall. And Mary, day by day,
+      jasmine stars seemed less white for the presence of our tenant's sordid <foreign xml:lang="fre">ménage</foreign> on the other side of our red wall. And Mary, day by day,
       tormented us with fresh tales of what was being said in the village of our tenant's
       antecedents and character, and, by implication, of ours. And all the time my inability to set
       steadfastly to work was fretting at my self-control. It is like a mouse gnawing at the cord of
@@ -2254,8 +2249,7 @@
      <p>“—Like you could do anything that silly women can do, and could do any one thing she gave
       her whole mind to, better than these silly women. But no one can do everything. When you've
       found that out, and decided what you want to do, you've learned your limitations.”</p>
-     <p>“You mean,” I said, “that you could wash dishes with the best, and sweep and dust <foreign
-       xml:lang="ger">und so weiter</foreign>, if you only cared to?”</p>
+     <p>“You mean,” I said, “that you could wash dishes with the best, and sweep and dust <foreign xml:lang="ger">und so weiter</foreign>, if you only cared to?”</p>
      <p>“Of course I could”—Yolande opened her lovely eyes—“I could do anything I gave my mind to.
       But I haven't a hundred minds to give to a hundred industries. When I was quite a child I
       declined to be taught to sew. I saw, even then, that one's knowledge of feminine crafts is

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18720"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18720" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The True History of Joshua Davidson : ELTeC edition</title>
-    <author ref="viaf:7521381">Linton, Elizabeth Lynn (1822-1898)</author>
+    <author ref="https://viaf.org/viaf/7521381/">Linton, Elizabeth Lynn (1822-1898)</author>
     <respStmt>
      <resp>Transcribed, encoded and edited by </resp>
      <name>Perry Willett</name>
@@ -38,16 +36,15 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The True History of Joshua Davidson : VWWP edition
       </title><author>Linton, E. Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Digital Library
-      Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><ref
-      target="vwwp:VAB7083">VWWP</ref></bibl>
+      Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7083">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B7723"><title>The True History of Joshua
       Davidson</title><author>Linton, E. Lynn (Elizabeth Lynn), 1822-1898</author><publisher>Strahan
       and Co.</publisher><pubPlace>London </pubPlace><date when="1872">1872</date></bibl>
     <bibl type="printSource">
      <title>The true history of Joshua Davidson. Fourth edition.</title>
      <publisher>Strahan and co. 56 Ludgate Hill, London</publisher>
-    <date>1873</date> <ref target="bod:600014497.pdf"/>
-     <!-- contains additional prefaces -->
+    <date>1873</date> <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600014497.pdf"/>
+     
     </bibl>
    </sourceDesc>
   </fileDesc>
@@ -1521,8 +1518,7 @@
      <pb n="147" xml:id="VAB7083-150"/> termination, and that the recognition of the merchant class,
      and its reception on anything like terms of equality, was forced from the nobles by men who had
      at heart the great truth of human equality and human rights; at least, down to that part of the
-     social page where their own names stood. Below that paragraph where the artisan, the <foreign
-      xml:lang="fre">prolétaire</foreign>, is to be found, society has as yet drawn a line not to be
+     social page where their own names stood. Below that paragraph where the artisan, the <foreign xml:lang="fre">prolétaire</foreign>, is to be found, society has as yet drawn a line not to be
      overpassed. Demand rights and recognition for working men, and even the Liberal press gives
      forth an uncertain sound, and the bugbear of “Jack Cade” scares such stout hearts as the
       <title>Pall Mall</title> and the <title>Spectator</title>. Even they, kings of liberal thought

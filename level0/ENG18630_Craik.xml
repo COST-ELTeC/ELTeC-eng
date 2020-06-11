@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18630" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18630" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Mistress and Maid : ELTeC edition</title>
-    <author ref="viaf:46793285">Craik, Dinah Marie (1826-1887)</author>
+    <author ref="https://viaf.org/viaf/46793285/">Craik, Dinah Marie (1826-1887)</author>
     <respStmt>
      <resp>Original HTML version</resp>
      <name>Robin Eugene Escovado</name>
@@ -31,10 +30,10 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>Gutenberg text of Mistress and Maid</title><author>Craik,
-      Dinah Marie (1826-1887).</author><ref target="gut:13461">Gutenberg</ref></bibl>
+      Dinah Marie (1826-1887).</author><ref target="http://www.gutenberg.org/files/13461/13461-h/13461-h.htm">Gutenberg</ref></bibl>
     <bibl type="printSource" n="B6926"><title>Mistress and Maid</title><author>Craik, Dinah Marie
       </author><publisher>London: Hurst and Blackett</publisher><date>1863</date>
-     <ref target="ia:mistressmaid01crai">vol 1</ref>; <ref target="ia:mistressmaid02crai">vol
+     <ref target="http://archive.org/details/mistressmaid01crai">vol 1</ref>; <ref target="http://archive.org/details/mistressmaid02crai">vol
       2</ref></bibl>
    </sourceDesc>
   </fileDesc>

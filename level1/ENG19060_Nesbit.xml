@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19060"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG19060" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The Story of the Amulet : ELTeC edition</title>
-    <author ref="viaf:7394811">Nesbit, Edith (1858-1924)</author>
+    <author ref="https://viaf.org/viaf/7394811/">Nesbit, Edith (1858-1924)</author>
     <respStmt>
      <resp>Preliminary transcription by</resp>
      <name>Jo Churcher </name>
@@ -42,13 +40,12 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Story of the Amulet : VWWP edition </title><author>Nesbit,
       E. (Edith), 1858-1924</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7012">VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7012">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B0"><title>The Story of the Amulet</title><author>Nesbit, E.
-      </author><publisher>T. Fisher Unwin </publisher><pubPlace>London </pubPlace><date when="1906"
-       >1906</date></bibl><bibl type="printSource">
+      </author><publisher>T. Fisher Unwin </publisher><pubPlace>London </pubPlace><date when="1906">1906</date></bibl><bibl type="printSource">
         <title>The Story of the Amulet</title>
         <publisher>New York: E.P. Dutton</publisher>
-        <ref target="ia:storyofamulet00nesb_0"/>
+        <ref target="http://archive.org/details/storyofamulet00nesb_0"/>
        </bibl>
    </sourceDesc>
   </fileDesc>
@@ -4316,8 +4313,7 @@
     <p>“That is all very well,” said Pharaoh, “but where are the gifts?”</p>
     <p>The children, bowing as well as they could in their embarrassment at finding themselves the
      centre of interest in a circle more grand, more golden and more highly coloured than they could
-     have imagined possible, pulled out the padlock, the <foreign xml:lang="fre"
-      >Nécessaire</foreign>, and the tie‐clip. “But it’s not tribute all the same,” Cyril muttered.
+     have imagined possible, pulled out the padlock, the <foreign xml:lang="fre">Nécessaire</foreign>, and the tie‐clip. “But it’s not tribute all the same,” Cyril muttered.
      “England doesn’t pay tribute!”</p>
     <p>Pharaoh examined all the things with great interest when the chief of the household had taken
      them up to him. “Deliver them to the Keeper of the Treasury,” he said to one near him. And to
@@ -5909,8 +5905,7 @@
      cabman was bringing in boxes, and where, heavily disguised in travelling cloaks and wraps, was
      their hearts’ desire—three‐fold—Mother, Father, and The Lamb.</p>
     <p>“Bless me!” said the learned gentleman, left alone, “bless me! What a treasure! The dear
-     children! It must be their affection that has given me these luminous <foreign xml:lang="fre"
-      >aperçus</foreign>. I seem to see so many things now—things I never saw before! The dear
+     children! It must be their affection that has given me these luminous <foreign xml:lang="fre">aperçus</foreign>. I seem to see so many things now—things I never saw before! The dear
      children! The dear, dear children!”</p>
    </div>
    <trailer>THE END.</trailer>

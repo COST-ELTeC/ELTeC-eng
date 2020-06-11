@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19071" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19071" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title> The good comrade : ELTeC edition</title>
-    <author ref="viaf:4814869">Silberrad, Una Lucy (1872-1955). </author>
+    <author ref="https://viaf.org/viaf/4814869/">Silberrad, Una Lucy (1872-1955). </author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -28,10 +27,10 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of The Good Comrade, by Una L.
-      Silberrad</title><ref target="gut:18060">Gutenberg</ref></bibl>
+      Silberrad</title><ref target="http://www.gutenberg.org/files/18060/18060-h/18060-h.htm">Gutenberg</ref></bibl>
     <bibl type="firstEdition" n="B0"><title>The good comrade</title>
      <author>Una Silberrad</author><publisher>New York: Doubleday, Page &amp; co.</publisher><date>1907</date>
-    <ref target="ia:goodcomrade00silbiala"/></bibl>
+    <ref target="http://archive.org/details/goodcomrade00silbiala"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">

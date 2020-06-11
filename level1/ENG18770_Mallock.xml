@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>The New Republic : ELTeC edition</title>
-                <author ref="viaf:7455306">Mallock, William Hurrell (1849-1923)</author>
+                <author ref="https://viaf.org/viaf/7455306/">Mallock, William Hurrell (1849-1923)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Lou Burnard</name>
@@ -40,9 +39,9 @@
                     <author>[W.H. Mallock]</author>
                     <publisher>London: Chatto and Windus</publisher>
                     <date>1877</date>
-                    <!-- second ed --> 
-                    <ref target="ia:newrepublicorcul01mall">vol 1</ref>
-                    <ref target="ia:newrepublicorcul02mall">vol 2</ref>
+                     
+                    <ref target="http://archive.org/details/newrepublicorcul01mall">vol 1</ref>
+                    <ref target="http://archive.org/details/newrepublicorcul02mall">vol 2</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -3577,8 +3576,7 @@
                                 the loveliest flowers of June,</l><l> Where she, the heart’s
                                 beloved, will go?</l><l> Who, of a few green leaves in silly
                                 twine,</l><l> Makes toil’s immortal guerdon, art’s reward,</l><l>
-                                Raises the mortal, draws down the divine?</l><ref
-                                target="#ENG18770_N6"/>
+                                Raises the mortal, draws down the divine?</l><ref target="#ENG18770_N6"/>
                         </quote> And so,’ Laurence went on, ‘if it is to the bard that we owe all
                         these fine things, we need surely not fear that we shall be thought bookish
                         if we say that a society cannot be really good that does not as a body draw

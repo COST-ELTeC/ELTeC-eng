@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18540">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18540">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
                                                 <title>Hard Times: For These Times : ELTeC
                                                   edition</title>
-                                                <author ref="viaf:88666393">Dickens, Charles
+                                                <author ref="https://viaf.org/viaf/88666393/">Dickens, Charles
                                                   (1812-1870).</author>
                                                 <respStmt>
                                                   <resp>ELTeC conversion</resp>
@@ -21,22 +20,16 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>Hard Times, by
-                                                  Charles Dickens</title><ref target="gut:7926"
-                                                  >Gutenberg</ref>
+                                                  Charles Dickens</title><ref target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref>
                                                   <respStmt>
                                                   <resp>Transcription</resp>
                                                   <name>David Price ccx074@pglaf.org</name>
@@ -54,7 +47,7 @@
                                                   Hall</publisher><publisher>New York: Charles
                                                   Scribner's Sons.</publisher>
                                                   <date>1905</date>
-                                                            <ref target="bod:590301085.pdf"/>
+                                                            <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590301085.pdf"/>
                                                                         
                                                 </bibl>
                                     </sourceDesc>
@@ -73,15 +66,10 @@
                                                 </keywords>
                                     </textClass>
                                     <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="M"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="long"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="high"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T1"/>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
@@ -991,8 +979,7 @@
                                                   isn’t it?’</p>
                                                   <p>‘You can take one, Mr. Bounderby,’ returned
                                                   Louisa, when she had coldly paused, and slowly
-                                                  walked across the room, and <pb n=" 18"
-                                                  />ungraciously raised her cheek towards him, with
+                                                  walked across the room, and <pb n=" 18"/>ungraciously raised her cheek towards him, with
                                                   her face turned away.</p>
                                                   <p>‘Always my pet; ain’t you, Louisa?’ said Mr.
                                                   Bounderby.  ‘Good-bye, Louisa!’</p>
@@ -5894,8 +5881,7 @@
                                                   he been less curious respecting Louisa.</p>
                                                   <p>‘Is there nothing,’ he thought, glancing at her
                                                   as she sat at the head of the table, where her
-                                                  youthful figure, small and slight, but <pb
-                                                  n=" 100"/>very graceful, looked as pretty as it
+                                                  youthful figure, small and slight, but <pb n=" 100"/>very graceful, looked as pretty as it
                                                   looked misplaced; ‘is there nothing that will move
                                                   that face?’</p>
                                                   <p>Yes!  By Jupiter, there was something, and here
@@ -10612,8 +10598,7 @@
                                                   found for the next fortnight.  The other, similar
                                                   in effect, to Mr. Gradgrind.  Almost as soon as
                                                   the ink was dry upon their superscriptions, he had
-                                                  left the tall chimneys of Coketown behind, <pb
-                                                  n=" 179"/>and was in a railway carriage, tearing
+                                                  left the tall chimneys of Coketown behind, <pb n=" 179"/>and was in a railway carriage, tearing
                                                   and glaring over the dark landscape.</p>
                                                   <p>The moral sort of fellows might suppose that
                                                   Mr. James Harthouse derived some comfortable

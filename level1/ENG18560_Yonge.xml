@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18560">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18560">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Daisy Chain : ELTeC edition</title>
-    <author ref="viaf:71399881">Yonge, Charlotte Mary (1823-1901)</author>
+    <author ref="https://viaf.org/viaf/71399881/">Yonge, Charlotte Mary (1823-1901)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -36,8 +35,8 @@
     <bibl type="printSource" n="B7032">
      <title>The Daisy Chain. Or Aspirations.</title>
      <publisher>New York: D. Appleton</publisher>
-     <ref target="ia:daisychainoraspi01yonguoft">1871 ed, vol 1</ref>
-     <ref target="ia:daisychainoraspi02yonguoft">1871 ed, vol 2</ref></bibl>
+     <ref target="http://archive.org/details/daisychainoraspi01yonguoft">1871 ed, vol 1</ref>
+     <ref target="http://archive.org/details/daisychainoraspi02yonguoft">1871 ed, vol 2</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

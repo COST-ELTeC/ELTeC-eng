@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
- xml:id="ENG19192" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ENG19192" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Night and day: ELTeC edition</title>
-    <author ref="viaf:39385478">Woolf, Virginia (1882-1941)</author>
+    <author ref="https://viaf.org/viaf/39385478/">Woolf, Virginia (1882-1941)</author>
    </titleStmt>
    <extent>
     <measure unit="words">166198</measure>
@@ -24,13 +22,13 @@
       <resp> Produced by </resp>
       <name>Judy Boss, and David Widger</name>
      </respStmt>
-     <ref target="gut:1245">http://www.gutenberg.org/1/2/4/1245/</ref>
+     <ref target="http://www.gutenberg.org/files/1245/1245-h/1245-h.htm">http://www.gutenberg.org/1/2/4/1245/</ref>
     </bibl>
     <bibl type="printSource">
      <author>Virginia Woolf</author>
      <title>Night and day</title>
      <publisher>Harcourt, Brace and company. New York.</publisher>
-     <ref target="ia:nightday00wool"/></bibl>
+     <ref target="http://archive.org/details/nightday00wool"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">

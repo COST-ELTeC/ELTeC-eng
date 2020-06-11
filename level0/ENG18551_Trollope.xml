@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18551">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18551">
         <teiHeader>
                 <fileDesc>
                         <titleStmt>
                                 <title>The Warden : ELTeC edition</title>
-                                <author ref="viaf:61683295">Trollope, Anthony (1815-1882)</author>
+                                <author ref="https://viaf.org/viaf/61683295/">Trollope, Anthony (1815-1882)</author>
                                 <respStmt>
                                         <resp>ELTeC conversion</resp>
                                         <name>Lou Burnard</name>
@@ -19,13 +18,10 @@
                         <publicationStmt>
                                 <publisher ref="https://distant-reading.net">COST Action "Distant
                                         Reading for European Literary History" (CA16204)</publisher>
-                                <distributor ref="https://zenodo.org/communities/eltec/"
-                                        >Zenodo.org</distributor>
+                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                 <date when="2019-11-09"/>
                                 <availability>
-                                        <licence
-                                                target="https://creativecommons.org/licenses/by/4.0/"
-                                        />
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                 </availability>
                                 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
 
@@ -652,8 +648,7 @@
                                         to which she belongs. She and her husband rarely disagree as
                                         to the tone with which the church should be defended; how
                                         singular, then, that in such a case as this she should be
-                                        willing to succumb! The archdeacon again murmurs "Good <pb
-                                                n="27"/> heavens!" as he lays himself beside her,
+                                        willing to succumb! The archdeacon again murmurs "Good <pb n="27"/> heavens!" as he lays himself beside her,
                                         but he does so in a voice audible only to himself, and he
                                         repeats it till sleep relieves him from deep thought.</p>
                                 <p>Mr. Harding himself has seen no reason why his daughter should
@@ -698,8 +693,7 @@
                                         precentor; but the conversation had never referred to
                                         anything at Barchester; and when Finney, the attorney,
                                         induced him to interfere with the affairs of the hospital,
-                                        it was against Mr. Chadwick that his efforts were to be <pb
-                                                n="29"/> directed. Bold soon found that if he
+                                        it was against Mr. Chadwick that his efforts were to be <pb n="29"/> directed. Bold soon found that if he
                                         interfered with Mr. Chadwick as steward, he must also
                                         interfere with Mr. Harding as warden; and though he
                                         regretted the situation in which this would place him, he
@@ -975,8 +969,7 @@
                                         ill at ease. Poor Eleanor felt that all was not right, but
                                         her ideas as to the cause of the evening's discomfort did
                                         not go beyond her lover, and his sudden and uncivil
-                                        departure: she thought there must have been some <pb n="42"
-                                        /> quarrel between Bold and her father, and she was half
+                                        departure: she thought there must have been some <pb n="42"/> quarrel between Bold and her father, and she was half
                                         angry with both, though she did not attempt to explain to
                                         herself why she was so.</p>
                                 <p>Mr. Harding thought long and deeply over these things, both
@@ -1134,8 +1127,7 @@
                                         he was not so far gone in orthodoxy and church-military as
                                         his son, but still he could not bring himself to understand
                                         how so declared an enemy of the establishment could be
-                                        admitted on terms of intimacy into the house, not only <pb
-                                                n="49"/> of so firm a pillar as Mr. Harding, but one
+                                        admitted on terms of intimacy into the house, not only <pb n="49"/> of so firm a pillar as Mr. Harding, but one
                                         so much injured as the warden of the hospital.</p>
                                 <p>"Indeed, I like Mr. Bold much, personally," continued the
                                         disinterested victim; "and to tell you the 'truth,' "—he
@@ -2145,8 +2137,7 @@
                                         found that he had twisted them enough; how many discordant
                                         scrapes gave promise of the coming harmony! How much the
                                         muslin fluttered and crumpled before Eleanor and another
-                                        nymph were duly seated at the piano; how closely <pb n="94"
-                                        /> did that tall Apollo pack himself against the wall, with
+                                        nymph were duly seated at the piano; how closely <pb n="94"/> did that tall Apollo pack himself against the wall, with
                                         his flute, long as himself, extending high over the heads of
                                         his pretty neighbours; into how small a corner crept that
                                         round and florid little minor canon, and there with skill
@@ -2437,8 +2428,7 @@
                                         yearly expended on the absolute purposes of the charity has
                                         always remained fixed. In other words, the legatees under
                                         the founder's will have received no advantage from the
-                                        increase in the value of the property during the <pb n="108"
-                                        /> last four centuries, such increase having been absorbed
+                                        increase in the value of the property during the <pb n="108"/> last four centuries, such increase having been absorbed
                                         by the so-called warden. It is impossible to conceive a case
                                         of greater injustice. It is no answer to say that some six
                                         or nine or twelve old men receive as much of the goods of
@@ -2796,8 +2786,7 @@
                                         viands and the wines, in spite of these attractions, I
                                         generally found the rectory somewhat dull. After breakfast
                                         the archdeacon would retire, of course to his clerical
-                                        pursuits. Mrs. Grantly, I presume, inspected her <pb n="124"
-                                        /> kitchen, though she had a first-rate housekeeper, with
+                                        pursuits. Mrs. Grantly, I presume, inspected her <pb n="124"/> kitchen, though she had a first-rate housekeeper, with
                                         sixty pounds a year; and attended to the lessons of Florinda
                                         and Grizzel, though she had an excellent governess with
                                         thirty pounds a year: but at any rate she disappeared: and I
@@ -3103,8 +3092,7 @@
                                 <p>The archdeacon said he had not—that was to say, he had—that was,
                                         he had not seen the opinion itself; he had seen what had
                                         been called a copy, but he could not say whether of a whole
-                                        or part; nor could he say that what he had seen were the <pb
-                                                n="138"/>
+                                        or part; nor could he say that what he had seen were the <pb n="138"/>
                                         <hi>ipsissima verba</hi> of the great man himself; but what
                                         he had seen contained exactly the decision which he had
                                         announced, and which he again declared to be to his mind
@@ -3289,8 +3277,7 @@
                                         assert the legality of their position: you owe it to those
                                         who are to come after you, to maintain uninjured for them
                                         that which you received uninjured from others; and you owe
-                                        to us all the unflinching assistance of perfect <pb n="146"
-                                        /> brotherhood in this matter, so that upholding one another
+                                        to us all the unflinching assistance of perfect <pb n="146"/> brotherhood in this matter, so that upholding one another
                                         we may support our great cause without blushing and without
                                         disgrace."</p>
                                 <p>And so the archdeacon ceased, and stood self-satisfied, watching
@@ -3508,8 +3495,7 @@
                                         enjoyed without considering them; his easy days, his absence
                                         of all kind of hard work, his pleasant shady home, those
                                         twelve old neighbours whose welfare till now had been the
-                                        source of so much pleasant care, the excellence <pb n="156"
-                                        /> of his children, the friendship of the dear old bishop,
+                                        source of so much pleasant care, the excellence <pb n="156"/> of his children, the friendship of the dear old bishop,
                                         the solemn grandeur of those vaulted aisles, through which
                                         he loved to hear his own voice pealing; and then that friend
                                         of friends, that choice ally that had never deserted him,
@@ -3625,8 +3611,7 @@
                                         his old eyes! how he blessed her, and called her by a
                                         hundred soft sweet names which now came new to his lips! how
                                         he chid himself for ever having been unhappy with such a
-                                        treasure in his house, such a jewel on his bosom, with <pb
-                                                n="161"/> so sweet a flower in the choice garden of
+                                        treasure in his house, such a jewel on his bosom, with <pb n="161"/> so sweet a flower in the choice garden of
                                         his heart! and then the flood-gates of his tongue were
                                         loosed, and, at length, with unsparing detail of
                                         circumstances, he told her all that he wished, and all that
@@ -3877,8 +3862,7 @@
                                         them need be no bar to their ancient friendship, or to a
                                         closer tie; he would throw himself on his knees before his
                                         mistress; he would wait and marry the daughter when the
-                                        father had lost his home and his income; he would <pb
-                                                n="172"/> give up the lawsuit and go to Australia,
+                                        father had lost his home and his income; he would <pb n="172"/> give up the lawsuit and go to Australia,
                                         with her of course, leaving the Jupiter and Mr. Finney to
                                         complete the case between them. Sometimes as he woke in the
                                         morning fevered and impatient, he would blow out his brains
@@ -3966,8 +3950,7 @@
                                 <p>"No one who knows Mr. Harding personally, accuses him for a
                                         moment," said Bold.</p>
                                 <p>"It is he that has to bear the punishment; it is he that
-                                        suffers," said Eleanor; "and what for? what has <pb n="176"
-                                        /> he done wrong? how has he deserved this persecution? he
+                                        suffers," said Eleanor; "and what for? what has <pb n="176"/> he done wrong? how has he deserved this persecution? he
                                         that never had an unkind thought in his life, he that never
                                         said an unkind word!" and here she broke down, and the
                                         violence of her sobs stopped her utterance.</p>
@@ -4167,8 +4150,7 @@
                                         and could hardly think of Mary Bold with sisterly charity.
                                         "I did think I could have trusted Mary," she said to herself
                                         over and over again. "Oh that she should have dared to keep
-                                        me in the room when I tried to get out!" Eleanor, <pb
-                                                n="185"/> however, felt that the game was up, and
+                                        me in the room when I tried to get out!" Eleanor, <pb n="185"/> however, felt that the game was up, and
                                         that she had now nothing further to do, but to add to the
                                         budget of news which was prepared for her father, that John
                                         Bold was her accepted lover.</p>
@@ -4590,8 +4572,7 @@
                                         made her great resolve! For this that she had laid aside her
                                         quiet demeanour, and taken upon her the rants of a tragedy
                                         heroine! One may work and not for thanks, but yet feel hurt
-                                        at not receiving them; and so it was with Eleanor: one <pb
-                                                n="204"/> may be disinterested in one's good
+                                        at not receiving them; and so it was with Eleanor: one <pb n="204"/> may be disinterested in one's good
                                         actions, and yet feel discontented that they are not
                                         recognised. Charity may be given with the left hand so
                                         privily that the right hand does not know it, and yet the
@@ -4920,8 +4901,7 @@
                                         "entangled walks," as some one lately has called them, and
                                         yet how close to the densest concourse of humanity! how
                                         gravely respectable its sober alleys, though removed but by
-                                        a single step from the profanity of the Strand and <pb
-                                                n="219"/> the low iniquity of Fleet Street! Old St.
+                                        a single step from the profanity of the Strand and <pb n="219"/> the low iniquity of Fleet Street! Old St.
                                         Dunstan, with its bell-smiting bludgeoners, has been
                                         removed; the ancient shops with their faces full of pleasant
                                         history are passing away one by one; the bar itself is to
@@ -4943,8 +4923,7 @@
                                         or at home; alone or with friends: here no Sabbatarian will
                                         investigate your Sundays, no censorious landlady will
                                         scrutinise your empty bottle, no valetudinarian neighbour
-                                        will complain of late hours. If you love books, to what <pb
-                                                n="220"/> place are books so suitable? The whole
+                                        will complain of late hours. If you love books, to what <pb n="220"/> place are books so suitable? The whole
                                         spot is redolent of typography. Would you worship the
                                         Paphian goddess, the groves of Cyprus are not more taciturn
                                         than those of the Temple. Wit and wine are always here, and
@@ -5058,8 +5037,7 @@
                                         and no one could answer him: ministers courted him, though
                                         perhaps they knew not his name; bishops feared him; judges
                                         doubted their own verdicts unless he confirmed them; and
-                                        generals, in their councils of war, did not consider <pb
-                                                n="225"/> more deeply what the enemy would do, than
+                                        generals, in their councils of war, did not consider <pb n="225"/> more deeply what the enemy would do, than
                                         what the Jupiter would say. Tom Towers never boasted of the
                                         Jupiter; he scarcely ever named the paper even to the most
                                         intimate of his friends; he did not even wish to be spoken
@@ -5156,8 +5134,7 @@
                                         that without yawning. And so Dr. Pessimist Anticant became
                                         popular. Popularity spoilt him for all further real use, as
                                         it has done many another. While, with some diffidence, he
-                                        confined his objurgations to the occasional follies <pb
-                                                n="230"/> or short-comings of mankind; while he
+                                        confined his objurgations to the occasional follies <pb n="230"/> or short-comings of mankind; while he
                                         ridiculed the energy of the squire devoted to the slaughter
                                         of partridges, or the mistake of some noble patron who
                                         turned a poet into a gauger of beer barrels, it was all
@@ -5246,8 +5223,7 @@
                                         telling a lie—the lady would lie again in smiling. The
                                         ruffles of the gentleman's shirt would be fraught with
                                         deceit, and the ladies' flounces full of falsehood. Was ever
-                                        anything more severe than that attack of his on chip <pb
-                                                n="234"/> bonnets, or the anathemas with which he
+                                        anything more severe than that attack of his on chip <pb n="234"/> bonnets, or the anathemas with which he
                                         endeavoured to dust the powder out of the bishops' wigs?</p>
                                 <p>The pamphlet which Tom Towers now pushed across the table was
                                         entitled "Modern Charity," and was written with the view of
@@ -5268,8 +5244,7 @@
                                         prospering in it as a diligent man will prosper, but always
                                         with an eye to that better treasure to which thieves do not
                                         creep in? Is there not much nobility in that old man, as,
-                                        leaning on his oaken staff, he walks down the high <pb
-                                                n="235"/> street of his native town, and receives
+                                        leaning on his oaken staff, he walks down the high <pb n="235"/> street of his native town, and receives
                                         from all courteous salutation and acknowledgment of his
                                         worth? A noble old man, my august inhabitants of Belgrave
                                         Square and such like vicinity—a very noble old man, though
@@ -5360,8 +5335,7 @@
                                         abandon the cause; and could he have forgotten the pledge,
                                         he had gone too far to retreat. He was now, this moment,
                                         sitting in Tom Towers' room with the object of deprecating
-                                        any further articles in the Jupiter, and, greatly as he <pb
-                                                n="239"/> disliked the job, his petition to that
+                                        any further articles in the Jupiter, and, greatly as he <pb n="239"/> disliked the job, his petition to that
                                         effect must be made.</p>
                                 <p>"I could n't continue it," said he, "because I found I was in the
                                         wrong."</p>
@@ -5606,8 +5580,7 @@
                                         to London of late had not been frequent; but in those happy
                                         days when Harding's church music was going through the
                                         press, he had been often there; and as the publisher's house
-                                        was in Paternoster Row, and the printer's press in <pb
-                                                n="250"/> Fleet Street, the Chapter Hotel and Coffee
+                                        was in Paternoster Row, and the printer's press in <pb n="250"/> Fleet Street, the Chapter Hotel and Coffee
                                         House had been convenient. It was a quiet, sombre, clerical
                                         house, beseeming such a man as the warden, and thus he
                                         afterwards frequented it. Had he dared, he would on this
@@ -5900,8 +5873,7 @@
                                         conscience; it was not right that his parishioners should be
                                         robbed of any of their privileges on account of his poverty.
                                         He might, to be sure, make some arrangement for doing
-                                        weekday service at the cathedral, but he had chanted the <pb
-                                                n="263"/> litany at Barchester so long, and had a
+                                        weekday service at the cathedral, but he had chanted the <pb n="263"/> litany at Barchester so long, and had a
                                         conscious feeling that he did it so well, that he was
                                         unwilling to give up the duty.</p>
                                 <p>Thinking of such things, turning over in his own mind together
@@ -5923,8 +5895,7 @@
                                         day, and he felt confused and ashamed of himself, as though
                                         people were staring at him. He hurried along, still in dread
                                         of the archdeacon, till he came to Charing Cross, and then
-                                        remembered that in one of his passages through the <pb
-                                                n="264"/> Strand he had seen the words "Chops and
+                                        remembered that in one of his passages through the <pb n="264"/> Strand he had seen the words "Chops and
                                         Steaks" on a placard in a shop window. He remembered the
                                         shop distinctly; it was next door to a trunkseller's, and
                                         there was a cigar shop on the other side. He couldn't go to
@@ -6037,8 +6008,7 @@
                                         seemed to turn into a violoncello, with piano
                                         accompaniments, and Mr. Harding began to fancy the old
                                         waiter was the Bishop of Barchester; he was inexpressibly
-                                        shocked that the bishop should have brought him his <pb
-                                                n="269"/> coffee with his own hands; then Dr.
+                                        shocked that the bishop should have brought him his <pb n="269"/> coffee with his own hands; then Dr.
                                         Grantly came in, with a basket full of lobsters, which he
                                         would not be induced to leave down stairs in the kitchen;
                                         and then the warden could n't quite understand why so many
@@ -6105,8 +6075,7 @@
                                         he went to rest, and even his vacations were more full of
                                         labour than the busiest days of other men. He never
                                         quarrelled with his wife, but he never talked to her, —he
-                                        never had time to talk, he was so taken up with <pb n="273"
-                                        /> speaking. She, poor lady, was not unhappy; she had all
+                                        never had time to talk, he was so taken up with <pb n="273"/> speaking. She, poor lady, was not unhappy; she had all
                                         that money could give her, she would probably live to be a
                                         peeress, and she really thought Sir Abraham the best of
                                         husbands.</p>
@@ -6175,8 +6144,7 @@
                                         year. I don't know whether I ever read John Hiram's will,
                                         but were I to read it now I could not understand it. What I
                                         want you, Sir Abraham, to tell me, is this—am I, as warden,
-                                        legally and distinctly entitled to the proceeds of the <pb
-                                                n="276"/> property, after the due maintenance of the
+                                        legally and distinctly entitled to the proceeds of the <pb n="276"/> property, after the due maintenance of the
                                         twelve bedesmen?"</p>
                                 <p>Sir Abraham declared that he could n't exactly say in so many
                                         words that Mr. Harding was legally entitled to, &amp;c.,
@@ -6264,8 +6232,7 @@
                                         conscience, when it required the violence of a public
                                         newspaper to awaken it; but, now that it is awake, I must
                                         obey it. When I came here I did not know that the suit was
-                                        withdrawn by Mr. Bold, and my object was to beg you <pb
-                                                n="280"/> to abandon my defence. As there is no
+                                        withdrawn by Mr. Bold, and my object was to beg you <pb n="280"/> to abandon my defence. As there is no
                                         action, there can be no defence; but it is, at any rate, as
                                         well that you should know that, from to-morrow, I shall
                                         cease to be the warden of the hospital. My friends and I
@@ -6547,8 +6514,7 @@
                                         over the breakfast table. The archdeacon munched his toast
                                         in ominous silence, turning over bitter thoughts in his deep
                                         mind. The warden tried to talk to his daughter, and she
-                                        tried to answer him; but they both failed. There were no <pb
-                                                n="294"/> feelings at present in common between
+                                        tried to answer him; but they both failed. There were no <pb n="294"/> feelings at present in common between
                                         them. The warden was thinking only of getting back to
                                         Barchester, and calculating whether the archdeacon would
                                         expect him to wait for him; and Mrs. Grantly was preparing
@@ -7102,8 +7068,7 @@
                                         Crabtree should be ready for her; but Eleanor herself
                                         strongly resisted this proposal. It was in vain urged upon
                                         her, that a lady in lodgings cost more than a gentleman; and
-                                        that, under her father's present circumstances, <pb n="318"
-                                        /> such an expense should be avoided. Eleanor had not
+                                        that, under her father's present circumstances, <pb n="318"/> such an expense should be avoided. Eleanor had not
                                         pressed her father to give up the hospital, in order that
                                         she might live at Plumstead Rectory, and he alone in his
                                         Barchester lodgings; nor did Eleanor think that she would be
@@ -7170,8 +7135,7 @@
                                         would be at once filled by another. That the new warden
                                         could not be a kinder man they all knew; that he would be a
                                         less friendly one most suspected; and then came the bitter
-                                        information that, from the moment of Mr. Harding's <pb
-                                                n="321"/> departure, the twopence a day, his own
+                                        information that, from the moment of Mr. Harding's <pb n="321"/> departure, the twopence a day, his own
                                         peculiar gift, must of necessity be withdrawn.</p>
                                 <p>And this was to be the end of all their mighty struggle—of their
                                         fight for their rights—of their petition, and their debates
@@ -7305,8 +7269,7 @@
                                         subjects from whom it was the least likely to be expected,
                                         for poor old Bell had nearly outlived all human feelings.
                                         "And your reverence," said he, and then he paused, while his
-                                        old palsied head shook horribly, and his shrivelled <pb
-                                                n="327"/> cheeks sank lower within his jaws, and his
+                                        old palsied head shook horribly, and his shrivelled <pb n="327"/> cheeks sank lower within his jaws, and his
                                         glazy eye gleamed with a momentary light; "and, your
                                         reverence, shall we get the hundred a-year then?"</p>
                                 <p>How gently did Mr. Harding try to extinguish the false hope of

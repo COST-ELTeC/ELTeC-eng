@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18721">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18721">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Middlemarch: ELTeC edition </title>
-    <author ref="viaf:89000553">Eliot, George [pseud.] (1819-1880)</author>
+    <author ref="https://viaf.org/viaf/89000553/">Eliot, George [pseud.] (1819-1880)</author>
    </titleStmt>
    <extent>
     <measure unit="words">316163</measure>
@@ -24,17 +23,17 @@
    <sourceDesc>
     <bibl type="digitalSource">
      <title>The Project Gutenberg E-text of Middlemarch, by George Eliot</title>
-     <ref target="gut:145">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/145/145-h/145-h.htm">Gutenberg</ref>
     </bibl>
     <bibl type="printSource" n="B5429">
      <title>Middlemarch. A study of provincial life</title>
      <author>George Eliot</author>
      <publisher>William Blackwood and Sons</publisher>
      <date>1872</date>
-     <ref target="ia:middlemarchstudy01eliorich">vol 1</ref>;
-     <ref target="ia:middlemarchstudy02eliorich">vol 2</ref>;
-     <ref target="ia:middlemarchstudy03eliorich">vol 3</ref>;
-    <ref target="ia:middlemarchstudy04eliorich">vol 4</ref></bibl>
+     <ref target="http://archive.org/details/middlemarchstudy01eliorich">vol 1</ref>;
+     <ref target="http://archive.org/details/middlemarchstudy02eliorich">vol 2</ref>;
+     <ref target="http://archive.org/details/middlemarchstudy03eliorich">vol 3</ref>;
+    <ref target="http://archive.org/details/middlemarchstudy04eliorich">vol 4</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -72,9 +71,7 @@
     <p>New York and Boston H. M. Caldwell Company Publishers</p>
    </div>
 
-   <!--<div type="liminal">
-    <p>To my dear Husband, George Henry Lewes, in this nineteenth year of our blessed union.</p>
-   </div>-->
+   
   
    <div type="liminal">
     <head>PRELUDE</head>
@@ -1385,8 +1382,7 @@
       to quarrel with you about it, so I am come."</p>
      <p>"Very good. I was prepared to be persecuted for not persecuting—not persecuting, you
       know."</p>
-     <p>"There you go! That is a piece of clap-trap you have got ready for the hustings. Now, <hi
-       rend="italic">do not</hi> let them lure you to the hustings, my dear Mr. Brooke. A man always
+     <p>"There you go! That is a piece of clap-trap you have got ready for the hustings. Now, <hi rend="italic">do not</hi> let them lure you to the hustings, my dear Mr. Brooke. A man always
       makes a fool of himself, speechifying: there's no excuse but being on the right side, so that
       you can ask a blessing on your humming and hawing. You will lose yourself, I forewarn you. You
       will make a Saturday pie of all parties' opinions, and be pelted by everybody."</p>
@@ -3622,8 +3618,7 @@
       spekilations, I think. He's got a pretty strong string round your father's leg, by what I
       hear, eh?"</p>
      <p>"My father never tells me anything about his affairs, sir."</p>
-     <p>"Well, he shows some sense there. But other people find 'em out without his telling. <hi
-       rend="italic">He'll</hi> never have much to leave you: he'll most-like die without a
+     <p>"Well, he shows some sense there. But other people find 'em out without his telling. <hi rend="italic">He'll</hi> never have much to leave you: he'll most-like die without a
       will—he's the sort of man to do it—let 'em make him mayor of Middlemarch as much as they like.
       But you won't get much by his dying without a will, though you <hi>are</hi> the eldest
       son."</p>
@@ -5759,8 +5754,7 @@
      <p>"I think I would rather feel that painting is beautiful than have to read it as an enigma;
       but I should learn to understand these pictures sooner than yours with the very wide meaning,"
       said Dorothea, speaking to Will.</p>
-     <p>"Don't speak of my painting before Naumann," said Will. "He will tell you, it is all <hi
-       rend="italic">pfuscherei</hi>, which is his most opprobrious word!"</p>
+     <p>"Don't speak of my painting before Naumann," said Will. "He will tell you, it is all <hi rend="italic">pfuscherei</hi>, which is his most opprobrious word!"</p>
      <p>"Is that true?" said Dorothea, turning her sincere eyes on Naumann, who made a slight
       grimace and said—</p>
      <p>"Oh, he does not mean it seriously with painting. His walk must be <hi>belles-lettres</hi>.
@@ -14953,8 +14947,7 @@
      <p>"That would have made me very proud and happy, Susan, and I should have been glad for your
       sake. I've always felt that your belongings have never been on a level with you. But you took
       me, though I was a plain man."</p>
-     <p>"I took the best and cleverest man I had ever known," said Mrs. Garth, convinced that <hi
-       rend="italic">she</hi> would never have loved any one who came short of that mark.</p>
+     <p>"I took the best and cleverest man I had ever known," said Mrs. Garth, convinced that <hi rend="italic">she</hi> would never have loved any one who came short of that mark.</p>
      <p>"Well, perhaps others thought you might have done better. But it would have been worse for
       me. And that is what touches me close about Fred. The lad is good at bottom, and clever enough
       to do, if he's put in the right way; and he loves and honours my daughter beyond anything, and
@@ -15947,8 +15940,7 @@
      <p>"Pray don't say any more about it," said Will, in a hoarse undertone extremely unlike his
       usual light voice. "It is a foul insult to her and to me." Then he sat down absently, looking
       before him, but seeing nothing.</p>
-     <p>"Now you are angry with <hi>me</hi>," said Rosamond. "It is too bad to bear <hi
-       rend="italic">me</hi> malice. You ought to be obliged to me for telling you."</p>
+     <p>"Now you are angry with <hi>me</hi>," said Rosamond. "It is too bad to bear <hi rend="italic">me</hi> malice. You ought to be obliged to me for telling you."</p>
      <p>"So I am," said Will, abruptly, speaking with that kind of double soul which belongs to
       dreamers who answer questions.</p>
      <p>"I expect to hear of the marriage," said Rosamond, playfully.</p>
@@ -16961,8 +16953,7 @@
       all so fond of. Hang it, one has a grudge against a man who carries off the prettiest girl in
       the town."</p>
      <p>"Ay, by God! and the best too," said Mr. Standish.</p>
-     <p>"My friend Vincy didn't half like the marriage, I know that," said Mr. Chichely. "<hi
-       rend="italic">He</hi> wouldn't do much. How the relations on the other side may have come
+     <p>"My friend Vincy didn't half like the marriage, I know that," said Mr. Chichely. "<hi rend="italic">He</hi> wouldn't do much. How the relations on the other side may have come
       down I can't say." There was an emphatic kind of reticence in Mr. Chichely's manner of
       speaking.</p>
      <p>"Oh, I shouldn't think Lydgate ever looked to practice for a living," said Mr. Toller, with

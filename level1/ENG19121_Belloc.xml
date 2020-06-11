@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19121"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19121" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Chink in the Armour : ELTec edition</title>
-    <author ref="viaf:24729680">Belloc-Lowndes, Marie (1868-1947)</author>
+    <author ref="https://viaf.org/viaf/24729680/">Belloc-Lowndes, Marie (1868-1947)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -18,11 +16,11 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of The Chink In The Armour, by
-      Mrs. Belloc Lowndes.</title><ref target="gut:16677">Gutenberg</ref> Produced by Suzanne Shell,
+      Mrs. Belloc Lowndes.</title><ref target="http://www.gutenberg.org/files/16677/16677-h/16677-h.htm">Gutenberg</ref> Produced by Suzanne Shell,
      Mary Meehan and the Online Distributed Proofreading Team</bibl>
     <bibl type="printSource" n="B0"><title>The Chink In The Armour</title><publisher>Grosset &amp;
       Dunlap</publisher><date>1912</date>
-    <ref target="ia:chinkinarmour00lown"/></bibl>
+    <ref target="http://archive.org/details/chinkinarmour00lown"/></bibl>
 
    </sourceDesc>
   </fileDesc>

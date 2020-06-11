@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18570"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18570" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Professor: A Tale : ELTec edition</title>
-    <author ref="viaf:71388025">Brontë, Charlotte (1816-1855).</author>
+    <author ref="https://viaf.org/viaf/71388025/">Brontë, Charlotte (1816-1855).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -17,12 +15,12 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Professor, by (aka Charlotte Bronte) Currer
-      Bell</title><ref target="gut:1028">Gutenberg</ref> Produced by An Anonymous Volunteer, and
+      Bell</title><ref target="http://www.gutenberg.org/files/1028/1028-h/1028-h.htm">Gutenberg</ref> Produced by An Anonymous Volunteer, and
      David Widger</bibl>
     <bibl type="firstEdition" n="B7053"><title>The Professor</title><author>Currer
       Bell</author><publisher>London: Smith, Elderm &amp; co., 15 Waterloo
       Place</publisher><date>1857</date>
-     <ref target="bod:400294723.pdf">vol 1</ref>; <ref target="bod:400294722.pdf">vol 2</ref></bibl>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400294723.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400294722.pdf">vol 2</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -3394,7 +3392,7 @@
      same bitter, derisive smile I had seen on her lips once before, she hastily rose and made her
      exit.</p>
    </div>
-   <!-- end of volume 1 -->
+   
 
    <div type="chapter">
     <head>CHAPTER XVIII.</head>

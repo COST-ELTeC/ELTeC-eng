@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19200" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19200" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Women in love : ELTeC edition</title>
-    <author ref="viaf:95150359">Lawrence, David Herbert (1885-1930)</author>
+    <author ref="https://viaf.org/viaf/95150359/">Lawrence, David Herbert (1885-1930)</author>
     <respStmt>
      <resp>HTML version</resp>
      <name>Col Choat</name>
@@ -34,7 +33,7 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg EBook of Women in Love, by D. H.
       Lawrence </title>
-     <ref target="gut:4240">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/4240/4240-h/4240-h.htm">Gutenberg</ref>
     </bibl>
     <bibl type="firstEdition" n="B0">
      <title>Women in love</title>
@@ -44,7 +43,7 @@
      <title>Women in love</title>
      <publisher>London: Martin Secker</publisher>
      <date>1921</date>
-     <ref target="ia:inlovewomen00lawrrich"/>
+     <ref target="http://archive.org/details/inlovewomen00lawrrich"/>
     </bibl>
    </sourceDesc>
   </fileDesc>

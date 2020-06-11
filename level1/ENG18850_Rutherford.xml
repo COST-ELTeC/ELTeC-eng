@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18850"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18850" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Mark Rutherford's Deliverance : ELTec edition</title>
-    <author ref="viaf:79398669">White, William Hale (1831-1913).</author>
+    <author ref="https://viaf.org/viaf/79398669/">White, William Hale (1831-1913).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -16,8 +14,7 @@
     <p>Published as part of ELTeC <date>2020-04-28</date></p>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="digitalSource"><title>Mark Rutherford's Deliverance, by Mark Rutherford</title><ref
-      target="gut:5338">Gutenberg</ref>
+    <bibl type="digitalSource"><title>Mark Rutherford's Deliverance, by Mark Rutherford</title><ref target="http://www.gutenberg.org/files/5338/5338-h/5338-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>transcription</resp>
       <name>David Price, email ccx074@pglaf.org</name>
@@ -25,7 +22,7 @@
     <bibl type="firstEdition" n="B10306"><title>Mark Rutherford's Deliverance: being the Second Part
       of his Autobiography. Edited by his friend, Reuben Shapcote.</title>
      <publisher>London: Trübner and Co., Ludgate Hill</publisher><date>1885</date>
-     <ref target="bod:590914594.pdf"/>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590914594.pdf"/>
     </bibl>
     <bibl type="printSource">
      <title>Mark Rutherford's Deliverance</title>
@@ -487,8 +484,7 @@
      if he could proclaim the Second Advent, as Paul did to the Thessalonians, and get people to
      believe, he might change their manners, but otherwise he could do nothing but resort to a much
      slower process.  With the departure of a belief in the supernatural departs once and for ever
-     the chance of regenerating the race except by the school and by science. <ref
-      target="#footnote31">[31]</ref>  However, M’Kay thought he would try.  His earnestness was
+     the chance of regenerating the race except by the school and by science. <ref target="#footnote31">[31]</ref>  However, M’Kay thought he would try.  His earnestness was
      rather a hindrance than a help to him, for it prevented his putting certain important questions
      to himself, or at any rate it prevented his waiting for distinct answers.  He recurred to the
      apostles and Bunyan, and was convinced that it was possible even now to touch depraved men and

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19100" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19100" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Howards End : ELTeC edition</title>
-    <author ref="viaf:31996364">Forster, Edward Morgan (1879-1970)</author>
+    <author ref="https://viaf.org/viaf/31996364/">Forster, Edward Morgan (1879-1970)</author>
     <respStmt>
      <resp>ELTeC encoding</resp>
      <name>Lou Burnard</name>
@@ -37,10 +36,10 @@
     <bibl type="printSource"><title>Howards End</title>
      <publisher>G. P. PUTNAM’S SONS NEW YORK AND LONDON The Knickerbocker press
       </publisher><date>1910</date>
-     <ref target="ia:howardsend00fors_3"/></bibl>
+     <ref target="http://archive.org/details/howardsend00fors_3"/></bibl>
     <bibl type="digitalSource">
      <title>The Project Gutenberg Etext of Howards End, by E. M. Forster</title>
-     <ref target="gut:2891">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/2891/2891-h/2891-h.htm">Gutenberg</ref>
     </bibl>
    </sourceDesc>
   </fileDesc>
@@ -276,8 +275,7 @@
     <p>He was not so well. </p>
     <p>The hay fever had worried him a good deal all night.  His head ached, his eyes were wet, his
      mucous membrane, he informed her, was in a most unsatisfactory condition.  The only thing that
-     made life worth living was the thought of Walter Savage Landor, from whose <hi rend="italic"
-      >Imaginary Conversations</hi> she had promised to read at frequent intervals during the day. </p>
+     made life worth living was the thought of Walter Savage Landor, from whose <hi rend="italic">Imaginary Conversations</hi> she had promised to read at frequent intervals during the day. </p>
     <p>It was rather difficult.  Something must be done about Helen.  She must be assured that it is
      not a criminal offence to love at first sight.  A telegram to this effect would be cold and
      cryptic, a personal visit seemed each moment more impossible.  Now the doctor arrived, and said
@@ -933,8 +931,7 @@
      "drawing people out," of "making things go." She had been to the gallery at Covent Garden, but
      she did not "attend" it, preferring the more expensive seats; still less did she love it.  So
      she made no reply. </p>
-    <p>"This year I have been three times—to <hi rend="italic">Faust</hi>, <hi rend="italic"
-      >Tosca</hi>, and—" Was it "Tannhouser" or "Tannhoyser"?  Better not risk the word. </p>
+    <p>"This year I have been three times—to <hi rend="italic">Faust</hi>, <hi rend="italic">Tosca</hi>, and—" Was it "Tannhouser" or "Tannhoyser"?  Better not risk the word. </p>
     <p>Margaret disliked <hi rend="italic">Tosca</hi> and <hi rend="italic">Faust</hi>.  And so, for
      one reason and another, they walked on in silence, chaperoned by the voice of Mrs. Munt, who
      was getting into difficulties with her nephew. </p>
@@ -2268,8 +2265,7 @@
     <p>Charles did not answer, but after a moment he ran quickly upstairs, opened the door, and
      said: "Look here, Father, you must eat, you know"; and having paused for a reply that did not
      come, stole down again.  "He's going to read his letters first, I think," he said evasively; "I
-     dare say he will go on with his breakfast afterwards." Then he took up the <hi rend="italic"
-      >Times</hi>, and for some time there was no sound except the clink of cup against saucer and
+     dare say he will go on with his breakfast afterwards." Then he took up the <hi rend="italic">Times</hi>, and for some time there was no sound except the clink of cup against saucer and
      of knife on plate. </p>
     <p>Poor Mrs. Charles sat between her silent companions, terrified at the course of events, and a
      little bored.  She was a rubbishy little creature, and she knew it.  A telegram had dragged her
@@ -2906,8 +2902,7 @@
     <p>"That's another beautiful book.  You get back to the Earth in that.  I wanted—" He mouthed
      affectedly.  Then through the mists of his culture came a hard fact, hard as a pebble.  "I
      walked all the Saturday night," said Leonard.  "I walked." A thrill of approval ran through the
-     sisters.  But culture closed in again.  He asked whether they had ever read E. V. Lucas's <hi
-      rend="italic">Open Road</hi>. </p>
+     sisters.  But culture closed in again.  He asked whether they had ever read E. V. Lucas's <hi rend="italic">Open Road</hi>. </p>
     <p>Said Helen, "No doubt it's another beautiful book, but I'd rather hear about your road." </p>
     <p>"Oh, I walked." </p>
     <p>"How far?" </p>
@@ -3836,8 +3831,7 @@
     <p>"—Yet there may be something in it all the same," he concluded, with a frown. </p>
     <p>"Not even that.  It may be halfway in the wrong direction.  I can't explain.  I don't believe
      in all these fads, and yet I don't like saying that I don't believe in them." </p>
-    <p>He seemed unsatisfied, and said: "So you wouldn't give me your word that you <hi
-      rend="italic">don't</hi> hold with astral bodies and all the rest of it?" </p>
+    <p>He seemed unsatisfied, and said: "So you wouldn't give me your word that you <hi rend="italic">don't</hi> hold with astral bodies and all the rest of it?" </p>
     <p>"I could," said Margaret, surprised that the point was of any importance to him.  "Indeed, I
      will.  When I talked about scrubbing my aura, I was only trying to be funny.  But why do you
      want this settled?" </p>
@@ -3902,8 +3896,7 @@
      perturbation.  It was from Mr. Wilcox.  It announced an "important change" in his plans.  Owing
      to Evie's marriage, he had decided to give up his house in Ducie Street, and was willing to let
      it on a yearly tenancy.  It was a businesslike letter, and stated frankly what he would do for
-     them and what he would not do.  Also the rent.  If they approved, Margaret was to come up <hi
-      rend="italic">at once</hi>—the words were underlined, as is necessary when dealing with
+     them and what he would not do.  Also the rent.  If they approved, Margaret was to come up <hi rend="italic">at once</hi>—the words were underlined, as is necessary when dealing with
      women—and to go over the house with him.  If they disapproved, a wire would oblige, as he
      should put it into the hands of an agent. </p>
     <p>The letter perturbed, because she was not sure what it meant.  If he liked her, if he had
@@ -3927,8 +3920,7 @@
     <p>"There's nothing rash to do." </p>
     <p>"Who <hi rend="italic">are</hi> the Wilcoxes?" said Tibby, a question that sounds silly, but
      was really extremely subtle, as his aunt found to her cost when she tried to answer it.  "I
-     don't <hi rend="italic">manage</hi> the Wilcoxes; I don't see where they come <hi rend="italic"
-      >in</hi>." </p>
+     don't <hi rend="italic">manage</hi> the Wilcoxes; I don't see where they come <hi rend="italic">in</hi>." </p>
     <p>"No more do I," agreed Helen.  "It's funny that we just don't lose sight of them.  Out of all
      our hotel acquaintances, Mr. Wilcox is the only one who has stuck.  It is now over three years,
      and we have drifted away from far more interesting people in that time. </p>
@@ -6099,8 +6091,7 @@
      heard.  Should he go round to the George?  </p>
     <p>"I'll go, thank you," said Margaret, and dismissed him. </p>
     <p>"It is no good," said Henry.  "Those things leak out; you cannot stop a story once it has
-     started.  I have known cases of other men—I despised them once, I thought that <hi
-      rend="italic">I'm</hi> different, I shall never be tempted.  Oh, Margaret—" He came and sat
+     started.  I have known cases of other men—I despised them once, I thought that <hi rend="italic">I'm</hi> different, I shall never be tempted.  Oh, Margaret—" He came and sat
      down near her, improvising emotion.  She could not bear to listen to him.  "We fellows all come
      to grief once in our time.  Will you believe that?  There are moments when the strongest
      man—'Let him who standeth, take heed lest he fall.' That's true, isn't it?  If you knew all,
@@ -7833,8 +7824,7 @@
      the change in him.  Most terrible were his sufferings when he awoke from sleep.  Sometimes he
      was happy at first, but grew conscious of a burden hanging to him and weighing down his
      thoughts when they would move.  Or little irons scorched his body.  Or a sword stabbed him.  He
-     would sit at the edge of his bed, holding his heart and moaning, "Oh what <hi rend="italic"
-      >shall</hi> I do, whatever <hi rend="italic">shall</hi> I do?"  Nothing brought ease.  He
+     would sit at the edge of his bed, holding his heart and moaning, "Oh what <hi rend="italic">shall</hi> I do, whatever <hi rend="italic">shall</hi> I do?"  Nothing brought ease.  He
      could put distance between him and the trespass, but it grew in his soul. </p>
     <p>Remorse is not among the eternal verities.  The Greeks were right to dethrone her.  Her
      action is too capricious, as though the Erinyes selected for punishment only certain men and

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18930">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18930">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Dodo: A Detail of the Day : ELTeC edition</title>
-    <author ref="viaf:49221488">Benson, Edward Frederic (1867-1940).</author>
+    <author ref="https://viaf.org/viaf/49221488/">Benson, Edward Frederic (1867-1940).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -27,12 +26,12 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of Dodo, A Detail of the Day, by
-      E.F. Benson.</title><ref target="gut:44486">Gutenberg</ref></bibl>
+      E.F. Benson.</title><ref target="http://www.gutenberg.org/files/44486/44486-h/44486-h.htm">Gutenberg</ref></bibl>
     <bibl type="firstEdition" n="B6730"><title>Dodo: A Detail of the Day</title><author>E.F.
       Benson.</author>
      <publisher>London: Methuen</publisher><date>1893</date></bibl><bibl type="printSource"><title>Dodo a detail of the day</title>
      <publisher>Hodder and Stoughton, n.d.</publisher>
-      <ref target="ia:dododetailofday00bensuoft"/></bibl>
+      <ref target="http://archive.org/details/dododetailofday00bensuoft"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

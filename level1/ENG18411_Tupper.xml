@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18411"
-            xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18411" xml:lang="en">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
                                                 <title>The Twins: A Domestic Novel : ELTeC
                                                   edition</title>
-                                                <author ref="viaf:44385259">Tupper, Martin Farquhar
+                                                <author ref="https://viaf.org/viaf/44385259/">Tupper, Martin Farquhar
                                                   (1810-1889).</author>
                                                 <respStmt>
                                                   <resp>ELTeC conversion</resp>
@@ -23,23 +21,17 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>The Project
                                                   Gutenberg eBook of The Twins, by Martin Farquhar
-                                                  Tupper, A.M., F.R.S..</title><ref
-                                                  target="gut:16574">Gutenberg</ref>
+                                                  Tupper, A.M., F.R.S..</title><ref target="http://www.gutenberg.org/files/16574/16574-h/16574-h.htm">Gutenberg</ref>
                                                   <respStmt>
                                                   <resp>Produced by </resp>
                                                   <name>Jonathan Ingram, Janet Blenkinship and the
@@ -50,7 +42,7 @@
                                                               Martin Farquhar Tupper.
                                                .</author><publisher>London:
                                                   Bentley</publisher><date>1844.</date>
-                                                <ref target="bod:590995737.pdf"/></bibl>
+                                                <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590995737.pdf"/></bibl>
                                     </sourceDesc>
                         </fileDesc>
                         <encodingDesc n="eltec-1">
@@ -61,15 +53,10 @@
                                                 <language ident="eng">English</language>
                                     </langUsage>
                                     <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="M"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="short"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="low"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T1"/>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
@@ -79,7 +66,7 @@
                         </revisionDesc>
             </teiHeader>
             <text type="T1MSL">
-                        <front><!-- wrong titlepage-->
+                        <front>
                                     <div type="titlepage">
                                                 <pb n="12"/>
                                                 <p>THE TWINS;</p>
@@ -541,8 +528,7 @@
                                                   would be dashed to pieces. But how did Charles
                                                   act? With the utmost courage, and caution, and
                                                   presence of mind, he crept down, and, at the risk
-                                                  of his life, dragged the bleating, <pb n="22"
-                                                  />unreluctant creature up again; it really seemed
+                                                  of his life, dragged the bleating, <pb n="22"/>unreluctant creature up again; it really seemed
                                                   as if the ungrateful poor dumb brute recognised
                                                   its humane friend, and suffered him to rescue it
                                                   without a struggle or a motion that might have
@@ -811,8 +797,7 @@
                                                   it is not in human nature to admire her, and human
                                                   nature is a thing very much to be consulted.
                                                   Moreover, no one ever yet saw an amiable
-                                                  personage, who was not so far pleasing, <pb n="27"
-                                                  />or, in other parlance, so far pretty. I cannot
+                                                  personage, who was not so far pleasing, <pb n="27"/>or, in other parlance, so far pretty. I cannot
                                                   help the common course of things; and however
                                                   hackneyed be the thought, however common-place the
                                                   phrase, it is true, nevertheless, that beauty,
@@ -867,8 +852,7 @@
                                                   wonder at Charles's impolite, perhaps, but still
                                                   natural involuntary stare, and his mute abstracted
                                                   admiration: the poor youth is caught at once, a
-                                                  most willing captive—the moth has <pb n="28"
-                                                  />burnt its wings, and flutters still happily
+                                                  most willing captive—the moth has <pb n="28"/>burnt its wings, and flutters still happily
                                                   around that pleasant warming radiance. How his
                                                   heart yearned for something to love, some being
                                                   worthy of his own most pure affections: and lo!
@@ -923,8 +907,7 @@
                                                   studs of gold, and the world one mighty plain, and
                                                   men and women soulless creatures of a day, and the
                                                   wisdom of creation unconsidered, and the book of
-                                                  natural knowledge close sealed up, till<pb n="29"
-                                                  /> Charles set out before his eager student the
+                                                  natural knowledge close sealed up, till<pb n="29"/> Charles set out before his eager student the
                                                   mysteries of earth and heaven. Oh, those blessed
                                                   hours of sweet teaching! when he led her quick
                                                   delighted steps up the many avenues of science to
@@ -973,8 +956,7 @@
                                                   day forth she shunned him with undisguised
                                                   abhorrence. Poor innocent maid! she little knew
                                                   the man's black mind, who thus dared to reach up
-                                                  to the height of her affections; but she saw <pb
-                                                  n="30"/>enough of character in his swart scowling
+                                                  to the height of her affections; but she saw <pb n="30"/>enough of character in his swart scowling
                                                   face, and loud assuming manners, to make her dread
                                                   his very presence, as a thunder-cloud across her
                                                   summer sky.</p>
@@ -1403,8 +1385,7 @@
                                                   where she lived she knew not how long, in a strong
                                                   hill-fort, one Puttymuddyfudgepoor, where there
                                                   was a great deal of fighting, and besieging, and
-                                                  storming, and cannonading; but it ceased <pb
-                                                  n="38"/>at last, and the captain, who then soon
+                                                  storming, and cannonading; but it ceased <pb n="38"/>at last, and the captain, who then soon
                                                   successively became both major and colonel, always
                                                   kept her in his own quarters, making her his
                                                   little pet; and, after the fighting was all over,
@@ -1561,8 +1542,7 @@
                                                   growths in my unhappy brother Julian? No, Emily; I
                                                   am a man now, and take my own advice. If a parent
                                                   forbade me, indeed, and reasonably, it would be
-                                                  fit to acquiesce; but knowing, as I <pb n="41"
-                                                  />have sad cause to know, that none but you, my
+                                                  fit to acquiesce; but knowing, as I <pb n="41"/>have sad cause to know, that none but you, my
                                                   love, will be sorry for my absence, as for your
                                                   sake alone that absence is designed, I need take
                                                   counsel only of us who are here present—your own
@@ -1666,8 +1646,7 @@
                                                   prayed and reasoned with that hard, dried heart,
                                                   none but the Omniscient can tell. Let us hope: let
                                                   us hope; for the fretful voice was stilled, and
-                                                  the cloudy forehead brightened, and the hag<pb
-                                                  n="43"/>gard eyes looked cheerfully to meet the
+                                                  the cloudy forehead brightened, and the hag<pb n="43"/>gard eyes looked cheerfully to meet the
                                                   inevitable stroke of death. Thus in wisdom and in
                                                   charity, in patience and in faith, that gentle
                                                   pair of lovers comforted the dying soul.</p>
@@ -1881,8 +1860,7 @@
                                                   people at Madras, and in particular to the
                                                   "somebody" who looked after Mrs. Mackie: so, the
                                                   mystery was easy of access, and he doubted not of
-                                                  overcoming, on the spot, every unseen dif<pb
-                                                  n="47"/>ficulty. The plan of leaving all luggage
+                                                  overcoming, on the spot, every unseen dif<pb n="47"/>ficulty. The plan of leaving all luggage
                                                   behind, a capital idea, would enable him to go
                                                   forth freely and unshackled, with an ordinary air,
                                                   in hat and great-coat, as for an evening's walk;
@@ -2783,8 +2761,7 @@
                                                   exhilarated the bilious old gentleman so
                                                   strangely, that positive peonies were blooming in
                                                   his cheeks; and, as if this was not miracle
-                                                  enough, he had brought his wife as a <pb n="65"
-                                                  />present Maurice's '<hi>Antiquities of
+                                                  enough, he had brought his wife as a <pb n="65"/>present Maurice's '<hi>Antiquities of
                                                   India</hi>,' gloriously bound, and had even been
                                                   so superfluous as to purchase a new pair of
                                                   double-barrelled pistols for Julian: the lad was a
@@ -3326,8 +3303,7 @@
                                                   fainted (bless those pretty eyes of your's, my
                                                   Emmy!) read on; and you will find that this
                                                   alarming sort of animal is neither an albatross
-                                                  nor an alligator, but simply—a life-boat with a<pb
-                                                  n="75"/> Triton in the stern. Yes, God's messenger
+                                                  nor an alligator, but simply—a life-boat with a<pb n="75"/> Triton in the stern. Yes, God's messenger
                                                   of life to me and happiness to you, my girl, came
                                                   in the shape of a kindly, chattering,
                                                   blue-skinned, human creature, who dragged me out
@@ -3380,8 +3356,7 @@
                                                   like nothing but a mother when she finds her
                                                   long-lost child: not that she's your mother, Emmy
                                                   dear. No—no—matters are better than that: all she
-                                                  vouchsafes, though, to tell me is, <pb n="76"
-                                                  />that you are a lady born and bred, and—for I
+                                                  vouchsafes, though, to tell me is, <pb n="76"/>that you are a lady born and bred, and—for I
                                                   cannot find the words to inform your pure mind
                                                   clearer—that 'you are not what he thinks
                                                   you.'"</p>
@@ -3548,8 +3523,7 @@
                                                   selfishness.</p>
                                                 <p>The filched cash-box proved to be too well-filled
                                                   for him to trouble himself with thinking of his
-                                                  mother yet awhile: and his smuggling <pb n="79"
-                                                  />acquaintances, a rough-featured, blasphemous
+                                                  mother yet awhile: and his smuggling <pb n="79"/>acquaintances, a rough-featured, blasphemous
                                                   crew, set him as their chief, so long as he swore
                                                   loudest, drank deepest, and had money at command.
                                                   He hid the money, that they should not secretly
@@ -3597,8 +3571,7 @@
                                                   all peacefulness for blusterings and wrath.</p>
                                                 <p>He remembered then poor Julian and his mother:
                                                   taking blame to himself, justly, deeply, for
-                                                  neglected duties, chilling lack of sympathy, <pb
-                                                  n="80"/>and that dull domestic sin, that still
+                                                  neglected duties, chilling lack of sympathy, <pb n="80"/>and that dull domestic sin, that still
                                                   continued evil of unnatural omissions—stern
                                                   reserve. And he would gladly have seen Julian by
                                                   his bedside, to have freely forgiven the lad, and
@@ -3651,8 +3624,7 @@
                                                   each other."</p>
                                                 <p>"Ha! that's always the way with old sinners like
                                                   you—canting hypocrites! Be a man, General Tracy,
-                                                  if you can, and talk sense. I never <pb n="81"
-                                                  />did any harm or sin in all my life yet, and
+                                                  if you can, and talk sense. I never <pb n="81"/>did any harm or sin in all my life yet, and
                                                   don't intend to: and my poor boy Julian's well
                                                   enough, if they'd only let him alone; but nobody
                                                   understands his heart but me. Good boy, I'm sure
@@ -3701,8 +3673,7 @@
                                                   asunder. It is evident to me that Charles's letter
                                                   (which Emily showed to me with a melancholy face)
                                                   was on principle less warm, less dottable with
-                                                  stars, and more conversant with things of this <pb
-                                                  n="82"/>world; high, firm, honourable principle;
+                                                  stars, and more conversant with things of this <pb n="82"/>world; high, firm, honourable principle;
                                                   intending very gently, very gradually, to wean her
                                                   from him, if he could; for his faith in Jeanie
                                                   Mackie had been shaken, and—but let us hear him
@@ -4034,8 +4005,7 @@
                                                   Charles, just come in, and dated Plymouth:</p>
                                                 <p>"Huzzah—for Emily and England: huzzah for the
                                                   land of freedom! no secrets now—dear, dear old
-                                                  Jeanie Mackie has given me proofs posi<pb n="88"
-                                                  />tive: all I have to wish is that she could move:
+                                                  Jeanie Mackie has given me proofs posi<pb n="88"/>tive: all I have to wish is that she could move:
                                                   but she is very ill; so, as we touched here on the
                                                   voyage up channel, I landed her and myself,
                                                   thinking to kiss, within a day, my darling Emmy.
@@ -4186,8 +4156,7 @@
                                                   length; that day formerly so hoped-for, latterly
                                                   so feared, but last of all, hailed with the joy
                                                   that trembles at its own intensity. The very
-                                                  morning after the sad occurrence it <pb n="91"
-                                                  />has just been my lot to chronicle—while the
+                                                  morning after the sad occurrence it <pb n="91"/>has just been my lot to chronicle—while the
                                                   general was having his wounds dressed, slight
                                                   ones, happily, but still he was not safe, as
                                                   inflammation might ensue—while Mrs. Tracy was
@@ -4297,8 +4266,7 @@
                                                   of their own child; and how little notice was
                                                   taken by any body of the poor Scotch gentleman's
                                                   orphan. Accordingly, with a view to give her
-                                                  favourite all worldly advantages, she adroitly <pb
-                                                  n="93"/>changed the children; and, while she was
+                                                  favourite all worldly advantages, she adroitly <pb n="93"/>changed the children; and, while she was
                                                   still kind and motherly to the little Tracy-Begum,
                                                   she had the satisfaction to see her pet
                                                   supposititiously brought up in all the splendours
@@ -4514,8 +4482,7 @@
                                                   sergeant, Duncan Blair.</p>
                                                 <p>Amy's rights—or Emmy let us call her still, as
                                                   Charles did—were now, therefore, the next object
-                                                  of Mrs. Mackie's zeal; and all parties <pb n="97"
-                                                  />interested willingly listened to the plan of
+                                                  of Mrs. Mackie's zeal; and all parties <pb n="97"/>interested willingly listened to the plan of
                                                   spending one or two of those weary weeks in
                                                   rubbing up relationships in Scotland; the general
                                                   also was not a little anxious about heritage and
@@ -4667,8 +4634,6 @@
                                                 <trailer>THE END</trailer>
                                     </div>
                         </body>
-                      <!--  <back><div type="liminal"><head>Postscript.</head>
-                        <p>My story has come to a decent end, but it seems my book has not...</p></div></back>
-                    -->    
+                          
             </text>
 </TEI>

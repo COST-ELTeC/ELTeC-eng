@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19111" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19111" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Camera Fiend : ELTeC edition</title>
-    <author ref="viaf:71409962">Hornung, Ernest William (1866-1921)</author>
+    <author ref="https://viaf.org/viaf/71409962/">Hornung, Ernest William (1866-1921)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -29,7 +28,7 @@
    <sourceDesc>
     <bibl type="digitalSource">
      <title>The Project Gutenberg EBook of The Camera Fiend by E.W. Hornung</title>
-     <ref target="gut:30096">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/30096/30096-h/30096-h.htm">Gutenberg</ref>
     </bibl>
     <bibl type="firstEdition" n="B0">
      <title>The Camera Fiend</title>
@@ -41,7 +40,7 @@
     <bibl type="printSource">
      <title>The Camera Fiend</title>
      <publisher>Charlesd Scribner's sons. New York, 1911</publisher>
-     <ref target="ia:thecamerafiend00horn"/>
+     <ref target="http://archive.org/details/thecamerafiend00horn"/>
     </bibl>
    </sourceDesc>
 

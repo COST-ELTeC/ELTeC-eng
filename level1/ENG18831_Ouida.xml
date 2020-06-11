@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18831"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18831" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>Folle-Farine : ELTeC edition</title>
-    <author ref="viaf:34490941">Ouida, [pseud.] (1839-1908)</author>
+    <author ref="https://viaf.org/viaf/34490941/">Ouida, [pseud.] (1839-1908)</author>
     <respStmt>
      <resp>Transcribed and encoded by</resp>
      <name>Kathryn Benedict</name>
@@ -43,13 +41,11 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>Folle-Farine : VWWP edition </title><author>Ouida,
       1839-1908</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7066">VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7066">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B236"><title>Folle-Farine</title><author>Ouida,
-      1839-1908</author><publisher>Chatto and Windus</publisher><pubPlace>London </pubPlace><date
-      when="1883">1883</date>
-     <ref target="bod:600060606.pdf">vol 1</ref>; <ref target="bod:600060607.pdf">vol 2</ref>; <ref
-      target="bod:600060608.pdf">vol 3</ref></bibl>
-    <!-- transcription is from some other ed -->
+      1839-1908</author><publisher>Chatto and Windus</publisher><pubPlace>London </pubPlace><date when="1883">1883</date>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600060606.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600060607.pdf">vol 2</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600060608.pdf">vol 3</ref></bibl>
+    
 
    </sourceDesc>
   </fileDesc>
@@ -1983,8 +1979,7 @@
      <p>“The possible, then, is only—the worse?” she said slowly.</p>
      <p>The old man smiled still grimly.</p>
      <p>“Nay; our friends the priests say there is a ‘possible’ which will give—one day—the fowler
-      who kills the lark the wings of the lark, and the lark’s power to sing <foreign xml:lang="lat"
-       >Laus Deo</foreign> in heaven. <emph>I</emph> do not say—they do.”</p>
+      who kills the lark the wings of the lark, and the lark’s power to sing <foreign xml:lang="lat">Laus Deo</foreign> in heaven. <emph>I</emph> do not say—they do.”</p>
      <p>“The priests!”</p>
      <p>All the scorn of which her curved lips were capable curled on them, and a deep hate gathered
       in her eyes—a hate that was unfathomable and mute.</p>
@@ -6699,8 +6694,7 @@
       comrade, and flung it at her as she came.</p>
      <p>“It is a shame to see the child of Reine Flamma so dealt with,” murmured the old creature
       that was grouping her salads.</p>
-     <p>But her voice found no echo. The old soldier even rebuked her. “A <foreign xml:lang="fre"
-       >jettatrice</foreign> should be killed for the good of the people,” he mumbled.</p>
+     <p>But her voice found no echo. The old soldier even rebuked her. “A <foreign xml:lang="fre">jettatrice</foreign> should be killed for the good of the people,” he mumbled.</p>
      <p>Meanwhile she came nearer and nearer. The last stone had struck her upon the arm; but it had
       drawn no blood; she walked on with firm, slow steps into their midst; unfaltering.</p>
      <p>The courage did not touch them; they thought it only the hardihood of a thing that was
@@ -11680,8 +11674,7 @@
      <p>To which the groups called back again, “Yes. A thief of a gipsy, begging alms while she had
       stolen gold on her. She has stabbed poor little Fréki, the blind cobbler’s grandson: yes; we
       think he is dead.”</p>
-     <p>And the people above, in horror, lifted their hands and eyes, and shouted afresh, “<foreign
-       xml:lang="fre">Au violon!—au violon!</foreign>”</p>
+     <p>And the people above, in horror, lifted their hands and eyes, and shouted afresh, “<foreign xml:lang="fre">Au violon!—au violon!</foreign>”</p>
      <p>Meanwhile the honey‐seller ran beside them, crying aloud that she had been robbed of five
       broad gold pieces.</p>
      <p>It was a little sunny country‐place, very green with trees and grass, filled usually with
@@ -13141,8 +13134,7 @@
       She, so long used to rise ere ever the first streaks of the day were seen, roused scores of
       them; and in payment they gave her the right to warm herself at their stove, a handful of
       their chestnuts, a fragment of their crust, a little copper piece—anything that they could
-      afford or she would consent to take. A woman, who had been the <foreign xml:lang="fre"
-       >reveilleuse</foreign> of the quarter many years, had died; and they
+      afford or she would consent to take. A woman, who had been the <foreign xml:lang="fre">reveilleuse</foreign> of the quarter many years, had died; and they
       <pb n="455" xml:id="VAB7066-454"/> were glad of her;—“Her eyes have no seep in them,” they
       said; and they found that she never failed.</p>
      <p>It was a strange trade—to rise whilst yet for the world it was night, and go to and fro the

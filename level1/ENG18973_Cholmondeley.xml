@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18973"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18973" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>A Devotee: An Episode in the Life of a Butterfly : ELTec edition</title>
-    <author ref="viaf:40510526">Cholmondeley, Mary (1859-1925).</author>
+    <author ref="https://viaf.org/viaf/40510526/">Cholmondeley, Mary (1859-1925).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -17,7 +15,7 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of A Devotee, by Mary
-      Cholmondeley.</title><ref target="gut:40408">Gutenberg</ref>
+      Cholmondeley.</title><ref target="http://www.gutenberg.org/files/40408/40408-h/40408-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by</resp>
       <name>Suzanne Shell, Linda Hamilton, and the Online Distributed Proofreading Team-</name>
@@ -26,7 +24,7 @@
     <bibl type="firstEdition" n="B8109"><title>A Devotee: An Episode in the Life of a
       Butterfly</title><author>Cholmondeley, Mary (1859-1925).</author><publisher>London: Edward
       Arnold</publisher><date>1897</date>
-    <ref target="ia:devoteeepisodein00cholrich.pdf"/></bibl>
+    <ref target="http://archive.org/details/devoteeepisodein00cholrich.http://archive.org/details/pdf"/></bibl>
 
    </sourceDesc>
   </fileDesc>

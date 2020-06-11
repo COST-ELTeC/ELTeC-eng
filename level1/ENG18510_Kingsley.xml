@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18510" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18510" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Yeast: A Problem : ELTeC edition</title>
-    <author ref="viaf:27081838">Kingsley, Charles (1819-1875)</author>
+    <author ref="https://viaf.org/viaf/27081838/">Kingsley, Charles (1819-1875)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -32,13 +31,13 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook, Yeast: A
       Problem</title><author>Charles Kingsley </author>
-     <ref target="gut:10364">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/10364/10364-h/10364-h.htm">Gutenberg</ref>
      <date>December 2, 2003</date>
     </bibl>
     <bibl type="firstEdition" n="B7479"><title>Yeast: A Problem</title><author>Charles Kingsley
       </author><publisher>London: John W. Parker</publisher><date>1851</date>
-     <ref target="bod:400291722.pdf">reprinted with corrections and additions</ref>; 
-     <ref target="bod:600052788.pdf">4th ed</ref></bibl>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400291722.pdf">reprinted with corrections and additions</ref>; 
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600052788.pdf">4th ed</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

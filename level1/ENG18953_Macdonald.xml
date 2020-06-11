@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18953" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18953" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Lilith; A Romance : ELTec edition</title>
-    <author ref="viaf:64008667">MacDonald, George (1824-1905).</author>
+    <author ref="https://viaf.org/viaf/64008667/">MacDonald, George (1824-1905).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -24,7 +23,7 @@
       MI: Christian Classics Ethereal Library</publisher></bibl>
     <bibl type="firstEdition" n="B8821"><title>Lilith: A Romance</title><author>MacDonald, George
       (1824-1905).</author><publisher>London: Chatto and Windus</publisher><date>1895</date>
-     <ref target="ia:lilithromance00macduoft.pdf"/></bibl>
+     <ref target="http://archive.org/details/lilithromance00macduoft.http://archive.org/details/pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -6876,8 +6875,7 @@
     <p>"Welcome home!" he said to us, bending low with the sweetest smile.</p>
     <p>Immediately he turned and led the way higher. The scales of his armour flashed like flakes of
      lightning.</p>
-    <p>Thought cannot form itself to tell what I felt, thus received by the officers of heaven.<ref
-      target="#ENG18953_N3"/> All I wanted and knew not, must be on its way to me!</p>
+    <p>Thought cannot form itself to tell what I felt, thus received by the officers of heaven.<ref target="#ENG18953_N3"/> All I wanted and knew not, must be on its way to me!</p>
     <p>We stood for a moment at the gate whence issued roaring the radiant river. I know not whence
      came the stones that fashioned it, but among them I saw the prototypes of all the gems I had
      loved on earth—far more beautiful than they, for these were living stones—such in which I saw,

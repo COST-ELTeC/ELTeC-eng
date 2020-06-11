@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18531">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18531">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
                                                 <title>The Heir of Redclyffe : ELTeC edition</title>
-                                                <author ref="viaf:71399881">Yonge, Charlotte Mary
+                                                <author ref="https://viaf.org/viaf/71399881/">Yonge, Charlotte Mary
                                                   (1823-1901)</author>
                                                 <respStmt>
                                                   <resp>ELTeC conversion</resp>
@@ -21,17 +20,12 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>The Heir of
@@ -44,7 +38,7 @@
                                                   of Redclyffe</title><author>Yonge, Charlotte Mary
                                                   (1823-1901).</author><publisher>London: John W.
                                                   Parker</publisher><date>1853</date>
-                                                            <ref target="ia:heirofredclyffe01yong">vol 1</ref>; <ref target="ia:heirofredclyffe02yong">vol 2</ref></bibl>
+                                                            <ref target="http://archive.org/details/heirofredclyffe01yong">vol 1</ref>; <ref target="http://archive.org/details/heirofredclyffe02yong">vol 2</ref></bibl>
                                     </sourceDesc>
                         </fileDesc>
                         <encodingDesc n="eltec-1">
@@ -55,15 +49,10 @@
                                                 <language ident="eng">English</language>
                                     </langUsage>
                                     <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="F"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="long"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="low"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T1"/>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
@@ -2002,8 +1991,7 @@
                                                   carried on with great spirit for more than an
                                                   hour. It was hard to say which made most fun,
                                                   Maurice, Charles, or Guy; the last no longer a
-                                                  spectator, but an active contributor to the <pb
-                                                  n="45"/> sport. When the break up came, Mary and
+                                                  spectator, but an active contributor to the <pb n="45"/> sport. When the break up came, Mary and
                                                   Amabel were standing over the table together,
                                                   collecting the scattered papers, and observing
                                                   that it had been very good fun. 'Some so
@@ -2085,8 +2073,7 @@
                                                   mountain streams, eddying fiercely along, bearing
                                                   with them tree and rock; while the valleys became
                                                   lakes, and the little mounds islets; and the trees
-                                                  looked strangely out of proportion when <pb n="47"
-                                                  /> only their branches were visible. 'Oh! a great
+                                                  looked strangely out of proportion when <pb n="47"/> only their branches were visible. 'Oh! a great
                                                   flood is famous fun,' said he.</p>
                                                   <p>'Surely,' said Philip, 'I have heard some
                                                   legend of your being nearly drowned in some
@@ -2485,8 +2472,7 @@
                                                   dangerous might be the effect of destroying the
                                                   chance of a friendship between Guy and the only
                                                   person whose guidance was likely to be beneficial
-                                                  to him; but his idle, unoccupied life, and <pb
-                                                  n="56"/> habit of only thinking of things as they
+                                                  to him; but his idle, unoccupied life, and <pb n="56"/> habit of only thinking of things as they
                                                   concerned his immediate amusement, made him ready
                                                   to do anything for the sake of opposition to
                                                   Philip, and enjoy the vague idea of excitement to
@@ -5265,8 +5251,7 @@
                                                   sister had been in question, he would never have
                                                   trifled about it. Keenly alive to his cousin's
                                                   injustice, he rejoiced in having provoked and
-                                                  mystified the impassible, though he little <pb
-                                                  n="122"/> knew the storm he had raised beneath
+                                                  mystified the impassible, though he little <pb n="122"/> knew the storm he had raised beneath
                                                   that serene exterior of perfect self-command.</p>
                                                   <p>The carriages were announced, and Mr.
                                                   Edmonstone began to call the ladies, adding
@@ -5655,8 +5640,7 @@
                                                   he reflected on these things, trembled for Laura,
                                                   and felt himself her only protector; for his uncle
                                                   was nobody, Mrs. Edmonstone was infatuated, and
-                                                  Charles would not listen to reason. To make <pb
-                                                  n="132"/> everything worse, he had that morning
+                                                  Charles would not listen to reason. To make <pb n="132"/> everything worse, he had that morning
                                                   heard that there was to be a grand inspection of
                                                   the regiment and a presentation of colours;
                                                   Colonel Deane was very anxious, and it was plain
@@ -6680,8 +6664,7 @@
                                                   though she neither expected nor desired him to
                                                   bestow more time on her, she underwent a strange
                                                   restlessness and impatience of feeling. Her
-                                                  numerous partners teased her by hindering <pb
-                                                  n="156"/> her from watching him moving about the
+                                                  numerous partners teased her by hindering <pb n="156"/> her from watching him moving about the
                                                   room, catching his tones, and guessing what he was
                                                   talking of;— not that she wanted to meet his eye,
                                                   for she did not like to blush, nor did she think
@@ -8273,8 +8256,7 @@
                                                   seating himself opposite to her, began,—</p>
                                                   <p>'What do you mean to do about this unfortunate
                                                   rencontre?'</p>
-                                                  <p>'Do you mean Guy and his uncle? He is very <pb
-                                                  n="194"/> much pleased, poor boy! I like his
+                                                  <p>'Do you mean Guy and his uncle? He is very <pb n="194"/> much pleased, poor boy! I like his
                                                   entire freedom from false shame.'</p>
                                                   <p>'A little true shame would be hardly misplaced
                                                   about such a connexion!'</p>
@@ -8443,8 +8425,7 @@
                                                   born in a different station, which is all I have
                                                   heard proved against him,' he added, smiling. 'You
                                                   will forgive me, will you not, for not following
-                                                  your advice? for really and truly, if <pb n="198"
-                                                  /> you will let me say so, I think you would not
+                                                  your advice? for really and truly, if <pb n="198"/> you will let me say so, I think you would not
                                                   have given it if Philip had not been talking to
                                                   you.</p>
                                                   <p>Mrs. Edmonstone confessed, with a smile, that
@@ -10126,8 +10107,7 @@
                                                   of the post. They seem to keep up a brisk
                                                   correspondence with him from Hollywell. Few
                                                   guardian's letters are, I should guess, honoured
-                                                  with such deepening colour as his while <pb
-                                                  n="239"/> reading one from my uncle. He tells me
+                                                  with such deepening colour as his while <pb n="239"/> reading one from my uncle. He tells me
                                                   he has been calling at Stylehurst; it is a pity,
                                                   for his sake, that Colonel Harewood is at home,
                                                   for the society of those sons is by no means
@@ -10520,8 +10500,7 @@
                                                   degradation to which this hateful vice almost
                                                   invariably conducts its victims, and consistenly
                                                   with my duty as your guardian, everything in my
-                                                  power shall be done to extricate you from the <pb
-                                                  n="248"/> embarrassments in which you have
+                                                  power shall be done to extricate you from the <pb n="248"/> embarrassments in which you have
                                                   involved yourself. But, in the first place, I make
                                                   it a point that you treat me with perfect
                                                   confidence, and make a full, unequivocal statement
@@ -10870,8 +10849,7 @@
                                                   silence, and Philip's insinuations respecting the
                                                   days he spent in London left on Mr. Edmonstone's
                                                   mind, and which gained strength from their
-                                                  recurrence. The days were, indeed, not <pb n="257"
-                                                  /> many; it was only that in coming from and going
+                                                  recurrence. The days were, indeed, not <pb n="257"/> many; it was only that in coming from and going
                                                   to Oxford, he slept a night at an hotel in London
                                                   (for his uncle never would take him to his
                                                   lodgings, never even would tell him where they
@@ -11445,8 +11423,7 @@
                                                   wish, under his belief, to save Amabel; and though
                                                   the manner might have been otherwise, the
                                                   proceeding itself admitted complete justification.
-                                                  Indeed, when Guy recollected the frenzy <pb
-                                                  n="271"/> of his rage, and his own murderous
+                                                  Indeed, when Guy recollected the frenzy <pb n="271"/> of his rage, and his own murderous
                                                   impulse, he was shocked to think that he had ever
                                                   sought the love of that pure and gentle creature,
                                                   as if it had been a cruel and profane linking of
@@ -11843,8 +11820,7 @@
                                                   violent, and to keep him to the matter in hand, he
                                                   defended Guy from the exaggerations of his
                                                   imagination in a manner which appeared highly
-                                                  noble, considering how Guy had spoken of him. <pb
-                                                  n="281"/> Before they parted that night, another
+                                                  noble, considering how Guy had spoken of him. <pb n="281"/> Before they parted that night, another
                                                   letter had been written, which stood thus,—</p>
                                                   <p>' <hi>Dear Sir Guy</hi> ,—Since you refuse the
                                                   confidence which I have a right to demand, since
@@ -13984,8 +13960,7 @@
                                                   with the grey, large-windowed, old-fashioned
                                                   houses, on each side, looking at him with friendly
                                                   eyes. There, behind those limes cut out in arches,
-                                                  was the commercial school, where he had spent <pb
-                                                  n="333"/> many an hour in construing with patient
+                                                  was the commercial school, where he had spent <pb n="333"/> many an hour in construing with patient
                                                   Mr. Potts; and though he had now a juster
                                                   appreciation of his old master's erudition, which
                                                   he had once thought so vast, he recollected with
@@ -14704,8 +14679,7 @@
                                                   as he was with most; and she would not let him go,
                                                   coaxing him not to stay away long, till at last he
                                                   put her on the sofa, saying, 'There, there,
-                                                  Marianne, that will do. Only be a good <pb n="350"
-                                                  /> child, and I'll come for you.' I never forget
+                                                  Marianne, that will do. Only be a good <pb n="350"/> child, and I'll come for you.' I never forget
                                                   those words, for they were the last I ever heard
                                                   him speak.'</p>
                                                   <p>'Well?'</p>
@@ -16403,8 +16377,7 @@
                                                   he, with vehemence, 'that the happiness of at
                                                   least one life should be sacrificed to hide one
                                                   step in the ruin of a man who will not let himself
-                                                  be saved? Is it not a waste of self-devotion? <pb
-                                                  n="32"/> Have I any right to sacrifice hers? Ought
+                                                  be saved? Is it not a waste of self-devotion? <pb n="32"/> Have I any right to sacrifice hers? Ought
                                                   I not rather—and a flash of joy came over him—'to
                                                   make my uncle give me back my promise of
                                                   concealment? I can make it up to him. It cannot
@@ -16665,8 +16638,7 @@
                                                   distress, and saying they were ruined, till you
                                                   came and talked to her mother, and gave her
                                                   something. I asked if it was money, and she said
-                                                  it was paper. I showed her a draft, and she <pb
-                                                  n="39"/> knew it was like that. So then I made her
+                                                  it was paper. I showed her a draft, and she <pb n="39"/> knew it was like that. So then I made her
                                                   tell me where to find her father, whom I used to
                                                   know in old times, and had to write to, now and
                                                   then. I hunted him up, and a creditable figure he
@@ -17224,8 +17196,7 @@
                                                   be helped, and we will try to make the best of
                                                   her. Only don't say any more about my being
                                                   happier without you; for one thing I am very sure
-                                                  of, Guy, I had rather bear anything with <pb
-                                                  n="53"/> you, than know you were bearing it alone.
+                                                  of, Guy, I had rather bear anything with <pb n="53"/> you, than know you were bearing it alone.
                                                   I am only afraid of being foolish and weak, and
                                                   making things worse for you.'</p>
                                                   <p>'So much worse! But still,' he added, 'speak as
@@ -17526,8 +17497,7 @@
                                                   particularly tender and affectionate, it gave even
                                                   more probability to the supposition. This made
                                                   Guy, who felt as if he was committing a robbery on
-                                                  them all, particularly kind to her, as if he <pb
-                                                  n="60"/> wished to atone for the injury of taking
+                                                  them all, particularly kind to her, as if he <pb n="60"/> wished to atone for the injury of taking
                                                   away her sister; and his kindness gave her
                                                   additional pain at entertaining such hard thoughts
                                                   of him.</p>
@@ -18129,8 +18099,7 @@
                                                   been as cutting as Charles could make it; but
                                                   Laura trusted to Philip's knowledge of the family,
                                                   and desire for their good, to make him forgive it;
-                                                  and the expectation of seeing him again at <pb
-                                                  n="75"/> the wedding, cheered her. Indeed, a hope
+                                                  and the expectation of seeing him again at <pb n="75"/> the wedding, cheered her. Indeed, a hope
                                                   of still greater consequences began to rise in her
                                                   mind, after Charles one day said to her, 'I think
                                                   you ought to be much obliged to Guy. This morning,
@@ -18485,8 +18454,7 @@
                                                   recommend. One of the officers of his regiment had
                                                   lately had staying with him a brother who had just
                                                   left Oxford, and was looking out for a tutorship,
-                                                  a very clever and agreeable young man, <pb n="84"
-                                                  /> whom he liked particularly, and he strongly
+                                                  a very clever and agreeable young man, <pb n="84"/> whom he liked particularly, and he strongly
                                                   advised Lord Kilcoran to keep his sons under his
                                                   own eye, and place them under the care of this
                                                   gentleman. His advice, especially when enforced by
@@ -18825,8 +18793,7 @@
                                                   was indeed full upon it; but it served to show how
                                                   many of the dark windows were without the lining
                                                   of blinds and curtains, that alone gives the look
-                                                  of life and habitation to a house. How <pb n="92"
-                                                  /> crumbled by sea-wind were the old walls, and
+                                                  of life and habitation to a house. How <pb n="92"/> crumbled by sea-wind were the old walls, and
                                                   the aspect altogether full of a dreary
                                                   haughtiness, suiting with the whole of the stories
                                                   connected with its name, from the time when it was
@@ -18961,8 +18928,7 @@
                                                   in not engrossing Amy, and one who had only known
                                                   him three years ago, when he was all exaction and
                                                   selfishness, could have hardly believed him to be
-                                                  the same person who was now only striving <pb
-                                                  n="96"/> to avoid giving pain, by showing how much
+                                                  the same person who was now only striving <pb n="96"/> to avoid giving pain, by showing how much
                                                   it cost him to yield up his sister. He could
                                                   contrive to be merry, but the difficulty was to be
                                                   cheerful; he could make them all laugh in spite of
@@ -19216,8 +19182,7 @@
                                                   <p>'Possible—no indeed.'</p>
                                                   <p>'She <hi>will</hi> say it is not wrong, and
                                                   that I know nothing of lovers.'</p>
-                                                  <p>'You should have told her that ours are not <pb
-                                                  n="102"/> common-place lovers, but far beyond her
+                                                  <p>'You should have told her that ours are not <pb n="102"/> common-place lovers, but far beyond her
                                                   small experience.'</p>
                                                   <p>'I wish I had! Tell her so, Charlie, she will
                                                   believe you.'</p>
@@ -19914,8 +19879,7 @@
                                                   <p>'I thought so too for a moment!' said Guy, in a
                                                   stifled voice. 'You are better now? You are not
                                                   hurt? are you sure?'</p>
-                                                  <p>'Quite sure! I did not fall, you know, only <pb
-                                                  n="119"/> slipped. No, I have nothing the matter
+                                                  <p>'Quite sure! I did not fall, you know, only <pb n="119"/> slipped. No, I have nothing the matter
                                                   with me, thank you.'</p>
                                                   <p>She tried to stand alone, but the trembling
                                                   returned. He made her sit down, and she rested
@@ -20303,8 +20267,7 @@
                                                   irritating Guy, and watching him champ the bit, so
                                                   as to justify his own opinion of him. Every
                                                   proceeding of his cousins seemed to give him
-                                                  annoyance, more especially their being at home <pb
-                                                  n="128"/> together, and Guy's seeming to belong
+                                                  annoyance, more especially their being at home <pb n="128"/> together, and Guy's seeming to belong
                                                   more to Hollywell than himself. He sat by, with a
                                                   book, and watched them, as Guy asked for Laura's
                                                   letter, and Amy came to look over his
@@ -20608,8 +20571,7 @@
                                                   objection was caused by Guy's dislike to submit to
                                                   him, and a fit of impatience of which Amy was the
                                                   victim; nay, that his cousin wanted to escape from
-                                                  his surveillance, and follow the bent of <pb
-                                                  n="135"/> his inclinations; and the whole heap of
+                                                  his surveillance, and follow the bent of <pb n="135"/> his inclinations; and the whole heap of
                                                   prejudices and half-refuted accusations resumed
                                                   their full ascendancy. Never had his manner been
                                                   more vexatious, though without departing from the
@@ -20848,8 +20810,7 @@
                                                   narrowing, they saw the roofs of the houses in the
                                                   little town. The sun shone clear, the air had
                                                   grown fresh as they mounted higher; Amabel could
-                                                  hardly imagine sickness and sorrow in so <pb
-                                                  n="141"/> fair a spot, and turned to her husband
+                                                  hardly imagine sickness and sorrow in so <pb n="141"/> fair a spot, and turned to her husband
                                                   to say so; but he was deep in thought, and she
                                                   would not disturb him.</p>
                                                   <p>The town was built on the bank of the stream,
@@ -20893,8 +20854,7 @@
                                                   into the passage, so that it was possible to
                                                   produce a thorough draught. Under her
                                                   superintendence, Anne made the apartment look
-                                                  comfortable, and almost English, and, <pb n="142"
-                                                  /> sending word that all was ready, she proceeded
+                                                  comfortable, and almost English, and, <pb n="142"/> sending word that all was ready, she proceeded
                                                   to establish herself in the corresponding rooms on
                                                   the floor above.</p>
                                                   <p>Philip was perfectly unconscious when he was
@@ -21025,8 +20985,7 @@
                                                   not fail to come the next night, as he saw every
                                                   reason to expect a crisis. Guy sat intently
                                                   marking every alteration in the worn, flushed,
-                                                  suffering face that rested helplessly on the <pb
-                                                  n="145"/> pillows, and every unconscious movement
+                                                  suffering face that rested helplessly on the <pb n="145"/> pillows, and every unconscious movement
                                                   of the wasted, nerveless limbs stretched out in
                                                   pam and helplessness, contrasting his present
                                                   state with what he was when last they parted, in
@@ -21688,8 +21647,7 @@
                                                   of illness were particularly visible. The colour
                                                   was totally gone, even from his lips; his cheeks
                                                   were sunken, his brow looked broader and more
-                                                  massive from the thinness of his face and the <pb
-                                                  n="161"/> loss of his hair, and his eyes
+                                                  massive from the thinness of his face and the <pb n="161"/> loss of his hair, and his eyes
                                                   themselves appeared unlike what they used to be in
                                                   the hollows round them. He seemed tranquil, and
                                                   comfortable, but so wan, weak, and subdued, and so
@@ -22188,8 +22146,7 @@
                                                   to waste her strength. She knew he was quiet at
                                                   night, and her trustful temper so calmed and
                                                   supported her, that she was able to sleep, and
-                                                  thus was not as liable to be over-worked <pb
-                                                  n="173"/> as might have been feared, and as Philip
+                                                  thus was not as liable to be over-worked <pb n="173"/> as might have been feared, and as Philip
                                                   thought she must be.</p>
                                                   <p>She always appeared in his room with her sweet
                                                   face mournful and anxious, but never ruffled, or
@@ -22231,8 +22188,7 @@
                                                   danger, otherwise, he could never have endured the
                                                   conviction that all had been caused by his own
                                                   imprudence. Imprudence! Philip was brought very
-                                                  low to own that such a word applied to <pb n="174"
-                                                  /> him, yet it would have been well for him had
+                                                  low to own that such a word applied to <pb n="174"/> him, yet it would have been well for him had
                                                   that been the chief burthen on his mind. Was it
                                                   only an ordinary service of friendship and kindred
                                                   that Guy had, at the peril of his own life,
@@ -23172,8 +23128,7 @@
                                                   him, weak as he had become. Every morning, when
                                                   Amabel let in the fresh breeze at the window, she
                                                   predicted it would be a cool day, and do him good;
-                                                  every afternoon, the wind abated, the <pb n="197"
-                                                  /> sun shone full in, the room was stifling, the
+                                                  every afternoon, the wind abated, the <pb n="197"/> sun shone full in, the room was stifling, the
                                                   faintness came on, and after a few vain attempts
                                                   at relieving it, Guy sighed that there was nothing
                                                   for it but quiet, and Amy was obliged to
@@ -24768,8 +24723,7 @@
                                                   promise that had been cut off, remembering his
                                                   hopes for his most beloved sister, and feeding his
                                                   sorrow with imagining hers. It was his first
-                                                  grief, and a very deep one. He seemed to have <pb
-                                                  n="236"/> no comfort but in Mr. Ross, who
+                                                  grief, and a very deep one. He seemed to have <pb n="236"/> no comfort but in Mr. Ross, who
                                                   contrived to come to him every day, and would tell
                                                   him how fully he shared his affection and
                                                   admiration for Guy, how he had marvelled at his
@@ -25159,8 +25113,7 @@
                                                   one in the parish that did not feel as if they had
                                                   lost a son or a brother. He also told more and
                                                   more of Sir Guy's excellence, and talked of fears
-                                                  of his own, especially last Christmas; <pb n="245"
-                                                  /> that the boy was too unlike other people, too
+                                                  of his own, especially last Christmas; <pb n="245"/> that the boy was too unlike other people, too
                                                   good to live; and, lastly, he indulged in a little
                                                   abuse of Captain Morville, which did Charles's
                                                   heart good, at the same time as it amused him to
@@ -25245,8 +25198,7 @@
                                                   scattered with passages of exquisite beauty and
                                                   harmony, and full of power and grace. No one could
                                                   have looked at them without owning in them the
-                                                  marks of a thorough poet; but this was not <pb
-                                                  n="247"/> what the wife was seeking, and when she
+                                                  marks of a thorough poet; but this was not <pb n="247"/> what the wife was seeking, and when she
                                                   perceived it, though it made her face beam with a
                                                   sort of satisfied pride, it was a secondary thing.
                                                   She was studying not his intellect but his soul;
@@ -25868,8 +25820,7 @@
                                                   short visits, and passing the chief of each day at
                                                   Stylehurst. Now, he was almost entirely at her
                                                   mercy, and her unvarying kindness to him caused
-                                                  her deterioration to pain him all the more; <pb
-                                                  n="262"/> while each self-assertion, or harsh
+                                                  her deterioration to pain him all the more; <pb n="262"/> while each self-assertion, or harsh
                                                   judgment, sounded on his ear like a repetition of
                                                   his worst and most hateful presumption. She little
                                                   guessed what she made him endure, for he had
@@ -26260,8 +26211,7 @@
                                                   noticed it. He could hardly resolve to open it,
                                                   for surely Charles would not write to him without
                                                   necessity; and what, save sorrow, could cause that
-                                                  necessity? He saw that his wretchedness might <pb
-                                                  n="272"/> be even more complete! At length he read
+                                                  necessity? He saw that his wretchedness might <pb n="272"/> be even more complete! At length he read
                                                   it, and could hardly believe his own eyes as he
                                                   saw cheering words, in a friendly style of
                                                   interest and kindliness such as he would never
@@ -26745,8 +26695,7 @@
                                                   thought how little he guessed then that he should
                                                   be the destroyer of the happiness of her young
                                                   life. How should he meet her —a widow in her
-                                                  father's house—or look at her fatherless <pb
-                                                  n="284"/> child? He wondered how he had borne to
+                                                  father's house—or look at her fatherless <pb n="284"/> child? He wondered how he had borne to
                                                   come thither at all, and shrank at the thought
                                                   that this very evening, in a few hours, he must
                                                   see her.</p>
@@ -27449,8 +27398,7 @@
                                                   Mary Verena, as she took her back, the drops
                                                   glistening on her brow, her eyes open, and arms
                                                   outspread. It was at that moment that Amabel was
-                                                  first thrilled with a look in her child <pb
-                                                  n="301"/> that was like its father. She had
+                                                  first thrilled with a look in her child <pb n="301"/> that was like its father. She had
                                                   earnestly and often sought a resemblance without
                                                   being able honestly to own that she perceived any;
                                                   but now, though she knew not in what it consisted,
@@ -27621,8 +27569,7 @@
                                                   acknowledging that his repentance was
                                                   well-founded. She was a nurse, not a physician, to
                                                   the wounded spirit; but a very good and gentle
-                                                  nurse she was, and the thorough enjoyment of <pb
-                                                  n="305"/> her affection and sympathy, the opening
+                                                  nurse she was, and the thorough enjoyment of <pb n="305"/> her affection and sympathy, the opening
                                                   into confidence, and the freedom from doubt and
                                                   suspense, were comforts that were doing him good
                                                   every hour.</p>
@@ -27665,8 +27612,7 @@
                                                   happy to have a young man about the house again,
                                                   charmed to see two lovers together, pleased that
                                                   Laura should be mistress of Redclyffe, since it
-                                                  could not belong to Amy's child; altogether, <pb
-                                                  n="306"/> as joyous as ever. His wife, being at
+                                                  could not belong to Amy's child; altogether, <pb n="306"/> as joyous as ever. His wife, being at
                                                   ease about Amy, did her best to smile, and even
                                                   laugh, though sad at heart all the time, as she
                                                   missed the father from the christening feast, and
@@ -27941,8 +27887,7 @@
                                                   seat. 'No, I don't believe I really wish I was
                                                   like poor Alice,' said she; 'I hope not, I am sure
                                                   I don't, for her sake. But Mary, I never knew till
-                                                  I was well again, how much I had reckoned <pb
-                                                  n="313"/> on dying when she was born. I did not
+                                                  I was well again, how much I had reckoned <pb n="313"/> on dying when she was born. I did not
                                                   think I was wishing it, but it seemed likely, and
                                                   I was obliged to arrange things in case of it.
                                                   Then somehow, as he came back last spring, after

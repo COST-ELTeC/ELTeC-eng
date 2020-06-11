@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18480" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Vanity Fair: A Novel without a Hero: ELTeC edition</title>
-                <author ref="viaf:95208604">Thackeray, William Makepeace (1811-1863)</author>
+                <author ref="https://viaf.org/viaf/95208604/">Thackeray, William Makepeace (1811-1863)</author>
             </titleStmt>
             <extent>
                 <measure unit="words">298740</measure>
@@ -33,7 +32,7 @@
                     <title>Vanity Fair: A Novel without a Hero</title>
                     <publisher>London: Bradbury and Evans</publisher>
                     <date>1848</date>
-                    <ref target="bod:590972833.pdf"/>
+                    <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590972833.pdf"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>

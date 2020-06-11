@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18860">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18860">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Mayor of Casterbridge: The Life and Death of a Man of Character : ELTeC
      edition</title>
-    <author ref="viaf:54148778">Hardy, Thomas (1840-1928).</author>
+    <author ref="https://viaf.org/viaf/54148778/">Hardy, Thomas (1840-1928).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -28,7 +27,7 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg EBook of The Mayor of Casterbridge, by
-      Thomas Hardy</title><ref target="gut:143">Gutenberg</ref>
+      Thomas Hardy</title><ref target="http://www.gutenberg.org/files/143/143-h/143-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Transcription</resp>
       <name>John Hamm</name>
@@ -37,12 +36,8 @@
     <bibl type="firstEdition" n="B6088"><title>The Mayor of Casterbridge: The Life and Death of a
       Man of Character</title><author>Thomas Hardy</author><publisher>London: Smith,
       Elder</publisher><date>1886</date>
-     <ref target="ia:mayorofcasterbri01hard">vol 1</ref>; <ref target="ia:mayorofcasterbri02hard">vol 2</ref>
-    </bibl><!--<bibl type="printSource">
-       <title>The Mayor of Casterbridge: a story of a man of character. New edition</title>
-       <date>1887</date>
-       <ref target="bod:590461636.pdf"/>
-      </bibl>-->
+     <ref target="http://archive.org/details/mayorofcasterbri01hard">vol 1</ref>; <ref target="http://archive.org/details/mayorofcasterbri02hard">vol 2</ref>
+    </bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

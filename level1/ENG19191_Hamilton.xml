@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19191"
- xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19191" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>William — an Englishman: ELTeC edition</title>
-    <author ref="viaf:54947993">Hamilton, Cicely (1872-1952)</author>
+    <author ref="https://viaf.org/viaf/54947993/">Hamilton, Cicely (1872-1952)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -27,8 +25,7 @@
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="digitalSource"><title>William — an Englishman</title><ref target="gut:7926"
-      >Gutenberg</ref>
+    <bibl type="digitalSource"><title>William — an Englishman</title><ref target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by</resp>
       <name>Al Haines</name>
@@ -36,7 +33,7 @@
     <bibl type="firstEdition" n="B0"><title>William — an Englishman</title>
      <author>Cicely Hamilton</author><publisher>London:
      Skeffington</publisher><date>1919</date>
-    <ref target="ia:williamanenglish00hamiiala"/></bibl>
+    <ref target="http://archive.org/details/williamanenglish00hamiiala"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

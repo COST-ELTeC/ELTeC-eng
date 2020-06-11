@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18840"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18840" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>Miss Brown : ELTeC edition</title>
-    <author ref="viaf:68945580">Lee, Vernon (1856-1935)</author>
+    <author ref="https://viaf.org/viaf/68945580/">Lee, Vernon (1856-1935)</author>
     <respStmt>
      <resp>Transcribed and encoded by </resp>
      <name>Sarah Gallogly</name>
@@ -16,7 +14,7 @@
      <resp>Edited by </resp>
      <name>Perry Willett</name>
     </respStmt>
-    <respStmt >
+    <respStmt>
      <resp>E-text Editor</resp>
      <name>Brian Norberg</name>
     </respStmt>
@@ -44,12 +42,10 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>Miss Brown : VWWP edition </title><author>Lee, Vernon,
       1856-1935</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7107">VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7107">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B1493"><title>Miss Brown</title><author>Lee, Vernon,
       1856-1935</author><publisher/><pubPlace>London </pubPlace><date when="1884">1884</date>
-     <ref target="ia:missbrownnovel01leevuoft">vol 1</ref>; <ref
-      target="ia:missbrownnovel02leevuoft">vol 2</ref>; <ref target="ia:missbrownnovel03leevuoft"
-      >vol 3</ref></bibl>
+     <ref target="http://archive.org/details/missbrownnovel01leevuoft">vol 1</ref>; <ref target="http://archive.org/details/missbrownnovel02leevuoft">vol 2</ref>; <ref target="http://archive.org/details/missbrownnovel03leevuoft">vol 3</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -223,8 +219,7 @@
       dressing‐room, where boots and canvases littered the floor. But on the mirror was a paper, on
       which was written in the largest characters: “I am gone to sketch at the Lake of
       Massaciuccoli; shan’t be back till lunch; please look after Hamlin.”</p>
-     <p>“Confound it!” thought Hamlin, “am I to be left in <foreign xml:lang="fre"
-       >tête‐à‐tête</foreign> with Mrs Perry all the morning?” But since Melton Perry thought
+     <p>“Confound it!” thought Hamlin, “am I to be left in <foreign xml:lang="fre">tête‐à‐tête</foreign> with Mrs Perry all the morning?” But since Melton Perry thought
       nothing of leaving his guest alone all the morning, he too—the guest—might surely be permitted
       to slip away after breakfast from the effusive æstheticism of his hostess. Having
       <pb n="13" xml:id="VAB7107-013"/> found no sign of life on the first floor, Hamlin went
@@ -427,8 +422,7 @@
       face.</p>
      <p>“And is it true,” interrupted Winnie, “that you are going to do our picture? Mamma said you
       would want to paint us angels or fairies. All the painters paint us, because, mamma says, we
-      are the most beautiful children in Florence. They always give us chocolate and <foreign
-       xml:lang="fre">marrons glacés</foreign> to keep us quiet.”</p>
+      are the most beautiful children in Florence. They always give us chocolate and <foreign xml:lang="fre">marrons glacés</foreign> to keep us quiet.”</p>
     </div>
     <pb n="29" xml:id="VAB7107-029"/>
     <div type="chapter">
@@ -976,8 +970,7 @@
      <p>“I want to teach some day,” she answered.</p>
      <pb n="72" xml:id="VAB7107-072"/>
      <p>“Do you mean to teach the Perry children?”</p>
-     <p>“Oh no—to teach, to be a daily governess, what we call a <foreign xml:lang="ita"
-       >parlatrice</foreign> here. It is not difficult. The lessons are all conversation. Many
+     <p>“Oh no—to teach, to be a daily governess, what we call a <foreign xml:lang="ita">parlatrice</foreign> here. It is not difficult. The lessons are all conversation. Many
       English ladies want those sort of lessons. I know a girl, the daughter of Mrs Perry’s
       dressmaker, who gives ten lessons every day, and and gets two francs a lesson.”</p>
      <p>“Ten lessons a‐day! But that’s fearful. What awful slavery! Surely you don’t want to do
@@ -1115,9 +1108,7 @@
       altar. Hamlin’s entry, however quiet, was soon perceived, and the eyes of all this womankind
       were fixed upon the sight, rare in that country town, of an Englishman; and white silk
       bonnets, and black lace veils, and big red fans, and fuzzy yellow and smooth black heads,
-      leant towards each other,—while questions went round in a whisper, who was the <foreign
-       xml:lang="fre">forestiere</foreign>—the handsome <foreign xml:lang="fre"
-      >forestiere</foreign>—small, slight, meagre, white, with the light hair and moustache, and
+      leant towards each other,—while questions went round in a whisper, who was the <foreign xml:lang="fre">forestiere</foreign>—the handsome <foreign xml:lang="fre">forestiere</foreign>—small, slight, meagre, white, with the light hair and moustache, and
       that melancholy face like a woman’s? Hamlin was quickly bored by all this magnificence;
       jostled to pieces, stifled by the heat, and incense, and heavy smell of the crowd. He was
       going out, when, as his eyes wandered from the silver and lights of the altar, and the shining
@@ -1700,8 +1691,7 @@
       ventured to give him her opinion. She was so earnest that she felt that only something worth
       saying should be said; and what things worth saying could she say to him?</p>
      <p>“By the way,” said Hamlin one day, as she stood, tying her bonnet, and looking out over the
-      sea of shingly roofs, the sudden gaps showing shady gardens far below, open <foreign
-       xml:lang="ita">loggias</foreign>, between whose columns fluttered linen, and irregular rows
+      sea of shingly roofs, the sudden gaps showing shady gardens far below, open <foreign xml:lang="ita">loggias</foreign>, between whose columns fluttered linen, and irregular rows
       of windows with herbs in broken ewers on their sills—“by the way, you have never
       <pb n="134" xml:id="VAB7107-132"/> told me how you liked the ‘Vita Nuova,’ Miss Brown.” He had
       talked of so many books, making her wonder and sometimes laugh at his account of them, but
@@ -2591,8 +2581,7 @@
       weight off her. When she had taken some things out of her box, she went to the window. The
       last flare of sunset was on the marblelike brownish‐green swirls of the Rhine; and filaments
       of reddish gold streaked the sky above Ehrenbreitstein, whose windows gleamed crimson. A
-      steamer was puffing and whistling by the wharf; the trumpets of the <foreign xml:lang="fre"
-       >rappel</foreign> shrieked through the streets and were reechoed from the opposite shore.
+      steamer was puffing and whistling by the wharf; the trumpets of the <foreign xml:lang="fre">rappel</foreign> shrieked through the streets and were reechoed from the opposite shore.
       From inside
       <pb n="208" xml:id="VAB7107-204"/> the house rose the sound of a piano; some one was playing
       Bach’s “Mein gläubiges Herz.”</p>
@@ -2782,8 +2771,7 @@
       he hastened to offer it to Anne, as the kings of the East offered gold and frankincense and
       embroidered raiment to the little Christ. That this was the result of his love, she never
       thought; for she never ventured to think that he condescended, or even would ever condescend,
-      to love her; but it was in her eyes the result of his greatness, his generosity, the <foreign
-       xml:lang="fre">largesse</foreign>, as it were, of his sublimity. About himself Hamlin would
+      to love her; but it was in her eyes the result of his greatness, his generosity, the <foreign xml:lang="fre">largesse</foreign>, as it were, of his sublimity. About himself Hamlin would
       also write a great, great deal. Of singularly delicate mental fibre, and somewhat weak will,
       he was for ever tormented (or pretending to himself to be tormented, for to be so was pretty
       well a matter of choice) by unattainable ideals, by conflicts in his own nature: mysterious
@@ -3187,8 +3175,7 @@
      <pb n="260" xml:id="VAB7107-255"/>
      <p>“Yes,” added Hamlin, “and I must go. Good‐bye, aunt. Good night, Miss Brown; I hope you will
       have good dreams to welcome you home to England. I shall come in for lunch to‐morrow, Aunt
-      Claudia. Good night. Good night, Miss Brown,” and he kissed her hand. “Good night, <foreign
-       xml:lang="ita">buon riposo e sogni felici.</foreign>”</p>
+      Claudia. Good night. Good night, Miss Brown,” and he kissed her hand. “Good night, <foreign xml:lang="ita">buon riposo e sogni felici.</foreign>”</p>
      <p>The few words of Italian almost brought the tears to Anne’s eyes; she felt so strange here,
       so far from everything—and yet what had she left behind? nothing, and no one who loved her,
       except that little girl from New Zealand. She felt terribly alone in the world.</p>
@@ -3927,8 +3914,7 @@
       pleasure of making their acquaintance. Do you remark the vacant space round the piano? Miss
       Euphrosyne Argiropoulo and her sister are alone privileged to enter it, and the waiters also,
       to talk to Monsieur Gosselin and his fair comrades, and offer them refreshments. It is what I
-      call a moral <foreign xml:lang="fre">cordon sanitaire</foreign>, separating these <foreign
-       xml:lang="fre">artistes</foreign> from the highly respectable company all round.”</p>
+      call a moral <foreign xml:lang="fre">cordon sanitaire</foreign>, separating these <foreign xml:lang="fre">artistes</foreign> from the highly respectable company all round.”</p>
      <p>“How horrible!” said Anne; “and do they pay them to be insulted like that?”</p>
      <p>“Pay them? oh, never. The Argiropoulos are far too delicate for that. Monsieur
       <pb n="7" xml:id="VAB7108-008"/> Gosselin and mesdames of the comedy are intimate friends of
@@ -4826,8 +4812,7 @@
      <p>“And—and—are you sorry to have written it?”</p>
      <pb n="80" xml:id="VAB7108-079"/>
      <p>“I don’t know; I can’t judge. There’s O’Reilly outside.”</p>
-     <p>“The disconsolate poet being consoled by his beautiful <foreign xml:lang="fre"
-       >fiancée</foreign> for having written about people who were united in legitimate wedlock,”
+     <p>“The disconsolate poet being consoled by his beautiful <foreign xml:lang="fre">fiancée</foreign> for having written about people who were united in legitimate wedlock,”
       whispered O’Reilly to Mrs Spencer as they entered the room.</p>
      <p>“Well, Hamlin, old fellow, do you repent you of that sinful marriage between your hero and
       heroine?” asked O’Reilly.</p>
@@ -5566,8 +5551,7 @@
       Lewis try. During his performance, as he fixed his green eyes upon her, and made passes with
       his flabby white fingers, Anne felt a loathing as if a slug were trailing over her, but she
       sat unaffected by Mr Lewis’s will‐power, and at last wearied out his patience.</p>
-     <p>“You resisted!—I felt you resist!” cried Lewis angrily, at the end of the <foreign
-       xml:lang="fre">séance</foreign>.</p>
+     <p>“You resisted!—I felt you resist!” cried Lewis angrily, at the end of the <foreign xml:lang="fre">séance</foreign>.</p>
      <pb n="141" xml:id="VAB7108-140"/>
      <p>“There was nothing to resist against,” answered Anne, bluntly; “but had there been, of
       course I should have resisted.”</p>
@@ -6561,8 +6545,7 @@
        religion</emph>), she had heard only of the religion of beauty. Of the men and women who used
       to come to Hammersmith and to Wotton, some, like Chough, professed Catholicism, and wrote
       mystical rhapsodies to the Virgin Mary; others, like Dennistoun, called the Virgin a
-      prostitute, and God a highway murderer: some went in for imitating the <foreign xml:lang="fre"
-       >näiveté</foreign> of medieval Christianity; yet others filled their books with hymns to the
+      prostitute, and God a highway murderer: some went in for imitating the <foreign xml:lang="fre">näiveté</foreign> of medieval Christianity; yet others filled their books with hymns to the
       gods, clean and foul, of paganism. There was a deal of vociferating on the subject; a deal of
       abusive language both of the religious and the irreligious; a deal of exhortation on the part
       of men like Hamlin not to have the bad taste to muddle religion with poetry; and on the whole,
@@ -7349,8 +7332,7 @@
       own little girl in many respects, and fully as ignorant of many things; but she had a
       knowledge of sides of life which Anne instinctively guessed, and from which she recoiled
       <pb n="284" xml:id="VAB7108-282"/>. With an extraordinary love of the beautiful, the
-      fantastic, and the ideal, which, as it made her dress herself in queer <foreign xml:lang="fre"
-       >ingénue</foreign> little costumes, also made her mould her conduct, ideas, and words rather
+      fantastic, and the ideal, which, as it made her dress herself in queer <foreign xml:lang="fre">ingénue</foreign> little costumes, also made her mould her conduct, ideas, and words rather
       theatrically in obedience to a conception of something striking and pretty,—Madame Elaguine
       had, at the same time, a vein—no, Anne thought it must be a mere exterior dab, not due to her
       inner nature, but to her Russian and Continental education—of coarseness, which surprised and
@@ -8124,8 +8106,7 @@
      <p>“The spirits are reluctant; there are too many sceptics in the room,” said Edmund Lewis,
       angrily. “Great as is the power of some of us—as, for instance, of Madame Elaguine—I feel that
       there is something acting as a non‐conductor,—some very chilly nature here.”</p>
-     <p>But nevertheless, when the company was giving up the <foreign xml:lang="fre"
-       >séance</foreign> as spoilt, mysterious sounds were heard, and something luminous, which was
+     <p>But nevertheless, when the company was giving up the <foreign xml:lang="fre">séance</foreign> as spoilt, mysterious sounds were heard, and something luminous, which was
       immediately identified as a pair
       <pb n="15" xml:id="VAB7109-014"/> of spirit‐hands, was seen to float over the table.</p>
      <p>“Spirit‐hands!” whispered Edmund Lewis.</p>
@@ -8151,11 +8132,9 @@
       passed over her; but the green laurels were masses of stamped paper, and left a green stain in
       the hand.</p>
      <p>“It does smack a little of a French <foreign xml:lang="fre">pensionnat de
-       demoiselles</foreign> distribution of prizes; you will get the little book <foreign
-       xml:lang="fre">dorésur tranches</foreign>, ‘Avec l’approbation de Monseigneur l’Archevêque de
+       demoiselles</foreign> distribution of prizes; you will get the little book <foreign xml:lang="fre">dorésur tranches</foreign>, ‘Avec l’approbation de Monseigneur l’Archevêque de
       Tours,’ and ‘Prix décerné à M. Walter Hamlin
-      <pb n="17" xml:id="VAB7109-016"/>,’ written inside, at the next <foreign xml:lang="fre"
-       >séance</foreign>,” cried Thaddy O’Reilly. “Well, it is consoling to see how our beloved dead
+      <pb n="17" xml:id="VAB7109-016"/>,’ written inside, at the next <foreign xml:lang="fre">séance</foreign>,” cried Thaddy O’Reilly. “Well, it is consoling to see how our beloved dead
       keep up the simple habits of the living.”</p>
      <p>There was a titter. Madame Elaguine burst out laughing. Hamlin laughed, but he looked black
       as thunder.</p>
@@ -8964,15 +8943,13 @@
       less of Chough and Dennistoun; he scarcely ever visited his old master, Mrs Spencer, or any
       others of the school; he refused invitations to parties, or if he had accepted, found them too
       great a bore at the last moment; the only house, except that at Hammersmith, which he
-      frequented, was Madame Elaguine’s. He used to attend all her spiritualistic <foreign
-       xml:lang="fre">séances</foreign>, and alternate between finding spiritualism a vulgar fraud
+      frequented, was Madame Elaguine’s. He used to attend all her spiritualistic <foreign xml:lang="fre">séances</foreign>, and alternate between finding spiritualism a vulgar fraud
       and a mystic possibility; he used to quarrel with Edmund Lewis, and at the same time to seek
       his company more than any other man’s. He would vacillate also between the most extreme
       opinions about his cousin Sacha. One day he would entertain Anne by the hour about her
       virtues, her talents, her persecution; the next he would be captiously fault‐finding, accusing
       Madame Elaguine of being a brainless little flirt, a mere ordinary Russian, who
-      <pb n="81" xml:id="VAB7109-080"/> cared only for excitement and being perpetually <foreign
-       xml:lang="fre">en scène</foreign>.</p>
+      <pb n="81" xml:id="VAB7109-080"/> cared only for excitement and being perpetually <foreign xml:lang="fre">en scène</foreign>.</p>
      <p>“What is the use of asking people to be intense when it is not their nature?” Anne would
       ask, not without bitterness in her own heart. “If you find a pleasant friend, be satisfied and
       thankful for your good luck.”</p>
@@ -8988,8 +8965,7 @@
       <pb n="82" xml:id="VAB7109-081"/>, the address upon which. puzzled her considerably. It was
       not merely that the handwriting was unknown to her, but that it was so utterly unlike any
       human handwriting that could be conceived; it was like a child’s elaborate copy of print, but
-      executed with a precision, and at the same time a certain artistic <foreign xml:lang="fre"
-       >chic</foreign>, of which a child is incapable. Had she been in Italy, Anne would have
+      executed with a precision, and at the same time a certain artistic <foreign xml:lang="fre">chic</foreign>, of which a child is incapable. Had she been in Italy, Anne would have
       expected to find within that envelope one of those marvellously written out and illuminated
       sonnets which certain needy individuals, counts and marquises fallen into bad circumstances
       and anxious to redeem their only bed from the pawnbroker’s, serve up at regular intervals to
@@ -9441,16 +9417,14 @@
       a design by Hamlin.</p>
      <p>“Well!”</p>
      <p>“Well, this lady, by some occult power of which I cannot judge, gains possession of the
-      fancy of the Duke—not of his heart,—he still continuing to love the Marquise <foreign
-       xml:lang="fre">coralment</foreign>, as the <foreign xml:lang="fre">trouvères</foreign>
+      fancy of the Duke—not of his heart,—he still continuing to love the Marquise <foreign xml:lang="fre">coralment</foreign>, as the <foreign xml:lang="fre">trouvères</foreign>
       say,—and in short leads him,
       <pb n="119" xml:id="VAB7109-118"/> without however, as I said, in the least diminishing his
       passionate love for the Marquise, into acts, or at least appearances, which, to the mind of
       the vulgar are incompatible with such love. What do you say to that?”</p>
      <p>Little by little Miss Brown had guessed what Chough was hiding beneath this grotesque piece
       of romancing.</p>
-     <p>“I say that the vulgar are probably right; and that the Marquise, for all the <foreign
-       xml:lang="fre">coral</foreign> love of the Duke, had better throw him over, if she has a
+     <p>“I say that the vulgar are probably right; and that the Marquise, for all the <foreign xml:lang="fre">coral</foreign> love of the Duke, had better throw him over, if she has a
       grain of self‐respect. Will you have another cup, Mr Chough?”</p>
      <p>Anne spoke coldly and indifferently; and Chough, who, despite his vaunted knowledge of the
       human heart, was the most obtuse of good‐hearted little people, actually prided himself upon
@@ -9627,8 +9601,7 @@
       Anne, Mrs Spencer, Lewis, and Hamlin—to a perfect concert of all manner of wild gipsy songs,
       Spanish and Russian, sung with a fury which amounted almost to genius; and followed these up
       with little French songs, old and new, picked up heaven knows where—from operettes, from
-      peasants, from books—the words of which and the astonishing <foreign xml:lang="fre"
-       >gaminerie</foreign> with which they were delivered, amused Lewis to fits of laughing, threw
+      peasants, from books—the words of which and the astonishing <foreign xml:lang="fre">gaminerie</foreign> with which they were delivered, amused Lewis to fits of laughing, threw
       Chough into enthusiasm, annoyed Hamlin a little, puzzled poor Mrs Spencer, and made Anne
       reflect, as charitably as she could, upon the different standards of propriety which seemed to
       exist for Englishwomen and for Russians.</p>
@@ -9641,8 +9614,7 @@
      <p>Cousin Sacha seemed to take a pleasure in vexing Hamlin, in shocking Anne, in making Mrs
       Spencer think her a wicked creature; she sang on, in her devil‐may‐care, street‐boy way, with
       a malicious, childish impudence in her face; then suddenly, when she saw Hamlin get positively
-      black at what he considered her bad taste—suddenly dropped from her <foreign xml:lang="fre"
-       >leste</foreign> French couplets into a strange, wild, Spanish gipsy song, sad and despairing
+      black at what he considered her bad taste—suddenly dropped from her <foreign xml:lang="fre">leste</foreign> French couplets into a strange, wild, Spanish gipsy song, sad and despairing
       beyond saying.</p>
      <p>She looked very fascinating, as she sat near the window, resting her guitar on her knee,
       <pb n="135" xml:id="VAB7109-134"/> her tiny feet and embroidered stockings very visible
@@ -9651,8 +9623,7 @@
       emaciated, body and face tense with a sort of hysterical emotion.</p>
      <p>Suddenly she threw the guitar on the sofa.</p>
      <p>“Bah!” she cried, “what is the use of singing sad things when one is sad? and what is the
-      use of pretending to be merry, and shocking people with <foreign xml:lang="fre"
-       >polissoneries</foreign> when one feels as old and dismal as at ninety? I hate music.”</p>
+      use of pretending to be merry, and shocking people with <foreign xml:lang="fre">polissoneries</foreign> when one feels as old and dismal as at ninety? I hate music.”</p>
      <p>And she walked through the French window on to the wide terrace which surrounded one side of
       the house and overlooked the lawn.</p>
      <p>“The only good thing,” she said, “in this world is tobacco‐smoke. If,” turning with affected
@@ -10382,8 +10353,7 @@
       against the wall, any part of his body at random, and bend and sway the rest of him about,
       like a caterpillar. He taught us German literature, and was very shocked because I said the
       ‘Bride of Corinth’ was the only amusing thing Goethe had ever written. He believed in
-      Schopenhauer—and hated women, and me in particular, because I had no <foreign xml:lang="ger"
-       >Sittlicher Ernst</foreign>; and one day, what do you think he did? he fell on his knees and
+      Schopenhauer—and hated women, and me in particular, because I had no <foreign xml:lang="ger">Sittlicher Ernst</foreign>; and one day, what do you think he did? he fell on his knees and
       tried
       <pb n="198" xml:id="VAB7109-195"/> to catch me round the waist. Poor devil! he was turned out
       of doors, and drowned himself later. I wonder whether it was out of despair at my want of
@@ -10426,8 +10396,7 @@
       very clear: I suppose it’s want of <foreign xml:lang="ger">Sittlicher Ernst</foreign>, and
       also because I’m hysterical—at least the doctors say so; because I insist on having my own
       way. I mean that Walter, for instance, hates me in a certain sense just as that professor did.
-      I’m sure he sometimes feels as if he could throttle me, because I have no <foreign
-       xml:lang="ger">Sittlicher Ernst</foreign>, and because I made love to him, and offered him
+      I’m sure he sometimes feels as if he could throttle me, because I have no <foreign xml:lang="ger">Sittlicher Ernst</foreign>, and because I made love to him, and offered him
       barley‐sugar and tops when I was ten. And yet! Ah, well, I suppose I am a wretch! Oh, Annie
       dear, I fear, I fear I am a wretch!” and Madame Elaguine suddenly jumped up from her chair and
       flung her arms round Miss Brown’s neck and kissed her, with such violence that Anne felt her
@@ -11089,8 +11058,7 @@
       The next day Hamlin made an effort over himself: he seemed anxious to be as kind as possible
       to Perry; but somehow it did not succeed. Melton Perry would have liked, as he said, to have
       Walter all to himself, to sit with him by the hour together, or walk out alone with him,
-      talking of old times; but Hamlin seemed possessed by a nervous dread of a <foreign
-       xml:lang="fre">tête‐à‐tête</foreign>. He could not sit in the studio with Perry for more than
+      talking of old times; but Hamlin seemed possessed by a nervous dread of a <foreign xml:lang="fre">tête‐à‐tête</foreign>. He could not sit in the studio with Perry for more than
       half an hour without, on some excuse or other, calling his aunt or Miss Brown. He seemed to
       have invited a lot of people to drop in at all hours, as if to protect him from his old
       friend.</p>
@@ -11101,8 +11069,7 @@
       these confounded influential people will keep; and that I’d rather have a good talk over a
       pipe with him alone, as in old days.”</p>
      <p>Anne did not answer. It seemed to her that she understood so well why Hamlin dreaded a
-       <foreign xml:lang="fre">tête‐à‐tête</foreign> with Melton Perry; a <foreign xml:lang="fre"
-       >tête‐à‐t;ête</foreign> which would be, largely, a talk about the past and the future, about
+       <foreign xml:lang="fre">tête‐à‐tête</foreign> with Melton Perry; a <foreign xml:lang="fre">tête‐à‐t;ête</foreign> which would be, largely, a talk about the past and the future, about
       her, Anne Brown. But Anne could not think about poor Perry and his disappointed friendliness;
       her whole nature seemed to be staggering and reeling, and the concerns of other folk were as
       distant, as unattainable, as they might be to a person tossed for hours on a stormy sea,
@@ -11178,8 +11145,7 @@
       <pb n="261" xml:id="VAB7109-258"/> there has been much drinking: it’s a sort of diseased
       sensitiveness to alcohol—it becomes a kind of poison. You know that Hamlin’s father drank, and
       one of his uncles died of drink, and his brother is either dead or dying, somewhere in a
-       <foreign xml:lang="fre">maison de santé</foreign>, of a sort of mixed <foreign xml:lang="lat"
-       >delirium tremens</foreign> and craziness. It’s a thing,” went on Perry, keeping his eyes
+       <foreign xml:lang="fre">maison de santé</foreign>, of a sort of mixed <foreign xml:lang="lat">delirium tremens</foreign> and craziness. It’s a thing,” went on Perry, keeping his eyes
       fixed on the pattern of the Persian rug under his feet, “which grieves and alarms me horribly;
       and in which I feel that you are probably the only person who could have any influence with
       him. It’s useless my speaking. He must have got in among a bad lot. That little Chough seems

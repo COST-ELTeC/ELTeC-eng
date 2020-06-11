@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18911">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18911">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>New Grub Street: A Novel : ELTeC edition</title>
-    <author ref="viaf:59083174">Gissing, George (1857-1903).</author>
+    <author ref="https://viaf.org/viaf/59083174/">Gissing, George (1857-1903).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -33,9 +32,9 @@
     <bibl type="firstEdition" n="B4652"><title>New Grub Street: A Novel</title><author>George
       Gissing</author>
      <publisher>London: Smith, Elder</publisher><date>1891</date>
-    <ref target="ia:newgrubstreetnov01gissuoft.pdf">vol 1</ref>; 
-     <ref target="ia:newgrubstreetnov02gissuoft.pdf">vol 2</ref>; 
-     <ref target="ia:newgrubstreetnov03gissuoft.pdf">vol 3</ref> </bibl>
+    <ref target="http://archive.org/details/newgrubstreetnov01gissuoft.http://archive.org/details/pdf">vol 1</ref>; 
+     <ref target="http://archive.org/details/newgrubstreetnov02gissuoft.http://archive.org/details/pdf">vol 2</ref>; 
+     <ref target="http://archive.org/details/newgrubstreetnov03gissuoft.http://archive.org/details/pdf">vol 3</ref> </bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

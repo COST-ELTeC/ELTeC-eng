@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18941"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18941" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The Daughters of Danaus : ELTeC edition</title>
-    <author ref="viaf:24650758">Caird, Mona (1854-1932)</author>
+    <author ref="https://viaf.org/viaf/24650758/">Caird, Mona (1854-1932)</author>
     <respStmt>
      <resp>Transcribed, encoded and edited by </resp>
      <name>Perry Willett</name>
@@ -38,11 +36,9 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Daughters of Danaus : VWWP edition </title><author>Caird,
       Mona</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7047"
-      >VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7047">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B9120"><title>The Daughters of Danaus</title><author>Caird,
-      Mona</author><publisher>Bliss, Sands, and Foster</publisher><pubPlace>London </pubPlace><date
-      when="1894">1894</date>
+      Mona</author><publisher>Bliss, Sands, and Foster</publisher><pubPlace>London </pubPlace><date when="1894">1894</date>
      <ref target="https://hdl.handle.net/2027/uc1.aa0016186033"/></bibl>
    </sourceDesc>
   </fileDesc>
@@ -1438,8 +1434,7 @@
        from pitch-and-toss to manslaughter. I think of the two, I rather lean to the manslaughter.
        Oh, I don't mean it in the facetious sense! that would be a terrible downfall from my present
        altitudes. To such devices the usual wretched girl, who has never drawn rebellious breath, or
-       listened to the discourses of Valeria Du Prel, has to turn for a living, or to keep <foreign
-        xml:lang="fre">ennui</foreign> at bay. But <emph>I</emph>, no, the inimical sex may possess
+       listened to the discourses of Valeria Du Prel, has to turn for a living, or to keep <foreign xml:lang="fre">ennui</foreign> at bay. But <emph>I</emph>, no, the inimical sex may possess
        their souls in peace, as far as I am concerned. They might retort that they never
         <emph>had</emph> felt nervous, but a letter has the same advantage as the pulpit: the
        adversary can never get up and contradict.</p>
@@ -1869,8 +1864,7 @@
       <p>“My composing is a very mild affair,” Hadria answered. “I suppose you are more
        fortunate.”</p>
       <p>“Not much. I am pretty busy you see. I have my profession
-       <pb n="74" xml:id="VAB7047-070"/> fession. I play a good deal—the piano and the <foreign
-        xml:lang="ita">'cello</foreign> are my instruments. But my difficulty is to find someone to
+       <pb n="74" xml:id="VAB7047-070"/> fession. I play a good deal—the piano and the <foreign xml:lang="ita">'cello</foreign> are my instruments. But my difficulty is to find someone to
        accompany me. My sister does when she can, but of course with a house and family to look
        after—I am sometimes selfish enough to wish she had not married. We used to be such good
        friends.”</p>
@@ -2014,8 +2008,7 @@
        Prel impatiently.</p>
       <p>Temperley had fallen into the dulcet strains of one who feels, not only that he stands as
        the champion of true wisdom and virtue, but that he is sure of support from the vast majority
-       of his fellows. Miss Du Prel's brusqueness seemed to suit her less admirable <foreign
-        xml:lang="fre">rôle</foreign>.</p>
+       of his fellows. Miss Du Prel's brusqueness seemed to suit her less admirable <foreign xml:lang="fre">rôle</foreign>.</p>
       <p>Temperley was tolerant and regretful. If Miss Du Prel would think for a moment, she could
        not fail to see that Nature ... and so forth, in the same strain of “pious devotion to other
        people's duties” as his companion afterwards described it. She chafed at the exhortation to
@@ -2223,8 +2216,7 @@
        find on closer acquaintance, is not without certain jealousies and weaknesses, but these
        things just seem to float about as gossamer on a mountain-side, and one counts them in
        relation to herself, in about the same proportion. Mr. Temperley—I don't know quite what to
-       say about him. He is a tiny bit too precise and finished perhaps—a little wanting in <foreign
-        xml:lang="fre">élan</foreign>—but he seems very enlightened and full of polite information;
+       say about him. He is a tiny bit too precise and finished perhaps—a little wanting in <foreign xml:lang="fre">élan</foreign>—but he seems very enlightened and full of polite information;
        and ah, his music! When he is playing I am completely carried away. If he said then, ‘Miss
        Fullerton, may I have the pleasure of your society in the infernal regions?’ I should arise
        and take his arm and reply, ‘Delighted,’ and off we would march. But what am I saying? Mr.
@@ -2322,8 +2314,7 @@
       <p>Hadria slowly withdrew her eyes from the horizon, and bent them on the ground.</p>
       <p>“You must have read some of my thoughts,” she said. “I often wonder how it is, that the
        world can drill women into goodness at all.” She raised her head, and went on in a low,
-       bitter tone: “I often wonder why it is, that they don't, one and all, fling up their <foreign
-        xml:lang="fre">rôles</foreign> and revenge themselves to the best of their
+       bitter tone: “I often wonder why it is, that they don't, one and all, fling up their <foreign xml:lang="fre">rôles</foreign> and revenge themselves to the best of their
        ability—intentionally, I mean—upon the world that makes them live under a permanent insult. I
        think, at times, that I should thoroughly enjoy spending my life in sheer, unmitigated
        vengeance, and if I did”—she clenched her hands, and her eyes blazed—“if I did, I would not
@@ -2985,8 +2976,7 @@
        others, although ostensibly for the common weal.</p>
       <p>Hadria thought that she had never seen so strange a contrast as this young woman's
        behaviour, within and without the circle of her perceptions. It was the more remarkable,
-       since her mind was bent upon the details and niceties of conduct, and the <foreign
-        xml:lang="fre">nuances</foreign> of existence.</p>
+       since her mind was bent upon the details and niceties of conduct, and the <foreign xml:lang="fre">nuances</foreign> of existence.</p>
       <p>“I shall come and see you as soon as I can,” she promised, when Mrs. Fullerton rose to
        leave.</p>
       <p>Miss Temperley kept her word. She was charmed with the old house, praising
@@ -4105,8 +4095,7 @@
        had no suspicion that the views which he cherished in so dainty and scholarly a fashion were
        simply an <foreign xml:lang="fre">edition de luxe</foreign> of the views of everybody else.
        But his wife had made that discovery long ago. He smiled at the views of everybody else: his
-       own were put forth as something choice and superior. He had the happy knack of being <foreign
-        xml:lang="fre">bourgeois</foreign> with the air of an artist. If one could picture one's
+       own were put forth as something choice and superior. He had the happy knack of being <foreign xml:lang="fre">bourgeois</foreign> with the air of an artist. If one could picture one's
        grocer weighing out sugar in a Spanish cloak and brigand's hat, it would afford an excellent
        symbol of his spiritual estate. To be perfectly commonplace in a brilliantly original way, is
        to be notable after all.</p>
@@ -4786,8 +4775,7 @@
        as well as Mrs. Walker and the rest?”</p>
       <p>“You were not thinking of heaven when you did this deed, Hadria.”</p>
       <p>“No; I was thinking of the other place.”</p>
-      <p>“And do you hope to get any satisfaction out of your <foreign xml:lang="fre"
-        >protégée</foreign>?”</p>
+      <p>“And do you hope to get any satisfaction out of your <foreign xml:lang="fre">protégée</foreign>?”</p>
       <p>Hadria shrugged her shoulders.</p>
       <p>“I don't know. The child is the result of great sorrow and suffering; it is the price of a
        woman's life; a woman who offended the world, having lived for nearly forty weary obedient
@@ -5665,8 +5653,7 @@
       <p>“You would almost imply that women don't so very much care about their characters,” said
        Valeria.</p>
       <p>“Oh, they do! but sometimes the dulness that an intelligent society has ordained as the
-       classic accompaniment to social smiles, gets the better of a select few—Helen <foreign
-        xml:lang="fre">par exemple</foreign>.”</p>
+       classic accompaniment to social smiles, gets the better of a select few—Helen <foreign xml:lang="fre">par exemple</foreign>.”</p>
       <p>It frequently happened that Hadria and Miss Du Prel came across Lady Engleton and her
        guests, in the Priory garden. From being accidental, the meetings had become intentional.</p>
       <p>“I like to fancy we are fugitives—like Boccaccio's merry company—from the plague of our
@@ -7003,8 +6990,7 @@
        and absorbent “others”—had intricately bound up their notions of happiness with the
        prevention of any such endeavour, and if those notions were of the usual negative,
        home-comfort-and-affection order, narrowly personal, fruitful in nothing except a sort of
-       sentimental egotism that spread over a whole family—what Hadria called an <foreign
-        xml:lang="fre">egotism à douze</foreign>—how far ought these ideas to be respected, and at
+       sentimental egotism that spread over a whole family—what Hadria called an <foreign xml:lang="fre">egotism à douze</foreign>—how far ought these ideas to be respected, and at
        what cost?</p>
       <p>Professor Fortescue was unqualified in his condemnation of the sentiment which erected
        sacrificial altars in the family circle. He spoke scornfully of the doctrine of renunciation,
@@ -7683,8 +7669,7 @@
        tones sprang to the eye. A whiff of foreign smell and a sound of foreign speech reached the
        passengers at about the same moment. The very houses looked unfamiliarly built, and even the
        letters of printed names of hotels and shops had a frivolous, spindly appearance—elegant but
-       frail. The air was different from English air. Some <foreign xml:lang="fre"
-        >bouillon</foreign> and a slice of fowl were very acceptable at the restaurant at the
+       frail. The air was different from English air. Some <foreign xml:lang="fre">bouillon</foreign> and a slice of fowl were very acceptable at the restaurant at the
        station, after the business of examining the luggage was over. Hannah, evidently nourishing a
        sense of injury against the natives for their eccentric jargon, and against the universe for
        the rush and discomfort of the last quarter of an hour, was disposed to express her feelings
@@ -7749,15 +7734,12 @@
        had sat in the quiet drawing-room at Craddock Dene, trying wistfully, hopelessly, to grasp
        the solid fact of an unknown vast reality, through a record here and there. The journey was a
        long one to the Rue Boissy d'Anglas, but tired as she was, Hadria did not wish it shorter.
-       Even Hannah was interested in the brilliantly lighted shops and <foreign xml:lang="fre"
-        >cafés</foreign> and the splendour of the boulevards. Now and again, the dark deserted form
+       Even Hannah was interested in the brilliantly lighted shops and <foreign xml:lang="fre">cafés</foreign> and the splendour of the boulevards. Now and again, the dark deserted form
        of a church loomed out, lonely, amidst the gaiety of Parisian street-life. Some electric lamp
        threw a distant gleam upon calm classic pillars, which seemed to hold aloof, with a quality
        of reserve rarely to be noticed in things Parisian. Hadria greeted it with a feeling of
        gratitude.</p>
-      <p>The great Boulevard was ablaze and swarming with life. The <foreign xml:lang="fre"
-        >cafés</foreign> were full; the gilt and mirrors and the crowds of <foreign xml:lang="fre"
-        >consommateurs</foreign> within, all visible as one passed along the street, while, under
+      <p>The great Boulevard was ablaze and swarming with life. The <foreign xml:lang="fre">cafés</foreign> were full; the gilt and mirrors and the crowds of <foreign xml:lang="fre">consommateurs</foreign> within, all visible as one passed along the street, while, under
        the awning outside, crowds were sitting smoking, drinking, reading the papers.</p>
       <p>Was it really possible that only this morning, those quiet English fields had been dozing
        round one, those sleepy villagers spreading their slow words out, in expressing an absence of
@@ -7925,8 +7907,7 @@
        deliberate and cool-headed, when often they would be the outcome of sheer confusion, or
        chance, or perhaps of a groping experimental effort.</p>
       <p>The first three weeks in Paris had been given up to enjoying the new conditions of
-       existence. But now practical matters claimed consideration. The <foreign xml:lang="fre"
-        >pension</foreign> in the Rue Boissy d'Anglas was not suitable as a permanent abode. Rooms
+       existence. But now practical matters claimed consideration. The <foreign xml:lang="fre">pension</foreign> in the Rue Boissy d'Anglas was not suitable as a permanent abode. Rooms
        must be looked for, combining cheapness with a good situation, within easy distance of the
        scene of Hadria's future musical studies, and also within reach of some park or gardens for
        Martha's benefit.</p>
@@ -7954,8 +7935,7 @@
        frivolous five minutes would often be spent by the two in endeavouring to overcome the rigid
        principles of that well-balanced plaything. But always the dead weight at its heart
        frustrated their attempts. Martha played the most inconsiderate pranks with its centre of
-       gravity, but quite in vain. When a little French boy from the <foreign xml:lang="fre"
-        >étage</foreign> above was allowed to come and play with Martha, she proceeded to experiment
+       gravity, but quite in vain. When a little French boy from the <foreign xml:lang="fre">étage</foreign> above was allowed to come and play with Martha, she proceeded to experiment
        upon <emph>his</emph> centre of gravity in the same way, and seemed much surprised when Jean
        Paul Auguste not only howled indignantly, but didn't swing up again after he was over-turned.
        He remained supine, and had to be reinstated by Hadria and Hannah, and comforted with
@@ -8147,8 +8127,7 @@
        sheer <foreign xml:lang="fre">gaieté de coeur</foreign>, as Jouffroy had said, and if some
        golden grain chanced to be gleaming in this soul or that, what cause for astonishment? The
        rest might be the worst of dross. As well might the chance occur to one of Nature's children
-       as to another. She did not bestow even one golden grain for nothing, <foreign xml:lang="fre"
-        >bien</foreign>
+       as to another. She did not bestow even one golden grain for nothing, <foreign xml:lang="fre">bien</foreign>
        <pb n="318" xml:id="VAB7047-314"/>
        <foreign xml:lang="fre">sûr</foreign>; she meant to be paid back with interest. Just one
        bright bead of the whole vast circlet of the truth: perhaps it was hers, but more likely that
@@ -8163,8 +8142,7 @@
        with great talent, but, alas! they had not persistence. Only last year a charming, beautiful
        young woman, with—<foreign xml:lang="fre">mon Dieu</foreign>!—a talent that might have placed
        her on the topmost rank of singers, had married against the fervent entreaties of Jouffroy,
-       and now he shrugged his shoulders with a gesture of pitying contempt—“<foreign xml:lang="fre"
-        >elle est mère tout simplement</foreign>.” Her force had gone from herself into the plump
+       and now he shrugged his shoulders with a gesture of pitying contempt—“<foreign xml:lang="fre">elle est mère tout simplement</foreign>.” Her force had gone from herself into the plump
        infant, whose “<foreign xml:lang="fre">cris dechirants</foreign>” were all that now remained
        to the world of his mother's once magnificent voice. <foreign xml:lang="fre">Hélas</foreign>!
        how many brilliant careers had he not seen ruined by this fatal instinct! Jouffroy's passion
@@ -8182,8 +8160,7 @@
        stupid maternity,” Jouffrey was inclined to regard women with contempt, not as regards their
        talent, which he declared was often astonishing, but as regards their persistency of
        character and purpose.</p>
-      <p>One could not rely on them. They had enthusiasm—Oh, but enthusiasm <foreign xml:lang="fre"
-        >à faire peur</foreign>, but presently “<foreign xml:lang="fre">un monsieur avec des
+      <p>One could not rely on them. They had enthusiasm—Oh, but enthusiasm <foreign xml:lang="fre">à faire peur</foreign>, but presently “<foreign xml:lang="fre">un monsieur avec des
         moustaches seduisantes</foreign>” approaches, and then “<foreign xml:lang="fre">Phui, c'est
         tout fini</foreign>!” There was something of fatality in the affair. The instinct was
        terrible; a demoniacal possession. It was for women a veritable curse, a disease. M. Jouffroy
@@ -8242,8 +8219,7 @@
        always said that “it was out of the question,” and he appeared to have been right.</p>
       <p>“<foreign xml:lang="fre">Bah,ce ne sont que des moutons</foreign>!” exclaimed Jouffroy. If
        the work had been poorer, less original, there would not have been this trouble. Was there
-       not some other method by which Madame could earn what was necessary, <foreign xml:lang="fre"
-        >en attendant</foreign>?</p>
+       not some other method by which Madame could earn what was necessary, <foreign xml:lang="fre">en attendant</foreign>?</p>
       <p>In one of Professor Fortescue's letters, he had reminded Hadria of his eagerness to help
        her. Yet, what could he do? He had influence in the world of science, but Hadria could not
        produce anything scientific! She bethought her of trying to write light descriptive articles,
@@ -8305,8 +8281,7 @@
        affection, regard. As for <foreign xml:lang="fre">l'amour</foreign>, that was the supreme
        egotism. The affections were simply a means to “make oneself paid.” Affection! Bah! One did
        not offer it for nothing, <foreign xml:lang="fre">bien sûr</foreign>! It was through this
-       insufferable pretext that one arrived at governing others. “<foreign xml:lang="fre"
-        >Comment</foreign>? Your presence can give me happiness, and you will not remain
+       insufferable pretext that one arrived at governing others. “<foreign xml:lang="fre">Comment</foreign>? Your presence can give me happiness, and you will not remain
        <pb n="324" xml:id="VAB7047-320"/> always beside me? It is nothing to you how I suffer? To me
        whom you love you refuse this small demand?” Jouffroy opened his eyes, with a scornful glare.
        “It is in <emph>that</emph> fashion, I promise you, that one can rule!”</p>
@@ -8584,12 +8559,9 @@
        indignant,” continued Jouffroy, waving his hands excitedly, “and she endeavoured to make me
        silent, but she did not have success, I promise you. I appealed to her. I pointed out to her
        your unique power. I reminded her that such power is a gift supreme to the world, which the
-       world must not lose. For the making of little ones and the care of the <foreign
-        xml:lang="fre">ménage</foreign>, there were other women, but you—you were a priestess in the
-       temple of art, you were without prejudice, without the <foreign xml:lang="fre"
-        >bourgeois</foreign> conscience, <foreign xml:lang="fre">grâce au ciel</foreign>! you had
-       the religion of the artist, and your worship was paid at the shrine of Apollo. <foreign
-        xml:lang="fre">Enfin</foreign>, I counselled this elegant lady to return to England and to
+       world must not lose. For the making of little ones and the care of the <foreign xml:lang="fre">ménage</foreign>, there were other women, but you—you were a priestess in the
+       temple of art, you were without prejudice, without the <foreign xml:lang="fre">bourgeois</foreign> conscience, <foreign xml:lang="fre">grâce au ciel</foreign>! you had
+       the religion of the artist, and your worship was paid at the shrine of Apollo. <foreign xml:lang="fre">Enfin</foreign>, I counselled this elegant lady to return to England and to
        leave you in peace. Always with a perfect politeness,” added Jouffroy, panting from excess of
        emotion. Hadria tried in vain to gather the object of this sudden visit on the part of
        Henriette (for Henriette the elegant lady must certainly be).</p>
@@ -8702,8 +8674,7 @@
         <emph>then</emph>: on the contrary, he professed to agree with me; and declared that he did
        not care what I might think but now he says that in acting as I have acted, I have forfeited
        my position, and need not return to the Red House.”</p>
-      <p>“I know. But he spoke in great haste and anger. He has made me his <foreign xml:lang="fre"
-        >confidante</foreign>.”</p>
+      <p>“I know. But he spoke in great haste and anger. He has made me his <foreign xml:lang="fre">confidante</foreign>.”</p>
       <p>“And his ambassador?”</p>
       <pb n="340" xml:id="VAB7047-336"/>
       <p>Henriette shook her head. No; she had acted entirely on her own responsibility. She could
@@ -8772,8 +8743,7 @@
        may appear. No woman has yet experienced it apart from the enormous pressure of law and
        opinion that has, always, formed part of its inevitable conditions. The illegal mother is
        hounded by her fellows in one direction; the legal mother is urged and incited in another:
-       free motherhood is unknown amongst us. I speak of it as it is. To speak of it <foreign
-        xml:lang="lat">per se</foreign>, for the present, is to discuss the transcendental.”</p>
+       free motherhood is unknown amongst us. I speak of it as it is. To speak of it <foreign xml:lang="lat">per se</foreign>, for the present, is to discuss the transcendental.”</p>
       <p>There was a moment's excited pause, and Hadria then went on more rapidly. “You know well
        enough, Henriette, what thousands of women there are to whom the birth of their children is
        an intolerable burden, and a fierce misery from which many would gladly seek escape by death.
@@ -10039,8 +10009,7 @@
        hand by Claude Moreton. Her figure, in her white gown and large straw hat, had for background
        the shadows of thick woods.</p>
       <p>Professor Theobald sank down on the grass at Hadria's side. She felt that his mood was
-       agitated. She could not be in much doubt as to its cause. The reckless <foreign
-        xml:lang="fre">rôle</foreign> that she had been playing was bringing its result. Hadria was
+       agitated. She could not be in much doubt as to its cause. The reckless <foreign xml:lang="fre">rôle</foreign> that she had been playing was bringing its result. Hadria was
        half alarmed, half exultant. She had a strange, vague notion of selling her
        <pb n="392" xml:id="VAB7047-388"/> life dearly, to the enemy. Only, of late, this feeling had
        been mixed with another, of which she was scarcely conscious. The subtle fascination which
@@ -10484,8 +10453,7 @@
        call on her sympathy did more than anything to set Hadria's mind at rest. She gave a vast
        sigh when that feeling of confidence became confirmed. Life, then, need no longer be
        ridiculous! Hard and cruel it might be, full of lost dreams, but at least there would be
-       something in it that was perfect. This new emotional centre offered the human <foreign
-        xml:lang="lat">summun bonum</foreign>: release from oneself.</p>
+       something in it that was perfect. This new emotional centre offered the human <foreign xml:lang="lat">summun bonum</foreign>: release from oneself.</p>
       <p>Hadria and the Professor met, one morning, in the gardens of the Priory. Hadria had been
        strolling down the yew avenue, her thoughts full of him, as usual. She reached the seat at
        the end where once Professor Fortescue had found her—centuries ago, it seemed to her now. How
@@ -10707,8 +10675,7 @@
       <p>“Nothing ever does come over again,” said Hadria.</p>
       <p>Theobald glanced at her, meaningly.</p>
       <p>“Look here, my dear fellow,” he said, grasping Professor Fortescue by the arm, and bending
-       confidentially towards him, “I should like those meetings to repeat themselves <foreign
-        xml:lang="lat">ad infinitum</foreign>. I have made up my mind at last. I want to take the
+       confidentially towards him, “I should like those meetings to repeat themselves <foreign xml:lang="lat">ad infinitum</foreign>. I have made up my mind at last. I want to take the
        Priory.”</p>
       <p>Hadria turned deadly pale, and stumbled slightly.</p>
       <p>“Well, take it by all means. I should be only too glad to let it to a tenant who would look
@@ -11949,8 +11916,7 @@
        the ceaseless travail to bring forth new elements of trouble for those who must inherit the
        deeds of to-day; the burdened existences agonizing to give birth to new existences, equally
        burdened, which in their turn, were to repeat the ceaseless oblation to the gods of Life.</p>
-      <p>“Futile?” said Lady Engleton. “I think women are generally fools, <foreign xml:lang="fre"
-        >entre nous</foreign>; that is why they so often fill their lives with sound and fury,
+      <p>“Futile?” said Lady Engleton. “I think women are generally fools, <foreign xml:lang="fre">entre nous</foreign>; that is why they so often fill their lives with sound and fury,
        accomplishing nothing.”</p>
       <p>Hadria felt that this was a description of her own life, as well as that of most of her
        neighbours.</p>
@@ -12046,8 +12012,7 @@
        emergencies of her life, and she was disposed to feel a little contemptuous, especially of
        late, at a persistent condition of difficulty and confusion. Her impulse was to attack such a
        condition and bring it to order, by force of will. The active temperament is almost bound to
-       misunderstand the imaginative or artistic spirit and its difficulties. A real <foreign
-        xml:lang="fre">cul de sac</foreign> was to Algitha almost unthinkable. There
+       misunderstand the imaginative or artistic spirit and its difficulties. A real <foreign xml:lang="fre">cul de sac</foreign> was to Algitha almost unthinkable. There
         <emph>must</emph> be some means of finding one's way out.</p>
       <p>Hadria's present attitude amazed and irritated her. She objected to her regular
        church-going, as dishonest. Was she not, for the sake of peace and quietness, professing that

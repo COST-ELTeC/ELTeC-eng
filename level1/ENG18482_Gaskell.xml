@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18482">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18482">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
                                                 <title>Mary Barton: A Tale of Manchester Life :
                                                   ELTeC edition</title>
-                                                <author ref="viaf:39377536">Gaskell, Elizabeth
+                                                <author ref="https://viaf.org/viaf/39377536/">Gaskell, Elizabeth
                                                   Cleghorn (1810-1865)</author>
                                                 <respStmt>
                                                   <resp>ELTeC conversion</resp>
@@ -21,23 +20,17 @@
                                                 <publisher ref="https://distant-reading.net">COST
                                                   Action "Distant Reading for European Literary
                                                   History" (CA16204)</publisher>
-                                                <distributor
-                                                  ref="https://zenodo.org/communities/eltec/"
-                                                  >Zenodo.org</distributor>
+                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
                                                 <date when="2019-11-09"/>
                                                 <availability>
-                                                  <licence
-                                                  target="https://creativecommons.org/licenses/by/4.0/"
-                                                  />
+                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                                                 </availability>
-                                                <ref type="doi"
-                                                  target="https://doi.org/10.5281/zenodo.3462435"/>
+                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
                                     </publicationStmt>
                                     <sourceDesc>
                                                 <bibl type="digitalSource"><title>The Project
                                                   Gutenberg eBook of Mary Barton, by Elizabeth
-                                                  Cleghorn Gaskell</title><ref target="gut:2153"
-                                                  >Gutenberg</ref>
+                                                  Cleghorn Gaskell</title><ref target="http://www.gutenberg.org/files/2153/2153-h/2153-h.htm">Gutenberg</ref>
                                                   <respStmt>
                                                   <resp>Original data capture</resp>
                                                   <name>Les Bowler</name>
@@ -49,7 +42,7 @@
                                                   Life</title><author>Mrs.
                                                   Gaskell.</author><publisher>London: Chapman and
                                                   Hall</publisher><date>1848</date>
-                                                <ref target="ia:marybartontaleof01gask"/></bibl>
+                                                <ref target="http://archive.org/details/marybartontaleof01gask"/></bibl>
                                     </sourceDesc>
                         </fileDesc>
                         <encodingDesc n="eltec-1">
@@ -69,15 +62,10 @@
                                                 </keywords>
                                     </textClass>
                                     <textDesc>
-                                                <authorGender
-                                                  xmlns="http://distantreading.net/eltec/ns" key="F"/>
-                                                <size xmlns="http://distantreading.net/eltec/ns"
-                                                  key="long"/>
-                                                <reprintCount
-                                                  xmlns="http://distantreading.net/eltec/ns"
-                                                  key="high"/>
-                                                <timeSlot xmlns="http://distantreading.net/eltec/ns"
-                                                  key="T1"/>
+                                                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                                                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                                                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                                                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
@@ -356,8 +344,7 @@
                                                   best of times." This was said so kindly, that no
                                                   offence could be taken. "Sit you down here; the
                                                   grass is well nigh dry by this time; and you're
-                                                  neither of you nesh <ref target="#footnote1"
-                                                  >[1]</ref> folk about taking cold. Stay," he
+                                                  neither of you nesh <ref target="#footnote1">[1]</ref> folk about taking cold. Stay," he
                                                   added, with some tenderness, "here's my
                                                   pocket-handkerchief to spread under you, to save
                                                   the gowns women always think so much of; and now,
@@ -385,8 +372,7 @@
                                                   lady she was so fond of thinking herself."</p>
                                                 <p>"She was as pretty a creature as ever the sun
                                                   shone on."</p>
-                                                <p>"Ay, she was a farrantly <ref target="#footnote2"
-                                                  >[2]</ref> lass; more's the pity now," added
+                                                <p>"Ay, she was a farrantly <ref target="#footnote2">[2]</ref> lass; more's the pity now," added
                                                   Barton, with a sigh. "You see them Buckinghamshire
                                                   people as comes to work in Manchester, has quite a
                                                   different look with them to us Manchester folk.
@@ -1724,8 +1710,7 @@
                                                   how he had never been sick at all, and thought he
                                                   could stand the sea pretty well. So I telled him
                                                   he mun do as he liked; and he thanked me and
-                                                  kissed me, for all I was very frabbit <ref
-                                                  target="#footnote4">[4]</ref> with him; and now
+                                                  kissed me, for all I was very frabbit <ref target="#footnote4">[4]</ref> with him; and now
                                                   he's gone to South America, at t'other side of the
                                                   sun, they tell me."</p>
                                                 <p>Mary stole a glance at Margaret to see what she
@@ -2298,8 +2283,7 @@
                                                   it least; and if what the Bible tells us be true,
                                                   we ought not to be sorry when a friend, who's been
                                                   good, goes to his rest; and as for a bad man,
-                                                  one's glad enough to get shut <ref
-                                                  target="#footnote8">[8]</ref> on him. I cannot see
+                                                  one's glad enough to get shut <ref target="#footnote8">[8]</ref> on him. I cannot see
                                                   what good comes out o' wearing mourning."</p>
                                                 <p>"I'll tell you what I think th' fancy was sent
                                                   for (Old Alice calls every thing 'sent for,' and I
@@ -2340,8 +2324,7 @@
                                                   'Well, dear, you must mind this, when you're going
                                                   to fret and be low about any thing, "An anxious
                                                   mind is never a holy mind."' Oh, Mary, I have so
-                                                  often checked my grumbling sin' <ref
-                                                  target="#footnote9">[9]</ref> she said that."</p>
+                                                  often checked my grumbling sin' <ref target="#footnote9">[9]</ref> she said that."</p>
                                                 <p>The weary sound of stitching was the only sound
                                                   heard for a little while, till Mary inquired,</p>
                                                 <p>"Do you expect to get paid for this
@@ -2428,8 +2411,7 @@
                                                   chorusses at the Festivals, and got thanked many a
                                                   time by London folk; and one foreign singer,
                                                   Madame Catalani, turned round and shook him by th'
-                                                  hand before the Oud Church <ref
-                                                  target="#footnote10">[10]</ref> full o' people. He
+                                                  hand before the Oud Church <ref target="#footnote10">[10]</ref> full o' people. He
                                                   says I may gain ever so much money by singing; but
                                                   I don't know. Any rate it's sad work, being
                                                   blind."</p>
@@ -2923,8 +2905,7 @@
                                                   want it for mysel, tho' we've none to spare. But
                                                   don ye know Ben Davenport as worked at Carsons'?
                                                   He's down wi' the fever, and ne'er a stick o'
-                                                  fire, nor a cowd <ref target="#footnote12"
-                                                  >[12]</ref> potato in the house."</p>
+                                                  fire, nor a cowd <ref target="#footnote12">[12]</ref> potato in the house."</p>
                                                 <p>"I han got no money, I tell ye," said Barton.
                                                   Wilson looked disappointed. Barton tried not to be
                                                   interested, but he could not help it in spite of
@@ -2986,8 +2967,7 @@
                                                   was empty and black; the wife sat on her husband's
                                                   lair, and cried in the dank loneliness.</p>
                                                 <p>"See, missis, I'm back again.—Hold your noise,
-                                                  children, and don't mither <ref
-                                                  target="#footnote13">[13]</ref> your mammy for
+                                                  children, and don't mither <ref target="#footnote13">[13]</ref> your mammy for
                                                   bread; here's a chap as has got some for you."</p>
                                                 <p>In that dim light, which was darkness to
                                                   strangers, they clustered round Barton, and tore
@@ -3194,10 +3174,8 @@
                                                 <p>"Going on two year," she faintly answered. "But,
                                                   oh! it keeps him quiet when I've nought else to
                                                   gi' him, and he'll get a bit of sleep lying there,
-                                                  if he's getten <ref target="#footnote14"
-                                                  >[14]</ref> nought beside. We han done our best to
-                                                  gi' the childer <ref target="#footnote15"
-                                                  >[15]</ref> food, howe'er we pinched
+                                                  if he's getten <ref target="#footnote14">[14]</ref> nought beside. We han done our best to
+                                                  gi' the childer <ref target="#footnote15">[15]</ref> food, howe'er we pinched
                                                   ourselves."</p>
                                                 <p>"Han <ref target="#footnote16">[16]</ref> ye had
                                                   no money fra th' town?"</p>
@@ -3671,8 +3649,7 @@
                                                   piled until within a foot or two of the surface;
                                                   when the soil was shovelled over, and stamped
                                                   down, and the wooden cover went to do temporary
-                                                  duty over another hole. <ref target="#footnote19"
-                                                  >[19]</ref> But little they recked of this who now
+                                                  duty over another hole. <ref target="#footnote19">[19]</ref> But little they recked of this who now
                                                   gave up their dead.</p>
                                                 <p> </p>
                                                 <p> </p>
@@ -3813,8 +3790,7 @@
                                                   holds them won't let the dying soul go free; so it
                                                   has a hard struggle for the quiet of death. We mun
                                                   get him away fra' his mother, or he'll have a hard
-                                                  death, poor lile <ref target="#footnote20"
-                                                  >[20]</ref> fellow."</p>
+                                                  death, poor lile <ref target="#footnote20">[20]</ref> fellow."</p>
                                                 <p>So without circumlocution she went and offered to
                                                   take the sinking child. But the mother would not
                                                   let him go, and looking in Alice's face with
@@ -4166,10 +4142,8 @@
                                                 <p>"No," said Jem, listlessly.</p>
                                                 <p>"Well! yo must know I were in th' Infirmary for a
                                                   fever, and times were rare and bad; and there be
-                                                  good chaps there to a man, while he's wick, <ref
-                                                  target="#footnote22">[22]</ref> whate'er they may
-                                                  be about cutting him up at after. <ref
-                                                  target="#footnote23">[23]</ref> So when I were
+                                                  good chaps there to a man, while he's wick, <ref target="#footnote22">[22]</ref> whate'er they may
+                                                  be about cutting him up at after. <ref target="#footnote23">[23]</ref> So when I were
                                                   better o' th' fever, but weak as water, they says
                                                   to me, says they, 'If yo can write, yo may stay in
                                                   a week longer, and help our surgeon wi' sorting
@@ -4687,8 +4661,7 @@
                                                 <p>"But, Mary, he does so look for you. You'd be
                                                   quite sorry for him, he's so put out about not
                                                   seeing you. Besides you go when your father's at
-                                                  home, without letting on <ref target="#footnote26"
-                                                  >[26]</ref> to him, and what harm would there be
+                                                  home, without letting on <ref target="#footnote26">[26]</ref> to him, and what harm would there be
                                                   in going now?"</p>
                                                 <p>"Well, Sally! you know my answer, I won't; and I
                                                   won't."</p>
@@ -4862,8 +4835,7 @@
                                                   What a single word can do!'"</l></quote>
                                                 <p>Margaret certainly made the most of this little
                                                   song. As a factory worker, listening outside,
-                                                  observed, "She spun it reet <ref
-                                                  target="#footnote27">[27]</ref> fine!" And if she
+                                                  observed, "She spun it reet <ref target="#footnote27">[27]</ref> fine!" And if she
                                                   only sang it at the Mechanics' with half the
                                                   feeling she put into it that night, the lecturer
                                                   must have been hard to please, if he did not admit
@@ -5068,8 +5040,7 @@
                                                   th' Queen's Drawing-room, they said, and th'
                                                   carriages went bowling along toward her house,
                                                   some wi' dressed up gentlemen like circus folk in
-                                                  'em, and rucks <ref target="#footnote28"
-                                                  >[28]</ref> o' ladies in others. Carriages
+                                                  'em, and rucks <ref target="#footnote28">[28]</ref> o' ladies in others. Carriages
                                                   themselves were great shakes too. Some o' th'
                                                   gentlemen as couldn't get inside hung on behind,
                                                   wi' nosegays to smell at, and sticks to keep off
@@ -5117,8 +5088,7 @@
                                                   As long as I live, our rejection that day will
                                                   bide in my heart; and as long as I live I shall
                                                   curse them as so cruelly refused to hear us; but
-                                                  I'll not speak of it no <ref target="#footnote29"
-                                                  >[29]</ref> more."</p>
+                                                  I'll not speak of it no <ref target="#footnote29">[29]</ref> more."</p>
                                                 <p>So, daunted in their inquiries, they sat silent
                                                   for a few minutes.</p>
                                                 <p>Old Job, however, felt that some one must speak,
@@ -5270,8 +5240,7 @@
                                                 <p>"The babby had been fed afore we set out, and th'
                                                   coach moving kept it asleep, bless its little
                                                   heart. But when th' coach stopped for dinner it
-                                                  were awake, and crying for its pobbies. <ref
-                                                  target="#footnote32">[32]</ref> So we asked for
+                                                  were awake, and crying for its pobbies. <ref target="#footnote32">[32]</ref> So we asked for
                                                   some bread and milk, and Jennings took it first
                                                   for to feed it; but it made its mouth like a
                                                   square, and let it run out at each o' th' four
@@ -5294,8 +5263,7 @@
                                                   when we'd hardly tasted 'em; but, bless your life,
                                                   it were half-a-crown apiece, and a shilling for
                                                   th' bread and milk as were possetted all over
-                                                  babby's clothes. We spoke up again <ref
-                                                  target="#footnote33">[33]</ref> it; but every body
+                                                  babby's clothes. We spoke up again <ref target="#footnote33">[33]</ref> it; but every body
                                                   said it were the rule, so what could two poor oud
                                                   chaps like us do again it? Well, poor babby cried
                                                   without stopping to take breath, fra' that time
@@ -5378,22 +5346,19 @@
                                                   have some knowledge o' th' proper way o' speaking,
                                                   and we were more cheery at thoughts o' home
                                                   (though mine, God knows, were lonesome enough). We
-                                                  stopped none for dinner, but at baggin-time <ref
-                                                  target="#footnote34">[34]</ref> we getten a good
+                                                  stopped none for dinner, but at baggin-time <ref target="#footnote34">[34]</ref> we getten a good
                                                   meal at a public-house, an' fed th' babby as well
                                                   as we could, but that were but poorly. We got a
                                                   crust too, for it to suck—chambermaid put us up to
                                                   that. That night, whether we were tired or
-                                                  whatten, I don't know, but it were dree <ref
-                                                  target="#footnote35">[35]</ref> work, and poor
+                                                  whatten, I don't know, but it were dree <ref target="#footnote35">[35]</ref> work, and poor
                                                   wench had slept out her sleep, and began th' cry
                                                   as wore my heart out again. Says Jennings, says
                                                   he,</p>
                                                 <p>"'We should na ha' set out so like gentlefolk a
                                                   top o' the coach yesterday.'</p>
                                                 <p>"'Nay, lad! We should ha' had more to walk, if we
-                                                  had na ridden, and I'm sure both you and I'se <ref
-                                                  target="#footnote36">[36]</ref> weary o'
+                                                  had na ridden, and I'm sure both you and I'se <ref target="#footnote36">[36]</ref> weary o'
                                                   tramping.'</p>
                                                 <p>"So he were quiet a bit. But he were one o' them
                                                   as were sure to find out somewhat had been done
@@ -5955,8 +5920,7 @@
                                                   about in her habitual way, but knitting by the
                                                   fire-side. The room felt hot, although the fire
                                                   burnt gray and dim, under the bright rays of the
-                                                  afternoon sun. Mrs. Wilson was "siding" <ref
-                                                  target="#footnote39">[39]</ref> the dinner things,
+                                                  afternoon sun. Mrs. Wilson was "siding" <ref target="#footnote39">[39]</ref> the dinner things,
                                                   and talking all the time, in a kind of whining,
                                                   shouting voice, which Mary did not at first
                                                   understand. She understood at once, however, that
@@ -7981,8 +7945,7 @@
                                                   regaining the virtue and the peace they had lost;
                                                   becoming himself their guarantee in obtaining
                                                   employment, and never deserting those who have
-                                                  once asked help from him. <ref
-                                                  target="#footnote43">[43]</ref></p>
+                                                  once asked help from him. <ref target="#footnote43">[43]</ref></p>
                                                 <p>Esther's term of imprisonment was ended. She
                                                   received a good character in the governor's books;
                                                   she had picked her daily quantity of oakum, had
@@ -8811,8 +8774,7 @@
                                                   do the more time he seemed to find. With all his
                                                   letter-writing, his calling, his being present at
                                                   the New Bailey, when investigations of any case of
-                                                  violence against knob-sticks <ref
-                                                  target="#footnote44">[44]</ref> were going on, he
+                                                  violence against knob-sticks <ref target="#footnote44">[44]</ref> were going on, he
                                                   beset Mary more than ever. She was weary of her
                                                   life for him. From blandishments he had even gone
                                                   to threats—threats that whether she would or not
@@ -12780,8 +12742,7 @@
                                                   come home till early in the morning, or, to speak
                                                   true, in the night: did he?"</p>
                                                 <p>"Ay! he went out near upon five; he went out with
-                                                  Will; he said he were going to set <ref
-                                                  target="#footnote45">[45]</ref> him a part of the
+                                                  Will; he said he were going to set <ref target="#footnote45">[45]</ref> him a part of the
                                                   way, for Will were hot upon walking to Liverpool,
                                                   and wouldn't hearken to Jem's offer of lending him
                                                   five shilling for his fare. So the two lads set
@@ -13102,8 +13063,7 @@
                                                 <p>"Oh, Job! if you will help me," exclaimed Mary,
                                                   brightening up (though it was but a wintry gleam
                                                   after all), "tell me what to say, when they
-                                                  question me; I shall be so gloppened, <ref
-                                                  target="#footnote46">[46]</ref> I shan't know what
+                                                  question me; I shall be so gloppened, <ref target="#footnote46">[46]</ref> I shan't know what
                                                   to answer."</p>
                                                 <p>"Thou canst do nought better than tell the truth.
                                                   Truth's best at all times, they say; and for sure
@@ -13563,8 +13523,7 @@
                                                   tried, and better-tried to get it from her, and
                                                   she takes no heed of words, and I'm loth to pull
                                                   it by force out of her hands."</p>
-                                                <p>Mary drew the little "cricket" <ref
-                                                  target="#footnote48">[48]</ref> out from under the
+                                                <p>Mary drew the little "cricket" <ref target="#footnote48">[48]</ref> out from under the
                                                   dresser, and sat down at Mrs. Wilson's knee, and,
                                                   coaxing one of her tremulous, ever-moving hands
                                                   into hers, began to rub it soothingly; there was a
@@ -15534,8 +15493,7 @@
                                                 <p>"Don't go for to say that! Thou dost not think
                                                   it. Thou'rt well-nigh hopeless, like me. I seed
                                                   all along my lad would be hung for what he never
-                                                  did. And better he were, and were shut <ref
-                                                  target="#footnote49">[49]</ref> of this weary
+                                                  did. And better he were, and were shut <ref target="#footnote49">[49]</ref> of this weary
                                                   world, where there's neither justice nor mercy
                                                   left."</p>
                                                 <p>She looked up with tranced eyes as if praying to

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18960"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18960" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The Carissima : ELTeC edition</title>
-    <author ref="viaf:9890134">Malet, Lucas (1852-1931)</author>
+    <author ref="https://viaf.org/viaf/9890134/">Malet, Lucas (1852-1931)</author>
     <respStmt>
      <resp>Scanned, encoded and proofed by </resp>
      <name>Jessica Loving</name>
@@ -16,7 +14,7 @@
      <resp>Edited by </resp>
      <name>Perry Willett</name>
     </respStmt>
-    <respStmt >
+    <respStmt>
      <resp>E-text Editor</resp>
      <name>Brian Norberg</name>
     </respStmt>
@@ -42,11 +40,10 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Carissima : VWWP edition </title><author>Malet, Lucas,
       1852-1931</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7033">VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7033">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B11171"><title>The Carissima</title><author>Malet, Lucas,
-      1852-1931</author><publisher>Methuen &amp; Co. </publisher><pubPlace>London </pubPlace><date
-      when="1896">1896</date>
-    <ref target="ia:carissimaamoder00malegoog.pdf"/></bibl>
+      1852-1931</author><publisher>Methuen &amp; Co. </publisher><pubPlace>London </pubPlace><date when="1896">1896</date>
+    <ref target="http://archive.org/details/carissimaamoder00malegoog.http://archive.org/details/pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -205,8 +202,7 @@
       <pb n="6" xml:id="VAB7033-007"/> delightful stones that he had brought along with him, and
       destined for the delectation and adornment of his bride. For Leversedge's tastes were
       innocent, innocent to the point of matrimony. He was engaged to a young lady, by name Miss
-      Charlotte Perry,—playfully addressed by her father in moments of expansion as “<foreign
-       xml:lang="ita">carissima Carlotta mia</foreign>,”—had been so engaged for quite a number of
+      Charlotte Perry,—playfully addressed by her father in moments of expansion as “<foreign xml:lang="ita">carissima Carlotta mia</foreign>,”—had been so engaged for quite a number of
       years. Now he was about to marry her, a proceeding which, subject to the fact of a protracted
       engagement, really touches the high-water mark of innocence, doesn't it?</p>
      <p>The Perry parents, I regret to say, struck me as leaving something to be desired. Leversedge
@@ -286,8 +282,7 @@
       <pb n="11" xml:id="VAB7033-012"/> low in his mind as he sat in that cool hall, among the palms
       and indiarubber plants, smoking the cigarette of peace and drinking black coffee. His talk ran
       on serious subjects.</p>
-     <p>The irruption of some lively children from out of the lift, accompanied by French <foreign
-       xml:lang="fre">bonnes</foreign> and English governesses galore, caused a pause in our
+     <p>The irruption of some lively children from out of the lift, accompanied by French <foreign xml:lang="fre">bonnes</foreign> and English governesses galore, caused a pause in our
       conversation. Leversedge was very fond of children, a wholesome trait in any man's character.
       He watched them, and as their cries and chatter died away out of doors in the garden he asked
       me—</p>
@@ -339,8 +334,7 @@
       <pb n="14" xml:id="VAB7033-015"/> excellently white, flannel trousers. Knew, equally well,
       that nothing had slipped from off them on to the inlaid marble floor as, beating his knees, he
       lunged up out of the chair beside me.</p>
-     <p>We had only just finished our coffee. The tray and a <foreign xml:lang="fre"
-       >flacon</foreign> of cognac still stood on the table before me. After about a minute
+     <p>We had only just finished our coffee. The tray and a <foreign xml:lang="fre">flacon</foreign> of cognac still stood on the table before me. After about a minute
       Leversedge laid hold of the <foreign xml:lang="fre">flacon</foreign>, and emptied half its
       contents into one of the dirty coffee-cups. He gulped down the brandy, and wiped his moustache
       and beard—as well as he could, for his teeth were chattering and his hands shaking, like those
@@ -487,11 +481,9 @@
      <pb n="23" xml:id="VAB7033-024"/>
      <head>CHAPTER III</head>
      <p><hi>T0</hi> most of us foggy islanders 90° in the shade takes the gilt off the ginger-bread
-      even in so delectable a matter as a luncheon to meet a resplendent tail. Perry <foreign
-       xml:lang="fre">père et mère</foreign> were distinctly demoralised in aspect, and even the
+      even in so delectable a matter as a luncheon to meet a resplendent tail. Perry <foreign xml:lang="fre">père et mère</foreign> were distinctly demoralised in aspect, and even the
       Carissima was not quite up to her usual level.</p>
-     <p>Miss Perry looked warm, which was a pity, for it was not her <foreign xml:lang="fre"
-       >rôle</foreign> to look warm. It was her <foreign xml:lang="fre">rôle</foreign> to remind you
+     <p>Miss Perry looked warm, which was a pity, for it was not her <foreign xml:lang="fre">rôle</foreign> to look warm. It was her <foreign xml:lang="fre">rôle</foreign> to remind you
       of sunrise rather than sunset, to be virginal, flower-like, I might say dewy. She was tall;
       and our grandmothers, I think, would have described her appearance as elegant, the more so
       that her shoulders sloped and that her features were somewhat indefinite. For truly, in her
@@ -518,8 +510,7 @@
       <pb n="25" xml:id="VAB7033-026"/> friendship for Constantine Leversedge during the last
       half-hour. If any pleasure was going, he had a prescriptive right to it. He was owed
       compensation. Solitude <foreign xml:lang="fre">à deux</foreign> is, of course, the very seat
-      of bliss in matters of the affections; I therefore did my possible to procure him a <foreign
-       xml:lang="fre">tête-à-tête</foreign> with the fair Charlotte by concentrating the attention
+      of bliss in matters of the affections; I therefore did my possible to procure him a <foreign xml:lang="fre">tête-à-tête</foreign> with the fair Charlotte by concentrating the attention
       of her parents upon myself. I succeeded. Mrs. Perry, dear good woman, had subsided on to the
       settee in the centre of the hall, too extenuated by the heat to be otherwise than perfectly
       docile. Mr. Perry was active, I might almost say rampageous; he was thirsting to communicate
@@ -1055,9 +1046,7 @@
      <p>“Precisely,” returned Mr. Perry quite excitedly. “That is the point. Friends of ours are
       here. Mr. Percy Gerrard and Mrs. Septimus Mertyns are kindly calling upon us. Most talented
       person, I am sure, Mrs. Mertyns,—an advantage, Constantine, as I was saying recently to Mr.
-      Hammond, a positive advantage for one whom, like yourself, I may call a <foreign
-       xml:lang="fre">débutant</foreign> in the London world, to have the <foreign xml:lang="fre"
-       >entrée</foreign> of her charming house.”</p>
+      Hammond, a positive advantage for one whom, like yourself, I may call a <foreign xml:lang="fre">débutant</foreign> in the London world, to have the <foreign xml:lang="fre">entrée</foreign> of her charming house.”</p>
      <p>During the progress of this somewhat confused exordium, Leversedge's vaguely-distracted brow
       had gathered into a quite definite frown. He was bothered, annoyed, and, for once, did not try
       to conceal the fact.</p>
@@ -1078,8 +1067,7 @@
       mistake. Mamma, remarking her disappointment—affection lends wings to perception, Mr.
       Hammond—interrupting me in the midst of a most interesting conversation with Mr. Gerrard upon
       the deepening of the conservative sentiment among the educated artisans of our great
-      commercial centres, whispered to me to come and tell you. And here I am;—<foreign
-       xml:lang="fre">me voilà</foreign>, as I may say, Mr. Hammond, here I am.”</p>
+      commercial centres, whispered to me to come and tell you. And here I am;—<foreign xml:lang="fre">me voilà</foreign>, as I may say, Mr. Hammond, here I am.”</p>
      <p>“Yes, you are very sensibly here, Mr. Perry: and it is, as always, a happiness to be in your
       company,” I replied, with effusion.</p>
      <p>I had an idea Leversedge intended revolt. I
@@ -1174,8 +1162,7 @@
      <p><hi>THE</hi> next day, as far as I remember, passed without incident until evening.</p>
      <p>I hold there is but one irremediable evil in life, that of growing tired of oneself. I
       therefore avoid it with great care, and, to that end, entirely refuse to grow accustomed to my
-      own idiosyncrasies. I let my characteristics take me by surprise. I am <foreign xml:lang="fre"
-       >journalier</foreign> to myself, scorning stereotyped habits as I would scorn to wear a
+      own idiosyncrasies. I let my characteristics take me by surprise. I am <foreign xml:lang="fre">journalier</foreign> to myself, scorning stereotyped habits as I would scorn to wear a
       livery. I dread to be consistent as I would dread paralysis. Quite the last person of my
       acquaintance with whom I would ever risk being familiar is myself; and so I study earnestly to
       cultivate a various mind, and give my good qualities the slip equally with my bad ones.</p>
@@ -1309,15 +1296,13 @@
       imagine that I undervalue
       <pb n="73" xml:id="VAB7033-074"/> their goodness to me. It is beautiful, but, alas! it is
       impeding. I cannot be quite frank with them. I cannot dare to risk causing them pain.”</p>
-     <p>She swung aside with a really fine movement. As she did so the light from the <foreign
-       xml:lang="fre">salon</foreign> window fell full on her face; I saw that her eyes overflowed
+     <p>She swung aside with a really fine movement. As she did so the light from the <foreign xml:lang="fre">salon</foreign> window fell full on her face; I saw that her eyes overflowed
       with tears.</p>
      <p>“And I am in pain,” she cried softly. “I suffer, ah! I suffer. I am cruelly perplexed. For I
       fail to see where duty—the high duty which compels acquiescence, and dignifies
       self-surrender—truly lies.”</p>
      <p>I am very alive to sentiment. This was touching and I was touched. Yet in the girl's speech
-      and action was there not just a hint, a remote hint, of Perry <foreign xml:lang="fre"
-       >père</foreign> in his noblest manner? I therefore hardened my heart slightly, determining to
+      and action was there not just a hint, a remote hint, of Perry <foreign xml:lang="fre">père</foreign> in his noblest manner? I therefore hardened my heart slightly, determining to
       test the fair sufferer and bring her to book.</p>
      <p>“Leversedge has spoken to you,” I said.</p>
      <p>“Yes, that is part of the pain; but not in the way you no doubt imagine, Mr. Hammond. If my
@@ -1442,8 +1427,7 @@
       silver flame. The wind swept tumultuously through the thick foliage of the trees above us.
       Away on the Savoy side, under the shadowy mass of the mountains, clusters of twinkling lights
       marked the site of the villages of St. Gingolph and Meillerie. The scene
-      <pb n="81" xml:id="VAB7033-082"/> was a wholly appropriate setting to a romantic <foreign
-       xml:lang="fre">tête-à-tête</foreign>. It might have really been enchanting but for the
+      <pb n="81" xml:id="VAB7033-082"/> was a wholly appropriate setting to a romantic <foreign xml:lang="fre">tête-à-tête</foreign>. It might have really been enchanting but for the
       intruding claims of the inevitable third person.</p>
      <p>Miss Perry paced along slowly, swathed closely in her shawl, her head bent. She addressed me
       in broken sentences. Her voice was so low that, what with the swishing wind and breaking
@@ -1528,8 +1512,7 @@
       in silence, and Miss Perry turned away.—“Do not come with me, please,” she murmured. “It is
       far kinder to let me find my way back through this troubled wind-vexed night alone.”</p>
      <p>I permitted a decent time to elapse before I returned to the hotel. I am human.
-      Consequently, I was moved; I was flattered; I was <foreign xml:lang="fre"
-      >attendri</foreign>—specially at first. Then the blighting habit of analysis, the one habit
+      Consequently, I was moved; I was flattered; I was <foreign xml:lang="fre">attendri</foreign>—specially at first. Then the blighting habit of analysis, the one habit
       with which, alas! I utterly fail to play fast and loose, laid its chill influence upon my
       feelings. I began to ask myself
       <pb n="86" xml:id="VAB7033-087"/> self whether the Carissima was—just possibly—among the
@@ -1749,8 +1732,7 @@
      <p>“Really I didn't think the room half bad,” Leversedge said in an aside.</p>
      <p>“May we not have some of them extinguished, Miss Perry?—thus letting the stars, there,
       through the open window, the fragrance of the garden borne upon the night wind, and the
-      perilous rapture of Chopin—think of the Majorcan episode, that exquisite exile <foreign
-       xml:lang="fre">à deux</foreign>, the eternal sough of the breeze in the pine trees, and
+      perilous rapture of Chopin—think of the Majorcan episode, that exquisite exile <foreign xml:lang="fre">à deux</foreign>, the eternal sough of the breeze in the pine trees, and
       George Sand (the woman of the sphinx-like and unfathomable eyes) sitting by drinking in the
       insatiable passion of the master's music,—let these, I say, even here, amid the bare
       commonplaces of a modern hotel, for one beneficent hour have it all their own way.”</p>
@@ -2519,8 +2501,7 @@
       inconveniently sensible of make-weights and conceivable complications)—No! I protest there is
       not.</p>
      <p>And so it came about that, for the space of at least twenty seconds, I asked myself quite
-      seriously whether it was not possible that here, here in the daughter of Perry <foreign
-       xml:lang="fre">père et mère</foreign>, of the lively rat and excellent clock-moon, improbable
+      seriously whether it was not possible that here, here in the daughter of Perry <foreign xml:lang="fre">père et mère</foreign>, of the lively rat and excellent clock-moon, improbable
       as it might appear at first sight, I had found that which I had sought so long and vainly—the
       complement of my nature, the comprehensively and perpetually seductive being, the, for me, One
       Woman?</p>
@@ -2642,8 +2623,7 @@
      <p>“I am very tired,” she said. “We have talked enough.”</p>
      <p>She turned her back upon me, so disposing her yellow and black parasol that it offered an
       insuperable barrier to further conversation.</p>
-     <p>And I strolled away to the stern of the boat, there lighting upon Perry <foreign
-       xml:lang="fre">père</foreign> and the Deputy
+     <p>And I strolled away to the stern of the boat, there lighting upon Perry <foreign xml:lang="fre">père</foreign> and the Deputy
       <pb n="153" xml:id="VAB7033-154"/> Surgeon-General in full session, discussing the enormities
       of the Opium Traffic and the still greater ones of our venerable, late Radical premier. While
       listening to their artless, though wordy conversation, I bowed low before the genius of
@@ -2700,8 +2680,7 @@
      <p>And just when I was touching the lowest deep of this unpleasant, but, no doubt, salutary
       depth of self-abasement, when I was becoming literally flattened out by the heavy weight of my
       own inadequacies, enter unto me Mrs. Perry. She
-      <pb n="157" xml:id="VAB7033-158"/> emerged from the glass doors of the <foreign xml:lang="fre"
-       >salon</foreign> rotund and beaming.</p>
+      <pb n="157" xml:id="VAB7033-158"/> emerged from the glass doors of the <foreign xml:lang="fre">salon</foreign> rotund and beaming.</p>
      <p>“Dear me now, Mr. Hammond,” she exclaimed, “this is what I really do call a piece of luck. I
       have been so wishing all the morning I had some lady-friend to talk it all over with; and you
       see I have nothing but acquaintances here, and I never can get over the feeling it isn't very
@@ -2985,22 +2964,19 @@
       into that which is really very terrible indeed.</p>
      <p>All this was borne in upon me forcibly during the ensuing five minutes.</p>
      <p>“Mamma!—where is Mrs. Perry? Mamma!”</p>
-     <p>And, as so frequently, in urgent pursuit of a missing member of his family, Perry <foreign
-       xml:lang="fre">père</foreign> chased along the terrace below. Regardless of the evident
+     <p>And, as so frequently, in urgent pursuit of a missing member of his family, Perry <foreign xml:lang="fre">père</foreign> chased along the terrace below. Regardless of the evident
       fervour of their conversation, I beheld him draw up before the two Russians, raise the grey
       felt hat with its streaming pugaree, and inquire—Mr. Perry invariably appeared to entertain
       the idea that all foreigners are afflicted with deafness, so he bawled the said inquiry,
       smiling the while with a sort of voracious intensity—</p>
-     <p>“<foreign xml:lang="fre">Pardon, mademoiselle</foreign>, pray excuse me—<foreign
-       xml:lang="fre">mais
+     <p>“<foreign xml:lang="fre">Pardon, mademoiselle</foreign>, pray excuse me—<foreign xml:lang="fre">mais
        <pb n="175" xml:id="VAB7033-176"/> avez vous vu Madame Perry? Savez vous où elle est, où est,
        enfin, ma femme?</foreign>”</p>
      <p>The young lady looked round in very evident surprise. Then her eyes lighted on me. And their
       expression was not without malice, as she extended her hand in the direction of the verandah
       with a sweeping gesture, which had the effect of enclosing Mrs. Perry and myself, of framing
       us for ever side by side.</p>
-     <p>“<foreign xml:lang="fre">Mais la voilà, monsieur</foreign>,” she said. “<foreign
-       xml:lang="fre">La voilà avèc monsieur son ámi</foreign>.”</p>
+     <p>“<foreign xml:lang="fre">Mais la voilà, monsieur</foreign>,” she said. “<foreign xml:lang="fre">La voilà avèc monsieur son ámi</foreign>.”</p>
      <p>“Ah! ha! I see," cried Mr. Perry gaily. “<foreign xml:lang="fre">Mille fois merci,
        mademoiselle</foreign>.”</p>
      <p>And, dragging on a pair of purplish-brown kid gloves, he hurried up the steps.</p>
@@ -3330,8 +3306,7 @@
       plaques of looking-glass. From my station halfway down the room—I invariably indulge myself
       with a separate table when staying in hotels—I could see Leversedge's bright dark head and
       beard and somewhat deathly profile reflected back and forth, apparently endlessly, to right
-      and left; on one side of him the charming face and brilliant colouring of his <foreign
-       xml:lang="fre">fiancée</foreign>, on the other the worthy clock-moon countenance of his
+      and left; on one side of him the charming face and brilliant colouring of his <foreign xml:lang="fre">fiancée</foreign>, on the other the worthy clock-moon countenance of his
       future mother-in-law.</p>
      <p>Miss Perry talked softly to him; her manner was delicious, most engaging, winning, and
       modest; and he listened to her, watched her, with a sort of rapture. He also, I believe, drank
@@ -3398,8 +3373,7 @@
      <p>Yet, after all, was it jocund? I asked myself this question many times as we set forth, a
       self-conscious and ill-assorted little band, upon the morning of that particularly grilling
       September day. For clearly, to my thinking, it would have been far better had we proceeded in
-      detachments—Leversedge and myself by boat and the others by train, or <foreign xml:lang="fre"
-       >vice versâ</foreign>. I cannot think it fair to keep a man constantly under inspection when
+      detachments—Leversedge and myself by boat and the others by train, or <foreign xml:lang="fre">vice versâ</foreign>. I cannot think it fair to keep a man constantly under inspection when
       he is just about to condemn himself to that form of life-sentence commonly known as marriage.
       And the disadvantages of the bridegroom's position were aggravated, in the present instance,
       by the fact that this was but a dress rehearsal, the production of the piece not really taking
@@ -3569,8 +3543,7 @@
       that we journeyed towards Geneva, sitting opposite to each other, rather cut off from the rest
       of the company. It was extremely hot, and we had to pull down the canvas blinds and half close
       the windows to keep out sun and dust. The train roared along; the vineyards reeling past on one
-      <pb n="209" xml:id="VAB7033-210"/> hand, the rocks, white with fluttering <foreign
-       xml:lang="fre">mouettes</foreign> and lapped by clear little green waves, on the other. It
+      <pb n="209" xml:id="VAB7033-210"/> hand, the rocks, white with fluttering <foreign xml:lang="fre">mouettes</foreign> and lapped by clear little green waves, on the other. It
       need hardly be stated that the two athletic Englishwomen had left all windows down and blinds
       up in their compartment, thus supplying us with a liberal measure of glare, cinders, and
       engine smoke. Above the noise of the train, from time to time, I heard Mrs. Mertyns' somewhat
@@ -3666,8 +3639,7 @@
      <p>“Noble commander laid low,—my love, you are entirely mistaken,—in victory.”</p>
      <p>“<foreign xml:lang="fre">Coppet—trois minutes d'arrêt</foreign>,” this from the platform as
       the train slowed up.</p>
-     <p>I rose, leaving Nelson extended upon the gory deck, with Perry <foreign xml:lang="fre"
-       >père</foreign>, so to speak, waving the British flag over his honoured and prostrate form,
+     <p>I rose, leaving Nelson extended upon the gory deck, with Perry <foreign xml:lang="fre">père</foreign>, so to speak, waving the British flag over his honoured and prostrate form,
       and went to look after Leversedge. He lay back in his place fast asleep. His face was
       singularly peaceful, almost childlike in its simple serenity. But he held his hard brown hat
       stiffly with both hands, and worked it slowly up and down his knees even in sleeping. And that
@@ -3681,8 +3653,7 @@
       we turned from business to the courting of pleasure. We ate a smart luncheon at a smart hotel,
       towards the end of which entertainment Mr. Perry was with difficulty restrained from making a
       speech. Finally we went for a walk. At this point Mrs. Mertyns' courage ran out; she departed,
-      with many protestations of sorrow, to seek for some distinguished Genevan <foreign
-       xml:lang="fre">littérateur</foreign> whom she suddenly felt an overwhelming necessity to call
+      with many protestations of sorrow, to seek for some distinguished Genevan <foreign xml:lang="fre">littérateur</foreign> whom she suddenly felt an overwhelming necessity to call
       upon. She went away in a cab, with a white awning to it like the tester of a four-post bed.
       She left us Septimus.</p>
      <p>Perry <foreign xml:lang="fre">père et mère</foreign> clung to each other through that
@@ -3839,16 +3810,14 @@
       of the railway without us? Will you go back with me—alone—by boat?”</p>
      <p>Leversedge's head went up with a sudden jerk. His breath caught in his throat. I fancy he
       did not see anything very distinctly for a second or two, though there was an immense gladness
-      in his face. It was rather moving; and I addressed myself to Perry <foreign xml:lang="fre"
-       >père</foreign>, in haste, regarding the flimsy,
+      in his face. It was rather moving; and I addressed myself to Perry <foreign xml:lang="fre">père</foreign>, in haste, regarding the flimsy,
       <pb n="225" xml:id="VAB7033-226"/> the gilt-gingerbread character of the literature of the
       French nation—the lack of humour of Molière, general cheapness of M. de Voltaire, and, to come
       down to our own day, the deplorable want of style in such men as Flaubert and Gautier. I took
       my examples, perhaps, slightly at random. Meanwhile I heard Leversedge laugh a little—almost
       as a child laughs.</p>
      <p>“ Will I?” he said. “Do you really mean it?—Will I—will I not?”</p>
-     <p>Mrs. Perry talked to me all the way to the station, along the flaming <foreign
-       xml:lang="fre">Rue du Mont Blanc</foreign>.</p>
+     <p>Mrs. Perry talked to me all the way to the station, along the flaming <foreign xml:lang="fre">Rue du Mont Blanc</foreign>.</p>
      <p>“I suppose there's no objection to their going off alone together like that, Mr. Hammond,”
       she said. “Mr. Perry made no objection, and, of course, we all know Joseph is very tenacious
       of appearances. But it does seem to me strange, only half married as they are. But then
@@ -3936,8 +3905,7 @@
       how exceedingly
       <pb n="231" xml:id="VAB7033-232"/> pretty a pastime, is the love of an honest man—and many men
       are honest, after all, you know—for an honest woman?</p>
-     <p>My soul expanded under these charming meditations. For was I not the <foreign xml:lang="lat"
-       >deus ex machina</foreign>, was not this good work mainly of my making? Had I yielded to the
+     <p>My soul expanded under these charming meditations. For was I not the <foreign xml:lang="lat">deus ex machina</foreign>, was not this good work mainly of my making? Had I yielded to the
       Carissima's thoughtless coquetries, and involved myself in any intimate relation to her, how
       different the result! It was the cut of her shoes that saved me? Perish the thought!—it was my
       own high-mindedness, my own self-forgetting appreciation of the justice of the situation. Had
@@ -3958,15 +3926,12 @@
      <p>On the present occasion he had “stolen upon me softly”; and his manner struck me as less
       intolerably superior than usual. He really seemed to wish to make himself agreeable.</p>
      <p>“'Evening, Hammond,” he murmured affably, as he dropped into a neighbouring chair. “Dancing?
-      How superfluous! You are very right to remain out here. The modern <foreign xml:lang="fre"
-       >bourgeois</foreign> ballroom—and this, I imagine, is pre-eminently <foreign xml:lang="fre"
-       >bourgeois</foreign>—is a revolting spectacle. Few sights, indeed, can be more repulsive than
+      How superfluous! You are very right to remain out here. The modern <foreign xml:lang="fre">bourgeois</foreign> ballroom—and this, I imagine, is pre-eminently <foreign xml:lang="fre">bourgeois</foreign>—is a revolting spectacle. Few sights, indeed, can be more repulsive than
       a herd of both sexes, underbred and perspiring, clasping each other's waists, and revolving,
       with prolonged and boisterous fatuity, in time to some wholly imbecile tune such as offends my
       ear at the present moment.”</p>
      <p>Nevertheless, Gerrard pushed his chair farther to the left, with the evident desire to gain
-      a clearer view of the festivities going forward in the <foreign xml:lang="fre"
-      >salon</foreign>. But a good many persons stood about the doorway, and it was only at
+      a clearer view of the festivities going forward in the <foreign xml:lang="fre">salon</foreign>. But a good many persons stood about the doorway, and it was only at
       intervals that one obtained full sight of the dancers.</p>
      <p>“An exhibition of untamed animality!” he murmured
       <pb n="233" xml:id="VAB7033-234"/> mured in tones of disgust. “I hold it proof of the
@@ -3982,8 +3947,7 @@
      <p>“Ah! you read those little things of mine!” he said. “They had merit—I knew it.”</p>
      <p>“Of course you knew it. It is the most abject of exploded fictions that a man can write a
       masterpiece without knowing it.”</p>
-     <p>He directed his slow glance upon the crowd round the door of the <foreign xml:lang="fre"
-       >salon</foreign> again.</p>
+     <p>He directed his slow glance upon the crowd round the door of the <foreign xml:lang="fre">salon</foreign> again.</p>
      <p>“Yes; I agree with you. I knew those articles had merit, and the best critics confirmed my
       judgment. I have been asked to reprint them.”</p>
      <p>“Do so,” I said. “The world will be the gainer.”</p>
@@ -4001,8 +3965,7 @@
       The Democratic Spirit, rightly understood, is disgustingly immodest. It has done its best to
       murder secrecy and concealment, which are necessary elements in all really exquisite
       living.”</p>
-     <p>The crowd opened to give passage to the American <foreign xml:lang="ita"
-       >prima-donna</foreign>, her well-preserved mother, and her stout poodle; and, for the moment,
+     <p>The crowd opened to give passage to the American <foreign xml:lang="ita">prima-donna</foreign>, her well-preserved mother, and her stout poodle; and, for the moment,
       the glistening floor of the ballroom and its racing couples were disclosed to observation.</p>
      <p>“And so I take it,” Gerrard continued, “in the Perfect State, woman will again dance with
       all the grace of richly developed suggestion—behind
@@ -4045,8 +4008,7 @@
       <pb n="237" xml:id="VAB7033-238"/> and artistic instincts. I had attended mass one morning in
       that little gem of a chapel; and later, in the richly toned and shadowed cedar drawing-room,
       while the sunlight yet caressed the grey stone mullions of that range of vast windows, Lady
-      Clare danced to us.—You know her? <foreign xml:lang="fre">Petite</foreign> but <foreign
-       xml:lang="fre">svelte</foreign>, sherry-coloured eyes and hair, with a dark pencilling of
+      Clare danced to us.—You know her? <foreign xml:lang="fre">Petite</foreign> but <foreign xml:lang="fre">svelte</foreign>, sherry-coloured eyes and hair, with a dark pencilling of
       eyelash and eyebrow. A skin like cream—yet that illustration hardly gratifies me. It is a
       little disgustingly suggestive of the cow, and the farm-girl, and a rude first-hand relation
       to nature.”</p>
@@ -4056,8 +4018,7 @@
       wonder of subtly interlacing lines. Yes, I think that fairly renders the immediate sentiment
       of her appearance. It was all very beautiful. The magnificent room, the high-bred woman, her
       bare neck and arms braving the sunlight, on which those historic rubies—you know them?—glowed
-      and shone as she passed from the voluptuous monotony of the Nautch to the frank <foreign
-       xml:lang="fre">gaminerie</foreign> of the <foreign xml:lang="fre">Café
+      and shone as she passed from the voluptuous monotony of the Nautch to the frank <foreign xml:lang="fre">gaminerie</foreign> of the <foreign xml:lang="fre">Café
       Chantant</foreign>.”</p>
      <p>“Innocent alike of the intention of either?” I remarked.</p>
      <p>“I really can't tell,” he said, with an effort at candour. “But I hope so; of course I hope
@@ -4085,8 +4046,7 @@
       exuberant gaiety which is born of fulness of content? There is a stage of mental as well as
       physical well-being which, in all living things, expresses itself in playfulness,
       skittishness, a disposition, as you may say frankly, to jump about. Could it be—but oh, dear
-      me, for that were indeed a notable conversion!—that Charlotte, <foreign xml:lang="fre"
-       >née</foreign> Perry, had reached the stage of innocent rapture in which all young and
+      me, for that were indeed a notable conversion!—that Charlotte, <foreign xml:lang="fre">née</foreign> Perry, had reached the stage of innocent rapture in which all young and
       wholesome creatures develop this disposition to jump about? Yet the peace of the—to
       themselves, unexpectedly—virtuous being still upon me, I was disposed to press a point in the
       direction of cheerfulness; to endure all things, in the shape of that most unsavoury animal,
@@ -4125,8 +4085,7 @@
      <p>“How about the suffrage, then,” I asked, as one greedy of information, “to which, as a good
       Conservative, your organ—that is the technical term, I believe—your organ, has devoted so many
       eloquent pages?”</p>
-     <p>“Assuredly, Hammond, you are not taken in by that little <foreign xml:lang="fre"
-       >blague</foreign>?” he said, turning his head slowly and looking at me. “We need it for the
+     <p>“Assuredly, Hammond, you are not taken in by that little <foreign xml:lang="fre">blague</foreign>?” he said, turning his head slowly and looking at me. “We need it for the
       protection of our own property, of course, menaced as it is by the rapacity of the masses. Not
       one woman in a million is public-spirited—the vast
       <pb n="242" xml:id="VAB7033-243"/> majority have a savage rage for their own little
@@ -4165,8 +4124,7 @@
       demeanour.</p>
      <p>“Thanks, Hammond,” he said. “You are really very obliging. That is all I wanted to
       know.”</p>
-     <p>And he pushed his way through the crowd into the brilliantly-lighted <foreign xml:lang="fre"
-       >salon</foreign>.</p>
+     <p>And he pushed his way through the crowd into the brilliantly-lighted <foreign xml:lang="fre">salon</foreign>.</p>
     </div>
     <div type="chapter">
      <pb n="244" xml:id="VAB7033-245"/>
@@ -4218,8 +4176,7 @@
       the big hotel, under the long row of dining-room windows. All the chandeliers were lighted within,
       <pb n="247" xml:id="VAB7033-248"/> and a confused noise of talk and of feasting reached me.
       Who paid, I wondered—not those who ate and drank, not the hotel proprietor, very certainly,
-      nor yet Mr. Perry. Leversedge, I supposed; that was his <foreign xml:lang="fre"
-      >rôle</foreign>.—Yes, Percy Gerrard's dirty fingers had decidedly spoilt the evening for me!
+      nor yet Mr. Perry. Leversedge, I supposed; that was his <foreign xml:lang="fre">rôle</foreign>.—Yes, Percy Gerrard's dirty fingers had decidedly spoilt the evening for me!
       Leversedge, I feared, was doomed to pay for most things, whoever happened to consume them.</p>
      <p>And just as I had reached this somewhat disheartening conclusion, at the turn of the
       terrace, in the full glare of the great cluster of electric lights fixed flowerlike against
@@ -4297,8 +4254,7 @@
      <p>“It's a beautiful night,” Leversedge remarked, with a certain irritation in his tone; “all
       the same, I don't care to stand still here. Shall we take a turn, Hammond, and come back?”</p>
      <p>“By all means,” I said.</p>
-     <p>Was Leversedge only restless, anxious to shake off Perry <foreign xml:lang="fre"
-       >père</foreign>, or was he cold? Really I was becoming very sentimental over Leversedge. I
+     <p>Was Leversedge only restless, anxious to shake off Perry <foreign xml:lang="fre">père</foreign>, or was he cold? Really I was becoming very sentimental over Leversedge. I
       would sacrifice myself to an almost unlimited extent in the way of pedestrianism to prevent
       his feeling cold.—But if his intention was to shake off his father-in-law, that end was not to
       be attained by such simple methods.</p>
@@ -4418,8 +4374,7 @@
       Mrs. Perry, the effect of her struck me as really impressive—her head and bare throat, her
       slim figure to the waist, in its pale draperies, standing out in profile, clean cut, from the
       multitudinous background of glossy magnolia leaves. And, thereupon, a suspicion overtook me,
-      that, even now, for good or evil, I had not come to the end of Charlotte <foreign
-       xml:lang="fre">née</foreign> Perry. I took my place at the little table in a spirit of
+      that, even now, for good or evil, I had not come to the end of Charlotte <foreign xml:lang="fre">née</foreign> Perry. I took my place at the little table in a spirit of
       expectation; a rather weariful sense upon me—really this day was an unconscionably long
       one!—that, in respect of drama, there might even now be a considerable amount ahead.</p>
      <p>As for the rest of the party—Mr. Perry had skirmished off in search of supper; Percy Gerrard
@@ -4517,8 +4472,7 @@
       itself through the blue-purple abyss of the lake and mountains, and the clear, impassive,
       starlit night.</p>
      <p>Just then arrived to us Mr. Perry, followed by a waiter carrying a tray, shoulder high. If
-      there was any abnormal influence abroad, it had not affected Perry <foreign xml:lang="fre"
-       >père</foreign> as yet, save in the way of an astonishing and altogether disproportionate
+      there was any abnormal influence abroad, it had not affected Perry <foreign xml:lang="fre">père</foreign> as yet, save in the way of an astonishing and altogether disproportionate
       hilarity.</p>
      <p>“Ah ha!” he cried, “I bring you varied cates— <quote>
        <l>Each to his taste, enough alike for all.</l>
@@ -4547,8 +4501,7 @@
      <p>He raised his hand and pointed down over the lawn. And that hand must have been disagreeably
       damp; for it left, dark on the grey zinc table-top, a distinct impression of a flat palm, four
       squat fingers and a thumb to match.</p>
-     <p>“Fairylike?—yes, I'm sure, positively fairylike,” broke in Perry <foreign xml:lang="fre"
-       >père</foreign> enthusiastically. “Titania and her frisky train are all abroad this evening.
+     <p>“Fairylike?—yes, I'm sure, positively fairylike,” broke in Perry <foreign xml:lang="fre">père</foreign> enthusiastically. “Titania and her frisky train are all abroad this evening.
       I have called my wife's attention to their merry manœuvres already—haven't I, Mamma?”</p>
      <p>Leversedge, at the mention of the glow-worms, glanced sharply at the speaker. Then he seemed
       to gather himself together, with a certain determination, and sat, his head bent, his back to the
@@ -4600,8 +4553,7 @@
       unsolved by me. Did I behave as a perfect gentleman, or merely as a very thorough-paced
       poltroon? I cannot tell. Anyhow, silently, I did answer. Whereupon the girl threw herself down
       in her chair, and flung her arms out across the table, scattering the ice-plates and
-      coffee-cups to right and left, making a swamp of Perry <foreign xml:lang="fre"
-       >père's</foreign> poor little supper.</p>
+      coffee-cups to right and left, making a swamp of Perry <foreign xml:lang="fre">père's</foreign> poor little supper.</p>
      <p>“Oh dear!” moaned Mrs. Perry,—“oh dear! whatever is the matter? Everything seems to have
       turned off so very dreadful all of a sudden. And,I'm sure I can't tell what it's all about—can
       you, Mr. Hammond?”</p>
@@ -4890,8 +4842,7 @@
       the adept, no doubt, He represents the final rest, the final beatitude; but, for the rank and
       file of us, He is chillingly far away, too unthinkably great to be of much immediate use in
       poor little twopenny-halfpenny human extremity. I would so thankfully have said a prayer, for
-      my unworthy and futile self; for my poor dear friend Leversedge; even for Charlotte <foreign
-       xml:lang="fre">née</foreign> Perry, that most unheroic daughter of a voracious rat and
+      my unworthy and futile self; for my poor dear friend Leversedge; even for Charlotte <foreign xml:lang="fre">née</foreign> Perry, that most unheroic daughter of a voracious rat and
       excellent suburban clock-moon, in this her hour of self-knowledge, conscious nakedness and
       nothingness. But how could I, in reason, do so? Who was I that I should be heard?
       <pb n="286" xml:id="VAB7033-287"/> What my petitions, that they should obtain to change the

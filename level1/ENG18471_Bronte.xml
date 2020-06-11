@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18471" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18471" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Wuthering Heights : ELTeC edition</title>
-                <author ref="viaf:97097302">Brontë, Emily (1818-1848)</author>
+                <author ref="https://viaf.org/viaf/97097302/">Brontë, Emily (1818-1848)</author>
             </titleStmt>
             <extent>
                 <measure unit="words">115398</measure>
@@ -33,7 +32,7 @@
                     <author>Ellis Bell</author>
                     <publisher>London: T. C. Newby</publisher>
                     <date>1847</date>
-                    <ref target="ia:wutheringheights01bron_bw.pdf">vol 1</ref><ref target="ia:wutheringheights02bron_bw.pdf">vol 2</ref></bibl>
+                    <ref target="http://archive.org/details/wutheringheights01bron_bw.http://archive.org/details/pdf">vol 1</ref><ref target="http://archive.org/details/wutheringheights02bron_bw.http://archive.org/details/pdf">vol 2</ref></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -117,8 +116,7 @@
                         sinewy.</p>
                     <p>"The Lord help us!" he soliloquised in an undertone of peevish displeasure,
                         while relieving me of my horse: looking, meantime, in my face so sourly that
-                        I charitably conjectured he must have need of divine aid to digest his <pb
-                            n="4"/>dinner, and his pious ejaculation had no reference to my
+                        I charitably conjectured he must have need of divine aid to digest his <pb n="4"/>dinner, and his pious ejaculation had no reference to my
                         unexpected advent.</p>
                     <p>Wuthering Heights is the name of Mr. Heathcliff's dwelling. "Wuthering" being
                         a significant provincial adjective, descriptive of the atmospheric tumult to
@@ -144,8 +142,7 @@
                         distinguished a chatter of tongues, and a clatter of culinary utensils, deep
                         within; and I observed no signs of roasting, boiling, or baking, about the
                         huge fire-place; nor any glitter of copper saucepans and tin cullenders on
-                        the walls. One end, indeed, reflected splendidly both light and heat, <pb
-                            n="6"/>from ranks of immense pewter dishes; interspersed with silver
+                        the walls. One end, indeed, reflected splendidly both light and heat, <pb n="6"/>from ranks of immense pewter dishes; interspersed with silver
                         jugs, and tankards, towering row after row, in a vast oak dresser, to the
                         very roof. The latter had never been under-drawn, its entire anatomy lay
                         bare to an inquiring eye, except where a frame of wood laden with oatcakes,
@@ -158,8 +155,7 @@
                         bitch pointer surrounded by a swarm of squealing puppies, and other dogs,
                         haunted other recesses.</p>
                     <p>The apartment, and furniture would have been nothing extraordinary as
-                        belonging to a homely, northern farmer with a stubborn <pb n="7"
-                        />countenance, and stalwart limbs, set out to advantage in knee-breeches,
+                        belonging to a homely, northern farmer with a stubborn <pb n="7"/>countenance, and stalwart limbs, set out to advantage in knee-breeches,
                         and gaiters. Such an individual, seated in his arm-chair, his mug of ale
                         frothing on the round table before him, is to be seen in any circuit of five
                         or six miles among these hills, if you go at the right time, after dinner.
@@ -241,8 +237,7 @@
                         wine. Guests are so exceedingly rare in this house that I and my dogs, I am
                         willing to own, hardly know how to receive them. Your health, sir!"</p>
                     <p>I bowed and returned the pledge; beginning to perceive that it would be
-                        foolish to sit sulking for the misbehaviour of a pack of curs: <pb n="13"
-                        />besides, I felt loath to yield the fellow further amusement, at my
+                        foolish to sit sulking for the misbehaviour of a pack of curs: <pb n="13"/>besides, I felt loath to yield the fellow further amusement, at my
                         expense; since his humour took that turn.</p>
                     <p>He-probably swayed by prudential considerations of the folly of offending a
                         good tenant—relaxed, a little, in the laconic style of chipping of his
@@ -291,8 +286,7 @@
                     <p>"Nor-ne me! Aw'll hae noa hend wi't," muttered the head vanishing.</p>
                     <p>The snow began to drive thickly. I seized the handle to essay another trial;
                         when a young man, without coat, and shouldering a pitchfork, appeared in the
-                        yard behind. He hailed me to follow him, and, after marching <pb n="17"
-                        />through a washhouse, and a paved area containing a coal-shed, pump, and
+                        yard behind. He hailed me to follow him, and, after marching <pb n="17"/>through a washhouse, and a paved area containing a coal-shed, pump, and
                         pigeon cote, we at length arrived in the large, warm, cheerful apartment,
                         where I was formerly received.</p>
                     <p>It glowed delightfully in the radiance of an immense fire, compounded of
@@ -560,8 +554,7 @@
                         artillery against the younger scoundrel.</p>
                     <p>"Well, Mr. Earnshaw," she cried, "I wonder what you'll have agait next! Are
                         we going to murder folk on our very door-stones? I see this house will never
-                        do for me—look at t' poor lad, he's fair choking! Wisht, wisht! <pb n="36"
-                        />you mun'n't go on so—come in, and I'll cure that. There now, hold ye
+                        do for me—look at t' poor lad, he's fair choking! Wisht, wisht! <pb n="36"/>you mun'n't go on so—come in, and I'll cure that. There now, hold ye
                         still."</p>
                     <p>With these words she suddenly splashed a pint of icy water down my neck, and
                         pulled me into the kitchen. Mr. Heathcliff followed, his accidental
@@ -783,8 +776,7 @@
                         soldered into the staple, a circumstance observed by me, when awake, but
                         forgotten.</p>
                     <p>"I must stop it, nevertheless!" I muttered, knocking my knuckles through the
-                        glass, and stretching an arm out to seize the importunate <pb n="52"
-                        />branch: instead of which, my fingers closed on the fingers of a little,
+                        glass, and stretching an arm out to seize the importunate <pb n="52"/>branch: instead of which, my fingers closed on the fingers of a little,
                         ice-cold hand!</p>
                     <p>The intense horror of nightmare came over me; I tried to draw back my arm,
                         but, the hand clung to it, and a most melancholy voice, sobbed,</p>
@@ -927,8 +919,7 @@
                         shuffling down a wooden ladder that vanished in the roof, through a trap,
                         the assent to his garret, I suppose.</p>
                     <p>He cast a sinister look at the little flame which I had enticed to play
-                        between the ribs, swept the cat from its elevation, and bestowing <pb n="62"
-                        />himself In the vacancy, commenced the operation of stuffing a three-inch
+                        between the ribs, swept the cat from its elevation, and bestowing <pb n="62"/>himself In the vacancy, commenced the operation of stuffing a three-inch
                         pipe with tobacco; my presence in his sanctum was evidently esteemed a piece
                         of impudence too shameful for remark. He silently applied the tube to his
                         lips, folded his arms, and puffed away.</p>
@@ -1181,8 +1172,7 @@
                         surname.</p>
                     <p>Miss Cathy and he were now very thick; but Hindley hated him, and to say the
                         truth I did the same; and we plagued and went on with him shamefully, for I
-                        was'nt reasonable enough to feel my injustice, and the mistress <pb n="81"
-                        />never put in a word on his behalf, when she saw him wronged.</p>
+                        was'nt reasonable enough to feel my injustice, and the mistress <pb n="81"/>never put in a word on his behalf, when she saw him wronged.</p>
                     <p>He seemed a sullen, patient child; hardened, perhaps, to ill-treatment: he
                         would stand Hindley's blows without winking or shedding a tear, and my
                         pinches moved him only to draw in a breath, and open his eyes as if he had
@@ -1232,8 +1222,7 @@
                         will not turn you out directly."</p>
                     <p>Hindley threw it, hitting him on the breast and down he fell but staggered
                         up, immediately, breathless and white, and had not I prevented it he would
-                        have gone just so to the master, and got full revenge by letting <pb n="85"
-                        />his condition plead for him, intimating who had caused it."</p>
+                        have gone just so to the master, and got full revenge by letting <pb n="85"/>his condition plead for him, intimating who had caused it."</p>
                     <p>"Take my colt, gipsy, then!" said young Earnshaw, "And I pray that he may
                         break your neck, take him, and be damned, you beggarly interloper! and
                         wheedle my father out of all he has, only, afterwards, show him what you
@@ -1610,8 +1599,7 @@
                         visited her often, in the interval, and commenced her plan of reform, by
                         trying to raise her self-respect with fine clothes, and flattery, which she
                         took readily: so that, instead of a wild, hatless little savage jumping into
-                        the house, and rushing to squeeze us all breathless, there lighted <pb
-                            n="114"/>from a handsome black pony a very dignified person with brown
+                        the house, and rushing to squeeze us all breathless, there lighted <pb n="114"/>from a handsome black pony a very dignified person with brown
                         ringlets falling from the cover of a feathered beaver, and a long cloth
                         habit which she was obliged to hold up with both hands that she might sail
                         in.</p>
@@ -1625,8 +1613,7 @@
                         hat."</p>
                     <p>I removed the habit, and there shone forth, beneath a grand plaid silk frock,
                         white trousers, and burnished shoes; and, while her eyes sparkled joyfully
-                        when the dogs came bounding up to welcome her, she dare hardly <pb n="115"
-                        />touch them lest they should fawn upon her splendid garments.</p>
+                        when the dogs came bounding up to welcome her, she dare hardly <pb n="115"/>touch them lest they should fawn upon her splendid garments.</p>
                     <p>She kissed me gently, I was all flour making the Christmas cake, and it would
                         not have done to give me a hug; and, then, she looked round for Heathcliff.
                         Mr. and Mrs. Earnshaw watched anxiously their meeting, thinking it would
@@ -1847,8 +1834,7 @@
                         and hastily dived under the cloth to conceal her emotion. I did not call her
                         unfeeling long, for, I perceived she was in purgatory throughout the day,
                         and wearying to find an opportunity of getting by herself, or paying a visit
-                        to Heathcliff, who had been locked up by the master, as I discovered, on <pb
-                            n="131"/>endeavouring to introduce to him a private mess of
+                        to Heathcliff, who had been locked up by the master, as I discovered, on <pb n="131"/>endeavouring to introduce to him a private mess of
                         victuals.</p>
                     <p>In the evening we had a dance, Cathy begged that he might be liberated then,
                         as Isabella Linton had no partner; her entreaties were vain, and I was
@@ -2011,8 +1997,7 @@
                         him!"</p>
                     <p>Poor soul! Till within a week of her death that gay heart never failed her;
                         and her husband persisted doggedly, nay, furiously, in affirming her health
-                        improved every day. When Kenneth warned him that his medicines <pb n="143"
-                        />were useless at that stage of the malady, and he needn't put him to
+                        improved every day. When Kenneth warned him that his medicines <pb n="143"/>were useless at that stage of the malady, and he needn't put him to
                         further expense by attending her, he retorted—</p>
                     <p>"I know you need not—she's well—she does not want any more attendance from
                         you! She never was in a consumption. It was a fever; and it is gone—her
@@ -2507,8 +2492,7 @@
                     <p>She laughed, and held me down, for I made a motion to leave my chair.</p>
                     <p>"This is nothing," cried she; "I was only going to say that heaven did not
                         seem to be my home; and I broke my heart with weeping to come back to earth;
-                        and the angels were so angry that they flung me out, into the middle <pb
-                            n="179"/>of the heath on the top of Wuthering Heights: where I woke
+                        and the angels were so angry that they flung me out, into the middle <pb n="179"/>of the heath on the top of Wuthering Heights: where I woke
                         sobbing for joy. That will do to explain my secret, as well as the other.
                         I've no more business to marry Edgar Linton than I have to be in heaven; and
                         if the wicked man in there, had not brought Heathcliff so low I shouldn't
@@ -2621,8 +2605,7 @@
                         would!"</p>
                     <p>"What a noise for nothing!" I cried, though rather uneasy myself. "What a
                         trifle scares you! It's surely no great cause of alarm that Heathcliff
-                        should take a moonlight saunter on the moors, or, even lie too sulky to <pb
-                            n="187"/>speak to us, in the hay-loft. I'll engage he's lurking there.
+                        should take a moonlight saunter on the moors, or, even lie too sulky to <pb n="187"/>speak to us, in the hay-loft. I'll engage he's lurking there.
                         See, if I don't ferret him out!"</p>
                     <p>I departed to renew my search; its result was disappointment, and Joseph's
                         quest ended in the same.</p>
@@ -2691,8 +2674,7 @@
                         step on the ladder, and then I dropt asleep.</p>
                     <p>Coming down somewhat later than usual, I saw, by the sunbeams piercing the
                         chinks of the shutters. Miss Catherine still seated near the fire-place. The
-                        house door was ajar, too light entered from its unclosed windows, <pb
-                            n="192"/>Hindley had come out, and stood on the kitchen hearth, haggard
+                        house door was ajar, too light entered from its unclosed windows, <pb n="192"/>Hindley had come out, and stood on the kitchen hearth, haggard
                         and drowsy.</p>
                     <p>"What ails you, Cathy?" he was saying when I entered; "You look as dismal as
                         a drowned whelp—Why are you so damp and pale child?"</p>
@@ -2720,8 +2702,7 @@
                         gentle and simple! Never a day ut yah're off, but yon cat uh Linton comes
                         sneaking hither—and Miss Nelly shoo's a fine lass! shoo sits watching for ye
                         i' t'kitchen; and as yah're in at one door, he's aht at t'other—Und, then,
-                        wer grand lady goes a coorting uf hor side! It's bonny <pb n="194"
-                        />behaviour, lurking amang t'flields, after twelve ut' night, wi that fahl,
+                        wer grand lady goes a coorting uf hor side! It's bonny <pb n="194"/>behaviour, lurking amang t'flields, after twelve ut' night, wi that fahl,
                         flaysome divil uf a gipsy, Heathcliff,! They think <hi>Aw'm</hi> blind; but
                         Aw'm noan, now't ut t'soart! Aw seed young Linton, boath coming and going,
                         and Aw seed <hi>yah</hi> (directing his discourse to me.) Yah gooid fur
@@ -2861,8 +2842,7 @@
                         indifference?</p>
                     <p>"I observed that Mr. Edgar had a deep-rooted fear of ruffling her humour. He
                         concealed it from her; but if ever he heard me answer sharply, or saw any
-                        other servant grow cloudy at some imperious order of hers, he <pb n="205"
-                        />would show his trouble by a frown of displeasure that never darkened on
+                        other servant grow cloudy at some imperious order of hers, he <pb n="205"/>would show his trouble by a frown of displeasure that never darkened on
                         his own account. He, many a time, spoke sternly to me about my pertness; and
                         averred that the stab of a knife could not inflict a worse pang than he
                         suffered at seeing his lady vexed.</p>
@@ -2931,8 +2911,7 @@
                         rather dips down on the other side.</p>
                     <p>Both the room, and its occupants, and the scene they gazed on, looked
                         wondrously peaceful. I shrank reluctantly from performing my errand: and was
-                        actually going away, leaving it unsaid, after having put my <pb n="210"
-                        />question about the candles, when a sense of my folly compelled me to
+                        actually going away, leaving it unsaid, after having put my <pb n="210"/>question about the candles, when a sense of my folly compelled me to
                         return, and mutter:</p>
                     <p>"A person from Gimmerton wishes to see you, ma'am."</p>
                     <p>"What does he want?" asked Mrs. Linton.</p>
@@ -2990,8 +2969,7 @@
                     <p>Now fully revealed by the fire and candlelight, I was amazed, more than ever,
                         to behold the transformation of Heathcliff. He had grown a tall, athletic,
                         well-formed man; beside whom, my master seemed quite slender and youth-like.
-                        His upright carriage suggested the idea of his having been in the army. <pb
-                            n="214"/>His countenance was much older in expression, and decision of
+                        His upright carriage suggested the idea of his having been in the army. <pb n="214"/>His countenance was much older in expression, and decision of
                         feature than Mr. Linton's; it looked intelligent, and retained no marks of
                         former degradation. A half-civilized ferocity lurked yet in the depressed
                         brows, and eyes full of black fire, but it was subdued; and his manner was
@@ -3205,8 +3183,7 @@
                         recommend you to bestow your heart on him! It is deplorable ignorance of his
                         character, child, and nothing else, which makes that dream enter your head,
                         pray don't imagine that he conceals depths of benevolence and affection
-                        beneath a stern exterior! He's not a rough diamond—a <pb n="230"
-                        />pearl-containing oyster of a rustic; he's a fierce, pitiless, wolfish man.
+                        beneath a stern exterior! He's not a rough diamond—a <pb n="230"/>pearl-containing oyster of a rustic; he's a fierce, pitiless, wolfish man.
                         I never say to him let this or that enemy alone, because it would be
                         ungenerous or cruel to harm them—I say let them alone, because <hi>I</hi>
                         should hate them to be wronged: and he'd crush you, like a sparrow's egg,
@@ -3330,8 +3307,7 @@
                         were you?"</p>
                     <p>"I assure you I was," she returned. "She has been pining for your sake
                         several weeks; and raving about you this morning, and pouring forth a deluge
-                        of abuse, because I represented your failings in a plain light for the <pb
-                            n="239"/>purpose of mitigating her adoration. But don't notice it
+                        of abuse, because I represented your failings in a plain light for the <pb n="239"/>purpose of mitigating her adoration. But don't notice it
                         further. I wished to punish her sauciness, that's all—I like her too well,
                         my dear Heathcliff, to let you absolutely seize and devour her up."</p>
                     <p>"And I like her too ill to attempt it," said he, "except in a very ghoulish
@@ -3448,8 +3424,7 @@
                     <p>I put the orange in his hand; and bade him tell his father that a woman
                         called Nelly Dean, was waiting to speak with him, by the garden gate.</p>
                     <p>He went up the walk, and entered the house; but, instead of Hindley,
-                        Heathcliff appeared on the door stones, and I turned directly <pb n="248"
-                        />and ran down the road as hard as ever I could race, making no halt till I
+                        Heathcliff appeared on the door stones, and I turned directly <pb n="248"/>and ran down the road as hard as ever I could race, making no halt till I
                         gained the guide post, and feeling as scared as if I had raised a
                         goblin.</p>
                     <p>This is not much connected with Miss Isabella's affair; except, that it urged
@@ -3462,8 +3437,7 @@
                         found it a great comfort.</p>
                     <p>Heathcliff had not the habit of bestowing a single unnecessary civility on
                         Miss Linton, I knew. Now, as soon as he beheld her, his first precaution was
-                        to take a sweeping survey of the house-front. I was standing by the <pb
-                            n="249"/>kitchen window, but I drew out of sight. He then stept across
+                        to take a sweeping survey of the house-front. I was standing by the <pb n="249"/>kitchen window, but I drew out of sight. He then stept across
                         the pavement to her, and said something: she seemed embarrassed, and
                         desirous of getting away; to prevent it, he laid his hand on her arm: she
                         averted her face; he apparently put some question which she had no mind to
@@ -3631,8 +3605,7 @@
                         you value his existence, let me get at him!"</p>
                     <p>"He is not coming." I interposed, framing a bit of a lie. "There's the
                         coachman, and the two gardeners; you'll surely not wait to be thrust into
-                        the road by them! Each has a bludgeon, and master will, very likely, be <pb
-                            n="261"/>watching from the parlour windows to see that they fulfil his
+                        the road by them! Each has a bludgeon, and master will, very likely, be <pb n="261"/>watching from the parlour windows to see that they fulfil his
                         orders."</p>
                     <p>The gardeners, and coachman <hi>were</hi> there; but Linton was with them.
                         They had already entered the court—Heathcliff, on second thoughts resolved
@@ -3659,8 +3632,7 @@
                         displeasure, after I had scolded Heathcliff till I was hoarse for
                             <hi>him</hi>; I did not care, hardly, what they did to each other,
                         especially as I felt that, however the scene closed, we should all be driven
-                        asunder for nobody knows how long! Well, if I cannot keep Heathcliff for <pb
-                            n="263"/>my friend—if Edgar will be mean and jealous, I'll try to break
+                        asunder for nobody knows how long! Well, if I cannot keep Heathcliff for <pb n="263"/>my friend—if Edgar will be mean and jealous, I'll try to break
                         their hearts by breaking my own. That will be a prompt way of finishing all,
                         when I am pushed to extremity! But it's a deed to be reserved for a forlorn
                         hope—I'd not take Linton by surprise with it. To this this point he has been
@@ -3672,8 +3644,7 @@
                         exasperating; for they were delivered in perfect sincerity, but I believed a
                         person who could plan the turning of her fits of passion to account,
                         beforehand, might, by exerting her will, manage to control herself tolerably
-                        even while under their influence; and I did not wish to <pb n="264"
-                        />"frighten" her husband, as she said, and multiply his annoyances for the
+                        even while under their influence; and I did not wish to <pb n="264"/>"frighten" her husband, as she said, and multiply his annoyances for the
                         purpose of serving her selfishness.</p>
                     <p>Therefore I said nothing when I met the master coming towards the parlour;
                         but I took the liberty of turning back to listen whether they would resume
@@ -3712,8 +3683,7 @@
                     <p>"Never mind!" I answered, tartly. And I told him how she had resolved,
                         previous to his coming, on exhibiting a fit of frenzy.</p>
                     <p>I incautiously gave the account aloud, and she heard me, for she started
-                        up—her hair flying over her shoulders, her eyes flashing, the <pb n="267"
-                        />muscles of her neck and arms standing out preternaturally. I made up my
+                        up—her hair flying over her shoulders, her eyes flashing, the <pb n="267"/>muscles of her neck and arms standing out preternaturally. I made up my
                         mind for broken bones, at least; but she only glared about her, for an
                         instant, and then rushed from the room.</p>
                     <p>The master directed me to follow; I did, to her chamber door; she hindered me
@@ -3916,8 +3886,7 @@
                         been at all. I was a child; my father was just buried, and my misery arose
                         from the separation that Hindley had ordered between me, and Heathcliff—I
                         was laid alone, for the first time, and rousing from a dismal dose after a
-                        night of weeping—I lifted my hand to push the panels aside, it <pb n="282"
-                        />struck the table-top! I swept it along the carpet, and then, memory burst
+                        night of weeping—I lifted my hand to push the panels aside, it <pb n="282"/>struck the table-top! I swept it along the carpet, and then, memory burst
                         in—my late anguish was swallowed in a paroxysm of despair—I cannot say why I
                         felt so wildly wretched—it must have been temporary derangement for there is
                         scarcely cause—But, supposing at twelve years old, I had been wrenched from
@@ -3929,8 +3898,7 @@
                         have helped to unsettle me! You should have spoken to Edgar, indeed you
                         should, and compelled him to leave me quiet! Oh, I'm burning! I wish I were
                         out of doors—I wish I were a girl again, half savage and hardy, and
-                        free. . .and laughing at injuries, not maddening under them! Why am I so <pb
-                            n="283"/>changed? why does my blood rush into a hell of tumult at a few
+                        free. . .and laughing at injuries, not maddening under them! Why am I so <pb n="283"/>changed? why does my blood rush into a hell of tumult at a few
                         words? I'm sure I should be myself were I once among the heather on those
                         hills. . .Open the window again wide, fasten it open! Quick, why don't you
                         move?"</p>
@@ -4011,8 +3979,7 @@
                         rally. . .Hereafter, we must be cautious how we vex her."</p>
                     <p>"I desire no further advice from you," answered Mr. Linton. "You knew your
                         mistress's nature, and you encouraged me to harass her. And not to give me
-                        one hint of how she has been these three days! It was <pb n="289"
-                        />heartless! months of sickness could not cause such a change!"</p>
+                        one hint of how she has been these three days! It was <pb n="289"/>heartless! months of sickness could not cause such a change!"</p>
                     <p>I began to defend myself, thinking it too bad to be blamed for another's
                         wicked waywardness!</p>
                     <p>"I knew Mrs. Linton's nature to be headstrong and domineering," cried I; "but
@@ -4054,8 +4021,7 @@
                         circumstance a thought, though it was a strange sound, in that place, at two
                         o'clock in the morning.</p>
                     <p>Mr. Kenneth was fortunately just issuing from his house to see a patient in
-                        the village as I came up the street; and my account of <pb n="292"
-                        />Catherine Linton's malady induced him to accompany me back
+                        the village as I came up the street; and my account of <pb n="292"/>Catherine Linton's malady induced him to accompany me back
                         immediately.</p>
                     <p>He was a plain, rough man; and he made no scruple to speak his doubts of her
                         surviving this second attack; unless she were more submissive to his
@@ -4232,8 +4198,7 @@
                         proceeding had offended him; asserting that she could not help it then, and
                         being done, she had now no power to repeal it.</p>
                     <p>Linton did not reply to this, I believe; and, in a fortnight more, I got a
-                        long letter which I considered odd coming from the pen of a <pb n="306"
-                        />bride just out of the honeymoon. I'll read it, for I keep it yet. Any
+                        long letter which I considered odd coming from the pen of a <pb n="306"/>bride just out of the honeymoon. I'll read it, for I keep it yet. Any
                         relic of the dead is precious, if they were valued living.</p>
                     <p>"Dear Ellen," it begins.</p>
                     <p>"I came, last night, to Wuthering Heights, and heard, for the first time,
@@ -4261,8 +4226,7 @@
                         something from Edgar.</p>
                     <p>Now, you shall hear how I have been received in my new home, as I am led to
                         imagine the Heights will be. It is to amuse myself that I dwell on such
-                        subjects as the lack of external comforts; they never occupy my <pb n="308"
-                        />thoughts, except at the moment when I miss them—I should laugh and dance
+                        subjects as the lack of external comforts; they never occupy my <pb n="308"/>thoughts, except at the moment when I miss them—I should laugh and dance
                         for joy, if I found their absence was the total of my miseries, and the rest
                         was an unnatural dream!</p>
                     <p>The sun set behind the Grange, as we turned on to the moors; by that, I
@@ -4376,8 +4340,7 @@
                         great tempter to a desperate man, is it not? I cannot resist going up with
                         this, every night, and trying his door, if once I find it open he's done
                         for! I do it invariably, even though the minute before I have been recalling
-                        a hundred reasons that should make me refrain—it is some devil that <pb
-                            n="316"/>urges me to thwart my own schemes by killing him—you fight
+                        a hundred reasons that should make me refrain—it is some devil that <pb n="316"/>urges me to thwart my own schemes by killing him—you fight
                         against that devil, for love, as as long as you may; when the time comes,
                         not all the angels in heaven shall save him!</p>
                     <p>I surveyed the weapon inquisitively; a hideous notion struck me. How powerful
@@ -4420,8 +4383,7 @@
                         t' day ut aw mud lave th' owld place—but aw daht it's nigh at hend!"</p>
                     <p>This lamentation drew no notice from me; I went briskly to work; sighing to
                         remember a period when it would have been all merry fun; but compelled
-                        speedily to drive off the remembrance. It racked me to recall past <pb
-                            n="319"/>happiness, and the greater peril there was of conjuring up its
+                        speedily to drive off the remembrance. It racked me to recall past <pb n="319"/>happiness, and the greater peril there was of conjuring up its
                         apparition, the quicker the thible ran round, and the faster the handfuls of
                         meal fell into the water.</p>
                     <p>Joseph beheld my style of cookery with growing indignation.</p>
@@ -4519,8 +4481,7 @@
                         pocket-handherchief.</p>
                     <p>Our labours were scarcely over when I heard Earnshaw's tread in the passage;
                         my assistant tucked in his tail, and pressed to the wall; I stole into the
-                        nearest doorway. The dog's endeavour to avoid him was unsuccessful; as I <pb
-                            n="326"/>guessed by a scutter down stairs, and a prolonged, piteous
+                        nearest doorway. The dog's endeavour to avoid him was unsuccessful; as I <pb n="326"/>guessed by a scutter down stairs, and a prolonged, piteous
                         yelping. I had better luck. He passed on, entered his chamber, and shut the
                         door.</p>
                     <p>Directly after Joseph came up with Hareton, to put him to bed. I had found
@@ -4713,8 +4674,7 @@
                         you; it wounds her vanity to have the truth exposed. But, I don't care who
                         knows that the passion was wholly on one side, and I never told her a lie
                         about it. She cannot accuse me of showing a bit of deceitful softness. The
-                        first thing she saw me do, on coming out of the Grange, was to hang <pb
-                            n="340"/>up her little dog, and when she pleaded for it the first words
+                        first thing she saw me do, on coming out of the Grange, was to hang <pb n="340"/>up her little dog, and when she pleaded for it the first words
                         I uttered, were a wish that I had the hanging of every being belonging to
                         her, except one: possibly, she took that exception for herself—But no
                         brutality disgusted her—I suppose, she has an innate admiration of it, if
@@ -4870,8 +4830,7 @@
                         they appeared always to gaze beyond, and far beyond—you would have said out
                         of this world—Then, the paleness of her face, its haggard aspect having
                         vanished as she recovered flesh, and the peculiar expression arising from
-                        her mental state, though painfully suggestive of their causes, added to <pb
-                            n="4"/>the touching interest, which she wakened, and invariably to me, I
+                        her mental state, though painfully suggestive of their causes, added to <pb n="4"/>the touching interest, which she wakened, and invariably to me, I
                         know, and to any person who saw her, I should think, refuted more tangible
                         proofs of convalescence and stamped her as one doomed to decay.</p>
                     <p>A book lay spread on the sill before her, and the scarcely perceptible wind
@@ -5022,8 +4981,7 @@
                         return, covering her with frantic caresses, said wildly—</p>
                     <p>"You teach me now how cruel you've been—cruel and false. <hi>Why</hi> did you
                         despise me? <hi>Why</hi> did you betray your own heart, Cathy? I have not
-                        one word of comfort—you deserve this. You have killed yourself. Yes, you <pb
-                            n="15"/>may kiss me, and cry; and wring out my kisses and tears. They'll
+                        one word of comfort—you deserve this. You have killed yourself. Yes, you <pb n="15"/>may kiss me, and cry; and wring out my kisses and tears. They'll
                         blight you—they'll damn you, You loved me—then what <hi>right</hi> had you
                         to leave me? What right—answer me—for the poor fancy you felt for Linton?
                         Because misery, and degradation, and death, and nothing that God or satan
@@ -5080,8 +5038,7 @@
                         deed that ever you did. We are all done for—master, mistress, and
                         servant."</p>
                     <p>I wrung my hands, and cried out; and Mr. Linton hastened his step at the
-                        noise. In the midst of my agitation, I was sincerely glad to <pb n="19"
-                        />observe that Catherine's arms had fallen relaxed, and her head hung
+                        noise. In the midst of my agitation, I was sincerely glad to <pb n="19"/>observe that Catherine's arms had fallen relaxed, and her head hung
                         down.</p>
                     <p>"She's fainted or dead," I thought, "so much the better. Far better that she
                         should be dead, than lingering a burden, and a misery-maker to all about
@@ -5133,8 +5090,7 @@
                         and fair features were almost as death-like as those of the form beside him,
                         and almost as fixed; but <hi>his</hi> was the hush of exhausted anguish, and
                             <hi>her's</hi> of perfect peace. Her brow smooth, her lids closed, her
-                        lips wearing the expression of a smile. No angel in heaven could be more <pb
-                            n="23"/>beautiful than she appeared; and I partook of the infinite calm
+                        lips wearing the expression of a smile. No angel in heaven could be more <pb n="23"/>beautiful than she appeared; and I partook of the infinite calm
                         in which she lay. My mind was never in a holier frame, than while I gazed on
                         that untroubled image of Divine rest. I instinctively echoed the words she
                         had uttered, a few hours before. "Incomparably beyond, and above us all!
@@ -5331,8 +5287,7 @@
                         "There! he shall buy another, if he gets me back again. He'd be capable of
                         coming to seek me, to tease Edgar—I dare not stay, lest that notion should
                         possess his wicked head! And besides, Edgar has not been kind, has he? And I
-                        won't come suing for his assistance; nor will I bring him into <pb n="38"
-                        />more trouble—Necessity compelled me to seek shelter here; though if I had
+                        won't come suing for his assistance; nor will I bring him into <pb n="38"/>more trouble—Necessity compelled me to seek shelter here; though if I had
                         not learnt he was out of the way, I'd have halted at the kitchen, washed my
                         face, warmed myself, got you to bring what I wanted, and departed again to
                         anywhere out of the reach of my accursed—of that incarnate goblin! Ah, he
@@ -5705,8 +5660,7 @@
                         speaking to my master: he shunned conversation, and was fit for discussing
                         nothing. When I could get him to listen, I saw it pleased him that his
                         sister had left her husband, whom he abhorred with an intensity which the
-                        mildness of his nature would scarcely seem to allow. So deep and <pb n="65"
-                        />sensitive was his aversion, that he refrained from going anywhere where he
+                        mildness of his nature would scarcely seem to allow. So deep and <pb n="65"/>sensitive was his aversion, that he refrained from going anywhere where he
                         was likely to see or hear of Heathcliff. Grief, and that together,
                         transformed him into a complete hermit: he threw up his office of
                         magistrate, ceased even to attend church, avoided the village on all
@@ -5734,8 +5688,7 @@
                         myself to explain satisfactorily, why their conduct was so opposite in
                         similar circumstances. They had both been fond husbands, and were both
                         attached to their children; and I could not see how they shouldn't both have
-                        taken the same road, for good or evil. But, I thought in my <pb n="67"
-                        />mind, Hindley with apparently the stronger head, has shown himself sadly
+                        taken the same road, for good or evil. But, I thought in my <pb n="67"/>mind, Hindley with apparently the stronger head, has shown himself sadly
                         the worse and the weaker man. When his ship struck, the captain abandoned
                         his post; and the crew, instead of trying to save her, rushed into riot, and
                         confusion, leaving no hope for their luckless vessel. Linton, on the
@@ -6128,8 +6081,7 @@
                         the usurper of his property.</p>
                     <p>If the lad swore he wouldn't correct him; nor however culpably he behaved. It
                         gave Joseph satisfaction, apparently, to watch him go the worst lengths. He
-                        allowed that he was ruined; that his soul was abandoned to <pb n="96"
-                        />perdition; but then, he reflected that Heathcliff must answer for it.
+                        allowed that he was ruined; that his soul was abandoned to <pb n="96"/>perdition; but then, he reflected that Heathcliff must answer for it.
                         Hareton's blood would be required at his hands; and there lay immense
                         consolation in that thought.</p>
                     <p>Joseph had instilled into him a pride of name, and of his lineage; he would
@@ -6171,8 +6123,7 @@
                         grievance before her father.</p>
                     <p>I explained how he objected to the whole household at the Heights, and how
                         sorry he would be to find she had been there; but, I insisted most on the
-                        fact, that if she revealed my negligence of his orders, he would <pb n="99"
-                        />perhaps, be so angry that I should have to leave; and Cathy couldn't bear
+                        fact, that if she revealed my negligence of his orders, he would <pb n="99"/>perhaps, be so angry that I should have to leave; and Cathy couldn't bear
                         that prospect: she pledged her word, and kept it, for my sake—after all, she
                         was a sweet little girl.</p>
                 </div>
@@ -6216,8 +6167,7 @@
                         spare for any but themselves.</p>
                     <p>While they exchanged caresses, I took a peep in to see after Linton. He was
                         asleep, in a corner, wrapped in a warm, fur-lined cloak, as if it had been
-                        winter, A pale, delicate, effeminate boy, who might have been <pb n="103"
-                        />taken for my master's younger brother, so strong was the resemblance, but
+                        winter, A pale, delicate, effeminate boy, who might have been <pb n="103"/>taken for my master's younger brother, so strong was the resemblance, but
                         there was a sickly peevishness in his aspect, that Edgar Linton never
                         had.</p>
                     <p>The latter saw me looking; and having shaken hands, advised me to close the
@@ -6472,8 +6422,7 @@
                         breakfast—Hareton, you infernal calf, begone to your work. Yes, Nell," he
                         added when they were departed, "my son is prospective owner of your place,
                         and I should not wish him to die till I was certain of being his successor.
-                        Besides, he's <hi>mine</hi>, and I want the triumph of seeing <pb n="122"
-                            /><hi>my</hi> descendent fairly lord of their estates; my child hiring
+                        Besides, he's <hi>mine</hi>, and I want the triumph of seeing <pb n="122"/><hi>my</hi> descendent fairly lord of their estates; my child hiring
                         their children, to till their fathers' lands for wages—That is the sole
                         consideration which can make me endure the whelp—I despise him for himself,
                         and hate him for the memories he revives! But, that consideration is
@@ -6932,8 +6881,7 @@
                         to her room, and I went to help her to undress, I found her crying, on her
                         knees by the bedside.</p>
                     <p>Oh, fie, silly child!" I exclaimed. "If you had any real griefs, you'd be
-                        ashamed to waste a tear on this little contrariety. You never <pb n="156"
-                        />had one shadow of substantial sorrow, Miss Catherine. Suppose, for a
+                        ashamed to waste a tear on this little contrariety. You never <pb n="156"/>had one shadow of substantial sorrow, Miss Catherine. Suppose, for a
                         minute, that master and I were dead, and you were by yourself in the
                         world—how would you feel, then? Compare the present occasion with such an
                         affliction as that, and be thankful for the friends you have, instead of
@@ -7076,8 +7024,7 @@
                     <p>"Very well—and I will have some to exhibit to papa!" I answered shaking back
                         the rest into the bundle, and turning anew to the door.</p>
                     <p>"She emptied her blackened pieces into the flames, and motioned me to finish
-                        the immolation. It was done; I stirred up the ashes, and <pb n="166"
-                        />interred them under a shovel full of coals; and she mutely, and with a
+                        the immolation. It was done; I stirred up the ashes, and <pb n="166"/>interred them under a shovel full of coals; and she mutely, and with a
                         sense of intense injury, retired to her private apartment. I descended to
                         tell my master that the young lady's qualm of sickness was almost gone, but
                         I judged it best for her to lie down a while.</p>
@@ -7606,8 +7553,7 @@
                         inner fence of the park; but it was not my young mistress; on its emerging
                         into the light, I recognised one of the grooms.</p>
                     <p>He stood a considerable period, viewing the carriage road through the
-                        grounds; then started off at a brisk pace, as if he had detected <pb n="205"
-                        />something, and reappeared, presently, leading Miss's pony; and there she
+                        grounds; then started off at a brisk pace, as if he had detected <pb n="205"/>something, and reappeared, presently, leading Miss's pony; and there she
                         was, just dismounted, and walking by its side.</p>
                     <p>The man took his charge stealthily across the grass towards the stable. Cathy
                         entered by the casement-window of the drawing-room, and glided noiselessly
@@ -7671,8 +7617,7 @@
                         larks, but throstles, and blackbirds, and linnets, and cuckoos pouring out
                         music on every side, and the moors seen at a distance, broken into cool
                         dusky dells; but close by great swells of long grass undulating in waves to
-                        the breeze; and woods and sounding water, and the whole world awake and <pb
-                            n="210"/>wild with joy. He wanted all to lie in an ecstacy of peace; I
+                        the breeze; and woods and sounding water, and the whole world awake and <pb n="210"/>wild with joy. He wanted all to lie in an ecstacy of peace; I
                         wanted all to sparkle, and dance in a glorious jubilee.</p>
                     <p>"I said his heaven would be only half alive, and he said mine would be drunk;
                         I said I should fall asleep in his, and he said he could not breathe in
@@ -7728,8 +7673,7 @@
                         walk away, for I came to see Linton not him.</p>
                     <p>He reddened—I saw that by the moonlight—dropped his hand from the latch, and
                         skulked off, a picture of mortified vanity. He imagined himself to be as
-                        accomplished as Linton, I suppose, because he could spell his own name; <pb
-                            n="214"/>and was marvellously discomfited that I didn't think the
+                        accomplished as Linton, I suppose, because he could spell his own name; <pb n="214"/>and was marvellously discomfited that I didn't think the
                         same.</p>
                     <p>"Stop Miss Catherine, dear!" I interrupted. "I shall not scold, but I don't
                         like your conduct there. If you had remembered that Hareton was your cousin,
@@ -7915,8 +7859,7 @@
                         should be amusing a stranger to the family with relating them! Yet, who
                         knows how long you'll be a stranger? You're too young to rest always
                         contented, living by yourself; and I some way fancy, no one could see
-                        Catherine Linton, and not love her. You smile; but why do you look so <pb
-                            n="228"/>lively and interested, when I talk about her—and why have you
+                        Catherine Linton, and not love her. You smile; but why do you look so <pb n="228"/>lively and interested, when I talk about her—and why have you
                         asked me to hang her picture over your fireplace? and why—"</p>
                     <p>"Stop, my good friend!" I cried. "It may be very possible that <hi>I</hi>
                         should love her; but would she love me? I doubt it too much to venture my
@@ -7985,8 +7928,7 @@
                         could plead eloquently enough for Catherine's company, then—</p>
                     <p>"I do not ask," he said, "that she may visit here; but, am I never to see
                         her, because my father forbids me to go to her home, and you forbid her to
-                        come to mine? Do, now and then, ride with her towards the Heights; and <pb
-                            n="233"/>let us exchange a few words, in your presence! we have done
+                        come to mine? Do, now and then, ride with her towards the Heights; and <pb n="233"/>let us exchange a few words, in your presence! we have done
                         nothing to deserve this separation; and you are not angry with me—you have
                         no reason to dislike me—you allow yourself. Dear uncle! send me a kind note
                         to-morrow; and leave to join you anywhere you please, except at Thrushcross
@@ -8083,8 +8025,7 @@
                         disappointment. An indefinite alteration had come over his whole person and
                         manner. The pettishness that might be caressed into fondness, had yielded to
                         a listless apathy; there was less of the peevish temper of a child which
-                        frets and teases on purpose to be soothed, and more of the self-absorbed <pb
-                            n="241"/>moroseness of a confirmed invalid, repelling consolation, and
+                        frets and teases on purpose to be soothed, and more of the self-absorbed <pb n="241"/>moroseness of a confirmed invalid, repelling consolation, and
                         ready to regard the good-humoured mirth of others, as an insult.</p>
                     <p>Catherine perceived, as well as I did, that he held it rather a punishment,
                         than a gratification, to endure our company; and she made no scruple of
@@ -8098,8 +8039,7 @@
                         taste for my diversions now; or else, if I could amuse you, I'd willingly
                         stay."</p>
                     <p>"Stay to rest yourself," he replied. "And, Catherine, don't think, or say
-                        that I'm <hi>very</hi> unwell—it is the heavy weather, and heat that <pb
-                            n="242"/>make me dull; and I walked about, before you came, a great
+                        that I'm <hi>very</hi> unwell—it is the heavy weather, and heat that <pb n="242"/>make me dull; and I walked about, before you came, a great
                         deal, for me. Tell uncle, I'm in tolerable health, will you?"</p>
                     <p>"I'll tell him that <hi>you</hi> say so, Linton. I couldn't affirm that you
                         are," observed my young lady, wondering at his pertinacious assertion of
@@ -8595,8 +8535,7 @@
                         head, and a willow basket swung to her arm.</p>
                     <p>"Eh, dear! Mrs. Dean," she exclaimed. "Well! there is a talk about you at
                         Gimmerton. I never thought, but you were sunk in the Blackhorse marsh, and
-                        Missy with you, till master told me you'd been found, and he'd <pb n="279"
-                        />lodged you here! What, and you must have got on an island, sure? And how
+                        Missy with you, till master told me you'd been found, and he'd <pb n="279"/>lodged you here! What, and you must have got on an island, sure? And how
                         long were you in the hole? Did master save you, Mrs. Dean? But you're not so
                         thin—you've not been so poorly, have you?"</p>
                     <p>"Your master is a true scoundrel!" I replied. "But he shall answer for it. He
@@ -8691,8 +8630,7 @@
                         encouraging his talk.</p>
                     <p>"I winked," he answered. "I wink to see my father strike a dog, or a horse,
                         he does it so hard—yet I was glad at first—she deserved punishing for
-                        pushing me: but when papa was gone, she made me come to the window and <pb
-                            n="286"/>showed me her cheek cut on the inside, against her teeth, and
+                        pushing me: but when papa was gone, she made me come to the window and <pb n="286"/>showed me her cheek cut on the inside, against her teeth, and
                         her mouth filling with blood: and then she gathered up the bits of the
                         picture, and went and sat down with her face to the wall, and she has never
                         spoken to me since; and I sometimes think she can't speak for pain. I don't
@@ -8868,8 +8806,7 @@
                         daily plague to your un-natural heart."</p>
                     <p>"I'm seeking a tenant for the Grange," he answered; "and I want my children
                         about me, to be sure—besides that lass owes me her services for her bread;
-                        I'm not going to nurture her in luxury and idleness after Linton is <pb
-                            n="299"/>gone. Make haste and get ready now. And don't oblige me to
+                        I'm not going to nurture her in luxury and idleness after Linton is <pb n="299"/>gone. Make haste and get ready now. And don't oblige me to
                         compel you."</p>
                     <p>"I shall," said Catherine. "Linton is all I have to love in the world, and,
                         though you have done what you could to make him hateful to me, and me to
@@ -8968,8 +8905,7 @@
                         could <hi>almost</hi> see her, and yet I <hi>could not</hi>! I ought to have
                         sweat blood then, from the anguish of my yearning, from the fervour of my
                         supplications to have but one glimpse! I had not one. She showed herself, as
-                        she often was in life, a devil to me! And, since then, <pb n="306"
-                        />sometimes more, and sometimes less, I've been the sport of that
+                        she often was in life, a devil to me! And, since then, <pb n="306"/>sometimes more, and sometimes less, I've been the sport of that
                         intolerable torture! Infernal—keeping my nerves at such a stretch, that, if
                         they had not resembled catgut, they would, long ago, have relaxed to the
                         feebleness of Linton's.</p>
@@ -9380,8 +9316,7 @@
                         brought you here."</p>
                     <p>"An idle whim, I fear sir," was my answer, "or else an idle whim is going to
                         spirit me away—I shall set out for London, next week, and I must give you
-                        warning, that I feel no disposition to retain Thrushcross Grange, <pb
-                            n="337"/>beyond the twelvemonths I agreed to rent it. I believe I shall
+                        warning, that I feel no disposition to retain Thrushcross Grange, <pb n="337"/>beyond the twelvemonths I agreed to rent it. I believe I shall
                         not live there any more.</p>
                     <p>"Oh, indeed! you're tired of being banished from the world, are you?" he
                         said. "But, if you be coming to plead off paying for a place, you won't
@@ -9436,8 +9371,7 @@
                         some three hours.</p>
                     <p>I left him there, and proceeded down the valley alone. The grey church looked
                         greyer, and the lonely churchyard lonelier. I distinguished a moor sheep
-                        cropping the short turf on the graves. It was sweet, warm weather <pb
-                            n="342"/>—too warm for travelling; but the heat did not hinder me from
+                        cropping the short turf on the graves. It was sweet, warm weather <pb n="342"/>—too warm for travelling; but the heat did not hinder me from
                         enjoying the delightful scenery above and below; had I seen it nearer
                         August, I'm sure it would have tempted me to waste a month among its
                         solitudes. In winter, nothing more dreary, in summer, nothing more divine,
@@ -9493,8 +9427,7 @@
                         Wuthering Heights is so large, that the inmates have plenty of space for
                         withdrawing out of its influence; and, accordingly, what inmates there were
                         had stationed themselves not far from one of the windows. I could both see
-                        them and hear them talk before I entered; and, looked and listened in <pb
-                            n="346"/>consequence, being moved thereto by a mingled sense of
+                        them and hear them talk before I entered; and, looked and listened in <pb n="346"/>consequence, being moved thereto by a mingled sense of
                         curiosity, and envy that grew as I lingered.</p>
                     <p>"Con-<hi>trary</hi>!" said a voice, as sweet as a silver bell—"That for the
                         third time, you dunce! I'm not going to tell you, again—Recollect, or I pull
@@ -9534,8 +9467,7 @@
                         lad!" he added, with a groan; "he's witched, Aw'm sartin on't! O, Lord,
                         judge 'em, fur they's norther law nur justice amang wer rullers!"</p>
                     <p>"No! or we should be sitting in flaming fagots, I suppose," retorted the
-                        singer. "But wisht, old man, and read your Bible, like a <pb n="349"
-                        />christian, and never mind me. This is 'Fairy Annie's Wedding'—a bonny
+                        singer. "But wisht, old man, and read your Bible, like a <pb n="349"/>christian, and never mind me. This is 'Fairy Annie's Wedding'—a bonny
                         tune—it goes to a dance."</p>
                     <p>Mrs. Dean was about to recommence, when I advanced, and recognising me
                         directly, she jumped to her feet, crying—</p>
@@ -9792,8 +9724,7 @@
                         heretofore.</p>
                     <p>She got down stairs before me, and out into the garden; where she had seen
                         her cousin performing some easy work; and when I went to bid them come to
-                        breakfast, I saw she had persuaded him to clear a large space of ground <pb
-                            n="368"/>from currant and gooseberry bushes, and they were busy planning
+                        breakfast, I saw she had persuaded him to clear a large space of ground <pb n="368"/>from currant and gooseberry bushes, and they were busy planning
                         together an importation of plants from the Grange.</p>
                     <p>"I was terrified at the devastation which had been accomplished in a brief
                         half hour; the black currant trees were the apple of Joseph's eye, and she
@@ -9806,8 +9737,7 @@
                     <p>"'I'd forgotten they were Joseph's,' answered Earnshaw, rather puzzled, 'but
                         I'll tell him I did it.'</p>
                     <p>"We always ate our meals with Mr. Heathcliff. I held the mistress's post in
-                        making tea and carving; so I was indispensable at table. <pb n="369"
-                        />Catherine usually sat by me; but to-day, she stole nearer to Hareton, and
+                        making tea and carving; so I was indispensable at table. <pb n="369"/>Catherine usually sat by me; but to-day, she stole nearer to Hareton, and
                         I presently saw she would have no more discretion in her friendship, than
                         she had in her hostility.</p>
                     <p>"'Now, mind you don't talk with and notice your cousin too much,' were my
@@ -9836,8 +9766,7 @@
                     <p>Mr. Heathcliff looked at him a bit, and then silently resumed his breakfast,
                         and his interrupted musing.</p>
                     <p>We had nearly finished, and the two young people prudently shifted wider
-                        asunder, so I anticipated no further disturbance during that <pb n="371"
-                        />sitting; when Joseph appeared at the door, revealing by his quivering lip,
+                        asunder, so I anticipated no further disturbance during that <pb n="371"/>sitting; when Joseph appeared at the door, revealing by his quivering lip,
                         and furious eyes, that the outrage committed on his precious shrubs was
                         detected.</p>
                     <p>He must have seen Cathy, and her cousin about the spot, before he examined
@@ -10002,8 +9931,7 @@
                         do it without seeming insane, I'd never see him again! You'll perhaps think
                         me rather inclined to become so," he added, making an effort to smile, "if I
                         try to describe the thousand forms of past associations, and ideas he
-                        awakens, or embodies—But you'll not talk of what I tell you, and <pb n="383"
-                        />my mind is so eternally secluded in itself, it is tempting, at last, to
+                        awakens, or embodies—But you'll not talk of what I tell you, and <pb n="383"/>my mind is so eternally secluded in itself, it is tempting, at last, to
                         turn it out to another.</p>
                     <p>"Five minutes ago, Hareton seemed a personification of my youth, not a human
                         being—I felt to him in such a variety of ways, that it would have been
@@ -10205,8 +10133,7 @@
                         whole course; and what absurd nonsense it was to yield to that sense of
                         horror.</p>
                     <p>"'But, where did he come from, the little dark thing, harboured by a good man
-                        to his bane?' muttered superstition, as I dozed into <pb n="398"
-                        />unconsciousness. And I began, half dreaming, to weary myself with imaging
+                        to his bane?' muttered superstition, as I dozed into <pb n="398"/>unconsciousness. And I began, half dreaming, to weary myself with imaging
                         some fit parentage for him; and repeating my waking meditations, I tracked
                         his existence over again, with grim variations; at last, picturing his death
                         and funeral; of which, all I can remember is, being exceedingly vexed at
@@ -10259,8 +10186,7 @@
                         and remained on the table, forgetful of their aim.</p>
                     <p>"I sat a model of patience, trying to attract his absorbed attention from its
                         engrossing speculation; till he grew irritable, and got up, asking, why I
-                        would not allow him to have his own time in taking his meals? and saying <pb
-                            n="402"/>that, on the next occasion, I needn't wait, I might set the
+                        would not allow him to have his own time in taking his meals? and saying <pb n="402"/>that, on the next occasion, I needn't wait, I might set the
                         things down, and go.</p>
                     <p>"Having uttered these words, he left the house; slowly sauntered down the
                         garden path, and disappeared through the gate.</p>

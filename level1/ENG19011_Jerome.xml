@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Observations of Henry : ELTec edition</title>
-    <author ref="viaf:12310310">Jerome, Jerome K. (1859-1927)</author>
+    <author ref="https://viaf.org/viaf/12310310/">Jerome, Jerome K. (1859-1927)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -21,8 +20,7 @@
      <publisher>Bristol: J.W. Arrowsmith</publisher>
      <date>1901</date>
     </bibl>
-    <bibl type="digitalSource"><title>The Observations of Henry</title><ref target="gut:17943"
-      >Gutenberg</ref>
+    <bibl type="digitalSource"><title>The Observations of Henry</title><ref target="http://www.gutenberg.org/files/17943/17943-h/17943-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Transcription</resp>
       <name>David Price</name>
@@ -30,7 +28,7 @@
       <title>The Observations of Henry</title>
       <publisher>New York: Dodd, Mead and Company</publisher>
       <date>1901</date>
-      <ref target="ia:observationsofhe00jero"/>
+      <ref target="http://archive.org/details/observationsofhe00jero"/>
      </bibl>
    </sourceDesc>
   </fileDesc>

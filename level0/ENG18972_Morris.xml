@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
- xml:id="ENG18972" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ENG18972" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The water of the wondrous isles: ELTeC edition</title>
-    <author ref="viaf:22146194">Morris, William (1834-1896)</author>
+    <author ref="https://viaf.org/viaf/22146194/">Morris, William (1834-1896)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -24,13 +22,10 @@
     <bibl n="B13706" type="firstEdition"><title>The water of the wondrous
       isles</title><author>William Morris</author><publisher>Kelmscott Press</publisher>
      <date>1897</date>
-     <ref
-      target="http://morrisedition.lib.uiowa.edu/Images/WaterWondrousIsles/waterwondrouskelmscott.html"
-      >Page images</ref>
-     <!-- combined at private:221177-MorrisWaterWondrousIsles_reduced.pdf -->
+     <ref target="http://morrisedition.lib.uiowa.edu/Images/WaterWondrousIsles/waterwondrouskelmscott.html">Page images</ref>
+     
     </bibl>
-    <bibl type="digitalSource"><title>The water of the wondrous isles</title><ref
-      target="http://morrisedition.lib.uiowa.edu/waterwondrousisles.html"/>
+    <bibl type="digitalSource"><title>The water of the wondrous isles</title><ref target="http://morrisedition.lib.uiowa.edu/waterwondrousisles.html"/>
      <distributor>William Morris Archive (Univ of Iowa)</distributor>
      <respStmt>
       <resp>General Editor</resp>
@@ -40,7 +35,7 @@
      <title>The water of the wondrous isles... in two volumes. Pocket edition. </title>
      <publisher>Longmans, Green &amp; co.</publisher>
      <date>1914</date>
-     <ref target="bod:590699513.pdf">vol 1</ref>; <ref target="bod:555080323.pdf">vol 2</ref>;
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590699513.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/555080323.pdf">vol 2</ref>;
     </bibl>
    </sourceDesc>
   </fileDesc>
@@ -73,7 +68,7 @@
     <p>39 Paternoster Row, London</p>
     <p>New York, Bombay, and Calcutta</p>
     <p>1914</p>
-    <!--  Kelmscott edition has no titlepage: just a colophon-->
+    
    </div>
   </front>
   <body>
@@ -4626,7 +4621,7 @@
       was noon, they were among the said woods, which were grown mostly with big trees, as oak here
       and beech there, and the going was good for them.</p>
     </div>
-    <!-- volume 2 starts here -->
+    
     <div type="chapter">
      <p>Chapter IV ~ Of the Slaying of Friend and Foe</p>
      <p>So came they, three hours after noon, to where was a clearing in the woodland, and a long

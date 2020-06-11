@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19030"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19030" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Penelope Brandling: A Tale of the Welsh Coast in the Eighteenth Century : ELTec
      edition</title>
-    <author ref="viaf:68945580">Lee, Vernon [pseud. Violet Paget] (1856-1935).</author>
+    <author ref="https://viaf.org/viaf/68945580/">Lee, Vernon [pseud. Violet Paget] (1856-1935).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -18,11 +16,11 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of Penelope Brandling, by Vernon
-      Lee.</title><ref target="gut:37180">Gutenberg</ref></bibl>
+      Lee.</title><ref target="http://www.gutenberg.org/files/37180/37180-h/37180-h.htm">Gutenberg</ref></bibl>
     <bibl type="firstEdition" n="B8466"><title>Penelope Brandling: A Tale of the Welsh Coast in the
       Eighteenth Century</title><author>Lee, Vernon (pseud.) (1856-1935).</author><publisher>London:
       T. Fisher Unwin</publisher><date>1903</date>
-    <ref target="ia:penelopebrandlin00leev.pdf"/></bibl>
+    <ref target="http://archive.org/details/penelopebrandlin00leev.http://archive.org/details/pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

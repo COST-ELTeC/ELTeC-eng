@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18940"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18940" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>The Story of a Modern Woman : ELTeC edition</title>
-    <author ref="viaf:14904505">Dixon, Ella Hepworth (1855-1932)</author>
+    <author ref="https://viaf.org/viaf/14904505/">Dixon, Ella Hepworth (1855-1932)</author>
     <respStmt>
      <resp>Transcribed, encoded, and proofed by </resp>
      <name>Benjamin Roesch</name>
@@ -43,15 +41,14 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>The Story of a Modern Woman : VWWP edition
       </title><author>Dixon, Ella Hepworth Wynman, Margaret</author><publisher>Digital Library
-      Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><ref
-      target="vwwp:VAB7169">VWWP</ref></bibl>
+      Program, Indiana University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7169">VWWP</ref></bibl>
     <bibl type="firstEdition" n="B7490"><title>The Story of a Modern Woman</title>
      <author>Dixon, Ella Hepworth</author><publisher>Methuen</publisher><pubPlace>London
       </pubPlace><date when="1894">1894</date></bibl>
     <bibl type="printSource"><title>The story of a modern woman</title>
      <publisher>New York: The Cassell Publishing Company</publisher>
      <date>[1894]</date>
-     <ref target="ia:storyamodernwom00dixogoog"/></bibl>
+     <ref target="http://archive.org/details/storyamodernwom00dixogoog"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -526,8 +523,7 @@
      till her feet ache horribly, the room swings
      <pb n="29" xml:id="VAB7169-028"/> round, and the pink dawn comes creeping in behind the drawn
      blinds; but still she must go on till that music stops, the swaying, voluptuous heartrending
-     music which draws her feet round and round. The violins, with their <foreign xml:lang="fre"
-      >navrant</foreign> tones, the human, dolorous strains of the cornets, the brilliant, metallic,
+     music which draws her feet round and round. The violins, with their <foreign xml:lang="fre">navrant</foreign> tones, the human, dolorous strains of the cornets, the brilliant, metallic,
      artificial sounds of the piano, all act powerfully on the young girl's nervous system. Then
      come the stifling crowded supper-room, with its indigestible food and sweet champagne; the
      young men who move nearer and look at her with strange eyes, after they have eaten and drunk.
@@ -683,8 +679,7 @@
      <pb n="39" xml:id="VAB7169-038"/> never smoked, was ignorant of billiard cues and guns, and
      hated playing the man, Alison had been heard to murmur something like an oath. It was a habit
      which she had picked up in Paris, when she was working in a sculptor's studio; and she always
-     declared that <foreign xml:lang="fre">dame</foreign> and <foreign xml:lang="ita"
-      >sapristi</foreign>, being in a foreign tongue, were notoriously less efficacious, and by
+     declared that <foreign xml:lang="fre">dame</foreign> and <foreign xml:lang="ita">sapristi</foreign>, being in a foreign tongue, were notoriously less efficacious, and by
      inference more pardonable, than swearing in the vernacular. For the rest, with the best heart
      in the world, she had a somewhat caustic tongue, could interpret Chopin like an artist, and
      always had her hair exquisitely dressed.</p>
@@ -833,8 +828,7 @@
      rakish twist to her velvet hat-strings, ‘to the <foreign xml:lang="fre">crêche</foreign> in
      Kentish Town to see Evelina's baby. I'm going on the top of one of those charming trams. I told
      Worth when I was in Paris that I always went on the tops of omnibuses, and he designed me this
-     little frock on purpose. It's pretty, isn't it, but a little too <foreign xml:lang="fre"
-      >ingénue</foreign> for me? It smacks of the Comédie Française. I think I see Reichemberg in
+     little frock on purpose. It's pretty, isn't it, but a little too <foreign xml:lang="fre">ingénue</foreign> for me? It smacks of the Comédie Française. I think I see Reichemberg in
      it,’ said Alison doubtfully, smoothing down the folds of her loose bodice. ‘Now, you've got to
      promise to come and dine with me and mother in Portman Square; we shall have the house to
      ourselves. Good-bye. Eight o'clock.’</p>
@@ -1220,8 +1214,7 @@
      a sort of sublimated coffee-stall in the dining-room,’ announced Lady Jane. ‘It's a young
      woman's mission to make tea for her friends. Alison, remember Lady Blaythewaite doesn't like
      sugar.’ ‘Vous versez le thé avec une grâce parfaite,’
-     <pb n="74" xml:id="VAB7169-073"/> sighed a sentimental <foreign xml:lang="fre"
-      >attaché</foreign> of vague Slav nationality, who was famous for turning compliments out of
+     <pb n="74" xml:id="VAB7169-073"/> sighed a sentimental <foreign xml:lang="fre">attaché</foreign> of vague Slav nationality, who was famous for turning compliments out of
      the most unlikely materials.</p>
     <p>And Mary Erle, in her black clothes, sat on one side and looked at the little comedy with
      impartial eyes. It seemed so long since she had been in society; she supposed she was out of
@@ -1466,8 +1459,7 @@
      and finally at Tilbury, when the great P. and 0. steamer had been swallowed up in the greyness
      of the wide river and tearful sky. Yes, a long time; but he had grown more to her in his
      absence than he had ever been, even at the last, for Mary was of the order of women who
-     idealise the absent. Oddly enough, Vincent, pacing the deck of the <foreign xml:lang="unk"
-      >Sutlej</foreign> in his flapping ulster and his soft felt hat (he was not one of those people
+     idealise the absent. Oddly enough, Vincent, pacing the deck of the <foreign xml:lang="unk">Sutlej</foreign> in his flapping ulster and his soft felt hat (he was not one of those people
      who look their best in travelling costume), had seemed more of a stranger than the man whose
      letters, arriving by the Indian mail, lay beside her plate every Monday morning. She remembered
      with a smile how fussy he had been about his luggage, and how humiliated she had felt when,
@@ -1861,8 +1853,7 @@
      <pb n="114" xml:id="VAB7169-113"/> smart people, don't you know? We don't want what the other
      ladies' papers have got: “Mrs. Townley Tompkins gave a most successful ball at her beautiful
      house in Lancaster Gate, or any of those God-forsaken places. Lady Jane Ives, Lady
-     Blaythewaite—those are the sort of people. Really smart, don't you know, and the <foreign
-      xml:lang="fre">vieile souche</foreign> as well. Now, I should have liked a smartly written
+     Blaythewaite—those are the sort of people. Really smart, don't you know, and the <foreign xml:lang="fre">vieile souche</foreign> as well. Now, I should have liked a smartly written
      account of Lady Jane Ives's party the other night. Of course, I knew lots of people there, but
      they haven't got the <foreign xml:lang="lat">cacoëthes scribendi</foreign>, don't you
      know?’</p>
@@ -2963,8 +2954,7 @@
      difficult now to get a thoroughly breezy book with a wedding at the end. Take my advice and
      stick to pretty stories. They're bound to pay best.’</p>
     <p>‘That's what Perry Jackson thinks,’ said Mary to herself, as she stepped out into the windy
-     Strand. ‘And he certainly understands—he always did understand—the public.’ The <foreign
-      xml:lang="fre">banal</foreign>, the pretty-pretty, the obvious! This was what she was to
+     Strand. ‘And he certainly understands—he always did understand—the public.’ The <foreign xml:lang="fre">banal</foreign>, the pretty-pretty, the obvious! This was what she was to
      write—if she wanted to make any money, to keep her head above water. And the kindly words of
      the doctor reiterated themselves in her brain: ‘All you young ladies ought to be living a
      healthy, out-door life, happily married, and with no mental worries!’ And then, with a kind of
@@ -3226,8 +3216,7 @@
      out of the room. The commonplace voice of Lady Blaythewaite, making the somewhat bald statement
      that she intended to start for Monte Carlo on the 28th of the following month, bored and
      irritated her. On her right hand two people were passionately discussing the way in which red
-     mullet should be cooked. The lady, it would seem, was all for <foreign xml:lang="fre"
-      >papilottes</foreign>, whereas the gentleman could not endure them without being stuffed and
+     mullet should be cooked. The lady, it would seem, was all for <foreign xml:lang="fre">papilottes</foreign>, whereas the gentleman could not endure them without being stuffed and
      served with port-wine sauce. It was the only moment of the dinner at which the conversation on
      her right hand had approached any sort of enthusiasm. The wrinkled diplomat, who sat on her
      mother's left hand, was resuscitating some details of Lola Montez in '48 for her special

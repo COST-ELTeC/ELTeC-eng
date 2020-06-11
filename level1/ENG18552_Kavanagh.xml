@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18552"
-  xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18552" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Rachel Gray : ELTec edition</title>
-        <author ref="viaf:89854315">Kavanagh, Julia (1824-1877).</author>
+        <author ref="https://viaf.org/viaf/89854315/">Kavanagh, Julia (1824-1877).</author>
         <respStmt>
           <resp>ELTeC conversion</resp>
           <name>Lou Burnard</name>
@@ -23,11 +21,11 @@
         <bibl type="firstEdition" n="B14105"><author>Julia Kavanagh</author><title>Rachel Gray: A
             Tale Founded on Fact</title><publisher>London: Hurst and
             Blackett</publisher><date>1856</date>
-          <ref target="bod:600053169.pdf"/>
-        <!-- Tauchnitz ed : Rachel_Gray.pdf from google books -->
+          <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600053169.pdf"/>
+        
         </bibl>
         <bibl type="digitalSource"><title>The Project Gutenberg eBook, Rachel Gray, by Julia
-            Kavanagh</title><ref target="gut:36160">Gutenberg</ref>
+            Kavanagh</title><ref target="http://www.gutenberg.org/files/36160/36160-h/36160-h.htm">Gutenberg</ref>
           <respStmt>
             <resp>Produced by</resp>
             <name>Daniel Fromont</name>

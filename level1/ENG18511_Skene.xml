@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18511"
-    xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18511" xml:lang="ENG">
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
                 <title>The Tutor’s Ward : ELTeC edition</title>
-                <author ref="viaf:26018946">Skene, Felicia (1821-1899)</author>
+                <author ref="https://viaf.org/viaf/26018946/">Skene, Felicia (1821-1899)</author>
                 <respStmt>
                     <resp>Optically scanned, proofed and encoded by </resp>
                     <name>Sarah Boehm</name>
@@ -45,12 +43,12 @@
                 <bibl type="digitalSource"><title>The Tutor’s Ward : VWWP edition
                         </title><author>Skene, Felicia, 1821-1899</author><publisher>Digital Library
                         Program, Indiana University</publisher><pubPlace>Bloomington,
-                        IN</pubPlace><ref target="vwwp:VAB7183">VWWP</ref></bibl>
+                        IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7183">VWWP</ref></bibl>
                 <bibl type="firstEdition" n="B7217"><title>The Tutor’s Ward</title><author>Skene,
                         Felicia, 1821-1899</author><publisher>Colburn and Co.
                         </publisher><pubPlace>London </pubPlace>
                     <date when="1851">1851</date>
-                    <ref target="ia:tutorswardnovel01sken.pdf">vol 1</ref>;<ref target="ia:tutorswardnovel02sken.pdf">vol 2</ref>
+                    <ref target="http://archive.org/details/tutorswardnovel01sken.http://archive.org/details/pdf">vol 1</ref>;<ref target="http://archive.org/details/tutorswardnovel02sken.http://archive.org/details/pdf">vol 2</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -129,8 +127,7 @@
                         the fair things of earth, as sweet human love? and it was all the more
                         lovely to his soul that it had been so vain. We know how much more beautiful
                         in death the treasures seem to grow which we have cherished for their living
-                        beauty. Yes, the deep love which was the master thought of<pb n="3"
-                            xml:id="VAB7183-004"/> his existence, had ever seemed to him an angel,
+                        beauty. Yes, the deep love which was the master thought of<pb n="3" xml:id="VAB7183-004"/> his existence, had ever seemed to him an angel,
                         but had he looked a little closer, he would have found that the demon’s mark
                         was upon it—for had it not taken his life and made it as sad, and useless,
                         and aimless as though it were a gift but given to be squandered away; and
@@ -158,8 +155,7 @@
                         an impossible joy—none knew better than himself how impossible it was; but
                         that bright ideal was all that life could give him of happiness now, and he
                         learnt to lose himself in these glowing fancies so completely, that he had
-                        well nigh forgotten the truth of his existence.<pb n="5"
-                            xml:id="VAB7183-006"/> The reality was cold and objectless and dark, for
+                        well nigh forgotten the truth of his existence.<pb n="5" xml:id="VAB7183-006"/> The reality was cold and objectless and dark, for
                         he had known no other sunshine save the light of one sweet smile, and that
                         had passed away, and therefore he ever fled from it to the visionary world
                         he had made, where he could call back that vanished brightness from the far
@@ -216,8 +212,7 @@
                         fawn, he had seen a bright form come dancing towards him, and the sweet
                         ringing voice that now for ever was echoing deep in his soul, called him
                         gaily to come with her far into the woods, where she feared to stray alone?
-                        What was there in the footfall on the stairs that night which<pb n="9"
-                            xml:id="VAB7183-010"/> made him think of this?—why did he grow pale, and
+                        What was there in the footfall on the stairs that night which<pb n="9" xml:id="VAB7183-010"/> made him think of this?—why did he grow pale, and
                         shiver from head to foot, as though something unearthly were at hand?</p>
                     <p>His hands grasped the table for support; his head turned round mechanically,
                         his eyes fixed themselves upon the door; some one had paused behind it; he
@@ -230,8 +225,7 @@
                         bed; and so in truth she had. Her face was ghastly livid, the fever spot
                         burning on her cheek, and the cold dew gathering on her brow. It seemed
                         extraordinary that she should have had strength to come there. She had been
-                        beautiful—how beautiful the throbbing heart of poor John Forde could<pb
-                            n="10" xml:id="VAB7183-011"/> best have told, but it was all gone now.
+                        beautiful—how beautiful the throbbing heart of poor John Forde could<pb n="10" xml:id="VAB7183-011"/> best have told, but it was all gone now.
                         The large eyes were sunk in their hollow cavities, the features so thin and
                         sharp, the mouth so drawn and distorted with continued pain.</p>
                     <p>Yet he knew her at once. It was more than ten years since he had looked upon
@@ -245,8 +239,7 @@
                         the star of all his visions.</p>
                     <p>He forgot who she was, and what he was himself, and all the changes which
                         these ten years had wrought for her, if not for him. He forgot that his
-                        dreams were dreams, and he thought that the truth had<pb n="11"
-                            xml:id="VAB7183-012"/> been a falsity, and that his own dear falsehood
+                        dreams were dreams, and he thought that the truth had<pb n="11" xml:id="VAB7183-012"/> been a falsity, and that his own dear falsehood
                         was the truth. He thought that she had come to realize it all now, to reward
                         him for his deep, long, patient love; he wondered he had never seen it must
                         end thus, and that none could love so well and be for ever hated,—his heart
@@ -288,8 +281,7 @@
                         with one deep thought of you, rather than all the pleasures life could give,
                         deserved compassion! Do not leave me! It cannot be that any human heart
                         should be so cruel as thus to come and thus to pass away.” His words were
-                        incoherent, as he poured forth his entreaties, but<pb n="14"
-                            xml:id="VAB7183-015"/> still with his clinging hands he held her
+                        incoherent, as he poured forth his entreaties, but<pb n="14" xml:id="VAB7183-015"/> still with his clinging hands he held her
                         frantically.</p>
                     <p>She bent over him with a look intensely mournful, and murmured soothingly,
                         “My poor John—my poor, faithful friend!”</p>
@@ -303,8 +295,7 @@
                         to see her pass; he had hid himself behind them, that, unnoticed in this his
                         bitter hour, he might look for the last time on the face of his worshipped
                             idol—<emph>his worshipped idol</emph>! What words are these to be used
-                        from human clay to human clay! Who shall say what judgment they will not<pb
-                            n="15" xml:id="VAB7183-016"/> call down? who shall say what curse they
+                        from human clay to human clay! Who shall say what judgment they will not<pb n="15" xml:id="VAB7183-016"/> call down? who shall say what curse they
                         will not carry on to the third or fourth generation? yet will any affirm
                         that no such feeling was ever cherished for a fellow mortal? Let men look to
                         it who would so scorn the making of graven images and the exalting of carved
@@ -332,8 +323,7 @@
                         He knew and remembered all. He raised himself up, and with a shaking hand
                         brushed the tears from his eyes, and then he looked on her; he saw and
                         understood who she was. These many years she had been the wife of another
-                        man, of one whom she had loved as he loved her!<pb n="17"
-                            xml:id="VAB7183-018"/> and yet more,—had none other ever come to gain
+                        man, of one whom she had loved as he loved her!<pb n="17" xml:id="VAB7183-018"/> and yet more,—had none other ever come to gain
                         the precious gift of her dear love, it had availed him nothing. Those
                         conventional, unrighteous laws which men have made as barriers, raised to
                         ward off from them their kind, had placed a gulf between the proud,
@@ -360,8 +350,7 @@
                         it less in him a heavy sin so to crave for a happiness refused, and not
                         alone refused by distinct and high decree, but made a thing he had no right
                         to crave for? and because he was so patient and so humble, and so quiet, was
-                        he less an arrogant, presumptuous rebel who gave the soul and heart<pb
-                            n="19" xml:id="VAB7183-020"/> that should have worshipped nought on
+                        he less an arrogant, presumptuous rebel who gave the soul and heart<pb n="19" xml:id="VAB7183-020"/> that should have worshipped nought on
                         earth, to be an offering to such human dust! Ah! that fair outward veil of a
                         world’s virtue—veiling what hideousness!—it may serve right well to clothe
                         the flesh until we reach the grave‐door, but there, where the flesh itself
@@ -408,8 +397,7 @@
                         that its effect would not last long; she had taken off her bonnet, and her
                         hair falling loosely round her denoted that she had risen in much haste from
                         her sick bed. The large cloak with which she had sought to screen herself
-                        from the wind and rain was of some coarse material, evidently<pb n="23"
-                            xml:id="VAB7183-024"/> chosen as a disguise; she held it with one hand
+                        from the wind and rain was of some coarse material, evidently<pb n="23" xml:id="VAB7183-024"/> chosen as a disguise; she held it with one hand
                         folded over her breast, that rose and fell with the convulsive heavings of
                         fever. What a contrast she was to the bright and joyous bride John Forde
                         last recollected her! Then she stood so radiant and so blooming in her fair
@@ -436,8 +424,7 @@
                         William Grey, it never would prosper me to be his wife; for that he was one
                         who scoffed at holy things, who only sought to drink deep draughts of this
                         life’s pleasure, whose heart was full of idols—and himself unto himself the
-                        chief. You said that none could touch the burning flame and<pb n="25"
-                            xml:id="VAB7183-026"/> be unscathed—none be wedded to corruption and
+                        chief. You said that none could touch the burning flame and<pb n="25" xml:id="VAB7183-026"/> be unscathed—none be wedded to corruption and
                         remain unsullied; and I said that because he scoffed I need not
                         scoff—because he sinned I need not sin—but rather I would lead him right.
                         Alas, alas! and where has he led me!” She bowed her head upon her hands for
@@ -463,8 +450,7 @@
                     <p>She had spoken these last sentences in a dreamy, musing tone, rolling herself
                         to and fro as if in pain, and John Forde sat listening to her with large
                         tears, of which he was all unconscious, stealing down his cheeks; her voice
-                        was so very sad, so like to the rise and fall of the sighing wind on<pb
-                            n="27" xml:id="VAB7183-028"/> a dreary night, none could have heard it
+                        was so very sad, so like to the rise and fall of the sighing wind on<pb n="27" xml:id="VAB7183-028"/> a dreary night, none could have heard it
                         unmoved—how far less could he! Suddenly the little child who lay sleeping on
                         the sofa, moved in its slumber, and slightly moaned.</p>
                     <p>The mother started at the sound, as if a voice had called her angrily; her
@@ -535,8 +521,7 @@
                         do?</p>
                     <p>“Oh, John, dear John, my agony was very great for many days, and then the
                         thought of you came like a sunbeam to my soul—of you, my faithful, truest
-                        friend; for you must save her, you must take her,<pb n="32"
-                            xml:id="VAB7183-033"/> you must guard her from her father. Yes, my child
+                        friend; for you must save her, you must take her,<pb n="32" xml:id="VAB7183-033"/> you must guard her from her father. Yes, my child
                         must be stolen from her father; there is no other means. Whole days and
                         nights I have lain and thought upon it, racking my very soul to find a
                         method of escape for her—and there is none save this. I know not if it be
@@ -562,8 +547,7 @@
                         rest whatever passed on earth, excepting it were that little one in danger.
                         Ah, tempt me not to take her with me, to brand my soul undying with the
                         stain of murder, and thus to save hers from contamination; tempt me not to
-                        this, but take her, take her now this night—to‐morrow, go with<pb n="34"
-                            xml:id="VAB7183-035"/> her across the sea, to some far distant country,
+                        this, but take her, take her now this night—to‐morrow, go with<pb n="34" xml:id="VAB7183-035"/> her across the sea, to some far distant country,
                         where her father and her father’s wife shall never hear of her. There guard
                         her in innocence, in holiness, in peace, and such blessings as a mother’s
                         heart alone could conceive in recompense shall, with my dying breath, be
@@ -577,8 +561,7 @@
                         she should doubt his willingness to die for her—all these thoughts filled
                         his heart to bursting, and he could not speak. At length she lifted up her
                         face; she knew not what his silence meant, and the anguish of suspense was
-                        most unbearable. Her countenance showed that the exertions of<pb n="35"
-                            xml:id="VAB7183-036"/> this night had greatly shortened her brief
+                        most unbearable. Her countenance showed that the exertions of<pb n="35" xml:id="VAB7183-036"/> this night had greatly shortened her brief
                         remaining life; her eyes had brightened as though all the soul had gathered
                         there, but the pale lips could scarcely articulate.</p>
                     <p>“Speak—say—will you—will you grant my prayer, and save my child?” She joined
@@ -606,8 +589,7 @@
                         nurse is below, a faithful creature, whom I trust entirely; she loves me
                         well, and she will go with you wherever you may take my child. She will tell
                         you all, better far than I can now. My words must be few, for he is
-                        devouring the breath upon my lips; say once again,<pb n="37"
-                            xml:id="VAB7183-038"/> dear John, that you will take her from this city
+                        devouring the breath upon my lips; say once again,<pb n="37" xml:id="VAB7183-038"/> dear John, that you will take her from this city
                         and this land to‐morrow.”</p>
                     <p>And he answered at once, “To‐morrow!” but as he saw her raise those eyes so
                         peaceful, now that they were beautiful once more, with a long, fixed gaze of
@@ -694,8 +676,7 @@
                         so impossible as the last.”</p>
                     <p>“That I am sure it is,” said Millicent, “so I need not think about it; but
                         what I should like would be that some one should come here, some one very
-                        grave and wise and good,—some one from England, I fancy<pb n="44"
-                            xml:id="VAB7183-045"/> they are very wise there—that such a person
+                        grave and wise and good,—some one from England, I fancy<pb n="44" xml:id="VAB7183-045"/> they are very wise there—that such a person
                         should come and answer all the questions I would put to him.”</p>
                     <p>“And what would you ask?” said Nanette.</p>
                     <p>“What would I ask? Oh, everything; there is so much that bewilders and
@@ -740,8 +721,7 @@
                         its hold on her affections was far too firm. She gave a careless smile,
                         seeming to intimate that, however unworthy, her knitting must ever be dear
                         to her, and taking it up again, plied her needles vigorously. Millicent went
-                        on, “It is the same in everything; now when M. le<pb n="47"
-                            xml:id="VAB7183-048"/> Roux died last year, his wife came here making
+                        on, “It is the same in everything; now when M. le<pb n="47" xml:id="VAB7183-048"/> Roux died last year, his wife came here making
                         such lamentations. Oh, he was such a loss, what would the world do without
                         him; a man of such taste, such an elegant mind, and always busy, never idle
                         a moment; he had built that great house and laid out those beautiful
@@ -815,8 +795,7 @@
                         Grey had written to Mrs. Egerton, her half‐sister, on behalf of the child
                         over whom she could watch no more, had produced its full effect, as she
                         expected. Mrs. Egerton was not a person to lend her assistance willingly to
-                        any project that looked romantic, or to burden herself<pb n="52"
-                            xml:id="VAB7183-053"/> any more duties than those which her position in
+                        any project that looked romantic, or to burden herself<pb n="52" xml:id="VAB7183-053"/> any more duties than those which her position in
                         life imposed upon her, and which she most ably performed, at least so she
                         was wont to certify herself by many significant hints. But an appeal from
                         the grave is never unheeded: there are scarce any who could dare to slight
@@ -843,8 +822,7 @@
                         foresaw that a life so dissipated and reckless as that of her husband could
                         not be greatly prolonged. She herself survived only a few days after her
                         interview with John Forde, and it was some time before Mr. Grey rightly
-                        understood that she had really taken means to place the child out<pb n="54"
-                            xml:id="VAB7183-055"/> of his reach. His anger was at first excessive;
+                        understood that she had really taken means to place the child out<pb n="54" xml:id="VAB7183-055"/> of his reach. His anger was at first excessive;
                         but having ascertained, as he was enabled to do without much difficulty,
                         that she had been established somewhere on the continent, he found it would
                         be a great deal of trouble to have her restored to himself, and gradually he
@@ -873,8 +851,7 @@
                         duties as guardian for a considerable time. At last, however, several
                         startling remarks made by Millicent began to awaken him to the fact that she
                         was fast advancing out of infancy, and that it was absolutely necessary to
-                        give her some instruction. It was now that John was sorely perplexed;<pb
-                            n="56" xml:id="VAB7183-057"/> he was nearly certain that something ought
+                        give her some instruction. It was now that John was sorely perplexed;<pb n="56" xml:id="VAB7183-057"/> he was nearly certain that something ought
                         to come before all the Latin and mathematics with which he proposed to
                         enlighten her ultimately, but he vainly endeavoured to discover what was the
                         first branch of science in which young ladies were usually instructed. To
@@ -918,8 +895,7 @@
                         instructed her in the rudiments of chemistry and astronomy, that he doubted
                         not she would learn religion without much trouble. He taught it to her as a
                         species of moral mathematics; and so soon as she was thoroughly conversant
-                        with the leading principles—accurate in her knowledge of<pb n="59"
-                            xml:id="VAB7183-060"/> the more important facts—and quite dear,
+                        with the leading principles—accurate in her knowledge of<pb n="59" xml:id="VAB7183-060"/> the more important facts—and quite dear,
                         especially respecting dates and localities, he conceived he had abundantly
                         done his duty, and recurred to the subject no more.</p>
                     <p>To Millicent Grey it was therefore what it is to three parts of the world, an
@@ -948,8 +924,7 @@
                         containing the sure promise of all the joy which their imagination pictures,
                         and for which their living spirit craves.</p>
                     <p>It was so with Millicent Grey; there was a restlessness in that fresh untamed
-                        nature, a questioning in that warm, loving heart, a<pb n="61"
-                            xml:id="VAB7183-062"/> stumbling even in the spring time of her days at
+                        nature, a questioning in that warm, loving heart, a<pb n="61" xml:id="VAB7183-062"/> stumbling even in the spring time of her days at
                         the mystery of life, but she sought its solution only in the narrow compass
                         of the visible; it never occurred to her that one mystery might unlock the
                         other, and the problem of death solve that of life.</p>
@@ -977,8 +952,7 @@
                         perhaps in joys that were real, he seemed lost in some dark immensity. For
                         days and nights he wandered about like one beside himself, seeming as though
                         his wild, staring eyes were ever in search of some lost treasure. At length
-                        utterly exhausted with the very bewilderment of his sorrow,<pb n="63"
-                            xml:id="VAB7183-064"/> he laid himself down on the floor and slept; in
+                        utterly exhausted with the very bewilderment of his sorrow,<pb n="63" xml:id="VAB7183-064"/> he laid himself down on the floor and slept; in
                         that sleep he dreamt one night, and dreamt of her. She came to him radiant
                         and blooming as though no death hue were on the cheek of the shrouded corpse
                         whose representative she was; again her smile lit up the boundless world of
@@ -1034,8 +1008,7 @@
                         at once.</p>
                     <p>“My dear child, tell me all you would say. You are not unhappy, Millicent;
                         surely, surely you are not unhappy! What should I do, most wretched that I
-                        am, if there were any sorrow in your heart? She said<pb n="67"
-                            xml:id="VAB7183-068"/> she could not rest if there were evil near
+                        am, if there were any sorrow in your heart? She said<pb n="67" xml:id="VAB7183-068"/> she could not rest if there were evil near
                         you!”</p>
                     <p>“No, no! do not look distressed, dear uncle; how wrong I was to disturb you
                         so. I am not unhappy! I do not well know what sorrow means, only I have been
@@ -1063,8 +1036,7 @@
                         tell, I sought and found it not, long ago, Millicent, when all my thoughts
                         were not devoured by one thought, and all my mind was not absorbed by one
                         idea. I could have told you of the various shapes in which this desire of
-                        all hearts appears to human eyes, and how men struggle panting after it,<pb
-                            n="69" xml:id="VAB7183-070"/> many fainting by the way; but now mine own
+                        all hearts appears to human eyes, and how men struggle panting after it,<pb n="69" xml:id="VAB7183-070"/> many fainting by the way; but now mine own
                         eyes, looking ever inward on the great darkness that is on my soul, have
                         grown as it were blind to all other sights; and I can only tell you what a
                         shipwreck I have made, who freighted all my life upon one hope.”</p>
@@ -1171,8 +1143,7 @@
                         smoked and panted preparatory to starting from the shores of France. As
                         usual, humanity in its least fascinating aspect was to be found on deck. It
                         is marvelous how speedily the atmosphere of refinement and polished
-                        courtesy, which counterfeits so admirably the virtues men<pb n="77"
-                            xml:id="VAB7183-078"/> ought to possess, will evaporate from around a
+                        courtesy, which counterfeits so admirably the virtues men<pb n="77" xml:id="VAB7183-078"/> ought to possess, will evaporate from around a
                         party of individuals, entire strangers to one another, who find themselves
                         huddled together in an uncomfortable steamer, with the prospect of a stormy
                         night. Nowhere, perhaps, does human nature appear with so little disguise.
@@ -1185,8 +1156,7 @@
                     <p>There was the usual assemblage to‐night. There stands the young Englishman
                         who might have been seen, a few days since, stalking like any heathen
                         through the prostrate groups of kneeling worshippers in St. Peter’s, his
-                        spy‐glass in his eye; and his hands in his pockets. At his side yawns<pb
-                            n="78" xml:id="VAB7183-079"/> another of our enlightened countrymen, who
+                        spy‐glass in his eye; and his hands in his pockets. At his side yawns<pb n="78" xml:id="VAB7183-079"/> another of our enlightened countrymen, who
                         lately made an excursion to Athens for the purpose of shooting Greek owls; a
                         happy expedient of which he bethought himself when he had exhausted the
                         usual Britannic excitements of shaving his head, dressing like a Turk, and
@@ -1200,8 +1170,7 @@
                         in falling in love with, and marrying the daughter of a missionary there
                         established; the sentimental preliminaries having been carried on during an
                         excursion to Bethlehem, and the declaration and acceptance having taken
-                        place at the foot of the Mount of Olives, such being the<pb n="79"
-                            xml:id="VAB7183-080"/> habits of the clerical pilgrims of modern times.
+                        place at the foot of the Mount of Olives, such being the<pb n="79" xml:id="VAB7183-080"/> habits of the clerical pilgrims of modern times.
                         That sharp cross looking man with green spectacles and a huge note‐book
                         under his arm, has been visiting the Syrian monasteries, where he has been
                         treated with the utmost kindness and hospitality, having been nursed through
@@ -1215,8 +1184,7 @@
                     <p>In the midst of these various indviduals it was a pleasant sight to see young
                         Millicent Grey, as she stood at the side of the vessel, looking over the
                         foaming water towards the yet unseen shores of England, braving, with
-                        child‐like pleasure, the rough visiting of the<pb n="80"
-                            xml:id="VAB7183-081"/> fresh breeze that blew upon her bright face,
+                        child‐like pleasure, the rough visiting of the<pb n="80" xml:id="VAB7183-081"/> fresh breeze that blew upon her bright face,
                         whilst her sparkling eye and glowing cheek told how high her heart was
                         beating with its ardent hope, and with what energy and vigour she was
                         preparing for the life‐struggle to which she was now advancing fast. She was
@@ -1302,8 +1270,7 @@
                         last, smiling at her animation.</p>
                     <p>“Well, it is pretty much like visiting China or Kamschatka, or any other
                         foreign country, to me. I have never been there since I was quite a little
-                        child; of course it is my native land, and I am quite ready to<pb n="86"
-                            xml:id="VAB7183-087"/> love it very much beforehand, but at the same
+                        child; of course it is my native land, and I am quite ready to<pb n="86" xml:id="VAB7183-087"/> love it very much beforehand, but at the same
                         time I am rather curious to see it, because I expect it will explain to me a
                         great many things which I don’t understand in the world. There is an immense
                         deal of good sense in England, is there not?”</p>
@@ -1312,8 +1279,7 @@
                         with a comical smile.</p>
                     <p>“Oh, I should not like it if they did not,” said Millicent; “but what I
                         expect will prove so instructive to me is, that I am told the English all
-                        live upon system. In France, you know, they live <foreign xml:lang="fre"
-                            >pour passer le temps</foreign>; and in Italy, I believe, their
+                        live upon system. In France, you know, they live <foreign xml:lang="fre">pour passer le temps</foreign>; and in Italy, I believe, their
                         existence is one of impulse; but in England, I hear, they all think very
                         seriously, and make up their minds what they ought to do, and do it. I
                         believe there is system in everything—great systems for legislation,
@@ -1334,8 +1300,7 @@
                         I should like so much to know why you thought I should tire of life before
                         it was done.”</p>
                     <p>“Simply because I am very tired of it myself,” said the old gentleman,
-                        laughing; “not that I want to be rid of it however,<pb n="88"
-                            xml:id="VAB7183-089"/> oh dear, no!” and he looked round with a sort of
+                        laughing; “not that I want to be rid of it however,<pb n="88" xml:id="VAB7183-089"/> oh dear, no!” and he looked round with a sort of
                         terror, as if he was afraid some one would take him at his word, and relieve
                         him of what was clearly a beloved burden; “But the truth is, that in early
                         life I made one very great mistake, and I have suffered for it ever
@@ -1349,9 +1314,7 @@
                         juncture, who saw that Millicent was gaining some information from her new
                         friend, “Ask Monsieur if that is the way in which Englishmen amuse
                         themselves?” She pointed to where two of the passengers were engaged over a
-                        game at chess. “I heard them say, let us amuse ourselves;<pb n="89"
-                            xml:id="VAB7183-090"/> but if that is their amusement, <foreign
-                            xml:lang="fre">ma foi! c’est que c’est bien lugubre</foreign>; they have
+                        game at chess. “I heard them say, let us amuse ourselves;<pb n="89" xml:id="VAB7183-090"/> but if that is their amusement, <foreign xml:lang="fre">ma foi! c’est que c’est bien lugubre</foreign>; they have
                         not spoken one word, or smiled one smile, since they began, but they have
                         shaken their heads, and nodded to one another with, oh, such a
                         solemnity!”</p>
@@ -1418,8 +1381,7 @@
                         convey her over the intervening space. Nanette, quite fatigued with the
                         number of reverences she had made, with most unappreciated politeness, to
                         the stoical gentlemen in glazed hats who had handed her out and in of the
-                        railway carriages, composed herself to sleep in a<pb n="94"
-                            xml:id="VAB7183-095"/> corner, whilst Millicent, leaning eagerly towards
+                        railway carriages, composed herself to sleep in a<pb n="94" xml:id="VAB7183-095"/> corner, whilst Millicent, leaning eagerly towards
                         the window, gazed out into the darkness, and tried to distinguish the
                         different objects on which the light of the lamps flashed rapidly as they
                         whiffed along.</p>
@@ -1447,8 +1409,7 @@
                         to discern what manner of spirit is within.</p>
                     <p>How awful were a voice to come forth from each one of these dark piles of
                         habitation, and proclaim the hidden truth of the living mysteries within,
-                        saying, “Here human love is agonizing; there<pb n="96" xml:id="VAB7183-097"
-                        /> infamy and vice walk rampant; here despair is writhing in the dust; there
+                        saying, “Here human love is agonizing; there<pb n="96" xml:id="VAB7183-097"/> infamy and vice walk rampant; here despair is writhing in the dust; there
                         cankering want hath torn affection even from a mother’s heart, and the child
                         that asked not life from her is praying for its passing.”</p>
                     <p>But no such voice is heard, at least, except we question it; and so, through
@@ -1548,8 +1509,7 @@
                         respectability, who was further remarkable for a serenity of aspect peculiar
                         to herself, and which emanated, no doubt, from the pleasant conviction that
                         every thing she had ever done, said, or thought, was exactly as it ought to
-                        have been. She was then ushered into the drawing‐room,<pb n="103"
-                            xml:id="VAB7183-104"/> having just caught a glimpse of poor Nanette,
+                        have been. She was then ushered into the drawing‐room,<pb n="103" xml:id="VAB7183-104"/> having just caught a glimpse of poor Nanette,
                         hurried off, with despairing looks, by three or four gigantic footmen, to
                         the care of a housekeeper, awful in satins and stateliness, who appeared
                         dimly in the far perspective. The drawing‐room seemed to Millicent blazing
@@ -1637,8 +1597,7 @@
                         when of her own will she has met the rude stare of strange eyes; absurd to
                         say that she trembles to trust her own judgment or to guide her own
                         faltering steps, when she who should have done the bidding of others, has
-                        come forth to govern and influence the minds of many. She has<pb n="109"
-                            xml:id="VAB7183-110"/> quitted the stronghold of her womanly reserve and
+                        come forth to govern and influence the minds of many. She has<pb n="109" xml:id="VAB7183-110"/> quitted the stronghold of her womanly reserve and
                         privileges, and henceforth she dare not turn, with all the revolting of
                         heart she feels, from the personal remarks, the fulsome flattering, and the
                         impertinent scrutiny, to which she has exposed herself; she has given
@@ -1652,8 +1611,7 @@
                         to wish most heartily that a little of the Turkish discipline were
                         established in their country, and that the ladies, even without yellow
                         slippers and the fear of sacks before their eyes, should be restricted to
-                        such spheres of action, and such topics of conversation, as are within<pb
-                            n="110" xml:id="VAB7183-111"/> the bounds of their capacity and suitable
+                        such spheres of action, and such topics of conversation, as are within<pb n="110" xml:id="VAB7183-111"/> the bounds of their capacity and suitable
                         attainments.</p>
                     <p>Millicent’s bright visions of a loving companionship with her cousins began
                         to melt away very rapidly after she had received Anne’s chilling welcome,
@@ -1696,8 +1654,7 @@
                         devoid of all beauty than any she had ever looked upon;—a face so painfully
                         and strikingly plain she could not have imagined, and she no longer wondered
                         that her cousin shrank from observation. It was not possible that his
-                        appearance should fail to excite a feeling of<pb n="113"
-                            xml:id="VAB7183-114"/> repugnance in the minds of all who saw him; and
+                        appearance should fail to excite a feeling of<pb n="113" xml:id="VAB7183-114"/> repugnance in the minds of all who saw him; and
                         that he was fully aware of this was plain from the look of hopeless
                         despondency with which he turned away. Millicent was full of generous
                         feeling, and she inwardly determined that she would show him the utmost
@@ -1725,8 +1682,7 @@
                         possess, and that the weakest, the most unworthy, the poorest amongst may
                         be, as a minister of consolation, wearing to the eyes all dim with weeping
                         the form of a very angel. For even if we have only words and looks to give,
-                        we must still let the look be one of tenderness and pity,<pb n="115"
-                            xml:id="VAB7183-116"/> and the words, of loving kindness; and the aching
+                        we must still let the look be one of tenderness and pity,<pb n="115" xml:id="VAB7183-116"/> and the words, of loving kindness; and the aching
                         heart shall throb less madly, the heavy eyes shall turn to the light
                         again.</p>
                     <p>We are so closely knit together in this world, dust so clings to dust, that
@@ -1785,8 +1741,7 @@
                     <p>Millicent had always felt most strongly the longing for that unknown good
                         which she believed was to be found in life, else she knew not why the life
                         had been given to her, and to‐night it seemed to come upon her with an
-                        overwhelming power; for she had, she scarce knew why, been disap‐<pb n="119"
-                            xml:id="VAB7183-120"/> pointed with her first evening in her new home.
+                        overwhelming power; for she had, she scarce knew why, been disap‐<pb n="119" xml:id="VAB7183-120"/> pointed with her first evening in her new home.
                         During the long, monotonous years she had spent at Aix, she had ever looked
                         forward to her arrival in England as the event which was to open up for her
                         the treasure‐house of existence, where she might go in and find the
@@ -1833,8 +1788,7 @@
                         present, announcing to them the exalted position she ought to hold in their
                         esteem, “you will have little difficulty in becoming acquainted with our
                         mode of life, for when you have passed one day with us, you will know our
-                        habitual routine of existence as completely as<pb n="123"
-                            xml:id="VAB7183-124"/> though you had lived with us for a year.”</p>
+                        habitual routine of existence as completely as<pb n="123" xml:id="VAB7183-124"/> though you had lived with us for a year.”</p>
                     <p>“Do you mean that every day in the year is exactly the same in this house: is
                         there never a variety of any kind whatever?” exclaimed Millicent, in some
                         alarm.</p>
@@ -1876,8 +1830,7 @@
                     <p>“There can be no question that Juliet is singularly beautiful,” said Charles;
                         “she is a remarkable person in every way: excessively clever, with an
                         indomitable will, and the most consummate selfishness,—the whole concealed
-                        under a winning fascination of manner which I really believe has never<pb
-                            n="126" xml:id="VAB7183-127"/> been surpassed. I have always thought
+                        under a winning fascination of manner which I really believe has never<pb n="126" xml:id="VAB7183-127"/> been surpassed. I have always thought
                         there was a good deal of the tiger in Juliet. The smooth, sleek, beautiful
                         coat, and the cold heart beating with its cruel purpose beneath it, is a
                         very apt simile for that captivating softness and most fair appearance which
@@ -1890,8 +1843,7 @@
                         his nearest relations with the same supreme indifference which he was
                         accustomed to manifest to the whole race of man. He merely slightly elevated
                         his eyebrows in reply to his mother’s vehement protestation against the
-                        extraordinary manner in which he had thought fit to<pb n="127"
-                            xml:id="VAB7183-128"/> qualify his sister, and sauntered away to receive
+                        extraordinary manner in which he had thought fit to<pb n="127" xml:id="VAB7183-128"/> qualify his sister, and sauntered away to receive
                         his letters from Mr. Egerton’s hand, who was unlocking the post‐bag with a
                         solemn and mysterious air, as though it were a matter of the first
                         importance. All the family were now assembled, with the exception of Arthur;
@@ -1935,8 +1887,7 @@
                     <p>“It was indeed,” said Arthur, earnestly; “such an hour as I have passed might
                         almost give one courage for the bitterness which the long dull day brings
                         with it, at least to me,” he went on, seeming to speak to himself, and not
-                        to her. “I have been deep in the woods, where there was not a<pb n="130"
-                            xml:id="VAB7183-131"/> sight or a sound save those of the fair nature,
+                        to her. “I have been deep in the woods, where there was not a<pb n="130" xml:id="VAB7183-131"/> sight or a sound save those of the fair nature,
                         so glad and bright in its summer loveliness. I could breathe the fresh air
                         with delight, feeling it was untainted with the sighs which, from a thousand
                         bursting hearts, will have gone up to load it before the day is done, and
@@ -1950,8 +1901,7 @@
                         morning, what a glorious world this would be if only the human mind were in
                         analogy to that sweet nature; were it pure, and in hope serene as those
                         unclouded skies, bright with the light of truth as that calm sunshine;
-                        giving forth its fragrance in thoughts and words, gentle<pb n="131"
-                            xml:id="VAB7183-132"/> and lovely as the odours breathing from the
+                        giving forth its fragrance in thoughts and words, gentle<pb n="131" xml:id="VAB7183-132"/> and lovely as the odours breathing from the
                         flowers; dispensing its refreshing sympathy and intellectual aid upon the
                         parched and drooping souls around, like the cool stream wandering with its
                         life‐giving waters among the forest trees,—and so that Spirit, which is
@@ -2020,8 +1970,7 @@
                         of feeling. Let me exhort you to reflect that an inordinate interest in any
                         thing or person, is wholly incompatible with that calm equanimity with which
                         we can alone, at all times, attend to our own peace of mind, and constantly
-                        promote that condition of placid enjoyment which is quite attainable<pb
-                            n="136" xml:id="VAB7183-137"/> in this world if we know how to take
+                        promote that condition of placid enjoyment which is quite attainable<pb n="136" xml:id="VAB7183-137"/> in this world if we know how to take
                         proper care of ourselves; for instance, enthusiasm on any subject whatever
                         is altogether a work of supererogation. It is most desirable to divest
                         ourselves of it entirely, or it may be the cause of infinite trouble.”</p>
@@ -2152,13 +2101,11 @@
                         wandering in the woods. At the usual stated hour the carriage came round to
                         take the ladies for their drive; for as Mrs. Egerton informed Millicent,
                         after luncheon, the remainder of the day was always devoted to relaxation.
-                        What they were to relax from, her niece could not imagine, nor<pb n="145"
-                            xml:id="VAB7183-146"/> yet the exact aim and object of the two hours’
+                        What they were to relax from, her niece could not imagine, nor<pb n="145" xml:id="VAB7183-146"/> yet the exact aim and object of the two hours’
                         drive which she took with her aunt and cousins along the turnpike road. It
                         was not certainly to give them exercise, as they did not walk a step; nor
                         yet in order to breathe the fresh air, as the carriage was closed; and if it
-                        was an amusement it seemed to her even more <foreign xml:lang="fre"
-                            >lugubre</foreign> than the game of chess which had so astonished her
+                        was an amusement it seemed to her even more <foreign xml:lang="fre">lugubre</foreign> than the game of chess which had so astonished her
                         merry little <foreign xml:lang="fre">bonne</foreign>.</p>
                     <p>Millicent looked much astonished when Anne told her, as they passed through
                         the hall, that the dinner hour was seven o’clock.</p>
@@ -2167,8 +2114,7 @@
                     <p>“Why we certainly had enough to eat to serve us for the whole day,” replied
                         Millicent. Anne only answered by shrugging her shoulders contemptuously. It
                         is one of the singular facts of the present state of society, that the
-                        qualities which in theory we hold to be most lovely and desirable<pb n="146"
-                            xml:id="VAB7183-147"/> are precisely those which in practice we treat
+                        qualities which in theory we hold to be most lovely and desirable<pb n="146" xml:id="VAB7183-147"/> are precisely those which in practice we treat
                         with the greatest contumely and disdain. If one comes amongst us ignorant of
                         the world’s ways, innocent because uncontaminated by the knowledge of many
                         evil things, unlearned in the artificial laws and observances of
@@ -2274,8 +2220,7 @@
                         solitary enjoyment in the gratification of his appetite,—the very lowest and
                         meanest qualification of his nature?”</p>
                     <p>“My dear Miss Grey, pray be cautious; you really alarm me. My nerves are
-                        scarcely equal to such startling denunciations. I<pb n="153"
-                            xml:id="VAB7183-154"/> thought my remark very innocent and sensible; I
+                        scarcely equal to such startling denunciations. I<pb n="153" xml:id="VAB7183-154"/> thought my remark very innocent and sensible; I
                         can hardly imagine how you have drawn from it such a wholesale
                         condemnation.”</p>
                     <p>“Simply because, if you would test the real nature of a principle, you must
@@ -2318,8 +2263,7 @@
                         than evil. It seems to me, though I know not how it should be done, that it
                         were a noble task for the rich, for those who need not to labour for their
                         daily bread, the intellectual and educated class, to rise up and make
-                        themselves a work in the succouring of their fellow men.<pb n="156"
-                            xml:id="VAB7183-157"/> —It must be such au awful thing to suffer! Surely
+                        themselves a work in the succouring of their fellow men.<pb n="156" xml:id="VAB7183-157"/> —It must be such au awful thing to suffer! Surely
                         to labour for the removal of the load of suffering from this earth were a
                         nobler system of life, than that which quenches the spirit, in a continued
                         provision for bodily comfort.”</p>
@@ -2333,8 +2277,7 @@
                         unheard of proceedings. She has no idea of the commonest rules of
                         society.”</p>
                     <p>Millicent meanwhile went to sit down musingly, pondering within herself, as
-                        usual, how she could best reduce to practice the<pb n="157"
-                            xml:id="VAB7183-158"/> theory she had just started, that it were a
+                        usual, how she could best reduce to practice the<pb n="157" xml:id="VAB7183-158"/> theory she had just started, that it were a
                         fitting object for life to wrestle with human misery; and still it seemed,
                         as it had ever done, that for her, a weak woman, young and helpless as she
                         was, there was but one means whereby she could have a part in so glorious a
@@ -2375,8 +2318,7 @@
                         sympathy.</p>
                     <p>“I find we have a new neighbour,” said Mr. Egerton, walking into the drawing
                         room, where the whole party were assembled one morning. “I have just
-                        received a letter from a friend, introducing to me<pb n="161"
-                            xml:id="VAB7183-162"/> a gentleman who has taken Milton Lodge for the
+                        received a letter from a friend, introducing to me<pb n="161" xml:id="VAB7183-162"/> a gentleman who has taken Milton Lodge for the
                         summer.”</p>
                     <p>“Oh, do tell us all about him,” exclaimed Fanny, the only one of the family
                         sufficiently natural to give vent to the curiosity which all felt alike.</p>
@@ -2451,8 +2393,7 @@
                         myself as near to you as I could.” He then detailed to her uncle and aunt
                         the acquaintance they had made on board of the French steamer, and further
                         declared positively, that he had come to settle in this neighbourhood for
-                        the sole purpose of being near her. He said he<pb n="166"
-                            xml:id="VAB7183-167"/> had just left the Continent, where he had vainly
+                        the sole purpose of being near her. He said he<pb n="166" xml:id="VAB7183-167"/> had just left the Continent, where he had vainly
                         been seeking to recover his health, and finding his efforts quite fruitless,
                         he had resolved on making a home to himself in his own country, which he
                         designed to quit no more.</p>
@@ -2466,8 +2407,7 @@
                         to say the least of it, and Mrs. Hartley smiled gently whilst she looked
                         with evident interest on Millicent. The Egertons were, however, extremely
                         well pleased that their niece should have gained the friendship of an old
-                        gentleman so exceedingly <emph>comfortable</emph>, in every sense of<pb
-                            n="167" xml:id="VAB7183-168"/> the word, as Colonel Bentley, and
+                        gentleman so exceedingly <emph>comfortable</emph>, in every sense of<pb n="167" xml:id="VAB7183-168"/> the word, as Colonel Bentley, and
                         expressed themselves much gratified thereby. The same thought was on the
                         minds of both, that it is not in novels only, that attractive young ladies
                         receive unexpected bequests from elderly gentlemen of easy and pliant
@@ -2638,8 +2578,7 @@
                         therefore had he easily maintained that calm dignity of excellence. But too
                         surely, yet a little while, and some rushing wind would come to blow to
                         flame the smouldering fire of his soul’s deep passions, and then would he
-                        find that the fair structure he had built up, the noble<pb n="179"
-                            xml:id="VAB7183-180"/> character and blameless life, were set on a
+                        find that the fair structure he had built up, the noble<pb n="179" xml:id="VAB7183-180"/> character and blameless life, were set on a
                         foundation of shifting sand.</p>
                     <p>Aylmer was altogether dependent on Colonel Bentley, being the only child of
                         his sister, who had married a ruined man, and died in the same year as her
@@ -2667,8 +2606,7 @@
                         for some gentle wife to be his faithful companion, ministering to all his
                         wants and comforts. The one great mistake which he told Millicent he had
                         made in youth, was simply his having failed to marry when it was in his
-                        power. And certainly his lamentations were not<pb n="181"
-                            xml:id="VAB7183-182"/> without reason, as Stephen was much absent, and
+                        power. And certainly his lamentations were not<pb n="181" xml:id="VAB7183-182"/> without reason, as Stephen was much absent, and
                         Mrs. Hartley could only leave her children, who were dispersed in the world,
                         at rare intervals, in order to be with him.</p>
                     <p>It was not unnatural, under these circumstances, that he should feel very
@@ -2682,8 +2620,7 @@
                     <p>Stephen Aylmer possessed much of the old chivalrous feeling respecting women,
                         and his bearing towards them was full of grace and gentleness, although no
                         one could be more essentially manly in his habits and address. Millicent
-                        felt the charm of his manner during the conversation which en‐<pb n="182"
-                            xml:id="VAB7183-183"/> sued between them, and he seemed pleased and
+                        felt the charm of his manner during the conversation which en‐<pb n="182" xml:id="VAB7183-183"/> sued between them, and he seemed pleased and
                         amused at the lively and novel view she took of most subjects.</p>
                     <p>They had advanced considerably in their acquaintance when Mr. and Mrs.
                         Egerton arrived to reclaim their niece. They did not alight, and as
@@ -2751,8 +2688,7 @@
                     <p>Millicent Grey had never been face to face with the poor—that dark, that
                         awful, that mysterious portion of this world’s vast system had never passed
                         before her eyes, that one black page in earth’s history, which changes not
-                        from age to age, bearing ever the same record in the single word <emph
-                            rend="sc">MISERY</emph>, had not as yet been unrolled to her gaze. She
+                        from age to age, bearing ever the same record in the single word <emph rend="sc">MISERY</emph>, had not as yet been unrolled to her gaze. She
                         was like many others, who live and<pb n="187" xml:id="VAB7183-188"/> die in
                         this country, with its millions of paupers, without ever having looked on
                         poverty.</p>
@@ -2834,8 +2770,7 @@
                         all common places, and when he was conversing with any one who could
                         understand him, he invariably chose subjects of some depth and importance,
                         on which he could exercise the powers of his fine mind. This was great
-                        enjoyment to Millicent, who could never be content with<pb n="193"
-                            xml:id="VAB7183-194"/> the surface of things. She was perpetually diving
+                        enjoyment to Millicent, who could never be content with<pb n="193" xml:id="VAB7183-194"/> the surface of things. She was perpetually diving
                         to the bottom of wells in search of truth, and she was quite happy when she
                         found any one willing to dive along with her, instead of passing by on the
                         beaten path, as most of her present friends did, who were content, as she
@@ -2847,8 +2782,7 @@
                         ridden several miles that Millicent remembered she had not addressed a word
                         to Arthur, who was riding silently by her side.</p>
                     <p>There was a great change in Arthur Egerton, since the sweet face of his
-                        cousin had come beaming in upon his dark life like<pb n="194"
-                            xml:id="VAB7183-195"/> a star: the immense ambition which so long had
+                        cousin had come beaming in upon his dark life like<pb n="194" xml:id="VAB7183-195"/> a star: the immense ambition which so long had
                         sounded in his heart like thunder, still was echoing there, for it was the
                         voice of the divine gift within him, that cried out to be employed on the
                         high mission for which alone the poetic spark of heavenly fire was ever sent
@@ -2887,8 +2821,7 @@
                         stop and have it ascertained. This was done, and his supposition was found
                         to be correct. She was obliged to dismount while the groom galloped off to a
                         blacksmith’s which was fortunately near, and the rest of the party assembled
-                        round her. Aylmer suggested that they should all take<pb n="197"
-                            xml:id="VAB7183-198"/> a walk until the horse was ready, but Anne and
+                        round her. Aylmer suggested that they should all take<pb n="197" xml:id="VAB7183-198"/> a walk until the horse was ready, but Anne and
                         Fanny exclaimed against this idea, bidding him look in what part of the
                         country they were before he proposed it.</p>
                     <p>In truth, Millicent and Aylmer had been talking too earnestly to observe the
@@ -2929,8 +2862,7 @@
                         wretched inmates. Close to the hearth, where not a spark of fire lingered
                         among the black cinders, a woman sat crouching, her face buried in her
                         hands, and her continual moaning seeming to indicate that she was in pain.
-                        Two half‐naked children lay sleeping at her feet.<pb n="200"
-                            xml:id="VAB7183-201"/> Millicent shivered as she cast a rapid glance on
+                        Two half‐naked children lay sleeping at her feet.<pb n="200" xml:id="VAB7183-201"/> Millicent shivered as she cast a rapid glance on
                         the cheerless aspect of the place,—then going up to the woman, she laid her
                         hand softly on her shoulder, and asked if anything was the matter with her.
                         The poor creature looked up and gazed for a moment in her face, with a sort
@@ -2970,8 +2902,7 @@
                         woman, for the luxury in which she lived.</p>
                     <p>“Ay, like enough,” said the woman, bitterly; “what should such as you know of
                         us poor creatures!” And then passed through the mind of the starving pauper,
-                        a vision of that awful history, on which the<pb n="203" xml:id="VAB7183-204"
-                        /> very souls of the poor do feed, finding therein a terrible consolation
+                        a vision of that awful history, on which the<pb n="203" xml:id="VAB7183-204"/> very souls of the poor do feed, finding therein a terrible consolation
                         and a savage hope. It was the parable of Lazarus and the beggar.</p>
                     <p>“Oh, but if we had known it, we never would have let this happen,” said
                         Millicent, trembling with agitation; “and at least you shall suffer no more
@@ -3076,8 +3007,7 @@
                         in cold and hunger; it is this that seems to me so appalling,—how can we
                         dare to live as we do?”</p>
                     <p>“But, my dear Miss Grey,” said Aylmer, soothingly, for he saw she was
-                        strongly excited, “you must reflect that you are now<pb n="211"
-                            xml:id="VAB7183-212"/> for the first time looking on that great national
+                        strongly excited, “you must reflect that you are now<pb n="211" xml:id="VAB7183-212"/> for the first time looking on that great national
                         and social evil, which occupies the whole thoughts and attention of
                         legislators and political economists. You have been laying bare the most
                         deep wound which the best and wisest of men so long have sought in vain to
@@ -3116,8 +3046,7 @@
                         Millicent very gently; “I think it is taking a dreary and enervating view of
                         the case to say that because we cannot remedy it, we will not think of it at
                         all. I see your remark conveyed to me a strong reproof for my presumption in
-                        attempting to discuss such a deep subject, and certainly it was deserved,<pb
-                            n="214" xml:id="VAB7183-215"/> and would be more so, if I really
+                        attempting to discuss such a deep subject, and certainly it was deserved,<pb n="214" xml:id="VAB7183-215"/> and would be more so, if I really
                         pretended to give an opinion on matters with which women have nothing to do,
                         and which ought to occupy the wise heads of statesmen only,—and indeed I do
                         not even know what is meant by political economy. But, Mr. Aylmer, my eyes
@@ -3144,8 +3073,7 @@
                     <p>“Utopia, indeed,” said Aylmer smiling, but he had not time to add more, for
                         Charles rode up at that moment.</p>
                     <p>“Millicent,” he said, “I can stand this no longer; ever since we had the
-                        misfortune to let you go into that cottage you have had<pb n="216"
-                            xml:id="VAB7183-217"/> an expression on your face, which has chilled me,
+                        misfortune to let you go into that cottage you have had<pb n="216" xml:id="VAB7183-217"/> an expression on your face, which has chilled me,
                         as if we were in the month of December. Pray restore us to that very Italian
                         summer which you brought with you into the dull old house at Rookcliffe. You
                         introduced yourself among us as a most merry and amusing companion, and
@@ -3165,8 +3093,7 @@
                         uncle as he stood with his capacious person benevolently protecting the fire
                         from any intrusive approaches.</p>
                     <p>“Well, my dear,” he answered, “this is no doubt very sad, but you would find
-                        the same poverty in many parts of the kingdom;<pb n="218"
-                            xml:id="VAB7183-219"/> these things really cannot be helped. I was quite
+                        the same poverty in many parts of the kingdom;<pb n="218" xml:id="VAB7183-219"/> these things really cannot be helped. I was quite
                         aware that there was much wretchedness in the mining district, where you
                         unfortunately went to‐day; but it is far beyond the power of any single
                         individual or party of individuals to relieve it; you may rest assured,
@@ -3249,8 +3176,7 @@
                     <p>“Shared. indeed!” said Mr. Egerton<corr>.</corr></p>
                     <p>“It might not be possible to live at Rookcliffe on that pittance,” continued
                         Millicent, warming with her subject, “but as it is not an old family place;
-                        and only lately bought by yourself, you could complete the good work<pb
-                            n="224" xml:id="VAB7183-225"/> by selling it, and so gaining another
+                        and only lately bought by yourself, you could complete the good work<pb n="224" xml:id="VAB7183-225"/> by selling it, and so gaining another
                         enormous sum for the poor.”</p>
                     <p>“Now, thanks to my good fortune, the place is entailed,” muttered
                         Charles.</p>
@@ -3263,8 +3189,7 @@
                         were all laughing heartily.</p>
                     <p>“I’ve one comfort,” said Mr. Egerton, beginning to cool down, and addressing
                         his wife, who was the picture of rigid disapprobation, “that mad girl’s own
-                        fortune is safe in my hands till she is of age, and I<pb n="225"
-                            xml:id="VAB7183-226"/> hope by that time we may find some sensible man
+                        fortune is safe in my hands till she is of age, and I<pb n="225" xml:id="VAB7183-226"/> hope by that time we may find some sensible man
                         to take care of it for her.” Mrs. Egerton shook her head ominously, and they
                         all felt relieved when dinner was announced.</p>
                     <p>Mr. Aylmer dined with them next day, and Millicent found that he had amply
@@ -3316,8 +3241,7 @@
                         some great mistake respecting it.”</p>
                     <p>“You really make me feel,” said Millicent, laughing, “as if I had some mental
                             <emph>peculiarity</emph>, which deserves a less gentle name; but what
-                        can I do? I come to England, and I look straight at everything,<pb n="229"
-                            xml:id="VAB7183-230"/> and I see what it is, and then, if you ask me, I
+                        can I do? I come to England, and I look straight at everything,<pb n="229" xml:id="VAB7183-230"/> and I see what it is, and then, if you ask me, I
                         must tell you. One can’t help distinguishing between black and white; if it
                         is black I must say so.”</p>
                     <p>“Exactly; but that is just the thing. All our innocent customs seem to you so
@@ -3372,8 +3296,7 @@
                         as the oppression of the helpless, and the wronging of the innocent, I think
                         some nobler means might be found for the trial of your courage.”</p>
                     <p>“Miss Grey, it seems extraordinary to hear you talking, against what has
-                        always been considered quite an honour to England<pb n="233"
-                            xml:id="VAB7183-234"/> and peculiar to the country, such a fine manly
+                        always been considered quite an honour to England<pb n="233" xml:id="VAB7183-234"/> and peculiar to the country, such a fine manly
                         sport,” said the curate.</p>
                     <p>“I cannot think it manly to take a pleasure in the torture of a poor dumb
                         victim, and that any one should find sport in it is beyond my conception.
@@ -3401,8 +3324,7 @@
                     <p>“Then, do you mean me to suppose that Englishmen are so very tender‐hearted,
                         and so considerate of the feelings of the lower animals, that they actually
                         take all this trouble, and devote themselves, at the risk of their lives,
-                        for the sole purpose of pleasing their dogs? How extraordinarily kind!<pb
-                            n="235" xml:id="VAB7183-236"/> but if their motives are so very
+                        for the sole purpose of pleasing their dogs? How extraordinarily kind!<pb n="235" xml:id="VAB7183-236"/> but if their motives are so very
                         disinterested, it strikes me that there is a slight error in their judgment,
                         for of course you would not wish to give a preference, in your sympathy to
                         any one species of the brute creation in particular: so that whilst you are
@@ -3466,8 +3388,7 @@
                         new state of existence. Yet, not in the same region were these spirits
                         wandering now. When the winds of destiny are unbound from their hid cavern,
                         and set forth on their appointed mission, the same blast which sweeps away
-                        the hopes from the soul of one, like withered<pb n="240"
-                            xml:id="VAB7183-241"/> leaves from a tree, bears the seeds of sweet
+                        the hopes from the soul of one, like withered<pb n="240" xml:id="VAB7183-241"/> leaves from a tree, bears the seeds of sweet
                         flowers to the heart of another, where they germinate and flourish to fill
                         the whole being with fragrance. It was so with Millicent and Arthur. The one
                         was in a land of light and gladness now, where the sun of hope had risen,
@@ -3493,8 +3414,7 @@
                         life hope, from the being that seems to fall a dull inert mass of clay
                         without it.</p>
                     <p>But if they noted the change that had passed on Millicent Grey, they could,
-                        in some sense, understand it; for they knew<pb n="242" xml:id="VAB7183-243"
-                        /> that she was the promised wife of Stephen Aylmer. Great was the change,
+                        in some sense, understand it; for they knew<pb n="242" xml:id="VAB7183-243"/> that she was the promised wife of Stephen Aylmer. Great was the change,
                         in truth, that had come upon her,—none greater in the phases of a purely
                         earthly existence,—it was as though a new being had been given to her, for
                         it was life, animated by a new principle.</p>
@@ -3546,8 +3466,7 @@
                         Stairs, on their arrival, had he made up his mind that she was the very
                         person he desired to be the wife of his favourite nephew, as well as a
                         satisfactory niece to himself, and he never from that moment lost sight of
-                        his object. For this reason he came to Milton<pb n="246"
-                            xml:id="VAB7183-247"/> Lodge—for this reason he monopolized Millicent’s
+                        his object. For this reason he came to Milton<pb n="246" xml:id="VAB7183-247"/> Lodge—for this reason he monopolized Millicent’s
                         society, and while his wish and his purpose strengthened every day, he
                         failed not to give Stephen the strongest possible intimations that if his
                         will were thwarted on this point, he might go so far as to transfer his
@@ -3586,8 +3505,7 @@
                     <p>He could not but love her too, in some degree, now that the near approach of
                         the time fixed for their marriage had put an end to reserve between them,
                         and that he saw how generously and devotedly her whole heart was given to
-                        him. His warm sympathy for the poor, and active exertions on<pb n="249"
-                            xml:id="VAB7183-250"/> their behalf, had been the first things which had
+                        him. His warm sympathy for the poor, and active exertions on<pb n="249" xml:id="VAB7183-250"/> their behalf, had been the first things which had
                         caused her to distinguish him, from all around her, and her vivid
                         imagination had soon invested him with an ideal character of almost perfect
                         moral beauty, to which his many really good qualities gave a strong
@@ -3614,8 +3532,7 @@
                         whole life’s joy without him.</p>
                     <p>They stood together now, side by side, on a rising ground, within the park,
                         at Rookcliffe, where they had been walking. They were returning home, and
-                        paused here, to look at the fair, peaceful scene that<pb n="251"
-                            xml:id="VAB7183-252"/> was spread out before them, in the faint light of
+                        paused here, to look at the fair, peaceful scene that<pb n="251" xml:id="VAB7183-252"/> was spread out before them, in the faint light of
                         the autumn evening. He looked with his free, proud glance, on the
                         landscape,—but she, on him, with a timid, wistful gaze in her earnest eyes,
                         as though the poor, trembling soul within her were whispering, “I have done
@@ -3641,8 +3558,7 @@
                     <p>“Of life, I think,” she answered; “it seems to me such a fearfully precarious
                         thing,—its entire happiness or utter misery hangs on so slender a thread.
                         Often,—the living or dying of one single hope, can make it a beautiful and
-                        blessed gift, or a crushing, intolerable burden. Its destinies are<pb
-                            n="253" xml:id="VAB7183-254"/> so irretrievable, if once the soul has
+                        blessed gift, or a crushing, intolerable burden. Its destinies are<pb n="253" xml:id="VAB7183-254"/> so irretrievable, if once the soul has
                         been wrecked on its treacherous waves, where it wanders, seeking joy, then
                         the perishing of its peace is beyond all recall, and it is borne on by the
                         tide through tempests and gloom, dead to all earthly bliss, as the corpse
@@ -3738,8 +3654,7 @@
                         expression which formed its great charm. She still wore mourning for her
                         father, and the peculiar truthfulness of her character made her at all times
                         dress with a severe simplicity, which, just as she intended, did not enhance
-                        her beauty. She could not endure to use any art or forethought<pb n="260"
-                            xml:id="VAB7183-261"/> in order to make herself seem other than she was;
+                        her beauty. She could not endure to use any art or forethought<pb n="260" xml:id="VAB7183-261"/> in order to make herself seem other than she was;
                         and now, as she looked at her own unpretending appearance, she sighed, while
                         she murmured—</p>
                     <p>“Aylmer would surely have wished for a fairer bride!”</p>
@@ -3795,8 +3710,7 @@
                         thus grouped, dissolved away at the sound of Mr. Egerton’s voice.</p>
                     <p>“Come, Millicent, and make acquaintance<pb n="264" xml:id="VAB7183-265"/>
                         with your new cousin.—Juliet, this is our dear Millicent.”</p>
-                    <p>“<foreign xml:lang="lat">Pro tempore</foreign>, Miss Grey,—<foreign
-                            xml:lang="fre">bientôt</foreign>, Mrs. Aylmer,” said Charles.</p>
+                    <p>“<foreign xml:lang="lat">Pro tempore</foreign>, Miss Grey,—<foreign xml:lang="fre">bientôt</foreign>, Mrs. Aylmer,” said Charles.</p>
                     <p>Juliet instantly passed from her striking attitude to another no less
                         graceful, with arms outstretched to embrace her new relation. She glided
                         towards her;—in the softest and sweetest of tones expressed her delight at
@@ -3831,13 +3745,11 @@
                         hearers.</p>
                     <p>“You talk so like an artist, Juliet,” said Charles, “that I begin to be
                         suspicious of the contents of some large boxes I saw among your packages.
-                        Pray, do they contain your own performances as a <foreign xml:lang="ita"
-                            >pittrice</foreign>?”</p>
+                        Pray, do they contain your own performances as a <foreign xml:lang="ita">pittrice</foreign>?”</p>
                     <p>“Yes, my own despair that is embodied on canvas,” she answered, with her gay
                         ringing laugh, “for it is nothing less than despair, to find how impossible
                         it is to give a material existence, to the fair visions of one’s dreams.
-                            <emph>You</emph> can never feel this,” she<pb n="267"
-                            xml:id="VAB7183-268"/> continued, suddenly turning and fixing her large
+                            <emph>You</emph> can never feel this,” she<pb n="267" xml:id="VAB7183-268"/> continued, suddenly turning and fixing her large
                         eyes full on Aylmer’s countenance.</p>
                     <p>The great peculiarity of her beauty was the singular contrast of those eyes,
                         so dark as to be almost black, with her golden‐coloured hair. She well knew
@@ -3866,8 +3778,7 @@
                         striking.”</p>
                     <p>“To‐morrow,” she said, and resumed a more general conversation.</p>
                     <p>She seemed bent on making a conquest of Millicent, and addressed her
-                        continually, but chiefly on subjects with which it was<pb n="269"
-                            xml:id="VAB7183-270"/> impossible she should be acquainted, so that the
+                        continually, but chiefly on subjects with which it was<pb n="269" xml:id="VAB7183-270"/> impossible she should be acquainted, so that the
                         contrast between Juliet’s animated remarks and her cousin’s quiet answers,
                         was the more striking. To say the truth, Millicent had never been so dull or
                         so incapable of conversing at all. Her wonted vivacity seemed unaccountably
@@ -3879,8 +3790,7 @@
                         seemed determined he should not have. Once only she was alone when he came
                         near her, and then starting up, she went to the piano with a smile which
                         invited him to follow. She sat for a few moments, passing her hands dreamily
-                        over the keys, as though gradually losing con‐<pb n="270"
-                            xml:id="VAB7183-271"/> sciousness of where she was: then suddenly she
+                        over the keys, as though gradually losing con‐<pb n="270" xml:id="VAB7183-271"/> sciousness of where she was: then suddenly she
                         burst out into a very flood of song, as singular as it was beautiful. Her
                         voice was not very strong but strangely sweet, and she knew how to throw
                         into it a passionate earnestness, which agitated every heart that heard her.
@@ -3896,8 +3806,7 @@
                         them, for some important<pb n="271" xml:id="VAB7183-272"/> combat;—it was
                         Juliet’s turn, and she came gliding in her white robes from the darkened
                         part of the room where the piano stood. Her eyes turned with a beaming
-                        glance on Aylmer,—her lips but half opened, to murmur a soft <foreign
-                            xml:lang="ita">buona notte, dormi bene</foreign>! and the bright figure
+                        glance on Aylmer,—her lips but half opened, to murmur a soft <foreign xml:lang="ita">buona notte, dormi bene</foreign>! and the bright figure
                         disappeared on the dark threshold. He stood rooted to the spot, so lost in
                         thought that he did not perceive his young bride at his side, waiting to
                         wish him good night.</p>
@@ -3947,8 +3856,7 @@
                         the attainment of her love, as she loved Stephen Aylmer. There had been a
                         time, brief as those radiant moments, when the sun bathes the world in light
                         ere it sinks to utter darkness, when had believed she loved him. None had
-                        ever looked on him with the tender pity she had<pb n="275"
-                            xml:id="VAB7183-276"/> shown, and this deceived him, so that to him who
+                        ever looked on him with the tender pity she had<pb n="275" xml:id="VAB7183-276"/> shown, and this deceived him, so that to him who
                         never had known the unutterable sweetness of human affection (for he was
                         repulsive to the very mother who bore him,) brighter, dearer, more
                         inconceivably precious than mortal words can tell, was the thought that he,
@@ -4085,8 +3993,7 @@
                     <p>“It is plain you are but a beginner,” he said, at last, “but with energy and
                         perseverance you may attain to a high degree of perfection.”</p>
                     <p>“I can do nothing unaided,” said Juliet. “In Italy I never could work unless
-                        my dear old master were at my side to call out ‘<foreign xml:lang="ita"
-                            >corragio</foreign>’ every moment, and to fill me by his enthusiastic
+                        my dear old master were at my side to call out ‘<foreign xml:lang="ita">corragio</foreign>’ every moment, and to fill me by his enthusiastic
                         words with what he called ‘<foreign xml:lang="ita">l’anima
                             Italiana</foreign>.’ I wish you were Italian and a painting master,”.
                         she added, turning her bright peculiar glance, with its sudden impulse, on
@@ -4094,8 +4001,7 @@
                     <p>“I will be both to you,” said Aylmer, earnestly.</p>
                     <p>“Do you mean what you say? I may take you at your word? Oh, how gladly! But,
                         for you, is it not a rash offer? Think of the long hours when the master
-                        must guide the pupil’s powerless hand. Is it <foreign xml:lang="ita"
-                            >davvero</foreign>?”</p>
+                        must guide the pupil’s powerless hand. Is it <foreign xml:lang="ita">davvero</foreign>?”</p>
                     <pb n="286" xml:id="VAB7183-287"/>
                     <p>“<foreign xml:lang="ita">Davvero</foreign>! I do mean what I said most
                         seriously. I will be your master. You could have none here, and I cannot see
@@ -4138,8 +4044,7 @@
                         said Mrs. Egerton, as she rose and kissed her handsome daughter with proud
                         satisfaction. She was truest to the woman’s nature in her overweening
                         indulgence of this favourite child. They all left the room; Aylmer held the
-                        door open for the ladies to pass, for Charles and Arthur had gone out<pb
-                            n="289" xml:id="VAB7183-290"/> together. Millicent looked back, thinking
+                        door open for the ladies to pass, for Charles and Arthur had gone out<pb n="289" xml:id="VAB7183-290"/> together. Millicent looked back, thinking
                         he was following her, but he stood gazing on Juliet, as she bent over her
                         easel. Millicent heard the door close: he had remained with her cousin.</p>
                     <p>“I suppose Mr. Aylmer is going to give his first lesson, it will be a real
@@ -4207,8 +4112,7 @@
                         hidden sympathy, which draws my soul to you, as though you were some friend
                         of childhood, some companion cherished long? Am I to live near you
                         constantly as the mere stranger, which, in the common course of events, I
-                        should be to you, with the feeling half maddening me the while that<pb
-                            n="294" xml:id="VAB7183-295"/> in very truth we have been and are,
+                        should be to you, with the feeling half maddening me the while that<pb n="294" xml:id="VAB7183-295"/> in very truth we have been and are,
                         although I know not by what mystery, friends in no common way? Will you
                             <emph>never</emph> tell me, <foreign xml:lang="ita">amica
                             incognita</foreign>, what is the strange, sweet link between us?”</p>
@@ -4221,8 +4125,7 @@
                         touching than the wildest burst of sorrow,—“there is an interval when we may
                         be as friends together, and none shall have any true right to come between
                         as, when we may enjoy that communion of feeling which those who have the
-                        artist soul alone can know. Yes, that communion<pb n="295"
-                            xml:id="VAB7183-296"/> which I have dreamt of having with you this many
+                        artist soul alone can know. Yes, that communion<pb n="295" xml:id="VAB7183-296"/> which I have dreamt of having with you this many
                         a long day; there is an interval which may be bright with that friendship I
                         had thought was to be ours, <emph>unchanging</emph>. Let us, then, forget
                         what past and present, were and are, and I at least will forget the future;
@@ -4262,8 +4165,7 @@
                         undoubted eccentricity seemed quite justified by her remarkable beauty,
                         which already rendered her so unlike all others. No one ever thought of
                         finding fault with the peculiarity of her manners and habits: she was in all
-                        things considered quite unique, and that bright<pb n="298"
-                            xml:id="VAB7183-299"/> face won forgiveness by a look, for the daring
+                        things considered quite unique, and that bright<pb n="298" xml:id="VAB7183-299"/> face won forgiveness by a look, for the daring
                         independence with which she followed her own wayward will.</p>
                     <p>They generally all went to ride together in the afternoon. Juliet was a bold
                         rider, and often, whilst they were all proceeding quietly together, she
@@ -4275,8 +4177,7 @@
                         in these wild flights, but Charles, who never allowed his ease or dignity to
                         be compromised by such hurried movements, invariably requested Aylmer to
                         take upon himself the care of his capricious sister, whilst he remained in
-                        charge of the rest of the party; and Aylmer joyfully<pb n="299"
-                            xml:id="VAB7183-300"/> accepting the mission, would gallop after her, to
+                        charge of the rest of the party; and Aylmer joyfully<pb n="299" xml:id="VAB7183-300"/> accepting the mission, would gallop after her, to
                         find her generally motionless on some rising ground, whence she could
                         command the prospect, the horse, curbed by her small vigorous hand, standing
                         still as a statue, and herself in an attitude equally fixed, having
@@ -4383,8 +4284,7 @@
                         a meaning look. There were various reasons for this. Charles having
                         attained, by some intricate process, to a most real and enviable
                         insensibility himself, never thought that possibly there might be the germs
-                        of an agony, even unto death, in this working tragedy, for<pb n="307"
-                            xml:id="VAB7183-308"/> some, if not all, of the actors therein. Sweet
+                        of an agony, even unto death, in this working tragedy, for<pb n="307" xml:id="VAB7183-308"/> some, if not all, of the actors therein. Sweet
                         little Millicent would soon find a better husband, he thought, if Aylmer
                         played her false; and meanwhile it was a wonderful enlivenment to the old
                         halls at Rookcliffe to have this exciting romance going on within them: he
@@ -4409,15 +4309,13 @@
                         vigorous mind, to contrast so unpleasantly with her own world‐worn,
                         artificial daughters, and, “indeed,” this fashion‐taught woman was wont to
                         think, “Millicent had always shown herself very independent of her care and
-                        advice,—so now, if she lost Aylmer’s affec‐<pb n="309" xml:id="VAB7183-310"
-                        /> tion as speedily as she had won it, it was her own affair and she must
+                        advice,—so now, if she lost Aylmer’s affec‐<pb n="309" xml:id="VAB7183-310"/> tion as speedily as she had won it, it was her own affair and she must
                         even make the best of it. As for her, she must look after her own child’s
                         interest.”</p>
                     <p>Mr. Egerton would have been obtuse, indeed, had he not perceived that there
                         were storms brooding in the atmosphere round him,—storms where she, whose
                         guardian he was called, was fast making shipwreck for ever; but, really,
-                        while the cook persisted in sending up such abominable <foreign
-                            xml:lang="fre">entremets</foreign>, he could not think of anything but
+                        while the cook persisted in sending up such abominable <foreign xml:lang="fre">entremets</foreign>, he could not think of anything but
                         having him taught better, or procuring another. He did believe that was the
                         best plan, to send him off, and have another from Paris; but then his
                             <foreign xml:lang="fre">pâtés de foie gras</foreign> were capital; no
@@ -4436,8 +4334,7 @@
                         forward in this her hour of betrayal and friendlessness, armed with the
                         energy and zeal of your deep love, to interpose between her and the fierce
                         blow that was descending on her, by receiving it on your own heart? Yes! by
-                        the holocaust of your life’s affection, you might have<pb n="311"
-                            xml:id="VAB7183-312"/> saved her now: you might have won back for her
+                        the holocaust of your life’s affection, you might have<pb n="311" xml:id="VAB7183-312"/> saved her now: you might have won back for her
                         the happiness that is flitting fast away: you might have given up the dear
                         hope that exists for you, in the agony of her desertion, and with the strong
                         words of truth and rectitude, awakened that man from his ignominious dream,
@@ -4449,8 +4346,7 @@
                         shaking to its very centre. And who so blest, (not with earth’s blessing,)
                         as yourself, when having thus restored her to her well‐beloved home, in
                         another heart than yours, she went forth to live, and to enjoy, and to
-                        forget you in your bitter solitude!—yes, who so blest, for<pb n="312"
-                            xml:id="VAB7183-313"/> in your soul of earthly light bereft, would shine
+                        forget you in your bitter solitude!—yes, who so blest, for<pb n="312" xml:id="VAB7183-313"/> in your soul of earthly light bereft, would shine
                         the glory, ripe with promise, of that deed wherein you immolated self on the
                         altar of the Faith which speaks of holier love, and higher hope, and more
                         enduring joy!</p>
@@ -4477,8 +4373,7 @@
                         is like the soul without hope.</p>
                     <p>With a heavy and a lingering tread she walks, her hands clasped on her bosom,
                         where the chilled heart beats faintly,—her head bowed down with an
-                        earth‐drawn gaze, as theirs is bowed whose thoughts unconsci‐<pb n="2"
-                            xml:id="VAB7184-003"/> ously are stealing on to the grave, as their
+                        earth‐drawn gaze, as theirs is bowed whose thoughts unconsci‐<pb n="2" xml:id="VAB7184-003"/> ously are stealing on to the grave, as their
                         refuge best and sweetest.</p>
                     <p>And now it may be well to see how it fares with her who must thus
                         compassionless abide her destiny, and wait in silence the last shock of the
@@ -4504,8 +4399,7 @@
                         incapable. She could not be blind to his devoted admiration of Juliet,—he
                         had himself so far explained his preference, for her society by stating to
                         Millicent that there had existed a friendship between them formerly in a
-                        manner strange and mysterious, even to himself,<pb n="4"
-                            xml:id="VAB7184-005"/> which both desired should be continued now,—but
+                        manner strange and mysterious, even to himself,<pb n="4" xml:id="VAB7184-005"/> which both desired should be continued now,—but
                         still she felt that no intercourse in times past, could account for the
                         intense and absorbing interest he evidently took in her beautiful cousin.
                         She felt, with what a helpless sinking of the heart, no words can say, that
@@ -4518,8 +4412,7 @@
                         to fulfill the promise from which his whole heart was shrinking.</p>
                     <p>She believed that, in some way, he conceived it to be for his happiness that
                         he should be her husband, even whilst his very soul seemed drawn to Juliet
-                        Egerton,—it might be only because he wished to show<pb n="5"
-                            xml:id="VAB7184-006"/> his gratitude to his uncle by fulfilling the old
+                        Egerton,—it might be only because he wished to show<pb n="5" xml:id="VAB7184-006"/> his gratitude to his uncle by fulfilling the old
                         man’s earnest desire,—and when this thought came to the breast of Millicent,
                         it brought with it the very chill of death; or it might be,—and sweet as
                         music was the whisper of this hope to her—it might be that with all his
@@ -4531,8 +4424,7 @@
                         heart and would not quit it. Her own beautiful simplicity and truthfulness
                         misled her in this matter; for, judging by herself, it never occurred to her
                         to doubt that if Aylmer had ceased to look for happiness in their union, he
-                        would have come in a plain and straightforward manner to tell her so.<pb
-                            n="6" xml:id="VAB7184-007"/> Yet though she felt herself constrained to
+                        would have come in a plain and straightforward manner to tell her so.<pb n="6" xml:id="VAB7184-007"/> Yet though she felt herself constrained to
                         believe simply what he told her, and to act accordingly, let it not be
                         supposed that she did not suffer with a suffering which no words could
                         adequately render, at the daily and hourly evidence of his attachment for
@@ -4545,8 +4437,7 @@
                         wife.</p>
                     <p>This deep humility saved her from all bitterness of feeling towards either
                         Aylmer or Juliet. More and more gentle and patient, day by day she shrunk
-                        utterly within herself, and strove only never to interfere with<pb n="7"
-                            xml:id="VAB7184-008"/> him, never to annoy him, and but to show in every
+                        utterly within herself, and strove only never to interfere with<pb n="7" xml:id="VAB7184-008"/> him, never to annoy him, and but to show in every
                         word and action, as in every thought, that she desired his well‐being only,
                         and was content to promote it as he thought fit.</p>
                     <p>So Aylmer, looking on this calm exterior, believed almost that he had
@@ -4558,8 +4449,7 @@
                         which the woman’s pride never fails to draw over her suffering, be it what
                         it may; and seen in what a chaos of utter misery the poor soul of Millicent
                         Grey was wandering now, tossed to and fro from doubt to fear, from present
-                        anguish to future dread. She was as one haunted with<pb n="8"
-                            xml:id="VAB7184-009"/> fearful spectres, rising from the tomb where all
+                        anguish to future dread. She was as one haunted with<pb n="8" xml:id="VAB7184-009"/> fearful spectres, rising from the tomb where all
                         must sink one day, to speak prophetic of its chill and darkness, for
                         disheartening fears came ever gliding in, so terrible and phantom‐like, upon
                         her fainting spirit, whispering with boding voices of the utter death of all
@@ -4571,8 +4461,7 @@
                         good—her right to be the guardian of his life—that thought came to her with
                         all the horror which a criminal must feel when the sentence of his execution
                         sounds appalling on his ear. For be it remembered that, from earliest youth,
-                        Millicent Grey had been seeking to discover that<pb n="9"
-                            xml:id="VAB7184-010"/> mysterious satisfaction of the soul for which it
+                        Millicent Grey had been seeking to discover that<pb n="9" xml:id="VAB7184-010"/> mysterious satisfaction of the soul for which it
                         craves with such insatiable longing—that fulfillment of the inborn desire
                         which John Forde had called the “spirit’s rest;” and she had believed that
                         this existed only in the blessedness of sweet human love, given and
@@ -4651,8 +4540,7 @@
                         instance it was so strong that it was not easy to distinguish between
                         them.</p>
                     <p>Aylmer thought it was Juliet who spoke; he did not raise his head from a
-                        drawing on which he was engaged, but as he heard<pb n="15"
-                            xml:id="VAB7184-016"/> the step behind him, he murmured in a low tone,
+                        drawing on which he was engaged, but as he heard<pb n="15" xml:id="VAB7184-016"/> the step behind him, he murmured in a low tone,
                         “My own Juliet, are you come at last? What a dark world this is without
                         you!”</p>
                     <p>Millicent stood transfixed, as one turned to stone. The voice, the words, the
@@ -4679,8 +4567,7 @@
                         first unguarded words had caused.</p>
                     <p>It was strange that among the various conflicting feelings which naturally
                         assailed him then, the man’s pride most predominated, and his main anxiety
-                        was to prove to her that he could never intend to be so dis‐<pb n="17"
-                            xml:id="VAB7184-018"/> honourable as to desert her;—first he said, “I
+                        was to prove to her that he could never intend to be so dis‐<pb n="17" xml:id="VAB7184-018"/> honourable as to desert her;—first he said, “I
                         thought you were Juliet, <emph>my</emph> pretty artist pupil,”—he laid an
                         emphasis on the word as if to convince her that it was in this sense only he
                         had called her <emph>his</emph>. Strange sophistry of this world’s ways! His
@@ -4693,8 +4580,7 @@
                         fixed; that he held Millicent bound to that period,—that he was longing for
                         the moment to arrive—yes, longing. He spoke truly when he said so, for the
                         terror was upon him, that if the delay were much longer, he should not have
-                        strength to accomplish the sacrifice. He did long, that it should be<pb
-                            n="18" xml:id="VAB7184-019"/> out of his power to fall from the high
+                        strength to accomplish the sacrifice. He did long, that it should be<pb n="18" xml:id="VAB7184-019"/> out of his power to fall from the high
                         standard of excellence he had set before himself. And Millicent, did she
                         believe him? There was a natural <emph>submissiveness</emph> in her mind to
                         his, which made her believe that all he said was true as highest truth,—all
@@ -4707,8 +4593,7 @@
                         from her the power of speech or of thought.</p>
                     <p>Mr. Egerton came in and reproached her loudly with keeping Colonel Bentley’s
                         horses waiting so long. Mechanically she turned to go,—it was impossible in
-                        her uncle’s presence that Aylmer should say more, but he<pb n="19"
-                            xml:id="VAB7184-020"/> held her hand for a moment, and looked earnestly
+                        her uncle’s presence that Aylmer should say more, but he<pb n="19" xml:id="VAB7184-020"/> held her hand for a moment, and looked earnestly
                         into her face, till he met the gentle, humble look of her large brown eyes,
                         which were so like those of a deer, earnest and mournful. She saw that he
                         expected an assurance in words, that she would do all he wished respecting
@@ -4790,8 +4675,7 @@
                     <p>Mrs. Hartley was appalled, but these wild words were significant enough, as a
                         vision rose up before her of the scene in which she had watched Aylmer and
                         Juliet together. She understood in a moment what was going on, but she felt
-                        convinced it was not yet too late. Only yesterday Aylmer had alluded<pb
-                            n="25" xml:id="VAB7184-026"/> to their marriage, Still the peril was
+                        convinced it was not yet too late. Only yesterday Aylmer had alluded<pb n="25" xml:id="VAB7184-026"/> to their marriage, Still the peril was
                         evidently great, and she must be prompt if she would save that guileless,
                         loving child—this artful coquette should not be allowed to break her
                         heart.</p>
@@ -4805,8 +4689,7 @@
                         placed on the sofa, struggling to overcome her emotion, and the old lady
                         went to find her brother. She wished to give him certain instructions before
                         Aylmer came, that afternoon; but she had rather a difficult part to play.
-                        She knew that, if she told him the truth, he<pb n="26" xml:id="VAB7184-027"
-                        /> would go off into a tempest of rage, and would, infallibly, throw his
+                        She knew that, if she told him the truth, he<pb n="26" xml:id="VAB7184-027"/> would go off into a tempest of rage, and would, infallibly, throw his
                         crutches at Juliet the moment she came into the room, accompanied by a few
                         home truths, of an unpalatable nature. The only way to manage Colonel
                         Bentley, at any time, was to treat him exactly like an ill‐behaved child, to
@@ -4862,8 +4745,7 @@
                         settlements, and that, in order to save you trouble in the arrangements, he
                         is not to come back till within two or three days of the marriage, when he
                         must bring down the license, and having said all this, you are not to rest
-                        till you see him off before this time to‐morrow, with a<pb n="30"
-                            xml:id="VAB7184-031"/> private letter from you to the lawyer, telling
+                        till you see him off before this time to‐morrow, with a<pb n="30" xml:id="VAB7184-031"/> private letter from you to the lawyer, telling
                         him to hurry the arrangements as much as he can. Will you do this?”</p>
                     <p>Colonel Bentley nodded his head solemnly, in token of complete acquiescence:
                         he seemed still too much bewildered to speak.</p>
@@ -4956,8 +4838,7 @@
                         right, and that he was quite ready to go. He felt that, intolerably painful
                         as the struggle would be, it was best, perhaps, since the effort must be
                         made, that he should at once break from the charm that held him as with
-                        chains of iron, and escape from Juliet’s presence, before it<pb n="37"
-                            xml:id="VAB7184-038"/> became impossible for him to resist even perjury
+                        chains of iron, and escape from Juliet’s presence, before it<pb n="37" xml:id="VAB7184-038"/> became impossible for him to resist even perjury
                         and dishonour for her sake.</p>
                     <p>Juliet had gained enough. She walked back at once to her mother, and urged
                         her to return home immediately, so as to leave no time for Aylmer to
@@ -4970,8 +4851,7 @@
                         snow, when she observed it.</p>
                     <p>“He is suffering,” she thought; “but how?—for what cause? oh! what shall I do
                         for him?” It made her sick at heart to think that one shade of sorrow was on
-                        his soul. She felt that she would not have sunk or even<pb n="38"
-                            xml:id="VAB7184-039"/> drooped, if she could have saved him from it by
+                        his soul. She felt that she would not have sunk or even<pb n="38" xml:id="VAB7184-039"/> drooped, if she could have saved him from it by
                         enduring herself a world’s weight of misery. But she knew not what to do:
                         she was bewildered. She could but go back again and again to his own words.
                         In what else was she to trust? She had a melancholy drive homewards. All her
@@ -5013,8 +4893,7 @@
                         from her cousin in Shropshire, which had passed for that of Mrs. Wilmot, at
                         Richmond, in the fire, and proceeded to write a few lines to Mrs. Wilmot
                         herself, saying that, if quite convenient to her, she should like to pay her
-                        long‐promised visit now, as she doubted whether she should be able to<pb
-                            n="41" xml:id="VAB7184-042"/> come to Richmond later, and at present she
+                        long‐promised visit now, as she doubted whether she should be able to<pb n="41" xml:id="VAB7184-042"/> come to Richmond later, and at present she
                         had some charming new music, which they might try over together, and many
                         interesting anecdotes from Milan to tell her. The letter was such as to
                         insure an invitation, and she even named the day, in the following week,
@@ -5113,8 +4992,7 @@
                         repose eternal, and there seems scarce energy to return again to the
                         life‐struggle; but with Stephen Aylmer this feeling had deepened almost to a
                         horror of the light of day, when the morning broke which was to take him
-                        from Rookcliffe, and terminate for ever that period<pb n="49"
-                            xml:id="VAB7184-050"/> of intense happiness, which seemed to him now the
+                        from Rookcliffe, and terminate for ever that period<pb n="49" xml:id="VAB7184-050"/> of intense happiness, which seemed to him now the
                         only hour of real sunshine his life had ever known. The struggles of his
                         soul in that dark night had been terrible: now it seemed to him impossible
                         to relinquish Juliet, the beautiful, the poetical Juliet, with her
@@ -5126,8 +5004,7 @@
                         feeling swelling and raging over it. Yes, to give her up, his living ideal,
                         his reality of love and joy, seemed a sacrifice beyond his strength; and yet
                         he felt it must be,—as we feel that we shall die,—that night shall follow
-                        day. It was still more impossible that Stephen Aylmer should be a per‐<pb
-                            n="50" xml:id="VAB7184-051"/> jured and dishonoured man,—a murderer, as
+                        day. It was still more impossible that Stephen Aylmer should be a per‐<pb n="50" xml:id="VAB7184-051"/> jured and dishonoured man,—a murderer, as
                         his aunt had said,—the unpitying assassin of the gentle and true‐hearted
                         being he had called and chosen from out of all the world, to come and nestle
                         by his side for ever, safe from life’s great peril in his sheltering love.
@@ -5180,8 +5057,7 @@
                         horse wander at will with lingering steps,—she scarce held the bridle,—it
                         hung relaxed from the fair hands clasped on her knee,—her head drooped on
                         her breast,—her whole attitude was expressive of a profound dejection, which
-                        was touching and <emph>graceful</emph> to the last degree.<pb n="54"
-                            xml:id="VAB7184-055"/> In another instant Aylmer had flung himself from
+                        was touching and <emph>graceful</emph> to the last degree.<pb n="54" xml:id="VAB7184-055"/> In another instant Aylmer had flung himself from
                         the carriage, and told them to drive on to a certain point, where he would
                         overtake them; they passed on, and he was at her side, his arm upon her
                         horse’s neck, alone with her for the last time. They walked slowly on; she
@@ -5208,8 +5084,7 @@
                         ages I have lived since then, to the bright time of hope when I believed you
                         were a heaven‐sent friend?”</p>
                     <p>“Yes, speak,—speak,—were it but that I may hear your voice, so long as its
-                        sweet harmony is permitted music to me; speak,<pb n="56"
-                            xml:id="VAB7184-057"/> that I may know all I might have possessed, all I
+                        sweet harmony is permitted music to me; speak,<pb n="56" xml:id="VAB7184-057"/> that I may know all I might have possessed, all I
                         might have been!”</p>
                     <p>Juliet lifted up her head, and looked on the landscape round her; she seemed
                         to throw off all consciousness of present events and cast herself back into
@@ -5235,8 +5110,7 @@
                         feet. One day, I went to an exhibition of pictures, most of them were by old
                         masters, some few by modern artists. I paused before a splendid painting,
                         which I believed, from its vigour, its rich colouring, its deep meaning and
-                        sublimity, to be the work of one who lived in ancient and more noble<pb
-                            n="58" xml:id="VAB7184-059"/> times: there was a soul breathing through
+                        sublimity, to be the work of one who lived in ancient and more noble<pb n="58" xml:id="VAB7184-059"/> times: there was a soul breathing through
                         that picture to which my own flew straight, as waters long pent up gush
                         forth to mingle with their kindred billows on the sea. I fell that he who
                         gave a shape, a form to the noble idea there embodied, could have understood
@@ -5248,8 +5122,7 @@
                         like to mine, as his was, shall surely not be found again.’ Aylmer, you will
                         think me mad to have spoken thus of one whom I knew only through the dim
                         faint medium of that glorious painting; but I tell you truth—for I have ever
-                        held that doctrine, ancient, I believe, as is the earth<pb n="59"
-                            xml:id="VAB7184-060"/> itself, and universal among many nations, that
+                        held that doctrine, ancient, I believe, as is the earth<pb n="59" xml:id="VAB7184-060"/> itself, and universal among many nations, that
                         for every soul which comes into this world, another is found to be its
                         companion and twin sister as it were, and except they meet while dwelling
                         here, the same weary vacancy possesses both for ever. I say this old faith I
@@ -5261,10 +5134,8 @@
                         side, and as I gazed upon the picture, I stretched out my arm to it, and I
                         said—‘Would that I could step back over the ages that have passed away since
                         the hand that traced those lines has mouldered into ashes! Then would I take
-                        it in my own and sit down at his feet, and give to him my heart and<pb
-                            n="60" xml:id="VAB7184-061"/> soul. Then the Marchesa laughed out and
-                        said (I remember every syllable), ‘You need not go so far, <foreign
-                            xml:lang="ita">Giulietta bella</foreign>, for if you will walk with me
+                        it in my own and sit down at his feet, and give to him my heart and<pb n="60" xml:id="VAB7184-061"/> soul. Then the Marchesa laughed out and
+                        said (I remember every syllable), ‘You need not go so far, <foreign xml:lang="ita">Giulietta bella</foreign>, for if you will walk with me
                         now across the Piazzo, you may take that artist’s hand and sit down at his
                         feet, and give to him your heart and soul. He is a living and a breathing
                         man.’ When I heard that, Aylmer, I thought no more of myself, but only of
@@ -5281,8 +5152,7 @@
                         great talent; and how one more than all others, closely veiled, presented to
                         you the laurel wreath which the old Italian custom awards as the mark of
                         highest honour; and how it was by her lips and in her words that you were
-                        thanked for having made so gorgeous an offering to the <foreign
-                            xml:lang="ita">belli arti</foreign>.”</p>
+                        thanked for having made so gorgeous an offering to the <foreign xml:lang="ita">belli arti</foreign>.”</p>
                     <p>“And it was your voice I then heard?” exclaimed Aylmer; “it was your words
                         that sounded to me, then, the sweetest I had ever listened to! I understand
                         it all.”</p>
@@ -5316,8 +5186,7 @@
                         all the error now; but, then, it was my darling vision. Listen—I heard of
                         you, that you adored the Beautiful, in whatsoever shape it appeared before
                         you; and I knew my face was fair, I knew that nature had so willed to clothe
-                        my soul in a garment pleasing to the eye, that if you saw<pb n="64"
-                            xml:id="VAB7184-065"/> me it would be my outward appearance which would
+                        my soul in a garment pleasing to the eye, that if you saw<pb n="64" xml:id="VAB7184-065"/> me it would be my outward appearance which would
                         draw you to me—but, Aylmer, it was your mind and spirit, as recorded in your
                         paintings, which had bowed my whole being to your influence, and that which
                         I felt for you, as one noble in intellect, great in mental power and energy,
@@ -5373,8 +5242,7 @@
                         had allayed every doubt, chased away every shadow; in her beautiful trust
                         she received from them the full assurance they were meant to convey, and the
                         storm of terror and anxiety through which she had passed served but to
-                        deepen, if aught could deepen, the intensity of her affection for him.<pb
-                            n="69" xml:id="VAB7184-070"/> All that her soul desired was centered in
+                        deepen, if aught could deepen, the intensity of her affection for him.<pb n="69" xml:id="VAB7184-070"/> All that her soul desired was centered in
                         the assurance of his. For she still believed that the spirit’s rest on earth
                         is in the love of one beloved, and nothing doubting that this joy was hers,
                         the measure of her contentment was complete.</p>
@@ -5386,8 +5254,7 @@
                         which is appointed to draw him out of the snare which his own deceived heart
                         sets for him in this world. She had learnt that when human souls are so
                         allured by the green and smiling earth as to lie down there amongst its
-                        flowers, instead of seeking to struggle up the steep and narrow path that<pb
-                            n="70" xml:id="VAB7184-071"/> leads to our own home, then straightway is
+                        flowers, instead of seeking to struggle up the steep and narrow path that<pb n="70" xml:id="VAB7184-071"/> leads to our own home, then straightway is
                         misery sent to drag them through fire and water—the fire of tribulation and
                         the deep waters of sorrow—on to the Paradise above.</p>
                     <p>She saw that Millicent was resting now so utterly in this world’s good,—its
@@ -5534,8 +5401,7 @@
                         if utterly unconscious of where he was, or what he was doing,—no greeting
                         passed his lips,—one thought and feeling only appeared to absorb him. His
                         eyes had fastened upon the drooping figure that lay there on the sofa, the
-                        waving hair trailing to the ground, and the convulsive move‐<pb n="81"
-                            xml:id="VAB7184-082"/> ments telling how the heart within was heaving up
+                        waving hair trailing to the ground, and the convulsive move‐<pb n="81" xml:id="VAB7184-082"/> ments telling how the heart within was heaving up
                         the aching breast.</p>
                     <p>Mr. and Mrs. Egerton came forward, and welcomed him; he gave his hand
                         mechanically,—his lips moved, but he spoke not, nor had he power seemingly
@@ -5723,8 +5589,7 @@
                         one who has ever destroyed the happiness of another!—and are the sea sands
                         more innumerable?</p>
                     <p>Had the dark earthly passion that twined, even as a clinging serpent, round
-                        his soul, so enveloped that immortal being in<pb n="95" xml:id="VAB7184-096"
-                        /> its deadly coils, that he could be no longer sensible of those holier
+                        his soul, so enveloped that immortal being in<pb n="95" xml:id="VAB7184-096"/> its deadly coils, that he could be no longer sensible of those holier
                         influences that fail not, in every time of strong temptation, to come as a
                         merciful waning in some one shape or other?</p>
                     <p>Hark! even now that voice from heaven speaks, which, though varied its tone,
@@ -5748,8 +5613,7 @@
                         Eden’s gate.</p>
                     <p>All, all was darkness now—earthly ambition, evil passions, love idolatrous,
                         like foul mists, had arisen to spread in blackness through his spirit, and
-                        chase away the beams from the eternal sun; but still the<pb n="97"
-                            xml:id="VAB7184-098"/> memory of his early faith and innocence,—that,
+                        chase away the beams from the eternal sun; but still the<pb n="97" xml:id="VAB7184-098"/> memory of his early faith and innocence,—that,
                         with the whispering music came,—reflected, as it were, a shadowy gleam upon
                         his present crime, till he was staggered at the sight of it.</p>
                     <p>He passed his shaking hand across his forehead,—one moment he must pause,
@@ -5949,8 +5813,7 @@
                     <p>But in this shattered life did any good remain? In this most thick darkness
                         was there a ray at least of light reflected? Yes, existence had yet one good
                         within its limit, and through the deep gloom one beam yet strayed,—far off
-                        from her, and powerless to warm her poor, chilled heart, as the fair<pb
-                            n="113" xml:id="VAB7184-114"/> star that shines, unconscious of our
+                        from her, and powerless to warm her poor, chilled heart, as the fair<pb n="113" xml:id="VAB7184-114"/> star that shines, unconscious of our
                         being, in the distant heavens; but still, because the last remaining
                         treasure earth could have, she must devote herself unto it, as we are
                         devoted to our life‐hope, be it what it may. It was his happiness,—this sole
@@ -5989,8 +5852,7 @@
                         happiness; and if he chose that, not by the love and tenderness of this
                         life, but by its utter sacrifice and misery, the work should be
                         performed—she was content to serve him according to his own desire.</p>
-                    <p>One thing only she deeply felt was needful for herself—the whole must be<pb
-                            n="116" xml:id="VAB7184-117"/> accomplished quickly—the strength that
+                    <p>One thing only she deeply felt was needful for herself—the whole must be<pb n="116" xml:id="VAB7184-117"/> accomplished quickly—the strength that
                         was within her would not long abide. She was resolute—she had nerved herself
                         to the torture—she had set before her, his good, as the one thing to be
                         effected, and with serene, untroubled aspect she <emph>must</emph> effect
@@ -6030,8 +5892,7 @@
                         dead. White it was, and rigid as theirs, fixed in the same indomitable calm;
                         for even as they feel no more, so had she killed, within herself, the power
                         of feeling, till this task should be accomplished. In her breast, however,
-                        the viper only slept: soon would it rise to sting her to the heart<pb
-                            n="119" xml:id="VAB7184-120"/> with redoubled vigour—but in theirs it
+                        the viper only slept: soon would it rise to sting her to the heart<pb n="119" xml:id="VAB7184-120"/> with redoubled vigour—but in theirs it
                         should have no venom. She had laid her strong resolution, as it were, like a
                         great stone on the fountain of her tears,—and there was not one now in those
                         eyes,—although not more wildly, darkly mournful is the wintry heaven, than
@@ -6056,8 +5917,7 @@
                         knees shook under her, so that she could not stand. Then the white lips
                         parted, and she began to speak. Her plan was to conduct this matter as
                         though she were herself the aggressor, in order by so doing to save him from
-                        the faintest shadow of remorse or regret on her<pb n="121"
-                            xml:id="VAB7184-122"/> account. She would further assure his immediate
+                        the faintest shadow of remorse or regret on her<pb n="121" xml:id="VAB7184-122"/> account. She would further assure his immediate
                         union with Juliet, by speaking as though she herself desired to see her
                         cousin taken to be a substitute in her place, because she was conscious of
                         her own defection, in abandoning her post as guardian of his happiness.</p>
@@ -6069,8 +5929,7 @@
                         dissimulation with which it must be accomplished.</p>
                     <p>But her soul was blinded, because it had been unlawfully delivered up to the
                         human adoration. There can be no pure worship except it be offered to the
-                        Alone Good. She knew that in utter singleness of desire her<pb n="122"
-                            xml:id="VAB7184-123"/> sole object now, was Aylmer’s happiness, and she
+                        Alone Good. She knew that in utter singleness of desire her<pb n="122" xml:id="VAB7184-123"/> sole object now, was Aylmer’s happiness, and she
                         believed that through any means she must perform her vocation by securing
                         it, She spoke,—the womanly pride which no suffering, no humiliation can ever
                         eradicate, gave firmness to her voice.</p>
@@ -6109,8 +5968,7 @@
                         possible that Millicent had never really loved him. He could not conceive
                         the possibility of such generosity, as she was in real fact displaying, and
                         the man’s vanity was actually piqued. Juliet had of late striven earnestly
-                        to convince him, that Millicent was by no means in‐<pb n="125"
-                            xml:id="VAB7184-126"/> different to Arthur, whose affection for her was
+                        to convince him, that Millicent was by no means in‐<pb n="125" xml:id="VAB7184-126"/> different to Arthur, whose affection for her was
                         evident to all, and she had done this none the less eloquently, that she
                         well knew how absolutely false it was. Aylmer remembering the past, could
                         not believe it; but now it seemed to him as though it must certainly be as
@@ -6254,8 +6112,7 @@
                         he was free from a detested bondage.</p>
                     <p>Oh! how this thought stung her to the quick; it roused her into action! She
                         must up and complete the work that yet remained; she must toil on, on,
-                        unceasing, till her task was accomplished; she felt<pb n="136"
-                            xml:id="VAB7184-137"/> as though a strong power was goading her to that
+                        unceasing, till her task was accomplished; she felt<pb n="136" xml:id="VAB7184-137"/> as though a strong power was goading her to that
                         labour, till his entire happiness was secured, and not a thorn lay in his
                         path.</p>
                     <p>She rose, and went at once to Mr. and Mrs. Egerton; her task with them was
@@ -6338,8 +6195,7 @@
                         only now remembered, that she had known the truth long since, and that she
                         would appreciate to the uttermost all Millicent had done and suffered.</p>
                     <p>The good old lady sat reading by the window. Millicent gently crept towards
-                        her and knelt down before her. One look passed<pb n="142"
-                            xml:id="VAB7184-143"/> between them, and Mrs. Hartley read all that had
+                        her and knelt down before her. One look passed<pb n="142" xml:id="VAB7184-143"/> between them, and Mrs. Hartley read all that had
                         taken place, in the expression of intolerable anguish which that sweet young
                         face now bore; then Millicent laid her head upon her kind friend’s lap, and
                         said, in a low, suffocated voice:—</p>
@@ -6445,8 +6301,7 @@
                         breast and wept.</p>
                     <p>There was no further delay, Colonel Bentley wrote the letter to his nephew
                         instantly; it was dictated by Millicent herself, and it breathed only love
-                        and kindness, and the promise that all should be done to<pb n="150"
-                            xml:id="VAB7184-151"/> ensure his happiness. With her own hands she
+                        and kindness, and the promise that all should be done to<pb n="150" xml:id="VAB7184-151"/> ensure his happiness. With her own hands she
                         carried it to the messenger who was to convey it to Rookcliffe, and when all
                         was thus completed—terminated for ever—she allowed Mrs. Hartley to lay her
                         down and compose her limbs in the attitude of repose; there she became in
@@ -6458,8 +6313,7 @@
                         Hartley, that great as had been her strength for endurance hitherto, she
                         felt now there was a limit, beyond which the power of submission unto
                         suffering could not go. To see again the faces of those who had been around
-                        her in her days of deep joy—to risk the mention<pb n="151"
-                            xml:id="VAB7184-152"/> of his name, whose image was eating like canker
+                        her in her days of deep joy—to risk the mention<pb n="151" xml:id="VAB7184-152"/> of his name, whose image was eating like canker
                         into her soul was, she said, beyond the human nature to endure. She had
                         decided on going to London that very day, and hence sailing for Aix as soon
                         as might be.</p>
@@ -6472,8 +6326,7 @@
                     <p>As Mrs. Hartley anticipated, the family at Rookcliffe were greatly relieved
                         at having her, who was in truth their victim, removed from before their eyes
                         thus happily; and as Millicent came of age during her stay in London, all
-                        necessary arrangements were there made with the lawyers, to<pb n="152"
-                            xml:id="VAB7184-153"/> terminate Mr. Egerton’s guardianship, and leave
+                        necessary arrangements were there made with the lawyers, to<pb n="152" xml:id="VAB7184-153"/> terminate Mr. Egerton’s guardianship, and leave
                         her to act as she pleased, and to reside where she would.</p>
                     <p>From the moment of her departure all seemed to prosper according to their
                         wishes. Aylmer, with the full consent of his uncle, hurried the preparations
@@ -6498,8 +6351,7 @@
                         surely, the barren blighted soil where it had grown, was all the more fit to
                         gather in new seed to blossom forth with happier affections.</p>
                     <p>This was his hope; and swift as those of Millicent Grey herself, the feet of
-                        Arthur Egerton were on the shores of France, but<pb n="154"
-                            xml:id="VAB7184-155"/> unseen, unknown to her, gliding stealthily after
+                        Arthur Egerton were on the shores of France, but<pb n="154" xml:id="VAB7184-155"/> unseen, unknown to her, gliding stealthily after
                         her, to make his abode in secret near her dwelling, and there to wait his
                         time; for deep selfishness makes a man most wise in his craftiness.</p>
                 </div>
@@ -6524,8 +6376,7 @@
                         even as thy whole life; still hast thou sat there with thy head, now grey
                         with age, bent down upon thy bosom, while round thee have been the clinging
                         arms of that adored corpse, the dead eyes gazing on thy living face; the
-                        heart where feed the graveworms beating against thy burning breast.<pb
-                            n="157" xml:id="VAB7184-158"/> Alas! old man, it is an awful meeting,
+                        heart where feed the graveworms beating against thy burning breast.<pb n="157" xml:id="VAB7184-158"/> Alas! old man, it is an awful meeting,
                         surely, that is preparing for thee with that dead idol in the life to come,
                         where already she has known full well the eternity, which haply thou hast
                         lost for her!</p>
@@ -6630,8 +6481,7 @@
                         Millicent Grey and Stephen Aylmer. On the selfsame evening, at the self‐same
                         hour, that through the clear blue air of sweet Provence, that deep,
                         heart‐breaking sigh went up, Stephen Aylmer walked with her, for whom he had
-                        committed murder on the life‐hope of a fellow mortal. In the fair<pb n="165"
-                            xml:id="VAB7184-166"/> woods of Rookcliffe they stood, in the very path
+                        committed murder on the life‐hope of a fellow mortal. In the fair<pb n="165" xml:id="VAB7184-166"/> woods of Rookcliffe they stood, in the very path
                         where he had stood with Millicent, on the night which she was now
                         remembering in her agony,—and he, like her, remembered it; but only that in
                         the recollection he might triumph with an unholy joy over the violent
@@ -6643,8 +6493,7 @@
                         the radiant bride he had so dearly won, made him linger with a most cruel
                         pleasure on the contrast of that day and this.</p>
                     <p>Beautiful as she was at all times, Juliet sought on this night to appear so
-                        to him surpassingly; she so gloried in her own<pb n="166"
-                            xml:id="VAB7184-167"/> loveliness that she was never weary of continual
+                        to him surpassingly; she so gloried in her own<pb n="166" xml:id="VAB7184-167"/> loveliness that she was never weary of continual
                         efforts to attract renewed admiration; more especially was she desirous at
                         all times to win Aylmer’s look of enthusiastic love,—not because her own
                         affection yearned for such an answer, but because she delighted to satisfy
@@ -6657,8 +6506,7 @@
                         would his heart have revolted from her, if he had known that her gaiety
                         resulted from the delight, with which she anticipated going forth into the
                         world with a free independence, under the sanction of his name, to gain the
-                        admiration of all whom her unholy soul might seek to<pb n="167"
-                            xml:id="VAB7184-168"/> fascinate, and allow the fair face on which no
+                        admiration of all whom her unholy soul might seek to<pb n="167" xml:id="VAB7184-168"/> fascinate, and allow the fair face on which no
                         eyes but a husband’s should have looked with joy, to be profaned by many an
                         approving glance from others. She was ever most charming in her graceful
                         vivacity, and with delight he watched her fitful movements now, each one
@@ -6685,8 +6533,7 @@
                         speedily as might be, she answered him with a bright smile of daring, and
                         springing from his grasp, darted on to a small hillock, which rose in a most
                         exposed situation in the centre of the park; her swift feet brought her in
-                        an instant to the summit, where neither tree nor shrub were to be seen;<pb
-                            n="169" xml:id="VAB7184-170"/> and there she stood, her graceful figure
+                        an instant to the summit, where neither tree nor shrub were to be seen;<pb n="169" xml:id="VAB7184-170"/> and there she stood, her graceful figure
                         coming out in strong relief, with its white robes against the dark lurid
                         sky, the fierce wind wantoning with her hair till it drove it, like a stream
                         of golden sunshine, over her face, and her deep, dark eyes, lit up now with
@@ -6699,8 +6546,7 @@
                     <p>“Take heed, <foreign xml:lang="fre">preux chevalier</foreign>, of your fame
                         as a brave knight; why stand you there gazing, when I have passed through
                         the storm, and believed you would follow me? Do you fear this great battle
-                        of heaven, where the lightnings are flashing<pb n="170" xml:id="VAB7184-171"
-                        /> like swords? Oh, shame on the man’s failing heart, when the woman herself
+                        of heaven, where the lightnings are flashing<pb n="170" xml:id="VAB7184-171"/> like swords? Oh, shame on the man’s failing heart, when the woman herself
                         is undaunted!”</p>
                     <p>He answered the merry taunt with a smile as gay, and then bounded forth
                         through the tempest, to fly to her. She saw him coming in the strength of
@@ -6738,8 +6584,7 @@
                     <p>She had a horror of death, a horror of suffering, a horror of all which could
                         render life, to her eyes, other than a bright vision of triumph. To
                             <emph>enjoy</emph> all the world can give, with an intensity of
-                        selfishness, was her aim and her principle, her hope and her faith;<pb
-                            n="173" xml:id="VAB7184-174"/> whatever aided this plan of existence was
+                        selfishness, was her aim and her principle, her hope and her faith;<pb n="173" xml:id="VAB7184-174"/> whatever aided this plan of existence was
                         sought for and cherished,—whatever marred or destroyed it was hated and
                         abandoned;—whilst Aylmer could assist her in attaining her object, she
                         trampled all under foot to bind him to her. But now, when by this awful
@@ -6764,8 +6609,7 @@
                         nephew. Mrs. Egerton, too, was ever at his side; but Juliet declared that
                         her delicate frame could not endure such fatigue and anxiety; she retired to
                         her own suite of rooms, and there surrounded herself with everything bright
-                        and pleasant, that could shut out all thought of the horrid scenes else‐<pb
-                            n="175" xml:id="VAB7184-176"/> where enacted in the house. She was but
+                        and pleasant, that could shut out all thought of the horrid scenes else‐<pb n="175" xml:id="VAB7184-176"/> where enacted in the house. She was but
                         waiting for the medical decision, to know whether this stricken man could
                         ever more be made available for the purposes of her life.</p>
                     <p>After a time, the fiat of the physicians was definitely given; Stephen Aylmer
@@ -6791,8 +6635,7 @@
                         seek for other instruments to effect her enjoyment in this life; and into
                         the presence of him, now powerless to serve her, she never more would
                         come.</p>
-                    <p>So she went into the darkened room where he lay, and with no gentle hand<pb
-                            n="177" xml:id="VAB7184-178"/> drew back the curtain from the window,
+                    <p>So she went into the darkened room where he lay, and with no gentle hand<pb n="177" xml:id="VAB7184-178"/> drew back the curtain from the window,
                         that she might the better scan his countenance. We have described the
                         revolting spectacle that wretched man presented, for truly he was but a
                         living soul, linked to a mass of powerless clay; she looked on him, and over
@@ -6825,8 +6668,7 @@
                         that he was fully aware both of his irrevocable blindness and of his
                         melancholy paralysis; therefore, she knew he would understand her, and she
                         thought it best he should know the truth of Juliet’s desertion at once. The
-                        tone of agonizing anxiety in which he uttered that name,<pb n="180"
-                            xml:id="VAB7184-181"/> showed that he well knew what he had to fear; her
+                        tone of agonizing anxiety in which he uttered that name,<pb n="180" xml:id="VAB7184-181"/> showed that he well knew what he had to fear; her
                         answer was to bend down over him and whisper, “Heaven have mercy upon you,
                         and give you strength to endure the life which has been restored to
                         you.”</p>
@@ -6866,8 +6708,7 @@
                         his heart like fire, and with the strong fierce ungovernable love which had
                         made him in his pride of strength and beauty, perjured and well nigh a
                         murderer, still as deep and as wildly resistless,—only that the hope so near
-                        a reality, of its entire blessedness in her con‐<pb n="183"
-                            xml:id="VAB7184-184"/> tinual presence had been torn away from him, like
+                        a reality, of its entire blessedness in her con‐<pb n="183" xml:id="VAB7184-184"/> tinual presence had been torn away from him, like
                         the rending of the very life from his body. There remained nothing now but
                         the maddening certainty that he might with unabated affection yearn and pine
                         for her, as a mother over a slaughtered child; but that more readily the
@@ -6879,8 +6720,7 @@
                         chained in some prison, fathoms deep within the earth; but its influence was
                         strong as ever, and whilst he lay powerless and like some senseless clod—the
                         ardent, earthly love—the burning ambition—ambition alike of joy and fame,
-                        were trampling down his very soul with their mad impatient<pb n="184"
-                            xml:id="VAB7184-185"/> struggling for release. He knew well, however,
+                        were trampling down his very soul with their mad impatient<pb n="184" xml:id="VAB7184-185"/> struggling for release. He knew well, however,
                         the utter hopelessness of his condition, and it was despair which bound him
                         in that frightful changeless lethargy.</p>
                     <p>Thus the days passed on for Stephen Aylmer, once as proud and noble a
@@ -6905,8 +6745,7 @@
                         exertion greater than that of being wheeled in his chair from room to room.
                         It was during this period, however, that the events occurred which must now
                         be recorded.</p>
-                    <p>The dwelling in which Mrs. Hartley fixed their abode was a solitary <foreign
-                            xml:lang="fre">châlet</foreign>, half hidden among the rocks and pine
+                    <p>The dwelling in which Mrs. Hartley fixed their abode was a solitary <foreign xml:lang="fre">châlet</foreign>, half hidden among the rocks and pine
                         trees of lofty Swiss mountains; the baths were close at hand, but at that
                         season, fortunately for<pb n="186" xml:id="VAB7184-187"/> Aylmer, the place
                         was entirely deserted, and the solitude as complete as even his despairing
@@ -6935,8 +6774,7 @@
                     <p>Mrs. Hartley would not venture to interfere by word or act in the development
                         of their destiny; she conceived it to be her part merely to sit by a silent
                         spectator,—ready, if ever human agents seemed necessary, to step in and
-                        befriend them both. This much of active duty only she believed<pb n="188"
-                            xml:id="VAB7184-189"/> was hers in the matter, to take care that
+                        befriend them both. This much of active duty only she believed<pb n="188" xml:id="VAB7184-189"/> was hers in the matter, to take care that
                         Millicent should be apprised of all the truth, and then she would leave her
                         to act as she might be led by mysterious influences, too subtle for her
                         human eyes to discern.</p>
@@ -6974,8 +6812,7 @@
                         she could lift up her loving eyes, upon the dear face, for which she now
                         pined, as one in utter darkness pants for a ray of light; but after a time
                         she found that when the mind is intensely absorbed by one great agony of
-                        thought, no outward circumstances can much affect it. She saw that it was<pb
-                            n="191" xml:id="VAB7184-192"/> as life to Arthur Egerton to be with her,
+                        thought, no outward circumstances can much affect it. She saw that it was<pb n="191" xml:id="VAB7184-192"/> as life to Arthur Egerton to be with her,
                         and her sweet, gentle nature was not changed; she was willing and glad to
                         give him, what she felt was but the poor joy of living in her presence, for
                         she never imagined one single instant, that he could suppose it possible for
@@ -7014,8 +6851,7 @@
                         yet from despair, because Millicent gradually manifested some pleasure in
                         his society. She did not hide from him, but that was merely because she
                         found a melancholy enjoyment in talking with him of the days of her departed
-                        happiness; it seemed to prove to her that all was not a dream,—to<pb n="194"
-                            xml:id="VAB7184-195"/> convince her of what, in her extremity of
+                        happiness; it seemed to prove to her that all was not a dream,—to<pb n="194" xml:id="VAB7184-195"/> convince her of what, in her extremity of
                         wretchedness, she almost doubted, even that joy <emph>did</emph> exist in
                         the world, and had existed for herself; but still, though he knew this was
                         the feeling, which made a faint light steal into those sweet dim eyes when
@@ -7028,8 +6864,7 @@
                         period of his existence,—for she was his alone, at least, to look upon;
                             <emph>he</emph> only heard her voice, <emph>he</emph> only gazed upon
                         her face, none shared with him the air she breathed,—he could close the eyes
-                        of his memory, as it were, and believe for a moment that her<pb n="195"
-                            xml:id="VAB7184-196"/> inward love was his alone, as fully as her
+                        of his memory, as it were, and believe for a moment that her<pb n="195" xml:id="VAB7184-196"/> inward love was his alone, as fully as her
                         outward presence. And then it was to him, ineffable delight, to gloat over
                         the fact in which he implicitly believed—that Stephen Aylmer was long since
                         the husband of his sister Juliet; he had no reason to suppose the contrary,
@@ -7041,8 +6876,7 @@
                         been these many months, it was the singular silence which all her English
                         friends had so long preserved;—she little dreamed their motive!</p>
                     <p>She believed that they had abstained from writing out of tenderness to
-                        herself, because they must have communicated the<pb n="196"
-                            xml:id="VAB7184-197"/> fact of Stephen’s marriage. Mrs. Hartley,
+                        herself, because they must have communicated the<pb n="196" xml:id="VAB7184-197"/> fact of Stephen’s marriage. Mrs. Hartley,
                         especially, who, at first, had been her regular correspondent, she could
                         well imagine had lost the courage, to write her the details of that which
                         was her life’s calamity; yet she felt that if this was their motive, it was
@@ -7054,8 +6888,7 @@
                         and her mournful recompense granted unto her?</p>
                     <p>Poor little Nanette, who had been utterly bewildered by all that occurred in
                         England, the whole proceedings being most incomprehensible to her, had,
-                        after a vain attempt to discover who it was she ought to hate for Mil‐<pb
-                            n="197" xml:id="VAB7184-198"/> licent’s sake, decided on remaining
+                        after a vain attempt to discover who it was she ought to hate for Mil‐<pb n="197" xml:id="VAB7184-198"/> licent’s sake, decided on remaining
                         enraged with the whole world, except Père André,—because some one, she did
                         not know who, had somehow, she could not tell why, made her darling
                         miserable! but most of all she was furious at finding Millicent again
@@ -7184,8 +7017,7 @@
                         most glorious, the mingling of many tones ever chanting the same burden, the
                         great mystery of love. What aching heart ever heard it and refused comfort?
                         None who understand the language it speaks; but there are some who do not,
-                        and Stephen Aylmer was one! The melody with which it sung to‐day, was the<pb
-                            n="207" xml:id="VAB7184-208"/> rushing sound of the wind in the
+                        and Stephen Aylmer was one! The melody with which it sung to‐day, was the<pb n="207" xml:id="VAB7184-208"/> rushing sound of the wind in the
                         pine‐grove, and the far off echo of falling waters. So soft, so soothing,
                         one would have thought it must have stolen into his charmed soul and wakened
                         him from that frightful lethargy; but the soul <emph>was</emph> awake for
@@ -7197,8 +7029,7 @@
                         earthly joys offered to him by the noblest and fairest.</p>
                     <p>He lay in the position which he seldom changed, on a sofa drawn close to the
                         window; the face scarred and seared by the scorching of heaven’s own fire,
-                        to that heaven was upturned in sullen despair; the<pb n="208"
-                            xml:id="VAB7184-209"/> darkened eyes closed—the lips indomitably sealed;
+                        to that heaven was upturned in sullen despair; the<pb n="208" xml:id="VAB7184-209"/> darkened eyes closed—the lips indomitably sealed;
                         the hands into which the power of movement was beginning to return, laid
                         motionless on his breast.</p>
                     <p>It was thus that he remained day after day, taking no heed of any,
@@ -7213,8 +7044,7 @@
                         <l>“Would to heaven I had died!”</l>
                     </quote>
                     <p>Mrs. Hartley sat by his side; and often the work which occupied her fell from
-                        her hands whilst she lifted up her eyes to look<pb n="209"
-                            xml:id="VAB7184-210"/> on that melancholy picture, and wonder if ever
+                        her hands whilst she lifted up her eyes to look<pb n="209" xml:id="VAB7184-210"/> on that melancholy picture, and wonder if ever
                         those pale stern lips, closed over such tortures, would open to reveal them
                         again; and then in her beautiful patience of faith she would resume her
                         employment, feeling sure that the strange dark history was not yet over, the
@@ -7226,8 +7056,7 @@
                         open: what she heard was the echo of a faint footfall, with a sort of
                         fluttering sound, and the whisper of a soft, sobbing breath.</p>
                     <p>The impression it gave her was as though some poor dove, with throbbing
-                        breast and failing wing, had come wandering in, and<pb n="210"
-                            xml:id="VAB7184-211"/> was expiring there,—but her own heart’s sympathy
+                        breast and failing wing, had come wandering in, and<pb n="210" xml:id="VAB7184-211"/> was expiring there,—but her own heart’s sympathy
                         told her what it really was. She rose and passed into the other room, where
                         she found, as she expected, poor Millicent Grey leaning against the wall
                         with a face white as marble, and hands icy cold, faint, and opprest, almost
@@ -7307,8 +7136,7 @@
                         was not aware of her presence, so did Millicent Grey now desire to see him.
                         The one had so willed it, that in her cold, calculating selfishness, which
                         seemed to belie the very woman’s nature belonging to her, she might
-                        ascertain the incapacity of Aylmer to serve her any further, and then<pb
-                            n="216" xml:id="VAB7184-217"/> desert him for ever; the other cherished
+                        ascertain the incapacity of Aylmer to serve her any further, and then<pb n="216" xml:id="VAB7184-217"/> desert him for ever; the other cherished
                         this wish solely that no one, not even himself, might be aware of the lowly
                         loving homage she pined to render unto one, now sacred in her eyes by
                         suffering.</p>
@@ -7348,8 +7176,7 @@
                         as Mrs. Hartley’s advanced age rendered her incapable of performing it,
                         Millicent was the more anxious to ascertain that she might so do without
                         risk of his discovering her. At the first sound of her voice he started
-                        violently, but the very sight of this emotion<pb n="219"
-                            xml:id="VAB7184-220"/> on his part, only made herself the more agitated,
+                        violently, but the very sight of this emotion<pb n="219" xml:id="VAB7184-220"/> on his part, only made herself the more agitated,
                         and in the low, indistinct tones with which she continued to read, it did
                         indeed seem impossible that he should recognise the sweet, clear voice with
                         which of old she used to greet him. It was evident that he did become
@@ -7373,8 +7200,7 @@
                     <p>No words can ever tell the intense joy all this was to Millicent Grey; it was
                         greater even, perhaps, than in the days when she had been his prosperous
                         bride, for then she had not felt that wearing sorrow which so enhances a
-                        return of happiness; and now, too, she felt that the joy, mournful as it<pb
-                            n="221" xml:id="VAB7184-222"/> would have seemed to any other, which she
+                        return of happiness; and now, too, she felt that the joy, mournful as it<pb n="221" xml:id="VAB7184-222"/> would have seemed to any other, which she
                         experienced in ministering to him in his helpless state, was far more secure
                         than the rapturous delight of brighter times, for the frightful infirmities
                         which had cut him off from his former friends, and from the very world
@@ -7439,8 +7265,7 @@
                         whilst the man who had crushed her with his base desertion, who even now,
                         perhaps, loved another but too fondly, was to receive unknowing the
                         outpouring of her whole soul’s deep tenderness, the offering of her very
-                        life! Stephen Aylmer and he were more than equals now,<pb n="226"
-                            xml:id="VAB7184-227"/> infinitely more frightful than his repulsive
+                        life! Stephen Aylmer and he were more than equals now,<pb n="226" xml:id="VAB7184-227"/> infinitely more frightful than his repulsive
                         countenance or ungainly figure was the poor crippled man’s appearance. And
                         the deadly hate that swelled up in Arthur’s heart towards Aylmer, had a
                         terrible power in goading him to a recklessness of evil, which a short time
@@ -7458,8 +7283,7 @@
                         had parted the evening before, after a conversation which had filled her
                         with mingled terror and hope. His health and spirits had continued to
                         improve manifestly, under the influence of her presence, and not of her
-                        presence only, but of some secret and sweet belief connected with<pb n="228"
-                            xml:id="VAB7184-229"/> her; he could not have failed to discern from the
+                        presence only, but of some secret and sweet belief connected with<pb n="228" xml:id="VAB7184-229"/> her; he could not have failed to discern from the
                         first moment of her attendance on him, that hers was a service of love, and
                         it was very plain that he had not only pondered much, from <emph>whom</emph>
                         such a devotion of affection could have come, but that he had arrived at a
@@ -7471,8 +7295,7 @@
                     <p>The night before he began to talk to her of Rookcliffe, and she saw by the
                         manner in which he turned his head towards her, and the eager, watchful
                         expression of his face, that he had chosen this subject solely in order to
-                        discover by the tone of her answer, whether it caused her any agitation;<pb
-                            n="229" xml:id="VAB7184-230"/> he had reason to be abundantly satisfied,
+                        discover by the tone of her answer, whether it caused her any agitation;<pb n="229" xml:id="VAB7184-230"/> he had reason to be abundantly satisfied,
                         for her voice shook, so that she could scarcely speak, and he almost felt in
                         the vibrating air the trembling of her frame as she stood beside him.</p>
                     <p>A sudden terror had taken possession of her—she saw that he was about to
@@ -7538,8 +7361,7 @@
                         me on this earth.”</p>
                     <p>“So very sweet that hope, I could not bear to change it even for a more
                         blessed assurance—but I have lived in your presence, happy,—as in the days
-                        of light and joy—feeling that hour by hour, with your<pb n="234"
-                            xml:id="VAB7184-235"/> most tender care and most devoted watchfulness,
+                        of light and joy—feeling that hour by hour, with your<pb n="234" xml:id="VAB7184-235"/> most tender care and most devoted watchfulness,
                         you were twining yourself around my heart with a power which you never
                         possessed, even when I could claim you as my promised bride. Dearer grew
                         life, yes, even to the blind cripple how intensely dear! Fender, holier,
@@ -7619,8 +7441,7 @@
                         desire, which had been the abiding principle of her existence, since first
                         she had looked on Stephen Aylmer—the desire for his happiness—this arose
                         predominant over all‐his words rung in her ears,—he would not live to endure
-                        the misery of knowing he had been mistaken. She compared this with his<pb
-                            n="240" xml:id="VAB7184-241"/> glad outpouring of joy a few minutes
+                        the misery of knowing he had been mistaken. She compared this with his<pb n="240" xml:id="VAB7184-241"/> glad outpouring of joy a few minutes
                         before. He <emph>had</emph> been happy—how happy in the belief that she was
                         Juliet; and now, what a prospect of intolerable desolation was before him.
                         And wherefore should he endure it? Why should her revelation bring it darkly
@@ -7648,8 +7469,7 @@
                         of the crime, remembering only that she was to be the instrument of his
                         peace, by what means soever that peace might be effected.</p>
                     <p>And he, the full tide of joy rushing back to his heart, assured that she was
-                        Juliet indeed, how he tortured her soul with his<pb n="242"
-                            xml:id="VAB7184-243"/> wild cry of delight,—how he caused her whole
+                        Juliet indeed, how he tortured her soul with his<pb n="242" xml:id="VAB7184-243"/> wild cry of delight,—how he caused her whole
                         frame to shiver, in the horrible mockery of the embrace bestowed on her for
                         the sake of another. She endured it for a while—then life seemed passing
                         away altogether, and she said,—“I am faint—let me go—I will return.”</p>
@@ -7737,8 +7557,7 @@
                         wife.</p>
                     <p>It may be imagined what terror there was in this proposal to the wretched
                         Millicent; it was utterly impossible to carry the deceit so far as to let
-                        him marry her under his present delusion, and yet it was<pb n="249"
-                            xml:id="VAB7184-250"/> both difficult and bitterly painful to refuse
+                        him marry her under his present delusion, and yet it was<pb n="249" xml:id="VAB7184-250"/> both difficult and bitterly painful to refuse
                         him; for whilst in her own rightful person she would have been too thankful
                         to have thus bound herself more irrevocably to the care of his existence, in
                         her strange and peculiar position he could only attribute her hesitation to
@@ -7763,8 +7582,7 @@
                         ever he discovered his mistake, would be so terrible and so bitter, that the
                         angry man would not scruple to cast off poor Millicent for ever.</p>
                     <p>Ungoverned passion is a fearful thing, and Arthur knew its power too well in
-                        his own soul, not to judge accurately enough of<pb n="251"
-                            xml:id="VAB7184-252"/> its effect in others; he had never yet been
+                        his own soul, not to judge accurately enough of<pb n="251" xml:id="VAB7184-252"/> its effect in others; he had never yet been
                         allowed to see Aylmer, but he heard enough in his visits to Mrs. Hartley, to
                         show him that the blind man was becoming day by day more absorbed in the
                         happiness which he believed he derived, from the presence and the affection
@@ -7816,8 +7634,7 @@
                         she has concealed from you that she has been with us these many months; but
                         it is best there should be no such mysteries. I will persuade her to see
                         you, and tell you all the truth to‐day.”</p>
-                    <p>“Aylmer,” said Arthur, with great decision and solemnity, “I know not what<pb
-                            n="255" xml:id="VAB7184-256"/> motive they have for thus grossly
+                    <p>“Aylmer,” said Arthur, with great decision and solemnity, “I know not what<pb n="255" xml:id="VAB7184-256"/> motive they have for thus grossly
                         deceiving you, but I give you my word of honour that Juliet Egerton is not
                         and never has been here; she is in Italy, where I saw her not long since,
                         and whence I received a letter from her this morning; I can read it to you
@@ -7882,8 +7699,7 @@
                         tiger. He dragged her to him with such violence that she fell to the ground;
                         then he shouted in her ear with a voice more awful to her than the thunders
                         in their wrath, “Who are you—what are you—impostor, deceiver—that have dared
-                        to betray the blind man? Vile hypocrite, creeping here with your soft<pb
-                            n="260" xml:id="VAB7184-261"/> lying words, to steal my heart’s love on
+                        to betray the blind man? Vile hypocrite, creeping here with your soft<pb n="260" xml:id="VAB7184-261"/> lying words, to steal my heart’s love on
                         such false pretences. Speak, is it true, has he spoken the truth?—which of
                         you has lied to bring a curse on your heads, for baffling the blind?—are you
                         not Juliet Egerton, my only beloved?”</p>
@@ -7925,8 +7741,7 @@
                         thought how bright had been the dream, how bitter the waking, he repeated
                         the cruel words he had used to the wretched Millicent.</p>
                     <p>Mrs. Hartley could scarcely contain her indignation, when she heard how he
-                        had treated that generous faithful friend. Poor<pb n="264"
-                            xml:id="VAB7184-265"/> Millicent had erred certainly in departing from
+                        had treated that generous faithful friend. Poor<pb n="264" xml:id="VAB7184-265"/> Millicent had erred certainly in departing from
                         the truth, but was <emph>he</emph> the one to punish her so fiercely for the
                         error that had sprung out of the patient love he inspired? His aunt saw it
                         was time he should learn to know the value of that true heart’s rare and
@@ -7939,8 +7754,7 @@
                         destroyed his own peace and that of others.</p>
                     <p>Mrs. Hartley knew Juliet’s real character most thoroughly,—one of her own
                         married daughters had known both her, and the Marchesa with whom she had
-                        lived at Milan very intimately, and had detailed to her<pb n="265"
-                            xml:id="VAB7184-266"/> mother the whole circumstances of Juliet’s
+                        lived at Milan very intimately, and had detailed to her<pb n="265" xml:id="VAB7184-266"/> mother the whole circumstances of Juliet’s
                         conduct there, which was in no case at all favourable to her. This lady had
                         also fortunately a full acquaintance with all the particulars of her first
                         conversation with Aylmer, as the Marchesa who was her rival in reality,
@@ -7979,8 +7793,7 @@
                         joy and Juliet in her insolent triumph, thought nothing of her, who had
                         bought it all for them by the death‐like anguish she then was enduring. Mrs.
                         Hartley passed on to the time of his accident; she detailed Juliet’s conduct
-                        so revolting and heartless; and she saw that he writhed under her words,<pb
-                            n="268" xml:id="VAB7184-269"/> but <emph>she</emph> heeded it not; she
+                        so revolting and heartless; and she saw that he writhed under her words,<pb n="268" xml:id="VAB7184-269"/> but <emph>she</emph> heeded it not; she
                         went on to tell how she who had promised to be his wife for better for
                         worse, had demanded at last to see him in his helpless condition alone. Mrs.
                         Hartley said, during that interview she had entered the room unperceived,
@@ -7993,8 +7806,7 @@
                     <p>As this intelligence rang on his ear, Aylmer felt as though the lightning bad
                         struck him again—but this blow was <emph>more</emph> fearful than that of
                         the thunderbolt, for that had but quenched for him the natural light, and
-                        this drove his soul into the darkness of night.<pb n="269"
-                            xml:id="VAB7184-270"/> But still the solemn voice went sounding its
+                        this drove his soul into the darkness of night.<pb n="269" xml:id="VAB7184-270"/> But still the solemn voice went sounding its
                         fearful details, and he seemed compelled to listen as to the sentence of
                         fate.</p>
                     <p>Mrs. Hartley spoke now of Millicent, of her patient agony in the solitude of
@@ -8007,8 +7819,7 @@
                         since then, and how the days and the hours had past when she lived but to
                         minister to him; then she bid him recall all he said, when he told her he
                         believed she was Juliet, which Millicent never suspected, and how not only
-                        it seemed that the happiness she laboured to gain him<pb n="270"
-                            xml:id="VAB7184-271"/> would be lost for ever if his delusion were
+                        it seemed that the happiness she laboured to gain him<pb n="270" xml:id="VAB7184-271"/> would be lost for ever if his delusion were
                         destroyed, but that even he affirmed most solemnly, his very life must
                         depart, if this sweet dream went from him.</p>
                     <p>Poor Millicent was but a woman, weak, timid, and trusting; she believed he
@@ -8090,8 +7901,7 @@
                         being he had so fondly cherished for these last six months, because of her
                         tender care, her matchless devotion to himself,—the being to whom his
                         desolate heart had clung, as never to Juliet in the time of his triumphant
-                        happiness, was Millicent in very truth, and not<pb n="276"
-                            xml:id="VAB7184-277"/> as he had imagined—Juliet, softened and ennobled
+                        happiness, was Millicent in very truth, and not<pb n="276" xml:id="VAB7184-277"/> as he had imagined—Juliet, softened and ennobled
                         by a generous affection to a poor and helpless cripple. What mattered it to
                         the blind man, that the tender guardian of his life and happiness, these
                         many months, possessed not the radiant beauty which had charmed the artist’s
@@ -8237,8 +8047,7 @@
                         suffered much, it was Millicent who shrunk from a union, and hesitated to
                         give the promise he so longed for.</p>
                     <p>Not that she feared him, or that her deathless affection was diminished one
-                        iota, but that at last the natural dignity of the<pb n="287"
-                            xml:id="VAB7184-288"/> woman was roused within her; she could not forget
+                        iota, but that at last the natural dignity of the<pb n="287" xml:id="VAB7184-288"/> woman was roused within her; she could not forget
                         the tone of his voice when he shrieked out Juliet’s name. It seemed her, who
                         had never known a shadow of change, in her true heart, that he could not
                         have turned such passionate affection back to her again; she did not
@@ -8308,8 +8117,7 @@
                         sustained him—in it he lived, or the sight of their happiness must have
                         driven him to insanity; and they knew not that he tracked their steps
                         wherever they went; for Aylmer was now able, led by Millicent, to walk out
-                        daily into the woods, and breathe again the sweet breath<pb n="293"
-                            xml:id="VAB7184-294"/> of nature. They knew it not, or they must have
+                        daily into the woods, and breathe again the sweet breath<pb n="293" xml:id="VAB7184-294"/> of nature. They knew it not, or they must have
                         pitied the maddening envy with which he watched the blind man lean so
                         tenderly upon the dear hand, whose happiest task it was to smooth life’s
                         path for him; and saw the sweet eyes, which Aylmer called his light of day,
@@ -8379,8 +8187,7 @@
                         love.</p>
                     <p>Surely the worm that crawls the earth, is not so abject as man, in the
                         egotism of absorbing passion? She was his fellow creature, inheritor with
-                        himself of the common death, condemned, like him, to a life<pb n="298"
-                            xml:id="VAB7184-299"/> so full of sorrow, and in joy so
+                        himself of the common death, condemned, like him, to a life<pb n="298" xml:id="VAB7184-299"/> so full of sorrow, and in joy so
                         rare,—susceptible to the misery he now was enduring, whose anguish he knew
                         so well,—and yet, rather would he have seen her as she had been heretofore,
                         wasted and wan, and bowed to the earth, loaded with that burden too heavy to
@@ -8462,12 +8269,10 @@
                         blind agent he was, of a supreme decree—not the less an agent in guilt. The
                         word was spoken—the step was taken—down, down, crushing down, through the
                         dark abyss, Stephen Aylmer plunged on to his death.</p>
-                    <p>Whirling down through the deep blue air, caught for a moment by the jagged<pb
-                            n="304" xml:id="VAB7184-305"/> rocks, flung back by them to the stones
+                    <p>Whirling down through the deep blue air, caught for a moment by the jagged<pb n="304" xml:id="VAB7184-305"/> rocks, flung back by them to the stones
                         that waited below; revolving in a thick cloud of dust, bearing with it the
                         fragments rocks and trees, swifter than the eye could follow, ere the living
-                        heart could have beat a few times, the body lay mangled—soulless—<emph
-                            rend="sc">DEAD</emph>, struck down in a shattered heap at the foot of
+                        heart could have beat a few times, the body lay mangled—soulless—<emph rend="sc">DEAD</emph>, struck down in a shattered heap at the foot of
                         that great ravine.</p>
                     <p>For Stephen Aylmer this world was nought—for Stephen Aylmer this life was
                         done. The trial was over, the doom was sealed—the soul was gone, to the Far
@@ -8491,8 +8296,7 @@
                         were these:—<quote>
                             <l>Cursed is he that maketh the blind to go out of his way.</l>
                         </quote> And it was as though he heard echoing loud on his ear, how the deep
-                        rolling voice of the people answered and said, <emph rend="sc"
-                        >AMEN</emph>.</p>
+                        rolling voice of the people answered and said, <emph rend="sc">AMEN</emph>.</p>
                 </div>
                 <pb n="306" xml:id="VAB7184-307"/>
                 <div type="chapter">
@@ -8503,8 +8307,7 @@
                         consciousness of a deadly crime was on his soul, became possessed of a full,
                         perfect, and for him, most appalling faith, in the revelation of a future
                         judgment and an eternal punishment. Deep penitence came in like a flood upon
-                        his soul—penitence not only for the crime, but for<pb n="307"
-                            xml:id="VAB7184-308"/> the idolatrous, unrestrained love which had
+                        his soul—penitence not only for the crime, but for<pb n="307" xml:id="VAB7184-308"/> the idolatrous, unrestrained love which had
                         prompted it.</p>
                     <p>One thought, one wish, one dream was present with him night and day. To be
                         forgiven, by years of a life of penance; to show repentance, and to be
@@ -8559,8 +8362,7 @@
                     <p>And to a grave she went,—in one sense her own, for her heart lay buried
                         there. They had made the couch of his deep repose beneath a tall pine‐tree,
                         a sweet, fair spot, for the long grass waved there and the flowers were
-                        growing, and none need have dreamt of the worms beneath;<pb n="311"
-                            xml:id="VAB7184-312"/> and she passed on, so light the form, her feet
+                        growing, and none need have dreamt of the worms beneath;<pb n="311" xml:id="VAB7184-312"/> and she passed on, so light the form, her feet
                         left no mark on the turf,—and by the side of that grave she knelt down. Then
                         she folded the meek hands prayerfully, and upward fixed those pure, holy
                         eyes, with a rapt and intense contemplation, as though the glory of the
@@ -8600,8 +8402,7 @@
                     <p>“Are you, indeed, at rest?” and she answered,</p>
                     <p>“I rest, as I never rested on earth before:—hear me, and learn life’s truth
                         from my lips,—if sorrow hath not taught you already. I thought that the
-                        soul’s repose was in human love, and thus far I was right, that in Love<pb
-                            n="314" xml:id="VAB7184-315"/> alone the immortal spirit can live, but
+                        soul’s repose was in human love, and thus far I was right, that in Love<pb n="314" xml:id="VAB7184-315"/> alone the immortal spirit can live, but
                         the human love is only the type of that which can never die. For the
                         glorious substance I mistook the faint shadow, and therefore I erred and
                         suffered. Then in mercy, to the sweet earthly love bright wings were given,
@@ -8629,8 +8430,7 @@
                         that vow.</p>
                     <p> * * * *</p>
                     <p>Long years had past, when in the twilight sky, one summer’s evening, a
-                        sunbeam lingered. It was the last sweet smile of the<pb n="316"
-                            xml:id="VAB7184-317"/> dying day, a soft ray of golden light, and it
+                        sunbeam lingered. It was the last sweet smile of the<pb n="316" xml:id="VAB7184-317"/> dying day, a soft ray of golden light, and it
                         followed not the sun when he sunk to rest, as though it yet had a mission on
                         earth. Down from the darkening heaven it stole, and sped over forest and
                         plain,—it did but tinge them with its pale pure light, for it rested not

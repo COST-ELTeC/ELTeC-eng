@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18954"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18954" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>At the Relton Arms : ELTec edition</title>
-    <author ref="viaf:42106129">Sharp, Evelyn (1869-1955)</author>
+    <author ref="https://viaf.org/viaf/42106129/">Sharp, Evelyn (1869-1955)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -17,14 +15,14 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource"><title>The Project Gutenberg eBook of At The Relton Arms, by Evelyn
-      Sharp.</title><ref target="gut:41403">Gutenberg</ref>
+      Sharp.</title><ref target="http://www.gutenberg.org/files/41403/41403-h/41403-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by</resp>
       <name> Suzanne Shell, Mary Meehan and the Online Distributed Proofreading Team</name>
      </respStmt></bibl>
     <bibl type="firstEdition" n="B8281"><title>At the Relton Arms</title><author>Sharp, Evelyn
       (1869-1955).</author><publisher>London: John Lane</publisher><date>1895</date>
-    <ref target="ia:atreltonarms00shar.pdf"/></bibl>
+    <ref target="http://archive.org/details/atreltonarms00shar.http://archive.org/details/pdf"/></bibl>
 
    </sourceDesc>
   </fileDesc>

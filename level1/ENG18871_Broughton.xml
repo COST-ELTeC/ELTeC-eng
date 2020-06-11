@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>Red as a rose is she : ELTeC edition</title>
-    <author ref="viaf:45106836">Broughton, Rhoda (1840-1920)</author>
+    <author ref="https://viaf.org/viaf/45106836/">Broughton, Rhoda (1840-1920)</author>
     <respStmt>
      <resp>Encoded By</resp>
      <name>Nicholae Cline.</name>
@@ -38,11 +36,11 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>Red as a rose is she : VWWP edition </title><author>Broughton,
       Rhoda, 1840-1920</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7385">VWWP</ref></bibl>
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7385">VWWP</ref></bibl>
     <bibl type="printSource" n="B582"><title>Red as a rose is she</title><author>Broughton, Rhoda,
       1840-1920</author><pubPlace>London : </pubPlace><publisher>R. Bentley,
       </publisher><date>1887</date>
-     <ref target="ia:redasroseissheno00brourich"/></bibl>
+     <ref target="http://archive.org/details/redasroseissheno00brourich"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -137,8 +135,7 @@
      <l rend="ti-4">Taffy was a thief?"</l>
     </quote>
     <p>I <hi>have</hi> lived in Wales, so I speak with authority; and for my part I don't think that
-     Taffy is much more given to the breaking of the eighth commandment than the <foreign
-      xml:lang="fr">canaille</foreign> of any other country. He is not a bright fellow, is not
+     Taffy is much more given to the breaking of the eighth commandment than the <foreign xml:lang="fr">canaille</foreign> of any other country. He is not a bright fellow, is not
      Taffy;
      <pb n="3" xml:id="VAB7385-007"/> happiest, I think, when rather tipsy, or when yelling psalms
      in his conventicle or schism-shop—for Taffy is addicted to schism; he will tell you plenty of
@@ -1131,9 +1128,7 @@
     <p>"I suppose I am over-sanguine about everything," he says, humbly, "because I have always been
      such a lucky fellow; my profession suits me down to the ground; I have never had an ache or a
      pain in all my life, and I have the best woman in England for my mother."</p>
-    <p>A body free from disease, a commission in a marching regiment, a methodistical, <foreign
-      xml:lang="fr">exigeante</foreign> old mother. These would seem but a poor <foreign
-      xml:lang="fr">chétif</foreign> list of subjects of thankfulness to Fortune's curled and
+    <p>A body free from disease, a commission in a marching regiment, a methodistical, <foreign xml:lang="fr">exigeante</foreign> old mother. These would seem but a poor <foreign xml:lang="fr">chétif</foreign> list of subjects of thankfulness to Fortune's curled and
      perfumed darlings.</p>
     <pb n="45" xml:id="VAB7385-049"/>
     <p>"Your acquaintance amongst old ladies must be extensive to justify you in that last
@@ -1294,8 +1289,7 @@
       <foreign xml:lang="fr">déshabille</foreign>, wrapper, slippers, undressed hair, are unknown
      Gallic abominations—and is eating porridge with a spoon. Jack reading his letters, which look
      all bills and circulars, after the fashion of men's correspondence; for what man made after the
-     fashion of a man, would sit down to indite an epistle to another man, were it his <foreign
-      xml:lang="la">alter ego</foreign> unless he had something to say about a horse or a dog or a
+     fashion of a man, would sit down to indite an epistle to another man, were it his <foreign xml:lang="la">alter ego</foreign> unless he had something to say about a horse or a dog or a
      gun? Presently he finishes this cursory survey, crumples up the last blue envelope in his hand,
      flings it with manly untidiness into the summer-dressed grate, and says, resuming a
      conversation which had been interrupted a quarter of an hour ago by the entrance of prayers and
@@ -1928,8 +1922,7 @@
      little face peeping at him under and over the broad crimson leaves.</p>
     <pb n="78" xml:id="VAB7385-082"/>
     <p>No one would ever call Esther's a Madonna face. No artist would ever ask her to sit for St.
-     Catherine, or St. Cecilia, or St. Anybody else; hers is essentially <foreign xml:lang="fr"
-      >beauté du diable</foreign>—one of those little, sparkling, provoking, petulant faces that
+     Catherine, or St. Cecilia, or St. Anybody else; hers is essentially <foreign xml:lang="fr">beauté du diable</foreign>—one of those little, sparkling, provoking, petulant faces that
      have a fresh dress of smiles or tears, or dimples or blushes, for every trivial, passing
      question; one of those little faces that have been at the bottom of half the mischiefs the
      world has seen.</p>
@@ -2105,8 +2098,7 @@
     <p>"It is your turn to play, Miss Craven," interposes Constance, coldly.</p>
     <p>"Come to my rescue, won't you?" says Esther, making her seventy-second careless, abortive
      attempt at the bell, and throwing twice as much <foreign xml:lang="fr">empressement</foreign>
-     into her voice from the amiable motive that she thinks such <foreign xml:lang="fr"
-      >empressement</foreign> is displeasing to Miss Blessington.</p>
+     into her voice from the amiable motive that she thinks such <foreign xml:lang="fr">empressement</foreign> is displeasing to Miss Blessington.</p>
     <p>"You snubbed me so just now that I don't think I will. I'll leave you to perish miserably,"
      answers he, looking at her as he speaks with an intentness only excusable by the dim light, and
      the indistinctness of all objects in it.</p>
@@ -2130,8 +2122,7 @@
     <p>"Take that, you fool you !" (this is addressed to the ball, not to Miss Blessington) hurling
      his mallet at it as it scuds swiftly over the sward and lodges in the pink and purple breast of
      an aster bed. The head and handle of the mallet fly asunder from the violence of their passage
-     through the air, and Mr. Gerard is reduced to the ignominy of picking up the <foreign
-      xml:lang="lat">disjecta membra</foreign> and hammering them together again.</p>
+     through the air, and Mr. Gerard is reduced to the ignominy of picking up the <foreign xml:lang="lat">disjecta membra</foreign> and hammering them together again.</p>
     <p>"You must make a sensation when you go to a croquet party," remarks Esther,
      sarcastically.</p>
     <p>"Do you think so badly of me as to suppose I ever do? is thy servant a curate that he should
@@ -2490,8 +2481,7 @@
      Blessington's caved-in hat; full a quarter of an hour in picking every grass and sedge and
      oxeye that grew within reach of her destroying arm; and full another quarter in thinking what a
      pleasant, manly, straightforward face St. John's is—what a thoroughly terrified face it looked
-     when she met it within an inch of her own nose after her disgraceful <foreign xml:lang="fr"
-      >bouleversement</foreign>—what a much better height five feet ten is for all practical
+     when she met it within an inch of her own nose after her disgraceful <foreign xml:lang="fr">bouleversement</foreign>—what a much better height five feet ten is for all practical
      purposes than six feet four.</p>
     <pb n="101" xml:id="VAB7385-105"/>
     <p>At the end of the fourth quarter Mr. Gerard returns, with a fire hardly inferior to St.
@@ -2730,8 +2720,7 @@
      "that is the ninth game I have beat you to-night; you'll never win as long as you leave so many
      blots—I have told you so a score of times."</p>
     <p>Poor miladi, strangling a gigantic yawn, begins to set her men again; she had hoped that her
-     punishment was ended for the night, and that she might be dismissed to the <foreign
-      xml:lang="lat">otium cum dignitate</foreign> of her armchair and nap.</p>
+     punishment was ended for the night, and that she might be dismissed to the <foreign xml:lang="lat">otium cum dignitate</foreign> of her armchair and nap.</p>
     <p>St. John jumps up and walks over to the players; there are few things in life he hates so
      much as playing backgammon
      <pb n="111" xml:id="VAB7385-115"/> with his father, but he hates seeing his mother bullied even
@@ -2901,8 +2890,7 @@
      resignation.</p>
     <p>"Like dancing with married men, or going to church?"</p>
     <p>"Conny! Conny!" shouts Sir Thomas from somewhere in the unseen distance.</p>
-    <p>Conny rises, though reluctantly, and leaves the other two <foreign xml:lang="fr"
-      >téte-à-téte</foreign>.</p>
+    <p>Conny rises, though reluctantly, and leaves the other two <foreign xml:lang="fr">téte-à-téte</foreign>.</p>
     <p>"Miss Blessington is going to have a stall," says Esther, presently, for the sake of saying
      something, catching a little nervously at the first remark that occurred to her.</p>
     <pb n="118" xml:id="VAB7385-122"/>
@@ -2928,8 +2916,7 @@
     <p>"And why?" raising herself from her cushions to get a straighter, truer look into his bright,
      grave eyes.</p>
     <p>"Because," he says, lowering his voice a little, and leaning closelier over her, "the larger
-     the party the better chance there is of undisturbed <foreign xml:lang="fr"
-      >téte-à-tétes</foreign> between congenial spirits. Do you see?"</p>
+     the party the better chance there is of undisturbed <foreign xml:lang="fr">téte-à-tétes</foreign> between congenial spirits. Do you see?"</p>
     <p>And Esther <hi>does</hi> see, and thinking on Robert Brandon, is uneasily joyful.</p>
     <milestone unit="section" rend="stars"/>
     <pb n="119" xml:id="VAB7385-123"/>
@@ -3195,9 +3182,7 @@
     <p>The afternoon draws towards its close; people have come and bought, and raffled and gone
      again, carrying manifold ill-tied paper parcels with them. The farmeresses and yeomen's wives
      of the Melford district have departed, carrying with them, in their mind's eye, for imitation
-     against next Sunday, the cut of Miss Blessington's skirt, and the profuse curls and <foreign
-      xml:lang="fr">bandeaux</foreign> of Miss De Grey's intricate <foreign xml:lang="fr"
-      >coiffure</foreign>. The room is emptying, and the day's duty approaching its end.</p>
+     against next Sunday, the cut of Miss Blessington's skirt, and the profuse curls and <foreign xml:lang="fr">bandeaux</foreign> of Miss De Grey's intricate <foreign xml:lang="fr">coiffure</foreign>. The room is emptying, and the day's duty approaching its end.</p>
     <p>"I say, old fellow," remarks Mr. De Grey, touching St. John on the shoulder as he leans
      against the wall, gazing somewhat morosely at his own boots, "don't you think we might as well
      be saying Ta-ta? I don't know what you have, but I have had nearly enough of this gay and
@@ -3283,8 +3268,7 @@
     <p>"I feel," she says, averting her head and speaking under an impulse that kindles her cheeks
      and makes her voice falter—"I feel a surprise that the words you say and the words you are
      reported to say do <hi>not</hi> tally better together."</p>
-    <p>"What am I reported to say?" (a little impatiently.) "A <foreign xml:lang="fr"
-      >réchauffé</foreign> of one's own stale speeches is not an appetising dish, but may be
+    <p>"What am I reported to say?" (a little impatiently.) "A <foreign xml:lang="fr">réchauffé</foreign> of one's own stale speeches is not an appetising dish, but may be
      wholesome as an exhortation to consistency."</p>
     <p>"A person—I was told—" begins Esther, floundering in confusion among different forms of
      speech—"I was told—by a person that ought to have known—that you had
@@ -3331,8 +3315,7 @@
     <p>"What's very odd? " asks her brother, who, with St. John, lounges in from the billiard-room,
      where they have been knocking the balls about and getting tired of one another.</p>
     <p>"Miss Craven has just been telling us that she has had no education," answers Constance, in
-     her even voice—perhaps not sorry of an opportunity to let Gerard know his <foreign
-      xml:lang="fr">protégée's</foreign> deficiencies. "I am sure (civilly) that we should never
+     her even voice—perhaps not sorry of an opportunity to let Gerard know his <foreign xml:lang="fr">protégée's</foreign> deficiencies. "I am sure (civilly) that we should never
      have found it out if she had not told us."</p>
     <p>The <foreign xml:lang="fr">protégée</foreign> droops her black eyes in mortification over her
      book, in which she has already found several things that amuse, several things that startle,
@@ -3494,8 +3477,7 @@
      that prattle does not infringe upon the succulent programme that he has, by diligent study of
      the <foreign xml:lang="fr">menu</foreign>, laid out for himself.</p>
     <p>Baffled on her left hand, Miss Craven turns to her right, to be baffled there also. Not that
-     this right-hand neighbour labours under any excessive <foreign xml:lang="fr"
-      >gourmandise</foreign>—he is willing, on the contrary, that the unknown, black-eyed innocent
+     this right-hand neighbour labours under any excessive <foreign xml:lang="fr">gourmandise</foreign>—he is willing, on the contrary, that the unknown, black-eyed innocent
      and the turtle cutlet should share and share alike in his regards; but ere a quarter of an hour
      their conversation has come to a shipwreck. In it he takes too much for granted: as, for
      example, that she has been to London this season ; that she has seen Faed's last picture; that
@@ -3538,8 +3520,7 @@
      attention is happily arrested by a remark that he overhears as to the best method of dressing
       <foreign xml:lang="it">beccaficos</foreign>. Instantly Miss Craven's
      <pb n="144" xml:id="VAB7385-148"/> white, silky shoulders and red-pouted lips go out of his
-     head. White shoulders and red lips are good things in their way, but what are they to <foreign
-      xml:lang="it">beccaficos</foreign> Esther draws a long breath of relief. What an escape! In a
+     head. White shoulders and red lips are good things in their way, but what are they to <foreign xml:lang="it">beccaficos</foreign> Esther draws a long breath of relief. What an escape! In a
      minute more suspense is ended, and the low armchair beside her is occupied by the person for
      whom it was intended—for whom, indeed, she has been slyly keeping it half-covered by her
      dress.</p>
@@ -4132,16 +4113,14 @@
     <p>"These reflections are <foreign xml:lang="fr">à propos</foreign> of—what?"</p>
     <p>"Of Conny's most ill-timed entry last night," he answers, with energy. "I don't suppose she
      makes such a midnight raid once in five years, and she certainly could not have
-     <pb n="169" xml:id="VAB7385-173"/> found you and me <foreign xml:lang="fr"
-      >téte-à-téte</foreign> at two in the morning more than once in fifty years. Why could not she
+     <pb n="169" xml:id="VAB7385-173"/> found you and me <foreign xml:lang="fr">téte-à-téte</foreign> at two in the morning more than once in fifty years. Why could not she
      leave us in peace that once? We did not grudge her any amount of pleasant dreams; why need she
      grudge us our pleasant wakefulness?"</p>
     <p>"Do you think she came on purpose, then?" asks Essie, her eyes opening as round in alarmed
      surprise as a baby's when a grown-up person makes ugly faces at it.</p>
     <p>He shrugs his shoulders slightly. "Cannot say, I'm sure. Conny is not much in the habit of
      burning the midnight oil in the pursuit of knowledge generally. If it was accident, she came in
-     at a wonderfully <foreign xml:lang="fr">à propos</foreign>, or rather <foreign xml:lang="fr"
-      >mal à propos</foreign>, moment. Tell me," he says, crossing over to her side of the road, and
+     at a wonderfully <foreign xml:lang="fr">à propos</foreign>, or rather <foreign xml:lang="fr">mal à propos</foreign>, moment. Tell me," he says, crossing over to her side of the road, and
      fixing frankly-asking eyes upon her; "I may be mistaken—it is a misfortune to which I am often
      incident—but I could not help thinking that, just as that unlucky candle appeared round the
      corner last night, you were going to tell me something—something about yourself? I thought I
@@ -4746,8 +4725,7 @@
      penultimate days of their stay to a guest that one is glad to be rid of.</p>
     <p>"Oh, never mind me," says Essie, lightly; "I can always amuse myself: and, besides, it will
      be very nearly bedtime by the time you go."</p>
-    <p>"They intend me to go with them," St. John had said to her overnight, <foreign xml:lang="fr"
-      >à propos</foreign> of this ball, "and of course I intend it too; only some prophetic instinct
+    <p>"They intend me to go with them," St. John had said to her overnight, <foreign xml:lang="fr">à propos</foreign> of this ball, "and of course I intend it too; only some prophetic instinct
      tells me that my head will begin to ache prodigiously towards dressing-time. I am half divided
      between that and toothache, only I suppose that the latter necessitates the simulating of acute
      bodily torture, and subjects one to unlimited offers of boiled figs, hopbags, laudanum, and the
@@ -5387,8 +5365,7 @@
      disgorging its human load; a man with a hammer is walking along by the side of it, stooping and
      tapping the wheels; porters are driving luggage-piled trucks before them, and shouting out, "By
      your leave!" to any unwary traveller who may cross the relentless path of their Juggernaut:
-     other parties are enduring and answering, with angelic patience and <foreign xml:lang="fr"
-      >bonhomie</foreign>, the agitated and incoherent questions of unprotected females in
+     other parties are enduring and answering, with angelic patience and <foreign xml:lang="fr">bonhomie</foreign>, the agitated and incoherent questions of unprotected females in
      waterproof cloaks and turn-down hats. Everybody and everything is rampantly <hi>alive</hi>;
      even to his handiwork, man seems to have imparted some of his own intense vitality;
      <pb n="222" xml:id="VAB7385-226"/> to the engines he has given motion and voice—motion and
@@ -5755,8 +5732,7 @@
     <p>"I did not mean to express any doubt," Esther says, gently, but wearily.</p>
     <p>"<hi>Suppose</hi> will not do us much good at the <hi>Last Day</hi>," continues Miss Bessy,
      rather venomously. "Unless we can lay fast hold upon Jesus " (<hi>laying hold of a roll of
-      paper to exemplify the tenacity of her own grasp</hi><ref target="#note_001" rend="super"
-      >*</ref>), "unless we have assurance that we are <hi>Elect</hi>, where are we ?"</p>
+      paper to exemplify the tenacity of her own grasp</hi><ref target="#note_001" rend="super">*</ref>), "unless we have assurance that we are <hi>Elect</hi>, where are we ?"</p>
     <p>"If it is any comfort to you, love, you know that you have our prayers," says Mrs. Brandon,
      squeezing Esther's hand.</p>
     <p>"We have set apart a special day with several Christian friends," says Bessy, with animation,
@@ -5774,8 +5750,7 @@
      good old woman, suiting her action to her words, and folding Esther in a black bombazine
      embrace.</p>
     <p>"Thank you very much," replies the girl, gratefully, her low, sad voice almost smothered by
-     her mamma-in-law's bonnet strings, amongst which her little disconsolate head is lying <foreign
-      xml:lang="fr">perdue</foreign>.</p>
+     her mamma-in-law's bonnet strings, amongst which her little disconsolate head is lying <foreign xml:lang="fr">perdue</foreign>.</p>
     <p>"We are only broken cisterns, you should remember, mamma," says Bessy, a little reprovingly
      of her parent's carnal materialism; "leaky vessels, all of us! You should direct Esther to the
      one <hi>Ebenezer</hi>."</p>
@@ -6555,8 +6530,7 @@
      disappointed, and heart-wrung, Brandon is not all unhappy. He has been greatly sinned against,
      and has forgiven, thus exercising the function that raises us nearest to a level with the
      Godhead.</p>
-    <p>And meanwhile Esther, left behind in wintry Wales, takes his emptied place at <foreign
-      xml:lang="fr">triste</foreign> Plas Berwyn. Despite all her resolves, despite her high talk
+    <p>And meanwhile Esther, left behind in wintry Wales, takes his emptied place at <foreign xml:lang="fr">triste</foreign> Plas Berwyn. Despite all her resolves, despite her high talk
      that a morsel of Mrs. Brandon's bread would choke her—that it would be better to starve than to
      be under any obligation to the family of the man she has betrayed—she is now eating that
      suffocating bread, now lying under those annihilating obligations.</p>
@@ -6655,8 +6629,7 @@
      brought stingingly home to one. Happiness, they say, is to be found equally in all ranks, but
      no one ever yet started the idea that it was sweet to go down. Quick as lightning there flashed
      before her mind the recollection
-     <pb n="275" xml:id="VAB7385-279"/> of a slighting remark made by Miss Blessington, <foreign
-      xml:lang="fr">à propos</foreign> of two very second-rate young ladies, who had come to call at
+     <pb n="275" xml:id="VAB7385-279"/> of a slighting remark made by Miss Blessington, <foreign xml:lang="fr">à propos</foreign> of two very second-rate young ladies, who had come to call at
      Felton one day during her visit there, that "they looked like little milliners!" Was she going
      to be a "<hi>little milliner?</hi>"</p>
     <p>"I'm afraid I don't sew well enough," she answers, gently, wondering meanwhile that the idea
@@ -6716,8 +6689,7 @@
      Allenby's, and after waiting a long time, was obliged to give it up as hopeless."</p>
     <p>"Perhaps she was not tall?" suggests Esther, rather timidly.</p>
     <p>"I really never inquired."</p>
-    <p>"They like them tall!" says the girl, involuntarily drawing up her slight <foreign
-      xml:lang="fr">élancé</foreign> figure; "and I'm tall, am I not?" </p>
+    <p>"They like them tall!" says the girl, involuntarily drawing up her slight <foreign xml:lang="fr">élancé</foreign> figure; "and I'm tall, am I not?" </p>
     <p>"I should imagine that that qualification alone would hardly suffice," answers the old lady,
      drily; " and indeed," she continues, pursing up her mouth rather primly, "even if it would, I
      should hardly think a situation in a shop, or other place of public resort, desirable for a
@@ -7099,8 +7071,7 @@
      any twelfth-night cake; so are the wayside stations; so are the houses in the smoky towns; so
      are the men, sparsely walking about on the country roads; so are the engine drivers and
      stokers; so are the sheep in the fields.</p>
-    <p>Miss Craven has been sitting all day long in the narrow <foreign xml:lang="fr"
-      >enceinte</foreign> of a railway carriage, between the two close-shut, snow-blinded
+    <p>Miss Craven has been sitting all day long in the narrow <foreign xml:lang="fr">enceinte</foreign> of a railway carriage, between the two close-shut, snow-blinded
      windows—sitting opposite a courteous warrior, who, travelling with all the luxuriousness which
      his sex think indispensable, is magnanimous enough to share his buffalo-robe and foot-warmer
      with her. A <foreign xml:lang="fr">téte-à-téte</foreign> of so many consecutive hours with a
@@ -7334,8 +7305,7 @@
     <pb n="303" xml:id="VAB7385-307"/>
     <p>"He is <hi>very</hi> well—thanks," replies Miss Blessington, with the conscious smile that
      had formerly exasperated Esther, and with an emphasis not common with her.</p>
-    <p>Miss Blessington does not usually employ emphasis: it is <foreign xml:lang="it"
-      >mezzoceto</foreign>, as is enthusiasm of which it is the exponent.</p>
+    <p>Miss Blessington does not usually employ emphasis: it is <foreign xml:lang="it">mezzoceto</foreign>, as is enthusiasm of which it is the exponent.</p>
     <p>Half an hour later Esther is sitting beside the old squire, as close as possible to his best
      ear, brandishing the <hi>Times</hi>' giant squares in her unaccustomed hand. The old squire is
      a superb wreck. Spiteful Time is fond of removing the landmarks that youth sets upon our faces;
@@ -7386,8 +7356,7 @@
      luncheon-time.</p>
     <p>"We are going to drive into Shelford this afternoon; do you feel inclined to come with us,
      Constance, my dear?" asks the old lady, as they quit the luncheon-table—Esther dutifully
-     bringing up the rear, with air-cushion, footstool, and <foreign xml:lang="fr"
-      >couvre-pied</foreign>.</p>
+     bringing up the rear, with air-cushion, footstool, and <foreign xml:lang="fr">couvre-pied</foreign>.</p>
     <p>"Not to-day, aunt, I think—thanks," answers Constance, with the utmost sweetness; the "Not
      to-day" seeming to imply that on some future morrow she will gladly avail herself of the
      invitation to join her elderly relatives in their <foreign xml:lang="fr">triste</foreign>
@@ -7547,8 +7516,7 @@
      <pb n="312" xml:id="VAB7385-316"/> old chamber. She dreads falling asleep, for fear of waking
      to find the low fire playing antics with Burke's long nose and spectacles, with Pitt's maypole
      figure on the screen; flickering over the malignant fleshy Cupids on the wall; waking to see,
-     looking in upon her through the curtains, Jack's face—not kind, <foreign xml:lang="fr"
-      >débonnaire</foreign>, smiling, as she used to see it in the study at home (for <hi>that</hi>
+     looking in upon her through the curtains, Jack's face—not kind, <foreign xml:lang="fr">débonnaire</foreign>, smiling, as she used to see it in the study at home (for <hi>that</hi>
      could frighten no one), but solemn, stiff, with closed eyes and bandaged chin, as she had last
      seen it. Sometimes she sits up in bed, a cold sweat standing on her brow, as some noise,
      distincter than usual, sounds through the room; "thud, thud," as of some falling object; an
@@ -7823,8 +7791,7 @@
      companion of <hi>his</hi> life sends a man oftener to his club; makes him much pleasanter to
      other women when he goes into society; makes him sulky and sleepy when he dines at home—that is
      all. Doubtless St. John will be indifferent to his bride at first; he will dislocate his jaw
-     with yawning during their wedding-tour, but she will bear him children; <foreign xml:lang="fr"
-      >" selon les us et coutumes Anglaises, elle aura beaucoup d'enfants;" </foreign> he will like
+     with yawning during their wedding-tour, but she will bear him children; <foreign xml:lang="fr">" selon les us et coutumes Anglaises, elle aura beaucoup d'enfants;" </foreign> he will like
      her for that. Year by year they will come here to Blessington, probably. Year by year she
      (Esther) will see the blossom of a fuller contentment on his wide brow, the quiet of a deeper
      rest in his restless eyes. And she herself will be here always, for one cannot throw away one's
@@ -8133,8 +8100,7 @@
      her, daily and nightly, in the dim oval of the old glass in its tarnished frame, she wishes
      that that ruin might be revealed slowly, and by degrees (not <hi>all at once</hi>), to him that
      had once thought her so fair. For this one night, she would fain look like her old self—would
-     fain be pretty plump Esther Craven, whose face, dimpled and <foreign xml:lang="fr"
-      >débonnaire</foreign>, men used to turn round in the street to look after—instead of the thin
+     fain be pretty plump Esther Craven, whose face, dimpled and <foreign xml:lang="fr">débonnaire</foreign>, men used to turn round in the street to look after—instead of the thin
      depressed "companion," whom if men looked at at all, it was only to pity her sunken white
      cheeks and sombre mourning weeds. Her Sunday frock is a lugubrious combination of cheap black
      silk and crape, against which her artistic eye has been revolting ever since she heard of St.
@@ -8557,8 +8523,7 @@
       sérieux</foreign>, opening her great eyes.</p>
     <p>"No, not really—most assuredly!" he answers, laughing lazily. " On the contrary, I am nearer
      coinciding with the opinion of the Jewish gentleman, who said it would be a very pleasant world
-     if there were no <foreign xml:lang="yi">shummers</foreign> and no <foreign xml:lang="yi"
-      >shabbaths</foreign>."</p>
+     if there were no <foreign xml:lang="yi">shummers</foreign> and no <foreign xml:lang="yi">shabbaths</foreign>."</p>
     <p>It is hardly worth Miss Craven's while, you will perceive, to lose her place twice, and get
      rated by her old employer, for the sake of hearing brilliant questions and answers of the above
      description. Though her jealous eyes are fixed upon the <hi>Saturday's</hi> columns, they see,
@@ -8656,8 +8621,7 @@
      head?"</p>
     <p>Meanwhile, Miss Craven is the subject of more remark than she is at all aware of.</p>
     <p>"I say, Gerard," says Lord Linley's heir—a goodnatured ugly little prodigal, who is one of
-     the shining lights of Her Majesty's Household, and goes among men by the <foreign xml:lang="fr"
-      >sobriquet</foreign> of "Gaolbird," for which he has to thank the unexampled brevity of his
+     the shining lights of Her Majesty's Household, and goes among men by the <foreign xml:lang="fr">sobriquet</foreign> of "Gaolbird," for which he has to thank the unexampled brevity of his
      locks—"I say, Gerard, you ought to know all the remarkable objects about here: tell us, who is
      the <hi>mourner</hi> in the distance?"</p>
     <p>St. John's eyes follow the direction indicated by his friend, and a shade of annoyance
@@ -8898,8 +8862,7 @@
       that she is not a woman of science,"</quote> as Mr. Shandy mildly remarked of his wife,
       <quote>"but she <hi>might</hi> ask a question."</quote> Strive as he may against the
      conviction, the yoke that he has taken upon himself in careless apathy has already begun to
-     gall his withers. And yet it was not (as you may imagine) <foreign xml:lang="fr"
-      >pique</foreign> that first made Gerard Miss Blessington's lover. It was partly that numb
+     gall his withers. And yet it was not (as you may imagine) <foreign xml:lang="fr">pique</foreign> that first made Gerard Miss Blessington's lover. It was partly that numb
      indifference as to anything that might happen to him, that always follows a great blow, partly
      sheer weariness of his father's importunities upon the subject of his marriage.</p>
     <p>He is the last scion of a family that has come down in direct male line from a Norman robber:
@@ -9112,8 +9075,7 @@
      and I roar at them both."</p>
     <pb n="377" xml:id="VAB7385-381"/>
     <p>"And the other two—do not they speak?"</p>
-    <p>"We are, none of us, much addicted to conversation," she answers, grimly; "but, <foreign
-      xml:lang="fr">en revanche</foreign>, what we do say we say very loud."</p>
+    <p>"We are, none of us, much addicted to conversation," she answers, grimly; "but, <foreign xml:lang="fr">en revanche</foreign>, what we do say we say very loud."</p>
     <p>"Are you <hi>all</hi> deaf, then?"</p>
     <p>"No; but when one lives with deaf people, one gets into the habit of thinking that the whole
      world is hard of hearing; one bawls at everyone."</p>
@@ -9194,8 +9156,7 @@
      herself! Pshaw! I daresay she knows the way there already. She is <hi>so</hi> young; shall I
      warn her? Shall I speak to her? Not I. Thank God, it is no business of mine!" </p>
     <p>" Gerard!" says Linley, as, having passed them, he strikes into a brisk trot—looking as if he
-     were going to his own funeral, and just about to join the <foreign xml:lang="fr"
-      >cortège</foreign>. "Certainly being in love don't improve him; he is not half the fellow he
+     were going to his own funeral, and just about to join the <foreign xml:lang="fr">cortège</foreign>. "Certainly being in love don't improve him; he is not half the fellow he
      was last season."</p>
     <p>But Esther, in the moment of his passing them, had caught a glimpse of the eager white anger
      of his face, and she hardly hears. "I'm afraid Mr. Gerard thought it odd my being out so late,"
@@ -9704,8 +9665,7 @@
      "Is it possible that I can respect you, who, though you did not care, or affect to care, two
      straws about me personally—though you knew, at the time I asked you to marry me, that I was
      madly in love with another woman—were yet willing to give yourself to me, soul and body—to be
-     bone of my bone, and flesh of my flesh, because I was a good <foreign xml:lang="fr"
-      >parti</foreign>, as the vile phrase goes?
+     bone of my bone, and flesh of my flesh, because I was a good <foreign xml:lang="fr">parti</foreign>, as the vile phrase goes?
      <pb n="402" xml:id="VAB7385-406"/> And as for me," he ends, in bitter self-contempt, "what is
      there in all my idle wasted life, from beginning to end, that any one can respect or
      esteem?"</p>

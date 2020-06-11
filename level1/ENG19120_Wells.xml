@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG19120">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG19120">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Marriage : ELTeC edition</title>
-    <author ref="viaf:97006424">Wells, Herbert George (1866-1946)</author>
+    <author ref="https://viaf.org/viaf/97006424/">Wells, Herbert George (1866-1946)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -33,11 +32,11 @@
       <resp>HTML encoding</resp>
       <name>Eleni Christofaki, Juliet Sutherland and the Online Distributed Proofreading Team</name>
      </respStmt>
-     <ref target="gut:35338">Gutenberg</ref>
+     <ref target="http://www.gutenberg.org/files/35338/35338-h/35338-h.htm">Gutenberg</ref>
     </bibl>
     <bibl type="printSource" n="B0"><title>Marriage</title><author>H. G.
       Wells</author><publisher>London: Macmillan</publisher><date>1912</date>
-     <ref target="ia:marriage00wellgoog"/>
+     <ref target="http://archive.org/details/marriage00wellgoog"/>
     </bibl>
    </sourceDesc>
   </fileDesc>
@@ -69,7 +68,7 @@
     <p> "And the Poor Dears haven't the shadow of a doubt they will live happily ever
       afterwards."—<hi>From a Private Letter</hi>.</p>
     <p>Macmillan and co., Limited</p>
-    <!-- or Nelson? PG text has pbs in diff places -->
+    
    </div>
    <div type="liminal">
     <p>FRATERNALLY </p>

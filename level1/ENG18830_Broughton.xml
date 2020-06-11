@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18830">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18830">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Belinda: A Novel : ELTeC edition</title>
-    <author ref="viaf:45106836">Broughton, Rhoda (1840-1920)</author>
+    <author ref="https://viaf.org/viaf/45106836/">Broughton, Rhoda (1840-1920)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -35,7 +34,7 @@
     </bibl>
     <bibl type="printSource"><title>Belinda. A Novel. New edition</title><author>Broughton, Rhoda
       (1840-1920).</author><publisher>London: Bentley</publisher><date>1884</date>
-     <ref target="bod:590301085.pdf"/>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590301085.pdf"/>
     </bibl>
    </sourceDesc>
   </fileDesc>

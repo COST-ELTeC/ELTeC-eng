@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19080" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19080" xml:lang="en">
 
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The man who was Thursday : ELTeC edition</title>
-    <author ref="viaf:14767719">Chesterton, Gilbert Keith (1874-1936)</author>
+    <author ref="https://viaf.org/viaf/14767719/">Chesterton, Gilbert Keith (1874-1936)</author>
    </titleStmt>
    <extent>
     <measure unit="words">57988</measure>
@@ -33,7 +32,7 @@
      <publisher>Bristol: J.W. Arrowsmith, 11 Quay Street</publisher>
      <publisher>London: Simpkin, Marshall, Hamilton, Kent &amp; Company Limited </publisher>
      <date>1908</date>
-    <ref target="ia:manwhowasthursda00chesrich"/></bibl>
+    <ref target="http://archive.org/details/manwhowasthursda00chesrich"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

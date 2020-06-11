@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The Time Machine: An Invention : ELTeC edition</title>
-    <author ref="viaf:97006424">Wells, Herbert George (1866-1946)</author>
+    <author ref="https://viaf.org/viaf/97006424/">Wells, Herbert George (1866-1946)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -1697,8 +1696,7 @@
      fancied that if I could solve their puzzles I should find myself in possession of powers that
      might be of use against the Morlocks.</p>
     <p>"Suddenly Weena came very close to my side. So suddenly that she startled me. Had it not been
-     for her I do not think I should have noticed that the floor of the gallery sloped at all. <ref
-      target="#notedown1"> 1</ref> The end I had come in at was quite above ground, and was lit by
+     for her I do not think I should have noticed that the floor of the gallery sloped at all. <ref target="#notedown1"> 1</ref> The end I had come in at was quite above ground, and was lit by
      rare slit-like windows. As you went down the length, the ground came up against these windows,
      until at last there was a pit like the 'area' of a London house before each, and only a narrow
      line of daylight at the top. I went slowly along, puzzling

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19170"
- xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19170" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>The shadow-line: ELTec edition</title>
-    <author ref="viaf:73862853">Conrad, Joseph (1857-1924)</author>
+    <author ref="https://viaf.org/viaf/73862853/">Conrad, Joseph (1857-1924)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -17,11 +15,10 @@
     <p>Published as part of ELTeC <date>2020-05-10</date></p>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="digitalSource"><title>The Shadow-Line, by Joseph Conrad</title><ref target="gut:451"
-      >Gutenberg</ref></bibl>
+    <bibl type="digitalSource"><title>The Shadow-Line, by Joseph Conrad</title><ref target="http://www.gutenberg.org/files/451/451-h/451-h.htm">Gutenberg</ref></bibl>
     <bibl type="firstEdition" n="B0"><title>The shadow line : a confession</title><author>Joseph
       Conrad</author><publisher>J.M. Dent</publisher><date>1917</date>
-     <ref target="ia:shadowlineconfes00conruoft"/>
+     <ref target="http://archive.org/details/shadowlineconfes00conruoft"/>
     </bibl>
    </sourceDesc>
   </fileDesc>

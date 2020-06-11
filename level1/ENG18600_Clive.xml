@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18600"
- xml:lang="ENG">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18600" xml:lang="ENG">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
     <title>Why Paul Ferroll Killed His Wife : ELTeC edition</title>
-    <author ref="viaf:3337325">Clive, Caroline Wigley (1801-1873)</author>
+    <author ref="https://viaf.org/viaf/3337325/">Clive, Caroline Wigley (1801-1873)</author>
     <respStmt>
      <resp>Optically scanned, encoded, edited and proofed by </resp>
      <name>Perry Willett</name>
@@ -39,11 +37,11 @@
    <sourceDesc>
     <bibl type="digitalSource"><title>Why Paul Ferroll Killed His Wife : VWWP edition
       </title><author>Clive, Caroline, 1801-1873</author><publisher>Digital Library Program, Indiana
-       University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="vwwp:VAB7194">VWWP</ref></bibl>
+       University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7194">VWWP</ref></bibl>
     <bibl type="printSource" n="B7604"><title>Why Paul Ferroll Killed His Wife</title><author>Clive,
       Caroline, 1801-1873</author><publisher>Saunders, Otley, and Co. </publisher><pubPlace>London
       </pubPlace><date when="1860">1860</date>
-     <ref target="bod:600060055.pdf"/></bibl>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600060055.pdf"/></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -269,8 +267,7 @@
     <p>But now the rain at once arrived and poured upon them.</p>
     <p>“What will Mrs. Axross do,” said Laura, laughing; “she will walk her horse all the way home,
      for fear he should jump at the storm. We must turn back and look for them.”</p>
-    <p>Leslie rather wondered she should do so, instead of profiting by her present <foreign
-      xml:lang="fre">tête‐à‐tête</foreign> with him; but presently he understood the manœuvre. When
+    <p>Leslie rather wondered she should do so, instead of profiting by her present <foreign xml:lang="fre">tête‐à‐tête</foreign> with him; but presently he understood the manœuvre. When
      they came to a cross road, she examined the footmarks on the road, and declared it was most
      extraordinary, but certainly their companions had gone the wrong way.</p>
     <p>“They will get lost in the wood,” she said; “and what will Mr. Axross say, if we go home
@@ -410,8 +407,7 @@
      piano‐forte.</p>
     <p>“Mr. Leslie told me I ought to sing,” she said. “Ought I?”</p>
     <p>“To be sure, if you can. But what—not psalm tunes?”</p>
-    <p>“Very well, I will not. I know a great many airs which Frère du Lap taught all the <foreign
-      xml:lang="fre">pensionnaires</foreign>.”</p>
+    <p>“Very well, I will not. I know a great many airs which Frère du Lap taught all the <foreign xml:lang="fre">pensionnaires</foreign>.”</p>
     <p>“I should like to hear Frère du Lap’s scholar very much,” said Laura.</p>
     <p>“Should you?” said Elinor, looking up at her, unconscious of the sarcasm; and she placed
      herself before the piano‐forte.</p>
@@ -3191,8 +3187,7 @@
     <p>Chance did not show itself favourable to‐day; for her plan had been to keep the lovers apart
      by dividing the party between carriage and horseback, and to visit a show place in the
      neighbourhood, of which the possessors were friends of hers, and their society and chaperonage
-     round their house and garden, would prevent the formation of <foreign xml:lang="fre"
-      >tête‐à‐têtes</foreign>. But before breakfast was over, the clouds let fall their
+     round their house and garden, would prevent the formation of <foreign xml:lang="fre">tête‐à‐têtes</foreign>. But before breakfast was over, the clouds let fall their
      long‐threatening torrents, and in a very short time Mr.
      <pb n="230" xml:id="VAB7194-231"/> Chanson declared the expedition impossible.</p>
     <p>“It will be too late, even if the rain stops by mid‐day,” said he; “you must do something

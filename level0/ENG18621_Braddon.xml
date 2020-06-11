@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18621"
- xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18621" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>Lady Audley's Secret : ELTeC edition</title>
-    <author ref="viaf:66826682">Braddon, Mary Elizabeth (1835-1915).</author>
+    <author ref="https://viaf.org/viaf/66826682/">Braddon, Mary Elizabeth (1835-1915).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>
@@ -27,8 +25,7 @@
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="digitalSource"><title>Lady Audley's Secret</title><ref target="gut:8954"
-      >Gutenberg</ref>
+    <bibl type="digitalSource"><title>Lady Audley's Secret</title><ref target="http://www.gutenberg.org/files/8954/8954-h/8954-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by </resp>
       <name>Jonathan Ingram and Distributed Proofreaders</name>
@@ -36,9 +33,9 @@
     <bibl type="firstEdition" n="B2978"><title>Lady Audley's Secret</title><author>Braddon, Mary
       Elizabeth (1835-1915).</author><publisher>London: Tinsley
       Brothers</publisher><date>1862</date>
-    <ref target="ia:ladyaudleyssecre01brad.pdf">vol 1</ref>; 
-     <ref target="ia:ladyaudleyssecre02brad.pdf">vol 2</ref>; 
-     <ref target="ia:ladyaudleyssecre03brad.pdf">vol 3</ref></bibl>
+    <ref target="http://archive.org/details/ladyaudleyssecre01brad.http://archive.org/details/pdf">vol 1</ref>; 
+     <ref target="http://archive.org/details/ladyaudleyssecre02brad.http://archive.org/details/pdf">vol 2</ref>; 
+     <ref target="http://archive.org/details/ladyaudleyssecre03brad.http://archive.org/details/pdf">vol 3</ref></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
@@ -3916,8 +3913,8 @@
      September afternoon upon which I parted with him alive and well; and lost him as suddenly and
      unaccountably as if a trap-door had opened in the solid earth and let him through to the
      antipodes!"</p></div>
-    <!-- end of volume 1 -->
-   <div type="chapter"><head>The writing in the book</head><!-- chapter  numbering reset 1 -->
+    
+   <div type="chapter"><head>The writing in the book</head>
     <p>Mr. Audley rose from the dinner-table and walked over to the cabinet in which he kept the
      document he had drawn up relating to George Talboys. He unlocked the doors of his cabinet, took
      the paper from the pigeon-hole marked important, and seated himself at his desk to write. He
@@ -7740,8 +7737,8 @@
      "I would do it—I would do it!" She snatched up the lamp and rushed into the adjoining room. She
      shut the door behind her. She could not endure any witness of her horrible despair—she could
      endure nothing, neither herself nor her surroundings.</p>
-    <!-- end of vol 2 -->
-    </div><div type="chapter"><!-- chap numbering reset to 1 -->
+    
+    </div><div type="chapter">
      <head>The red light in the sky</head>
     <p>The door between my lady's dressing-room and the bed-chamber in which Sir Michael lay, had
      been left open. The baronet slept peacefully, his noble face plainly visible in the subdued
