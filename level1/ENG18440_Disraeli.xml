@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18440">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18440">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -24,7 +25,6 @@
      <licence target="https://creativecommons.org/licenses/by/4.0/"/>
     </availability>
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource">
@@ -36,12 +36,12 @@
     </bibl>
     <bibl type="printSource" n="B3025">
      <title>Coningsby: or, The New Generation</title>
-     <author>Disraeli, Benjamin (1804-1881).</author>
+     <author>Disraeli, Benjamin (1804-1881)</author>
      <publisher>London: Henry Colburn</publisher>
      <date>1844</date>
-     <ref target="http://archive.org/details/02717636_5126">volume 1</ref>
-     <ref target="http://archive.org/details/02717636_5125">volume 2</ref>
-     <ref target="http://archive.org/details/02717636_5124">volume 3</ref>
+     <ref target="http://archive.org/details/02717636.5126.emory.edu">volume 1</ref>; 
+     <ref target="http://archive.org/details/02717636.5125.emory.edu">volume 2</ref>; 
+     <ref target="http://archive.org/details/02717636.5124.emory.edu">volume 3</ref>
     </bibl>
    </sourceDesc>
   </fileDesc>
