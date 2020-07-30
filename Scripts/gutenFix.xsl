@@ -140,7 +140,7 @@
     </xsl:template>
     <xsl:template
         match="
-            h:pre | h:blockquote | h:p[@class = 'toc'] | h:br |
+            h:pre |  h:p[@class = 'toc'] | h:br |
             h:a | h:eg | h:table | h:hr | h:div[h:br]"/>
 
     <!-- <xsl:template match="h:p[h:br]">
@@ -157,7 +157,7 @@
     </xsl:template>-->
 
     <xsl:template match="h:p/h:br">
-        <lb/>
+<!--        <lb/>-->
     </xsl:template>
 
     <xsl:template match="h:h4/h:a">
@@ -208,6 +208,11 @@
         </quote>
     </xsl:template>
     <xsl:template match="h:p[@class = 'blockquot']">
+        <quote>
+            <xsl:apply-templates/>
+        </quote>
+    </xsl:template>
+    <xsl:template match="h:blockquote">
         <quote>
             <xsl:apply-templates/>
         </quote>
@@ -282,10 +287,10 @@
             <xsl:attribute name="n">
                 <xsl:choose>
                     <xsl:when test="h:a">
-                        <xsl:value-of select="substring-after(h:a/@name, 'page_')"/>
+                        <xsl:value-of select="substring-after(h:a/@name, '_')"/>
                     </xsl:when>
                     <xsl:when test="@id">
-                        <xsl:value-of select="substring-after(@id, 'Page_')"/>
+                        <xsl:value-of select="substring-after(@id, '_')"/>
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="substring-after(normalize-space(.), 'p.')"/>
@@ -312,6 +317,10 @@
     <xsl:template match="h:span[@class = 'nowrap']">
         <xsl:apply-templates/>
     </xsl:template>
+
+<xsl:template match="h:span[@style]">
+<xsl:apply-templates/>
+</xsl:template>
 
     <xsl:template match="h:div[@class = 'stanza']/h:span[h:br]">
         <l>
