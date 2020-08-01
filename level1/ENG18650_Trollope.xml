@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18650" xml:lang="en">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18650" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -586,6 +587,50 @@
       his worthiness. It was dated from Nethercoats, a small country-house in Cambridgeshire which
       belonged to him, at which he already spent much of his time, and at which he intended to live
       altogether after his marriage.  </p>
+     <quote><p>Nethercoats, June, 186––.</p><p><hi>Dearest Alice</hi>,</p><p>I am glad you have
+       settled your affairs,—foreign affairs, I mean,—so much to your mind. As to your home affairs
+       they are not, to my thinking, quite so satisfactorily arranged. But as I am a party
+       interested in the latter my opinion may perhaps have an undue bias. Touching the tour, I
+       quite agree with you that you and Kate would have been uncomfortable alone. It's a very fine
+       theory, that of women being able to get along without men as well as with them; but, like
+       other fine theories, it will be found very troublesome by those who first put it in practice.
+       Gloved hands, petticoats, feminine softness, and the general homage paid to beauty, all stand
+       in the way of success. These things may perhaps some day be got rid of, and possibly with
+       advantage; but while young ladies are still encumbered with them a male companion will always
+       be found to be a comfort. I don't quite know whether your cousin George is the best possible
+       knight you might have chosen. I should consider myself to be infinitely preferable, had my
+       going been upon the cards. Were you in danger of meeting Paynim foes, he, no doubt, would
+       kill them off much quicker than I could do, and would be much more serviceable in liberating
+       you from the dungeons of oppressors, or even from stray tigers in the Swiss forests. But I
+       doubt his being punctual with the luggage. He will want you or Kate to keep the accounts, if
+       any are kept. He will be slow in getting you glasses of water at the railway stations, and
+       will always keep you waiting at breakfast. I hold that a man with two ladies on a tour should
+       be an absolute slave to them, or they will not fully enjoy themselves. He should simply be an
+       upper servant, with the privilege of sitting at the same table with his mistresses. I have my
+       doubts as to whether your cousin is fit for the place; but, as to myself, it is just the
+       thing that I was made for. Luckily, however, neither you nor Kate are without wills of your
+       own, and perhaps you may be able to reduce Mr. Vavasor to obedience.</p><p>As to the home
+       affairs I have very little to say here,—in this letter. I shall of course run up and see you
+       before you start, and shall probably stay a week in town. I know I ought not to do so, as it
+       will be a week of idleness, and yet not a week of happiness. I'd sooner have an hour with you
+       in the country than a whole day in London. And I always feel in town that I've too much to do
+       to allow of my doing anything. If it were sheer idleness I could enjoy it, but it is a
+       feverish idleness, in which one is driven here and there, expecting some gratification which
+       not only never comes, but which never even begins to come. I will, however, undergo a week of
+       it,—say the last seven days of this month, and shall trust to you to recompense me by as much
+       of yourself as your town doings will permit.</p><p>And now again as to those home affairs. If
+       I say nothing now I believe you will understand why I refrain. You have cunningly just left
+       me to imply, from what you say, that all my arguments have been of no avail; but you do not
+       answer them, or even tell me that you have decided. I shall therefore imply nothing, and
+       still trust to my personal eloquence for success. Or rather not trust,—not trust, but
+       hope.</p><p>The garden is going on very well. We are rather short of water, and therefore not
+       quite as bright as I had hoped; but we are preparing with untiring industry for future
+       brightness. Your commands have been obeyed in all things, and Morrison always says "The
+       mistress didn't mean this," or "The mistress did intend that." God bless the mistress is what
+       I now say, and send her home, to her own home, to her flowers, and her fruit, and her house,
+       and her husband, as soon as may be, with no more of these delays which are to me so grievous,
+       and which seem to me to be so unnecessary. That is my prayer.</p><p>Yours ever and
+       always,</p><p>J. G. </p></quote>
      <p>"I didn't give commands," Alice said to herself, as she sat with the letter at her solitary
       breakfast-table. "He asked me how I liked the things, and of course I was obliged to say. I
       was obliged to seem to care, even if I didn't care." Such were her first thoughts as she put
@@ -2678,6 +2723,51 @@
       answered at once. And she answered it in such words that Mr. Grey resolved that he would at
       once go to her in London. I will give her letter at length, as I shall then be best able to
       proceed with my story quickly.  </p>
+     <quote><p>Queen Anne Street, –– August, 186––.</p><p><hi>Dearest John</hi>,—</p><p>We reached
+       home yesterday tired enough, as we came through from Paris without stopping. I may indeed say
+       that we came through from Strasbourg, as we only slept in Paris. I don't like Strasbourg. A
+       steeple, after all, is not everything, and putting the steeple aside, I don't think the style
+       is good. But the hotel was uncomfortable, which goes for so much;—and then we were saturated
+       with beauty of a better kind.</p><p>I got your letter directly I came in last night, and I
+       suppose I had better dash at it at once. I would so willingly delay doing so, saying nice
+       little things the while, did I not know that this would be mere cowardice. Whatever happens I
+       won't be a coward, and therefore I will tell you at once that I cannot let you hope that we
+       should be married this year. Of course you will ask me why, as you have a right to do, and of
+       course I am bound to answer. I do not know that I can give any answer with which you will not
+       have a right to complain. If it be so, I can only ask your pardon for the injury I am doing
+       you.</p><p>Marriage is a great change in life,—much greater to me than to you, who will
+       remain in your old house, will keep your old pursuits, will still be your own master, and
+       will change in nothing,—except in this, that you will have a companion who probably may not
+       be all that you expect. But I must change everything. It will be to me as though I were
+       passing through a grave to a new world. I shall see nothing that I have been accustomed to
+       see, and must abandon all the ways of life that I have hitherto adopted. Of course I should
+       have thought of this before I accepted you; and I did think of it. I made up my mind that, as
+       I truly loved you, I would risk the change;—that I would risk it for your sake and for mine,
+       hoping that I might add something to your happiness, and that I might secure my own. Dear
+       John, do not suppose that I despair that it may be so; but, indeed, you must not hurry me. I
+       must tune myself to the change that I have to make. What if I should wake some morning after
+       six months living with you, and tell you that the quiet of your home was making me
+       mad?</p><p>You must not ask me again till the winter shall have passed away. If in the
+       meantime I shall find that I have been wrong, I will humbly confess that I have wronged you,
+       and ask you to forgive me. And I will freely admit this. If the delay which I now purpose is
+       so contrary to your own plans as to make your marriage, under such circumstances, not that
+       which you had expected, I know that you are free to tell me so, and to say that our
+       engagement shall be over. I am well aware that I can have no right to bind you to a marriage
+       at one period which you had only contemplated as to take place at another period. I think I
+       may promise that I will obey any wish you may express in anything,—except in that one thing
+       which you urged in your last letter.</p><p>Kate is going down to Yarmouth with Mrs. Greenow,
+       and I shall see no more of her probably till next year, as she will be due in Westmoreland
+       after that. George left me at the door when he brought me home, and declared that he intended
+       to vanish out of London. Whether in town or out, he is never to be seen at this period of the
+       year. Papa offers to go to Ramsgate for a fortnight, but he looks so wretched when he makes
+       the offer, that I shall not have the heart to hold him to it. Lady Macleod very much wants me
+       to go to Cheltenham. I very much want not to go, simply because I can never agree with her
+       about anything; but it will probably end in my going there for a week or two. Over and beyond
+       that, I have no prospects before Christmas which are not purely domestic. There is a project
+       that we shall all eat our Christmas dinner at Vavasor Hall,—of course not including
+       George,—but this project is quite in the clouds, and, as far as I am concerned, will remain
+       there.</p><p>Dear John, let me hear that this letter does not make you unhappy.</p><p>Most
+       affectionately yours,</p><p><hi>Alice Vavasor</hi>. </p></quote>
      <p>At Nethercoats, the post was brought in at breakfast-time, and Mr. Grey was sitting with his
       tea and eggs before him, when he read Alice's letter. He read it twice before he began to
       think what he would do in regard to it, and then referred to one or two others which he had
@@ -3447,6 +3537,101 @@
       at Yarmouth for a month, but she had already been there six weeks, and was still under her
       aunt's wing.  </p>
      <gap unit="graphic" n="ill14"/>
+     <quote><p>Yarmouth, October, 186––.</p><p><hi>Dearest Alice</hi>,</p><p>Of course I am
+       delighted. It is no good saying that I am not. I know how difficult it is to deal with you,
+       and therefore I sit down to answer your letter with fear and trembling, lest I should say a
+       word too much, and thereby drive you back, or not say quite enough and thereby fail to
+       encourage you on. Of course I am glad. I have long thought that Mr. Grey could not make you
+       happy, and as I have thought so, how can I not be glad? It is no use saying that he is good
+       and noble, and all that sort of thing. I have never denied it. But he was not suited to you,
+       and his life would have made you wretched. Ergo, I rejoice. And as you are the dearest friend
+       I have, of course I rejoice mightily.</p><p>I can understand accurately the sort of way in
+       which the interview went. Of course he had the best of it. I can see him so plainly as he
+       stood up in unruffled self-possession, ignoring all that you said, suggesting that you were
+       feverish or perhaps bilious, waving his hand over you a little, as though that might possibly
+       do you some small good, and then taking his leave with an assurance that it would be all
+       right as soon as the wind changed. I suppose it's very noble in him, not taking you at your
+       word, and giving you, as it were, another chance; but there is a kind of nobility which is
+       almost too great for this world. I think very well of you, my dear, as women go, but I do not
+       think well enough of you to believe that you are fit to be Mr. John Grey's wife.</p><p>Of
+       course I'm very glad. You have known my mind from the first to the last, and, therefore, what
+       would be the good of my mincing matters? No woman wishes her dearest friend to marry a man to
+       whom she herself is antipathetic. You would have been as much lost to me, had you become Mrs.
+       Grey of Nethercoats, Cambridgeshire, as though you had gone to heaven. I don't say but what
+       Nethercoats may be a kind of heaven,—but then one doesn't wish one's friend that distant sort
+       of happiness. A flat Eden I can fancy it, hemmed in by broad dykes, in which cream and eggs
+       are very plentiful, where an Adam and an Eve might drink the choicest tea out of the finest
+       china, with toast buttered to perfection, from year's end to year's end; into which no money
+       troubles would ever find their way, nor yet any naughty novels. But such an Eden is not
+       tempting to me, nor, as I think, to you. I can fancy you stretching your poor neck over the
+       dyke, longing to fly away that you might cease to be at rest, but knowing that the
+       matrimonial dragon was too strong for any such flight. If ever bird banged his wings to
+       pieces against gilded bars, you would have banged yours to pieces in that cage.</p><p>You say
+       that you have failed to make him understand that the matter is settled. I need not say that
+       of course it is settled, and that he must be made to understand it. You owe it to him now to
+       put him out of all doubt. He is, I suppose, accessible to the words of a mortal, god though
+       he be. But I do not fear about this, for, after all, you have as much firmness about you as
+       most people;—perhaps as much as he has at bottom, though you may not have so many occasions
+       to show it.</p><p>As to that other matter I can only say that you shall be obliged, as far as
+       it is in my power to obey you. For what may come out from me by word of mouth when we are
+       together, I will not answer with certainty. But my pen is under better control, and it shall
+       not write the offending name.</p><p>And now I must tell you a little about myself;—or rather,
+       I am inclined to spin a yarn, and tell you a great deal. I have got such a lover! But I did
+       describe him before. Of course it's Mr. Cheesacre. If I were to say he hasn't declared
+       himself, I should hardly give you a fair idea of my success. And yet he has not declared
+       himself,—and, which is worse, is very anxious to marry a rival. But it's a strong point in my
+       favour that my rival wants him to take me, and that he will assuredly be driven to make me an
+       offer sooner or later, in obedience to her orders. My aunt is my rival, and I do not feel the
+       least doubt as to his having offered to her half a dozen times. But then she has another
+       lover, Captain Bellfield, and I see that she prefers him. He is a penniless scamp and looks
+       as though he drank. He paints his whiskers too, which I don't like; and, being forty, tries
+       to look like twenty-five. Otherwise he is agreeable enough, and I rather approve of my aunt's
+       taste in preferring him.</p><p>But my lover has solid attractions, and allures me on by a
+       description of the fat cattle which he sends to market. He is a man of substance, and should
+       I ever become Mrs. Cheesacre, I have reason to think that I shall not be left in want. We
+       went up to his place on a visit the other day. Oileymead is the name of my future home;—not
+       so pretty as Nethercoats, is it? And we had such a time there! We reached the place at ten
+       and left it at four, and he managed to give us three meals. I'm sure we had before our eyes
+       at different times every bit of china, delf, glass, and plate in the establishment. He made
+       us go into the cellar, and told us how much wine he had got there, and how much beer. "It's
+       all paid for, Mrs. Greenow, every bottle of it," he said, turning round to my aunt, with a
+       pathetic earnestness, for which I had hardly given him credit. "Everything in this house is
+       my own; it's all paid for. I don't call anything a man's own till it's paid for. Now that
+       jacket that Bellfield swells about with on the sands at Yarmouth,—that's not his own,—and
+       it's not like to be either." And then he winked his eye as though bidding my aunt to think of
+       that before she encouraged such a lover as Bellfield. He took us into every bedroom, and
+       disclosed to us all the glories of his upper chambers. It would have done you good to see him
+       lifting the counterpanes, and bidding my aunt feel the texture of the blankets! And then to
+       see her turn round to me and say:—"Kate, it's simply the best-furnished house I ever went
+       over in my life!"—"It does seem very comfortable," said I. "Comfortable!" said he. "Yes, I
+       don't think there's anybody can say that Oileymead isn't comfortable." I did so think of you
+       and Nethercoats. The attractions are the same;—only in the one place you would have a god for
+       your keeper, and in the other a brute. For myself, if ever I'm to have a keeper at all, I
+       shall prefer a man. But when we got to the farmyard his eloquence reached the highest pitch.
+       "Mrs. Greenow," said he, "look at that," and he pointed to heaps of manure raised like the
+       streets of a little city. "Look at that!" "There's a great deal," said my aunt. "I believe
+       you," said he. "I've more muck upon this place here than any farmer in Norfolk, gentle or
+       simple; I don't care who the other is." Only fancy, Alice; it may all be mine; the blankets,
+       the wine, the muck, and the rest of it. So my aunt assured me when we got home that evening.
+       When I remarked that the wealth had been exhibited to her and not to me, she did not affect
+       to deny it, but treated that as a matter of no moment. "He wants a wife, my dear," she said,
+       "and you may pick him up to-morrow by putting out your hand." When I remarked that his mind
+       seemed to be intent on low things, and specially named the muck, she only laughed at me.
+       "Money's never dirty," she said, "nor yet what makes money." She talks of taking lodgings in
+       Norwich for the winter, saying that in her widowed state she will be as well there as
+       anywhere else, and she wants me to stay with her up to Christmas. Indeed she first proposed
+       the Norwich plan on the ground that it might be useful to me,—with a view to Mr. Cheesacre,
+       of course; but I fancy that she is unwilling to tear herself away from Captain Bellfield. At
+       any rate to Norwich she will go, and I have promised not to leave her before the second week
+       in November. With all her absurdities I like her. Her faults are terrible faults, but she has
+       not the fault of hiding them by falsehood. She is never stupid, and she is very good-natured.
+       She would have allowed me to equip myself from head to foot at her expense, if I would have
+       accepted her liberality, and absolutely offered to give me my trousseau if I would marry Mr.
+       Cheesacre.</p><p>I live in the hope that you will come down to the old place at Christmas. I
+       won't offend you more than I can help. At any rate he won't be there. And if I don't see you
+       there, where am I to see you? If I were you I would certainly not go to Cheltenham. You are
+       never happy there.</p><p>Do you ever dream of the river at Basle? I do;—so often.</p><p>Most
+       affectionately yours,</p><p><hi>Kate Vavasor</hi>. </p></quote>
      <p>Alice had almost lost the sensation created by the former portion of Kate's letter by the
       fun of the latter, before she had quite made that sensation her own. The picture of the
       Cambridgeshire Eden would have displeased her had she dwelt upon it, and the allusion to the
@@ -4750,9 +4935,53 @@
       Palliser," she read that letter first,—read it twice before she went back to the disagreeable
       task of perusing Lady Midlothian's lecture. The reader shall have both the letters, but that
       from the Countess shall have precedence.  </p>
+     <quote><p>Castle Reekie, N.B. –– Oct. 186––.</p><p><hi>My dear Miss Vavasor</hi>,</p><p>I have
+       not the pleasure of knowing you personally, though I have heard of you very often from our
+       dear mutual friend and relative Lady Macleod, with whom I understand that you are at present
+       on a visit. Your grandmother,—by the mother's side,—Lady Flora Macleod, and my mother the
+       Countess of Leith, were half-sisters; and though circumstances since that have prevented our
+       seeing so much of each other as is desirable, I have always remembered the connection, and
+       have ever regarded you as one in whose welfare I am bound by ties of blood to take a warm
+       interest. </p></quote>
      <p>"'Since that!'—what does she mean by 'since that'?" said Alice to herself. "She has never
       set eyes on me at all. Why does she talk of not having seen as much of me as is desirable?"
        </p>
+     <quote><p>I had learned with great gratification that you were going to be married to a most
+       worthy gentleman, Mr. John Grey of Nethercoats, in Cambridgeshire. When I first heard this I
+       made it my business to institute some inquiries, and I was heartily glad to find that your
+       choice had done you so much credit. [If the reader has read Alice's character as I have meant
+       it should be read, it will thoroughly be understood that this was wormwood to her.] I was
+       informed that Mr. Grey is in every respect a gentleman,—that he is a man of most excellent
+       habits, and one to whom any young woman could commit her future happiness with security, that
+       his means are very good for his position, and that there was no possible objection to such a
+       marriage. All this gave great satisfaction to me, in which I was joined by the Marchioness of
+       Auld Reekie, who is connected with you almost as nearly as I am, and who, I can assure you,
+       feels a considerable interest in your welfare. I am staying with her now, and in all that I
+       say, she agrees with me.</p><p>You may feel then how dreadfully we were dismayed when we were
+       told by dear Lady Macleod that you had told Mr. Grey that you intended to change your mind!
+       My dear Miss Vavasor, can this be true? There are things in which a young lady has no right
+       to change her mind after it has been once made up; and certainly when a young lady has
+       accepted a gentleman, that is one of them. He cannot legally make you become his wife, but he
+       has a right to claim you before God and man. Have you considered that he has probably
+       furnished his house in consequence of his intended marriage,—and perhaps in compliance with
+       your own especial wishes? [I think that Lady Macleod must have told the Countess something
+       that she had heard about the garden.] Have you reflected that he has of course told all his
+       friends? Have you any reason to give? I am told, none! Nothing should ever be done without a
+       reason; much less such a thing as this in which your own interests and, I may say,
+       respectability are involved. I hope you will think of this before you persist in destroying
+       your own happiness and perhaps that of a very worthy man.</p><p>I had heard, some years ago,
+       when you were much younger, that you had become imprudently attached in another
+       direction—with a gentleman with none of those qualities to recommend him which speak so
+       highly for Mr. Grey. It would grieve me very much, as it would also the Marchioness, who in
+       this matter thinks exactly as I do, if I were led to suppose that your rejection of Mr. Grey
+       had been caused by <hi>any renewal of that project</hi>. Nothing, my dear Miss Vavasor, could
+       be more unfortunate,—and I might almost add a stronger word.</p><p>I have been advised that a
+       line from me as representing your poor mother's family, especially as I have at the present
+       moment the opportunity of expressing Lady Auld Reekie's sentiments as well as my own, might
+       be of service. I implore you, my dear Miss Vavasor, to remember what you owe to God and man,
+       and to carry out an engagement made by yourself, that is in all respects comme il faut, and
+       which will give entire satisfaction to your friends and relatives.</p><p><hi>Margaret M.
+        Midlothian</hi>. </p></quote>
      <p>I think that Lady Macleod had been wrong in supposing that this could do any good. She
       should have known Alice better; and should also have known the world better. But her own
       reverence for her own noble relatives was so great that she could not understand, even yet,
@@ -4766,6 +4995,19 @@
       letter on which to occupy her mind, and thus relieve her from the effects of too deep an
       animosity against the Countess.</p>
      <p>The Lady Glencora's letter was as follows:  </p>
+     <quote><p>Matching Priory, Thursday.</p><p><hi>Dear Cousin</hi>,</p><p>I have just come home
+       from Scotland, where they have been telling me something of your little troubles. I had
+       little troubles once too, and you were so good to me! Will you come to us here for a few
+       weeks? We shall be here till Christmas-time, when we go somewhere else. I have told my
+       husband that you are a great friend of mine as well as a cousin, and that he must be good to
+       you. He is very quiet, and works very hard at politics; but I think you will like him. Do
+       come! There will be a good many people here, so that you will not find it dull. If you will
+       name the day we will send the carriage for you at Matching Station, and I dare say I can
+       manage to come myself.</p><p>Yours affectionately,</p><p><hi>G. Palliser</hi>.</p><p>P.S. I
+       know what will be in your mind. You will say, why did not she come to me in London? She knew
+       the way to Queen Anne Street well enough. Dear Alice, don't say that. Believe me, I had much
+       to do and think of in London. And if I was wrong, yet you will forgive me. Mr. Palliser says
+       I am to give you his love,—as being a cousin,—and say that you must come! </p></quote>
      <p>This letter was certainly better than the other, but Alice, on reading it, came to a resolve
       that she would not accept the invitation. In the first place, even that allusion to her little
       troubles jarred upon her feelings; and then she thought that her rejection of Mr. Grey could
@@ -7806,6 +8048,75 @@
       a writing-desk on the other side of the room. "I needn't send it when it's written," he said
       to himself, "and the chances are that I won't." Then he took his paper, and wrote as follows:—
        </p>
+     <quote><p><hi>Dear Alice</hi>,</p><p>The time was when the privilege was mine of beginning my
+       letters to you with a warmer show of love than the above word contains,—when I might and did
+       call you dearest; but I lost that privilege through my own folly, and since that it has been
+       accorded to another. But you have found,—with a thorough honesty of purpose than which I know
+       nothing greater,—that it has behoved you to withdraw that privilege also. I need hardly say
+       that I should not have written as I now write, had you not found it expedient to do as you
+       have done. I now once again ask you to be my wife. In spite of all that passed in those old
+       days,—of all the selfish folly of which I was then guilty, I think you know, and at the time
+       knew, that I ever loved you. I claim to say for myself that my love to you was true from
+       first to last, and I claim from you belief for that statement. Indeed I do not think that you
+       ever doubted my love.</p><p>Nevertheless, when you told me that I might no longer hope to
+       make you my wife, I had no word of remonstrance that I could utter. You acted as any woman
+       would act whom love had not made a fool. Then came the episode of Mr. Grey; and bitter as
+       have been my feelings whilst that engagement lasted, I never made any attempt to come between
+       you and the life you had chosen. In saying this I do not forget the words which I spoke last
+       summer at Basle, when, as far as I knew, you still intended that he should be your husband.
+       But what I said then was nothing to that which, with much violence, I refrained from saying.
+       Whether you remember those few words I cannot tell; but certainly you would not have
+       remembered them,—would not even have noticed them,—had your heart been at
+       Nethercoats.</p><p>But all this is nothing. You are now again a free woman; and once again I
+       ask you to be my wife. We are both older than we were when we loved before, and will both be
+       prone to think of marriage in a somewhat different light. Then personal love for each other
+       was most in our thoughts. God forbid that it should not be much in our thoughts now! Perhaps
+       I am deceiving myself in saying that it is not even now stronger in mine than any other
+       consideration. But we have both reached that time of life, when it is probable that in any
+       proposition of marriage we should think more of our adaptability to each other than we did
+       before. For myself I know that there is much in my character and disposition to make me unfit
+       to marry a woman of the common stamp. You know my mode of life, and what are my hopes and my
+       chances of success. I run great risk of failing. It may be that I shall encounter ruin where
+       I look for reputation and a career of honour. The chances are perhaps more in favour of ruin
+       than of success. But, whatever may be the chances, I shall go on as long as any means of
+       carrying on the fight are at my disposal. If you were my wife to-morrow I should expect to
+       use your money, if it were needed, in struggling to obtain a seat in Parliament and a hearing
+       there. I will hardly stoop to tell you that I do not ask you to be my wife for the sake of
+       this aid;—but if you were to become my wife I should expect all your cooperation;—with your
+       money, possibly, but certainly with your warmest spirit.</p><p>And now, once again,
+       Alice,—dearest Alice, will you be my wife? I have been punished, and I have kissed the
+       rod,—as I never kissed any other rod. You cannot accuse my love. Since the time in which I
+       might sit with my arm round your waist, I have sat with it round no other waist. Since your
+       lips were mine, no other lips have been dear to me. Since you were my counsellor, I have had
+       no other counsellor,—unless it be poor Kate, whose wish that we may at length be married is
+       second in earnestness only to my own. Nor do I think you will doubt my repentance. Such
+       repentance indeed claims no merit, as it has been the natural result of the loss which I have
+       suffered. Providence has hitherto been very good to me in not having made that loss
+       irremediable by your marriage with Mr. Grey. I wish you now to consider the matter well, and
+       to tell me whether you can pardon me and still love me. Do I flatter myself when I feel that
+       I doubt your pardon almost more than I doubt your love?</p><p>Think of this thing in all its
+       bearings before you answer me. I am so anxious that you should think of it that I will not
+       expect your reply till this day week. It can hardly be your desire to go through life
+       unmarried. I should say that it must be essential to your ambition that you should join your
+       lot to that of some man the nature of whose aspirations would be like to your own. It is
+       because this was not so as regarded him whose suit you had accepted, that you found yourself
+       at last obliged to part from him. May I not say that with us there would be no such
+       difference? It is because I believe that in this respect we are fitted for each other, as man
+       and woman seldom are fitted, that I once again ask you to be my wife.</p><p>This will reach
+       you at Vavasor, where you will now be with the old squire and Kate. I have told her nothing
+       of my purpose in writing this letter. If it should be that your answer is such as I desire, I
+       should use the opportunity of our re-engagement to endeavour to be reconciled to my
+       grandfather. He has misunderstood me and has ill-used me. But I am ready to forgive that, if
+       he will allow me to do so. In such case you and Kate would arrange that, and I would, if
+       possible, go down to Vavasor while you are there. But I am galloping on a-head foolishly in
+       thinking of this, and am counting up my wealth while the crockery in my basket is so very
+       fragile. One word from you will decide whether or no I shall ever bring it into
+       market.</p><p>If that word is to be adverse do not say anything of a meeting between me and
+       the Squire. Under such circumstances it would be impossible. But, oh, Alice! do not let it be
+       adverse. I think you love me. Your woman's pride towards me has been great and good and
+       womanly; but it has had its way; and, if you love me, might now be taught to
+       succumb.</p><p>Dear Alice, will you be my wife?</p><p>Yours, in any event, most
+       affectionately,</p><p><hi>George Vavasor</hi>. </p></quote>
      <p>Vavasor, when he had finished his letter, went back to his seat over the fire, and there he
       sat with it close at his hand for nearly an hour. Once or twice he took it up with fingers
       almost itching to throw it into the fire. He took it up and held the corners between his
@@ -8370,6 +8681,50 @@
       so it remained until after the girl had brought him his tea and his toast. "And now," said he,
       as he threw himself into his arm-chair, "let us see what the girl of my heart says to me." The
       girl of his heart said to him as follows:—  </p>
+     <quote><p><hi>My dear George</hi>,</p><p>I feel great difficulty in answering your letter.
+       Could I have my own way, I should make no answer to it at present, but leave it for the next
+       six months, so that then such answer might hereafter be made as circumstances should seem to
+       require. This will be little flattering to you, but it is less flattering to myself. Whatever
+       answer I may make, how can anything in this affair be flattering either to you or to me? We
+       have been like children who have quarrelled over our game of play, till now, at the close of
+       our little day of pleasure, we are fain to meet each other in tears, and acknowledge that we
+       have looked for delights where no delights were to be found.</p><p>Kate, who is here, talks
+       to me of passionate love. There is no such passion left to me;—nor, as I think, to you
+       either. It would not now be possible that you and I should come together on such terms as
+       that. We could not stand up together as man and wife with any hope of a happy marriage,
+       unless we had both agreed that such happiness might be had without passionate love.</p><p>You
+       will see from all this that I do not refuse your offer. Without passion, I have for you a
+       warm affection, which enables me to take a livelier interest in your career than in any other
+       of the matters which are around me. Of course, if I become your wife that interest will be
+       still closer and dearer, and I do feel that I can take in it that concern which a wife should
+       have in her husband's affairs.</p><p>If it suits you, I will become your wife;—but it cannot
+       be quite at once. I have suffered much from the past conflicts of my life, and there has been
+       very much with which I must reproach myself. I know that I have behaved badly. Sometimes I
+       have to undergo the doubly bitter self-accusation of having behaved in a manner which the
+       world will call unfeminine. You must understand that I have not passed through this
+       unscathed, and I must beg you to allow me some time for a cure. A perfect cure I may never
+       expect, but I think that in twelve months from this time I may so far have recovered my usual
+       spirit and ease of mind as to enable me to devote myself to your happiness. Dear George, if
+       you will accept me under such circumstances, I will be your wife, and will endeavour to do my
+       duty by you faithfully.</p><p>I have said that even now, as your cousin, I take a lively
+       interest in your career,—of course I mean your career as a politician,—and especially in your
+       hopes of entering Parliament. I understand, accurately as I think, what you have said about
+       my fortune, and I perfectly appreciate your truth and frankness. If I had nothing of my own
+       you, in your circumstances, could not possibly take me as your wife. I know, moreover, that
+       your need of assistance from my means is immediate rather than prospective. My money may be
+       absolutely necessary to you within this year, during which, as I tell you most truly, I
+       cannot bring myself to become a married woman. But my money shall be less cross-grained than
+       myself. You will take it as frankly as I mean it when I say, that whatever you want for your
+       political purposes shall be forthcoming at your slightest wish. Dear George, let me have the
+       honour and glory of marrying a man who has gained a seat in the Parliament of Great Britain!
+       Of all positions which a man may attain that, to me, is the grandest.</p><p>I shall wait for
+       a further letter from you before I speak either to my father or to my grandfather. If you can
+       tell me that you accede to my views, I will at once try to bring about a reconciliation
+       between you and the Squire. I think that that will be almost easier than inducing my father
+       to look with favour upon our marriage. But I need hardly say that should either one or the
+       other oppose it,—or should both do so,—that would not turn me from my purpose.</p><p>I also
+       wait for your answer to write a last line to Mr. Grey.</p><p>Your affectionate
+        cousin,</p><p><hi>Alice Vavasor</hi>. </p></quote>
      <p>George Vavasor when he had read the letter threw it carelessly from him on to the breakfast
       table, and began to munch his toast. He threw it carelessly from him, as though taking a
       certain pride in his carelessness. "Very well," said he; "so be it. It is probably the best
@@ -9888,6 +10243,8 @@
       little crumpled note was brought up to her. A boy had just come with it across the fell from
       Vavasor Hall, and Kate, as soon as she saw her name on the outside, knew that it was from her
       grandfather. It was as <hi>follows:—</hi>  </p>
+     <quote><p>"If George wishes to come to the Hall, let him come. If he chooses to tell me that he
+       regrets his conduct to me, I will see him." </p></quote>
      <p>"What is it?" said George. Then Kate put the note into her brother's hand.</p>
      <p>"I'll do nothing of the kind," he said. "What good should I get by going to the old man's
       house?"</p>
@@ -10600,6 +10957,15 @@
       hall of his ancestors was not satisfactory.</p>
      <p>On the fourth day, about noon, came Aunt Greenow's reply. "Dearest Kate," she said, "I am
       not going to do what you ask me,"—thus rushing instantly into the middle of her subject.  </p>
+     <quote><p>You see, I don't know my nephew, and have no reason for being specially anxious that
+       he should be in Parliament. I don't care two straws about the glory of the Vavasor family. If
+       I had never done anything for myself, the Vavasors would have done very little for me. I
+       don't care much about what you call 'blood.' I like those who like me, and whom I know. I am
+       very fond of you, and because you have been good to me I would give you a thousand pounds if
+       you wanted it for yourself; but I don't see why I am to give my money to those I don't know.
+       If it is necessary to tell my nephew of this, pray tell him that I mean no
+       offence.</p><p>Your friend C. is still waiting—waiting—waiting, patiently; but his patience
+       may be exhausted.</p><p>Your affectionate aunt,</p><p><hi>Arabella Greenow</hi>. </p></quote>
      <p>"Of course she won't," said George, as he threw back the letter to his sister. "Why should
       she?"</p>
      <p>"I had hoped she would," said Kate.</p>
@@ -14064,6 +14430,85 @@
       of my story hangs upon it, I will give it at length, though it was a long letter. It had been
       written with great struggles, and with many tears, and Kate, as she read it to the end, almost
       forgot that her grandfather was lying dead in the room above her.  </p>
+     <quote><p>Queen Anne Street, April, 186––.</p><p><hi>Dearest Kate</hi>,</p><p>I hardly know how
+       to write to you—what I have to tell, and yet I must tell it. I must tell it to you, but I
+       shall never repeat the story to any one else. I should have written yesterday, when it
+       occurred, but I was so ill that I felt myself unable to make the exertion. Indeed, at one
+       time, after your brother had left me, I almost doubted whether I should ever be able to
+       collect my thoughts again. My dismay was at first so great that my reason for a time deserted
+       me, and I could only sit and cry like an idiot.</p><p>Dear Kate, I hope you will not be angry
+       with me for telling you. I have endeavoured to think about it as calmly as I can, and I
+       believe that I have no alternative. The fact that your brother has quarrelled with me cannot
+       be concealed from you, and I must not leave him to tell you of the manner of it. He came to
+       me yesterday in great anger. His anger then was nothing to what it became afterwards; but
+       even when he first came in he was full of wrath. He stood up before me, and asked me how it
+       had come to pass that I had sent him the money which he had asked of me through the hands of
+       Mr. Grey. Of course I had not done this, and so I told him at once. I had spoken of the
+       matter to no one but papa, and he had managed it for me. Even now I know nothing of it, and
+       as I have not yet spoken to papa I cannot understand it. George at once told me that he
+       disbelieved me, and when I sat quiet under this insult, he used harsher words, and said that
+       I had conspired to lower him before the world.</p><p>He then asked me whether I loved him.
+       Oh, Kate, I must tell it you all, though it is dreadful to me that I should have to write it.
+       You remember how it came to pass when we were in Westmoreland together at Christmas? Do not
+       think that I am blaming you, but I was very rash then in the answers which I made to him. I
+       thought that I could be useful to him as his wife, and I had told myself that it would be
+       good that I should be of use in some way. When he asked me that question yesterday, I sat
+       silent. Indeed, how could I have answered it in the affirmative, when he had just used such
+       language to me,—while he was standing opposite to me, looking at me in that way which he has
+       when he is enraged? Then he spoke again and demanded of me that I should at once send back to
+       Mr. Grey all presents of his which I had kept, and at the same time took up and threw across
+       the table on to the sofa near me, a little paper knife which Mr. Grey once gave me. I could
+       not allow myself to be so ordered by him; so I said nothing, but put the knife back upon the
+       table. He then took it again and threw it beneath the grate. "I have a right to look upon you
+       as my wife," he said, "and, as such, I will not allow you to keep that man's things about
+       you." I think I told him then that I should never become his wife, but though I remember many
+       of his words, I remember none of my own. He swore, I know, with a great oath, that if I went
+       back a second time from my word to him he would leave me no peace,—that he would punish me
+       for my perfidy with some fearful punishment. Oh, Kate, I cannot tell you what he looked like.
+       He had then come quite close to me, and I know that I trembled before him as though he were
+       going to strike me. Of course I said nothing. What could I say to a man who behaved to me in
+       such a manner? Then, as far as I can remember it, he sat down and began to talk about money.
+       I forget what he said at first, but I know that I assured him that he might take what he
+       wanted so long as enough was left to prevent my being absolutely a burden on papa. "That,
+       madam, is a matter of course," he said. I remember those words so well. Then he explained
+       that after what had passed between us, I had no right to ruin him by keeping back from him
+       money which had been promised to him, and which was essential to his success. In this, dear
+       Kate, I think he was mainly right. But he could not have been right in putting it to me in
+       that hard, cruel manner, especially as I had never refused anything that he had asked of me
+       in respect of money. The money he may have while it lasts; but then there must be an end of
+       it all between us, even though he should have the power of punishing me, as he says he will
+       do. Punishing me, indeed! What punishment can be so hard as that which he has already
+       inflicted?</p><p>He then desired me to write a letter to him which he might show to the
+       lawyer,—to our own lawyer, I think he meant,—in order that money might be raised to pay back
+       what Mr. Grey had advanced, and give him what he now required. I think he said it was to be
+       five thousand pounds. When he asked this I did not move. Indeed, I was unable to move. Then
+       he spoke very loud, and swore at me again, and brought me pen and ink, demanding that I
+       should write the letter. I was so frightened that I thought of running to the door to escape,
+       and I would have done so had I not distrusted my own power. Had it been to save my life I
+       could not have written the letter. I believe I was now crying,—at any rate I threw myself
+       back and covered my face with my hands. Then he came and sat by me, and took hold of my arms.
+       Oh, Kate; I cannot tell it you all. He put his mouth close to my ear, and said words which
+       were terrible, though I did not understand them. I do not know what it was he said, but he
+       was threatening me with his anger if I did not obey him. Before he left me, I believe I found
+       my voice to tell him that he should certainly have the money which he required. And so he
+       shall. I will go to Mr. Round myself, and insist on its being done. My money is my own, and I
+       may do with it as I please. But I hope,—I am obliged to hope, that I may never be made to see
+       my cousin again.</p><p>I will not pretend to express any opinion as to the cause of all this.
+       It is very possible that you will not believe all I say,—that you will think that I am mad
+       and have deluded myself. Of course your heart will prompt you to accuse me rather than him.
+       If it is so, and if there must therefore be a division between us, my grief will be greatly
+       increased; but I do not know that I can help it. I cannot keep all this back from you. He has
+       cruelly ill-used me and insulted me. He has treated me as I should have thought no man could
+       have treated a woman. As regards money, I did all that I could do to show that I trusted him
+       thoroughly, and my confidence has only led to suspicion. I do not know whether he understands
+       that everything must be over between us; but, if not, I must ask you to tell him so. And I
+       must ask you to explain to him that he must not come again to Queen Anne Street. If he does,
+       nothing shall induce me to see him. Tell him also that the money that he wants shall
+       assuredly be sent to him as soon as I can make Mr. Round get it.</p><p>Dearest Kate,
+       good-bye. I hope you will feel for me. If you do not answer me I shall presume that you think
+       yourself bound to support his side, and to believe me to have been wrong. It will make me
+       very unhappy; but I shall remember that you are his sister, and I shall not be angry with
+       you.</p><p>Yours always affectionately,</p><p><hi>Alice Vavasor</hi>. </p></quote>
      <p>Kate, as she read her letter through, at first quickly, and then very slowly, came by
       degrees almost to forget that death was in the house. Her mind, and heart, and brain, were
       filled with thoughts and feelings that had exclusive reference to Alice and her brother, and
@@ -14804,10 +15249,10 @@
       a boy had brought it over with a cart from Shap, and that it was intended for Miss Vavasor,
       and it was she who knocked at the sickroom door. The note was open and was not addressed;
       indeed, the words were written on a scrap of paper that was crumpled up rather than folded,
-      and were as follows: "Send me my clothes by the bearer. I shall not return to the house." Mrs.
-      Greenow took it in to Kate, and then went away to see her nephew's things duly put into his
-      portmanteau. This was sent away in the cart, and Mr. Vavasor, as he went up-stairs, was told
-      what had been done.</p>
+      and were as follows: <quote>"Send me my clothes by the bearer. I shall not return to the
+       house."</quote> Mrs. Greenow took it in to Kate, and then went away to see her nephew's
+      things duly put into his portmanteau. This was sent away in the cart, and Mr. Vavasor, as he
+      went up-stairs, was told what had been done.</p>
      <p>Neither on that night or on the following day did Mrs. Greenow ask any further questions;
       but on the morning after that, when the doctor had left them with a good account of the broken
       limb, her curiosity would brook no further delay. And, indeed, indignation as well as
@@ -15601,6 +16046,25 @@
      <p>"Oh, you're Mr. Vavasor's clerk. I'll read his letter, if you please, sir."</p>
      <p>"If you please, miss."</p>
      <p>George Vavasor's letter to his cousin was as follows:—  </p>
+     <quote><p><hi>Dear Alice</hi>,</p><p>After what passed between us when I last saw you I thought
+       that on my return from Westmoreland I should learn that you had paid in at my bankers' the
+       money that I require. But I find that this is not so; and of course I excuse you, because
+       women so seldom know when or how to do that which business demands of them. You have, no
+       doubt, heard the injustice which my grandfather has done me, and will probably feel as
+       indignant as I do. I only mention this now, because the nature of his will makes it more than
+       ever incumbent on you that you should be true to your pledge to me.</p><p>Till there shall be
+       some ground for a better understanding between us,—and this I do not doubt will come,—I think
+       it wiser not to call, myself, at Queen Anne Street. I therefore send my confidential clerk
+       with four bills, each of five hundred pounds, drawn at fourteen days' date, across which I
+       will get you to write your name. Mr. Levy will show you the way in which this should be done.
+       Your name must come under the word "accepted," and just above the name of Messrs. Drummonds,
+       where the money must be lying ready, at any rate, not later than Monday fortnight. Indeed,
+       the money must be there some time on the Saturday. They know you so well at Drummonds' that
+       you will not object to call on the Saturday afternoon, and ask if it is all right.</p><p>I
+       have certainly been inconvenienced by not finding the money as I expected on my return to
+       town. If these bills are not properly provided for, the result will be very disastrous to me.
+       I feel, however, sure that this will be done, both for your own sake and for
+       mine.</p><p>Affectionately yours,</p><p><hi>George Vavasor</hi>. </p></quote>
      <p>The unparalleled impudence of this letter had the effect which the writer had intended. It
       made Alice think immediately of her own remissness,—if she had been remiss,—rather than of the
       enormity of his claim upon her. The decision with which he asked for her money, without any
@@ -19219,6 +19683,10 @@
       from the day in which Mr. Palliser was made so triumphant,—and when tidings had been duly sent
       to the Duke, and an answer from his Grace had come, arrangements were made for the return of
       the party to England. The Duke's reply was very short:—  </p>
+     <quote><p><hi>My dear Plantagenet</hi>,—Give my kind love to Glencora. If it's a boy, of course
+       I will be one of the godfathers. The Prince, who is very kind, will perhaps oblige me by
+       being the other. I should advise you to return as soon as convenient.</p><p>Your affectionate
+       uncle,</p><p><hi>Omnium</hi>. </p></quote>
      <p>That was the letter; and short as it was, it was probably the longest that Mr. Palliser had
       ever received from the Duke.</p>
      <p>There was great trouble about the mode of their return.</p>
@@ -20240,6 +20708,18 @@
       wrote to you. But when I'm gone, as I shall be soon, she will be the nearest relative you have
       on your mother's side, and from her great position, you know, <hi>Alice—"</hi> But here Alice
       became impatient for the letter. Her aunt handed it to her, and she read as follows:—  </p>
+     <quote><p>Castle Reekie, July, 186––.</p><p><hi>Dear Lady Macleod</hi>,—</p><p>I am sorry to
+       hear of the symptoms you speak about. I strongly advise you to depend chiefly on beef-tea.
+       They should be very careful to send it up quite free from grease, and it should not be too
+       strong of the meat. There should be no vegetables in it. Not soup, you know, but beef-tea. If
+       any thing acts upon your strength, that will. I need not tell one who has lived as you have
+       done where to look for that other strength which alone can support you at such a time as
+       this. I would go to you if I thought that my presence would be any comfort to you, but I know
+       how sensitive you are, and the shock might be too much for you.</p><p>If you see Alice
+       Vavasor on her return to England, as you probably will, pray tell her from me that I give her
+       my warmest congratulations, and that I am heartily glad that matters are arranged. I think
+       she treated my attempts to heal the wound in a manner that they did not deserve; but all that
+       shall be forgiven, as shall also her original bad behaviour to poor Mr. Grey. </p></quote>
      <p>Alice was becoming weary of so much forgiveness, and told herself, as she was reading the
       letter, that that of Lady Midlothian was at any rate unnecessary. "I trust that we may yet
       meet and be friends," continued Lady Midlothian. "I am extremely gratified at finding that she
