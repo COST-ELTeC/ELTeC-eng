@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18952">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -16,25 +19,20 @@
     <measure unit="pages">153</measure>
    </extent>
    <publicationStmt>
-    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary
-     History" (CA16204)</publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-    <date when="2019-11-09"/>
-    <availability>
-     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-    </availability>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>The Time Machine: An
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>The Time Machine: An
       Invention</title><title>Nineteenth-Century Fiction Full-Text
       Database</title><publisher>Chadwyck-Healey Ltd (A Bell &amp; Howell Information and Learning
-      company)</publisher><date>2000</date></bibl>
-    <bibl type="firstEdition" n="B8588"><title>The Time Machine: An Invention</title><author>Wells,
+      company)</publisher><date>2000</date></bibl><bibl type="firstEdition" n="B8588"><title>The Time Machine: An Invention</title><author>Wells,
       H. G. (1866-1946).</author><publisher>London: William
-     Heinemann</publisher><date>1895</date></bibl>
-    <bibl type="printSource"><title>The Time Machine: An Invention</title><author>H.G. Wells</author><publisher>New York: Henry Holt and Company</publisher><date>1895</date><ref target="https://archive.org/details/timemachineinven00well/"/></bibl>
-   </sourceDesc>
+     Heinemann</publisher><date>1895</date></bibl><bibl type="printSource"><title>The Time Machine: An Invention</title><author>H.G. Wells</author><publisher>New York: Henry Holt and Company</publisher><date>1895</date><ref target="https://archive.org/details/timemachineinven00well/"/></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -56,6 +54,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2019-01-08">LB convert to ELTeC-1</change>
@@ -1697,7 +1696,7 @@
      fancied that if I could solve their puzzles I should find myself in possession of powers that
      might be of use against the Morlocks.</p>
     <p>"Suddenly Weena came very close to my side. So suddenly that she startled me. Had it not been
-     for her I do not think I should have noticed that the floor of the gallery sloped at all. <ref target="#notedown1"> 1</ref> The end I had come in at was quite above ground, and was lit by
+     for her I do not think I should have noticed that the floor of the gallery sloped at all. <ref target="#notedown1"> 1</ref><ref target="#notedown1"> 1</ref> The end I had come in at was quite above ground, and was lit by
      rare slit-like windows. As you went down the length, the ground came up against these windows,
      until at last there was a pit like the 'area' of a London house before each, and only a narrow
      line of daylight at the top. I went slowly along, puzzling

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18481" xml:lang="en">
  <teiHeader>
@@ -21,32 +23,28 @@
     <measure unit="words">348793</measure>
    </extent>
    <publicationStmt>
-    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary
-     History" (CA16204)</publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-    <date when="2019-11-09"/>
-    <availability>
-     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-    </availability>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>Dombey and Son</title>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>Dombey and Son</title>
      <ref target="http://hdl.handle.net/20.500.12024/3164">OTA</ref>
      <publisher>Oxford Text Archive</publisher>
      <respStmt>
       <resp>Depositor</resp>
       <name>Bibliomania.com Ltd</name>
      </respStmt>
-    </bibl>
-    <bibl type="firstEdition" n="B7467"><title>Dealings with the firm of Dombey and Son, wholesale,
+    </bibl><bibl type="firstEdition" n="B7467"><title>Dealings with the firm of Dombey and Son, wholesale,
       retail, and for exportation</title>
      <author>Charles Dickens</author>
      <publisher>Chapman and Hall</publisher>
      <date>1848</date>
      <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503628841.pdf">[facs]</ref>
-    </bibl>
-   </sourceDesc>
+    </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
    <p/>
@@ -69,6 +67,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2010-09-29">Header normalised</change>
@@ -3153,8 +3152,7 @@
      on the same footing entirely, Miss Berry.´ </p>
     <p>`Is your uncle's child alive?´ asked Berry. </p>
     <p>`Yes, Miss, she is alive,´ returned Mrs. Wickam with an air of triumph, for it was evident
-     Miss Berry expected the reverse; `and is married to a silverchaser. Oh yes, Miss, <hi rend="sc"
-      >she</hi> is alive,´ said Mrs. Wickam, laying strong stress on her nominative case. </p>
+     Miss Berry expected the reverse; `and is married to a silverchaser. Oh yes, Miss, <hi rend="sc">she</hi> is alive,´ said Mrs. Wickam, laying strong stress on her nominative case. </p>
     <p>It being clear that somebody was dead, Mrs. Pipchin's niece inquired who it was. </p>
     <p>`I wouldn't wish to make you uneasy,´ returned Mrs. Wickam, pursuing her supper. `Don't ask
      me.´ </p>
@@ -4601,8 +4599,7 @@
     <p>`A Domitian—´ </p>
     <p>`And you're blue, you know,´ said Mr. Feeder. </p>
     <p>`A Nero, a Tiberius, a Caligula, a Heliogabalus, and many more,´ pursued the Doctor; `it is,
-     Mr. Feeder—if you are doing me the honour to attend—remarkable: <hi rend="sc"
-     >very</hi>—remarkable, Sir—´ </p>
+     Mr. Feeder—if you are doing me the honour to attend—remarkable: <hi rend="sc">very</hi>—remarkable, Sir—´ </p>
     <p>But Johnson, unable to suppress it any longer, burst at that moment into such an overwhelming
      fit of coughing, that although both his immediate neighbours thumped him on the back, and Mr.
      Feeder himself held a glass of water to his lips, and the butler walked him up and down several
@@ -11473,8 +11470,7 @@
      Sir Barnet appeared: to whom he immediately clung with the tenacity of desperation. </p>
     <p>`We are losing, to-day, Toots,´ said Sir Barnet, turning towards Florence, `the light of our
      house, I assure you.´ </p>
-    <p>`Oh, it's of no conseq——I mean yes, to be sure,´ faltered the embarrassed Toots. `<hi
-      rend="sc">good</hi> morning!´ </p>
+    <p>`Oh, it's of no conseq——I mean yes, to be sure,´ faltered the embarrassed Toots. `<hi rend="sc">good</hi> morning!´ </p>
     <p>Notwithstanding the emphatic nature of this farewell, Mr. Toots, instead of going away, stood
      leering about him, vacantly. Florence, to relieve him, bade adieu, with many thanks, to Lady
      Skettles, and gave her arm to Sir Barnet. </p>
@@ -15689,8 +15685,7 @@
      the accompanying paper is not legally written, it matters very little, for there is no one
      interested but you and he, and my plain wish is, that if he is living he should have what
      little there may be, and if (as I fear) otherwise, that you should have it, Ned. You will
-     respect my wish, I know. God bless you for it, and for all your friendliness besides, to <hi
-      rend="sc">solomon gills</hi>.” Bunsby!' said the Captain, appealing to him solemnly, `what do
+     respect my wish, I know. God bless you for it, and for all your friendliness besides, to <hi rend="sc">solomon gills</hi>.” Bunsby!' said the Captain, appealing to him solemnly, `what do
      you make of this? There you sit, a man as has had his head broke from infancy up'ards, and has
      got a new opinion into it at every seam as has been opened. Now, what do you make o' this?´ </p>
     <p>`If so be,´ returned Bunsby, with unusual promptitude, `as he's dead, my opinion is he won't
@@ -22277,8 +22272,7 @@
      day, gazing at these boxes; divided between extreme admiration of them, and dejected misgivings
      that they were not gorgeous enough, and frequently diving out into the street to purchase some
      wild article that he deemed necessary to their completeness. But his master-stroke was, the
-     bearing of them both off, suddenly, one morning, and getting the two words <hi rend="sc"
-      >florence gay</hi> engraved upon a brass heart inlaid over the lid of each. After this, he
+     bearing of them both off, suddenly, one morning, and getting the two words <hi rend="sc">florence gay</hi> engraved upon a brass heart inlaid over the lid of each. After this, he
      smoked four pipes successively in the little parlour by himself, and was discovered chuckling,
      at the expiration of as many hours. </p>
     <p>Walter was busy and away all day, but came there every morning early to see Florence, and

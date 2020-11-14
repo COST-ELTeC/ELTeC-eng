@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18954" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18954" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>At the Relton Arms : ELTec edition</title>
+    <title>At the Relton Arms : ELTec edition : ELTeC edition</title>
     <author ref="https://viaf.org/viaf/42106129/">Sharp, Evelyn (1869-1955)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
@@ -11,20 +16,22 @@
    </titleStmt>
    <extent><measure unit="words">36663</measure></extent>
    <publicationStmt>
-    <p>Published as part of ELTeC <date>2019-06-09</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>The Project Gutenberg eBook of At The Relton Arms, by Evelyn
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+<!--Published as part of ELTeC 2019-06-09--></publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of At The Relton Arms, by Evelyn
       Sharp.</title><ref target="http://www.gutenberg.org/files/41403/41403-h/41403-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by</resp>
       <name> Suzanne Shell, Mary Meehan and the Online Distributed Proofreading Team</name>
-     </respStmt></bibl>
-    <bibl type="firstEdition" n="B8281"><title>At the Relton Arms</title><author>Sharp, Evelyn
+     </respStmt></bibl><bibl type="firstEdition" n="B8281"><title>At the Relton Arms</title><author>Sharp, Evelyn
       (1869-1955).</author><publisher>London: John Lane</publisher><date>1895</date>
-    <ref target="http://archive.org/details/atreltonarms00shar"/></bibl>
-
-   </sourceDesc>
+    <ref target="http://archive.org/details/atreltonarms00shar"/></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -46,6 +53,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-06-09">LB convert to ELTeC-1</change>
   </revisionDesc>

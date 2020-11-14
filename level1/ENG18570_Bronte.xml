@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18570" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18570" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Professor: A Tale : ELTec edition</title>
+    <title>The Professor: A Tale : ELTec edition : ELTeC edition</title>
     <author ref="https://viaf.org/viaf/71388025/">Brontë, Charlotte (1816-1855).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
@@ -11,17 +16,20 @@
    </titleStmt>
    <extent><measure unit="words">87978</measure></extent>
    <publicationStmt>
-    <p>Published as part of ELTeC <date>2020-04-28</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>The Professor, by (aka Charlotte Bronte) Currer
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+<!--Published as part of ELTeC 2020-04-28--></publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>The Professor, by (aka Charlotte Bronte) Currer
       Bell</title><ref target="http://www.gutenberg.org/files/1028/1028-h/1028-h.htm">Gutenberg</ref> Produced by An Anonymous Volunteer, and
-     David Widger</bibl>
-    <bibl type="firstEdition" n="B7053"><title>The Professor</title><author>Currer
+     David Widger</bibl><bibl type="firstEdition" n="B7053"><title>The Professor</title><author>Currer
       Bell</author><publisher>London: Smith, Elderm &amp; co., 15 Waterloo
       Place</publisher><date>1857</date>
-     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400294723.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400294722.pdf">vol 2</ref></bibl>
-   </sourceDesc>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400294723.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/400294722.pdf">vol 2</ref></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -43,6 +51,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2020-04-28">LB convert to ELTeC-1</change>
   </revisionDesc>

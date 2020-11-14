@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18470">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18470">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
@@ -17,33 +20,28 @@
                                                 <measure unit="words">171250</measure>
                                     </extent>
                                     <publicationStmt>
-                                                <publisher ref="https://distant-reading.net">COST
-                                                  Action "Distant Reading for European Literary
-                                                  History" (CA16204)</publisher>
-                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-                                                <date when="2019-11-09"/>
-                                                <availability>
-                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                                                </availability>
-                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                                    </publicationStmt>
-                                    <sourceDesc>
-                                                <bibl type="digitalSource"><title>The
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+                                    <sourceDesc><bibl type="digitalSource"><title>The
                                                   Project Gutenberg EBook of Home Influence, by
                                                   Grace Aguilar</title><ref target="http://www.gutenberg.org/files/36648/36648-h/36648-h.htm">Gutenberg</ref>
                                                   <respStmt>
                                                   <resp>Original data capture</resp>
                                                   <name>Brownfox, Chad Vance, Mary Meehan and the
                                                   Online Distributed Proofreading Team</name>
-                                                  </respStmt></bibl>
-                                                <bibl type="printSource" n="B11349"><title>Home
+                                                  </respStmt></bibl><bibl type="printSource" n="B11349"><title>Home
                                                   Influence: A Tale for Mothers and
                                                   Daughters</title><author>Aguilar, Grace
                                                   (1816-1847).</author><publisher>London:
                                                   Groombridge</publisher><date>1847</date>
                                                             <ref target="http://archive.org/details/homeinfluencetal01agui">vol 1</ref>;  <ref target="http://archive.org/details/homeinfluencetal02agui">vol 2</ref>
-                                               </bibl>
-                                    </sourceDesc>
+                                               </bibl></sourceDesc>
                         </fileDesc>
                         <encodingDesc n="eltec-1">
                                     <p/>
@@ -60,6 +58,7 @@
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
                                     <change when="2019-11-09">Checked by releaseChecker
                                                 script</change>
                                     <change when="2019-01-11">LB convert to ELTeC-1</change>
@@ -8925,7 +8924,7 @@
                                                   young party examine and re-examine and talk of
                                                   their own and each other's treasures. And then Mr.
                                                   Hamilton bade them remember, that, though it was
-                                                  New Year's Eve, it was Sunday evening, too,<ref target="#note1">[1]</ref> and that he had deferred
+                                                  New Year's Eve, it was Sunday evening, too,<ref target="#note1">[1]</ref><ref target="#note1">[1]</ref> and that he had deferred
                                                   the hour of evening prayer till ten, that they
                                                   might have time to keep both, and so not lose the
                                                   sacred music which was always part of their Sunday
@@ -9748,7 +9747,7 @@
                                                   play now; she had arranged all the remaining
                                                   couples—for the room had begun very much to
                                                   thin—for the favorite haymaker's country
-                                                  dance,<ref target="#note2">[2]</ref> and accepting
+                                                  dance,<ref target="#note2">[2]</ref><ref target="#note2">[2]</ref> and accepting
                                                   Edward as her own partner, and being unanimously
                                                   desired to take the top, led off her young friends
                                                   with such spirit and grace, and so little
@@ -12379,7 +12378,7 @@
                                                   toward removing them. Traveling either by land or
                                                   sea was so dangerous and difficult, that in some
                                                   parishes the clergyman could only perform service
-                                                  twice a year,<ref target="#note3">[3]</ref> or
+                                                  twice a year,<ref target="#note3">[3]</ref><ref target="#note3">[3]</ref> or
                                                   once every one, two, or three months. The islands
                                                   in which the clergyman resided were, Mr. Hamilton
                                                   observed, in a much higher state of civilization
@@ -18845,7 +18844,7 @@
                                                   previous. The gale that swept round her—the awful
                                                   and unnatural darkness—the remarkable phenomena,
                                                   at that season, of lightning—and the long, loud
-                                                  thunder-claps<ref target="#note4">[4]</ref> which
+                                                  thunder-claps<ref target="#note4">[4]</ref><ref target="#note4">[4]</ref> which
                                                   inland could be fearfully distinguished from the
                                                   gale, appalled the whole household; and therefore
                                                   it was not much wonder that the vague idea of her

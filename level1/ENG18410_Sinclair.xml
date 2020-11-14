@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18410">
 
@@ -17,30 +19,22 @@
     <measure unit="words">188876</measure>
    </extent>
    <publicationStmt>
-    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary
-     History" (CA16204)</publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-    <date when="2019-11-09"/>
-    <availability>
-     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-    </availability>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>Modern Flirtations, A Novel, by Catherine Sinclair—A Project
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>Modern Flirtations, A Novel, by Catherine Sinclair—A Project
       Gutenberg eBook</title><respStmt>
       <resp>Original data capture</resp>
       <name>Robert Cicconetti and the Online Distributed Proofreading Team</name>
-     </respStmt><ref target="http://www.gutenberg.org/files/43358/43358-h/43358-h.htm"
-      >Gutenberg</ref></bibl>
-    <bibl type="printSource" n="B4292"><title>Modern Flirtations: or, A Month at Harrowgate. In
+     </respStmt><ref target="http://www.gutenberg.org/files/43358/43358-h/43358-h.htm">Gutenberg</ref></bibl><bibl type="printSource" n="B4292"><title>Modern Flirtations: or, A Month at Harrowgate. In
       three volumes.</title> by <author>Catherine Sinclair</author><publisher>Edinburgh: William
       William Whyte and co.</publisher><date>1841</date>
-     <ref target="http://archive.org/details/modernflirtation01sincuoft">vol 1</ref>; <ref
-      target="http://archive.org/details/modernflirtation02sincuoft">vol 2</ref>; <ref
-      target="http://archive.org/details/modernflirtation03sincuoft">vol 3</ref></bibl>
-   </sourceDesc>
+     <ref target="http://archive.org/details/modernflirtation01sincuoft">vol 1</ref>; <ref target="http://archive.org/details/modernflirtation02sincuoft">vol 2</ref>; <ref target="http://archive.org/details/modernflirtation03sincuoft">vol 3</ref></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -63,6 +57,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2019-01-12">LB convert to ELTeC-1</change>
@@ -358,8 +353,7 @@
      who seemed to beset your footsteps!"</p>
     <p>"Impossible!!!" exclaimed young De Crespigny, coloring violently, and starting from his seat.
      "Could it be in the nature of things that I should cut you!"</p>
-    <p>"True enough! I might have said, like Lady Towercliffe to Prince Meimkoff, '<hi xml:lang="fr"
-      >vous m'avez coupe</hi>.'"</p>
+    <p>"True enough! I might have said, like Lady Towercliffe to Prince Meimkoff, '<hi xml:lang="fr">vous m'avez coupe</hi>.'"</p>
     <p>"Indeed!" continued the cornet, trying to conceal his countenance. "I wish you had cut my
      throat in return!"</p>
     <p>"If it is to be done, I would rather somebody else did! Why, De Crespigny! you will set the
@@ -989,8 +983,7 @@
      ever yet been asked, and neither fathers, uncles, nor brothers had betrayed the slightest
      symptoms of insurrection against his universal dominion, believing, as his excuse for delaying
      to propose was so perfectly unanswerable and respectable, that his intentions might safely be
-     allowed to "lie on the table," while they awaited in breathless suspense the <hi xml:lang="fr"
-      >denouement</hi>, certainly to take place on Lord Doncaster's death.</p>
+     allowed to "lie on the table," while they awaited in breathless suspense the <hi xml:lang="fr">denouement</hi>, certainly to take place on Lord Doncaster's death.</p>
     <p>Some of Mr. De Crespigny's brother officers, envious perhaps of his extraordinary success in
      society, threw out sceptical hints respecting the certainty of his succession, and laughed
      sarcastically at the indefatigable vanity with which he evidently liked being thus torn to
@@ -1195,8 +1188,7 @@
     <p>The next room which Sir Arthur attempted to enter had the door double-locked; and though the
      party which accompanied him made a noise of knocking and hammering that might have raised the
      dead, no answer was returned, till at length, losing all patience, they broke it open, and
-     impetuously rushed forward, all gazing eagerly around, as if they expected an immediate <hi
-      xml:lang="fr">denouement</hi> of the mystery to take place; but some of those who were
+     impetuously rushed forward, all gazing eagerly around, as if they expected an immediate <hi xml:lang="fr">denouement</hi> of the mystery to take place; but some of those who were
      foremost shrunk back in astonishment, and hastily made way for Sir Arthur, while the servant
      girl earnestly whispered in his ear, with a look of anxiety and alarm, "This is Sarah
      Davenport's room! the child's maid! Better not disturb her, Sir! She is sometimes hardly right
@@ -3059,8 +3051,7 @@
      deserters who would may-be have escaped, but the thrick betrayed 'em. A curious fact! Will ye
      be pleased to sit on your four quarthers, Captain?"</p>
     <p>A smile of contempt and ridicule curled on the haughty lip of Captain De Crespigny, while he
-     proudly drew back, saying, in a tone of great reserve, and with the very slightest possible <hi
-      xml:lang="fr">soupcon</hi> of a bow, "Excuse me, sir, I must have mistaken the house!"</p>
+     proudly drew back, saying, in a tone of great reserve, and with the very slightest possible <hi xml:lang="fr">soupcon</hi> of a bow, "Excuse me, sir, I must have mistaken the house!"</p>
     <p>"Arrah! not at all! not in the very laste. Sure! I'm here for the purpose!" exclaimed the
      stranger, starting up from his recumbent position with astonishing agility, and closing the
      door. "Isn't it relations we shall be before long, and why should we meet as strangers?"</p>
@@ -3572,8 +3563,7 @@
      then studying for holy orders at Oxford, in whose opinion, on all occasions, she implicitly
      relied; and it was with grief and astonishment, which no words could describe, that she
      received a reply, in which Mr. Granville, with affectionate earnestness, reproached himself for
-     not having explicitly laid open to her the character of his former companion and <hi
-      xml:lang="fr">ci-devant</hi> friend, who was, he grieved to say, a ruined gamester—a bankrupt
+     not having explicitly laid open to her the character of his former companion and <hi xml:lang="fr">ci-devant</hi> friend, who was, he grieved to say, a ruined gamester—a bankrupt
      in fame, as much as in fortune, dreaded by the most respectable among women, and shunned by the
      most respectable among men, even by his kind, indulgent, but high-minded uncle, Sir Arthur,—an
      open scoffer frequently at the decencies of life, and still more at its most sacred duties and
@@ -4024,8 +4014,7 @@
      home, if the man waits a few hours longer, De Crespigny, and pay him off! It would be difficult
      generally to say which of us is best off for ready money, but as Jeremy Diddler says, 'You
      don't happen to have such a thing as ten-pence there, have you?'"</p>
-    <p>"No! I make it a principle never now to patronize the paper currency or bullion <hi
-      xml:lang="fr">ca m'est egal</hi>. Scotch notes are so atrociously filthy, and gold is too
+    <p>"No! I make it a principle never now to patronize the paper currency or bullion <hi xml:lang="fr">ca m'est egal</hi>. Scotch notes are so atrociously filthy, and gold is too
      heavy for the pocket. I am hastening as fast as possible to my last shilling! Money is a bore!
      As for you, Dunbar, if you wished to borrow a glass of water, I shall not be the man to lend
      it! I would not for worlds be included among your 'rascally creditors!'"</p>
@@ -4203,8 +4192,7 @@
      accepted you! It is unlucky that a fairy-like fortune and a fairy-like person are so seldom
      united in one individual."</p>
     <p>"I have no objection to marry for money as soon as they are. Love among the roses would not
-     be in my line at all, but when I see gold in a beautiful enough casket, then '<hi xml:lang="fr"
-      >les beaux yeux de sa casette pour moi</hi>!' 'Mammon wins its way, where seraphs might
+     be in my line at all, but when I see gold in a beautiful enough casket, then '<hi xml:lang="fr">les beaux yeux de sa casette pour moi</hi>!' 'Mammon wins its way, where seraphs might
      despair!'"</p>
     <p>"But if we must choose between them, give me love, and let money take care of itself!"</p>
     <p>"Splendidly said! you are growing magnanimous, Dunbar. What has happened to you since we met
@@ -4378,8 +4366,7 @@
      had overspread her features, which bore a strange bewildered expression, while her hand, in
      which she held the flowers, trembled visibly, but she said nothing, and Agnes, in the
      triumphant gaiety of her spirits, rattled heedlessly on.</p>
-    <p>"One of the rooms at Beaujolie Castle, which Captain De Crespigny already calls 'my <hi
-      xml:lang="fr">boudoir</hi>,' opens into a conservatory filled with rare exotics, but he says I
+    <p>"One of the rooms at Beaujolie Castle, which Captain De Crespigny already calls 'my <hi xml:lang="fr">boudoir</hi>,' opens into a conservatory filled with rare exotics, but he says I
      shall be the brightest flower of the whole, though never born to blush unseen, if he can help
      it! How very droll he is, paying compliments often that would make one feel beautiful for a
      year. He said this morning, when Patrick complained of the room being hot, that he wished I
@@ -4600,12 +4587,10 @@
      make a metamorphosis."</p>
     <p>Unable to resist the outburst of her brother's extravagant mirth, yet shrinking and abashed,
      almost ready to cry with vexation, Marion was unwillingly led, or almost dragged by her
-     laughing persecutor into the drawing-room, where, with a look of <hi xml:lang="fr"
-     >naivete</hi>, and an aspect lovely in the first blush and freshness of girlhood, she gazed in
+     laughing persecutor into the drawing-room, where, with a look of <hi xml:lang="fr">naivete</hi>, and an aspect lovely in the first blush and freshness of girlhood, she gazed in
      mute astonishment and almost with dismay at this her first peep into the great world of
      fashion, wishing for her own part that she could have adopted invisibility, and enjoyed the
-     scene as if she were in a private box at the theatre, for as yet her feelings were "<hi
-      xml:lang="fr">trop pres de la peine pour etre un plaisir</hi>."</p>
+     scene as if she were in a private box at the theatre, for as yet her feelings were "<hi xml:lang="fr">trop pres de la peine pour etre un plaisir</hi>."</p>
     <p>A bright sunshine streamed into the room, while the gas lamps still dimly glared over the
      breakfast table, at present surrounded by three or four hot, flushed, dusty-looking young
      ladies, with exaggerated colors, soiled dresses, torn gloves, withered bouquets, and
@@ -6139,8 +6124,7 @@
      creature's voice before, as to his certain knowledge she has been bedridden these ten years;
      therefore, Clara and I gave her all we could spare and came away. There was only one seat in
      the room, and nothing else but the naked walls!"</p>
-    <p>"How very indecent!" said Sir Patrick, taking up the newspapers, "those <hi xml:lang="fr"
-      >pauvres honteuses</hi> have a sad life of it! You will positively draw tears from my
+    <p>"How very indecent!" said Sir Patrick, taking up the newspapers, "those <hi xml:lang="fr">pauvres honteuses</hi> have a sad life of it! You will positively draw tears from my
      eyes!"</p>
     <p>"Nothing will do that but a mouthful of mustard," replied Marion, with a brilliant smile. "It
      would be more to the purpose if I drew a shilling from your purse! You have no idea, Patrick,
@@ -6172,8 +6156,7 @@
      summer with which any one of my tenants would be satisfied!"</p>
     <p>"Of course it is their business to complain, or you would increase their rents. If a farmer
      came to your factor in ecstacies with his crops, and wishing a renewal of his lease, what terms
-     would satisfy you? We are all like buckets in a well—what raises one depresses another, <hi
-      xml:lang="fr">ainsi va le monde</hi>."</p>
+     would satisfy you? We are all like buckets in a well—what raises one depresses another, <hi xml:lang="fr">ainsi va le monde</hi>."</p>
    </div>
    <div type="chapter">
     <head>  CHAPTER XX.</head>
@@ -6446,8 +6429,7 @@
      writing at such a rate, she would soon be several volumes a-head of Sir Walter Scott; but still
      Marion continued as much pre-occupied in his presence, and as good-humoredly indifferent as
      before. She treated him, as the friend of Sir Patrick, almost like a brother, and was not in
-     the slightest degree agitated, when he flew, with fascinating <hi xml:lang="fr"
-      >empressement</hi>, to light the taper for her, to open the door, or to pay any of the ten
+     the slightest degree agitated, when he flew, with fascinating <hi xml:lang="fr">empressement</hi>, to light the taper for her, to open the door, or to pay any of the ten
      thousand little attentions with which he was accustomed to dazzle and delight the hundred and
      one other young ladies among whom he had hitherto divided himself. It was absolutely
      insufferable to see her so perfectly self-possessed and conversible, without a thought of being
@@ -6681,8 +6663,7 @@
      you anywhere to-day, except in some rural parts of the country; so now for our walk."</p>
     <p>"Dress as you may, Dunbar, you will never look like me!" replied Captain De Crespigny, as
      they lounged off together. "It was a problem of Euclid, which we settled at Eton long ago, and
-     may demonstrate now, that A B C can never be equal to D E F. Good morning, ladies! <hi
-      xml:lang="fr">au revoir!</hi> we must fly. In your society I resemble the gentleman we used to
+     may demonstrate now, that A B C can never be equal to D E F. Good morning, ladies! <hi xml:lang="fr">au revoir!</hi> we must fly. In your society I resemble the gentleman we used to
      read of in our school books, whose wings were melted because he ventured too near the sun."</p>
     <p>The more Marion saw of Captain De Crespigny, the more astonished she became at the
      multiplicity of his talents for conversation, and at his universal craving to be admired, while
@@ -7059,8 +7040,7 @@
     <p>"I hope not! My heart would not stand quite so much breakage," replied Marion, coloring and
      laughing, while she added, in a lower tone, "besides which it is already in very safe keeping.
      I have given it away, you know, Patrick, once for all."</p>
-    <p>"Pshaw! Marion, none of your sentimental vagaries! Your attachment is, of course, to be a <hi
-      xml:lang="fr">chef d'œuvre d'amour</hi>; but nothing lasts for ever now. If there were no
+    <p>"Pshaw! Marion, none of your sentimental vagaries! Your attachment is, of course, to be a <hi xml:lang="fr">chef d'œuvre d'amour</hi>; but nothing lasts for ever now. If there were no
      disappointments in such a love-in-a-cottage affair as yours, what would become of poets and
      novel readers! Agnes understands the game of life better than you do. In her estimation, it is
      like a rubber at whist, where hearts are trumps, and the prize a good establishment in common
@@ -8424,8 +8404,7 @@
      bright futurity, glittering with splendid impossibilities.</p>
     <p>If those who waste and enervate their intellects by building castles in the air, could be
      supposed able to create scenes in reality, as easily and rapidly as they do in imagination, it
-     would, perhaps, be the most vivid conception man could form of omnipotent power. Agnes' <hi
-      xml:lang="fr">chateaux en Espagne</hi> were in a most florid style of architecture, but
+     would, perhaps, be the most vivid conception man could form of omnipotent power. Agnes' <hi xml:lang="fr">chateaux en Espagne</hi> were in a most florid style of architecture, but
      scarcely lasted long enough to become finished edifices, as the phantoms came dashing through
      her mind in ceaseless variety, all apparently fragments, or slight sketches of future
      greatness, but without a probable access except the fool's ladder of hope. Her own visions were
@@ -8602,8 +8581,7 @@
      many kinds and degrees, yet, instead of seeing, as she had rather too sanguinely anticipated, a
      society of distinguished-looking personages, as select as if they had been introduced at a
      drawing-room in St. James' Palace, the saloon was encumbered with groups of people as
-     ridiculous as any that Agnes ever remembered to have seen at a country theatre. Old <hi
-      xml:lang="fr">beaux</hi> of half a century's duration,—two or three remarkably conceited,
+     ridiculous as any that Agnes ever remembered to have seen at a country theatre. Old <hi xml:lang="fr">beaux</hi> of half a century's duration,—two or three remarkably conceited,
      overdressed officers in full-fledged mustachios,—crowds of busy, bustling, managing-looking
      mothers,—four or five over-dressed Irish fortune-hunters,—a knot of agricultural,
      kill-your-own-mutton country gentlemen,—one or two widows of not very doubtful age, but
@@ -9287,16 +9265,14 @@
      never pronounce upon any wine till I have drunk a few dozen of it; but it is credibly reported,
      that the Crawfords at home indulge in nothing but Cape Madeira and water. We, who have been
      brought up upon claret, conform to custom with a better grace. I should never think of putting
-     the cellars here out of fashion, by saying what I really think of them; but <hi xml:lang="fr"
-      >entre nous</hi>, the whole contents are perfect poison. Of the two, I would rather drink the
+     the cellars here out of fashion, by saying what I really think of them; but <hi xml:lang="fr">entre nous</hi>, the whole contents are perfect poison. Of the two, I would rather drink the
      Harrowgate waters, because they have at least the one merit of being wholesome."</p>
     <p>"Lord Doncaster seems to find the sherry drinkable," said Agnes dryly; "and, as you say, 'he
      has cracked a bottle or two in his time.'"</p>
     <p>"Very true! a really aristocratic man is so accustomed to everything of the best, that he
      tolerates or enjoys the inconveniences of an inn or a steamboat as an amusing variety," said
      Mrs. O'Donoghoe. "Besides which, Miss Dunbar, between you and me and the post, Lord Doncaster
-     is old, and somewhat <hi xml:lang="fr">passee</hi>. You and he made quite a <hi xml:lang="fr"
-      >tableau</hi> together this evening; but take my word for it, Lord Doncaster is no
+     is old, and somewhat <hi xml:lang="fr">passee</hi>. You and he made quite a <hi xml:lang="fr">tableau</hi> together this evening; but take my word for it, Lord Doncaster is no
      chicken!"</p>
     <p>"I need not take anybody's word for that! I have my eyes in my head like others!" replied
      Agnes, rather sharply, and glancing towards a distant corner of the room where Lord Doncaster
@@ -9438,8 +9414,7 @@
      plate, and each lady a glass of jelly before her. The uproar of waiters, plates, and tongues,
      and glasses had subsided, and the conversation was at so low an ebb, that there seemed every
      probability of the whole party being found asleep in their chairs next morning, when suddenly
-     their attention was roused by the door being hurriedly opened by the <hi xml:lang="fr"
-      >soi-disant</hi> gentleman entering, who had already excited the notice of Captain De
+     their attention was roused by the door being hurriedly opened by the <hi xml:lang="fr">soi-disant</hi> gentleman entering, who had already excited the notice of Captain De
      Crespigny.</p>
     <p>Besides the eager curiosity felt in every small community, to see every one recently added to
      their number, this was a gentleman whom few of the company had seen before, and such a
@@ -9936,8 +9911,7 @@
      to hear Grisi to-night? I am told that large sums are given for places on the heads of those
      who have already secured seats!"</p>
     <p>"If I go to Grisi's concert, the temptation is—not to hear him—that you know very well—too
-     well! I have but one object in going anywhere, and that is—to meet you. <hi xml:lang="fr"
-      >Esperer aupres de vous vaut mieux que jouir avec tout autre.</hi> I must quarrel with that
+     well! I have but one object in going anywhere, and that is—to meet you. <hi xml:lang="fr">Esperer aupres de vous vaut mieux que jouir avec tout autre.</hi> I must quarrel with that
      little shake of the head. It is a libel on my sincerity! Miss Dunbar, your face is a perfect
      printing press, and publishes all you think! I wish you possessed the magic ring which enabled
      people to know exactly what was thought of them! You are in my debt several months of devoted
@@ -10114,8 +10088,7 @@
      something in the proud, stern expression of that beautiful countenance, which forced upon her
      the unwelcome and extraordinary conviction that all had been said in earnest.</p>
     <p>"Agnes!" cried she, gasping with astonishment; "that dissipated, horrid, dreadful man!
-     Impossible! The miserable wreck of an ill-spent life! A superannuated <hi xml:lang="fr"
-      >roue</hi>. Are you in jest? or are you mad?"</p>
+     Impossible! The miserable wreck of an ill-spent life! A superannuated <hi xml:lang="fr">roue</hi>. Are you in jest? or are you mad?"</p>
     <p>"Mad! or at least delirious! Marion, we have lived long together, and yet you do not know me!
      I am not one to sit tamely down, as you would do, and wash my heart away with tears! My sorrows
      are not to be closeted in silent desolation, but I must act. If hope and happiness are crushed
@@ -10378,8 +10351,7 @@
      knowing how he spends it, as well as of dictating the various ways in which he should and must
      dispose of himself; and, accordingly, Sir Patrick and Captain De Crespigny found themselves one
      day ensnared into a <hi xml:lang="fr">soi-disant</hi> party of pleasure to Studley, from which
-     they had no more chance of escape than a brace of partridges at a <hi xml:lang="fr"
-     >battu</hi>.</p>
+     they had no more chance of escape than a brace of partridges at a <hi xml:lang="fr">battu</hi>.</p>
     <p>As Madame De Stael remarks, "English weather does better to rail at, than if it were finer;
      and if Britain had a settled climate and a despotic government, there would be an end of all
      conversation." After a long succession of good-for-nothing days, during which the rain seemed
@@ -10700,8 +10672,7 @@
      of my life, if you will only endow me with all I see, and let it be shared with the person in
      this company whom I like best, though perhaps she might tire of me."</p>
     <p>Agnes bit her scarlet lip with scorn at words which would once have thrilled to her very
-     heart, but she turned away with an insufferably haughty air on perceiving that her <hi
-      xml:lang="fr">ci-devant</hi> admirer had turned his most irresistible looks towards Marion,
+     heart, but she turned away with an insufferably haughty air on perceiving that her <hi xml:lang="fr">ci-devant</hi> admirer had turned his most irresistible looks towards Marion,
      who was earnestly talking in an undertone to Miss Smythe, while a look of anxious alarm had
      become depicted on the countenances of both.</p>
     <p>"Such moments as these are like the colors of a rainbow, very bright and very fleeting,"
@@ -10747,8 +10718,7 @@
      my last shilling, and might possibly have been driven, by stress of weather, to propose, if she
      had not accepted the Duke of Middlesex, in despair; yet had she possessed a thousand pounds for
      every shilling, I am not certain that the most golden of her gold could have gilded her.——"</p>
-    <p>"My dear fellow!" interrupted Captain De Crespigny, in his most sagacious tone, "<hi
-      xml:lang="fr">L'amour fait beaucoup, mais l'argent fait tout</hi>; it is easy to say
+    <p>"My dear fellow!" interrupted Captain De Crespigny, in his most sagacious tone, "<hi xml:lang="fr">L'amour fait beaucoup, mais l'argent fait tout</hi>; it is easy to say
      'fortune,' but where will you ever find one weigh in the scale against Lady Sarah?"</p>
     <p>"Easily, any day! As the Spaniards say, 'a man of straw is worth a woman of gold.' Last
      season, in London, all the heiresses were dying for me."</p>
@@ -12144,8 +12114,7 @@
      girl, who, subdued beneath the weight of her recent sorrow, received visitors only when she
      felt able to do so with composure, speaking to them with gentle, melancholy kindness, and
      evidently endeavoring to derive all the comfort she could from their society; yet often in the
-     solitude which followed, did she feel inclined to agree with an author, who remarks, that "<hi
-      xml:lang="fr">la pitie n'est pas le plus due a celui qui pleure dans la solitude</hi>."</p>
+     solitude which followed, did she feel inclined to agree with an author, who remarks, that "<hi xml:lang="fr">la pitie n'est pas le plus due a celui qui pleure dans la solitude</hi>."</p>
     <p>Marion seemed to live in a dream, yet she gazed on the daylight and the people moving about
      on their errands of pleasure or business, till she felt that the whole was a sad reality. The
      common, every day routine of life seemed strange and unnatural, amidst the agony of her first
@@ -12412,8 +12381,7 @@
      spoke with incessant and bitter invectives against all those by whom she thought herself
      ill-treated. Far from forgiving injuries, she seemed never, even for a moment, to forget them,
      while the effect of her tedious vituperation was like that of a file upon velvet, to the gentle
-     Marion, who tried often to give a more Christian, as well as a more cheerful turn, to their <hi
-      xml:lang="fr">tete-a-tete</hi> conversation.</p>
+     Marion, who tried often to give a more Christian, as well as a more cheerful turn, to their <hi xml:lang="fr">tete-a-tete</hi> conversation.</p>
     <p>It was singular that Agnes still evidently found a mysterious pleasure in exercising to the
      utmost her powers of torturing; and in nothing did she so deeply wound the feelings of Marion,
      as by constantly comparing the conduct of Richard Granville to that of Captain De Crespigny,
@@ -12652,8 +12620,7 @@
      binds me to the earth—not one!" added she bitterly, while her eyes were purposely averted from
      the reproachful kindness of Marion's expression.</p>
     <p>"Agnes," interrupted Henry, in his kindest manner, "you wasted much good advice on me
-     formerly, but now it is my turn. As an old French lady once judiciously remarked, '<hi
-      xml:lang="fr">Il n'y a pas de plus grande folie, que d'etre malheureux</hi>.' For Marion's
+     formerly, but now it is my turn. As an old French lady once judiciously remarked, '<hi xml:lang="fr">Il n'y a pas de plus grande folie, que d'etre malheureux</hi>.' For Marion's
      sake and your own, do not treasure up grief as if it were gold! When one plan of happiness
      fails, we should always change horses, and drive on with another! It is a fatal mistake to
      throw up the game of life, if our favorite hope fails! Try pleasure now, on some new pattern!

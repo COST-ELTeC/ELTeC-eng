@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18770" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,21 +22,18 @@
                 <measure unit="words">77630</measure>
             </extent>
             <publicationStmt>
-                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
-                    European Literary History" (CA16204)</publisher>
-                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-                <date when="2019-11-09"/>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                </availability>
-                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="digitalSource"><title>The New Republic by W.H. Mallock : HTML
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+            <sourceDesc><bibl type="digitalSource"><title>The New Republic by W.H. Mallock : HTML
                         version</title>
                     <ref target="https://www.pseudopodium.org/repress/mallock/index.html">Pseudopodium</ref>
-                </bibl>
-                <bibl type="firstEdition" n="B5727">
+                </bibl><bibl type="firstEdition" n="B5727">
                     <title>The New Republic : or, Culture, Faith, and Philosophy in a Country
                         House</title>
                     <author>[W.H. Mallock]</author>
@@ -42,8 +42,7 @@
                      
                     <ref target="http://archive.org/details/newrepublicorcul01mall">vol 1</ref>
                     <ref target="http://archive.org/details/newrepublicorcul02mall">vol 2</ref>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -65,6 +64,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="2020-05-19">Add text classifications from Bassett</change>
             <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-08-14">LB add header; start checking against IA edition; supply
@@ -132,7 +132,7 @@
                         that father contemplates the future torments of the unbelievers, when the
                         parish clergyman, who had been sent for by Mr. Laurence’s widowed
                         sister-in-law, arrived to offer his services. </p>
-                    <p> ‘How shall I admire’<ref target="#ENG18770_N1"/>—these were the words that,
+                    <p> ‘How shall I admire’<ref target="#ENG18770_N1"/><ref target="#ENG18770_N1"/>—these were the words that,
                         read in a low sweet tone, first greeted his ears when he was shown softly
                         into the sick chamber—‘ how shall I admire, how laugh, how rejoice, how
                         exult, when I behold so many proud monarchs, so many fancied gods, groaning
@@ -164,7 +164,7 @@
                         there was yet an air about its meretricious stateliness by which the clays
                         of the Empire were at once suggested to one, a magnificence that: would at
                         any rate have pleased Trimalcio, though it might have scandalised Horace.
-                            <ref target="#ENG18770_N2"/>
+                            <ref target="#ENG18770_N2"/><ref target="#ENG18770_N2"/>
                     </p>
                     <p> Otho Laurence inherited with his uncle’s house something of the tastes and
                         feelings of which it was the embodiment. But, though an epicure by training
@@ -513,7 +513,7 @@
                         himself was one of the few things in which I venture to dissent from him.
                         For, when all the greater evils of life shall have been removed, he thinks
                         the human race is to find its chief enjoyment in reading Wordsworth’s
-                            poetry.’<ref target="#ENG18770_N3"/>
+                            poetry.’<ref target="#ENG18770_N3"/><ref target="#ENG18770_N3"/>
                     </p>
                     <p> ‘Indeed!’ said Mr. Herbert; ‘and did Mill come to any conclusion so sane as
                         that?’ </p>
@@ -741,7 +741,7 @@
                     <p> ‘What would poor Sir George say?’ she whispered to Laurence. ‘He is fishing
                         in Norway at this very moment. But do you really think,’ she went on, being
                         resolved not to shirk the subject, ‘that Society is really as bad as Mr.
-                        Herbert says? I was looking into the <ref target="#ENG18770_N4"/> the other
+                        Herbert says? I was looking into the <ref target="#ENG18770_N4"/><ref target="#ENG18770_N4"/> the other
                         day, and I am sure nothing goes on in London now so bad as what he
                         describes.’ </p>
                     <p> ‘Do you know, Lady Ambrose,’ said Mr. Herbert, who concluded that he had
@@ -1776,7 +1776,7 @@
                         Produce your proof of this if ye speak truth. Nay, but he who resigneth
                         himself to God, and doeth that which is right, he shall have his reward with
                         his Lord; there shall come no fear on them, neither shall they be
-                            grieved.’<ref target="#ENG18770_N5"/>
+                            grieved.’<ref target="#ENG18770_N5"/><ref target="#ENG18770_N5"/>
                     </p>
                     <p> Dr. Jenkinson then went on to the Confession, the Absolution, and a number
                         of other selections from the English morning service, omitting, however, the
@@ -3576,7 +3576,7 @@
                                 the loveliest flowers of June,</l><l> Where she, the heart’s
                                 beloved, will go?</l><l> Who, of a few green leaves in silly
                                 twine,</l><l> Makes toil’s immortal guerdon, art’s reward,</l><l>
-                                Raises the mortal, draws down the divine?</l><ref target="#ENG18770_N6"/>
+                                Raises the mortal, draws down the divine?</l><ref target="#ENG18770_N6"/><ref target="#ENG18770_N6"/>
                         </quote> And so,’ Laurence went on, ‘if it is to the bard that we owe all
                         these fine things, we need surely not fear that we shall be thought bookish
                         if we say that a society cannot be really good that does not as a body draw
@@ -4588,7 +4588,7 @@
                                 Take, and for my sake wear,</l><l> Who am more to thee than other
                             mortals are,</l><l>     Whose is the holy lot</l><l> As friend with
                             friend to walk and talk with thee,</l><l> Hearing thy sweet mouth’s
-                            music in mine ear,</l><ref target="#ENG18770_N7"/>
+                            music in mine ear,</l><ref target="#ENG18770_N7"/><ref target="#ENG18770_N7"/>
                     </quote>
                     <p> ‘Ah, they are sweet verses,’ said Mr. Rose; ‘a little too ascetic, perhaps,
                         to be quite Greek. They are from Euripides, I see—the address to Artemis of
@@ -5336,7 +5336,7 @@
                         in his very words) “the Light, that queen of colours, bathing all that we
                         can look upon, from morning till evening, let me go where I will, will still
                         keep gliding by me in unnumbered guises, and soothes me whilst I am busy at
-                        other things, and am thinking nothing of her.’”<ref target="#ENG18770_N8"/>
+                        other things, and am thinking nothing of her.’”<ref target="#ENG18770_N8"/><ref target="#ENG18770_N8"/>
                     </p>
                     <p> Miss Merton was pleased at the appreciative tone in which Mr. Luke quoted.
                         Mr. Luke noticed this, and he was pleased also. </p>

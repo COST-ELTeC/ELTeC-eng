@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG19011" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Observations of Henry : ELTec edition</title>
+    <title>The Observations of Henry : ELTec edition : ELTeC edition</title>
     <author ref="https://viaf.org/viaf/12310310/">Jerome, Jerome K. (1859-1927)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
@@ -11,16 +16,20 @@
    </titleStmt>
    <extent><measure unit="words">25232</measure><measure unit="pages">167</measure></extent>
    <publicationStmt>
-    <p>Published as part of ELTeC <date>2020-05-10</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl n="B9715" type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+<!--Published as part of ELTeC 2020-05-10--></publicationStmt>
+   <sourceDesc><bibl n="B9715" type="firstEdition">
      <author>Jerome K. Jerome</author>
      <title>The Observations of Henry</title>
      <publisher>Bristol: J.W. Arrowsmith</publisher>
      <date>1901</date>
-    </bibl>
-    <bibl type="digitalSource"><title>The Observations of Henry</title><ref target="http://www.gutenberg.org/files/17943/17943-h/17943-h.htm">Gutenberg</ref>
+    </bibl><bibl type="digitalSource"><title>The Observations of Henry</title><ref target="http://www.gutenberg.org/files/17943/17943-h/17943-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Transcription</resp>
       <name>David Price</name>
@@ -29,8 +38,7 @@
       <publisher>New York: Dodd, Mead and Company</publisher>
       <date>1901</date>
       <ref target="http://archive.org/details/observationsofhe00jero"/>
-     </bibl>
-   </sourceDesc>
+     </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -52,6 +60,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2020-05-10">LB convert to ELTeC-1</change>
   </revisionDesc>

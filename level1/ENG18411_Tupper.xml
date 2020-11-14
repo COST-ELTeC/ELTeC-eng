@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18411" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18411" xml:lang="en">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
@@ -18,32 +21,27 @@
                                                 <measure unit="pages">87</measure>
                                     </extent>
                                     <publicationStmt>
-                                                <publisher ref="https://distant-reading.net">COST
-                                                  Action "Distant Reading for European Literary
-                                                  History" (CA16204)</publisher>
-                                                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-                                                <date when="2019-11-09"/>
-                                                <availability>
-                                                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                                                </availability>
-                                                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                                    </publicationStmt>
-                                    <sourceDesc>
-                                                <bibl type="digitalSource"><title>The Project
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+                                    <sourceDesc><bibl type="digitalSource"><title>The Project
                                                   Gutenberg eBook of The Twins, by Martin Farquhar
                                                   Tupper, A.M., F.R.S..</title><ref target="http://www.gutenberg.org/files/16574/16574-h/16574-h.htm">Gutenberg</ref>
                                                   <respStmt>
                                                   <resp>Produced by </resp>
                                                   <name>Jonathan Ingram, Janet Blenkinship and the
                                                   Online Distributed Proofreading Team </name>
-                                                  </respStmt></bibl>
-                                                <bibl type="firstEdition" n="B7392"><title>The
+                                                  </respStmt></bibl><bibl type="firstEdition" n="B7392"><title>The
                                                   Twins: A Domestic Novel</title><author>
                                                               Martin Farquhar Tupper.
                                                .</author><publisher>London:
                                                   Bentley</publisher><date>1844.</date>
-                                                <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590995737.pdf"/></bibl>
-                                    </sourceDesc>
+                                                <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590995737.pdf"/></bibl></sourceDesc>
                         </fileDesc>
                         <encodingDesc n="eltec-1">
                                     <p/>
@@ -60,6 +58,7 @@
                                     </textDesc>
                         </profileDesc>
                         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
                                     <change when="2019-11-09">Checked by releaseChecker
                                                 script</change>
                                     <change when="2019-05-20">LB convert to ELTeC-1</change>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18640" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,31 +22,26 @@
                 <measure unit="words">195823</measure>
             </extent>
             <publicationStmt>
-                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
-                    European Literary History" (CA16204)</publisher>
-                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-                <date when="2019-11-09"/>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                </availability>
-                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="digitalSource"><title>Clara Vaughan by R.D. Blackmore (3 volumes)</title>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+            <sourceDesc><bibl type="digitalSource"><title>Clara Vaughan by R.D. Blackmore (3 volumes)</title>
                     <ref target="http://www.gutenberg.org/files/41020/41020-h/41020-h.htm">Gutenberg: vol 1</ref>; 
                  <ref target="http://www.gutenberg.org/files/41021/41021-h/41021-h.htm">Gutenberg: vol 2</ref>; 
                  <ref target="http://www.gutenberg.org/files/41022/41022-h/41022-h.htm">Gutenberg: vol 3</ref> 
-                </bibl>
-                <bibl type="firstEdition" n="B120"><author>R.D. Blackmore</author><title>Clara
+                </bibl><bibl type="firstEdition" n="B120"><author>R.D. Blackmore</author><title>Clara
                         Vaughan. A novel in three volumes</title>
                     <publisher> MACMILLAN AND CO.</publisher>
                     <date>1864</date>
                     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058244.pdf">vol 1</ref>;
                     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058245.pdf">vol 2</ref>;
                     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600058246.pdf">vol 3</ref>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -65,6 +63,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="2020-05-19">Add text classifications from Bassett</change>
             <change when="2019-11-09">Checked by releaseChecker script</change>
             <change when="2018-12-20">LB made header</change>
@@ -2134,7 +2133,7 @@
                             Miss Clerer, it be oney that there aul mazed ramscallion, Beany Dawe.
                             Her makth what girt scholards, laike you, karls potry, or zum such
                             stoof. Her casn' oppen the drort of him nohow, but what her must spake
-                            potry. Pote<ref target="#ENG18640_N1"/> indeed! No tino, I'd pote un out
+                            potry. Pote<ref target="#ENG18640_N1"/><ref target="#ENG18640_N1"/> indeed! No tino, I'd pote un out
                             of ouze if I was the waife of un. 'Zee zaw, Beany Dawe!' that be arl the
                             name he hath airned vor his rhaiming and rubbish, and too good for 'un
                             too! Rhaime, rhaime, drash, drash, like two girt gawks in a barn! Oh
@@ -2162,7 +2161,7 @@
                             thiccy jingle jangle, the very zame for arl the world as e be used to
                             droon in the zawpit, 'Zee, zaw, Margery Daw,' with the arms of e a gwayn
                             up and doon, up and doon, and your oyes and maouth most chokked with
-                                pilm<ref target="#ENG18640_N2"/> and the vace of e a hurning laike a
+                                pilm<ref target="#ENG18640_N2"/><ref target="#ENG18640_N2"/> and the vace of e a hurning laike a
                             taypot, and never a drop of out to aise the crickles of your barck.
                             That's the steet you potes be in, and zawyers."</p>
 
@@ -3212,7 +3211,7 @@
                             inyons. 'Now, wull e let me lone?' zaith he, zo zoon as a coom barck, wi
                             his brath a little quicker by rason of the exarcise, 'wull 'e let me
                             lone?' 'Ee's fai, wull I,' zaith the man avoot. 'Hor,' zaith Tom Gundry,
-                            who had been a<ref target="#ENG18640_N3"/> shopping zumwhere, 'thee
+                            who had been a<ref target="#ENG18640_N3"/><ref target="#ENG18640_N3"/> shopping zumwhere, 'thee
                             cans't do a gude dai's work, my man, tak that vor thee's wages.' And wi'
                             that a lets fly at Maister's vace wi' a light hash stick a carr'd,
                             maning to raide off avore Maister cud coom to's brath again. In a crack
@@ -3260,7 +3259,7 @@
                             thee mouth fust."</p>
                         <p>"Ah," said Tim, favouring me with a wink, in the excess of his glory,
                             "rackon they Carnishers 'll know the wai off Tossil's Barton varm next
-                            taime, wi'out no saign postesses."<ref target="#ENG18640_N4"/></p>
+                            taime, wi'out no saign postesses."<ref target="#ENG18640_N4"/><ref target="#ENG18640_N4"/></p>
                     </div>
                     <div type="chapter">
                         <head>CHAPTER VI.</head>
@@ -7396,7 +7395,7 @@
                             guineas for it. As a gentleman he should not have made the offer, after
                             what I had told him. But the love of science—falsely so called by
                             collectors—drives men to discern propriety "by the wire-drawn line of
-                            their longings."<ref target="#ENG18640_N5"/> However, I was not quite so
+                            their longings."<ref target="#ENG18640_N5"/><ref target="#ENG18640_N5"/> However, I was not quite so
                             blind upon right and wrong, as to mean to keep all the money. I offered
                             Mr. Dawe half, if the plaything should be sold.</p>
 
@@ -7439,7 +7438,7 @@
                             slept with that beneath my pillow for fear the priest should get it.
                             Lord, how they did fight over the poor old lady's rags and bones, that
                             leathery priest and three yellow kites of cousins, they said they was,
-                            as come from Portugal. At last they got a ministration<ref target="#ENG18640_N6"/> with the testament and text, and they robbed
+                            as come from Portugal. At last they got a ministration<ref target="#ENG18640_N6"/><ref target="#ENG18640_N6"/> with the testament and text, and they robbed
                             me shameful, shameful, my good friend. Never catch me going to mass
                             again, or you may tell me of it."</p>
 
@@ -7491,7 +7490,7 @@
                             talk of something else. Did you hear what Tom did to your Judy
                             to-day?"</p>
                         <p>Ah, poor little thing! But I am not going to moralise. Shall I ever know
-                            the history of that marrow bone?<ref target="#ENG18640_N7"/></p>
+                            the history of that marrow bone?<ref target="#ENG18640_N7"/><ref target="#ENG18640_N7"/></p>
 
                     </div>
                     <div type="chapter">
@@ -9884,7 +9883,7 @@
                             and gonfalon, and she could see bright cavalcades winding through the
                             greenwood shade. In "coat and waistcoat" novels her soul took no
                             delight. Not a shilling would she squeeze from her little beaded purse
-                            for all the quicksilver of Dickens, or the frosted gold<ref target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
+                            for all the quicksilver of Dickens, or the frosted gold<ref target="#ENG18640_N8"/><ref target="#ENG18640_N8"/> of Thackeray. Yet she was not by any means
                             what fast young ladies call a "spooney;" she had plenty of common sense
                             upon the things of daily life, plenty of general information, and no
                             lack of gentle self-respect.</p>
@@ -10820,7 +10819,7 @@
                         </quote>
                         <p rend="pfirst">The Corsicans, on the contrary, have always been famous for
                             candour, whose very soul is truth, and for superstition, the wen or hump
-                            of religion. For my own part, loving not that unprincipled<ref target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
+                            of religion. For my own part, loving not that unprincipled<ref target="#ENG18640_N9"/><ref target="#ENG18640_N9"/> fellow hard labour, towards whom these noble
                             islanders entertain a like antipathy, and loving much any freedom not
                             hostile to my own, I got on with the natives admirably, for a certain
                             time. Time had reconciled me to their custom of carrying, instead of
@@ -14493,7 +14492,7 @@
                             narrate its own achievements. When, after that adventure, he discovered
                             who we were, he avoided us because he believed that his father had slain
                             mine. It was not till a later date, when he became of age—as the
-                            Corsicans reckon manhood<ref target="#ENG18640_N10"/>—that Lepardo Della
+                            Corsicans reckon manhood<ref target="#ENG18640_N10"/><ref target="#ENG18640_N10"/>—that Lepardo Della
                             Croce told him all he knew of his history, dwelt on the foul shame
                             wrought to the Della Croce by his bigamist father, and tried in vain to
                             force on him the awful oath of Vendetta. The youth had too much English

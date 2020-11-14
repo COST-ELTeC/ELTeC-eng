@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="en">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
@@ -24,24 +27,20 @@
     <measure unit="pages">464</measure>
    </extent>
    <publicationStmt>
-    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary
-     History" (CA16204)</publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-    <date when="2019-11-09"/>
-    <availability>
-     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-    </availability>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>Red as a rose is she : VWWP edition </title><author>Broughton,
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>Red as a rose is she : VWWP edition </title><author>Broughton,
       Rhoda, 1840-1920</author><publisher>Digital Library Program, Indiana
-      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7385">VWWP</ref></bibl>
-    <bibl type="printSource" n="B582"><title>Red as a rose is she</title><author>Broughton, Rhoda,
+      University</publisher><pubPlace>Bloomington, IN</pubPlace><ref target="http://purl.dlib.indiana.edu/iudl/vwwp/VAB7385">VWWP</ref></bibl><bibl type="printSource" n="B582"><title>Red as a rose is she</title><author>Broughton, Rhoda,
       1840-1920</author><pubPlace>London : </pubPlace><publisher>R. Bentley,
       </publisher><date>1887</date>
-     <ref target="http://archive.org/details/redasroseissheno00brourich"/></bibl>
-   </sourceDesc>
+     <ref target="http://archive.org/details/redasroseissheno00brourich"/></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -58,6 +57,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2018-07-23">LB convert to ELTeC-1</change>
    <change when="2012-08-09">#mdalmau: Fixed all the floating texts, line indentations; a few OCR
@@ -5732,12 +5732,12 @@
     <p>"I did not mean to express any doubt," Esther says, gently, but wearily.</p>
     <p>"<hi>Suppose</hi> will not do us much good at the <hi>Last Day</hi>," continues Miss Bessy,
      rather venomously. "Unless we can lay fast hold upon Jesus " (<hi>laying hold of a roll of
-      paper to exemplify the tenacity of her own grasp</hi><ref target="#note_001" rend="super">*</ref>), "unless we have assurance that we are <hi>Elect</hi>, where are we ?"</p>
+      paper to exemplify the tenacity of her own grasp</hi><ref target="#note_001" rend="super">*</ref><ref target="#note_001" rend="super">*</ref>), "unless we have assurance that we are <hi>Elect</hi>, where are we ?"</p>
     <p>"If it is any comfort to you, love, you know that you have our prayers," says Mrs. Brandon,
      squeezing Esther's hand.</p>
     <p>"We have set apart a special day with several Christian friends," says Bessy, with animation,
      "to wrestle in prayer for you, that this searching dispensation may be blessed to your
-     conversion—that you may find the Lord."<ref target="#note_001" rend="*"/></p>
+     conversion—that you may find the Lord."<ref target="#note_001" rend="*"/><ref target="#note_001" rend="*"/></p>
     <pb n="238" xml:id="VAB7385-242"/>
     <p>"Thanks," answers Esther, meekly, too broken-down to resent even the indignity of being set
      up on a metaphorical stool of repentance, amid a select circle of Miss Bessy's Christian
@@ -6217,7 +6217,7 @@
      The family are divided between prose and poetry. Miss Brandon is reading a sermon; her sister a
      hymn. Here it is:—</p>
     <quote>
-     <p>THE FIRM BANK.<ref target="#note_002" rend="super">*</ref></p>
+     <p>THE FIRM BANK.<ref target="#note_002" rend="super">*</ref><ref target="#note_002" rend="super">*</ref></p>
      <l n="1">" I have a never-failing bank,</l>
      <l rend="ti-1" n="2">A more than golden store; </l>
      <l n="3">No earthly bank is half so rich,</l>
@@ -6233,7 +6233,7 @@
      <l n="13">" 'Why live so niggardly and poor?—</l>
      <l rend="ti-1" n="14">Your bank contains a plenty? </l>
      <l n="15">Why come and take a one-pound note</l>
-     <l rend="ti-1" n="16">When you might have a twenty?</l><ref target="#note_002"/>
+     <l rend="ti-1" n="16">When you might have a twenty?</l><ref target="#note_002"/><ref target="#note_002"/>
      <pb n="259" xml:id="VAB7385-263"/>
      <l n="17">"'Yea, twenty thousand, ten times told,</l>
      <l rend="ti-1" n="18">Is but a trifling sum</l>

@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18632" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18632" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Hard Cash. A matter of fact romance : ELTec edition</title>
+    <title>Hard Cash. A matter of fact romance : ELTec edition : ELTeC edition</title>
     <author ref="https://viaf.org/viaf/44314913/">Reade, Charles (1814-1884).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
@@ -11,21 +16,23 @@
    </titleStmt>
    <extent><measure unit="words">259251</measure></extent>
    <publicationStmt>
-    <p>Published as part of ELTeC <date>2020-04-30</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>Hard Cash, by Charles Reade</title><ref target="http://www.gutenberg.org/files/3067/3067-h/3067-h.htm">Gutenberg</ref>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+<!--Published as part of ELTeC 2020-04-30--></publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>Hard Cash, by Charles Reade</title><ref target="http://www.gutenberg.org/files/3067/3067-h/3067-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Produced by </resp>
       <name>James Rusk and David Widger</name>
-     </respStmt></bibl>
-    <bibl type="firstEdition" n="B579"><title>Hard Cash</title><author>Charles
-      Reade</author><publisher>London: Sampson Low</publisher><date>1863</date></bibl>
-    <bibl type="printSource">
+     </respStmt></bibl><bibl type="firstEdition" n="B579"><title>Hard Cash</title><author>Charles
+      Reade</author><publisher>London: Sampson Low</publisher><date>1863</date></bibl><bibl type="printSource">
      <title>Hard cash. A matter of fact romance. Library Edition.</title>
      <publisher>London: Chatto and Windus, Piccadilly.</publisher><date>1895</date><ref target="http://archive.org/details/hardcashmatterof0000read"/>
-    </bibl>
-   </sourceDesc>
+    </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -47,6 +54,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2020-04-30">LB convert to ELTeC-1</change>
   </revisionDesc>
@@ -67,7 +75,7 @@
      to get at the truth on each main topic I have striven to handle.</p>
     <p>The madhouse scenes have been picked out by certain disinterested gentlemen, who keep private
      asylums, and periodicals to puff them; and have been met with bold denials of public facts, and
-     with timid personalities, and a little easy cant about Sensation<ref target="#ENG18630_N1"/>
+     with timid personalities, and a little easy cant about Sensation<ref target="#ENG18630_N1"/><ref target="#ENG18630_N1"/>
      Novelists; but in reality those passages have been written on the same system as the nautical,
      legal, and other scenes: the best evidence has been ransacked; and a large portion of this
      evidence I shall be happy to show at my house to any brother writer who is disinterested, and
@@ -233,7 +241,7 @@
      charge of pluralism, preaching at Witney and rowing at Oxford. He fluctuated, sighed, kept his
      Witney, and laid down his oar. Then Edward was solemnly weighed in his jersey and flannel
      trousers, and proving only eleven stone eight, whereas he had been ungenerously suspected of
-     twelve stone,<ref target="#ENG18630_N2"/> was elected to the vacant oar by acclamation. He was
+     twelve stone,<ref target="#ENG18630_N2"/><ref target="#ENG18630_N2"/> was elected to the vacant oar by acclamation. He was
      a picture in a boat; and, “Oh!!! well pulled, six!!” was a hearty ejaculation constantly hurled
      at him from the bank by many men of other colleges, and even by the more genial among the cads,
      as the Exeter glided at ease down the river, or shot up it in a race.</p>
@@ -541,7 +549,7 @@
      Hardie can't bear to be beat.”</p>
     <p>When they were gone, Mrs. Dodd observed, “Dear me! what if the young gentleman did cry a
      little, it was very excusable; after such great exertions it <hi>was</hi> disappointing,
-     mortifying. I pity him for one, and wish he had his mother alive and here, to dry them.” <ref target="#ENG18630_N3"/></p>
+     mortifying. I pity him for one, and wish he had his mother alive and here, to dry them.” <ref target="#ENG18630_N3"/><ref target="#ENG18630_N3"/></p>
 
     <p>“Mamma, it is you for reading us,” cried Edward, slapping his thigh. “Well, then, since you
      can feel for a fellow, Hardie <hi>was</hi> a good deal cut up. You know the university was in a
@@ -1733,7 +1741,7 @@
     <p>“Deevelich ill,” cried Sampson heartily.</p>
     <quote>
      <l> “For two physicians, like a pair of oars, </l>
-     <l>Conduck him faster to the Styjjin shores.” </l><ref target="#ENG18630_N4"/></quote>
+     <l>Conduck him faster to the Styjjin shores.” </l><ref target="#ENG18630_N4"/><ref target="#ENG18630_N4"/></quote>
     <p>Julia looked him in the face, and coldly ignored this perversion of Mrs. Maxley's meaning;
      and Mrs. Dodd returned pertinaciously to the previous topic. “Mr. Alfred Hardie interests me;
      he was good to Edward. I am curious to know why you call him a puppy?”</p>
@@ -2649,7 +2657,7 @@
      of loyalty and delicate love she had read in Alfred's moonlit face that night at Henley. She
      said no eloquence could have touched her like it. “Mamma, something said to me, 'Ay, look at
      him well, for that is your husband to be.'” She even tried to solve the mystery of her
-      <hi>soi-disant</hi> sickness: “I was disturbed by a feeling so new and so powerful,<ref target="#ENG18630_N5"/>but, above all, by having a secret from you; the first—the last.”</p>
+      <hi>soi-disant</hi> sickness: “I was disturbed by a feeling so new and so powerful,<ref target="#ENG18630_N5"/><ref target="#ENG18630_N5"/>but, above all, by having a secret from you; the first—the last.”</p>
     <p>“Well, darling, then why have a secret? Why not trust me, your friend as well as your
      mother?”</p>
     <p>“Ah! why, indeed? I am a puzzle to myself. I wanted you to know, and yet I could not tell
@@ -3140,7 +3148,7 @@
     <p>It is always precarious to act a part; and this cynicism was rather able than wise: Alfred
      looked up and watched him keenly as he read the monetary article with tranquil interest; and
      then, for the first time in his life, it flashed into the young man's mind that his father was
-     not a father. “I never knew him till now,” thought he. “This man is αστοργος.” <ref target="#ENG18630_N6"/></p>
+     not a father. “I never knew him till now,” thought he. “This man is αστοργος.” <ref target="#ENG18630_N6"/><ref target="#ENG18630_N6"/></p>
     <p>Thus a gesture, so to speak, sowed the first seed of downright disunion in Richard Hardie's
      house—disunion, a fast-growing plant, when men set it in the soil of the passions.</p>
     <p>Alfred, unlike Julia, had no panacea. Had any lips, except perhaps hers, told him that “to be
@@ -3654,7 +3662,7 @@
      condemned by the company's agents at Canton, he sailed to Calcutta, intending to return thence
      to England as a passenger. But while he was at Calcutta, the greatest firm there suspended
      payment carrying astonishment and dismay into a hundred families. At such moments the press and
-     the fireside ring for a little while with the common-sense cry,<ref target="#ENG18630_N7"/>
+     the fireside ring for a little while with the common-sense cry,<ref target="#ENG18630_N7"/><ref target="#ENG18630_N7"/>
      “Good interest means bad security.” As for Dodd, who till then had revered all these great
      houses with nautical or childlike confidence, a blind terror took the place of blind trust in
      him; he felt guilty towards his children for risking their money (he had got to believe it was
@@ -4052,7 +4060,7 @@
      professors, cooks, costermongers, cotton-spinners, waiters, coachmen, priests, potboys,
      hankers, braziers, dairymen, mail-guards, barristers, spinsters, butchers, beggars, duchesses,
      rag-merchants—in one word, of Nobs and Snobs; fought and scrambled pell mell for the popular
-     paper, and all to get rich in a day.<ref target="#ENG18630_N8"/></p>
+     paper, and all to get rich in a day.<ref target="#ENG18630_N8"/><ref target="#ENG18630_N8"/></p>
     <p>Richard Hardie had some money in existing railways, but he declined to invest his hard cash
      upon hypotheticals. He was repeatedly solicited to be a director, but always declined. Once he
      was offered a canny bribe of a thousand pounds to let his name go on a provisional committee.
@@ -4415,7 +4423,7 @@
      the other pirate, he had the self-command to resist the great temptation.</p>
     <p>He hailed the mizen top: “Can you two hinder them from firing that gun?”</p>
     <p>“I rather think we can,” said Fullalove; “eh, Colonel?” and he tapped his long rifle.</p>
-    <p>The ship no sooner crossed the schooner's bows<ref target="#ENG18630_N9"/> than a Malay ran
+    <p>The ship no sooner crossed the schooner's bows<ref target="#ENG18630_N9"/><ref target="#ENG18630_N9"/> than a Malay ran
      forward with a linstock. Pop went the colonel's ready carbine, and the Malay fell over dead,
      and the linstock flew out of his hand. A tall Portuguese, with a movement of rage, snatched it
      up and darted to the gun: the Yankee rifle cracked, but a moment too late. Bang! went the
@@ -5442,7 +5450,7 @@
      atoms, and found the indomitable Cash uninjured. With trembling hands he restored it to its old
      place in his bosom, and sewed it tighter than ever.</p>
     <p>Until he felt it there once more, he could hardly realise a stroke of good fortune that
-     seemed miraculous—though, in reality, it was less strange than the way he had lost it;<ref target="#ENG18630_N10"/> but now, laid bodily on his heart, it set his bosom on fire. Oh, the
+     seemed miraculous—though, in reality, it was less strange than the way he had lost it;<ref target="#ENG18630_N10"/><ref target="#ENG18630_N10"/> but now, laid bodily on his heart, it set his bosom on fire. Oh, the
      bright eye, the bounding pulse, the buoyant foot, the reckless joy! He slapped Sharpe on the
      back a little vulgarly for him:—</p>
     <p>“Jonah is on board again, old fellow: look out for squalls.”</p>
@@ -6921,7 +6929,7 @@
      Maxley's in particular, that the 900l. in pocket seemed small, and the 30s. in jeopardy
      large.</p>
     <p>“I can't afford to go with the creditors,” argued Maxley: “Dividend on 30s.! Why, that will
-     be about thirty pence: the change for a hard half-crown<ref target="#ENG18630_N11"/> .”</p>
+     be about thirty pence: the change for a hard half-crown<ref target="#ENG18630_N11"/><ref target="#ENG18630_N11"/> .”</p>
     <p>He stuck his spade in the soil and made for his debtor's house. As he came up the street,
      Dodd shot out of the bank radiant, and was about to pass him without notice, full of his wife
      and children; but Maxley stopped him with a right cordial welcome, and told him he had given
@@ -7674,7 +7682,7 @@
     <p>Finally, he resolved to buy security in a world where after all one has to buy everything: so
      he employed an adroit agent, and quietly purchased that mountain, the refuse of all Barkington.
      But he felt so ill-used, he paid for it in his own notes: by this means the treaty reverted to
-     the primitive form of barter<ref target="#ENG18630_N12"/>—ashes for rags.</p>
+     the primitive form of barter<ref target="#ENG18630_N12"/><ref target="#ENG18630_N12"/>—ashes for rags.</p>
 
     <p>This transaction he concealed from his confederate.</p>
     <p>When he had completed it he was not yet secure; for another day had passed and Captain Dodd
@@ -7862,7 +7870,7 @@
      Phillips, a lady-like girl of eighteen, was taken up by Farmer Giles before Squire Langton for
      stealing turnips out of a field: the farmer was hard, and his losses in Hardie's Bank had made
      him bitter hard; so the poor girl's excuse, that she could not let her father starve, had no
-     effect on him: to jail she should go.<ref target="#ENG18630_N13"/></p>
+     effect on him: to jail she should go.<ref target="#ENG18630_N13"/><ref target="#ENG18630_N13"/></p>
     <p>Took to the national vice, and went to the national dogs, Thomas Fisher, a saving tinman, and
      a bachelor: so I expect no pity for him.</p>
     <p>To the same goal, by the same road, dragging their families, went the Rev. Henry Scudamore, a
@@ -8180,7 +8188,7 @@
      the poor man's going mad.”</p>
     <p>“The cause? Why, apoplexy.”</p>
     <p>“Yes, but I mean what caused the apoplexy?”</p>
-    <p>Mr. Osmond replied that apoplexy was often idiopathic.<ref target="#ENG18630_N14"/> Captain
+    <p>Mr. Osmond replied that apoplexy was often idiopathic.<ref target="#ENG18630_N14"/><ref target="#ENG18630_N14"/> Captain
      Dodd, as he understood, had fallen down in the street in a sudden fit: “but as for the mania,
      that is to be attributed to an insufficient evacuation of blood while under the apoplectic
      coma.”</p>
@@ -8231,9 +8239,9 @@
      say, somewhat successful in diagnosing the symptoms. Unless I have been misinformed, he has,
      for a considerable time, experienced persistent headache of a kephalalgic or true cerebral
      type, and has now advanced to the succeeding stage of taciturnity and depression, not
-     unaccompanied <ref target="#ENG18630_N15"/>with isolation, and probably constipation: but as
+     unaccompanied <ref target="#ENG18630_N15"/><ref target="#ENG18630_N15"/>with isolation, and probably constipation: but as
      yet without hallucination, though possibly, and, as my experience of the great majority of
-     these cases would induce me to say, probably he is not undisturbed <ref target="#ENG18630_N16"/>by one or more of those latent, and, at first, trifling aberrations, either of the
+     these cases would induce me to say, probably he is not undisturbed <ref target="#ENG18630_N16"/><ref target="#ENG18630_N16"/>by one or more of those latent, and, at first, trifling aberrations, either of the
      intelligence or the senses, which in their preliminary stages escape the observation of all but
      the expert nosologist.”</p>
     <p>“There, you see,” said Osmond, “Dr. Wycherley agrees with me: yet I assure you I have only
@@ -8263,7 +8271,7 @@
     <p>His unprofessional hearers only stared.</p>
     <p>“In one word, then,” said Dr. Wycherley, waxing impatient at their abominable obtuseness, “it
      is the premonitory stage of the precursory condition of an organic affection of the brain.”</p>
-    <p>“Oh!” said Mr. Hardie, “the brain!<ref target="#ENG18630_N17"/> I see; the boy is going
+    <p>“Oh!” said Mr. Hardie, “the brain!<ref target="#ENG18630_N17"/><ref target="#ENG18630_N17"/> I see; the boy is going
      mad.”</p>
 
     <p>The doctors stared in their turn at the prodigious coolness of a tender parent. “Not
@@ -8341,7 +8349,7 @@
      craft by the patient: the open development of this delusion is the next stage, and, with this
      last morbid phenomenon, Incubation ceases and Insanity begins. Sometimes, however, the illusion
      is physical rather than psychical, of the sense rather than of the intelligence. It commences
-     at night: the incubator begins by seeing nocturnal visions, often of a photopsic<ref target="#ENG18630_N18"/> character, or hearing nocturnal sounds, neither of which have any
+     at night: the incubator begins by seeing nocturnal visions, often of a photopsic<ref target="#ENG18630_N18"/><ref target="#ENG18630_N18"/> character, or hearing nocturnal sounds, neither of which have any
      material existence, being conveyed to his optic or auricular nerves not from without, but from
      within, by the agency of a disordered brain. These the reason, hitherto unimpaired, combats at
      first, especially when they are nocturnal only; but being reproduced, and becoming diurnal, the
@@ -8577,7 +8585,7 @@
      principii,” and so smoke on; and, not being an university woman, she could not keep her eye on
      the original assumption while following the series of inferences the learned doctor built so
      neatly, story by story, on the foundation <hi>of</hi> the quicksand <hi>of</hi> a loose
-      conjecture.<ref target="#ENG18630_N19"/></p>
+      conjecture.<ref target="#ENG18630_N19"/><ref target="#ENG18630_N19"/></p>
     <p>So poor Argan, when Fleurant enumerates the consequences of his omitting a single—dose shall
      I say?—is terrified by the threatened disorders, which succeed to each other logically enough:
      all the absurdity being in the first link of the chain; and from that his mind is
@@ -8902,7 +8910,7 @@
      unreasonable. I don't know who is in the right: and I don't much care; but I know I am sorry
      for Aunt Eve, and very, very sorry for mamma.”</p>
     <p><hi>“Dec. 8th.</hi>—I am an egotist: found myself out this morning; and it is a good thing to
-     keep a diary. It<ref target="#ENG18630_N20"/> was overpowered at first by grief for mamma: but
+     keep a diary. It<ref target="#ENG18630_N20"/><ref target="#ENG18630_N20"/> was overpowered at first by grief for mamma: but
      now the house is sad and quiet I am always thinking of <hi>him;</hi> and that is egotism.</p>
     <p>“Why <hi>does</hi> he stay away so? I almost wish I could think it was coldness or diminished
      affection; for I fear something worse; something to make <hi>him</hi> wretched. Those dreadful
@@ -8989,7 +8997,7 @@
      honour.'</p>
     <p>“Then I babbled something, I forget what: then he went on like this—ah, I never forget what
       <hi>he</hi> says—he said Cicero says 'AEquitas ipsa lucet per se; something significat
-     something else:'<ref target="#ENG18630_N21"/> and he repeated it slowly for me—he knows I know
+     something else:'<ref target="#ENG18630_N21"/><ref target="#ENG18630_N21"/> and he repeated it slowly for me—he knows I know
      a little Latin; and told me that was as much as to say 'Justice is so clear a thing, that
      whoever hesitates must be on the road of wrong. And yet,' he said bitterly, '<hi>I</hi>
      hesitate and doubt, in a matter of right and wrong, like an Academic philosopher weighing and
@@ -12395,7 +12403,7 @@
     <p>“But I saw the letter, dear; I had it my hand.”</p>
     <p>“Did you read it?” asked Julia, trembling now like an aspen, and fluttering like a bird.</p>
     <p>“No, but I read the address, and the date inside, and I saw the handwriting; and I was
-     offered the letter, but papa told me it was full of abuse of him, so I declined<ref target="#ENG18630_N22"/> to read it; however, I will get it for <hi>you.</hi>”</p>
+     offered the letter, but papa told me it was full of abuse of him, so I declined<ref target="#ENG18630_N22"/><ref target="#ENG18630_N22"/> to read it; however, I will get it for <hi>you.</hi>”</p>
     <p>Mrs. Dodd thanked her warmly; but asked her if she could not in the meantime give some idea
      of the contents.</p>
     <p>“Oh yes, Mrs. Dodd: papa read me out a great deal of it. He was in Paris, but just starting
@@ -13942,7 +13950,7 @@
      nothing to do but believe this, and did believe it. Inspectors who visit a temple of darkness,
      lies, cunning, and hypocrisy, four times a year, know mighty little of what goes on there the
      odd three hundred and sixty-one days, five hours, forty-eight minutes, and fifty-seven
-      seconds.<ref target="#ENG18630_N23"/></p>
+      seconds.<ref target="#ENG18630_N23"/><ref target="#ENG18630_N23"/></p>
     <p>“Now, Alfred,” said Mrs. Archbold, “I can't be everywhere, or know everything; so you come to
      me when anything grieves you, and let me be the agent of your humanity.”</p>
     <p>She said this so charmingly he was surprised into kissing her fair hand; then blushed, and
@@ -14140,7 +14148,7 @@
      the “Destructive Art of Healing” cannot slay the slain. The old man cheated the emetic; for,
      before it could hurt him, he died of the bath; And his body told its own sad tale; to use the
      words of a medical eye-witness, it was “A PIECE OF ALABASTER.” The death-torrent had driven the
-     whole circulation from the surface.<ref target="#ENG18630_N24"/></p>
+     whole circulation from the surface.<ref target="#ENG18630_N24"/><ref target="#ENG18630_N24"/></p>
     <p>Mrs. Dodd was terrified, and in spite of Sampson's assurance that this was the asylum of all
      others they would not settle another patient in until the matter should have blown over, got
      Eve Dodd to write to Dr. Wolf, and offer 300l. a year if he would take David at once, and treat
@@ -17097,7 +17105,7 @@
      foot; but he was discovered to be perfectly calm; so they remonstrated instead, and presently
      Billy's commander-in-chief, a ship-boy called Georgie White, shoved in and asked him in a
      shrill haughty voice how he dared do that. “My dear,” said Billy, with great humility and
-     placidity, “he was killing God's creatures, no allowance: <ref target="#ENG18630_N25"/> so, ye
+     placidity, “he was killing God's creatures, no allowance: <ref target="#ENG18630_N25"/><ref target="#ENG18630_N25"/> so, ye
      see, to save their lives, I was <hi>obliged.</hi>”</p>
     <p>At this piece of reasoning, and the simplicity and gentle conviction with which it was
      delivered, there was a roar. It subsided, and a doubt arose whether Billy was altogether in the
