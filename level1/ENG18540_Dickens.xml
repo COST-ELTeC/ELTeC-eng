@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18540">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18540">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -26,8 +25,7 @@
     <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="digitalSource"><title>Hard Times, by Charles Dickens</title><ref
-      target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref>
+    <bibl type="digitalSource"><title>Hard Times, by Charles Dickens</title><ref target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref>
      <respStmt>
       <resp>Transcription</resp>
       <name>David Price ccx074@pglaf.org</name>
@@ -117,7 +115,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER II MURDERING THE INNOCENTS</head>
-     <p><hi>Thomas Gradgrind</hi>, sir.  A man of realities.  A man of facts and calculations.  A
+     <p>Thomas Gradgrind, sir.  A man of realities.  A man of facts and calculations.  A
       man who proceeds upon the principle that two and two are four, and nothing over, and who is
       not to be talked into allowing for anything over.  Thomas Gradgrind, sir — peremptorily Thomas
       — Thomas Gradgrind.  With a rule and a pair of scales, and the multiplication table always in
@@ -276,7 +274,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER III A LOOPHOLE</head>
-     <p><hi>Mr. Gradgrind</hi> walked homeward from the school, in a state of considerable
+     <p>Mr. Gradgrind walked homeward from the school, in a state of considerable
       satisfaction.  It was his school, and he intended it to be a model.  He intended every child
       in it to be a model — just as the young Gradgrinds were all models.</p>
      <p>There were five young Gradgrinds, and they were models every one.  They had been lectured
@@ -407,7 +405,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER IV MR. BOUNDERBY</head>
-     <p><hi>Not</hi> being Mrs. Grundy, who <hi>was</hi> Mr. Bounderby?</p>
+     <p>Not being Mrs. Grundy, who <hi>was</hi> Mr. Bounderby?</p>
      <p>Why, Mr. Bounderby was as near being Mr. Gradgrind’s bosom friend, as a man perfectly devoid
       of sentiment can approach that spiritual relationship towards another man perfectly devoid of
       sentiment.  So near was Mr. Bounderby — or, if the reader should prefer it, so far off.</p>
@@ -600,7 +598,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER V THE KEYNOTE</head>
-     <p><hi>Coketown</hi>, to which Messrs. Bounderby and Gradgrind now walked, was a triumph of
+     <p>Coketown, to which Messrs. Bounderby and Gradgrind now walked, was a triumph of
       fact; it had no greater taint of fancy in it than Mrs. Gradgrind herself.  Let us strike the
       key-note, Coketown, before pursuing our tune.</p>
      <p>It was a town of red brick, or of brick that would have been red if the smoke and ashes had
@@ -756,7 +754,7 @@
     <div type="chapter">
      <pb n=" 23"/>
      <head>CHAPTER VI SLEARY’S HORSEMANSHIP</head>
-     <p><hi>The</hi> name of the public-house was the Pegasus’s Arms.  The Pegasus’s legs might have
+     <p>The name of the public-house was the Pegasus’s Arms.  The Pegasus’s legs might have
       been more to the purpose; but, underneath the winged horse upon the sign-board, the Pegasus’s
       Arms was inscribed in Roman letters.  Beneath that inscription again, in a flowing scroll, the
       painter had touched off the lines:</p>
@@ -1116,7 +1114,7 @@
     <div type="chapter">
      <pb n=" 33"/>
      <head>p. 33CHAPTER VII MRS. SPARSIT</head>
-     <p><hi>Mr. Bounderby</hi> being a bachelor, an elderly lady presided over his establishment, in
+     <p>Mr. Bounderby being a bachelor, an elderly lady presided over his establishment, in
       consideration of a certain annual stipend.  Mrs. Sparsit was this lady’s name; and she was a
       prominent figure in attendance on Mr. Bounderby’s car, as it rolled along in triumph with the
       Bully of humility inside.</p>
@@ -1297,7 +1295,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER VIII NEVER WONDER</head>
-     <p><hi>Let</hi> us strike the key-note again, before pursuing the tune.</p>
+     <p>Let us strike the key-note again, before pursuing the tune.</p>
      <p>When she was half a dozen years younger, Louisa had been overheard to begin a conversation
       with her brother one day, by saying ‘Tom, I wonder’ — upon which Mr. Gradgrind, who was the
       person overhearing, stepped forth into the light and said, ‘Louisa, never wonder!’</p>
@@ -1450,7 +1448,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER IX SISSY’S PROGRESS</head>
-     <p><hi>Sissy Jupe</hi> had not an easy time of it, between Mr. M’Choakumchild and Mrs.
+     <p>Sissy Jupe had not an easy time of it, between Mr. M’Choakumchild and Mrs.
       Gradgrind, and was not without strong impulses, in the first months of her probation, to run
       away.  It hailed facts all day long so very hard, and life in general was opened to her as
       such a closely ruled ciphering-book, that assuredly she would have run away, but for only one
@@ -1804,7 +1802,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER XI NO WAY OUT</head>
-     <p><hi>The</hi> Fairy palaces burst into illumination, before pale morning showed the monstrous
+     <p>The Fairy palaces burst into illumination, before pale morning showed the monstrous
       serpents of smoke trailing themselves over Coketown.  A clattering of clogs upon the pavement;
       a rapid ringing of bells; and all the melancholy mad elephants, polished and oiled up for the
       day’s monotony, were at their heavy exercise again.</p>
@@ -2003,7 +2001,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER XII THE OLD WOMAN</head>
-     <p><hi>Old Stephen</hi> descended the two white steps, shutting the black door with the brazen
+     <p>Old Stephen descended the two white steps, shutting the black door with the brazen
       door-plate, by the aid of the brazen full-stop, to which he gave a parting polish with the
       sleeve of his coat, observing that his hot hand clouded it.  He crossed the street with his
       eyes bent upon the ground, and thus was walking sorrowfully away, when he felt a touch upon
@@ -2348,7 +2346,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER XIV THE GREAT MANUFACTURER</head>
-     <p><hi>Time</hi> went on in Coketown like its own machinery: so much material wrought up, so
+     <p>Time went on in Coketown like its own machinery: so much material wrought up, so
       much fuel consumed, so many powers worn out, so much money made.  But, less inexorable than
       iron, steel, and brass, it brought its varying seasons even into that wilderness of smoke and
       brick, and made the only stand that ever <hi>was</hi> made in the place against its direful
@@ -2490,7 +2488,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER XV FATHER AND DAUGHTER</head>
-     <p><hi>Although</hi> Mr. Gradgrind did not take after Blue Beard, his room was quite a blue
+     <p>Although Mr. Gradgrind did not take after Blue Beard, his room was quite a blue
       chamber in its abundance of blue books.  Whatever they could prove (which is usually anything
       you like), they proved there, in an army constantly strengthening by the arrival of new
       recruits.  In that charmed apartment, the most complicated social questions were cast up, got
@@ -2697,7 +2695,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER XVI HUSBAND AND WIFE</head>
-     <p><hi>Mr. Bounderby’s</hi> first disquietude on hearing of his happiness, was occasioned by
+     <p>Mr. Bounderby’s first disquietude on hearing of his happiness, was occasioned by
       the necessity of imparting it to Mrs. Sparsit.  He could not make up his mind how to do that,
       or what the consequences of the step might be.  Whether she would instantly depart, bag and
       baggage, to Lady Scadgers, or would positively refuse to budge from the premises; whether she
@@ -3194,7 +3192,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER II MR. JAMES HARTHOUSE</head>
-     <p><hi>The</hi> Gradgrind party wanted assistance in cutting the throats of the Graces.  They
+     <p>The Gradgrind party wanted assistance in cutting the throats of the Graces.  They
       went about recruiting; and where could they enlist recruits more hopefully, than among the
       fine gentlemen who, having found out everything to be worth nothing, were equally ready for
       anything?</p>
@@ -3410,7 +3408,7 @@
     <div type="chapter">
      <pb n=" 101"/>
      <head>CHAPTER III THE WHELP</head>
-     <p><hi>It</hi> was very remarkable that a young gentleman who had been brought up under one
+     <p>It was very remarkable that a young gentleman who had been brought up under one
       continuous system of unnatural restraint, should be a hypocrite; but it was certainly the case
       with Tom.  It was very strange that a young gentleman who had never been left to his own
       guidance for five consecutive minutes, should be incapable at last of governing himself; but
@@ -3932,7 +3930,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER VI FADING AWAY</head>
-     <p><hi>It</hi> was falling dark when Stephen came out of Mr. Bounderby’s house.  The shadows of
+     <p>It was falling dark when Stephen came out of Mr. Bounderby’s house.  The shadows of
       night had gathered so fast, that he did not look about him when he closed the door, but
       plodded straight along the street.  Nothing was further from his thoughts than the curious old
       woman he had encountered on his previous visit to the same house, when he heard a step behind
@@ -4259,7 +4257,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER VII GUNPOWDER</head>
-     <p><hi>Mr. James Harthouse</hi>, ‘going in’ for his adopted party, soon began to score.  With
+     <p>Mr. James Harthouse, ‘going in’ for his adopted party, soon began to score.  With
       the aid of a little more coaching for the political sages, a little more genteel listlessness
       for the general society, and a tolerable management of the assumed honesty in dishonesty, most
       effective and most patronized of the polite deadly sins, he speedily came to be considered of
@@ -4601,7 +4599,7 @@
     <div type="chapter">
      <pb n=" 136"/>
      <head>CHAPTER VIII EXPLOSION</head>
-     <p><hi>The</hi> next morning was too bright a morning for sleep, and James Harthouse rose
+     <p>The next morning was too bright a morning for sleep, and James Harthouse rose
       early, and sat in the pleasant bay window of his dressing-room, smoking the rare tobacco that
       had had so wholesome an influence on his young friend.  Reposing in the sunlight, with the
       fragrance of his eastern pipe about him, and the dreamy smoke vanishing into the air, so rich
@@ -4942,7 +4940,7 @@
     <div type="chapter">
      <pb n=" 146"/>
      <head>CHAPTER IX HEARING THE LAST OF IT</head>
-     <p><hi>Mrs. Sparsit</hi>, lying by to recover the tone of her nerves in Mr. Bounderby’s
+     <p>Mrs. Sparsit, lying by to recover the tone of her nerves in Mr. Bounderby’s
       retreat, kept such a sharp look-out, night and day, under her Coriolanian eyebrows, that her
       eyes, like a couple of lighthouses on an iron-bound coast, might have warned all prudent
       mariners from that bold rock her Roman nose and the dark and craggy region in its
@@ -5161,7 +5159,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER X MRS. SPARSIT’S STAIRCASE</head>
-     <p><hi>Mrs. Sparsit’s</hi> nerves being slow to recover their tone, the worthy woman made a
+     <p>Mrs. Sparsit’s nerves being slow to recover their tone, the worthy woman made a
       stay of some weeks in duration at Mr. Bounderby’s retreat, where, notwithstanding her
       anchorite turn of mind based upon her becoming consciousness of her altered station, she
       resigned herself with noble fortitude to lodging, as one may say, in clover, and feeding on
@@ -5280,7 +5278,7 @@
     <div type="chapter">
      <pb n=" 156"/>
      <head>CHAPTER XI LOWER AND LOWER</head>
-     <p><hi>The</hi> figure descended the great stairs, steadily, steadily; always verging, like a
+     <p>The figure descended the great stairs, steadily, steadily; always verging, like a
       weight in deep water, to the black gulf at the bottom.</p>
      <p>Mr. Gradgrind, apprised of his wife’s decease, made an expedition from London, and buried
       her in a business-like manner.  He then returned with promptitude to the national cinder-heap,
@@ -5516,7 +5514,7 @@
     <div type="chapter">
      <pb n=" 163"/>
      <head>CHAPTER XII DOWN</head>
-     <p><hi>The</hi> national dustmen, after entertaining one another with a great many noisy little
+     <p>The national dustmen, after entertaining one another with a great many noisy little
       fights among themselves, had dispersed for the present, and Mr. Gradgrind was at home for the
       vacation.</p>
      <p>He sat writing in the room with the deadly statistical clock, proving something no doubt —
@@ -5641,7 +5639,7 @@
     <head>BOOK THE THIRD <hi>GARNERING</hi></head>
     <div type="chapter">
      <head>CHAPTER I ANOTHER THING NEEDFUL</head>
-     <p><hi>Louisa</hi> awoke from a torpor, and her eyes languidly opened on her old bed at home,
+     <p>Louisa awoke from a torpor, and her eyes languidly opened on her old bed at home,
       and her old room.  It seemed, at first, as if all that had happened since the days when these
       objects were familiar to her were the shadows of a dream, but gradually, as the objects became
       more real to her sight, the events became more real to her mind.</p>
@@ -5808,7 +5806,7 @@
     <div type="chapter">
      <pb n=" 172"/>
      <head>CHAPTER II VERY RIDICULOUS</head>
-     <p><hi>Mr. James Harthouse</hi> passed a whole night and a day in a state of so much hurry,
+     <p>Mr. James Harthouse passed a whole night and a day in a state of so much hurry,
       that the World, with its best glass in his eye, would scarcely have recognized him during that
       insane interval, as the brother Jem of the honourable and jocular member.  He was positively
       agitated.  He several times spoke with an emphasis, similar to the vulgar manner.  He went in
@@ -6060,7 +6058,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER III VERY DECIDED</head>
-     <p><hi>The</hi> indefatigable Mrs. Sparsit, with a violent cold upon her, her voice reduced to
+     <p>The indefatigable Mrs. Sparsit, with a violent cold upon her, her voice reduced to
       a whisper, and her stately frame so racked by continual sneezes that it seemed in danger of
       dismemberment, gave chase to her patron until she found him in the metropolis; and there,
       majestically sweeping in upon him at his hotel in St. James’s Street, exploded the
@@ -6290,7 +6288,7 @@
     <div type="chapter">
      <pb n=" 186"/>
      <head>CHAPTER IV LOST</head>
-     <p><hi>The</hi> robbery at the Bank had not languished before, and did not cease to occupy a
+     <p>The robbery at the Bank had not languished before, and did not cease to occupy a
       front place in the attention of the principal of that establishment now.  In boastful proof of
       his promptitude and activity, as a remarkable man, and a self-made man, and a commercial
       wonder more admirable than Venus, who had risen out of the mud instead of the sea, he liked to
@@ -6542,7 +6540,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER V FOUND</head>
-     <p><hi>Day</hi> and night again, day and night again.  No Stephen Blackpool.  Where was the
+     <p>Day and night again, day and night again.  No Stephen Blackpool.  Where was the
       man, and why did he not come back?</p>
      <p>Every night, Sissy went to Rachael’s lodging, and sat with her in her small neat room.  All
       day, Rachael toiled as such people must toil, whatever their anxieties.  The smoke-serpents
@@ -6773,7 +6771,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER VI THE STARLIGHT</head>
-     <p><hi>The</hi> Sunday was a bright Sunday in autumn, clear and cool, when early in the morning
+     <p>The Sunday was a bright Sunday in autumn, clear and cool, when early in the morning
       Sissy and Rachael met, to walk in the country.</p>
      <p>As Coketown cast ashes not only on its own head but on the neighbourhood’s too — after the
       manner of those pious persons who do penance for their own sins by putting other people into
@@ -7033,7 +7031,7 @@
     <div type="chapter">
      <pb n=" 208"/>
      <head>CHAPTER VII WHELP-HUNTING</head>
-     <p><hi>Before</hi> the ring formed round the Old Hell Shaft was broken, one figure had
+     <p>Before the ring formed round the Old Hell Shaft was broken, one figure had
       disappeared from within it.  Mr. Bounderby and his shadow had not stood near Louisa, who held
       her father’s arm, but in a retired place by themselves.  When Mr. Gradgrind was summoned to
       the couch, Sissy, attentive to all that happened, slipped behind that wicked shadow — a sight
@@ -7330,7 +7328,7 @@
     </div>
     <div type="chapter">
      <head>CHAPTER VIII PHILOSOPHICAL</head>
-     <p><hi>They</hi> went back into the booth, Sleary shutting the door to keep intruders out. 
+     <p>They went back into the booth, Sleary shutting the door to keep intruders out. 
       Bitzer, still holding the paralysed culprit by the collar, stood in the Ring, blinking at his
       old patron through the darkness of the twilight.</p>
      <p>‘Bitzer,’ said Mr. Gradgrind, broken down, and miserably submissive to him, ‘have you a
@@ -7498,7 +7496,7 @@
     <div type="chapter">
      <pb n=" 222"/>
      <head>CHAPTER IX FINAL</head>
-     <p><hi>It</hi> is a dangerous thing to see anything in the sphere of a vain blusterer, before
+     <p>It is a dangerous thing to see anything in the sphere of a vain blusterer, before
       the vain blusterer sees it himself.  Mr. Bounderby felt that Mrs. Sparsit had audaciously
       anticipated him, and presumed to be wiser than he.  Inappeasably indignant with her for her
       triumphant discovery of Mrs. Pegler, he turned this presumption, on the part of a woman in her

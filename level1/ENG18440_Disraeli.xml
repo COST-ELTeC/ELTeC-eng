@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18440">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18440">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +85,7 @@
    </div>
    <div type="liminal">
     <head>TO HENRY HOPE.</head>
-    <p><hi>It</hi> is not because these volumes were conceived and partly executed amid the glades
+    <p>It is not because these volumes were conceived and partly executed amid the glades
      and galleries of the <hi>Deepdene</hi> , that I have inscribed them with your name. Nor merely
      because I was desirous to avail myself of the most graceful privilege of an author, and
      dedicate my work to the friend, whose talents I have always appreciated and whose virtues I
@@ -116,7 +115,7 @@
      <head>Book I.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>It</hi> was a bright May morning some twelve years ago, when a youth of still tender
+      <p>It was a bright May morning some twelve years ago, when a youth of still tender
        age, for he had certainly not entered his teens by more than two years, was ushered into the
        waiting-room of a house in the vicinity of St. James's Square, which, though with the general
        appearance of a private residence, and that too of no very ambitious character, exhibited at
@@ -249,7 +248,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>The</hi> political agitation which for a year and a half had shaken England to its
+      <p>The political agitation which for a year and a half had shaken England to its
        centre, received if possible an increase to its intensity and virulence, when it was known in
        the early part of the month of May, 1832, that the Prime Minister had tendered his
        resignation to the King, which resignation had been graciously accepted.</p>
@@ -444,7 +443,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>Lord Monmouth</hi> , who detested popular tumults as much as he despised public
+      <p>Lord Monmouth , who detested popular tumults as much as he despised public
        opinion, had remained during the agitating year of 1831 in his luxurious retirement in Italy,
        contenting himself with opposing the Reform Bill by proxy. But when his correspondent, Mr.
        Rigby, had informed him in the early part of the spring of 1832 of the probability of a
@@ -689,7 +688,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>In</hi> the meantime, while ladies are luncheoning on chicken pie, or coursing in
+      <p>In the meantime, while ladies are luncheoning on chicken pie, or coursing in
        whirling britskas, performing all the singular ceremonies of a London morning in the heart of
        the season; making visits where nobody is seen, and making purchases which are not wanted;
        the world is in agitation and uproar. At present the world and the confusion are limited to
@@ -965,7 +964,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>The</hi> future historian of the country will be perplexed to ascertain what was the
+      <p>The future historian of the country will be perplexed to ascertain what was the
        distinct object which the Duke of Wellington proposed to himself in the political manoeuvres
        of May, 1832. It was known that the passing of the Reform Bill was a condition absolute with
        the King; it was unquestionable, that the first general election under the new law must
@@ -1109,7 +1108,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VIII.</head>
-      <p><hi>After</hi> eight o'clock school, the day following the return of Coningsby, according
+      <p>After eight o'clock school, the day following the return of Coningsby, according
        to custom, he repaired to Buckhurst's room, where Henry Sydney, Lord Vere, and our hero held
        with him their breakfast mess. They were all in the fifth form, and habitual companions, on
        the river or on the Fives' Wall, at cricket or at football. The return of Coningsby, their
@@ -1198,7 +1197,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IX.</head>
-      <p><hi>Millbank</hi> was the son of one of the wealthiest manufacturers of Lancashire. His
+      <p>Millbank was the son of one of the wealthiest manufacturers of Lancashire. His
        father, whose opinions were of a very democratic bent, sent his son to Eton, though he
        disapproved of the system of education pursued there, to show that he had as much right to do
        so as any Duke in the land. He had, however, brought up his only boy with a due prejudice
@@ -1452,7 +1451,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER X.</head>
-      <p><hi>What</hi> wonderful things are events! The least are of greater importance than the
+      <p>What wonderful things are events! The least are of greater importance than the
        most sublime and comprehensive speculations! In what fanciful schemes to obtain the
        friendship of Coningsby had Millbank in his reveries often indulged! What combinations that
        were to extend over years and influence their lives! But the moment that he entered the world
@@ -1570,7 +1569,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XI.</head>
-      <p><hi>About</hi> a fortnight after this nearly fatal adventure on the river, it was Montem.
+      <p>About a fortnight after this nearly fatal adventure on the river, it was Montem.
        One need hardly remind the reader that this celebrated ceremony, of which the origin is lost
        in obscurity and which now occurs triennially, is the tenure by which Eton College holds some
        of its domains; the waving of a flag by one of the scholars on a mount near the village of
@@ -1745,7 +1744,7 @@
      <head>BOOK II.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>It</hi> was early in November, 1834, and a large shooting party was assembled at
+      <p>It was early in November, 1834, and a large shooting party was assembled at
        Beaumanoir, the seat of that great nobleman, who was the father of Henry Sydney. England is
        unrivalled for two things—sporting and politics. They were combined at Beaumanoir; for the
        guests came not merely to slaughter the Duke's pheasants, but to hold council on the
@@ -2233,7 +2232,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>Beaumanoir</hi> was one of those Palladian palaces, vast and ornate, such as the genius
+      <p>Beaumanoir was one of those Palladian palaces, vast and ornate, such as the genius
        of Kent and Campbell delighted in at the beginning of the 18th century. Placed on a noble
        elevation, yet screened from the northern blast, its sumptuous front connected with its
        farspreading wings by Corinthian colonnades,— was the boast and pride of the midland
@@ -2378,7 +2377,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>A breakfast</hi> at Beaumanoir was a meal of some ceremony. Every guest was expected to
+      <p>A breakfast at Beaumanoir was a meal of some ceremony. Every guest was expected to
        attend, and at a somewhat early hour. Their host and hostess set them the example of
        punctuality. 'Tis an old form rigidly adhered to in some great houses, but it must be
        confessed does not contrast very agreeably with the easier arrangements of establishments of
@@ -2497,7 +2496,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>Although</hi> it is far from improbable that, had Sir Robert Peel been in England in
+      <p>Although it is far from improbable that, had Sir Robert Peel been in England in
        the autumn of 1834, the Whig government would not have been dismissed; nevertheless, whatever
        may be now the opinion of the policy of that measure; whether it be looked on as a premature
        movement which necessarily led to the compact re-organization of the Liberal party, or as a
@@ -2679,7 +2678,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>The Tamworth Manifesto</hi> of 1834 was an attempt to construct a party without
+      <p>The Tamworth Manifesto of 1834 was an attempt to construct a party without
        principles; its basis therefore was necessarily Latitudinarianism; and its inevitable
        consequence has been Political Infidelity.</p>
       <p>At an epoch of political perplexity and social alarm, the confederation was convenient, and
@@ -2721,7 +2720,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>In</hi> the meantime, after dinner, Tadpole and Taper, who were among the guests of Mr.
+      <p>In the meantime, after dinner, Tadpole and Taper, who were among the guests of Mr.
        Ormsby, withdrew to a distant sofa, out of earshot, and indulged in confidential talk.</p>
       <p>"Such a strength in debate was never before found on a Treasury bench," said Mr. Tadpole;
        "the other side will be dumfounded."</p>
@@ -2814,7 +2813,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>Amid</hi> the contentions of party, the fierce struggles of ambition, and the
+      <p>Amid the contentions of party, the fierce struggles of ambition, and the
        intricacies of political intrigue, let us not forget our Eton friends. During the period
        which elapsed from the failure of the Duke of Wellington to form a government in 1832, to the
        failure of Sir Robert Peel to carry on a government in 1835, the boys had entered, and
@@ -2973,7 +2972,7 @@
      <head>BOOK III.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>There</hi> are few things more full of delight and splendour, than to travel during the
+      <p>There are few things more full of delight and splendour, than to travel during the
        heat of a refulgent summer in the green district of some ancient forest.</p>
       <p>In one of our midland counties, there is a region of this character, to which during a
        season of peculiar lustre, we would introduce the reader.</p>
@@ -3284,7 +3283,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>The</hi> day after his adventure at the Forest Inn, Coningsby arrived at Beaumanoir. It
+      <p>The day after his adventure at the Forest Inn, Coningsby arrived at Beaumanoir. It
        was several years since he had visited the family of his friend, who were indeed also his
        kin; and in his boyish days had often proved that they were not unmindful of the affinity.
        This was a visit that had been long counted on, long promised, and which a variety of
@@ -3746,7 +3745,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>In</hi> a valley, not far from the margin of a beautiful river, raised on a lofty and
+      <p>In a valley, not far from the margin of a beautiful river, raised on a lofty and
        artificial terrace at the base of a range of wooded heights, was a pile of modern building in
        the finest style of Christian architecture. It was of great extent and richly decorated.
        Built of a white and glittering stone, it sparkled with its pinnacles in the sunshine as it
@@ -4093,7 +4092,7 @@
      <head>BOOK IV.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>A great</hi> city, whose image dwells in the memory of man, is the type of some great
+      <p>A great city, whose image dwells in the memory of man, is the type of some great
        idea. Rome represents Conquest; Faith hovers over the towers of Jerusalem; and Athens
        embodies the pre-eminent quality of the antique world— Art.</p>
       <p>In modern ages, Commerce has created London; while Manners, in the most comprehensive sense
@@ -4112,7 +4111,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>A feeling</hi> of melancholy, even of uneasiness, attends our first entrance into a
+      <p>A feeling of melancholy, even of uneasiness, attends our first entrance into a
        great town, especially at night. Is it that the sense of all this vast existence with which
        we have no connexion, where we are utterly unknown, oppresses us with our insignificance? Is
        it that it is terrible to feel friendless where all have friends?</p>
@@ -4290,7 +4289,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>In</hi> a green valley of Lancaster, contiguous to that district of factories on which
+      <p>In a green valley of Lancaster, contiguous to that district of factories on which
        we have already touched, a clear and powerful stream flows through a broad meadow land. Upon
        its margin, adorned, rather than shadowed, by some very old elm trees, for they are too
        distant to serve except for ornament, rises a vast deep red brick pile which, though formal
@@ -4420,7 +4419,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>The</hi> village clock struck five as Mr. Millbank and his guest entered the gardens of
+      <p>The village clock struck five as Mr. Millbank and his guest entered the gardens of
        his mansion. Coningsby lingered a moment to admire the beauty and gay profusion of the
        flowers.</p>
       <p>"Your situation," said Coningsby, looking up the green and silent valley, "is absolutely
@@ -4709,7 +4708,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>Towards</hi> the end of the session of 1836, the hopes of the Conservative party were
+      <p>Towards the end of the session of 1836, the hopes of the Conservative party were
        again in the ascendant. The Tadpoles and the Tapers had infused such enthusiasm into all the
        country attorneys, who, in their turn, had so bedevilled the registration, that it was
        whispered in the utmost confidence, but as a flagrant truth, that Re-action was at length "a
@@ -4881,7 +4880,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>It</hi> seemed to Coningsby in his way to his room, that the castle was in a state of
+      <p>It seemed to Coningsby in his way to his room, that the castle was in a state of
        great excitement; everywhere bustle, preparation, moving to and fro, ascending and descending
        of stairs, servants in every corner; orders boundlessly given, rapidly obeyed; many desires,
        equal gratification. All this made him rather nervous. It was quite unlike Beaumanoir. That
@@ -5023,7 +5022,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>There</hi> was to be a first appearance on the stage of Lord Monmouth's theatre
+      <p>There was to be a first appearance on the stage of Lord Monmouth's theatre
        to-night, the expectation of which created considerable interest in the party, and was one of
        the principal subjects of conversation at dinner. Villebecque, the manager of the troop, had
        married the actress Stella, once celebrated for her genius and her beauty; a woman who had
@@ -5168,7 +5167,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VIII.</head>
-      <p><hi>The</hi> guests re-assembled in the great saloon before they repaired to the theatre. A
+      <p>The guests re-assembled in the great saloon before they repaired to the theatre. A
        lady on the arm of the Russian Prince bestowed on Coningsby a haughty, but not ungracious,
        bow; which he returned, unconscious of the person to whom he bent. She was however a very
        striking person: not beautiful; her face indeed at the first glance was almost repulsive, yet
@@ -5370,7 +5369,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IX.</head>
-      <p><hi>Nothing</hi> could present a greater contrast than the respective interiors of
+      <p>Nothing could present a greater contrast than the respective interiors of
        Coningsby and Beaumanoir. That air of habitual habitation, which so pleasingly distinguished
        the Duke's family seat, was entirely wanting at Coningsby. Everything indeed was vast and
        splendid; but it seemed rather a gala-house than a dwelling; as if the grand furniture and
@@ -5578,7 +5577,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER X.</head>
-      <p><hi>Sidonia</hi> was descended from a very ancient and noble family of Arragon, that, in
+      <p>Sidonia was descended from a very ancient and noble family of Arragon, that, in
        the course of ages, had given to the state many distinguished citizens. In the priesthood its
        members had been peculiarly eminent. Besides several prelates, they counted among their
        number an Archbishop of Toledo; and a Sidonia, in a season of great danger and difficulty,
@@ -5897,7 +5896,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XI.</head>
-      <p><hi>At</hi> dinner Coningsby was seated on the same side as Sidonia, and distant from him.
+      <p>At dinner Coningsby was seated on the same side as Sidonia, and distant from him.
        There had been therefore no mutual recognition. Another guest had also arrived, Mr. Ormsby.
        He came straight from London, full of rumours, had seen Tadpole, who hearing he was on the
        wing for Coningsby Castle, had taken him into a dark corner of his club, and shown him his
@@ -6192,7 +6191,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XII.</head>
-      <p><hi>Madame</hi> Colonna with that vivacious energy which characterises the south, had no
+      <p>Madame Colonna with that vivacious energy which characterises the south, had no
        sooner seen Coningsby, and heard his praises celebrated by his grandfather, than she resolved
        that an alliance should sooner or later take place between him and her step-daughter. She
        imparted her projects without delay to Lucretia, who received them in a very different spirit
@@ -6310,7 +6309,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XIII.</head>
-      <p><hi>"You</hi> will observe one curious trait," said Sidonia to Coningsby, "in the history
+      <p>"You will observe one curious trait," said Sidonia to Coningsby, "in the history
        of this country; the depositary of power is always unpopular, all combine against it, always
        it falls. Power was deposited in the great Barons; the Church using the King for its
        instrument crushed the great Barons. Power was deposited in the Church; the King bribing the
@@ -6429,7 +6428,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XIV.</head>
-      <p><hi>About</hi> this time a steeple-chase in the West of England had attracted considerable
+      <p>About this time a steeple-chase in the West of England had attracted considerable
        attention. This sport was then of recent introduction in England, and is in fact an
        importation of Irish growth, although it has flourished in our soil. A young guardsman who
        was then a guest at the Castle, and who had been in garrison in Ireland, had some experience
@@ -6562,7 +6561,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XV.</head>
-      <p><hi>Notwithstanding</hi> the fatigues of the morning, the evening was past with great
+      <p>Notwithstanding the fatigues of the morning, the evening was past with great
        gaiety at the castle. The gentlemen all vowed, that far from being inconvenienced by their
        mishaps, they felt, on the whole, rather better for them. Mr. Guy Flouncey indeed did not
        seem quite so limber and flexible as usual; and the young guardsman, who had previously
@@ -6767,7 +6766,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER XVI.</head>
-      <p><hi>It</hi> was the noon of the day on which Sidonia was to leave the Castle. The wind was
+      <p>It was the noon of the day on which Sidonia was to leave the Castle. The wind was
        high; the vast white clouds scudded over the blue heaven; the leaves yet green, and tender
        branches snapped like glass, were whirled in eddies from the trees; the grassy sward
        undulated like the ocean with a thousand tints and shadows. From the window of the music-room
@@ -6818,7 +6817,7 @@
      <head>BOOK V.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>An</hi> University life did not bring to Coningsby that feeling of emancipation usually
+      <p>An University life did not bring to Coningsby that feeling of emancipation usually
        experienced by freshmen. The contrast between school and college life is perhaps under any
        circumstances less striking to the Etonian than to others: he has been prepared for becoming
        his own master by the liberty so wisely entrusted to him in his boyhood, and which is in
@@ -6920,7 +6919,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>Less</hi> than a year after the arrival of Coningsby at Cambridge, and which he had
+      <p>Less than a year after the arrival of Coningsby at Cambridge, and which he had
        only once quitted in the interval, and that to pass a short time in Berkshire with his friend
        Buckhurst, occurred the death of King William IV. This event necessarily induced a
        dissolution of the Parliament elected under the auspices of Sir Robert Peel in 1834, and
@@ -7088,7 +7087,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>We</hi> must now revert to the family, or rather the household of Lord Monmouth, in
+      <p>We must now revert to the family, or rather the household of Lord Monmouth, in
        which considerable changes and events had occurred since the visit of Coningsby to the Castle
        in the preceding autumn.</p>
       <p>In the first place, the earliest frost of the winter had carried off the aged proprietor of
@@ -7319,7 +7318,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>The</hi> people of Darlford who, as long as the contest for their representation
+      <p>The people of Darlford who, as long as the contest for their representation
        remained between Mr. Rigby and the abstraction called Liberal Principles, appeared to be very
        indifferent about the result, the moment they learned that for the phrase had been
        substituted a substance, and that too in the form of a gentleman, who was soon to figure as
@@ -7575,7 +7574,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>It</hi> was not with feelings of extreme satisfaction that Mr. Rigby returned to
+      <p>It was not with feelings of extreme satisfaction that Mr. Rigby returned to
        London. The loss of Hellingsley, followed by the loss of the borough to Hellingsley's
        successful master, were not precisely the incidents which would be adduced as evidence of Mr.
        Rigby's good management or good fortune. Hitherto that gentleman had persuaded the world that
@@ -7660,7 +7659,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>The</hi> departure of Sidonia from Coningsby Castle in the autumn determined the
+      <p>The departure of Sidonia from Coningsby Castle in the autumn determined the
        Princess Lucretia on a step which had for some time before his arrival occupied her brooding
        imagination. Nature had bestowed on this lady an ambitious soul and a subtile spirit; she
        could dare much, and could execute finely. Above all things she coveted power; and though not
@@ -7868,7 +7867,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>Another</hi> year elapsed; not so fruitful in incidents to Coningsby as the preceding
+      <p>Another year elapsed; not so fruitful in incidents to Coningsby as the preceding
        ones, and yet not unprofitably passed. It had been spent in the almost unremitting
        cultivation of his intelligence. He had read deeply and extensively, digested his
        acquisitions, and had practised himself in surveying them, free from those conventional
@@ -7972,7 +7971,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VIII.</head>
-      <p><hi>About</hi> a week after Coningsby's arrival in Paris, as he was sauntering on the soft
+      <p>About a week after Coningsby's arrival in Paris, as he was sauntering on the soft
        and sunny Boulevards, soft and sunny though Christmas, he met Sidonia.</p>
       <p>"So you are here?" said Sidonia. "Turn now with me, for I see you are only lounging, and
        tell me when you came, where you are, and what you have done since we parted. I have been
@@ -8094,7 +8093,7 @@
      <head>BOOK VI.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>The</hi> knowledge that Sidonia was at Paris greatly agitated Lady Monmouth. She
+      <p>The knowledge that Sidonia was at Paris greatly agitated Lady Monmouth. She
        received the intimation indeed from Coningsby at dinner with sufficient art to conceal her
        emotion. Lord Monmouth himself was quite pleased at the announcement. Sidonia was his
        especial favourite; he knew so much, had such an excellent judgment, and was so rich. He had
@@ -8204,7 +8203,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>Sidonia</hi> was to dine at Lord Monmouth's the day after he met Lucretia, and
+      <p>Sidonia was to dine at Lord Monmouth's the day after he met Lucretia, and
        afterwards they were all to meet at a ball much talked of, and to which invitations were much
        sought; and which was to be given that evening by the Baroness S. de R—d.</p>
       <p>Lord Monmouth's dinners at Paris were celebrated. It was generally agreed that they had no
@@ -8427,7 +8426,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>The</hi> image of Edith Millbank was the last thought of Coningsby as he sank into an
+      <p>The image of Edith Millbank was the last thought of Coningsby as he sank into an
        agitated slumber. To him had hitherto in general been accorded the precious boon of dreamless
        sleep. Homer tells us these phantasmas come from Jove; they are rather the children of a
        distracted soul. Coningsby this night lived much in past years, varied by painful
@@ -8589,7 +8588,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>Not</hi> a day elapsed without Coningsby being in the company of Edith. Time was
+      <p>Not a day elapsed without Coningsby being in the company of Edith. Time was
        precious for him, for the spires and pinnacles of Cambridge already began to loom in the
        distance, and he resolved to make the most determined efforts not to lose a day of his
        liberty. And yet to call every morning in the Rue de Rivoli, was an exploit which surpassed
@@ -8701,7 +8700,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>It</hi> was fated that Lady Monmouth should not be present at that ball, the
+      <p>It was fated that Lady Monmouth should not be present at that ball, the
        anticipation of which had occasioned her so much pleasure and some pangs.</p>
       <p>On the morning after that slight conversation, which had so disturbed the souls, though
        unconsciously to each other, of herself and Coningsby, the Marquess was driving Lucretia up
@@ -8780,7 +8779,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>After</hi> the conversation at dinner which we have noticed, the restless and
+      <p>After the conversation at dinner which we have noticed, the restless and
        disquieted Coningsby wandered about Paris, vainly seeking in the distraction of a great city
        some relief from the excitement of his mind. His first resolution was immediately to depart
        for England; but when, on reflection, he was mindful that after all, the assertion which had
@@ -8841,7 +8840,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>When</hi> Coningsby had returned to his grandfather's hotel that morning, it was with a
+      <p>When Coningsby had returned to his grandfather's hotel that morning, it was with a
        determination of leaving Paris the next day for England, but the accident to Lady Monmouth,
        though, as it ultimately appeared, accompanied by no very serious consequences, quite
        dissipated this intention. It was impossible to quit them so crudely, at such a moment. So he
@@ -8908,7 +8907,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VIII.</head>
-      <p><hi>Sidonia</hi> lived in the Faubourg St. Germain in a large hotel, that, in old days, had
+      <p>Sidonia lived in the Faubourg St. Germain in a large hotel, that, in old days, had
        belonged to the Crillons; but it had received at his hands such extensive alterations, that
        nothing of the original decoration, and little of its arrangement, remained.</p>
       <p>A flight of marble steps, ascending from a vast court, led into a hall of great dimensions,
@@ -9066,7 +9065,7 @@
      <head>BOOK VII.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>It</hi> was one of those gorgeous and enduring sunsets that seem to linger as if they
+      <p>It was one of those gorgeous and enduring sunsets that seem to linger as if they
        wished to celebrate the mid period of the year. Perhaps the beautiful hour of impending
        twilight never exercises a more effective influence on the soul than when it descends on the
        aspect of some distant and splendid city. What a contrast between the serenity and repose of
@@ -9235,7 +9234,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>There</hi> are few things in life more interesting than an unrestrained interchange of
+      <p>There are few things in life more interesting than an unrestrained interchange of
        ideas with a congenial spirit; and there are few things more rare. How very seldom do you
        encounter in the world a man of great abilities, acquirements, experience, who will unmask
        his mind; unbutton his brains; and pour forth in careless and picturesque phrase, all the
@@ -9511,7 +9510,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>The</hi> beautiful light of summer had never shone on a scene and surrounding landscape
+      <p>The beautiful light of summer had never shone on a scene and surrounding landscape
        which recalled happier images of English nature, and sweeter recollections of English
        manners, than that to which we would now introduce our readers. One of those true old English
        Halls now unhappily so rare, built in the time of the Tudors, and in its elaborate timber
@@ -9588,7 +9587,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>Lady Wallinger</hi> and Edith were together in the morning room of Hellingsley, the
+      <p>Lady Wallinger and Edith were together in the morning room of Hellingsley, the
        morrow after the arrival of Oswald. Edith was arranging flowers in a vase, while her aunt was
        embroidering a Spanish peasant in correct costume. The daughter of Millbank looked as bright
        and fragrant as the fair creations that surrounded her. Beautiful to watch her as she
@@ -9736,7 +9735,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>There</hi> is a romance in every life. The emblazoned page of Coningsby's existence was
+      <p>There is a romance in every life. The emblazoned page of Coningsby's existence was
        now open. It had been prosperous before; with some moments of excitement; some of delight;
        but they had all found, as it were, their origin in worldly considerations, or been
        inevitably mixed up with them. At Paris for example, he loved, or thought he loved. But there
@@ -9869,7 +9868,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>It</hi> was past the dinner hour when Edith and Coningsby reached the Hall; an
+      <p>It was past the dinner hour when Edith and Coningsby reached the Hall; an
        embarrassing circumstance, but mitigated by the conviction, that they had not to encounter a
        very critical inspection. What then were their feelings, when the first servant that they met
        informed them, that Mr. Millbank had arrived! Edith never could have believed, that the
@@ -9959,7 +9958,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>To</hi> be alone; to have no need of feigning a tranquillity he could not feel; of
+      <p>To be alone; to have no need of feigning a tranquillity he could not feel; of
        coining common-place courtesy, when his heart was gushing with rapture; this was a great
        relief for Coningsby, though gained by a separation from Edith.</p>
       <p>The deed was done; he had breathed his long brooding passion, he had received the sweet
@@ -9998,7 +9997,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VIII.</head>
-      <p><hi>The</hi> morning broke lowering and thunderous; small white clouds, dull and immovable,
+      <p>The morning broke lowering and thunderous; small white clouds, dull and immovable,
        studded the leaden sky; the waters of the rushing Darl seemed to have become black and almost
        stagnant; the terraces of Hellingsley looked like the hard lines of a model; and the mansion
        itself had a harsh and metallic character. Before the chief portal of his Hall, the elder
@@ -10257,7 +10256,7 @@
      <head>BOOK VIII.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>It</hi> was the heart of the London season, nearly four years ago; twelve months having
+      <p>It was the heart of the London season, nearly four years ago; twelve months having
        almost elapsed since the occurrence of those painful passages at Hellingsley which closed the
        last book of this history; and long lines of carriages an hour before midnight, up the
        classic mount of St. James and along Piccadilly, intimated that the world were received at
@@ -10507,7 +10506,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>Sadness</hi> fell over the once happy family of Millbank after the departure of
+      <p>Sadness fell over the once happy family of Millbank after the departure of
        Coningsby from Hellingsley. When the first pang was over, Edith had found some solace in the
        sympathy of her aunt, who had always appreciated and admired Coningsby; but it was a sympathy
        which aspired only to soften sorrow, and not to create hope. But Lady Wallinger, though she
@@ -10648,7 +10647,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER III.</head>
-      <p><hi>Lord Monmouth</hi> was sitting in the same dressing-room in which he was first
+      <p>Lord Monmouth was sitting in the same dressing-room in which he was first
        introduced to the reader; on the table were several packets of papers that were open and in
        course of reference; and he dictated his observations to Monsieur Villebecque who was writing
        at his left hand.</p>
@@ -10859,7 +10858,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>It</hi> would have been difficult for any person, unconcious of crime, to have felt
+      <p>It would have been difficult for any person, unconcious of crime, to have felt
        more dejected than Coningsby, when he rode out of the court- yard of Monmouth Houe. The love
        of Edith would have consoled him for the destruction of his prosperity; the proud fulfilment
        of his ambition might in time have proved some compensation for his crushed affections; but
@@ -10962,7 +10961,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>Lady</hi> Monmouth was reclining on a sofa in that beautiful boudoir which had been
+      <p>Lady Monmouth was reclining on a sofa in that beautiful boudoir which had been
        fitted up under the superintendance of Mr. Rigby, but as he then believed for the Princess
        Colonna. The walls were hung with amber satin, painted by Laroche with such subjects as might
        be expected from his brilliant and picturesque pencil. Fair forms, heroes and heroines in
@@ -11011,7 +11010,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>What</hi> a great man was the Right Honourable Nicholas Rigby! Here was one of the
+      <p>What a great man was the Right Honourable Nicholas Rigby! Here was one of the
        first peers of England, and one of the finest ladies in London, both waiting with equal
        anxiety his return to town; and unable to transact two affairs of vast importance yet wholly
        unconnected, without his interposition! What was the secret of the influence of this man,
@@ -11547,7 +11546,7 @@
      <head>BOOK IX.</head>
      <div type="chapter">
       <head>CHAPTER I.</head>
-      <p><hi>It</hi> was merry Christmas at St. Geneviève. There was a Yule log blazing on every
+      <p>It was merry Christmas at St. Geneviève. There was a Yule log blazing on every
        hearth in that wide domain, from the hall of the squire to the peasant's roof. The Buttery
        Hatch was open for the whole week from noon to sunset; all comers might take their fill, and
        each carry away as much bold beef, white bread, and jolly ale as a strong man could bear in a
@@ -11638,7 +11637,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER II.</head>
-      <p><hi>This</hi> was a crisis in the life of Coningsby; yet, like many critical epochs, the
+      <p>This was a crisis in the life of Coningsby; yet, like many critical epochs, the
        person most interested in it was not sufficiently aware of its character. The first feeling
        which he experienced at the intelligence was sincere affliction. He was fond of his
        grandfather; had received great kindness from him, and at a period of life when it was most
@@ -11938,7 +11937,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER IV.</head>
-      <p><hi>Alone</hi> in his chambers, no longer under the sustaining influence of Sidonia's
+      <p>Alone in his chambers, no longer under the sustaining influence of Sidonia's
        converse and counsel, the shades of night descending and bearing gloom to the gloomy, all the
        excitement of his spirit evaporated, the heart of Coningsby sank. All now depended on
        himself, and in that self he had no trust. Why should he succeed? Success was the most rare
@@ -12106,7 +12105,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER V.</head>
-      <p><hi>About</hi> a week after this interview with Flora, as Coningsby one morning was about
+      <p>About a week after this interview with Flora, as Coningsby one morning was about
        to sally forth from the Albany to visit some chambers in the Temple to which his notice had
        been attracted, there was a loud ring, a bustle in the hall, and Henry Sydney and Buckhurst
        were ushered in.</p>
@@ -12191,7 +12190,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VI.</head>
-      <p><hi>The</hi> state of political parties in England in the spring of 1841 offered a most
+      <p>The state of political parties in England in the spring of 1841 offered a most
        remarkable contrast to their condition at the period commemorated in the first chapter of
        this work. The banners of the Conservative camp at this moment lowered on the Whig forces as
        the gathering host of the Norman invader frowned on the coast of Sussex. The Whigs were not
@@ -12508,7 +12507,7 @@
      </div>
      <div type="chapter">
       <head>CHAPTER VII.</head>
-      <p><hi>The</hi> marriage of Coningsby and Edith took place early in the autumn. It was
+      <p>The marriage of Coningsby and Edith took place early in the autumn. It was
        solemnized at Millbank, and they passed their first moon at Hellingsley, which place was in
        future to be the residence of the member for Darlford. The estate was to devolve to Coningsby
        after the death of Mr. Millbank who in the meantime made arrangements which permitted the
