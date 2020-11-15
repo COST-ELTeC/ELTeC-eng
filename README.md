@@ -9,7 +9,7 @@ produced by the COST Action Distant Reading for European Literary History (CA162
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.  
 
-The ELTeC-eng collection contains  a total of 91 titles, 73  encoded at level 1, and 18 at level 0. The corpus composition criteria have been observed as far as possible, and a conscious effort has been made to maximise diversity in the types of novels included. 
+The ELTeC-eng collection contains a total of 100 titles, 87 encoded at level 1, and 13 at level 0. The corpus composition criteria have been observed as far as possible, and a conscious effort has been made to maximise diversity in the types of novels included. 
 
 ## Contributors
 
