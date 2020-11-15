@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18482">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18482">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -227,7 +224,7 @@
     <p>"Come, women," said John Barton, "you've both walked far enough. My Mary expects to have her
      bed in three weeks; and as for you, Mrs. Wilson, you know you're but a cranky sort of a body at
      the best of times." This was said so kindly, that no offence could be taken. "Sit you down
-     here; the grass is well nigh dry by this time; and you're neither of you nesh <ref target="#footnote1">[1]</ref><ref target="#footnote1">[1]</ref> folk about taking cold. Stay," he added, with some tenderness,
+     here; the grass is well nigh dry by this time; and you're neither of you nesh <ref target="#footnote1">[1]</ref> folk about taking cold. Stay," he added, with some tenderness,
      "here's my pocket-handkerchief to spread under you, to save the gowns women always think so
      much of; and now, Mrs. Wilson, give me the baby, I may as well carry him, while you talk and
      comfort my wife; poor thing, she takes on sadly about Esther."</p>
@@ -243,7 +240,7 @@
      new ribbon in her bonnet, and gloves on her hands, like the lady she was so fond of thinking
      herself."</p>
     <p>"She was as pretty a creature as ever the sun shone on."</p>
-    <p>"Ay, she was a farrantly <ref target="#footnote2">[2]</ref><ref target="#footnote2">[2]</ref> lass; more's the pity now," added
+    <p>"Ay, she was a farrantly <ref target="#footnote2">[2]</ref> lass; more's the pity now," added
      Barton, with a sigh. "You see them Buckinghamshire people as comes to work in Manchester, has
      quite a different look with them to us Manchester folk. You'll not see among the Manchester
      wenches such fresh rosy cheeks, or such black lashes to gray eyes (making them look like
@@ -941,7 +938,7 @@
     <p>"Ay, lass, that's it," said Alice, raising her head and speaking more cheerfully. "That's the
      thing, and then let the Lord send what He sees fit; not but that I grieved sore, oh, sore and
      sad, when toward spring next year, when my quilt were all done to th' lining, George came in
-     one evening to tell me mother was dead. I cried many a night at after; <ref target="#footnote3">[3]</ref><ref target="#footnote3">[3]</ref> I'd no time for crying by day, for that missis was terrible strict; she would not
+     one evening to tell me mother was dead. I cried many a night at after; <ref target="#footnote3">[3]</ref> I'd no time for crying by day, for that missis was terrible strict; she would not
      hearken to my going to th' funeral; and indeed I would have been too late, for George set off
      that very night by th' coach, and th' letter had been kept or summut (posts were not like th'
      posts now-a-days), and he found the burial all over, and father talking o' flitting; for he
@@ -984,7 +981,7 @@
      back as white as a sheet wi' vomiting. But the lad went on to Liverpool and saw real ships, and
      came back more set than ever on being a sailor, and he said as how he had never been sick at
      all, and thought he could stand the sea pretty well. So I telled him he mun do as he liked; and
-     he thanked me and kissed me, for all I was very frabbit <ref target="#footnote4">[4]</ref><ref target="#footnote4">[4]</ref> with
+     he thanked me and kissed me, for all I was very frabbit <ref target="#footnote4">[4]</ref> with
      him; and now he's gone to South America, at t'other side of the sun, they tell me."</p>
     <p>Mary stole a glance at Margaret to see what she thought of Alice's geography; but Margaret
      looked so quiet and demure, that Mary was in doubt if she were not really ignorant. Not that
@@ -1313,7 +1310,7 @@
      funeral; for it's to be quite a grand affair, well-nigh twenty people to breakfast, as one of
      the little ones told me; the little thing seemed to like the fuss, and I do believe it
      comforted poor Mrs. Ogden to make all the piece o' work. Such a smell of ham boiling and fowls
-     roasting while I waited in the kitchen; it seemed more like a wedding nor <ref target="#footnote7">[7]</ref><ref target="#footnote7">[7]</ref> a funeral. They said she'd spend a matter o' sixty pound on th'
+     roasting while I waited in the kitchen; it seemed more like a wedding nor <ref target="#footnote7">[7]</ref> a funeral. They said she'd spend a matter o' sixty pound on th'
      burial."</p>
     <p>"I thought you said she was but badly off," said Mary.</p>
     <p>"Ay, I know she's asked for credit at several places, saying her husband laid hands on every
@@ -1327,7 +1324,7 @@
     <p>"This mourning, too, will cost a pretty penny," said Mary. "I often wonder why folks wear
      mourning; it's not pretty or becoming; and it costs a deal of money just when people can spare
      it least; and if what the Bible tells us be true, we ought not to be sorry when a friend, who's
-     been good, goes to his rest; and as for a bad man, one's glad enough to get shut <ref target="#footnote8">[8]</ref><ref target="#footnote8">[8]</ref> on him. I cannot see what good comes out o' wearing
+     been good, goes to his rest; and as for a bad man, one's glad enough to get shut <ref target="#footnote8">[8]</ref> on him. I cannot see what good comes out o' wearing
      mourning."</p>
     <p>"I'll tell you what I think th' fancy was sent for (Old Alice calls every thing 'sent for,'
      and I believe she's right). It does do good, though not as much as it costs, that I do believe,
@@ -1350,7 +1347,7 @@
      Well, I was fretting about this fear, and Alice comes in for something, and finds me crying. I
      would not tell her no more than I would you, Mary; so she says, 'Well, dear, you must mind
      this, when you're going to fret and be low about any thing, "An anxious mind is never a holy
-     mind."' Oh, Mary, I have so often checked my grumbling sin' <ref target="#footnote9">[9]</ref><ref target="#footnote9">[9]</ref>
+     mind."' Oh, Mary, I have so often checked my grumbling sin' <ref target="#footnote9">[9]</ref>
      she said that."</p>
     <p>The weary sound of stitching was the only sound heard for a little while, till Mary
      inquired,</p>
@@ -1401,7 +1398,7 @@
      right way o' singing; and he says I've a rare fine voice, and I go once a week, and take a
      lesson fra' him. He's been a grand singer in his day. He's led th' chorusses at the Festivals,
      and got thanked many a time by London folk; and one foreign singer, Madame Catalani, turned
-     round and shook him by th' hand before the Oud Church <ref target="#footnote10">[10]</ref><ref target="#footnote10">[10]</ref> full
+     round and shook him by th' hand before the Oud Church <ref target="#footnote10">[10]</ref> full
      o' people. He says I may gain ever so much money by singing; but I don't know. Any rate it's
      sad work, being blind."</p>
     <p>She took up her sewing, saying her eyes were rested now, and for some time they sewed on in
@@ -1687,9 +1684,9 @@
      Wilson came breathless in.</p>
     <p>"You've not got a bit o' money by you, Barton?" asked he.</p>
     <p>"Not I; who has now, I'd like to know. Whatten you want it for?"</p>
-    <p>"I donnot <ref target="#footnote11">[11]</ref><ref target="#footnote11">[11]</ref> want it for mysel, tho' we've none to spare.
+    <p>"I donnot  want it for mysel, tho' we've none to spare.
      But don ye know Ben Davenport as worked at Carsons'? He's down wi' the fever, and ne'er a stick
-     o' fire, nor a cowd <ref target="#footnote12">[12]</ref><ref target="#footnote12">[12]</ref> potato in the house."</p>
+     o' fire, nor a cowd <ref target="#footnote12">[12]</ref> potato in the house."</p>
     <p>"I han got no money, I tell ye," said Barton. Wilson looked disappointed. Barton tried not to
      be interested, but he could not help it in spite of his gruffness. He rose, and went to the
      cupboard (his wife's pride long ago). There lay the remains of his dinner, hastily put by ready
@@ -1721,7 +1718,7 @@
      four little children rolling on the damp, nay wet, brick floor, through which the stagnant,
      filthy moisture of the street oozed up; the fire-place was empty and black; the wife sat on her
      husband's lair, and cried in the dank loneliness.</p>
-    <p>"See, missis, I'm back again.—Hold your noise, children, and don't mither <ref target="#footnote13">[13]</ref><ref target="#footnote13">[13]</ref> your mammy for bread; here's a chap as has got some for
+    <p>"See, missis, I'm back again.—Hold your noise, children, and don't mither <ref target="#footnote13">[13]</ref> your mammy for bread; here's a chap as has got some for
      you."</p>
     <p>In that dim light, which was darkness to strangers, they clustered round Barton, and tore
      from him the food he had brought with him. It was a large hunch of bread, but it vanished in an
@@ -1830,12 +1827,12 @@
      again, he saw the woman suckling the child from her dry, withered breast.</p>
     <p>"Surely the lad is weaned!" exclaimed he, in surprise. "Why, how old is he?"</p>
     <p>"Going on two year," she faintly answered. "But, oh! it keeps him quiet when I've nought else
-     to gi' him, and he'll get a bit of sleep lying there, if he's getten <ref target="#footnote14">[14]</ref><ref target="#footnote14">[14]</ref> nought beside. We han done our best to gi' the childer <ref target="#footnote15">[15]</ref><ref target="#footnote15">[15]</ref> food, howe'er we pinched ourselves."</p>
-    <p>"Han <ref target="#footnote16">[16]</ref><ref target="#footnote16">[16]</ref> ye had no money fra th' town?"</p>
+     to gi' him, and he'll get a bit of sleep lying there, if he's getten  nought beside. We han done our best to gi' the childer <ref target="#footnote15">[15]</ref> food, howe'er we pinched ourselves."</p>
+    <p>"Han <ref target="#footnote16">[16]</ref> ye had no money fra th' town?"</p>
     <p>"No; my master is Buckinghamshire born; and he's feared the town would send him back to his
      parish, if he went to th' board; so we've just borne on in hope o' better times. But I think
      they'll never come in my day;" and the poor woman began her weak high-pitched cry again.</p>
-    <p>"Here, sup <ref target="#footnote17">[17]</ref><ref target="#footnote17">[17]</ref> this drop o' gruel, and then try and get a
+    <p>"Here, sup <ref target="#footnote17">[17]</ref> this drop o' gruel, and then try and get a
      bit o' sleep. John and I'll watch by your master to-night."</p>
     <p>"God's blessing be on you!"</p>
     <p>She finished the gruel, and fell into a deep sleep. Wilson covered her with his coat as well
@@ -1865,7 +1862,7 @@
      that. Han they done as they'd be done by for us?"</p>
     <p>But Wilson was no arguer; no speechifier as he would have called it. So Barton, seeing he was
      likely to have it his own way, went on.</p>
-    <p>"You'll say (at least many a one does), they'n <ref target="#footnote18">[18]</ref><ref target="#footnote18">[18]</ref> getten
+    <p>"You'll say (at least many a one does), they'n <ref target="#footnote18">[18]</ref> getten
      capital an' we'n getten none. I say, our labour's our capital and we ought to draw interest on
      that. They get interest on their capital somehow a' this time, while ourn is lying idle, else
      how could they all live as they do? Besides, there's many on 'em as had nought to begin wi';
@@ -2092,7 +2089,7 @@
      adorned the burial-ground. It was easily raised in a very few minutes, and below was the grave
      in which pauper bodies were piled until within a foot or two of the surface; when the soil was
      shovelled over, and stamped down, and the wooden cover went to do temporary duty over another
-     hole. <ref target="#footnote19">[19]</ref><ref target="#footnote19">[19]</ref> But little they recked of this who now gave up their
+     hole. <ref target="#footnote19">[19]</ref> But little they recked of this who now gave up their
      dead.</p>
     <p> </p>
     <p> </p>
@@ -2175,13 +2172,13 @@
     <p>"Ay; donno ye know what wishing means? There's none can die in the arms of those who are
      wishing them sore to stay on earth. The soul o' them as holds them won't let the dying soul go
      free; so it has a hard struggle for the quiet of death. We mun get him away fra' his mother, or
-     he'll have a hard death, poor lile <ref target="#footnote20">[20]</ref><ref target="#footnote20">[20]</ref> fellow."</p>
+     he'll have a hard death, poor lile <ref target="#footnote20">[20]</ref> fellow."</p>
     <p>So without circumlocution she went and offered to take the sinking child. But the mother
      would not let him go, and looking in Alice's face with brimming and imploring eyes, declared in
      earnest whispers, that she was not wishing him, that she would fain have him released from his
      suffering. Alice and Mary stood by with eyes fixed on the poor child, whose struggles seemed to
      increase, till at last his mother said with a choking voice,</p>
-    <p>"May happen <ref target="#footnote21">[21]</ref><ref target="#footnote21">[21]</ref> yo'd better take him, Alice; I believe my
+    <p>"May happen <ref target="#footnote21">[21]</ref> yo'd better take him, Alice; I believe my
      heart's wishing him a' this while, for I cannot, no, I cannot bring mysel to let my two childer
      go in one day; I cannot help longing to keep him, and yet he sha'not suffer longer for me."</p>
     <p>She bent down, and fondly, oh! with what passionate fondness, kissed her child, and then gave
@@ -2378,8 +2375,8 @@
      afford. Did I ever tell yo what th' Infirmary chap let me into, many a year agone?"</p>
     <p>"No," said Jem, listlessly.</p>
     <p>"Well! yo must know I were in th' Infirmary for a fever, and times were rare and bad; and
-     there be good chaps there to a man, while he's wick, <ref target="#footnote22">[22]</ref><ref target="#footnote22">[22]</ref>
-     whate'er they may be about cutting him up at after. <ref target="#footnote23">[23]</ref><ref target="#footnote23">[23]</ref> So
+     there be good chaps there to a man, while he's wick, 
+     whate'er they may be about cutting him up at after. <ref target="#footnote23">[23]</ref> So
      when I were better o' th' fever, but weak as water, they says to me, says they, 'If yo can
      write, yo may stay in a week longer, and help our surgeon wi' sorting his papers; and we'll
      take care yo've your belly full o' meat and drink. Yo'll be twice as strong in a week.' So
@@ -2505,7 +2502,7 @@
      eats so much; and I han gotten no money to send him t' school, as I would like; and there he
      is, rampaging about th' streets a' day, getting hungrier and hungrier, and picking up a' manner
      o' bad ways; and th' inspector won't let him in to work in th' factory, because he's not right
-     age; though he's twice as strong as Sankey's little ritling <ref target="#footnote24">[24]</ref><ref target="#footnote24">[24]</ref> of a lad, as works till he cries for his legs aching so, though he is right age,
+     age; though he's twice as strong as Sankey's little ritling <ref target="#footnote24">[24]</ref> of a lad, as works till he cries for his legs aching so, though he is right age,
      and better."</p>
     <p>"I've one plan I wish to tell John Barton," said a pompous, careful-speaking man, "and I
      should like him for to lay it afore the Honourable House. My mother comed out o' Oxfordshire,
@@ -2543,7 +2540,7 @@
     <p>"Never sin' her accident. Afore that I mind her looking as fresh and likely a girl as e'er a
      one in Manchester."</p>
     <p>"What accident, father?"</p>
-    <p>"She cotched <ref target="#footnote25">[25]</ref><ref target="#footnote25">[25]</ref> her side again a wheel. It were afore
+    <p>"She cotched <ref target="#footnote25">[25]</ref> her side again a wheel. It were afore
      wheels were boxed up. It were just when she were to have been married, and many a one thought
      George would ha' been off his bargain; but I knew he wern't the chap for that trick. Pretty
      near the first place she went to when she were able to go about again, was th' Oud Church; poor
@@ -2662,7 +2659,7 @@
     <p>"You must tell him I can't come," said Mary, raising her eyes at last. "I have said I won't
      meet him while father is away, and I won't."</p>
     <p>"But, Mary, he does so look for you. You'd be quite sorry for him, he's so put out about not
-     seeing you. Besides you go when your father's at home, without letting on <ref target="#footnote26">[26]</ref><ref target="#footnote26">[26]</ref> to him, and what harm would there be in going now?"</p>
+     seeing you. Besides you go when your father's at home, without letting on <ref target="#footnote26">[26]</ref> to him, and what harm would there be in going now?"</p>
     <p>"Well, Sally! you know my answer, I won't; and I won't."</p>
     <p>"I'll tell him to come and see you himself some evening, instead o' sending me; he'd may be
      find you not so hard to deal with."</p>
@@ -2771,7 +2768,7 @@
      <l>Blighting every flower that grew—</l>
      <l> What a single word can do!'"</l></quote>
     <p>Margaret certainly made the most of this little song. As a factory worker, listening outside,
-     observed, "She spun it reet <ref target="#footnote27">[27]</ref><ref target="#footnote27">[27]</ref> fine!" And if she only sang it
+     observed, "She spun it reet <ref target="#footnote27">[27]</ref> fine!" And if she only sang it
      at the Mechanics' with half the feeling she put into it that night, the lecturer must have been
      hard to please, if he did not admit that his expectations were more than fulfilled.</p>
     <p>When it was ended, Mary's looks told more than words could have done what she thought of it;
@@ -2893,7 +2890,7 @@
     <p>"Well, them undertaker folk are driving a pretty trade in London. Wellnigh every lady we saw
      in a carriage had hired one o' them plumes for the day, and had it niddle noddling on her head.
      It were th' Queen's Drawing-room, they said, and th' carriages went bowling along toward her
-     house, some wi' dressed up gentlemen like circus folk in 'em, and rucks <ref target="#footnote28">[28]</ref><ref target="#footnote28">[28]</ref> o' ladies in others. Carriages themselves were great shakes
+     house, some wi' dressed up gentlemen like circus folk in 'em, and rucks <ref target="#footnote28">[28]</ref> o' ladies in others. Carriages themselves were great shakes
      too. Some o' th' gentlemen as couldn't get inside hung on behind, wi' nosegays to smell at, and
      sticks to keep off folk as might splash their silk stockings. I wondered why they didn't hire a
      cab rather than hang on like a whip-behind boy; but I suppose they wished to keep wi' their
@@ -2919,7 +2916,7 @@
     <p>"If yo please, neighbour, I'd rather say nought about that. It's not to be forgotten or
      forgiven either by me or many another; but I canna tell of our down-casting just as a piece of
      London news. As long as I live, our rejection that day will bide in my heart; and as long as I
-     live I shall curse them as so cruelly refused to hear us; but I'll not speak of it no <ref target="#footnote29">[29]</ref><ref target="#footnote29">[29]</ref> more."</p>
+     live I shall curse them as so cruelly refused to hear us; but I'll not speak of it no <ref target="#footnote29">[29]</ref> more."</p>
     <p>So, daunted in their inquiries, they sat silent for a few minutes.</p>
     <p>Old Job, however, felt that some one must speak, else all the good they had done in
      dispelling John Barton's gloom was lost. So after awhile he thought of a subject, neither
@@ -2960,7 +2957,7 @@
      gotten a letter, yo see, fra' the landlady they lodged wi'; a well-penned letter, asking if
      they'd no friends to come and nurse them. She'd caught it first, and Frank, who was as tender
      o' her as her own mother could ha' been, had nursed her till he'd caught it himsel; and she
-     expecting her down-lying <ref target="#footnote30">[30]</ref><ref target="#footnote30">[30]</ref> every day. Well, t' make a long
+     expecting her down-lying <ref target="#footnote30">[30]</ref> every day. Well, t' make a long
      story short, Old Jennings and I went up by that night's coach. So you see, Mary, that was the
      way I got to London."</p>
     <p>"But how was your daughter when you got there?" asked Mary, anxiously.</p>
@@ -2970,7 +2967,7 @@
      she showed us into a room wi' a white sheet on th' bed, and underneath it, plain to be seen,
      two still figures, he screeched out as if he'd been a woman.</p>
     <p>"Yet he'd other childer and I'd none. There lay my darling, my only one. She were dead, and
-     there were no one to love me, no, not one. I disremember <ref target="#footnote31">[31]</ref><ref target="#footnote31">[31]</ref>
+     there were no one to love me, no, not one. I disremember <ref target="#footnote31">[31]</ref>
      rightly what I did; but I know I were very quiet, while my heart were crushed within me.</p>
     <p>"Jennings could na' stand being in th' room at all, so th' landlady took him down, and I were
      glad to be alone. It grew dark while I sat there; and at last th' landlady come up again, and
@@ -3000,7 +2997,7 @@
      shall get there at last, please God, though it's a long while first.</p>
     <p>"The babby had been fed afore we set out, and th' coach moving kept it asleep, bless its
      little heart. But when th' coach stopped for dinner it were awake, and crying for its pobbies.
-      <ref target="#footnote32">[32]</ref><ref target="#footnote32">[32]</ref> So we asked for some bread and milk, and Jennings took it
+       So we asked for some bread and milk, and Jennings took it
      first for to feed it; but it made its mouth like a square, and let it run out at each o' th'
      four corners. 'Shake it, Jennings,' says I; 'that's the way they make water run through a
      funnel, when it's o'er full; and a child's mouth is broad end o' th' funnel, and th' gullet the
@@ -3012,7 +3009,7 @@
      his hand. 'Coach is ready!' says one; 'Half-a-crown your dinner!' says th' other. Well, we
      thought it a deal for both our dinners, when we'd hardly tasted 'em; but, bless your life, it
      were half-a-crown apiece, and a shilling for th' bread and milk as were possetted all over
-     babby's clothes. We spoke up again <ref target="#footnote33">[33]</ref><ref target="#footnote33">[33]</ref> it; but every body said
+     babby's clothes. We spoke up again <ref target="#footnote33">[33]</ref> it; but every body said
      it were the rule, so what could two poor oud chaps like us do again it? Well, poor babby cried
      without stopping to take breath, fra' that time till we got to Brummagem for the night. My
      heart ached for th' little thing. It caught wi' its wee mouth at our coat sleeves and at our
@@ -3057,13 +3054,13 @@
      like home), and walked a' that day, carrying babby turn and turn about. It were well fed by
      chambermaid afore we left, and th' day were fine, and folk began to have some knowledge o' th'
      proper way o' speaking, and we were more cheery at thoughts o' home (though mine, God knows,
-     were lonesome enough). We stopped none for dinner, but at baggin-time <ref target="#footnote34">[34]</ref><ref target="#footnote34">[34]</ref> we getten a good meal at a public-house, an' fed th' babby as well as we could,
+     were lonesome enough). We stopped none for dinner, but at baggin-time  we getten a good meal at a public-house, an' fed th' babby as well as we could,
      but that were but poorly. We got a crust too, for it to suck—chambermaid put us up to that.
-     That night, whether we were tired or whatten, I don't know, but it were dree <ref target="#footnote35">[35]</ref><ref target="#footnote35">[35]</ref> work, and poor wench had slept out her sleep, and began th'
+     That night, whether we were tired or whatten, I don't know, but it were dree <ref target="#footnote35">[35]</ref> work, and poor wench had slept out her sleep, and began th'
      cry as wore my heart out again. Says Jennings, says he,</p>
     <p>"'We should na ha' set out so like gentlefolk a top o' the coach yesterday.'</p>
     <p>"'Nay, lad! We should ha' had more to walk, if we had na ridden, and I'm sure both you and
-     I'se <ref target="#footnote36">[36]</ref><ref target="#footnote36">[36]</ref> weary o' tramping.'</p>
+     I'se <ref target="#footnote36">[36]</ref> weary o' tramping.'</p>
     <p>"So he were quiet a bit. But he were one o' them as were sure to find out somewhat had been
      done amiss, when there were no going back to undo it. So presently he coughs, as if he were
      going to speak, and I says to mysel, 'At it again, my lad.' Says he,</p>
@@ -3152,13 +3149,13 @@
      to their fullest extent,</p>
     <p>"I'm not asleep. I've been awake all the time."</p>
     <p>Even her father could not keep from smiling, and Job Legh and Margaret laughed outright.</p>
-    <p>"Come, wench," said Job, "don't look so gloppened <ref target="#footnote37">[37]</ref><ref target="#footnote37">[37]</ref>
+    <p>"Come, wench," said Job, "don't look so gloppened <ref target="#footnote37">[37]</ref>
      because thou'st fallen asleep while an oud chap like me was talking on oud times. It were like
      enough to send thee to sleep. Try if thou canst keep thine eyes open while I read thy father a
      bit on a poem as is written by a weaver like oursel. A rare chap I'll be bound is he who could
      weave verse like this."</p>
     <p>So adjusting his spectacles on nose, cocking his chin, crossing his legs, and coughing to
-     clear his voice, he read aloud a little poem of Samuel Bamford's <ref target="#footnote38">[38]</ref><ref target="#footnote38">[38]</ref> he had picked up somewhere.</p>
+     clear his voice, he read aloud a little poem of Samuel Bamford's <ref target="#footnote38">[38]</ref> he had picked up somewhere.</p>
     <quote>
      <l>God help the poor, who, on this wintry morn,</l>
      <l>Come forth from alleys dim and courts obscure.</l>
@@ -3397,7 +3394,7 @@
      the widow had reproached herself severely for neglect, in her ignorant anxiety, she gave them
      too much. On opening the door, Alice was seen, not stirring about in her habitual way, but
      knitting by the fire-side. The room felt hot, although the fire burnt gray and dim, under the
-     bright rays of the afternoon sun. Mrs. Wilson was "siding" <ref target="#footnote39">[39]</ref><ref target="#footnote39">[39]</ref>
+     bright rays of the afternoon sun. Mrs. Wilson was "siding" <ref target="#footnote39">[39]</ref>
      the dinner things, and talking all the time, in a kind of whining, shouting voice, which Mary
      did not at first understand. She understood at once, however, that her absence had been noted,
      and talked over; she saw a constrained look on Mrs. Wilson's sorrow-stricken face, which told
@@ -3913,7 +3910,7 @@
     <p>"You're a darling little rascal to go on in this way! 'Humbly begging my pardon if you've
      made me think too much of you.' As if you didn't know I think of you from morning to night. But
      you want to be told it again and again, do you?"</p>
-    <p>"No, indeed, sir, I don't. I would far liefer <ref target="#footnote40">[40]</ref><ref target="#footnote40">[40]</ref> that you
+    <p>"No, indeed, sir, I don't. I would far liefer <ref target="#footnote40">[40]</ref> that you
      should say you will never think of me again, than that you should speak of me in this way. For
      indeed, sir, I never was more in earnest than I am, when I say to-night is the last night I
      will ever speak to you."</p>
@@ -4082,7 +4079,7 @@
      landlady, to find the room where I were to sing, I heard a cough before me, walking along.
      Thinks I, that's Jem Wilson's cough, or I'm much mistaken. Next time came a sneeze and a cough,
      and then I were certain. First I hesitated whether I should speak, thinking if it were a
-     stranger he'd may be think me forrard. <ref target="#footnote41">[41]</ref><ref target="#footnote41">[41]</ref> But I knew blind
+     stranger he'd may be think me forrard. <ref target="#footnote41">[41]</ref> But I knew blind
      folks must not be nesh about using their tongues, so says I, 'Jem Wilson, is that you?' And
      sure enough it was, and nobody else. Did you know he were in Halifax, Mary?"</p>
     <p>"No;" she answered, faintly and sadly; for Halifax was all the same to her heart as the
@@ -4125,7 +4122,7 @@
      it. Waiting is far more difficult than doing. I've known that about my sight, and many a one
      has known it in watching the sick; but it's one of God's lessons we all must learn, one way or
      another." After a pause. "Have ye been to see his mother of late?"</p>
-    <p>"No; not for some weeks. When last I went she was so frabbit <ref target="#footnote42">[42]</ref><ref target="#footnote42">[42]</ref> with me, that I really thought she wished I'd keep away."</p>
+    <p>"No; not for some weeks. When last I went she was so frabbit <ref target="#footnote42">[42]</ref> with me, that I really thought she wished I'd keep away."</p>
     <p>"Well! if I were you I'd go. Jem will hear on't, and it will do you far more good in his mind
      than writing a letter, which, after all, you would find a tough piece of work when you came to
      settle to it. 'Twould be hard to say neither too much nor too little. But I must be going,
@@ -4562,7 +4559,7 @@
      many years, in visiting the prisoners and the afflicted in Manchester New Bailey; not merely
      advising and comforting, but putting means into their power of regaining the virtue and the
      peace they had lost; becoming himself their guarantee in obtaining employment, and never
-     deserting those who have once asked help from him. <ref target="#footnote43">[43]</ref><ref target="#footnote43">[43]</ref></p>
+     deserting those who have once asked help from him. <ref target="#footnote43">[43]</ref></p>
     <p>Esther's term of imprisonment was ended. She received a good character in the governor's
      books; she had picked her daily quantity of oakum, had never deserved the extra punishment of
      the tread-mill, and had been civil and decorous in her language. And once more she was out of
@@ -5019,7 +5016,7 @@
      leader.</p>
     <p>But like all energetic people, the more he had to do the more time he seemed to find. With
      all his letter-writing, his calling, his being present at the New Bailey, when investigations
-     of any case of violence against knob-sticks <ref target="#footnote44">[44]</ref><ref target="#footnote44">[44]</ref> were going on,
+     of any case of violence against knob-sticks <ref target="#footnote44">[44]</ref> were going on,
      he beset Mary more than ever. She was weary of her life for him. From blandishments he had even
      gone to threats—threats that whether she would or not she should be his; he showed an
      indifference that was almost insulting to every thing that might attract attention and injure
@@ -7291,7 +7288,7 @@
     <p>"And now, dear Mrs. Wilson, can you remember where he said he was going on Thursday night? He
      was out when Alice was taken ill; and he did not come home till early in the morning, or, to
      speak true, in the night: did he?"</p>
-    <p>"Ay! he went out near upon five; he went out with Will; he said he were going to set <ref target="#footnote45">[45]</ref><ref target="#footnote45">[45]</ref> him a part of the way, for Will were hot upon walking to
+    <p>"Ay! he went out near upon five; he went out with Will; he said he were going to set <ref target="#footnote45">[45]</ref> him a part of the way, for Will were hot upon walking to
      Liverpool, and wouldn't hearken to Jem's offer of lending him five shilling for his fare. So
      the two lads set off together. I mind it all now; but, thou seest, Alice's illness, and this
      business of poor Jem's, drove it out of my head; they went off together, to walk to Liverpool;
@@ -7474,7 +7471,7 @@
      hard at bottom, and I'll help you if I can; that I will, right or wrong," he added; but in a
      low voice, and coughed the uncertain words away the moment afterwards.</p>
     <p>"Oh, Job! if you will help me," exclaimed Mary, brightening up (though it was but a wintry
-     gleam after all), "tell me what to say, when they question me; I shall be so gloppened, <ref target="#footnote46">[46]</ref><ref target="#footnote46">[46]</ref> I shan't know what to answer."</p>
+     gleam after all), "tell me what to say, when they question me; I shall be so gloppened, <ref target="#footnote46">[46]</ref> I shan't know what to answer."</p>
     <p>"Thou canst do nought better than tell the truth. Truth's best at all times, they say; and
      for sure it is when folk have to do with lawyers; for they're 'cute and cunning enough to get
      it out sooner or later, and it makes folk look like Tom Noddies, when truth follows falsehood,
@@ -7729,7 +7726,7 @@
      what it is,—too well, belike. I was not in when they sarved it; but Mrs. Heming (her as lives
      next door) was, and she spelled out the meaning, and made it all clear to Mrs. Wilson. It's a
      summons to be a witness on Jem's trial—Mrs. Heming thinks, to swear to the gun; for, yo see,
-     there's nobbut <ref target="#footnote47">[47]</ref><ref target="#footnote47">[47]</ref> her as can testify to its being his, and
+     there's nobbut <ref target="#footnote47">[47]</ref> her as can testify to its being his, and
      she let on so easily to the policeman that it was his, that there's no getting off her word
      now. Poor body; she takes it very hard, I dare say!"</p>
     <p>Mrs. Wilson had waited patiently while this whispered speech was being uttered, imagining,
@@ -7743,7 +7740,7 @@
     <p>"Yo'd better give it me at once, Mrs. Wilson, and let me put it out of your sight.—Speak to
      her, Mary, wench, and ask for a sight on it; I've tried, and better-tried to get it from her,
      and she takes no heed of words, and I'm loth to pull it by force out of her hands."</p>
-    <p>Mary drew the little "cricket" <ref target="#footnote48">[48]</ref><ref target="#footnote48">[48]</ref> out from under the
+    <p>Mary drew the little "cricket" <ref target="#footnote48">[48]</ref> out from under the
      dresser, and sat down at Mrs. Wilson's knee, and, coaxing one of her tremulous, ever-moving
      hands into hers, began to rub it soothingly; there was a little resistance—a very little, but
      that was all; and presently, in the nervous movement of the imprisoned hand, the parchment fell
@@ -8897,7 +8894,7 @@
      quietly than might have been expected from her previous excited manner,</p>
     <p>"Don't go for to say that! Thou dost not think it. Thou'rt well-nigh hopeless, like me. I
      seed all along my lad would be hung for what he never did. And better he were, and were shut
-      <ref target="#footnote49">[49]</ref><ref target="#footnote49">[49]</ref> of this weary world, where there's neither justice nor
+      <ref target="#footnote49">[49]</ref> of this weary world, where there's neither justice nor
      mercy left."</p>
     <p>She looked up with tranced eyes as if praying to that throne where mercy ever abideth, and
      then sat down.</p>

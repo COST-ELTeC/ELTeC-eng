@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18720" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18720" xml:lang="en">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
@@ -140,7 +137,7 @@
      himself. I question if he knew whether his hair was black like mine, or, as it was, a bright
      brown like ripe nuts in the sunshine. After catechism was over he stood out before the rest,
      just in his rough country clothes as he vas, and said very respectfully to the
-     <pb n="5" xml:id="VAB7083-008"/> Vicar, Mr. Grand:<ref target="#linton-joshuanote00" n="*"/><ref target="#linton-joshuanote00" n="*"/>
+     <pb n="5" xml:id="VAB7083-008"/> Vicar, Mr. Grand:<ref target="#linton-joshuanote00" n="*"/>
      “If you please sir, I would like to ask you a few questions.”</p>
     <p>“Certainly, my lad, what have you to say?” said Mr. Grand rather shortly. He did not seem
      over well pleased at the boy's addressing him; but he could not well refuse to hear him because

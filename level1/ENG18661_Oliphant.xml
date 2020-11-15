@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18661" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG18661" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -4075,7 +4072,7 @@
      which every woman of Lucilla's large and public-spirited views must calculate upon as
      inevitable now and then. There was no moon, and the Richmonds naturally were absent, and so
      were the Miss Browns, who were staying there on a visit—for it was after the engagement between
-      Lydia<ref target="#ENG18661_N1">[1]</ref><ref target="#ENG18661_N1">[1]</ref> and John; and Mr Cavendish was away (though perhaps
+      Lydia<ref target="#ENG18661_N1">[1]</ref> and John; and Mr Cavendish was away (though perhaps
      under the circumstances that was no disadvantage); and Mrs Woodburn was silenced; and even
      Barbara Lake had failed her patroness.</p>
     <p>"You are not in spirits to-night, Lucilla, my poor dear," said Mrs Chiley, as they went
@@ -7240,7 +7237,7 @@
       this evening at such an important moment, when I had so much to say to you. But I think the
       best thing I can do is to write, feeling quite sure that when you know all, <hi>you cannot
        possibly mistake</hi> my motives. Everybody has retired, and I am quite alone, and the
-       silence<ref target="#ENG18661_N2">[2]</ref><ref target="#ENG18661_N2">[2]</ref> seems to me full of meaning when I think that
+       silence<ref target="#ENG18661_N2">[2]</ref> seems to me full of meaning when I think that
       the fate of a person for whom I have so great a regard may be hanging upon it. I might be
       afraid of writing to you so frankly, if I did not feel quite sure that you would appreciate my
       intention.</p>

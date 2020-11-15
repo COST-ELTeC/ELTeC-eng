@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/ns" xml:id="ENG18871" xml:lang="en">
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
@@ -5732,12 +5729,12 @@
     <p>"I did not mean to express any doubt," Esther says, gently, but wearily.</p>
     <p>"<hi>Suppose</hi> will not do us much good at the <hi>Last Day</hi>," continues Miss Bessy,
      rather venomously. "Unless we can lay fast hold upon Jesus " (<hi>laying hold of a roll of
-      paper to exemplify the tenacity of her own grasp</hi><ref target="#note_001" rend="super">*</ref><ref target="#note_001" rend="super">*</ref>), "unless we have assurance that we are <hi>Elect</hi>, where are we ?"</p>
+      paper to exemplify the tenacity of her own grasp</hi><ref target="#note_001" rend="super">*</ref>), "unless we have assurance that we are <hi>Elect</hi>, where are we ?"</p>
     <p>"If it is any comfort to you, love, you know that you have our prayers," says Mrs. Brandon,
      squeezing Esther's hand.</p>
     <p>"We have set apart a special day with several Christian friends," says Bessy, with animation,
      "to wrestle in prayer for you, that this searching dispensation may be blessed to your
-     conversion—that you may find the Lord."<ref target="#note_001" rend="*"/><ref target="#note_001" rend="*"/></p>
+     conversion—that you may find the Lord."<ref target="#note_001" rend="*"/></p>
     <pb n="238" xml:id="VAB7385-242"/>
     <p>"Thanks," answers Esther, meekly, too broken-down to resent even the indignity of being set
      up on a metaphorical stool of repentance, amid a select circle of Miss Bessy's Christian
@@ -6217,7 +6214,7 @@
      The family are divided between prose and poetry. Miss Brandon is reading a sermon; her sister a
      hymn. Here it is:—</p>
     <quote>
-     <p>THE FIRM BANK.<ref target="#note_002" rend="super">*</ref><ref target="#note_002" rend="super">*</ref></p>
+     <p>THE FIRM BANK.<ref target="#note_002" rend="super">*</ref></p>
      <l n="1">" I have a never-failing bank,</l>
      <l rend="ti-1" n="2">A more than golden store; </l>
      <l n="3">No earthly bank is half so rich,</l>
@@ -6233,7 +6230,7 @@
      <l n="13">" 'Why live so niggardly and poor?—</l>
      <l rend="ti-1" n="14">Your bank contains a plenty? </l>
      <l n="15">Why come and take a one-pound note</l>
-     <l rend="ti-1" n="16">When you might have a twenty?</l><ref target="#note_002"/><ref target="#note_002"/>
+     <l rend="ti-1" n="16">When you might have a twenty?</l><ref target="#note_002"/>
      <pb n="259" xml:id="VAB7385-263"/>
      <l n="17">"'Yea, twenty thousand, ten times told,</l>
      <l rend="ti-1" n="18">Is but a trifling sum</l>

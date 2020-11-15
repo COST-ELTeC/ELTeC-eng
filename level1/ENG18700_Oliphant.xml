@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18700" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ENG18700" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -848,7 +845,7 @@
                     'augmenting the benefices' derived from curing them, I think it is high time, at
                     the risk of giving offence to my friend the Bishop, and to the ecclesiastical
                     establishment generally, to speak out. What times have we fallen upon that the
-                    priesthood itself, once an inspiration, has become a trade?"<ref target="#ENG18700_N1">[1]</ref><ref target="#ENG18700_N1">[1]</ref></p>
+                    priesthood itself, once an inspiration, has become a trade?"<ref target="#ENG18700_N1">[1]</ref></p>
                 <p>Lady Broadhem seemed a little cowed by my vehemence, which some might have
                     thought amounted to rudeness, but would not abandon the field. "The result," she
                     said, "of impoverishing the Church will be, that you will only get literates to
@@ -1522,7 +1519,7 @@
                 <l>Than the orbed sun's most exquisite perfection, </l>
                 <l>Man needs not heaven till he revolves a star. </l>
                 <l>Why seek to win the mad world from its strife? </l>
-                <l>Grow perfect in the sanity of life."<ref target="#ENG18700_N2">[2]</ref><ref target="#ENG18700_N2">[2]</ref>
+                <l>Grow perfect in the sanity of life."<ref target="#ENG18700_N2">[2]</ref>
                 </l>
                 <p>"Ah, my dear friend! how often, from my humble seat below the gangway, have I
                     gazed upon the Treasury Bench, and wondered how it was that right hon.

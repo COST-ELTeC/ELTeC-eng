@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18470">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18470">
             <teiHeader>
                         <fileDesc>
                                     <titleStmt>
@@ -8924,7 +8921,7 @@
                                                   young party examine and re-examine and talk of
                                                   their own and each other's treasures. And then Mr.
                                                   Hamilton bade them remember, that, though it was
-                                                  New Year's Eve, it was Sunday evening, too,<ref target="#note1">[1]</ref><ref target="#note1">[1]</ref> and that he had deferred
+                                                  New Year's Eve, it was Sunday evening, too,<ref target="#note1">[1]</ref> and that he had deferred
                                                   the hour of evening prayer till ten, that they
                                                   might have time to keep both, and so not lose the
                                                   sacred music which was always part of their Sunday
@@ -9747,7 +9744,7 @@
                                                   play now; she had arranged all the remaining
                                                   couples—for the room had begun very much to
                                                   thin—for the favorite haymaker's country
-                                                  dance,<ref target="#note2">[2]</ref><ref target="#note2">[2]</ref> and accepting
+                                                  dance,<ref target="#note2">[2]</ref> and accepting
                                                   Edward as her own partner, and being unanimously
                                                   desired to take the top, led off her young friends
                                                   with such spirit and grace, and so little
@@ -12378,7 +12375,7 @@
                                                   toward removing them. Traveling either by land or
                                                   sea was so dangerous and difficult, that in some
                                                   parishes the clergyman could only perform service
-                                                  twice a year,<ref target="#note3">[3]</ref><ref target="#note3">[3]</ref> or
+                                                  twice a year,<ref target="#note3">[3]</ref> or
                                                   once every one, two, or three months. The islands
                                                   in which the clergyman resided were, Mr. Hamilton
                                                   observed, in a much higher state of civilization
@@ -18844,7 +18841,7 @@
                                                   previous. The gale that swept round her—the awful
                                                   and unnatural darkness—the remarkable phenomena,
                                                   at that season, of lightning—and the long, loud
-                                                  thunder-claps<ref target="#note4">[4]</ref><ref target="#note4">[4]</ref> which
+                                                  thunder-claps<ref target="#note4">[4]</ref> which
                                                   inland could be fearfully distinguished from the
                                                   gale, appalled the whole household; and therefore
                                                   it was not much wonder that the vague idea of her
