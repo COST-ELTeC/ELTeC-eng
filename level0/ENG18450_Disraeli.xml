@@ -27,7 +27,10 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
 </publicationStmt>
    <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of Sybil, by Benjamin
-      Disraeli</title> EBook #3760 translated from HTML to TEI</bibl><bibl type="firstEdition" n="B3028"><title>Sybil; Or, The Two Nations</title><author>B.
+      Disraeli</title>
+    <ref target="http://www.gutenberg.org/files/3760/3760-h/3760-h.htm">Gutenberg</ref>
+    </bibl>
+    <bibl type="firstEdition" n="B3028"><title>Sybil; Or, The Two Nations</title><author>B.
       Disraeli, M.P.</author><publisher>Henry Colburn</publisher><date>1845</date><ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/590304686.pdf"/></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">

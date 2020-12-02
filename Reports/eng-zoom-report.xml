@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/home/lou/Public/TEIslides/teislides.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ELTeC-eng zoom party report</title>
+   </titleStmt>
+   <publicationStmt>
+    <p>For presentation only</p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>All my own work</p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change when="2020-12-03">Completing header</change></revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div type="slide">
+    <head>ELTeC-eng</head>
+    <list>
+     <item>Responsible: Just me, and the internet</item>
+     <item>Current status: 99 texts (12.2 million words), E5C score 97.69</item>
+    </list>
+    <p rend="box">English has some (slightly) unfair advantages </p>
+    <list>
+     <item>English literature is much studied and readily available in digital form</item>
+     <item>Copyright deposit in major national collections (Bodleian, British Library, NSS etc.) </item>
+     <item>Extensive digitization projects, though generally only page images </item>
+    </list>
+   </div>
+   <div type="slide">
+    <head>Finding the metadata</head>
+    <p> I relied mostly on Troy J Bassett's <ref target="http://www.victorianresearch.org/atcl/">At the Circulating Library</ref>
+     <list>
+      <item>for bibliographic metadata</item>
+      <item>as an approximation to the population being sampled</item>
+     </list></p>
+    <cb/>
+    <figure>
+     <graphic url="media/atcl.png"/>
+    </figure>
+   </div>
+   <div type="slide">
+    <head>Achieving balance</head>
+    <list>
+     <item>Mostly a trial-and-error procedure</item>
+     <item>I selected titles to represent each category in the four selection criteria (date, size, authorship, canonicity) equally </item>
+     <item>I also tried to maximize variability in other respects (genre, subject matter, etc.)</item>
+     <item>The mosaic graphic helps a lot, but doesn't show reprintCount
+     </item>
+    </list>
+ <!--   <p rend="box">I was probably over-influenced by digital availability</p>  
+-->    <cb/>
+    <figure>
+     <graphic url="media/mosaic.png"/>
+    </figure>
+   </div>
+   <div type="slide">
+    <head>The sources I pilfered</head>
+    <list>
+     <item>13 from 19th c Fiction (Chadwyck Healey) -- TEI P2</item>
+     <item>14 from Victorian Women Writers Project -- TEI P5</item>
+     <item>62 from Project Gutenberg -- varieties of HTML</item>
+     <item>10 "other" : <list>
+       <item>7 various flavours of HTML</item>
+       <item> 1 Oxford Text Archive XML</item>
+       <item> 1 Wikisource XHTML</item>
+       <item> 1 TEI P5 from Github</item>
+      </list>
+     </item>
+     <item>Inconclusive experiments with OCR of some PDFs</item>
+    </list>
+   </div>
+   <div type="slide">
+    <head>Dealing with data in the wild</head>
+    <list>
+     <item>Sometimes the HTML provided was valid, quite often it was not (sometimes not even well-formed) : the preprocessing step was essential</item>
+     <item>The TEI formats found also varied quite a lot, but were easier to down-translate</item>
+     <item>The biggest problem in the HTML was the lack of consistency : the same feature (e.g. page number, chapter division) might appear in many different, and sometimes mutually incompatible ways </item>
+     <item>Consequently, it proved impossible to write a one-size-fits-all converter (though I came close)</item>
+     <item>Of course, the texts all looked much the same when rendered, but there were many different ideas about what encoding should be used to achieve that look</item>
+     <item>Moreover, different decisions about <emph>what</emph> to capture in an encoding were commonplace ...</item>
+    </list>
+   </div>
+   <div type="slide">
+    <head>For example...</head>
+    <list>
+     <item>not content with <gi>emph</gi>, some Gutenberg texts put ITALIC CONTENT INTO CAPITALS</item>
+     <item>some decided to preserve highlighting of first words in a paragraph</item>
+     <item>some texts had "semantic styles" aka meaningful @class values -- but they were all different</item>
+     <item>chapter structure was usually not represented directly but had to be inferred from placement of headings, or special divs containing headings only</item>
+     <item>footnotes and footnote references were represented in many different ways</item>
+     <item>etc. </item>
+    </list>
+   </div>
+   <div type="slide">
+    <head>Semi-automatic workflow</head>
+    <p><graphic url="media/workflow.png"/></p>
+  </div><div type="slide"><head>Challenges</head>
+  <list><item>Selection of texts for balance is <emph>HARD</emph> <list><item>I found it hard to resist obscure and amusing titles</item><item>and even harder not to be influenced by the availability of tractable digital versions </item></list></item><item>Coping with the messiness of existing digitizations is time consuming and sometimes frustrating</item></list></div>
+   <div type="slide">
+    <head>Future plans</head>
+    <list>
+     <item>TEI Publisher instance</item>
+     <item>Genre identification</item>
+     <item>Other corpora</item>
+    </list>
+   </div>
+  </body>
+ </text>
+</TEI>
