@@ -24,7 +24,8 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
 </publicationStmt>
    <sourceDesc><bibl type="digitalSource"><title>Project Gutenberg text of Endymion</title>
-     <ref target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref></bibl><bibl type="printSource" n="B1984"><title>Endymion</title><author>Disraeli, Benjamin
+     <ref target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref></bibl>
+    <bibl type="firstEdition" n="B1984"><title>Endymion</title><author>Disraeli, Benjamin
       (1804-1881).</author><publisher>London: Longmans, Green, and co</publisher><date>1880</date>
      <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687801.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687799.pdf">vol 2</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687797.pdf">vol 3</ref>
     </bibl></sourceDesc>

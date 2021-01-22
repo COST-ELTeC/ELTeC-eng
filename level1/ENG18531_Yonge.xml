@@ -24,7 +24,8 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
 </publicationStmt>
-   <sourceDesc><bibl type="digitalSource"><title>The Heir of Redclyffe</title><title>Nineteenth-Century Fiction Full-Text Database</title><publisher>Chadwyck-Healey Ltd (A Bell &amp; Howell Information and Learning company)</publisher><date>2000</date></bibl><bibl type="printSource" n="B7034"><title>The Heir of Redclyffe</title><author>Yonge, Charlotte Mary (1823-1901).</author><publisher>London: John W. Parker</publisher><date>1853</date>
+   <sourceDesc><bibl type="digitalSource"><title>The Heir of Redclyffe</title><title>Nineteenth-Century Fiction Full-Text Database</title><publisher>Chadwyck-Healey Ltd (A Bell &amp; Howell Information and Learning company)</publisher><date>2000</date></bibl>
+    <bibl type="firstEdition" n="B7034"><title>The Heir of Redclyffe</title><author>Yonge, Charlotte Mary (1823-1901).</author><publisher>London: John W. Parker</publisher><date>1853</date>
      <ref target="http://archive.org/details/heirofredclyffe01yong">vol 1</ref>; <ref target="http://archive.org/details/heirofredclyffe02yong">vol 2</ref></bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

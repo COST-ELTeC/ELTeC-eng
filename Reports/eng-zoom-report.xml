@@ -13,7 +13,9 @@
     <p>All my own work</p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc><change when="2020-12-03">Completing header</change></revisionDesc>
+  <revisionDesc>
+   <change when="2020-12-03">Completing header</change>
+  </revisionDesc>
  </teiHeader>
  <text>
   <body>
@@ -48,11 +50,11 @@
      <item>Mostly a trial-and-error procedure</item>
      <item>I selected titles to represent each category in the four selection criteria (date, size, authorship, canonicity) equally </item>
      <item>I also tried to maximize variability in other respects (genre, subject matter, etc.)</item>
-     <item>The mosaic graphic helps a lot, but doesn't show reprintCount
-     </item>
+     <item>The mosaic graphic helps a lot, but doesn't show reprintCount </item>
     </list>
- <!--   <p rend="box">I was probably over-influenced by digital availability</p>  
--->    <cb/>
+    <!--   <p rend="box">I was probably over-influenced by digital availability</p>  
+-->
+    <cb/>
     <figure>
      <graphic url="media/mosaic.png"/>
     </figure>
@@ -98,8 +100,18 @@
    <div type="slide">
     <head>Semi-automatic workflow</head>
     <p><graphic url="media/workflow.png"/></p>
-  </div><div type="slide"><head>Challenges</head>
-  <list><item>Selection of texts for balance is <emph>HARD</emph> <list><item>I found it hard to resist obscure and amusing titles</item><item>and even harder not to be influenced by the availability of tractable digital versions </item></list></item><item>Coping with the messiness of existing digitizations is time consuming and sometimes frustrating</item></list></div>
+   </div>
+   <div type="slide">
+    <head>Challenges</head>
+    <list>
+     <item>Selection of texts for balance is <emph>HARD</emph>
+      <list>
+       <item>I found it hard to resist obscure and amusing titles</item>
+       <item>and even harder not to be influenced by the availability of tractable digital versions </item>
+      </list></item>
+     <item>Coping with the messiness of existing digitizations is time consuming and sometimes frustrating</item>
+    </list>
+   </div>
    <div type="slide">
     <head>Future plans</head>
     <list>
