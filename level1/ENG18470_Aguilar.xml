@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18470">
  <teiHeader>
@@ -16,31 +18,21 @@
     <measure unit="words">171250</measure>
    </extent>
    <publicationStmt>
-    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary
-     History" (CA16204)</publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-    <date when="2020-11-14"/>
-    <availability>
-     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-    </availability>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
-    <ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource"><title>The Project Gutenberg EBook of Home Influence, by Grace
-     Aguilar</title><ref target="http://www.gutenberg.org/files/36648/36648-h/36648-h.htm"
-     >Gutenberg</ref> <respStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662490">ELTeC-eng release 1.0.1</ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg EBook of Home Influence, by Grace
+     Aguilar</title><ref target="http://www.gutenberg.org/files/36648/36648-h/36648-h.htm">Gutenberg</ref> <respStmt>
      <resp>Original data capture</resp>
      <name>Brownfox, Chad Vance, Mary Meehan and the Online Distributed Proofreading Team</name>
-     </respStmt></bibl>
-    <bibl type="firstEdition" n="B11349"><title>Home Influence: A Tale for Mothers and
+     </respStmt></bibl><bibl type="firstEdition" n="B11349"><title>Home Influence: A Tale for Mothers and
      Daughters</title><author>Aguilar, Grace (1816-1847).</author><publisher>London:
-     Groombridge</publisher><date>1847</date> <ref
-     target="http://archive.org/details/homeinfluencetal01agui">vol 1</ref>; <ref
-     target="http://archive.org/details/homeinfluencetal02agui">vol 2</ref> </bibl>
-   </sourceDesc>
+     Groombridge</publisher><date>1847</date> <ref target="http://archive.org/details/homeinfluencetal01agui">vol 1</ref>; <ref target="http://archive.org/details/homeinfluencetal02agui">vol 2</ref> </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
    <p/>
@@ -57,6 +49,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
    <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2019-01-11">LB convert to ELTeC-1</change>
@@ -5354,8 +5347,7 @@
       could not last much longer, the longing to dance to the very last moment seemed to increase.
       Emmeline's excitable spirit had thrown off all alloy, for it was quite impossible any one
       would think of asking her to play now; she had arranged all the remaining couples—for the room
-      had begun very much to thin—for the favorite haymaker's country dance,<ref target="#note2"
-      >[2]</ref> and accepting Edward as her own partner, and being unanimously desired to take the
+      had begun very much to thin—for the favorite haymaker's country dance,<ref target="#note2">[2]</ref> and accepting Edward as her own partner, and being unanimously desired to take the
       top, led off her young friends with such spirit and grace, and so little semblance of fatigue,
       that it certainly appeared as if she would verify her own words, and dance all night.</p>
      <p>Miss Grahame had declared it was much too great a romp, and declined joining it. Caroline,
@@ -10289,8 +10281,7 @@
       to Mr. Maitland's words, that her husband might be coming home himself; but if the accounts of
       Ellen's danger and Edward's confession had recalled him, he ought to have arrived full two or
       three weeks previous. The gale that swept round her—the awful and unnatural darkness—the
-      remarkable phenomena, at that season, of lightning—and the long, loud thunder-claps<ref
-      target="#note4">[4]</ref> which inland could be fearfully distinguished from the gale,
+      remarkable phenomena, at that season, of lightning—and the long, loud thunder-claps<ref target="#note4">[4]</ref> which inland could be fearfully distinguished from the gale,
       appalled the whole household; and therefore it was not much wonder that the vague idea of her
       husband's having left Feroe, and exposure to such a tempest, should become in that fearful
       anxiety almost a certainty of agony. It was well, perhaps, that her unselfish nature had an

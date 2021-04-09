@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19170" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19170" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -15,13 +18,13 @@
     <measure unit="pages">197</measure></extent>
    <publicationStmt>
 <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
 <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
-<!--Published as part of ELTeC 2020-05-10--></publicationStmt>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662490">ELTeC-eng release 1.0.1</ref>
+</publicationStmt>
    <sourceDesc><bibl type="digitalSource"><title>The Shadow-Line, by Joseph Conrad</title><ref target="http://www.gutenberg.org/files/451/451-h/451-h.htm">Gutenberg</ref></bibl><bibl type="firstEdition" n="B0"><title>The shadow line : a confession</title><author>Joseph
       Conrad</author><publisher>J.M. Dent</publisher><date>1917</date>
      <ref target="http://archive.org/details/shadowlineconfes00conruoft"/>
@@ -42,6 +45,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-10">LB convert to ELTeC-1</change>
   </revisionDesc>

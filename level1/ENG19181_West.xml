@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19181"
-    xml:lang="en">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="ENG19181" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-<title>The Return of the Soldier : ELTec edition</title>
+<title>The Return of the Soldier : ELTec edition : ELTeC edition</title>
 <author ref="http://viaf.org/viaf/108321467">West, Rebecca [pseud. Cicily Isabel Fairfield] (1892-1983)</author>
 <respStmt>
     <resp>ELTeC conversion</resp>
@@ -15,19 +17,21 @@
             <extent><measure unit="words">29513</measure>
 <measure unit="pages">185</measure></extent>
             <publicationStmt>
-<p>Published as part of ELTeC <date>2020-12-20</date></p>
-            </publicationStmt>
-            <sourceDesc>
-<bibl type="digitalSource"><title>The Project Gutenberg eBook of The Return of The
- Soldier, by Rebecca West.</title><ref target="http://www.gutenberg.org/files/37189/37189-h/37189-h.htm"
-    >Gutenberg</ref>
- </bibl>
-<bibl type="firstEdition"><title>The Return of the Soldier</title>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662490">ELTeC-eng release 1.0.1</ref>
+<!--Published as part of ELTeC 2020-12-20--></publicationStmt>
+            <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Return of The
+ Soldier, by Rebecca West.</title><ref target="http://www.gutenberg.org/files/37189/37189-h/37189-h.htm">Gutenberg</ref>
+ </bibl><bibl type="firstEdition"><title>The Return of the Soldier</title>
     <author>Rebecca West</author>
     <publisher>Nisbet</publisher><date>1918</date>
     <ref target="https://archive.org/details/returnofsoldier00west2">Pages</ref>
-</bibl>
-            </sourceDesc>
+</bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -44,6 +48,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="2020-12-20">LB convert to ELTeC-1</change>
         </revisionDesc>
     </teiHeader>
@@ -371,8 +376,7 @@
     purse. When she rose, her face was pink from stooping, and her dignity swam
     uncertainly in a sea of half-shed tears. She said:</p>
 <p>"I'm sorry I've upset you. But when you know a thing like that it isn't in flesh
-    and blood to keep it from his wife. I am a married woman myself, and I<pb
-        n="028"/> know. I knew Mr. Baldry fifteen years ago." Her voice freely
+    and blood to keep it from his wife. I am a married woman myself, and I<pb n="028"/> know. I knew Mr. Baldry fifteen years ago." Her voice freely
     confessed that she had taken a liberty. "Quite a friend of the family he was."
     She had added that touch to soften the crude surprisingness of her announcement.
     It hardly did. "We lost sight of each other. It's fifteen years since we last
@@ -384,8 +388,7 @@
     thinks—thinks he still knows me."</p>
 <p>She passed the telegram to Kitty, who read it, and laid it on her knee.</p>
 <p>"See," said Mrs. Grey, "it's addressed to Margaret Allington, my maiden name, and
-    I've been married these ten years. And it was sent to my old home, Monkey<pb
-        n="029"/> Island, at Bray. Father kept the inn there. It's fifteen years
+    I've been married these ten years. And it was sent to my old home, Monkey<pb n="029"/> Island, at Bray. Father kept the inn there. It's fifteen years
     since we left it. I never should have got this telegram if me and my husband
     hadn't been down there last September and told the folks who keep it now who I
     was."</p>
@@ -427,8 +430,7 @@
     think, of something it can mean which isn't detestable!"</p>
 <p>"It's all a mystery," I said; and added madly, because nobody had ever been cross
     with Kitty, "You didn't help to clear it up."</p>
-<p>"Oh, I know you think I was rude," she petulantly moaned; "but you're so<pb
-        n="032"/> slow you don't see what it means. Either it means that he's mad,
+<p>"Oh, I know you think I was rude," she petulantly moaned; "but you're so<pb n="032"/> slow you don't see what it means. Either it means that he's mad,
     our Chris, our splendid, sane Chris, all broken and queer, not knowing us—I
     can't bear to think of that. It can't be true. But if he isn't—Jenny, there was
     nothing in that telegram to show he'd lost his memory. It was just affection—a
@@ -533,8 +535,7 @@
         rude awakening, although the doctor, a very nice man, Winchester and New,
         told me he had known nothing of Chris's delusions.</p>
     <p>An hour later I was called back into the room. Chris was looking at himself
-        in a hand-mirror, which he threw on the floor as I entered. "You<pb n="039"
-        /> are right," he said; "I'm not twenty-one, but thirty-six." He said he
+        in a hand-mirror, which he threw on the floor as I entered. "You<pb n="039"/> are right," he said; "I'm not twenty-one, but thirty-six." He said he
         felt lonely and afraid, and that I must bring Margaret Allington to him at
         once or he would die. Suddenly he stopped raving and asked, "Is father all
         right?" I prayed for guidance, and answered, "Your father passed away twelve
@@ -568,8 +569,7 @@
 </quote>
 <p>Over my shoulder Kitty muttered:</p>
 <p>"And he always pretended he liked my singing." Then she gripped my arm and
-    shrieked in a possessive fury: "Bring him home! Bring him home!"<pb n="041"
-    /></p>
+    shrieked in a possessive fury: "Bring him home! Bring him home!"<pb n="041"/></p>
 <p>So, a week later, they brought Chris home.</p>
 <p>From breakfast-time that day the house was pervaded with a day-before-the-funeral
     feeling. Although all duties arising from the occasion had been performed, one
@@ -667,8 +667,7 @@
     blue blinds that shroud the nine windows because a lost Zeppelin sometimes
     clanks like a skeleton across the sky above us would make his home seem even
     more like prison.</p>
-<p>I began to say what was in my mind to Kitty when she came in, but she moved<pb
-        n="049"/> past me, remote in preoccupation, and I was silent when I saw that
+<p>I began to say what was in my mind to Kitty when she came in, but she moved<pb n="049"/> past me, remote in preoccupation, and I was silent when I saw that
     she was dressed in all respects like a bride. The gown she wore on her
     wedding-day ten years ago had been cut and embroidered as this white satin was;
     her hair had been coiled low on her neck, as it was now. Around her throat were
@@ -693,8 +692,7 @@
     She did not listen, because she was controlling her face into harmony with the
     appearance of serene virginity upon which his eyes would fall when he entered
     the room.</p>
-<p>His fall had ruffled him and made him look very large and red, and he breathed<pb
-        n="051"/> hard, like an animal pursued into a strange place by night, and to
+<p>His fall had ruffled him and made him look very large and red, and he breathed<pb n="051"/> hard, like an animal pursued into a strange place by night, and to
     his hot consciousness of his disorder the sight of Kitty, her face and hands and
     bosom shining like the snow, her gown enfolding her, and her gold hair crowning
     her with radiance, and the white fire of jewels giving passion to the spectacle,
@@ -782,8 +780,7 @@
 <p>"Kitty."</p>
 <p>"Yes, Chris." She was sweet and obedient and alert.</p>
 <p>"I know my conduct must seem to you perversely insulting,"—behind him the
-    search-light wheeled while he gripped the sides of the window,—"but if I do<pb
-        n="058"/> not see Margaret Allington I shall die."</p>
+    search-light wheeled while he gripped the sides of the window,—"but if I do<pb n="058"/> not see Margaret Allington I shall die."</p>
 <p>She raised her hands to her jewels, and pressed the cool globes of her pearls
     into her flesh. "She lives near here," she said easily. "I will send the car
     down for her to-morrow. You shall see as much of her as you like."</p>
@@ -897,8 +894,7 @@
 <p>And then one took the pole from her and brought her back to the island, though
     probably one did not mount the steps to the lawn for a long time. It was so good
     to sit in the punt by the landing-stage while Margaret dabbled her hands in the
-    black waters and forgot her shyness as one talked. "She's such good company.<pb
-        n="067"/> She's got an accurate mind that would have made her a good
+    black waters and forgot her shyness as one talked. "She's such good company.<pb n="067"/> She's got an accurate mind that would have made her a good
     engineer, but when she picks up facts she kind of gives them a motherly hug.
     She's charity and love itself." (Again I did not say that I had seen her.) If
     people drifted in to tea, one had to talk to her while she cut the bread and
@@ -1033,8 +1029,7 @@
     of exaltation, as though that day she was fond of everything, even the handles
     of the beer-engine.</p>
 <p>When there had descended on them a night as brilliant as the day he drew her out
-    into the darkness, which was sweet with the scent of walnut-leaves, and they<pb
-        n="078"/> went across the lawn, bending beneath the chestnut-boughs, not to
+    into the darkness, which was sweet with the scent of walnut-leaves, and they<pb n="078"/> went across the lawn, bending beneath the chestnut-boughs, not to
     the wild part of the island, but to a circle of smooth turf divided from it by a
     railing of wrought iron. On this stood a small Greek temple, looking very lovely
     in the moonlight. He had never brought Margaret here before, because Mr.
@@ -1075,8 +1070,7 @@
     spring lights tongues of green fire in the undergrowth, and the valley shows
     sunlit between the tree-trunks, here the pond is fringed with yellow bracken and
     tinted bramble, and the water flows amber over last winter's leaves.</p>
-<p>Through this brown gloom, darkened now by a surly sky, Chris was taking the<pb
-        n="082"/> skiff, standing in the stern and using his oar like a gondolier.
+<p>Through this brown gloom, darkened now by a surly sky, Chris was taking the<pb n="082"/> skiff, standing in the stern and using his oar like a gondolier.
     He had come down here soon after breakfast, driven from the house by the
     strangeness of all but the outer walls, and discontented with the grounds
     because everything but this wet, intractable spot bore the marks of Kitty's
@@ -1175,8 +1169,7 @@
     appeared to me at that moment a faceless figure with flounces, just as most of
     the servants at Baldry Court appear to me as faceless figures with caps and
     aprons. There were only two real people in the world, Chris and this woman whose
-    personality was sounding through her squalor like a beautiful voice singing<pb
-        n="090"/> in a darkened room, and I was absorbed in a mental vision of them.
+    personality was sounding through her squalor like a beautiful voice singing<pb n="090"/> in a darkened room, and I was absorbed in a mental vision of them.
     You know how the saints and the prophets are depicted in the steel engravings in
     old Bibles; so they were standing, in flowing white robes on rocks against a
     pitch-black sky, a strong light beating on their eyes upturned in ecstasy and
@@ -1385,8 +1378,7 @@
     Island. At first there was no money, and later there was the necessity of
     seeking the healthful breezes of Brighton or Bognor or Southend, which were the
     places in which Mr. Grey's chest oddly elected to thrive. And when these
-    obstacles were removed, she was lethargic; also she had heard that the<pb
-        n="107"/> inn was not being managed as it ought to be, and she could not
+    obstacles were removed, she was lethargic; also she had heard that the<pb n="107"/> inn was not being managed as it ought to be, and she could not
     have borne to see the green home of her youth defiled. But then there had come a
     time when she had been very much upset,—she glared a little wildly at me as she
     said this, as if she would faint if I asked her any questions,—and then she had
@@ -1530,8 +1522,7 @@
     a conversation tiresomely interrupted by some social obligation, they drew
     together again, and passed under the tossing branches of the cedar to the wood
     beyond. I reflected, while Kitty shrilly wept, how entirely right Chris had been
-    in his assertion that to lovers innumerable things do not matter.<pb n="119"
-    /></p>
+    in his assertion that to lovers innumerable things do not matter.<pb n="119"/></p>
             </div>
             <div type="chapter">
 <head>CHAPTER V</head>
@@ -1557,8 +1548,7 @@
     looked like an allotment.</p>
 <p>So Kitty lay about like a broken doll, face downward on a sofa, with one limp arm
     dangling to the floor, or protruding stiff feet in fantastic slippers from the
-    end of her curtained bed; and I tried to make my permanent wear that mood<pb
-        n="121"/> which had mitigated the end of my journey with Margaret—a mood of
+    end of her curtained bed; and I tried to make my permanent wear that mood<pb n="121"/> which had mitigated the end of my journey with Margaret—a mood of
     intense perception in which my strained mind settled on every vivid object that
     came under my eyes and tried to identify myself with its brightness and its lack
     of human passion. This does not mean that I passed my day in a state of joyous
@@ -1776,8 +1766,7 @@
     Bank holidays. Most often the man has a handkerchief over his face to shade him
     from the sun, and the woman squats beside him and peers through the undergrowth
     to see that the children come to no harm as they play. It has sometimes seemed
-    to me that there was a significance about it. You know when one goes into<pb
-        n="139"/> the damp, odorous coolness of a church in a Catholic country and
+    to me that there was a significance about it. You know when one goes into<pb n="139"/> the damp, odorous coolness of a church in a Catholic country and
     sees the kneeling worshipers, their bodies bent stiffly and reluctantly, and yet
     with abandonment as though to represent the inevitable bending of the will to a
     purpose outside the individual person, or when under any sky one sees a mother
@@ -1788,8 +1777,7 @@
     it was my dear Chris and my dear Margaret who sat thus englobed in peace as in a
     crystal sphere, that I knew it was the most significant, as it was the
     loveliest, attitude in the world. It means that the woman has gathered the soul
-    of the man into her soul and is keeping it warm in love and peace so that his<pb
-        n="140"/> body can rest quiet for a little time. That is a great thing for a
+    of the man into her soul and is keeping it warm in love and peace so that his<pb n="140"/> body can rest quiet for a little time. That is a great thing for a
     woman to do. I know there are things at least as great for those women whose
     independent spirits can ride fearlessly and with interest outside the home park
     of their personal relationships, but independence is not the occupation of most
@@ -1951,8 +1939,7 @@
     proportions, how clever the grooved arch above the window, how like the evening
     sky my blue curtains.</p>
 <p>"And the lovely things you have on your dressing-table," she commented. "You must
-    have very good taste." The charity that changed my riches to a merit! As I<pb
-        n="153"/> helped her to take off her raincoat and reflected that Kitty would
+    have very good taste." The charity that changed my riches to a merit! As I<pb n="153"/> helped her to take off her raincoat and reflected that Kitty would
     not be pleased when she saw that the removal of the garment disclosed a purple
     blouse of stuff called moirette that servants use for petticoats, she exclaimed
     softly Kitty's praises. "I know I shouldn't make personal remarks, but Mrs.
@@ -2042,8 +2029,7 @@
 <p>"Effort!" He jerked his round head about. "The mental life that can be controlled
     by effort isn't the mental life that matters. You've been stuffed up when you
     were young with talk about a thing called self-control, a sort of barmaid of the
-    soul that says, 'Time's up, gentlemen,' and 'Here, you've had enough.'<pb
-        n="160"/> There's no such thing. There's a deep self in one, the essential
+    soul that says, 'Time's up, gentlemen,' and 'Here, you've had enough.'<pb n="160"/> There's no such thing. There's a deep self in one, the essential
     self, that has its wishes. And if those wishes are suppressed by the superficial
     self,—the self that makes, as you say, efforts, and usually makes them with the
     sole idea of putting up a good show before the neighbors,—it takes its revenge.
@@ -2096,8 +2082,7 @@
     with shooting."</p>
 <p>He laid down a remark very softly, like a hunter setting a snare.</p>
 <p>"He turned, then, to sex with a peculiar need."</p>
-<p>It was Margaret who spoke, shuffling her feet awkwardly under her chair.<pb
-        n="164"/></p>
+<p>It was Margaret who spoke, shuffling her feet awkwardly under her chair.<pb n="164"/></p>
 <p>"Yes, he was always dependent."</p>
 <p>We gaped at her who said this of our splendid Chris, and I saw that she was not
     as she had been. There was a directness of speech, a straight stare, that was
@@ -2165,8 +2150,7 @@
     our reluctant little visitor, it was so apparent that she was a mother that I
     could not imagine how it was that I had not always known it. It has sometimes
     happened that painters who have kept close enough to earth to see a heavenly
-    vision have made pictures of the assumption of the Blessed Virgin which do<pb
-        n="169"/> indeed show women who could bring God into the world by the
+    vision have made pictures of the assumption of the Blessed Virgin which do<pb n="169"/> indeed show women who could bring God into the world by the
     passion of their motherhood. "Let there be life," their suspended bodies seem to
     cry out to the universe about them, and the very clouds under their feet change
     into cherubim. As Margaret stood there, her hands pressed palm to palm beneath
@@ -2177,8 +2161,7 @@
 <p>Her eyes shone at the thought of the cockered childhood this had been.</p>
 <p>"I couldn't afford to have two nurseries. It makes all the difference to the wee
     things." She hung above me for a little as I opened the ottoman and rummaged
-    among Oliver's clothes. "Ah, the lovely little frocks! Did she make them? Ah,<pb
-        n="170"/> well, she'd hardly have the time, with this great house to see to.
+    among Oliver's clothes. "Ah, the lovely little frocks! Did she make them? Ah,<pb n="170"/> well, she'd hardly have the time, with this great house to see to.
     But I don't care much for baby frocks. The babies themselves are none the
     happier for them. It's all show." She went over to the rocking-horse and gave a
     ghostly child a ride. For long she hummed a tuneless song into the sunshine and
@@ -2228,8 +2211,7 @@
 <p>I found that from her I could accept even pity.</p>
 <p>She nursed the jersey and the ball, changed them from arm to arm, and held them
     to her face.</p>
-<p>"I think I know the kind of boy he was—a man from the first." She kissed<pb
-        n="174"/> them, folded up the jersey, and neatly set the ball upon it on the
+<p>"I think I know the kind of boy he was—a man from the first." She kissed<pb n="174"/> them, folded up the jersey, and neatly set the ball upon it on the
     ottoman, and regarded them with tears. "There, put them back. That's all I
     wanted them for. All I came up here for."</p>
 <p>I stared.</p>
@@ -2342,8 +2324,7 @@
     more tiresome than a flickering light, of some one fretting.</p>
 <p>She said:</p>
 <p>"I wish she would hurry up. She's got to do it sooner or later."</p>
-<p>My spirit was asleep in horror. Out there Margaret was breaking his heart<pb
-        n="183"/> and hers, using words like a hammer, looking wise, doing it so
+<p>My spirit was asleep in horror. Out there Margaret was breaking his heart<pb n="183"/> and hers, using words like a hammer, looking wise, doing it so
     well.</p>
 <p>"Aren't they coming back?" asked Kitty. "I wish you'd look."</p>
 <p>There was nothing in the garden; only a column of birds swinging across the lake
@@ -2355,8 +2336,7 @@
     she dissolved into the shadows; in another moment the night would have her. With
     his back turned on this fading unhappiness Chris walked across the lawn. He was
     looking up under his brows at the over-arching house as though it were a hated
-    place to which, against all his hopes, business had forced him to return. He<pb
-        n="184"/> stepped aside to avoid a patch of brightness cast by a lighted
+    place to which, against all his hopes, business had forced him to return. He<pb n="184"/> stepped aside to avoid a patch of brightness cast by a lighted
     window on the grass; lights in our house were worse than darkness, affection
     worse than hate elsewhere. He wore a dreadful, decent smile; I knew how his
     voice would resolutely lift in greeting us. He walked not loose-limbed like a

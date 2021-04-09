@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18961">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ENG18961">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -16,19 +19,18 @@
    </extent>
    <publicationStmt>
 <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
 <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271630">ELTeC-eng release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662490">ELTeC-eng release 1.0.1</ref>
 </publicationStmt>
    <sourceDesc><bibl type="digitalSource"><title>The Project Gutenberg eBook of The Rome Express, by Arthur
       Griffiths.</title><ref target="http://www.gutenberg.org/files/11451/11451-h/11451-h.htm">Gutenberg</ref><respStmt>
       <resp>original data capture</resp>
       <name>Suzanne Shell, Ted Garvin and PG Distributed Proofreaders</name>
-     </respStmt></bibl>
-    <bibl type="firstEdition" n="B14515"><title>The Rome Express</title><author>Griffiths, Major
+     </respStmt></bibl><bibl type="firstEdition" n="B14515"><title>The Rome Express</title><author>Griffiths, Major
       Arthur George Frederick (1838-1908).</author><publisher>London: John
       Milne</publisher><date>1896</date>
      <ref target="https://hdl.handle.net/2027/osu.32435009413329"/></bibl></sourceDesc>
@@ -53,6 +55,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
