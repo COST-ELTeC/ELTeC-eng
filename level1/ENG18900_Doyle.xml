@@ -34,7 +34,7 @@
    <ref target="http://archive.org/details/signfour00doylgoog"/> 
    </bibl></sourceDesc>
   </fileDesc>
-  <encodingDesc n="eltec-0">
+  <encodingDesc n="eltec-1">
    <p/>
   </encodingDesc>
   <profileDesc>
@@ -55,6 +55,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+   <change when="2023-01-26">Disambiguated hi elements for upgrade to level 1</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
@@ -112,7 +113,7 @@
     <p>'My mind,' he said, 'rebels at stagnation. Give me problems, give me work, give me the most
      abstruse cryptogram, or the most intricate analysis, and I am in my own proper atmosphere. I
      can dispense then with
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="5"/>
+     <pb  n="5"/>
      artificial stimulants. But I abhor the dull routine of existence. I crave for mental
      exaltation. That is why I have chosen my own particular profession, or rather created it, for I
      am the only one in the world.'</p>
@@ -147,7 +148,7 @@
      ached wearily at every change of the weather.</p>
     <p>'My practice has extended recently to the Continent,' said Holmes, after awhile, filling up
      his old briar-root pipe. 'I was consulted
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="8"/>
+     <pb  n="8"/>
      last week by François le Villard, who, as you probably know, has come rather to the front
      lately in the French detective service. He has all the Celtic power of quick intuition, but he
      is deficient in the wide range of exact knowledge which is essential to the higher developments
@@ -192,7 +193,7 @@
      despatched a telegram.'</p>
     <p>'Right!' said I. 'Right on both points! But I confess that I don't see how you arrived at it.
      It was a sudden impulse upon
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="12"/>
+     <pb  n="12"/>
      my part, and I have mentioned it to no one.'</p>
     <p>'It is simplicity itself,' he remarked, chuckling at my surprise—'so absurdly simple that an
      explanation is superfluous; and yet it may serve to define the limits of observation and of
@@ -351,13 +352,13 @@
      officers in charge of the convict-guard there.'</p>
     <p>'Had he any friends in town?'</p>
     <p>'Only one that we know of—Major
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="26"/>
+     <pb  n="26"/>
      Sholto, of his own regiment, the 34th Bombay Infantry. The Major had retired some little time
      before, and lived at Upper Norwood. We communicated with him, of course, but he did not even
      know that his brother officer was in England.'</p>
     <p>'A singular case,' remarked Holmes.</p>
     <p>'I have not yet described to you the most singular part. About six years ago—to be exact,
-     upon the 4th of May, 1882—an advertisement appeared in the <hi>Times</hi> asking for the
+     upon the 4th of May, 1882—an advertisement appeared in the <title>Times</title> asking for the
      address of Miss Mary Morstan, and stating that it would be to her advantage to come forward.
      There was no name or address appended. I had at that time just entered the family of Mrs. Cecil
      Forrester in the capacity of governess. By her advice I published my address in the
@@ -394,22 +395,22 @@
     <p>'You are certainly a model client. You have the correct intuition. Let us see, now.' He
      spread out the papers upon the table, and gave little darting glances from one to the other.
      'They are disguised hands, except the letter,' he said presently; 'but there can be no question
-     as to the authorship. See how the irrepressible Greek <hi>e</hi> will break out, and see the
-     twirl of the final <hi>s</hi> . They are
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="30"/>
+     as to the authorship. See how the irrepressible Greek e will break out, and see the
+     twirl of the final s . They are
+     <pb  n="30"/>
      undoubtedly by the same person. I should not like to suggest false hopes, Miss Morstan, but is
      there any resemblance between this hand and that of your father?'</p>
     <p>'Nothing could be more unlike.'</p>
     <p>'I expected to hear you say so. We shall look out for you, then, at six. Pray allow me to
-     keep the papers. I may look into the matter before then. It is only half-past three. <hi>Au
-      revoir</hi> , then.'</p>
-    <p>' <hi>Au revoir</hi> ,' said our visitor; and with a bright, kindly glance from one to the
+     keep the papers. I may look into the matter before then. It is only half-past three. <foreign>Au
+      revoir</foreign> , then.'</p>
+    <p>' <foreign>Au revoir</foreign> ,' said our visitor; and with a bright, kindly glance from one to the
      other of us, she replaced her pearl-box in her bosom and hurried away.</p>
     <p>Standing at the window, I watched her walking briskly down the street, until the gray turban
      and white feather were but a speck in the sombre crowd.</p>
     <p>'What a very attractive woman!' I exclaimed, turning to my companion.</p>
     <p>He had lit his pipe again, and was leaning
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="31"/>
+     <pb  n="31"/>
      back with drooping eyelids. 'Is she?' he said languidly; 'I did not observe.'</p>
     <p>'You really are an automaton—a calculating machine,' I cried. 'There is something positively
      inhuman in you at times.'</p>
@@ -423,17 +424,17 @@
     <p>'In this case, however—'</p>
     <p>'I never make exceptions. An exception disproves the rule. Have you ever had occasion to
      study character in handwriting?
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="32"/>
+     <pb  n="32"/>
      What do you make of this fellow's scribble?'</p>
     <p>'It is legible and regular,' I answered. 'A man of business habits and some force of
      character.'</p>
     <p>Holmes shook his head.</p>
-    <p>'Look at his long letters,' he said. 'They hardly rise above the common herd. That <hi>d</hi>
-     might be an <hi>a</hi> , and that <hi>l</hi> an <hi>e</hi> . Men of character always
+    <p>'Look at his long letters,' he said. 'They hardly rise above the common herd. That d
+     might be an a , and that l an e . Men of character always
      differentiate their long letters, however illegibly they may write. There is vacillation in his
-      <hi>k's</hi> and self-esteem in his capitals. I am going out now. I have some few references
+      k's and self-esteem in his capitals. I am going out now. I have some few references
      to make. Let me recommend this book—one of the most remarkable ever penned. It is Winwood
-     Reade's "Martyrdom of Man." I shall be back in an hour.'</p>
+     Reade's "<title>Martyrdom of Man</title>." I shall be back in an hour.'</p>
     <p>I sat in the window with the volume in my hand, but my thoughts were far from the daring
      speculations of the writer. My mind ran upon our late visitor—her smiles, the
      <pb n="33"/> deep rich tones of her voice, the strange mystery which overhung her life. If she
@@ -455,15 +456,15 @@
      out for him; 'the facts appear to admit of only one explanation.'</p>
     <p>'What! you have solved it already?'</p>
     <p>'Well, that would be too much to say. I have discovered a suggestive fact, that is all. It
-     is, however, <hi>very</hi> suggestive. The details are still to be added. I have just found, on
-     consulting the back files of the <hi>Times</hi> , that
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="35"/>
+     is, however, <emph>very</emph> suggestive. The details are still to be added. I have just found, on
+     consulting the back files of the <title>Times</title> , that
+     <pb  n="35"/>
      Major Sholto, of Upper Norwood, late of the 34th Bombay Infantry, died upon the 28th of April,
      1882.'</p>
     <p>'I may be very obtuse, Holmes, but I fail to see what this suggests.'</p>
     <p>'No? You surprise me. Look at it in this way, then. Captain Morstan disappears. The only
      person in London whom he could have visited is Major Sholto. Major Sholto denies having heard
-     that he was in London. Four years later Sholto dies. <hi>Within a week of his death</hi>
+     that he was in London. Four years later Sholto dies. <emph>Within a week of his death</emph>
      Captain Morstan's daughter receives a valuable present, which is repeated from year to year,
      and now culminates in a letter which describes her as a wronged woman. What wrong can it refer
      to except this deprivation of her father? And why should the presents begin immediately after
@@ -492,7 +493,7 @@
      which no one could understand. I don't suppose that it is of the slightest importance, but I
      thought you might care to see it, so I brought it with me. It is here.'</p>
     <p>Holmes unfolded the paper carefully and
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="38"/>
+     <pb  n="38"/>
      smoothed it out upon his knee. He then very methodically examined it all over with his double
      lens.</p>
     <p>'It is paper of native Indian manufacture,' he remarked. 'It has at some time been pinned to
@@ -591,7 +592,7 @@
      out from among it like a mountain-peak from fir-trees. He writhed his hands together as he
      stood, and his features were in a perpetual jerk—now smiling, now scowling, but never for an
      instant in repose. Nature had given him a pendulous lip, and a too
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="47"/>
+     <pb  n="47"/>
      visible line of yellow and irregular teeth, which he strove feebly to conceal by constantly
      passing his hand over the lower part of his face. In spite of his obtrusive baldness, he gave
      the impression of youth. In point of fact, he had just turned his thirtieth year.</p>
@@ -602,7 +603,7 @@
      sorry house it looked as out of place as a diamond of the first water in a setting of brass.
      The richest and glossiest of curtains and tapestries draped the walls, looped back here and
      there to expose some richly-mounted painting or Oriental vase. The carpet was
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="48"/>
+     <pb  n="48"/>
      of amber and black, so soft and so thick that the foot sank pleasantly into it, as into a bed
      of moss. Two great tiger-skins thrown athwart it increased the suggestion of Eastern luxury, as
      did a huge hookah which stood upon a mat in the corner. A lamp in the fashion of a silver dove
@@ -648,7 +649,7 @@
     <p>'When I first determined to make this communication to you,' said he, 'I might have given you
      my address; but I feared that you might disregard my request and bring unpleasant people with
      you. I took the liberty, therefore, of making an appointment
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="52"/>
+     <pb  n="52"/>
      in such a way that my man Williams might be able to see you first. I have complete confidence
      in his discretion, and he had orders, if he were dissatisfied, to proceed no further in the
      matter. You will excuse these precautions, but I am a man of somewhat retiring, and I might
@@ -671,7 +672,7 @@
     <p>He laughed until his ears were quite red.</p>
     <p>'That would hardly do,' he cried. 'I don't know what he would say if I brought you in that
      sudden way. No, I must prepare you
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="54"/>
+     <pb  n="54"/>
      by showing you how we all stand to each other. In the first place, I must tell you that there
      are several points in the story of which I am myself ignorant. I can only lay the facts before
      you as far as I know them myself.</p>
@@ -683,7 +684,7 @@
      children.</p>
     <p>'I very well remember the sensation which was caused by the disappearance of Captain Morstan.
      We read the details in the papers,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="55"/>
+     <pb  n="55"/>
      and, knowing that he had been a friend of our father's, we discussed the case freely in his
      presence. He used to join in our speculations as to what could have happened. Never for an
      instant did we suspect that he had the whole secret hidden in his own breast, that of all men
@@ -714,7 +715,7 @@
      chaplet tipped with pearls beside the quinine-bottle. Even that I could not bear to part with,
      although I had got it out with the design of sending it to her. You, my sons, will give her a
      fair share of the Agra treasure. But send her nothing—not even
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="58"/>
+     <pb  n="58"/>
      the chaplet—until I am gone. After all, men have been as bad as this and have recovered.</p>
     <p>'"I will tell you how Morstan died," he continued. "He had suffered for years from a weak
      heart, but he concealed it from every one. I alone knew it. When in India, he and I, through a
@@ -746,7 +747,7 @@
      Morstan. You will see from what I say that I can hardly be blamed in the matter. My fault lies
      in the fact that we concealed not only the body, but also the treasure, and that I have clung
      to Morstan's share as well as to my own. I wish you, therefore, to make restitution. Put
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="61"/>
+     <pb  n="61"/>
      your ears down to my mouth. The treasure is hidden in—"</p>
     <p>'At this instant a horrible change came over his expression; his eyes stared wildly, his jaw
      dropped, and he yelled, in a voice which I can never forget, "Keep him out! For Christ's sake
@@ -758,7 +759,7 @@
      beat.</p>
     <p>'We searched the garden that night, but found no sign of the intruder, save that just under
      the window a single footmark was
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="62"/>
+     <pb  n="62"/>
      visible in the flower-bed. But for that one trace, we might have thought that our imaginations
      had conjured up that wild, fierce face. We soon, however, had another and a more striking proof
      that there were secret agencies at work all round us. The window of my father's room was found
@@ -780,7 +781,7 @@
      effect which his story had produced, and then continued between the puffs of his overgrown
      pipe.</p>
     <p>'My brother and I,' said he, 'were, as you
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="64"/>
+     <pb  n="64"/>
      may imagine, much excited as to the treasure which my father had spoken of. For weeks and for
      months we dug and delved in every part of the garden without discovering its whereabouts. It
      was maddening to think that the hiding-place was on his very lips at the moment that he died.
@@ -814,7 +815,7 @@
      delay.'</p>
     <p>Our new acquaintance very deliberately coiled up the tube of his hookah, and produced from
      behind a curtain a very long
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="67"/>
+     <pb  n="67"/>
      befrogged topcoat with Astrakhan collar and cuffs. This he buttoned tightly up, in spite of the
      extreme closeness of the night, and finished his attire by putting on a rabbitskin cap with
      hanging lappets which covered the ears, so that no part of him was visible save his mobile and
@@ -889,7 +890,7 @@
      know none o' your friends.'</p>
     <p>'Oh yes, you do, McMurdo,' cried Sherlock Holmes genially. 'I don't think you can have
      forgotten me. Don't you remember the amateur who fought three
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="74"/>
+     <pb  n="74"/>
      rounds with you at Alison's rooms on the night of your benefit four years back?'</p>
     <p>'Not Mr. Sherlock Holmes!' roared the prize-fighter. 'God's truth! how could I have mistook
      you? If instead o' standin' there so quiet you had just stepped up and given me that cross-hit
@@ -935,7 +936,7 @@
     <p>Our guide had left us the lantern. Holmes swung it slowly round, and peered keenly at the
      house, and at the great rubbish-heaps which cumbered the grounds. Miss Morstan and I stood
      together, and her hand was in mine. A wondrous subtle thing is love, for
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="78"/>
+     <pb  n="78"/>
      here were we two, who had never seen each other before that day, between whom no word or even
      look of affection had ever passed, and yet now in an hour of trouble our hands instinctively
      sought for each other. I have marvelled at it since, but at the time it seemed the most natural
@@ -946,7 +947,7 @@
     <p>'It looks as though all the moles in England had been let loose in it. I have seen something
      of the sort on the side of a hill near Ballarat, where the prospectors had been at work.'</p>
     <p>'And from the same cause,' said Holmes.
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="79"/>
+     <pb  n="79"/>
      'These are the traces of the treasure-seekers. You must remember that they were six years
      looking for it. No wonder that the grounds look like a gravel-pit.'</p>
     <p>At that moment the door of the house burst open, and Thaddeus Sholto came running out, with
@@ -958,7 +959,7 @@
     <p>'Come into the house,' said Holmes, in his crisp, firm way.</p>
     <p>'Yes, do!' pleaded Thaddeus Sholto. 'I really do not feel equal to giving directions.'</p>
     <p>We all followed him into the housekeeper's
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="80"/>
+     <pb  n="80"/>
      room, which stood upon the left-hand side of the passage. The old woman was pacing up and down
      with a scared look and restless, picking fingers, but the sight of Miss Morstan appeared to
      have a soothing effect upon her.</p>
@@ -991,7 +992,7 @@
     <p>'There is something devilish in this, Watson,' said he, more moved than I had ever before
      seen him. 'What do you make of it?'</p>
     <p>I stooped to the hole, and recoiled in
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="83"/>
+     <pb  n="83"/>
      horror. Moonlight was streaming into the room, and it was bright with a vague and shifty
      radiance. Looking straight at me, and suspended, as it were, in the air, for all beneath was in
      shadow, there hung a face— the very face of our companion Thaddeus. There was the same high,
@@ -1003,7 +1004,7 @@
      were twins.</p>
     <p>'This is terrible!' I said to Holmes. 'What is to be done?'</p>
     <p>'The door must come down,' he answered,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="84"/>
+     <pb  n="84"/>
      and, springing against it, he put all his weight upon the lock.</p>
     <p>It creaked and groaned, but did not yield. Together we flung ourselves upon it once more, and
      this time it gave way with a sudden snap, and we found ourselves within Bartholomew Sholto's
@@ -1015,7 +1016,7 @@
      liquid had trickled out from it, and the air was heavy with a peculiarly pungent, tar-like
      odour. A set of steps stood at one side of the room, in the midst of a litter of lath and
      plaster, and above them there was an opening in the ceiling large
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="85"/>
+     <pb  n="85"/>
      enough for a man to pass through. At the foot of the steps a long coil of rope was thrown
      carelessly together.</p>
     <p>By the table, in a wooden arm-chair, the master of the house was seated all in a heap, with
@@ -1037,7 +1038,7 @@
      any mark was left behind. One tiny speck of blood showed where the puncture had been.</p>
     <p>'This is all an insoluble mystery to me,' said I. 'It grows darker instead of clearer.'</p>
     <p>'On the contrary,' he answered, 'it clears
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="87"/>
+     <pb  n="87"/>
      every instant. I only require a few missing links to have an entirely connected case.'</p>
     <p>We had almost forgotten our companion's presence since we entered the chamber. He was still
      standing in the doorway, the very picture of terror, wringing his hands and moaning to himself.
@@ -1049,7 +1050,7 @@
     <p>'It was ten o'clock. And now he is dead, and the police will be called in, and I shall be
      suspected of having had a hand in it. Oh yes, I am sure I shall. But you don't think so,
      gentlemen? Surely you don't think that
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="88"/>
+     <pb  n="88"/>
      it was I? Is it likely that I would have brought you here if it were I? Oh dear! oh dear! I
      know that I shall go mad!'</p>
     <p>He jerked his arms and stamped his feet in a kind of convulsive frenzy.</p>
@@ -1070,7 +1071,7 @@
     <p>'Surely,' said he, with something of the air of a clinical professor expounding to his class.
      'Just sit in the corner there, that your footprints may not complicate matters. Now to work! In
      the first place, how did these folk
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="90"/>
+     <pb  n="90"/>
      come, and how did they go? The door has not been opened since last night. How of the window?'
      He carried the lamp across to it, muttering his observations aloud the while, but addressing
      them to himself rather than to me. Window is snibbed on the inner side. Framework is solid. No
@@ -1082,7 +1083,7 @@
     <p>'That is not a footmark,' said I.</p>
     <p>'It is something much more valuable to us. It is the impression of a wooden stump. You see
      here on the sill is the boot-mark, a heavy
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="91"/>
+     <pb  n="91"/>
      boot with a broad metal heel, and beside it is the mark of the timber-toe.'</p>
     <p>'It is the wooden-legged man.'</p>
     <p>'Quite so. But there has been someone else—a very able and efficient ally. Could you scale
@@ -1095,7 +1096,7 @@
      rope which I see in the corner, securing one end of it to this great hook in the wall. Then, I
      think, if you were an active man, you might swarm up, wooden leg and all. You would depart, of
      course, in the same fashion, and your ally would draw up
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="92"/>
+     <pb  n="92"/>
      the rope, untie it from the hook, shut the window, snib it on the inside, and get away in the
      way that he originally came. As a minor point, it may be noted,' he continued, fingering the
      rope, 'that our wooden-legged friend, though a fair climber, was not a professional sailor. His
@@ -1107,7 +1108,7 @@
     <p>'Yes, the ally!' repeated Holmes pensively. 'There are features of interest about this ally.
      He lifts the case from the regions of the commonplace. I fancy that this ally breaks fresh
      ground in the annals of crime in this
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="93"/>
+     <pb  n="93"/>
      country—though parallel cases suggest themselves from India, and, if my memory serves me, from
      Senegambia.'</p>
     <p>'How came he, then?' I reiterated. 'The door is locked; the window is inaccessible. Was it
@@ -1115,7 +1116,7 @@
     <p>'The grate is much too small,' he answered. 'I had already considered that possibility.'</p>
     <p>'How, then?' I persisted.</p>
     <p>'You will not apply my precept,' he said, shaking his head. 'How often have I said to you
-     that when you have eliminated the impossible, whatever remains, <hi>however improbable</hi> ,
+     that when you have eliminated the impossible, whatever remains, <emph>however improbable</emph> ,
      must be the truth? We know that he did not come through the door, the window, or the chimney.
      We also know that he could not have been concealed in the room, as there is no concealment
      possible. Whence, then, did he come?'</p>
@@ -1133,7 +1134,7 @@
      true roof of the house. There was no furniture of any sort, and the accumulated dust of years
      lay thick upon the floor.</p>
     <p>'Here you are, you see,' said Sherlock
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="95"/>
+     <pb  n="95"/>
      Holmes, putting his hand against the sloping wall. 'This is a trapdoor which leads out on to
      the roof. I can press it back, and here is the roof itself, sloping at a gentle angle. This,
      then, is the way by which Number One entered. Let us see if we can find some other traces of
@@ -1145,7 +1146,7 @@
     <p>'Holmes,' I said, in a whisper, 'a child has done this horrid thing.'</p>
     <p>He had recovered his self-possession in an instant.</p>
     <p>'I was staggered for the moment,' he said,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="96"/>
+     <pb  n="96"/>
      'but the thing is quite natural. My memory failed me, or I should have been able to foretell
      it. There is nothing more to be learned here. Let us go down.'</p>
     <p>'What is your theory, then, as to those footmarks?' I asked eagerly, when we had regained the
@@ -1168,7 +1169,7 @@
      and the stuff has leaked out.'</p>
     <p>'What then?' I asked.</p>
     <p>'Why, we have got him, that's all,' said
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="98"/>
+     <pb  n="98"/>
      he. 'I know a dog that would follow that scent to the world's end. If a pack can track a
      trailed herring across a shire, how far can a specially-trained hound follow so pungent a smell
      as this? It sounds like a sum in the rule of three. The answer should give us the— But hallo!
@@ -1178,11 +1179,11 @@
     <p>'Before they come,' said Holmes, 'just put your hand here on this poor fellow's arm, and here
      on his leg. What do you feel?'</p>
     <p>'The muscles are as hard as a board,' I answered.</p>
-    <p>'Quite so. They are in a state of extreme contraction, far exceeding the usual <hi>rigor
-      mortis</hi> . Coupled with this distortion of the face, this Hippocratic smile, or "
-      <hi>risus</hi>
+    <p>'Quite so. They are in a state of extreme contraction, far exceeding the usual <foreign>rigor
+      mortis</foreign> . Coupled with this distortion of the face, this Hippocratic smile, or "
+      <foreign>risus
      <pb n="99"/>
-     <hi>sardonicus</hi> ," as the old writers called it, what conclusion would it suggest to your
+     sardonicus</foreign> ," as the old writers called it, what conclusion would it suggest to your
      mind?'</p>
     <p>'Death from some powerful vegetable alkaloid,' I answered, 'some strychnine-like substance
      which would produce tetanus.'</p>
@@ -1205,7 +1206,7 @@
      palpitating Thaddeus Sholto.</p>
     <p>'Here's a business!' he cried, in a muffled, husky voice. 'Here's a pretty business! But who
      are all these? Why,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="101"/> the house seems to be as full as a rabbit-warren!'</p>
+     <pb  n="101"/> the house seems to be as full as a rabbit-warren!'</p>
     <p>'I think you must recollect me, Mr. Athelney Jones,' said Holmes quietly.</p>
     <p>'Why, of course I do!' he wheezed. 'It's Mr. Sherlock Holmes, the theorist. Remember you!
      I'll never forget how you lectured us all on causes and inferences and effects in the
@@ -1228,9 +1229,9 @@
      with his brother last night. The brother died in a fit, on which Sholto walked off with the
      treasure? How's that?'</p>
     <p>'On which the dead man very considerately
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="103"/> got up and locked the door on the inside.'</p>
+     <pb  n="103"/> got up and locked the door on the inside.'</p>
     <p>'Hum! There's a flaw there. Let us apply commonsense to the matter. This Thaddeus Sholto
-      <hi>was</hi> with his brother; there <hi>was</hi> a quarrel: so much we know. The brother is
+      <emph>was</emph> with his brother; there <emph>was</emph> a quarrel: so much we know. The brother is
      dead and the jewels are gone. So much also we know. No one saw the brother from the time
      Thaddeus left him. His bed had not been slept in. Thaddeus is evidently in a most disturbed
      state of mind. His appearance is—well, not attractive. You see that I am weaving my web round
@@ -1249,8 +1250,8 @@
      the garret, and immediately afterwards we heard his exulting voice proclaiming that he had
      found the trap-door.'</p>
     <p>'He can find something,' remarked Holmes, shrugging his shoulders; 'he has occasional
-     glimmerings of reason. <hi>Il n'y a pas des sots si incommodes que ceux qui ont de
-      l'esprit!</hi> '</p>
+     glimmerings of reason. <foreign>Il n'y a pas des sots si incommodes que ceux qui ont de
+      l'esprit!</foreign> '</p>
     <pb n="105"/>
     <p>'You see!' said Athelney Jones, reappearing down the steps again; 'facts are better than
      theories, after all. My view of the case is confirmed. There is a trap-door communicating with
@@ -1276,7 +1277,7 @@
      has a coarse, square-toed sole, with an iron band round the heel. He is a middle-aged man, much
      sunburned, and has been a convict. These few indications may be of some assistance to you,
      coupled with the fact that there is a good deal
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="107"/> of skin missing from the palm of his hand. The other man—'</p>
+     <pb  n="107"/> of skin missing from the palm of his hand. The other man—'</p>
     <p>'Ah! the other man?' asked Athelney Jones in a sneering voice, but impressed none the less,
      as I could easily see, by the precision of the other's manner.</p>
     <p>'Is a rather curious person,' said Sherlock Holmes, turning upon his heel. 'I hope before
@@ -1288,7 +1289,7 @@
      in this stricken house.'</p>
     <p>'No. You must escort her home. She lives with Mrs. Cecil Forrester, in Lower Camberwell, so
      it is not very far. I will wait
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="108"/> for you here if you will drive out again. Or perhaps you are too tired?'</p>
+     <pb  n="108"/> for you here if you will drive out again. Or perhaps you are too tired?'</p>
     <p>'By no means. I don't think I could rest until I know more of this fantastic business. I have
      seen something of the rough side of life, but I give you my word that this quick succession of
      strange surprises to-night has shaken my nerve completely. I should like, however, to see the
@@ -1308,8 +1309,8 @@
      get a fresh horse.'</p>
     <p>'And I,' said Holmes, 'shall see what I can learn from Mrs. Bernstone, and from the Indian
      servant, who, Mr. Thaddeus tells me, sleeps in the next garret. Then I shall study the great
-     Jones's methods and listen to his not too delicate sarcasms. " <hi>Wir sind gewohnt dass die
-      Menschen verhöhnen was sie nicht verstehen</hi> ." Goethe is always pithy.'</p>
+     Jones's methods and listen to his not too delicate sarcasms. " <foreign>Wir sind gewohnt dass die
+      Menschen verhöhnen was sie nicht verstehen</foreign> ." Goethe is always pithy.'</p>
     <pb n=""/>
    </div>
    <div type="chapter">
@@ -1321,7 +1322,7 @@
      into a passion of weeping—so sorely had she been tried by the adventures of the night. She has
      told me since that she thought me cold and distant upon that journey. She little guessed the
      struggle within my breast, or the effort of self-restraint
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="111"/> which held me back. My sympathies and my love went out to her, even as my hand had in the
+     <pb  n="111"/> which held me back. My sympathies and my love went out to her, even as my hand had in the
      garden. I felt that years of the conventionalities of life could not teach me to know her
      sweet, brave nature as had this one day of strange experiences. Yet there were two thoughts
      which sealed the words of affection upon my lips. She was weak and helpless, shaken in mind and
@@ -1353,7 +1354,7 @@
      Indian treasure, the curious plan found among Morstan's baggage, the strange scene at Major
      Sholto's death, the rediscovery of the treasure immediately followed by the murder of the
      discoverer,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="114"/> the very singular accompaniments to the crime, the footsteps, the remarkable weapons, the
+     <pb  n="114"/> the very singular accompaniments to the crime, the footsteps, the remarkable weapons, the
      words upon the card, corresponding with those upon Captain Morstan's chart—here was indeed a
      labyrinth in which a man less singularly endowed than my fellow-lodger might well despair of
      ever finding the clue.</p>
@@ -1375,7 +1376,7 @@
     <p>'A friend of Mr. Sherlock is always welcome,' said he. 'Step in, sir. Keep clear of the
      badger, for he bites. Ah, naughty, naughty! would you take a nip at the gentleman?' This to a
      stoat which thrust its wicked head and red eyes between the bars
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="116"/> of its cage. 'Don't mind that, sir; it's only a slowworm. It hain't got no fangs, so I gives
+     <pb  n="116"/> of its cage. 'Don't mind that, sir; it's only a slowworm. It hain't got no fangs, so I gives
      it the run o' the room, for it keeps the beetles down. You must not mind my bein' just a little
      short wi' you at first, for I'm guyed at by the children, and there's many a one just comes
      down this lane to knock me up. What was it that Mr. Sherlock Holmes wanted, sir?'</p>
@@ -1387,7 +1388,7 @@
      round him. In the uncertain, shadowy light I could see dimly that there were glancing,
      glimmering eyes peeping down at us from every cranny and corner. Even the rafters above our
      heads were lined by solemn fowls, who lazily shifted their weight
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="117"/> from one leg to the other as our voices disturbed their slumbers.</p>
+     <pb  n="117"/> from one leg to the other as our voices disturbed their slumbers.</p>
     <p>Toby proved to be an ugly, long-haired, lop-eared creature, half spaniel and half lurcher,
      brown and white in colour, with a very clumsy, waddling gait. It accepted, after some
      hesitation, a lump of sugar which the old naturalist handed to me, and, having thus sealed an
@@ -1422,10 +1423,10 @@
      naked foot beside it. What is the chief difference?'</p>
     <p>'Your toes are all cramped together. The other print has each toe distinctly divided.'</p>
     <p>'Quite so. That is the point. Bear that
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="120"/> in mind. Now, would you kindly step over to that flap-window and smell the edge of the
+     <pb  n="120"/> in mind. Now, would you kindly step over to that flap-window and smell the edge of the
      wood-work? I shall stay over here, as I have this handkerchief in my hand.'</p>
     <p>I did as he directed, and was instantly conscious of a strong tarry smell.</p>
-    <p>'That is where he put his foot in getting out. If <hi>you</hi> can trace him, I should think
+    <p>'That is where he put his foot in getting out. If <emph>you</emph> can trace him, I should think
      that Toby will have no difficulty. Now run downstairs, loose the dog, and look out for
      Blondin.'</p>
     <p>By the time that I got out into the grounds Sherlock Holmes was on the roof, and I could see
@@ -1447,7 +1448,7 @@
      wall. Then with a light spring he came on to the barrel, and from there to the earth.</p>
     <p>'It was easy to follow him,' he said, drawing on his stockings and boots. 'Tiles were
      loosened the whole way along, and in his
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="122"/> hurry he had dropped this. It confirms my diagnosis, as you doctors express it.'</p>
+     <pb  n="122"/> hurry he had dropped this. It confirms my diagnosis, as you doctors express it.'</p>
     <p>The object which he held up to me was a small pocket or pouch woven out of coloured grasses
      and with a few tawdry beads strung round it. In shape and size it was not unlike a
      cigarette-case. Inside were half a dozen spines of dark wood, sharp at one end and rounded at
@@ -1462,7 +1463,7 @@
     <pb n="123"/>
     <p>'Here you are, doggy! Good old Toby! Smell it, Toby, smell it!' he pushed the creosote
      handkerchief under the dog's nose, while the creature stood with its fluffy legs separated, and
-     with a most comical cock to its head, like a connoisseur sniffing the <hi>bouquet</hi> of a
+     with a most comical cock to its head, like a connoisseur sniffing the <foreign>bouquet</foreign> of a
      famous vintage. Holmes then threw the handkerchief to a distance, fastened a stout cord to the
      mongrel's collar, and led him to the foot of the water-barrel. The creature instantly broke
      into a succession of high, tremulous yelps, and, with his nose on the ground, and his tail in
@@ -1492,7 +1493,7 @@
      would enable me to trace them in many different ways. This, however, is the readiest, and,
      since fortune has put it into our hands, I should be culpable if I neglected it. It has,
      however, prevented the case from becoming the pretty little
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="126"/> intellectual problem which it at one time promised to be. There might have been some credit
+     <pb  n="126"/> intellectual problem which it at one time promised to be. There might have been some credit
      to be gained out of it, but for this too palpable clue.'</p>
     <p>'There is credit, and to spare,' said I. 'I assure you, Holmes, that I marvel at the means by
      which you obtain your results in this case, even more than I did in the Jefferson Hope murder.
@@ -1514,7 +1515,7 @@
     <p>'It is more than that. It is the only hypothesis which covers the facts. Let us see how it
      fits in with the sequel. Major Sholto remains at peace for some years, happy in the possession
      of his treasure. Then he receives a letter from India which
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="128"/> gives him a great fright. What was that?'</p>
+     <pb  n="128"/> gives him a great fright. What was that?'</p>
     <p>'A letter to say that the men whom he had wronged had been set free.'</p>
     <p>'Or had escaped. That is much more likely, for he would have known what their term of
      imprisonment was. It would not have been a surprise to him. What does he do then? He guards
@@ -1525,7 +1526,7 @@
      strike you as being faulty?'</p>
     <p>'No: it is clear and concise.'</p>
     <p>'Well, now, let us put ourselves in the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="129"/> place of Jonathan Small. Let us look at it from his point of view. He comes to England with
+     <pb  n="129"/> place of Jonathan Small. Let us look at it from his point of view. He comes to England with
      the double idea of regaining what he would consider to be his rights and of having his revenge
      upon the man who had wronged him. He found out where Sholto lived, and very possibly he
      established communications with some one inside the house. There is this butler, Lal Rao, whom
@@ -1535,7 +1536,7 @@
      lest the secret of the treasure die with him, he runs the gauntlet of the guards, makes his way
      to the dying man's window, and is only deterred from entering by the presence of his two sons.
      Mad with hate, however, against the dead
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="130"/> man, he enters the room that night, searches his private papers in the hope of discovering
+     <pb  n="130"/> man, he enters the room that night, searches his private papers in the hope of discovering
      some memorandum relating to the treasure, and finally leaves a memento of his visit in the
      short inscription upon the card. He had doubtless planned beforehand that, should he slay the
      major, he would leave some such record upon the body as a sign that it was not a common murder,
@@ -1556,7 +1557,7 @@
      into the room. He bore no grudge against Bartholomew Sholto, and would have preferred if he
      could have been simply bound and gagged. He did not wish to put his head in a halter. There was
      no help for it, however: the savage instincts of
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="132"/> his companion had broken out, and the poison had done its work: so Jonathan Small left his
+     <pb  n="132"/> his companion had broken out, and the poison had done its work: so Jonathan Small left his
      record, lowered the treasure-box to the ground, and followed it himself. That was the train of
      events as far as I can decipher them. Of course as to his personal appearance he must be
      middle-aged, and must be sunburned after serving his time in such an oven as the Andamans. His
@@ -1567,7 +1568,7 @@
     <p>'Ah, well, there is no great mystery in that. But you will know all about it soon enough. How
      sweet the morning air is! See how that one little cloud floats like a pink feather from some
      gigantic flamingo.
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="133"/> Now the red rim of the sun pushes itself over the London cloud-bank. It shines on a good
+     <pb  n="133"/> Now the red rim of the sun pushes itself over the London cloud-bank. It shines on a good
      many folk, but on none, I dare bet, who are on a stranger errand than you and I. How small we
      feel with our petty ambitions and strivings in the presence of the great elemental forces of
      nature! Are you well up in your Jean Paul?'</p>
@@ -1579,7 +1580,7 @@
      you?'</p>
     <p>'I have my stick.'</p>
     <p>'It is just possible that we may need
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="134"/> something of the sort if we get to their lair. Jonathan I shall leave to you, but if the
+     <pb  n="134"/> something of the sort if we get to their lair. Jonathan I shall leave to you, but if the
      other turns nasty I shall shoot him dead.'</p>
     <p>He took out his revolver as he spoke, and, having loaded two of the chambers, he put it back
      into the right-hand pocket of his jacket.</p>
@@ -1600,7 +1601,7 @@
      Where the latter street turns into Knight's Place, Toby ceased to advance, but began to run
      backwards and forwards with one ear cocked and the other drooping, the very picture of canine
      indecision. Then he waddled round in circles,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="136"/> looking up to us from time to time, as if to ask for sympathy in his embarrassment.</p>
+     <pb  n="136"/> looking up to us from time to time, as if to ask for sympathy in his embarrassment.</p>
     <p>'What the deuce is the matter with the dog?' growled Holmes. 'They surely would not take a
      cab, or go off in a balloon.'</p>
     <p>'Perhaps they stood here for some time,' I suggested.</p>
@@ -1625,14 +1626,14 @@
    </div>
    <div type="chapter">
     <head>CHAPTER VIII. THE BAKER STREET IRREGULARS.</head>
-    <p>' <hi>What</hi> now?' I asked. 'Toby has lost his character for infallibility.'</p>
+    <p>' What now?' I asked. 'Toby has lost his character for infallibility.'</p>
     <p>'He acted according to his lights,' said Holmes, lifting him down from the barrel and walking
      him out of the timber-yard. 'If you consider how much creosote is carted about London in one
      day, it is no great wonder that our trail should have been crossed. It is much used now,
      especially for the seasoning of wood. Poor Toby is not to blame.'</p>
     <p>'We must get on the main scent again, I suppose.'</p>
     <p>'Yes. And, fortunately, we have no
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="139"/> distance to go. Evidently what puzzled the dog at the corner of Knight's Place was that
+     <pb  n="139"/> distance to go. Evidently what puzzled the dog at the corner of Knight's Place was that
      there were two different trails running in opposite directions. We took the wrong one. It only
      remains to follow the other.'</p>
     <p>There was no difficulty about this. On leading Toby to the place where he had committed his
@@ -1691,7 +1692,7 @@
      that roused him up yesternight, and, what's more, my man knew he was comin', for he had steam
      up in the launch. I tell you straight, sir, I don't feel easy in my mind about it.'</p>
     <p>'But, my dear Mrs. Smith,' said Holmes,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="144"/> shrugging his shoulders, 'you are frightening yourself about nothing. How could you possibly
+     <pb  n="144"/> shrugging his shoulders, 'you are frightening yourself about nothing. How could you possibly
      tell that it was the wooden-legged man who came in the night? I don't quite understand how you
      can be so sure.'</p>
     <p>'His voice, sir. I knew his voice, which is kind o' thick and foggy. He tapped at the
@@ -1702,13 +1703,13 @@
     <p>'Couldn't say, I am sure, sir. I didn't hear no one else.'</p>
     <p>'I am sorry, Mrs. Smith, for I wanted a steam launch, and I have heard good reports of the—
      Let me see, what is her name?'</p>
-    <p>'The <hi>Aurora</hi> , sir.'</p>
+    <p>'The Aurora , sir.'</p>
     <pb n="145"/>
     <p>'Ah! She's not that old green launch with a yellow line, very broad in the beam?'</p>
     <p>'No, indeed. She's as trim a little thing as any on the river. She's been fresh painted,
      black with two red streaks.'</p>
     <p>'Thanks. I hope that you will hear soon from Mr. Smith. I am going down the river, and if I
-     should see anything of the <hi>Aurora</hi> I shall let him know that you are uneasy. A black
+     should see anything of the Aurora I shall let him know that you are uneasy. A black
      funnel, you say?'</p>
     <p>'No, sir. Black with a white band.'</p>
     <p>'Ah, of course. It was the sides which were black. Good-morning, Mrs. Smith. There is a
@@ -1719,7 +1720,7 @@
      <pb n="146"/> under protest, as it were, you are very likely to get what you want.'</p>
     <p>'Our course now seems pretty clear,' said I.</p>
     <p>'What would you do, then?'</p>
-    <p>'I would engage a launch and go down the river on the track of the <hi>Aurora</hi> .'</p>
+    <p>'I would engage a launch and go down the river on the track of the Aurora .'</p>
     <p>'My dear fellow, it would be a colossal task. She may have touched at any wharf on either
      side of the stream between here and Greenwich. Below the bridge there is a perfect labyrinth of
      landing-places for miles. It would take you days and days to exhaust them, if you set about it
@@ -1740,7 +1741,7 @@
      the cards that we may be afoot to-night again. Stop at a telegraph office, cabby! We will keep
      Toby, for he may be of use to us yet.'</p>
     <p>We pulled up at the Great Peter Street
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="148"/> post-office, and Holmes despatched his wire.</p>
+     <pb  n="148"/> post-office, and Holmes despatched his wire.</p>
     <p>'Whom do you think that is to?' he asked, as we resumed our journey.</p>
     <p>'I am sure I don't know.'</p>
     <p>'You remember the Baker Street division of the detective police force whom I employed in the
@@ -1763,11 +1764,11 @@
     <p>A bath at Baker Street and a complete change freshened me up wonderfully. When I came down to
      our room I found the breakfast laid and Holmes pouring out the coffee.</p>
     <p>'Here it is,' said he, laughing and pointing
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="150"/> to an open newspaper. 'The energetic Jones and the ubiquitous reporter have fixed it up
+     <pb  n="150"/> to an open newspaper. 'The energetic Jones and the ubiquitous reporter have fixed it up
      between them. But you have had enough of the case. Better have your ham and eggs first.'</p>
     <p>I took the paper from him and read the short notice, which was headed 'Mysterious Business at
      Upper Norwood.'</p>
-    <p>'About twelve o'clock last night,' said the <hi>Standard</hi> , 'Mr. Bartholomew Sholto, of
+    <p>'About twelve o'clock last night,' said the <title>Standard</title> , 'Mr. Bartholomew Sholto, of
      Pondicherry Lodge, Upper Norwood, was found dead in his room under circumstances which point to
      foul play. As far as we can learn, no actual traces of violence were found upon Mr. Sholto's
      person, but a valuable collection of Indian gems which the deceased gentleman had inherited
@@ -1783,7 +1784,7 @@
      technical knowledge and his powers of minute observation have enabled him to prove conclusively
      that the miscreants could not have entered by the door or by the window, but must have made
      their way across the roof of the building, and so through a trap-door into a room which
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="152"/> communicated with that in which the body was found. This fact, which has been very clearly
+     <pb  n="152"/> communicated with that in which the body was found. This fact, which has been very clearly
      made out, proves conclusively that it was no mere haphazard burglary. The prompt and energetic
      action of the officers of the law shows the great advantage of the presence on such occasions
      of a single vigorous and masterful mind. We cannot but think that it supplies an argument to
@@ -1812,20 +1813,20 @@
     <p>'Here you are,' said Holmes, producing some silver. 'In future they can report to you,
      Wiggins, and you to me. I cannot have the house invaded in this way. However, it is just as
      well that you should all hear the instructions. I want to find the whereabouts of a steam
-     launch called the <hi>Aurora</hi> , owner Mordecai Smith, black with two red streaks, funnel
+     launch called the Aurora , owner Mordecai Smith, black with two red streaks, funnel
      black with a white band. She is down the river somewhere. I want one boy to be at Mordecai
      Smith's landing-stage opposite Millbank to say if the boat comes back. You must divide it out
      among yourselves, and do both banks thoroughly. Let me know the moment you have news. Is that
      all clear?'</p>
     <p>'Yes, guv'nor,' said Wiggins.</p>
     <p>'The old scale of pay, and a guinea to the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="155"/> boy who finds the boat. Here's a day in advance. Now off you go!'</p>
+     <pb  n="155"/> boy who finds the boat. Here's a day in advance. Now off you go!'</p>
     <p>He handed them a shilling each, and away they buzzed down the stairs, and I saw them a moment
      later streaming down the street.</p>
     <p>'If the launch is above water they will find her,' said Holmes, as he rose from the table and
      lit his pipe. 'They can go everywhere, see everything, overhear everyone. I expect to hear
      before evening that they have spotted her. In the meanwhile, we can do nothing but await
-     results. We cannot pick up the broken trail until we find either the <hi>Aurora</hi> or Mr.
+     results. We cannot pick up the broken trail until we find either the Aurora or Mr.
      Mordecai Smith.'</p>
     <p>'Toby could eat these scraps, I dare say. Are you going to bed, Holmes?'</p>
     <p>'No: I am not tired. I have a curious constitution. I never remember feeling tired by work,
@@ -1844,7 +1845,7 @@
     <p>'Hardly that,' said he. 'When first I saw signs of strange weapons, I was inclined to think
      so; but the remarkable character of the footmarks caused me to reconsider my views. Some of the
      inhabitants of the Indian Peninsula
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="157"/> are small men, but none could have left such marks as that. The Hindoo proper has long and
+     <pb  n="157"/> are small men, but none could have left such marks as that. The Hindoo proper has long and
      thin feet. The sandal-wearing Mohammedan has the great toe well separated from the others,
      because the thong is commonly passed between. These little darts, too, could only be shot in
      one way. They are from a blow-pipe. Now, then, where are we to find our savage?'</p>
@@ -1892,7 +1893,7 @@
     <p>'I heard nothing,' I answered. 'Have you had fresh news, then?'</p>
     <p>'Unfortunately, no. I confess that I am surprised and disappointed. I expected something
      definite by this time. Wiggins has
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="162"/> just been up to report. He says that no trace can be found of the launch. It is a provoking
+     <pb  n="162"/> just been up to report. He says that no trace can be found of the launch. It is a provoking
      check, for every hour is of importance.'</p>
     <p>'Can I do anything? I am perfectly fresh now, and quite ready for another night's
      outing.'</p>
@@ -1903,7 +1904,7 @@
     <p>'On Mrs. Cecil Forrester?' asked Holmes, with the twinkle of a smile in his eyes.</p>
     <p>'Well, of course on Miss Morstan too. They were anxious to hear what happened.'</p>
     <p>'I would not tell them too much,' said
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="163"/> Holmes. 'Women are never to be entirely trusted—not the best of them.'</p>
+     <pb  n="163"/> Holmes. 'Women are never to be entirely trusted—not the best of them.'</p>
     <p>I did not pause to argue over this atrocious sentiment.</p>
     <p>'I shall be back in an hour or two,' I remarked.</p>
     <p>'All right! Good luck! But, I say, if you are crossing the river you may as well return Toby,
@@ -1913,7 +1914,7 @@
      night's adventures, but very eager to hear the news. Mrs. Forrester, too, was full of
      curiosity. I told them all that we had done, suppressing, however, the more dreadful parts of
      the tragedy. Thus, although I spoke of Mr. Sholto's death, I
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="164"/> said nothing of the exact manner and method of it. With all my omissions, however, there was
+     <pb  n="164"/> said nothing of the exact manner and method of it. With all my omissions, however, there was
      enough to startle and amaze them.</p>
     <p>'It is a romance!' cried Mrs. Forrester. 'An injured lady, half a million in treasure, a
      black cannibal, and a wooden-legged ruffian. They take the place of the conventional dragon or
@@ -1947,7 +1948,7 @@
     <p>'I don't think that you have any cause to be uneasy, Mrs. Hudson,' I answered. 'I have seen
      him like this before. He has some small matter upon his mind which makes him restless.'</p>
     <p>I tried to speak lightly to our worthy
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="167"/> landlady, but I was myself somewhat uneasy when through the long night I still from time to
+     <pb  n="167"/> landlady, but I was myself somewhat uneasy when through the long night I still from time to
      time heard the dull sound of his tread, and knew how his keen spirit was chafing against this
      involuntary inaction.</p>
     <p>At breakfast-time he looked worn and haggard, with a little fleck of feverish colour upon
@@ -1971,7 +1972,7 @@
     <p>We did not, however. Not a word came to us either from Wiggins or from the other agencies.
      There were articles in most of the papers upon the Norwood tragedy. They all appeared to be
      rather hostile to the unfortunate Thaddeus Sholto. No fresh
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="169"/> details were to be found, however, in any of them, save that an inquest was to be held upon
+     <pb  n="169"/> details were to be found, however, in any of them, save that an inquest was to be held upon
      the following day. I walked over to Camberwell in the evening to report our ill-success to the
      ladies, and on my return I found Holmes dejected and somewhat morose. He would hardly reply to
      my questions, and busied himself all the evening in an abstruse chemical analysis which
@@ -1994,7 +1995,7 @@
      find myself. If I am in luck, however, I may not be gone so very long. I shall have news of
      some sort or other before I get back.'</p>
     <pb n="171"/>
-    <p>I had heard nothing of him by breakfast time. On opening the <hi>Standard</hi> , however, I
+    <p>I had heard nothing of him by breakfast time. On opening the <title>Standard</title> , however, I
      found that there was a fresh allusion to the business. 'With reference to the Upper Norwood
      tragedy,' it remarked, 'we have reason to believe that the matter promises to be even more
      complex and mysterious than was originally supposed. Fresh evidence has shown that it is quite
@@ -2008,11 +2009,11 @@
      form whenever the police have made a blunder.'</p>
     <p>I tossed the paper down upon the table, but at that moment my eye caught an advertisement in
      the agony column. It ran in this way:</p>
-    <p>' <hi>Lost</hi> .—Whereas Mordecai Smith, boatman, and his son Jim, left Smith's Wharf at or
-     about three o'clock last Tuesday morning in the steam launch <hi>Aurora</hi> , black with two
+    <p>' <label>Lost</label> .—Whereas Mordecai Smith, boatman, and his son Jim, left Smith's Wharf at or
+     about three o'clock last Tuesday morning in the steam launch Aurora , black with two
      red stripes, funnel black with a white band, the sum of five pounds will be paid to anyone who
-     can give information to Mrs. Smith, at Smith's Wharf, or at 221 <hi>b</hi> , Baker Street, as
-     to the whereabouts of the said Mordecai Smith and the launch <hi>Aurora</hi> .'</p>
+     can give information to Mrs. Smith, at Smith's Wharf, or at 221b , Baker Street, as
+     to the whereabouts of the said Mordecai Smith and the launch Aurora .'</p>
     <p>This was clearly Holmes's doing. The Baker Street address was enough to prove that. It struck
      me as rather ingenious, because it might be read by the fugitives
      <pb n="173"/> without their seeing in it more than the natural anxiety of a wife for her
@@ -2031,7 +2032,7 @@
      reasons for his deductions. When I looked back on the long chain of curious circumstances, many
      of them trivial in themselves, but all tending in the same direction, I could not disguise from
      myself that even if Holmes's explanation were incorrect the true theory must be equally
-      <hi>outré</hi> and startling.</p>
+      <foreign>outré</foreign> and startling.</p>
     <p>At three o'clock in the afternoon there was a loud peal at the bell, an authoritative voice
      in the hall, and, to my surprise, no less a person than Mr. Athelney Jones was shown up to me.
      Very different was he, however, from the brusque and masterful professor of common sense who
@@ -2071,7 +2072,7 @@
      Perhaps this is he.'</p>
     <p>A heavy step was heard ascending the stair, with a great wheezing and rattling as from a man
      who was sorely put to it for
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="178"/> breath. Once or twice he stopped, as though the climb were too much for him, but at last he
+     <pb  n="178"/> breath. Once or twice he stopped, as though the climb were too much for him, but at last he
      made his way to our door and entered. His appearance corresponded to the sounds which we had
      heard. He was an aged man, clad in seafaring garb, with an old pea-jacket buttoned up to his
      throat. His back was bowed, his knees were shaky, and his breathing was painfully asthmatic. As
@@ -2108,7 +2109,7 @@
      over here on the sofa, and you will not have long to wait.'</p>
     <p>He came across sullenly enough, and seated himself with his face resting on his hands. Jones
      and I resumed our cigars and
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="181"/> our talk. Suddenly, however, Holmes's voice broke in upon us.</p>
+     <pb  n="181"/> our talk. Suddenly, however, Holmes's voice broke in upon us.</p>
     <p>'I think that you might offer me a cigar too,' he said.</p>
     <p>We both started in our chairs. There was Holmes sitting close to us with an air of quiet
      amusement.</p>
@@ -2148,7 +2149,7 @@
      irregular, and I suppose we must wink at it. The treasure must afterwards be handed over to the
      authorities until after the official investigation.'</p>
     <p>'Certainly. That is easily managed. One
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="184"/> other point. I should much like to have a few details about this matter from the lips of
+     <pb  n="184"/> other point. I should much like to have a few details about this matter from the lips of
      Jonathan Small himself. You know I like to work the details of my cases out. There is no
      objection to my having an unofficial interview with him, either here in my rooms or elsewhere,
      as long as he is efficiently guarded?'</p>
@@ -2171,7 +2172,7 @@
      each as though he had made a special study of it. His bright humour marked the reaction from
      his black depression of the preceding days. Athelney Jones proved to be a sociable soul in his
      hours of relaxation, and faced his dinner with
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="186"/> the air of a <hi>bon vivant</hi> . For myself, I felt elated at the thought that we were
+     <pb  n="186"/> the air of a bon vivant . For myself, I felt elated at the thought that we were
      nearing the end of our task, and I caught something of Holmes's gaiety. None of us alluded
      during dinner to the cause which had brought us together.</p>
     <p>When the cloth was cleared, Holmes glanced at his watch, and filled up three glasses with
@@ -2198,7 +2199,7 @@
     <p>'We ought to be able to catch anything on the river,' he said.</p>
     <p>'Well, hardly that. But there are not many launches to beat us.'</p>
     <pb n="188"/>
-    <p>'We shall have to catch the <hi>Aurora</hi> , and she has a name for being a clipper. I will
+    <p>'We shall have to catch the Aurora , and she has a name for being a clipper. I will
      tell you how the land lies, Watson. You recollect how annoyed I was at being baulked by so
      small a thing?'</p>
     <p>'Yes.'</p>
@@ -2209,7 +2210,7 @@
      river without result. The launch was not at any landingstage or wharf, nor had it returned. Yet
      it could hardly have been scuttled to hide their traces, though that always remained as a
      possible hypothesis if all else failed. I knew that this man Small had a certain degree of
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="189"/> low cunning, but I did not think him capable of anything in the nature of delicate finesse.
+     <pb  n="189"/> low cunning, but I did not think him capable of anything in the nature of delicate finesse.
      That is usually a product of higher education. I then reflected that since he had certainly
      been in London some time—as we had evidence that he maintained a continual watch over
      Pondicherry Lodge—he could hardly leave at a moment's notice, but would need some little time,
@@ -2220,7 +2221,7 @@
     <p>'No, I hardly think so. This lair of his would be too valuable a retreat in case of need for
      him to give it up until he was sure that he could do without it. But a second consideration
      struck me. Jonathan Small must have felt that the peculiar appearance
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="190"/> of his companion, however much he may have top coated him, would give rise to gossip, and
+     <pb  n="190"/> of his companion, however much he may have top coated him, would give rise to gossip, and
      possibly be associated with this Norwood tragedy. He was quite sharp enough to see that. They
      had started from their headquarters under cover of darkness, and he would wish to get back
      before it was broad light. Now, it was past three o'clock, according to Mrs. Smith, when they
@@ -2230,7 +2231,7 @@
      of nights, when they had time to see what view the papers took, and whether there was any
      suspicion, they would make their way under cover of darkness to some ship at Gravesend or in
      the Downs, where no doubt they had
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="191"/> already arranged for passages to America or the Colonies.'</p>
+     <pb  n="191"/> already arranged for passages to America or the Colonies.'</p>
     <p>'But the launch? They could not have taken that to their lodgings.'</p>
     <p>'Quite so. I argued that the launch must be no great way off, in spite of its invisibility. I
      then put myself in the place of Small, and looked at it as a man of his capacity would. He
@@ -2240,12 +2241,12 @@
      his shoes. I could only think of one way of doing it. I might hand the launch over to some
      boat-builder or repairer, with directions to make a trifling change in her. She would then be
      removed to his shed or yard, and so be effectually concealed, while at the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="192"/> same time I could have her at a few hours' notice.'</p>
+     <pb  n="192"/> same time I could have her at a few hours' notice.'</p>
     <p>'That seems simple enough.'</p>
     <p>'It is just these very simple things which are extremely liable to be overlooked. However, I
      determined to act on the idea. I started at once in this harmless seaman's rig and inquired at
      all the yards down the river. I drew blank at fifteen, but at the sixteenth —Jacobson's—I
-     learned that the <hi>Aurora</hi> had been handed over to them two days ago by a wooden-legged
+     learned that the Aurora had been handed over to them two days ago by a wooden-legged
      man, with some trivial directions as to her rudder. "There ain't naught amiss with her rudder,"
      said the foreman. "There she lies, with the red streaks." At that moment who should come down
      but Mordecai Smith, the missing owner? He was rather the worse for liquor. I should not, of
@@ -2262,7 +2263,7 @@
      'but if the affair were in my hands I should have had a body of police in Jacobson's Yard, and
      arrested them when they came down.'</p>
     <p>'Which would have been never. This man
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="194"/> Small is a pretty shrewd fellow. He would send a scout on ahead, and if anything made him
+     <pb  n="194"/> Small is a pretty shrewd fellow. He would send a scout on ahead, and if anything made him
      suspicious he would lie snug for another week.'</p>
     <p>'But you might have stuck to Mordecai Smith, and so been led to their hiding-place,' said
      I.</p>
@@ -2288,7 +2289,7 @@
      <pb n="196"/> See how the folk swarm over yonder in the gaslight.'</p>
     <p>'They are coming from work in the yard.'</p>
     <p>'Dirty-looking rascals, but I suppose every one has some little immortal spark concealed
-     about him. You would not think it, to look at them. There is no <hi>a priori</hi> probability
+     about him. You would not think it, to look at them. There is no a priori probability
      about it. A strange enigma is man!'</p>
     <p>'Someone calls him a soul concealed in an animal,' I suggested.</p>
     <p>'Winwood Reade is good upon the subject,' said Holmes. 'He remarks that, while the individual
@@ -2298,7 +2299,7 @@
      statistician. But do I see a handkerchief? Surely there is a white flutter over yonder.'</p>
     <pb n="197"/>
     <p>'Yes, it is your boy,' I cried. 'I can see him plainly.'</p>
-    <p>'And there is the <hi>Aurora</hi> ,' exclaimed Holmes, 'and going like the devil! Full speed
+    <p>'And there is the Aurora ,' exclaimed Holmes, 'and going like the devil! Full speed
      ahead, engineer. Make after that launch with the yellow light. By heaven, I shall never forgive
      myself if she proves to have the heels of us!'</p>
     <p>She had slipped unseen through the yard-entrance and passed behind two or three small craft,
@@ -2306,7 +2307,7 @@
      near in to the shore, going at a tremendous rate. Jones looked gravely at her and shook his
      head.</p>
     <p>'She is very fast,' he said. 'I doubt if we shall catch her.'</p>
-    <p>'We <hi>must</hi> catch her!' cried Holmes, between his teeth. 'Heap it on, stokers! Make her
+    <p>'We <emph>must</emph> catch her!' cried Holmes, between his teeth. 'Heap it on, stokers! Make her
      do all she can! If we burn the boat we must have them!'</p>
     <pb n="198"/>
     <p>We were fairly after her now. The furnaces roared, and the powerful engines whizzed and
@@ -2314,24 +2315,24 @@
      and sent two rolling waves to right and to left of us. With every throb of the engines we
      sprang and quivered like a living thing. One great yellow lantern in our bows threw a long,
      flickering funnel of light in front of us. Right ahead a dark blur upon the water showed where
-     the <hi>Aurora</hi> lay, and the swirl of white foam behind her spoke of the pace at which she
+     the Aurora lay, and the swirl of white foam behind her spoke of the pace at which she
      was going. We flashed past barges, steamers, merchant-vessels, in and out, behind this one and
-     round the other. Voices hailed us out of the darkness, but still the <hi>Aurora</hi> thundered
+     round the other. Voices hailed us out of the darkness, but still the Aurora thundered
      on, and still we followed close upon her track.</p>
     <p>'Pile it on, men, pile it on!' cried Holmes, looking down into the engine-room, while the
      <pb n="199"/> fierce glow from below beat upon his eager, aquiline face. 'Get every pound of
      steam you can.'</p>
-    <p>'I think we gain a little,' said Jones, with his eyes on the <hi>Aurora.</hi></p>
+    <p>'I think we gain a little,' said Jones, with his eyes on the Aurora.</p>
     <p>'I am sure of it,' said I. 'We shall be up with her in a very few minutes.'</p>
     <p>At that moment, however, as our evil fate would have it, a tug with three barges in tow
      blundered in between us. It was only by putting our helm hard down that we avoided a collision,
-     and before we could round them and recover our way the <hi>Aurora</hi> had gained a good two
+     and before we could round them and recover our way the Aurora had gained a good two
      hundred yards. She was still, however, well in view, and the murky, uncertain twilight was
      settling into a clear, starlit night. Our boilers were strained to their utmost, and the frail
      shell vibrated and creaked with the fierce energy which was driving us along. We had shot
      through the pool, past the West India Docks, down the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="200"/> long Deptford Reach, and up again after rounding the Isle of Dogs. The dull blur in front of
-     us resolved itself now clearly enough into the dainty <hi>Aurora</hi> . Jones turned our search
+     <pb  n="200"/> long Deptford Reach, and up again after rounding the Isle of Dogs. The dull blur in front of
+     us resolved itself now clearly enough into the dainty Aurora . Jones turned our search
      light upon her, so that we could plainly see the figures upon her deck. One man sat by the
      stern, with something black between his knees, over which he stooped. Beside him lay a dark
      mass, which looked like a Newfoundland dog. The boy held the tiller, while against the red
@@ -2381,11 +2382,11 @@
      length into the sodden soil. In vain he struggled and writhed. Not one step could he possibly
      take either forwards or backwards. He yelled in impotent rage, and kicked frantically into the
      mud with his other foot; but his struggles only bored his wooden
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="205"/> pin the deeper into the sticky bank. When we brought our launch alongside he was so firmly
+     <pb  n="205"/> pin the deeper into the sticky bank. When we brought our launch alongside he was so firmly
      anchored that it was only by throwing the end of a rope over his shoulders that we were able to
      haul him out, and to drag him, like some evil fish, over our side. The two Smiths, father and
      son, sat sullenly in their launch, but came aboard meekly enough when commanded. The
-      <hi>Aurora</hi> herself we hauled off and made fast to our stern. A solid iron chest of Indian
+      Aurora herself we hauled off and made fast to our stern. A solid iron chest of Indian
      workmanship stood upon the deck. This, there could be no question, was the same that had
      contained the ill-omened treasure of the Sholtos. There was no key, but it was of considerable
      weight, so we transferred it carefully to our own little cabin. As we steamed slowly up-stream
@@ -2408,7 +2409,7 @@
      from his purpose. His age may have been fifty or thereabouts, for his black, curly hair was
      thickly shot with gray. His face in repose was not an unpleasing one, though his heavy brows
      and aggressive chin gave him, as I had lately seen, a terrible
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="208"/> expression when moved to anger. He sat now with his handcuffed hands upon his lap, and his
+     <pb  n="208"/> expression when moved to anger. He sat now with his handcuffed hands upon his lap, and his
      head sunk upon his breast, while he looked with his keen, twinkling eyes at the box which had
      been the cause of his illdoings. It seemed to me that there was more sorrow than anger in his
      rigid and contained countenance. Once he looked up at me with a gleam of something like humour
@@ -2431,7 +2432,7 @@
      defence that I can make is just the simple truth. Now, if it had been the old major I would
      have swung for him with a light heart. I would have thought no more of knifing him than of
      smoking this cigar. But it's cursed hard that I should be
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="210"/> lagged over this young Sholto, with whom I had no quarrel whatever.'</p>
+     <pb  n="210"/> lagged over this young Sholto, with whom I had no quarrel whatever.'</p>
     <p>'You are under the charge of Mr. Athelney Jones, of Scotland Yard. He is going to bring you
      up to my rooms, and I shall ask you for a true account of the matter. You must make a clean
      breast of it, for if you do I hope that I may be of use to you. I think I can prove that the
@@ -2441,7 +2442,7 @@
      half killed Tonga for it if he had not scrambled off. That was how he came to leave his club,
      and some of his darts too, as he tells me, which I dare say helped to put you on our track;
      though how you kept on it is more than I can tell. I don't
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="211"/> feel no malice against you for it. But it does seem a queer thing,' he added, with a bitter
+     <pb  n="211"/> feel no malice against you for it. But it does seem a queer thing,' he added, with a bitter
      smile, 'that I, who have a fair claim to half a million of money, should spend the first half
      of my life building a breakwater in the Andamans, and am like to spend the other half digging
      drains at Dartmoor. It was an evil day for me when first I clapped eyes upon the merchant
@@ -2455,17 +2456,17 @@
      <pb n="212"/> but there was no choice. I say, Holmes, you must confess that you cut it rather
      fine. It was all we could do to overhaul her.'</p>
     <p>'All is well that ends well,' said Holmes. 'But I certainly did not know that the
-      <hi>Aurora</hi> was such a clipper.'</p>
+      Aurora was such a clipper.'</p>
     <p>'Smith says she is one of the fastest launches on the river, and that if he had had another
      man to help him with the engines we should never have caught her. He swears he knew nothing of
      this Norwood business.'</p>
     <p>'Neither he did,' cried our prisoner—'not a word. I chose his launch because I heard that she
      was a flier. We told him nothing; but we paid him well, and he was to get something handsome if
-     we reached our vessel, the <hi>Esmeralda</hi> , at Gravesend, outward bound for the
+     we reached our vessel, the Esmeralda , at Gravesend, outward bound for the
      Brazils.'</p>
     <p>'Well, if he has done no wrong we shall see that no wrong comes to him. If we are pretty
      quick in catching our men, we are not
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="213"/> so quick in condemning them.' It was amusing to notice how the consequential Jones was
+     <pb  n="213"/> so quick in condemning them.' It was amusing to notice how the consequential Jones was
      already beginning to give himself airs on the strength of the capture. From the slight smile
      which played over Sherlock Holmes's face, I could see that the speech had not been lost upon
      him.</p>
@@ -2488,7 +2489,7 @@
      explained, and likely to be very late. Miss Morstan, however, was in the drawing-room; so to
      the drawing-room I went, box in hand, leaving the obliging inspector in the cab.</p>
     <p>She was seated by the open window,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="215"/> dressed in some sort of white diaphanous material, with a little touch of scarlet at the
+     <pb  n="215"/> dressed in some sort of white diaphanous material, with a little touch of scarlet at the
      neck and waist. The soft light of a shaded lamp fell upon her as she leaned back in the basket
      chair, playing over her sweet grave face, and tinting with a dull, metallic sparkle the rich
      coils of her luxuriant hair. One white arm and hand drooped over the side of the chair, and her
@@ -2522,7 +2523,7 @@
     <p>'It is nothing,' she said, as I hastened to pour her out some water. 'I am all right again.
      It was a shock to me to hear that I had placed my friends in such horrible peril.'</p>
     <p>'That is all over,' I answered. 'It was
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="218"/> nothing. I will tell you no more gloomy details. Let us turn to something brighter. There is
+     <pb  n="218"/> nothing. I will tell you no more gloomy details. Let us turn to something brighter. There is
      the treasure. What could be brighter than that? I got leave to bring it with me, thinking that
      it would interest you to be the first to see it.'</p>
     <p>'It would be of the greatest interest to me,' she said. There was no eagerness in her voice,
@@ -2589,7 +2590,7 @@
      us, I put the loot away in a safe place. There are no rupees for you this journey.'</p>
     <p>'You are deceiving us, Small,' said Athelney Jones sternly; 'if you had wished to throw the
      treasure into the Thames, it would
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="224"/> have been easier for you to have thrown box and all.'</p>
+     <pb  n="224"/> have been easier for you to have thrown box and all.'</p>
     <p>'Easier for me to throw, and easier for you to recover,' he answered, with a shrewd,
      side-long look. 'The man that was clever enough to hunt me down is clever enough to pick an
      iron box from the bottom of a river. Now that they are scattered over five miles or so, it may
@@ -2600,7 +2601,7 @@
      instead of thwarting it in this way, you would have had a better chance at your trial.'</p>
     <p>'Justice!' snarled the ex-convict. 'A pretty justice! Whose loot is this, if it is not ours?
      Where is the justice that I should
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="225"/> give it up to those who have never earned it? Look how I have earned it! Twenty long years
+     <pb  n="225"/> give it up to those who have never earned it? Look how I have earned it! Twenty long years
      in that fever-ridden swamp, all day at work under the mangrove-tree, all night chained up in
      the filthy convict-huts, bitten by mosquitoes, racked with ague, bullied by every cursed
      black-faced policeman who loved to take it out of a white man. That was how I earned the Agra
@@ -2611,7 +2612,7 @@
     <p>Small had dropped his mask of stoicism, and all this came out in a wild whirl of words, while
      his eyes blazed and the handcuffs clanked together with the impassioned movement of his hands.
      I could understand, as I
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="226"/> saw the fury and the passion of the man, that it was no groundless or unnatural terror which
+     <pb  n="226"/> saw the fury and the passion of the man, that it was no groundless or unnatural terror which
      had possessed Major Sholto when he first learned that the injured convict was upon his
      track.</p>
     <p>'You forget that we know nothing of all this,' said Holmes quietly. 'We have not heard your
@@ -2622,7 +2623,7 @@
      you is God's truth, every word of it. Thank you, you can put the glass beside me here, and I'll
      put my lips to it if I am dry.</p>
     <p>'I am a Worcestershire man myself, born
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="227"/> near Pershore. I dare say you would find a heap of Smalls living there now if you were to
+     <pb  n="227"/> near Pershore. I dare say you would find a heap of Smalls living there now if you were to
      look. I have often thought of taking a look round there, but the truth is that I was never much
      of a credit to the family, and I doubt if they would be so very glad to see me. They were all
      steady, chapel-going folk, small farmers, well known and respected over the country-side, while
@@ -2632,7 +2633,7 @@
     <p>'I wasn't destined to do much soldiering, however. I had just got past the goose-step, and
      learned to handle my musket, when I was fool enough to go swimming in the Ganges. Luckily for
      me, my company sergeant, John Holders, was in the water at
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="228"/> the same time, and he was one of the finest swimmers in the service. A crocodile took me,
+     <pb  n="228"/> the same time, and he was one of the finest swimmers in the service. A crocodile took me,
      just as I was half-way across, and nipped off my right leg as clean as a surgeon could have
      done it, just above the knee. What with the shock and the loss of blood, I fainted, and should
      have been drowned if Holder had not caught hold of me and paddled for the bank. I was five
@@ -2653,7 +2654,7 @@
      man, and he would often drop into my little shanty and smoke a pipe with me, for white folk out
      there feel their hearts warm to each other as they never do here at home.</p>
     <p>'Well, I was never in luck's way long.
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="230"/> Suddenly, without a note of warning, the great mutiny broke upon us. One month India lay as
+     <pb  n="230"/> Suddenly, without a note of warning, the great mutiny broke upon us. One month India lay as
      still and peaceful, to all appearance, as Surrey or Kent; the next there were two hundred
      thousand black devils let loose, and the country was a perfect hell. Of course you know all
      about it, gentlemen —a deal more than I do, very like, since reading is not in my line. I only
@@ -2683,7 +2684,7 @@
      like a swarm of bees. Wherever the English could collect in little bands they held just the
      ground that their guns commanded. Everywhere else they were helpless fugitives. It was a fight
      of the millions against the hundreds; and the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="233"/> cruellest part of it was that these men that we fought against, foot, horse, and gunners,
+     <pb  n="233"/> cruellest part of it was that these men that we fought against, foot, horse, and gunners,
      were our own picked troops, whom we had taught and trained, handling our own weapons and
      blowing our own bugle-calls. At Agra there were the 3rd Bengal Fusiliers, some Sikhs, two
      troops of horse, and a battery of artillery. A volunteer corps of clerks and merchants had been
@@ -2704,7 +2705,7 @@
      modern part, which took all our garrison, women, children, stores, and everything else, with
      plenty of room over. But the modern part is nothing like the size of the old quarter, where
      nobody goes, and which is given over to the scorpions and the centipedes.
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="235"/> It is all full of great deserted halls, and winding passages, and long corridors twisting in
+     <pb  n="235"/> It is all full of great deserted halls, and winding passages, and long corridors twisting in
      and out, so that it is easy enough for folk to get lost in it. For this reason it was seldom
      that anyone went into it, though now and again a party with torches might go exploring.</p>
     <p>'The river washes along the front of the old fort, and so protects it, but on the sides and
@@ -2714,7 +2715,7 @@
      to station a strong guard at every one of the innumerable gates. What we did was to organize a
      central guard-house in the middle of the fort, and to leave each gate under the charge of one
      white man and two or three natives. I
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="236"/> was selected to take charge during certain hours of the night of a small isolated door upon
+     <pb  n="236"/> was selected to take charge during certain hours of the night of a small isolated door upon
      the south-west side of the building. Two Sikh troopers were placed under my command, and I was
      instructed if anything went wrong to fire my musket, when I might rely upon help coming at once
      from the central guard. As the guard was a good two hundred paces away, however, and as the
@@ -2734,7 +2735,7 @@
     <p>'The third night of my watch was dark and dirty, with a small driving rain. It was dreary
      work standing in the gateway hour after hour in such weather. I tried again and again to make
      my Sikhs talk, but without much success. At two in the morning the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="238"/> rounds passed, and broke for a moment the weariness of the night. Finding that my companions
+     <pb  n="238"/> rounds passed, and broke for a moment the weariness of the night. Finding that my companions
      would not be led into conversation, I took out my pipe, and laid down my musket to strike the
      match. In an instant the two Sikhs were upon me. One of them snatched my firelock up and
      levelled it at my head, while the other held a great knife to my throat and swore between his
@@ -2744,7 +2745,7 @@
      and the women and children be treated as they were in Cawnpore. Maybe you gentlemen think that
      I am just making out a case for myself, but I give you my word that when I thought of that,
      though I felt the point of the knife at my throat, I
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="239"/> opened my mouth with the intention of giving a scream, if it was my last one, which might
+     <pb  n="239"/> opened my mouth with the intention of giving a scream, if it was my last one, which might
      alarm the main guard. The man who held me seemed to know my thoughts; for, even as I braced
      myself to it, he whispered: "Don't make a noise. The fort is safe enough. There are no rebel
      dogs on this side of the river." There was the ring of truth in what he said, and I knew that
@@ -2764,7 +2765,7 @@
      come to this land for. We ask you to be rich. If you will be one of us this night, we will
      swear to you upon the naked knife, and by the threefold oath which no Sikh was ever known to
      break, that you shall have your fair share of the loot. A quarter of
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="241"/> the treasure shall be yours. We can say no fairer."</p>
+     <pb  n="241"/> the treasure shall be yours. We can say no fairer."</p>
     <p>'"But what is the treasure, then?" I asked. "I am as ready to be rich as you can be, if you
      will but show me how it can be done."</p>
     <p>'"You will swear, then," said he, "by the bones of your father, by the honour of your mother,
@@ -2776,7 +2777,7 @@
     <p>'"There are but three," said I.</p>
     <p>'"No; Dost Akbar must have this share. We can tell the tale to you while we wait them. Do you
      stand at the gate Mahomet
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="242"/> Singh, and give notice of their coming. The thing stands thus, Sahib, and I tell it to you
+     <pb  n="242"/> Singh, and give notice of their coming. The thing stands thus, Sahib, and I tell it to you
      because I know that an oath is binding upon a Feringhee, and that we may trust you. Had you
      been a lying Hindoo, though you had sworn by all the gods in their false temples, your blood
      would have been upon the knife and your body in the water. But the Sikh knows the Englishman,
@@ -2786,7 +2787,7 @@
      nature, and hoards his gold rather than spend it. When the troubles broke out he would be
      friends both with the lion and the tiger—with the Sepoy and with the Company's Raj. Soon,
      however, it seemed to him that the white men's
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="243"/> day was come, for through all the land he could hear of nothing but of their death and their
+     <pb  n="243"/> day was come, for through all the land he could hear of nothing but of their death and their
      overthrow. Yet, being a careful man, he made such plans that, come what might, half at least of
      his treasure should be left to him. That which was in gold and silver he kept by him in the
      vaults of his palace, but the most precious stones and the choicest pearls that he had he put
@@ -2807,7 +2808,7 @@
     <p>' In Worcestershire the life of a man seems a great and a sacred thing; but it is very
      different when there is fire and blood all round you, and you have been used to meeting death
      at every turn. Whether Achmet the
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="245"/> merchant lived or died was a thing as light as air to me, but at the talk about the treasure
+     <pb  n="245"/> merchant lived or died was a thing as light as air to me, but at the talk about the treasure
      my heart turned to it, and I thought of what I might do in the old country with it, and how my
      folk would stare when they saw their ne'er-do weel coming back with his pockets full of gold
      moidores. I had, therefore, already made up my mind. Abdullah Khan, however, thinking that I
@@ -2850,7 +2851,7 @@
      to left and right with two bright little twinkling eyes, like a mouse when he ventures out from
      his hole. It gave me the chills to think of killing him, but I thought of the treasure, and my
      heart set as hard as a flint within me. When he saw my white face he gave a little
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="249"/> chirrup of joy, and came running up towards me.</p>
+     <pb  n="249"/> chirrup of joy, and came running up towards me.</p>
     <p>'"Your protection, Sahib," he panted, "your protection for the unhappy merchant Achmet. I
      have travelled across Rajpootana that I might seek the shelter of the fort at Agra. I have been
      robbed and beaten and abused because I have been the friend of the Company. It is a blessed
@@ -2903,7 +2904,7 @@
      place, making a natural grave, so we left Achmet the merchant there, having first covered him
      over with loose bricks. This done, we all went back to the treasure.</p>
     <p>'It lay where he had dropped it when he
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="254"/> was first attacked. The box was the same which now lies open upon your table. A key was hung
+     <pb  n="254"/> was first attacked. The box was the same which now lies open upon your table. A key was hung
      by a silken cord to that carved handle upon the top. We opened it, and the light of the lantern
      gleamed upon a collection of gems such as I have read of and thought about when I was a little
      lad at Pershore. It was blinding to look upon them. When we had feasted our eyes we took them
@@ -2935,7 +2936,7 @@
      came pouring in, and Nana Sahib made himself scarce over the frontier. A flying column under
      Colonel Greathed came round to Agra and cleared the Pandies away from it. Peace seemed to be
      settling upon the country, and we four
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="257"/> were beginning to hope that the time was at hand when we might safely go off with our shares
+     <pb  n="257"/> were beginning to hope that the time was at hand when we might safely go off with our shares
      of the plunder. In a moment, however, our hopes were shattered by our being arrested as the
      murderers of Achmet.</p>
     <p>'It came about in this way. When the rajah put his jewels into the hands of Achmet he did it
@@ -2966,7 +2967,7 @@
      Blair Island in the Andamans. There are very few white convicts at this settlement, and, as I
      had behaved well from the first, I soon found myself a sort of privileged person. I was given a
      hut in Hope Town, which is a small place on the slopes of
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="260"/> Mount Harriet, and I was left pretty much to myself. It is a dreary, fever-stricken place,
+     <pb  n="260"/> Mount Harriet, and I was left pretty much to myself. It is a dreary, fever-stricken place,
      and all beyond our little clearings was infested with wild cannibal natives, who were ready
      enough to blow a poisoned dart at us if they saw a chance. There was digging and ditching and
      yam-planting, and a dozen other things to be done, so we were busy enough all day; though in
@@ -3034,7 +3035,7 @@
     <p>'Captain Morstan nodded.</p>
     <p>'"Look here, Small," said the Major. "We have been talking it over, my friend here and I, and
      we have come to the conclusion
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="266"/> that this secret of yours is hardly a Government matter, after all, but is a private concern
+     <pb  n="266"/> that this secret of yours is hardly a Government matter, after all, but is a private concern
      of your own, which of course you have the power of disposing of as you think best. Now the
      question is, What price would you ask for it? We might be inclined to take it up, and at least
      look into it, if we could agree as to terms." He tried to speak in a cool, careless way, but
@@ -3056,7 +3057,7 @@
     <p>'"If there were only one," he said.</p>
     <p>'"None or all," I answered. "We have sworn it. The four of us must always act together."</p>
     <p>'"You see, Morstan," said he, "Small is a
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="268"/> man of his word. He does not flinch from his friends. I think we may very well trust
+     <pb  n="268"/> man of his word. He does not flinch from his friends. I think we may very well trust
      him."</p>
     <p>'"It's a dirty business," the other answered. "Yet, as you say, the money will save our
      commissions handsomely."</p>
@@ -3078,7 +3079,7 @@
      meet us at Agra, and there we were to have a final division of the treasure, he taking the
      Major's share as well as his own. All this we sealed by the most solemn oaths that the mind
      could think or the lips utter. I sat up all night with paper and ink,
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="270"/> and by the morning I had the two charts all ready, signed with the sign of four— that is, of
+     <pb  n="270"/> and by the morning I had the two charts all ready, signed with the sign of four— that is, of
      Abdullah, Akbar, Mahomet, and myself.</p>
     <p>'Well, gentlemen, I weary you with my long story, and I know that my friend Mr. Jones is
      impatient to get me safely stowed in chokey. I'll make it as short as I can. The villain Sholto
@@ -3088,7 +3089,7 @@
      treated us. Morstan went over to Agra shortly afterwards, and found, as we expected, that the
      treasure was indeed gone. The scoundrel had stolen it all, without carrying out one of the
      conditions on which we had sold him the secret. From that day I lived only for
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="271"/> vengeance. I thought of it by day and I nursed it by night. It became an overpowering,
+     <pb  n="271"/> vengeance. I thought of it by day and I nursed it by night. It became an overpowering,
      absorbing passion with me. I cared nothing for the law—nothing for the gallows. To escape, to
      track down Sholto, to have my hand upon his throat—that was my one thought. Even the Agra
      treasure had come to be a smaller thing in my mind than the slaying of Sholto.</p>
@@ -3118,7 +3119,7 @@
      put his carbine to his shoulder, but I struck him full, and knocked the whole front of his
      skull in. You can see the split in the wood now where I hit him. We both went down together,
      for I could not keep my balance; but when I got up I found him still lying
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="274"/> quiet enough. I made for the boat, and in an hour we were well out at sea. Tonga had brought
+     <pb  n="274"/> quiet enough. I made for the boat, and in an hour we were well out at sea. Tonga had brought
      all his earthly possessions with him, his arms and his gods. Among other things, he had a long
      bamboo spear, and some Andaman cocoa-nut matting, with which I made a sort of a sail. For ten
      days we were beating about, trusting to luck, and on the eleventh we were picked up by a trader
@@ -3128,7 +3129,7 @@
     <p>'Well, if I were to tell you all the adventures that my little chum and I went through, you
      would not thank me, for I would have you here until the sun was shining. Here and there we
      drifted about the world, something
-     <pb xmlns:t="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" n="275"/> always turning up to keep us from London. All the time, however, I never lost sight of my
+     <pb  n="275"/> always turning up to keep us from London. All the time, however, I never lost sight of my
      purpose. I would dream of Sholto at night. A hundred times I have killed him in my sleep. At
      last, however, some three or four years ago, we found ourselves in England. I had no great
      difficulty in finding where Sholto lived, and I set to work to discover whether he had realized
@@ -3166,7 +3167,7 @@
      jewels had come back at last to those who had most right to them. Tonga then pulled up the
      rope, closed the window, and made off the way that he had come.</p>
     <p>'I don't know that I have anything else to tell you. I had heard a waterman speak of the
-     speed of Smith's launch, the <hi>Aurora</hi> , so I thought she would be a handy craft for our
+     speed of Smith's launch, the Aurora , so I thought she would be a handy craft for our
      escape. I engaged with old Smith, and was to give him a big sum if he got us safe to our
      <pb n="279"/> ship. He knew, no doubt, that there was some screw loose, but he was not in our
      secrets. All this is the truth, and if I tell it to you, gentlemen, it is not to amuse you— for
@@ -3212,9 +3213,9 @@
     <p>'Strange,' said I, 'how terms of what in another man I should call laziness alternate with
      your fits of splendid energy and vigour.'</p>
     <p>'Yes,' he answered, 'there are in me the makings of a very fine loafer, and also of a pretty
-     spry sort of a fellow. I often think of those lines of old Goethe: 'Schade dass die Natur nur
-      <hi>einen</hi> Mensch aus dir schuf, Denn zum würdigen Mann war und zum Schelmen der Stoff.'
-     <pb n="283"/> By the way, <hi>à propos</hi> of this Norwood business, you see that they had, as
+     spry sort of a fellow. I often think of those lines of old Goethe: '<foreign>Schade dass die Natur nur
+      <emph>einen</emph> Mensch aus dir schuf, Denn zum würdigen Mann war und zum Schelmen der Stoff.</foreign>'
+     <pb n="283"/> By the way, à propos of this Norwood business, you see that they had, as
      I surmised, a confederate in the house, who could be none other than Lal Rao, the butler: so
      Jones actually has the undivided honour of having caught one fish in his great haul.'</p>
     <p>'The division seems rather unfair,' I remarked. 'You have done all the work in this business.

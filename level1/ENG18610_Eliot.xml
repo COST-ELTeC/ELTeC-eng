@@ -35,7 +35,7 @@
             Blackwood</publisher><date>1861</date>
         <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/600060055.pdf"/></bibl></sourceDesc>
     </fileDesc>
-    <encodingDesc n="eltec-0">
+    <encodingDesc n="eltec-1">
       <p/>
     </encodingDesc>
     <profileDesc>
@@ -55,6 +55,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
+     <change when="2023-01-26">Checked hi and upgraded to level1</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-05-19">Add text classifications from Bassett</change>
@@ -69,7 +70,7 @@
         <l>   "A child, more than all other gifts</l>
         <l>That earth can offer to declining man,</l>
         <l>Brings hope with it, and forward-looking thoughts."</l>
-        <p><hi>Wordsworth.</hi></p>
+        <p><label>Wordsworth.</label></p>
         <pb/>
       </div>
     </front>
@@ -1020,7 +1021,7 @@
             of unwontedness in his position; and Dunstan, as he went along through the gathering
             mist, was always rapping his whip somewhere. It was Godfrey's whip, which he had chosen
             to take without leave because it had a gold handle; of course no one could see, when
-            Dunstan held it, that the name <hi>Godfrey Cass</hi> was cut in deep letters on that
+            Dunstan held it, that the name <label>Godfrey Cass</label> was cut in deep letters on that
             gold handle—they could only see that it was a very handsome whip. Dunsey was not without
             fear that he might meet some acquaintance in whose eyes he would cut a pitiable figure,
             for mist is no screen when people get close to each other; but when he at last found
@@ -1656,8 +1657,8 @@
             when Justice Malam hears as respectable men like us had a information laid before 'em
             and took no steps."</p>
           <p>The landlord agreed with this view, and after taking the sense of the company, and duly
-            rehearsing a small ceremony known in high ecclesiastical life as the <hi>nolo
-              episcopari</hi> , he consented to take on himself the chill dignity of going to
+            rehearsing a small ceremony known in high ecclesiastical life as the <foreign>nolo
+              episcopari</foreign> , he consented to take on himself the chill dignity of going to
             Kench's. But to the farrier's strong disgust, Mr Macey now started an objection to his
             proposing himself as a deputy-constable; for that oracular old gentleman, claiming to
             know <pb n="115"/> the law, stated, as a fact delivered to him by his father, that no
@@ -2130,7 +2131,7 @@
             every one's thought—even Godfrey's, who had better reason than any one else to know what
             his brother was capable of. He remembered no mention of the weaver between them since
             the time, twelve years ago, when it was their boyish sport to deride him; and, besides,
-            his imagination constantly created an <hi>alibi</hi> for Dunstan: he saw him continually
+            his imagination constantly created an alibi for Dunstan: he saw him continually
             in some congenial haunt, to which he had walked off on leaving Wildfire—saw him sponging
             on chance acquaintances, and meditating a return <pb n="149"/> home to the old amusement
             of tormenting his elder brother. Even if any brain in Raveloe had put the said two facts
