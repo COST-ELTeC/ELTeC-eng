@@ -35,7 +35,7 @@
       Milne</publisher><date>1896</date>
      <ref target="https://hdl.handle.net/2027/osu.32435009413329"/></bibl></sourceDesc>
   </fileDesc>
-  <encodingDesc n="eltec-0">
+  <encodingDesc n="eltec-1">
    <p/>
   </encodingDesc>
   <profileDesc>
@@ -55,6 +55,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+   <change when="2023-01-26">Checked hi and upgraded to level1</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
@@ -74,7 +75,7 @@
   <body>
    <div type="chapter">
     <head>CHAPTER I</head>
-    <p>The Rome Express, the <hi>direttissimo</hi>, or most direct, was approaching Paris one
+    <p>The Rome Express, the <foreign>direttissimo</foreign>, or most direct, was approaching Paris one
      morning in March, when it became known to the occupants of the sleeping-car that there was
      something amiss, very much amiss, in the car.</p>
     <p>The train was travelling the last stage, between Laroche and Paris, a run of a hundred miles
@@ -137,7 +138,7 @@
      wearing the professional white tie.</p>
     <p>"Why, we shall be detained, of course; arrested, probably—certainly detained. Examined,
      cross-examined, bully-ragged—I know something of the French police and their ways."</p>
-    <p>"If they stop us, I shall write to the <hi>Times</hi>" cried his brother, by profession a man
+    <p>"If they stop us, I shall write to the <title>Times</title>" cried his brother, by profession a man
      of peace, but with a choleric eye that told of an angry temperament.</p>
     <p>"By all means, my dear Silas, when you get the chance. That won't be just yet, for I tell you
      we're in a tight place, and may expect a good deal of worry." With that he took out his
@@ -211,7 +212,7 @@
      he had to deal with fools, or when scent was keen, or the enemy near, he would become as fierce
      and eager as any terrier.</p>
     <p>He had just taken his place at his table and begun to arrange his papers, which, being a man
-     of method, he kept carefully sorted by lots each in an old copy of the <hi>Figaro</hi>, when he
+     of method, he kept carefully sorted by lots each in an old copy of the <title>Figaro</title>, when he
      was called to the telephone. His services were greatly needed, as we know, at the Lyons station
      and the summons was to the following effect:</p>
     <p>"Crime on train No. 45. A man murdered in the sleeper. All the passengers held. Please come
@@ -276,7 +277,7 @@
      course return to it.</p>
     <p>"You can give me the names of the passengers?"</p>
     <p>"No, monsieur. Not exactly. I cannot remember, not enough to distinguish between them."</p>
-    <p>"<hi>Fichtre</hi>! But this is most devilishly irritating. To think that I have to do with a
+    <p>"<foreign>Fichtre</foreign>! But this is most devilishly irritating. To think that I have to do with a
      man so stupid—such an idiot, such an ass!"</p>
     <p>"At least you know how the berths were occupied, how many in each, and which persons? Yes?
      You can tell me that? Well, go on. By and by we will have the passengers in, and you can fix
@@ -285,13 +286,13 @@
     <p>"Stay, let us make a plan. I will draw it. Here, now, is that right?" and the Chief held up
      the rough diagram, here shown—</p>
     <p>[Illustration: Diagram of railroad car.]</p>
-    <p>"Here we have the six compartments. Now take <hi>a</hi>, with berths 1, 2, 3, and 4. Were
+    <p>"Here we have the six compartments. Now take <label>a</label>, with berths 1, 2, 3, and 4. Were
      they all occupied?"</p>
     <p>"No; only two, by Englishmen. I know that they talked English, which I understand a little.
      One was a soldier; the other, I think, a clergyman, or priest."</p>
-    <p>"Good! we can verify that directly. Now, <hi>b</hi>, with berths 5 and 6. Who was there?"</p>
+    <p>"Good! we can verify that directly. Now, <label>b</label>, with berths 5 and 6. Who was there?"</p>
     <p>"One gentleman. I don't remember his name. But I shall know him by appearance."</p>
-    <p>"Go on. In <hi>c</hi>, two berths, 7 and 8?"</p>
+    <p>"Go on. In <label>c</label>, two berths, 7 and 8?"</p>
     <p>"Also one gentleman. It was he who—I mean, that is where the crime occurred."</p>
     <p>"Ah, indeed, in 7 and 8? Very well. And the next, 9 and 10?"</p>
     <p>"A lady. Our only lady. She came from Rome."</p>
@@ -345,9 +346,9 @@
      early stage of the inquiry to the one point of identity.</p>
     <p>The first who entered was a Frenchman. He was a jovial, fat-faced, portly man, who answered
      to the name of Anatole Lafolay, and who described himself as a traveller in precious stones.
-     The berth he had occupied was No. 13 in compartment <hi>f</hi>. His companion in the berth was
+     The berth he had occupied was No. 13 in compartment <label>f</label>. His companion in the berth was
      a younger man, smaller, slighter, but of much the same stamp. His name was Jules Devaux, and he
-     was a commission agent. His berth had been No. 15 in the same compartment, <hi>f</hi>. Both
+     was a commission agent. His berth had been No. 15 in the same compartment, <label>f</label>. Both
      these Frenchmen gave their addresses with the names of many people to whom they were well
      known, and established at once a reputation for respectability which was greatly in their
      favour.</p>
@@ -355,7 +356,7 @@
      first discovery of the crime. He called himself General Sir Charles Collingham, an officer of
      her Majesty's army; and the clergyman who shared the compartment was his brother, the Reverend
      Silas Collingham, rector of Theakstone-Lammas, in the county of Norfolk. Their berths were
-     numbered 1 and 4 in <hi>a</hi>.</p>
+     numbered 1 and 4 in <label>a</label>.</p>
     <p>Before the English General was dismissed, he asked whether he was likely to be detained.</p>
     <p>"For the present, yes," replied M. Floçon, briefly. He did not care to be asked questions.
      That, under the circumstances, was his business.</p>
@@ -372,7 +373,7 @@
      to the post nearest the Embassy to inform his Excellency—"</p>
     <p>"Certainly, Lord Dufferin, and my friend, Colonel Papillon."</p>
     <p>"Of what has occurred. And now, if you will permit me to proceed?"</p>
-    <p>So the single occupant of the compartment <hi>b</hi>, that adjoining the Englishmen, was
+    <p>So the single occupant of the compartment <label>b</label>, that adjoining the Englishmen, was
      called in. He was an Italian, by name Natale Ripaldi; a dark-skinned man, with very black hair
      and a bristling black moustache. He wore a long dark cloak of the Inverness order, and, with
      the slouch hat he carried in his hand, and his downcast, secretive look, he had the rather
@@ -520,8 +521,8 @@
     <p>Here he found himself a good deal below the level of the car. These sleepers have no
      foot-boards like ordinary carriages; access to them is gained from a platform by the steps at
      each end. The Chief was short of stature, and he could only approach the window outside by
-     calling one of the guards and ordering him to make the small ladder (<hi>faire la petite
-      echelle</hi>). This meant stooping and giving a back, on which little M. Floçon climbed
+     calling one of the guards and ordering him to make the small ladder (<foreign>faire la petite
+      echelle</foreign>). This meant stooping and giving a back, on which little M. Floçon climbed
      nimbly, and so was raised to the necessary height.</p>
     <p>A close scrutiny revealed nothing unusual. The exterior of the car was encrusted with the mud
      and dust gathered in the journey, none of which appeared to have been disturbed.</p>
@@ -698,7 +699,7 @@
      almost to madness.</p>
     <p>"This is not to be borne!" he cried. "Here, Galipaud, Block;" and when his two trusty
      assistants came rushing in, he pointed furiously to the General. "Seize him, remove him by
-     force if necessary. He shall go to the <hi>violon</hi>—to the nearest lock-up."</p>
+     force if necessary. He shall go to the <foreign>violon</foreign>—to the nearest lock-up."</p>
     <p>The noise attracted also the Judge and the Commissary, and there were now six officials in
      all, including the guard, all surrounding the General, a sufficiently imposing force to overawe
      even the most recalcitrant fire-eater.</p>
@@ -745,8 +746,8 @@
      give his full attention to all the points, old and new, that had now arisen in the
      investigation. But he would have time to go over them at his leisure, while the work of
      interrogation was undertaken by the Judge.</p>
-    <p>The latter had taken his seat at a small table, and just opposite was his <hi>greffier</hi>,
-     or clerk, who was to write down question and answer, <hi>verbatim</hi>. A little to one side,
+    <p>The latter had taken his seat at a small table, and just opposite was his <foreign>greffier</foreign>,
+     or clerk, who was to write down question and answer, <foreign>verbatim</foreign>. A little to one side,
      with the light full on the face, the witness was seated, bearing the scrutiny of three pairs of
      eyes—the Judge first, and behind him, those of the Chief Detective and the Commissary of
      Police.</p>
@@ -765,7 +766,7 @@
     <p>The Countess all but jumped from her chair in her surprise—surprise that seemed too
      spontaneous to be feigned.</p>
     <p>"Impossible! it cannot be. She would not dare to leave me here like this, all alone."</p>
-    <p>"<hi>Parbleu</hi>! she has dared. Most certainly she is not here."</p>
+    <p>"<foreign>Parbleu</foreign>! she has dared. Most certainly she is not here."</p>
     <p>"But what can have become of her?"</p>
     <p>"Ah, madame, what indeed? Can you form any idea? We hoped you might have been able to
      enlighten us."</p>
@@ -804,7 +805,7 @@
      circulate it at once. Give it to the station-master, and to the agents of police round about
      here. I have an idea—only an idea—that this woman has not gone far. It may be worth nothing,
      still there is the chance. People who are wanted often hang about the very place they would
-      <hi>not</hi> stay in if they were wise. Anyhow, set a watch for her and come back here."</p>
+      <emph>not</emph> stay in if they were wise. Anyhow, set a watch for her and come back here."</p>
     <p>Meanwhile, the Judge had continued his questioning.</p>
     <p>"And where, madame, did you obtain your maid?"</p>
     <p>"In Rome. She was there, out of a place. I heard of her at an agency and registry office,
@@ -819,7 +820,7 @@
      shall be able to lay hands on her, I do not doubt, madame may rest assured."</p>
     <p>"Pray take no trouble in the matter. I certainly should not keep her."</p>
     <p>"Very well, very well. And now, another small matter. I see," he referred to the rough plan
-     of the sleeping-car prepared by M. Floçon,—"I see that you occupied the compartment <hi>d</hi>,
+     of the sleeping-car prepared by M. Floçon,—"I see that you occupied the compartment <label>d</label>,
      with berths Nos. 9 and 10?"</p>
     <p>"I think 9 was the number of my berth."</p>
     <p>"It was. You may be certain of that. Now next door to your compartment—do you know who was
@@ -865,8 +866,8 @@
     <p>"Very good, so far. The General knew you, took an interest in you. That explains his strange,
      unjustifiable conduct just now—"</p>
     <p>"I do not think it was either strange or unjustifiable," interrupted the Countess, hotly.
-      "<hi>He</hi> is a gentleman."</p>
-    <p>"Quite a <hi>preux cavalier</hi>, of course. But we will pass on. You are not a good sleeper,
+      "<emph>He</emph> is a gentleman."</p>
+    <p>"Quite a <foreign>preux cavalier</foreign>, of course. But we will pass on. You are not a good sleeper,
      I believe, madame?"</p>
     <p>"Indeed no, I sleep badly, as a rule."</p>
     <p>"Then you would be easily disturbed. Now, last night, did you hear anything strange in the
@@ -877,7 +878,7 @@
     <p>"That is odd. I cannot understand it. We know, beyond all question, from the appearance of
      the body,—the corpse,—that there was a fight, an encounter. Yet you, a wretched sleeper, with
      only a thin plank of wood between you and the affray, hear nothing, absolutely nothing. It is
-      <hi>most</hi> extraordinary."</p>
+      <emph>most</emph> extraordinary."</p>
     <p>"I was asleep. I must have been asleep."</p>
     <p>"A light sleeper would certainly be awakened. How can you explain—how can you reconcile
      that?" The question was blandly put, but the Judge's incredulity verged upon actual
@@ -986,7 +987,7 @@
      Mother Tontaine, honest and incorruptible Tontaine? Five, then, five!"</p>
     <p>With trembling haste the Countess emptied the whole contents of her purse in the old hag's
      hand.</p>
-    <p>"<hi>Bon aubaine</hi>. Nice pickings. It is a misery what they pay me here. I am, oh, so
+    <p>"<foreign>Bon aubaine</foreign>. Nice pickings. It is a misery what they pay me here. I am, oh, so
      poor, and I have children, many babies. You will not tell them—the police—you dare not. No, no,
      no."</p>
     <p>Thus muttering to herself, she shambled across the room to a corner, where she stowed the

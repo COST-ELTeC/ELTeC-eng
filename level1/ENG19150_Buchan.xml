@@ -36,7 +36,7 @@
      <date>1915</date>
      </bibl></sourceDesc>
   </fileDesc>
-  <encodingDesc n="eltec-0">
+  <encodingDesc n="eltec-1">
    <p/>
   </encodingDesc>
   <profileDesc>
@@ -51,6 +51,8 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+  
+   <change when="2023-01-26">Checked hi and upgraded to level1</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
@@ -631,7 +633,7 @@
      for Dumfries.</p>
     <p>The only occupants of the carriage were an old shepherd and his dog-a wall-eyed brute that I
      mistrusted. The man was asleep, and on the cushions beside him was that morning's
-      <hi>Scotsman</hi>. Eagerly I seized on it, for I fancied it would tell me something.</p>
+      <title>Scotsman</title>. Eagerly I seized on it, for I fancied it would tell me something.</p>
     <p>There were two columns about the Portland Place Murder, as it was called. My man Paddock had
      given the alarm and had the milkman arrested. Poor devil, it looked as if the latter had earned
      his sovereign hardly; but for me he had been cheap at the price, for he seemed to have occupied
@@ -739,7 +741,7 @@
      full of fat women, who stop for lunch, and a fisherman or two in the spring, and the shooting
      tenants in August. There is not much material to be got out of that. I want to see life, to
      travel the world, and write things like Kipling and Conrad. But the most I've done yet is to
-     get some verses printed in <hi>Chambers's Journal</hi>.” I looked at the inn standing golden in
+     get some verses printed in <title>Chambers's Journal</title>.” I looked at the inn standing golden in
      the sunset against the brown hills.</p>
     <p>“I've knocked a bit about the world, and I wouldn't despise such a hermitage. D'you think
      that adventure is found only in the tropics or among gentry in red shirts? Maybe you're rubbing
@@ -778,9 +780,9 @@
      paper, which usually arrived with the post in the late afternoon. I told him to keep his eyes
      skinned, and make note of any strange figures he saw, keeping a special sharp look-out for
      motors and aeroplanes. Then I sat down in real earnest to Scudder's note-book.</p>
-    <p>He came back at midday with the <hi>Scotsman</hi>. There was nothing in it, except some
+    <p>He came back at midday with the <title>Scotsman</title>. There was nothing in it, except some
      further evidence of Paddock and the milkman, and a repetition of yesterday's statement that the
-     murderer had gone North. But there was a long article, reprinted from <hi>The Times</hi>, about
+     murderer had gone North. But there was a long article, reprinted from <title>The Times</title>, about
      Karolides and the state of affairs in the Balkans, though there was no mention of any visit to
      England. I got rid of the innkeeper for the afternoon, for I was getting very warm in my search
      for the cypher.</p>
@@ -1836,17 +1838,17 @@
     <p>He went out each morning, leaving me milk for the day, and locking the door behind him; and
      came in in the evening to sit silent in the chimney corner. Not a soul came near the place.
      When I was getting better, he never bothered me with a question. Several times he fetched me a
-     two days” old <hi>Scotsman</hi>, and I noticed that the interest in the Portland Place murder
+     two days' old <title>Scotsman</title>, and I noticed that the interest in the Portland Place murder
      seemed to have died down. There was no mention of it, and I could find very little about
      anything except a thing called the General Assembly-some ecclesiastical spree, I gathered.</p>
-    <p>One day he produced my belt from a lockfast drawer. “There's a terrible heap o” siller in't,”
-     he said. “Ye'd better coont it to see it's a” there.”</p>
+    <p>One day he produced my belt from a lockfast drawer. “There's a terrible heap o' siller in't,”
+     he said. “Ye'd better coont it to see it's a' there.”</p>
     <p>He never even sought my name. I asked him if anybody had been around making inquiries
      subsequent to my spell at the road-making.</p>
     <p>“Ay, there was a man in a motor-cawr. He speired whae had ta'en my place that day, and I let
-     on I thocht him daft. But he keepit on at me, and syne I said he maun be thinkin” o” my
-     gude-brither frae the Cleuch that whiles lent me a haun'. He was a wersh-lookin” sowl, and I
-     couldna understand the half o” his English tongue.”</p>
+     on I thocht him daft. But he keepit on at me, and syne I said he maun be thinkin' o' my
+     gude-brither frae the Cleuch that whiles lent me a haun'. He was a wersh-lookin' sowl, and I
+     couldna understand the half o' his English tongue.”</p>
     <p>I was getting restless those last days, and as soon as I felt myself fit I decided to be off.
      That was not till the twelfth day of June, and as luck would have it a drover went past that
      morning taking some cattle to Moffat. He was a man named Hislop, a friend of Turnbull's, and he
@@ -1858,7 +1860,7 @@
      that we had parted in disgust.</p>
     <p>Hislop was a cheery soul, who chattered all the way over the pass and down the sunny vale of
      Annan. I talked of Galloway markets and sheep prices, and he made up his mind I was a
-     'pack-shepherd” from those parts-whatever that may be. My plaid and my old hat, as I have said,
+     'pack-shepherd' from those parts-whatever that may be. My plaid and my old hat, as I have said,
      gave me a fine theatrical Scots look. But driving cattle is a mortally slow job, and we took
      the better part of the day to cover a dozen miles.</p>
     <p>If I had not had such an anxious heart I would have enjoyed that time. It was shining blue
@@ -2016,7 +2018,7 @@
      romantic. He had the artistic temperament, and wanted a story to be better than God meant it to
      be. He had a lot of odd biases, too. Jews, for example, made him see red. Jews and the high
      finance.</p>
-    <p>“The Black Stone,” he repeated. ”<hi>Der Schwarze Stein</hi>. It's like a penny novelette.
+    <p>“The Black Stone,” he repeated. ”<foreign>Der Schwarze Stein</foreign>. It's like a penny novelette.
      And all this stuff about Karolides. That is the weak part of the tale, for I happen to know
      that the virtuous Karolides is likely to outlast us both. There is no State in Europe that
      wants him gone. Besides, he has just been playing up to Berlin and Vienna and giving my Chief
@@ -2046,8 +2048,8 @@
      yesterday seemed a thought tarnished.</p>
     <p>“I had a busy hour on the telephone after you went to bed,” he said. “I got my Chief to speak
      to the First Lord and the Secretary for War, and they are bringing Royer over a day sooner.
-     This wire clinches it. He will be in London at five. Odd that the code word for a <hi>Sous-chef
-      d'état Major-General</hi> should be "Porker".”</p>
+     This wire clinches it. He will be in London at five. Odd that the code word for a <foreign>Sous-chef
+      d'état Major-General</foreign> should be "Porker".”</p>
     <p>He directed me to the hot dishes and went on.</p>
     <p>“Not that I think it will do much good. If your friends were clever enough to find out the
      first arrangement they are clever enough to discover the change. I would give my head to know
@@ -2308,7 +2310,7 @@
     <p>“Besides,” said Whittaker, 'there is the post. By this time the news will be on its way.”</p>
     <p>“No,” said the Frenchman. “You do not understand the habits of the spy. He receives
      personally his reward, and he delivers personally his intelligence. We in France know something
-     of the breed. There is still a chance, <hi>mes amis</hi>. These men must cross the sea, and
+     of the breed. There is still a chance, <foreign>mes amis</foreign>. These men must cross the sea, and
      there are ships to be searched and ports to be watched. Believe me, the need is desperate for
      both France and Britain.”</p>
     <p>Royer's grave good sense seemed to pull us together. He was the man of action among fumblers.
@@ -2318,8 +2320,8 @@
     <p>“Where is Scudder's book?” I cried to Sir Walter. “Quick, man, I remember something in
      it.”</p>
     <p>He unlocked the door of a bureau and gave it to me.</p>
-    <p>I found the place. <hi>thirty-nine steps</hi>, I read, and again, <hi>thirty-nine
-      steps</hi>-<hi>I counted them-high tide 10.17 P.M.</hi></p>
+    <p>I found the place. <label>thirty-nine steps</label>, I read, and again, <label>thirty-nine
+      steps</label>-I counted them-high tide 10.17 P.M.</p>
     <p>The Admiralty man was looking at me as if he thought I had gone mad.</p>
     <p>“Don't you see it's a clue,” I shouted. “Scudder knew where these fellows laired-he knew
      where they were going to leave the country, though he kept the name to himself. Tomorrow was
@@ -2768,7 +2770,7 @@
     <p>I blew my whistle.</p>
     <p>In an instant the lights were out. A pair of strong arms gripped me round the waist, covering
      the pockets in which a man might be expected to carry a pistol.</p>
-    <p>”<hi>Schnell, Franz,</hi>” cried a voice, ”<hi>Das Boot, das Boot</hi>!” As it spoke I saw
+    <p>”<foreign>Schnell, Franz,</foreign>” cried a voice, ”<foreign>Das Boot, das Boot</foreign>!” As it spoke I saw
      two of my fellows emerge on the moonlit lawn.</p>
     <p>The young dark man leapt for the window, was through it, and over the low fence before a hand
      could touch him. I grappled the old chap, and the room seemed to fill with figures. I saw the
@@ -2783,7 +2785,7 @@
     <p>Someone switched on the light.</p>
     <p>The old man was looking at me with blazing eyes.</p>
     <p>“He is safe,” he cried. “You cannot follow in time ... He is gone ... He has triumphed ...
-      <hi>Der Schwarze Stein ist in der Siegeskrone.</hi>”</p>
+      <foreign>Der Schwarze Stein ist in der Siegeskrone.</foreign>”</p>
     <p>There was more in those eyes than any common triumph. They had been hooded like a bird of
      prey, and now they flamed with a hawk's pride. A white fanatic heat burned in them, and I
      realized for the first time the terrible thing I had been up against. This man was more than a
@@ -2795,8 +2797,6 @@
     <p>Three weeks later, as all the world knows, we went to war. I joined the New Army the first
      week, and owing to my Matabele experience got a captain's commission straight off. But I had
      done my best service, I think, before I put on khaki.</p>
-
-
     <trailer>THE END</trailer>
 
 

@@ -18,19 +18,27 @@
     <measure unit="words">171240</measure>
    </extent>
    <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662490">ELTeC-eng release 1.0.1</ref>
-</publicationStmt>
-   <sourceDesc><bibl type="digitalSource"><title>Project Gutenberg text of Endymion</title>
-     <ref target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref></bibl><bibl type="firstEdition" n="B1984"><title>Endymion</title><author>Disraeli, Benjamin
-      (1804-1881).</author><publisher>London: Longmans, Green, and co</publisher><date>1880</date>
-     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687801.pdf">vol 1</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687799.pdf">vol 2</ref>; <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687797.pdf">vol 3</ref>
-    </bibl></sourceDesc>
+    <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary
+     History" (CA16204)</publisher>
+    <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+    <date when="2021-04-09"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+    <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+    <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+    <ref type="doi" target="https://doi.org/10.5281/zenodo.3533868">ELTeC-eng</ref>
+    <ref type="doi" target="https://doi.org/10.5281/zenodo.4662490">ELTeC-eng release 1.0.1</ref>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource"><title>Project Gutenberg text of Endymion</title> <ref
+     target="http://www.gutenberg.org/files/7926/7926-h/7926-h.htm">Gutenberg</ref></bibl>
+    <bibl type="firstEdition" n="B1984"><title>Endymion</title><author>Disraeli, Benjamin
+     (1804-1881).</author><publisher>London: Longmans, Green, and co</publisher><date>1880</date>
+     <ref target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687801.pdf">vol 1</ref>; <ref
+     target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687799.pdf">vol 2</ref>; <ref
+     target="http://dbooks.bodleian.ox.ac.uk/books/PDFs/503687797.pdf">vol 3</ref> </bibl>
+   </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-0">
    <p/>
@@ -53,8 +61,8 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change>
-<change when="2020-11-14">Converted by checkUp script for new release</change>
+   <change when="2021-04-09">Converted by checkUp script for new release</change>
+   <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="2020-05-19">Add text classifications from Bassett</change>
    <change when="2019-11-09">Checked by releaseChecker script</change>
    <change when="2019-01-07">LB convert to ELTeC-1</change>
@@ -435,10 +443,11 @@
       the most rising man of the day, and is sure to be in the Cabinet before he is forty.”</p>
      <p>Everybody had an appetite for dinner to-day, and the dinner was worthy of the appetites.
       Zenobia’s husband declared to himself that he never dined so well, though he gave his
-       <hi>chef</hi> 500 pounds a year, and old Lord Pomeroy, who had not yet admitted French wines
-      to his own table, seemed quite abashed with the number of his wine-glasses and their various
-      colours, and, as he tasted one succulent dish after another, felt a proud satisfaction in
-      having introduced to public life so distinguished a man as William Ferrars.</p>
+      <foreign>chef</foreign> 500 pounds a year, and old Lord Pomeroy, who had not yet admitted
+      French wines to his own table, seemed quite abashed with the number of his wine-glasses and
+      their various colours, and, as he tasted one succulent dish after another, felt a proud
+      satisfaction in having introduced to public life so distinguished a man as William
+      Ferrars.</p>
      <p>With the dessert, not without some ceremony, were introduced the two most remarkable guests
       of the entertainment, and these were the twins; children of singular beauty, and dressed, if
       possible, more fancifully and brilliantly than their mamma. They resembled each other, and had
@@ -1892,12 +1901,12 @@
       be more satisfactory.”</p>
      <p>“Did you say anything about India?” she said in a very low voice.</p>
      <p>“I did not. He is an honourable man, but he is cold, and my manner is not distinguished for
-       <hi>abandon</hi>. I thought it best to speak generally, and leave it to him. He acknowledged
-      my claim, and my fitness for such posts, and said if his government lasted it would gratify
-      him to meet my wishes. Barron says the government will last. They will have a majority, and if
-      Stanley and Graham had joined them, they would have had not an inconsiderable one. But in that
-      case I should probably not have had the cabinet, if indeed he meant to offer it to me
-      now.”</p>
+      <foreign>abandon</foreign>. I thought it best to speak generally, and leave it to him. He
+      acknowledged my claim, and my fitness for such posts, and said if his government lasted it
+      would gratify him to meet my wishes. Barron says the government will last. They will have a
+      majority, and if Stanley and Graham had joined them, they would have had not an inconsiderable
+      one. But in that case I should probably not have had the cabinet, if indeed he meant to offer
+      it to me now.”</p>
      <p>“Of course he did,” said his wife. “Who has such claims as you have? Well, now we must hope
       and watch. Look cheerful to the children, for they have been very anxious.”</p>
      <p>With this hint the meeting was not unhappy, and the evening passed with amusement and
@@ -3164,8 +3173,9 @@
       case from his breast pocket, and taking out of it a note, which he handed to Sylvia, “this may
       assure you that your rent will be paid.”</p>
      <p>Sylvia took a rapid glance at the hundred-pound-note, and twisting it into her little pocket
-      with apparent <hi>sangfroid</hi>, though she held it with a tight grasp, murmured that it was
-      quite unnecessary, and then offered to give her new lodger an acknowledgment of it.</p>
+      with apparent <foreign>sangfroid</foreign>, though she held it with a tight grasp, murmured
+      that it was quite unnecessary, and then offered to give her new lodger an acknowledgment of
+      it.</p>
      <p>“That is really unnecessary,” he replied. “Your appearance commands from me that entire
       confidence which on your part you very properly refuse to a stranger and a foreigner like
       myself.”</p>
@@ -3790,9 +3800,9 @@
       longer. One has energies, sir, though not recognised—at least not recognised much,” he added
       thoughtfully. “But who knows what may happen? The age of mediocrity is not eternal. You see
       this thing offered, and I saw an opening. It has come already. You saw the big-wigs all
-      talking to me? I shall go to Paris now with some <hi>eclat</hi>. I shall invent a new
-      profession; the literary diplomatist. The bore is, I know nothing about foreign politics. My
-      line has been the other way. Never mind; I will read the ‘Debats’ and the ‘Revue des Deux
+      talking to me? I shall go to Paris now with some <foreign>eclat</foreign>. I shall invent a
+      new profession; the literary diplomatist. The bore is, I know nothing about foreign politics.
+      My line has been the other way. Never mind; I will read the ‘Debats’ and the ‘Revue des Deux
       Mondes,’ and make out something. Foreign affairs are all the future, and my views may be as
       right as anybody else’s; probably more correct, not so conventional. What a fool I was,
       Ferrars! I was asked to remain here to-night and refused! The truth is, I could not stand
@@ -4061,7 +4071,7 @@
       Trenchard, Endymion found himself encompassed by a group of bowing forms and smiling
       countenances, and, almost before he was aware of it, had made the acquaintance of the great
       Mr. Bertie Tremaine, and received not only the congratulations of that gentleman, but an
-      invitation to dine with him on the morrow; “quite <hi>sans facon</hi>.”</p>
+      invitation to dine with him on the morrow; “quite <foreign>sans facon</foreign>.”</p>
      <p>Mr. Bertie Tremaine, who had early succeeded to the family estate, lived in Grosvenor
       Street, and in becoming style. His house was furnished with luxury and some taste. The host
       received his guests in a library, well stored with political history and political science,
@@ -4359,10 +4369,10 @@
       and that is everything. I am sure I meet youth every day who, compared with Lord Roehampton,
       could have no chance with my sex—men who can neither feel, nor think, nor converse. And then
       he is famous, and powerful, and fashionable, and knows how to talk to women. And this must all
-      tell with a banker’s daughter, dying, of course, to be a <hi>grande dame</hi>. It will do. He
-      may not be young, but he is irresistible. And the father will like it, for he told me in
-      confidence, at dinner, that he wished Lord Roehampton to be prime minister; and with this
-      alliance he will be.”</p>
+      tell with a banker’s daughter, dying, of course, to be a <foreign>grande dame</foreign>. It
+      will do. He may not be young, but he is irresistible. And the father will like it, for he told
+      me in confidence, at dinner, that he wished Lord Roehampton to be prime minister; and with
+      this alliance he will be.”</p>
      <p>The plot being devised by a fertile brain never wanting in expedients, its development was
       skilfully managed, and its accomplishment anticipated with confidence. It was remarkable with
       what dexterity the Neuchatel family and Lord Roehampton were brought together. Berengaria’s
@@ -4405,8 +4415,8 @@
       friends.”</p>
      <p>“A sound basis of agreement,” said Lord Roehampton. “I believe absence is often a great
       element of charm.”</p>
-     <p>“But, <hi>a nos moutons</hi>,” resumed Lady Montfort. “You see now why I am so anxious for a
-      conclusion of our affair. I think it is ripe?”</p>
+     <p>“But, <foreign>a nos moutons</foreign>,” resumed Lady Montfort. “You see now why I am so
+      anxious for a conclusion of our affair. I think it is ripe?”</p>
      <p>“Why do you?” said Lord Roehampton.</p>
      <p>“Well, she must be very much in love with you.”</p>
      <p>“Has she told you so?”</p>
@@ -4486,8 +4496,8 @@
       despair in my time of any such advance of opinion; as for the ballot, it is hardly tolerated
       in debating societies. The present government, my dear George, will expire from inanition. I
       always told the cabinet they were going on too fast. They should have kept back municipal
-      reform. It would have carried us on for five years. It was our only <hi>piece de
-       resistance</hi>.”</p>
+      reform. It would have carried us on for five years. It was our only <foreign>piece de
+      resistance</foreign>.”</p>
      <p>“I look upon the House of Commons as a mere vestry,” said Waldershare. “I believe it to be
       completely used up. Reform has dished it. There are no men, and naturally, because the
       constituencies elect themselves, and the constituencies are the most mediocre of the nation.
@@ -4499,10 +4509,10 @@
      <p>“Well, you are now the eldest son of a peer,” said Sidney Wilton, smiling. “Why do you not
       set an example, instead of spending your father’s substance and your own in fighting a corrupt
       borough?”</p>
-     <p>“I am <hi>vox clamantis</hi>,” said Waldershare. “I do not despair of its being done. But
-      what I want is some big guns to do it. Let the eldest son of a Tory duke and the eldest son of
-      a Whig duke do the same thing on the same day, and give the reason why. If Saxmundham, for
-      example, and Harlaxton would do it, the game would be up.”</p>
+     <p>“I am <foreign>vox clamantis</foreign>,” said Waldershare. “I do not despair of its being
+      done. But what I want is some big guns to do it. Let the eldest son of a Tory duke and the
+      eldest son of a Whig duke do the same thing on the same day, and give the reason why. If
+      Saxmundham, for example, and Harlaxton would do it, the game would be up.”</p>
      <p>“On the contrary,” said Mr. Wilton, “Saxmundham, I can tell you, will be the new cabinet
       minister.”</p>
      <p>“Degenerate land!” exclaimed Waldershare. “Ah! in the eighteenth century there was always a
@@ -4636,9 +4646,9 @@
       than if I were distressed, and harassed, and disgusted, every day, with sights and incidents
       which alike outrage my taste and self-respect? It is not prosperity, according to common
       belief, that makes conspirators.”</p>
-     <p>“You <hi>were</hi> in a position, and a refined position,” rejoined Mr. Wilton sharply; “you
-      had means adequate to all that a gentleman could desire, and might have been a person of great
-      consideration, and you wantonly destroyed all this.”</p>
+     <p>“You <emph>were</emph> in a position, and a refined position,” rejoined Mr. Wilton sharply;
+      “you had means adequate to all that a gentleman could desire, and might have been a person of
+      great consideration, and you wantonly destroyed all this.”</p>
      <p>“It might be remembered that I was young.”</p>
      <p>“Yes, you were young, very young, and your folly was condoned. You might have begun life
       again, for to the world at least you were a man of honour. You had not deceived the world,
@@ -4743,13 +4753,13 @@
       depend now, so much as they did a century ago, on individual feeling, but, even if prompted by
       general principles, their application and management are always coloured by the idiosyncrasy
       of the chief actors. The great advantage which your Lord Roehampton, for example, has over all
-      his colleagues in <hi>la haute politique</hi>, is that he was one of your plenipotentiaries at
-      the Congress of Vienna. There he learned to gauge the men who govern the world. Do you think a
-      man like that, called upon to deal with a Metternich or a Pozzo, has no advantage over an
-      individual who never leaves his chair in Downing Street except to kill grouse? Pah! Metternich
-      and Pozzo know very well that Lord Roehampton knows them, and they set about affairs with him
-      in a totally different spirit from that with which they circumvent some statesman who has
-      issued from the barricades of Paris.”</p>
+      his colleagues in <foreign>la haute politique</foreign>, is that he was one of your
+      plenipotentiaries at the Congress of Vienna. There he learned to gauge the men who govern the
+      world. Do you think a man like that, called upon to deal with a Metternich or a Pozzo, has no
+      advantage over an individual who never leaves his chair in Downing Street except to kill
+      grouse? Pah! Metternich and Pozzo know very well that Lord Roehampton knows them, and they set
+      about affairs with him in a totally different spirit from that with which they circumvent some
+      statesman who has issued from the barricades of Paris.”</p>
      <p>Nor must it be forgotten that his debating society and the acquaintance which he had formed
       there, were highly beneficial to Endymion. Under the roof of Mr. Bertie Tremaine he enjoyed
       the opportunity of forming an acquaintance with a large body of young men of breeding, of high
@@ -4934,7 +4944,7 @@
       half of them M.P.s, and they trembled before him like aspens. No, it will not do for me to
       speak to him, it will spoil his visit. I think the way will be this; if he has no objection to
       meet the prince, we must watch whether the prince makes a favourable impression on him, and if
-      that is the case, and Lord Roehampton likes him, what we must do next is this—<hi>you</hi>
+      that is the case, and Lord Roehampton likes him, what we must do next is this—<emph>you</emph>
       must speak to Lord Roehampton.”</p>
      <p>“I!”</p>
      <p>“Yes, Miss Ferrars, you. Lord Roehampton likes ladies. He is never austere to them, even if
@@ -5277,10 +5287,10 @@
       acute, full of official information, and of gentle breeding. Still it must be confessed that
       Endymion felt the change in his society. Seymour Hicks was hardly a fit successor to
       Waldershare, and Jawett’s rabid abstractions on government were certainly not so interesting
-      as <hi>la haute politique</hi> of the Duke of St. Angelo. Were it not for the letters which he
-      constantly received from his sister, he would have felt a little despondent. As it was, he
-      renewed his studies in his pleasant garret, trained himself in French and German, and got up
-      several questions for the Union.</p>
+      as <foreign>la haute politique</foreign> of the Duke of St. Angelo. Were it not for the
+      letters which he constantly received from his sister, he would have felt a little despondent.
+      As it was, he renewed his studies in his pleasant garret, trained himself in French and
+      German, and got up several questions for the Union.</p>
      <p>The month seemed very long, but it was not unprofitably spent. The Rodneys were still
       absent. They had not returned as they had intended direct to England, but had gone to Paris to
       meet Mr. Waldershare.</p>
@@ -5327,8 +5337,8 @@
       ocean. “There is nothing like practising before Christmas, my love,” he would say; “you will
       get your hand in, and be able to hold regular receptions in the spring.” And he was quite
       right. The dinners became the mode, and the assemblies were eagerly appreciated. The Secretary
-      of the Treasury whispered to an Under-Secretary of State,—“This marriage was a <hi>coup</hi>.
-      We have got another house.”</p>
+      of the Treasury whispered to an Under-Secretary of State,—“This marriage was a
+      <foreign>coup</foreign>. We have got another house.”</p>
      <p>Myra had been a little anxious about the relations between Lord Roehampton and her brother.
       She felt, with a woman’s instinct, that her husband might not be overpleased by her devotion
       to Endymion, and she could not resist the conviction that the disparity of age which is easily
@@ -5348,8 +5358,8 @@
       brother; particularly Mr. Waldershare and Lord Beaumaris—and she wished to invite them to her
       house. “I am sure Waldershare would like to come,” said Endymion, “but Lord Beaumaris, I know,
       never goes anywhere, and I have myself heard him say he never would.”</p>
-     <p>“Yes, my lord was telling me Lord Beaumaris was quite <hi>farouche</hi>, and it is feared
-      that we may lose him. That would be sad,” said Myra, “for he is powerful.”</p>
+     <p>“Yes, my lord was telling me Lord Beaumaris was quite <foreign>farouche</foreign>, and it is
+      feared that we may lose him. That would be sad,” said Myra, “for he is powerful.”</p>
      <p>“I should like very much if you could give me a card for Mr. Trenchard,” said Endymion; “he
       is not in society, but he is quite a gentleman.”</p>
      <p>“You shall have it, my dear. I have always liked Mr. Trenchard, and I dare say, some day or
@@ -5479,7 +5489,7 @@
       therefore, for you, and they shall be my contribution to your housekeeping. They are not badly
       furnished, but they belonged to an old general officer, and are not very new-fashioned; but we
       will go together and see them to-morrow, and I dare say I shall soon be able to make them
-       <hi>comme il faut</hi>.”</p>
+      <foreign>comme il faut</foreign>.”</p>
     </div>
     <div type="chapter">
      <head>CHAPTER XLVIII</head>
@@ -5687,7 +5697,7 @@
       carriage, which then drew up to the pavement and stopped.</p>
      <p>“We have just arrived,” said Lady Montfort, “and I want you to give me a little dinner
       to-day. My lord is going to dine with an Old Bailey lawyer, who amuses him, and I do not like
-      to be left, the first day, on the <hi>pave</hi>.”</p>
+      to be left, the first day, on the <foreign>pave</foreign>.”</p>
      <p>“I can give you a rather large dinner, if you care to come,” said Mr. Wilton, “but I fear
       you will not like it. I have got some House of Commons men dining with me to-day, and one or
       two of the other House to meet them. My sister Georgina has very good-naturedly promised to
@@ -5753,8 +5763,8 @@
      <p>“Oh, it is striking!” said Lady Montfort, and she motioned to him to sit down by her; and
       then she began to talk politics, and asked him what the members thought at dinner of the
       prospects of the government, and what he had heard of the malcontent movement that they said
-      was <hi>in petto</hi>. Endymion replied that Mr. Sharpset, the Secretary of the Treasury, did
-      not think much of it.</p>
+      was <foreign>in petto</foreign>. Endymion replied that Mr. Sharpset, the Secretary of the
+      Treasury, did not think much of it.</p>
      <p>“Well, I wish I did not,” said Lady Montfort. “However, I will soon find out something about
       it. I have only just come to town; but I intend to open my house, immediately. Now I must go.
       What are you going to do with yourself to-morrow? I wish you would come and dine with Lord
@@ -5919,7 +5929,7 @@
       beyond expression; their conversation consisted only of two subjects, horses and women, and he
       had long exhausted both. As for female society, if they were ladies, it was expected that, in
       some form or other, he should make love to them, and he had no sentiment. If he took refuge in
-      the <hi>demi-monde</hi>, he encountered vulgarity, and that, to Lord Montfort, was
+      the <foreign>demi-monde</foreign>, he encountered vulgarity, and that, to Lord Montfort, was
       insufferable. He had tried them in every capital, and vulgarity was the badge of all their
       tribe. He had attempted to read; a woman had told him to read French novels, but he found them
       only a clumsy representation of the life which, for years, he had practically been leading. An
@@ -6016,32 +6026,33 @@
      <p>During the last years of his residence in Paris, when he was shut up in his delicious
       Belvedere, he had complained much of the state of his health, and one of his principal
       pursuits was consulting the faculty on this interesting subject. The faculty were unanimous in
-      their opinion that the disorder from which their patient was suffering was <hi>Ennui</hi>.
-      This persistent opinion irritated him, and was one of the elements of his decision to leave
-      the country. The unexpected distraction that followed his return to his native land had made
-      him neglect or forget his sad indisposition, but it appears that it had now returned, and in
-      an aggravated form. Unhappily the English physicians took much the same view of the case as
-      their French brethren. They could find nothing organically wrong in the constitution or
-      condition of Lord Montfort, and recommended occupation and society. At present he shrank with
-      some disgust at the prospect of returning to France, and he had taken it into his head that
-      the climate of Montfort did not agree with him. He was convinced that he must live in the
-      south of England. One of the most beautiful and considerable estates in that favoured part of
-      our country was virtually in the market, and Lord Montfort, at the cost of half a million,
-      became the proprietor of Princedown. And here he announced that he should dwell and die.</p>
+      their opinion that the disorder from which their patient was suffering was
+      <foreign>Ennui</foreign>. This persistent opinion irritated him, and was one of the elements
+      of his decision to leave the country. The unexpected distraction that followed his return to
+      his native land had made him neglect or forget his sad indisposition, but it appears that it
+      had now returned, and in an aggravated form. Unhappily the English physicians took much the
+      same view of the case as their French brethren. They could find nothing organically wrong in
+      the constitution or condition of Lord Montfort, and recommended occupation and society. At
+      present he shrank with some disgust at the prospect of returning to France, and he had taken
+      it into his head that the climate of Montfort did not agree with him. He was convinced that he
+      must live in the south of England. One of the most beautiful and considerable estates in that
+      favoured part of our country was virtually in the market, and Lord Montfort, at the cost of
+      half a million, became the proprietor of Princedown. And here he announced that he should
+      dwell and die.</p>
      <p>This state of affairs was a bitter trial to the proudest woman in England, but Lady Montfort
       was also one of the most able. She resisted nothing, sympathised with all his projects, and
       watched her opportunity when she could extract from his unconscious good-nature some
-      reasonable modification of them. And she ultimately succeeded in establishing a <hi>modus
-       vivendi</hi>. He was to live and die at Princedown; that was settled; but if he ever came to
-      town, to consult his physicians, for example, he was always to inhabit Montfort House, and if
-      she occasionally required a whiff of southern air, she was to have her rooms always ready for
-      her at Princedown. She would not interfere with him in the least; he need not even see her, if
-      he were too unwell. Then as to the general principle of his life, it was quite clear that he
-      was not interested in anything, and never would be interested in anything; but there was no
-      reason that he should not be amused. This distinction between interest and amusement rather
-      pleased, and seemed to satisfy Lord Montfort—but then it was difficult to amuse him. The only
-      thing that ever amused him, he said, were his wife’s letters, and as he was the most selfish
-      as well as the most polite of men, he requested her to write to him every day. Great
+      reasonable modification of them. And she ultimately succeeded in establishing a <foreign>modus
+      vivendi</foreign>. He was to live and die at Princedown; that was settled; but if he ever came
+      to town, to consult his physicians, for example, he was always to inhabit Montfort House, and
+      if she occasionally required a whiff of southern air, she was to have her rooms always ready
+      for her at Princedown. She would not interfere with him in the least; he need not even see
+      her, if he were too unwell. Then as to the general principle of his life, it was quite clear
+      that he was not interested in anything, and never would be interested in anything; but there
+      was no reason that he should not be amused. This distinction between interest and amusement
+      rather pleased, and seemed to satisfy Lord Montfort—but then it was difficult to amuse him.
+      The only thing that ever amused him, he said, were his wife’s letters, and as he was the most
+      selfish as well as the most polite of men, he requested her to write to him every day. Great
       personages, who are selfish and whimsical, are generally surrounded by parasites and buffoons,
       but this would not suit Lord Montfort; he sincerely detested flattery, and he wearied in
       eight-and-forty hours of the most successful mountebank in society. What he seemed inclined to
@@ -6054,13 +6065,13 @@
       sufficient, presence of civil engineers in such distant parts, and so he got into the habit of
       coming up to Montfort House, that he might find companions and be amused. Lady Montfort took
       great pains that he should not be disappointed, and catered for him with all the skill of an
-      accomplished <hi>chef</hi>. Then, when the occasion served, she went down to Princedown
-      herself with welcome guests—and so it turned out, that circumstances, which treated by an
-      ordinary mind must have led to a social scandal, were so adroitly manipulated, that the world
-      little apprehended the real and somewhat mortifying state of affairs. With the utmost license
-      of ill-nature, they could not suppose that Lord and Lady Montfort, living under the same roof,
-      might scarcely see each other for weeks, and that his communications with her, and indeed
-      generally, were always made in writing.</p>
+      accomplished <foreign>chef</foreign>. Then, when the occasion served, she went down to
+      Princedown herself with welcome guests—and so it turned out, that circumstances, which treated
+      by an ordinary mind must have led to a social scandal, were so adroitly manipulated, that the
+      world little apprehended the real and somewhat mortifying state of affairs. With the utmost
+      license of ill-nature, they could not suppose that Lord and Lady Montfort, living under the
+      same roof, might scarcely see each other for weeks, and that his communications with her, and
+      indeed generally, were always made in writing.</p>
      <p>Lady Monfort never could agree with her husband in the cardinal assumption of his
       philosophy. One of his reasons for never doing anything was, that there was nothing for him to
       attain. He had got everything. Here they at once separated in their conclusions. Lady Montfort
@@ -6310,12 +6321,12 @@
       is an effort, and I am not as young as I was, but it will only be for a season or less, for I
       know these people cannot stand. It will be all over by May.”</p>
      <p>Prince Florestan had arrived in town, and was now settled in his mansion in Carlton Terrace.
-      It was the fashion among the <hi>creme de la creme</hi> to keep aloof from him. The Tories did
-      not love revolutionary dynasties, and the Whigs being in office could not sanction a
-      pretender, and one who, they significantly intimated with a charitable shrug of the shoulders,
-      was not a very scrupulous one. The prince himself, though he was not insensible to the charms
-      of society, and especially of agreeable women, was not much chagrined by this. The world
-      thought that he had fitted up his fine house, and bought his fine horses, merely for the
+      It was the fashion among the <foreign>creme de la creme</foreign> to keep aloof from him. The
+      Tories did not love revolutionary dynasties, and the Whigs being in office could not sanction
+      a pretender, and one who, they significantly intimated with a charitable shrug of the
+      shoulders, was not a very scrupulous one. The prince himself, though he was not insensible to
+      the charms of society, and especially of agreeable women, was not much chagrined by this. The
+      world thought that he had fitted up his fine house, and bought his fine horses, merely for the
       enjoyment of life. His purposes were very different. Though his acquaintances were limited,
       they were not undistinguished, and he lived with them in intimacy. There had arisen between
       himself and Mr. Waldershare the closest alliance both of thought and habits. They were rarely
@@ -6357,8 +6368,8 @@
       and his escape was romantic. However, I will not contest any decision of yours, for I think
       you are always right. Only I am disappointed, for, to say nothing of the unkindness, I cannot
       help feeling our not noticing him is rather shabby.”</p>
-     <p>There was silence, a longer silence than usually occurred in <hi>tete-a-tete</hi> dinners
-      between Lord and Lady Roehampton. To break the silence he began to converse on another
+     <p>There was silence, a longer silence than usually occurred in <foreign>tete-a-tete</foreign>
+      dinners between Lord and Lady Roehampton. To break the silence he began to converse on another
       subject, and Lady Roehampton replied to him cheerfully, but curtly. He saw she was vexed, and
       this great man, who was at that time meditating one of the most daring acts of modern
       diplomacy, who had the reputation, in the conduct of public affairs, of not only being
@@ -6406,8 +6417,8 @@
       time that he is always at the office of the paper. So it is pretty well all over with the
       table at Joe’s. I confess I could not stand it any longer, particularly after you left. I have
       got into the junior Pan-Ionian; and I am down for the senior; I cannot get in for ten years,
-      but when I do it will be a <hi>coup</hi>; the society there is tiptop, a cabinet minister
-      sometimes, and very often a bishop.”</p>
+      but when I do it will be a <foreign>coup</foreign>; the society there is tiptop, a cabinet
+      minister sometimes, and very often a bishop.”</p>
     </div>
     <div type="chapter">
      <head>CHAPTER LVI</head>
@@ -6896,8 +6907,8 @@
       What can be the matter with you?”</p>
      <p>“Nothing,” repeated Endymion, looking rather away.</p>
      <p>The Knight of the Dolphin came up and said, “This is a critical affair to-morrow, my dear
-      Lady Montfort. If the Count Ferroll is discomfited by the prince, it may be a <hi>casus
-       belli</hi>. You ought to get Lord Roehampton to interfere and prevent the encounter.”</p>
+      Lady Montfort. If the Count Ferroll is discomfited by the prince, it may be a <foreign>casus
+      belli</foreign>. You ought to get Lord Roehampton to interfere and prevent the encounter.”</p>
      <p>“The Count of Ferroll will not be discomfited,” said Lady Montfort. “He is one of those men
       who never fail.”</p>
      <p>“Well, I do not know,” said the Knight of the Dolphin musingly. “The prince has a stout
@@ -6934,7 +6945,8 @@
      <p>“I believe he is a very overrated man,” said Endymion.</p>
      <p>“Why?” said the prince.</p>
      <p>“I detest him,” said Endymion.</p>
-     <p>“That is certainly a reason why <hi>you</hi> should not overrate him,” said the prince.</p>
+     <p>“That is certainly a reason why <emph>you</emph> should not overrate him,” said the
+      prince.</p>
      <p>“There seems a general conspiracy to run him up,” said Endymion with pique.</p>
      <p>“The Count of Ferroll is the man of the future,” said the prince calmly.</p>
      <p>“That is what Mr. Neuchatel said to me yesterday. I suppose he caught it from you.”</p>
@@ -6975,7 +6987,7 @@
       seemed, with their stony, unsympathising glance, to look upon him as upon some inferior being
       who had intruded into their paradise. In short, Endymion felt all that embarrassment, mingled
       with a certain portion of self contempt, which attends the conviction that we are what is
-      delicately called <hi>de trop</hi>.</p>
+      delicately called <foreign>de trop</foreign>.</p>
      <p>He advanced and took refuge in another room, where there was only a single, and still more
       engrossed pair; but this was even more intolerable to him. Shrinking from a return to the
       hostile chamber he had just left, he made a frantic rush forward with affected ease and
@@ -7408,21 +7420,21 @@
       Princedown.</p>
      <p>Endymion spoke to Lady Montfort a little about his labours, for he had no secrets from her;
       but she did not much sympathise with him, though she liked him to be sedulous and to
-      distinguish himself. “Only,” she observed, “take care not to be <hi>doctrinaire</hi>,
-      Endymion. I am always afraid of that with you. It is Sidney’s fault; he always was
-       <hi>doctrinaire</hi>. It was a great thing for you becoming his private secretary; to be the
-      private secretary of a cabinet minister is a real step in life, and I shall always be most
-      grateful to Sidney, whom I love for appointing you; but still, if I could have had my wish,
-      you should have been Lord Roehampton’s private secretary. That is real politics, and he is a
-      real statesman. You must not let Mr. Wilton mislead you about the state of affairs in the
-      cabinet. The cabinet consists of the prime minister and Lord Roehampton, and, if they are
-      united, all the rest is vapour. And they will not consent to any nonsense about touching the
-      corn laws; you may be sure of that. Besides, I will tell you a secret, which is not yet
-      Pulchinello’s secret, though I daresay it will be known when we all return to town—we shall
-      have a great event when parliament meets; a royal marriage. What think you of that? The young
-      queen is going to be married, and to a young prince, like a prince in a fairy tale. As Lord
-      Roehampton wrote to me this morning, ‘Our royal marriage will be much more popular than the
-      Anti-Corn-Law League.’”</p>
+      distinguish himself. “Only,” she observed, “take care not to be
+      <foreign>doctrinaire</foreign>, Endymion. I am always afraid of that with you. It is Sidney’s
+      fault; he always was <foreign>doctrinaire</foreign>. It was a great thing for you becoming his
+      private secretary; to be the private secretary of a cabinet minister is a real step in life,
+      and I shall always be most grateful to Sidney, whom I love for appointing you; but still, if I
+      could have had my wish, you should have been Lord Roehampton’s private secretary. That is real
+      politics, and he is a real statesman. You must not let Mr. Wilton mislead you about the state
+      of affairs in the cabinet. The cabinet consists of the prime minister and Lord Roehampton,
+      and, if they are united, all the rest is vapour. And they will not consent to any nonsense
+      about touching the corn laws; you may be sure of that. Besides, I will tell you a secret,
+      which is not yet Pulchinello’s secret, though I daresay it will be known when we all return to
+      town—we shall have a great event when parliament meets; a royal marriage. What think you of
+      that? The young queen is going to be married, and to a young prince, like a prince in a fairy
+      tale. As Lord Roehampton wrote to me this morning, ‘Our royal marriage will be much more
+      popular than the Anti-Corn-Law League.’”</p>
      <p>The royal marriage was very popular; but, unfortunately, it reflected no splendour on the
       ministry. The world blessed the queen and cheered the prince, but shook its head at the
       government. Sir Robert Peel also—whether from his own motive or the irresistible impulse of
@@ -7504,7 +7516,7 @@
       then our bad harvests. Why, that is the very reason we shall have an excellent harvest this
       year. You cannot go on always having bad harvests. Besides, good harvests never make a
       ministry popular. Nobody thanks a ministry for a good harvest. What makes a ministry popular
-      is some great <hi>coup</hi> in foreign affairs.”</p>
+      is some great <foreign>coup</foreign> in foreign affairs.”</p>
      <p>Amid all these exciting disquietudes, Endymion pursued a life of enjoyment, but also of
       observation and much labour. He lived more and more with the Montforts, but the friendship of
       Berengaria was not frivolous. Though she liked him to be seen where he ought to figure, and
@@ -7540,11 +7552,11 @@
       prime minister said he could hardly make a man a dean who believed in the Real Presence.”
       Nigel’s church, however, was more crowded than ever, and a large body of the clergy began to
       look upon him as the coming man.</p>
-     <p>Towards the end of the year the “great <hi>coup</hi> in foreign affairs,” which Lady
-      Montfort had long brooded over, and indeed foreseen, occurred, and took the world, who were
-      all thinking of something else, entirely by surprise. A tripartite alliance of great powers
-      had suddenly started into life; the Egyptian host was swept from the conquered plains of Asia
-      Minor and Syria by English blue-jackets; St. Jean d’Acre, which had baffled the great
+     <p>Towards the end of the year the “great <foreign>coup</foreign> in foreign affairs,” which
+      Lady Montfort had long brooded over, and indeed foreseen, occurred, and took the world, who
+      were all thinking of something else, entirely by surprise. A tripartite alliance of great
+      powers had suddenly started into life; the Egyptian host was swept from the conquered plains
+      of Asia Minor and Syria by English blue-jackets; St. Jean d’Acre, which had baffled the great
       Napoleon, was bombarded and taken by a British fleet; and the whole fortunes of the world in a
       moment seemed changed, and permanently changed.</p>
      <p>“I am glad it did not occur in the season,” said Zenobia. “I really could not stand Lady
@@ -7800,7 +7812,7 @@
       were not always a clerk in a public office, but the spoiled child of splendour. I know your
       father was a dear good man, but he made a mistake, and followed the Duke of Wellington instead
       of Mr. Canning. Had he not, he would probably be alive now, and certainly Secretary of State,
-      like Mr. Sidney Wilton. But <hi>you</hi> must not make a mistake, Endymion. My business in
+      like Mr. Sidney Wilton. But <emph>you</emph> must not make a mistake, Endymion. My business in
       life, and your sister’s too, is to prevent your making mistakes. And you are on the eve of
       making a very great one if you lose this golden opportunity. Do not think of the past; you
       dwell on it too much. Be like me, live in the present, and when you dream, dream of the
@@ -8382,7 +8394,7 @@
       for. The constitution is at stake.”</p>
      <p>“And the Church,” said Waldershare.</p>
      <p>“And the landed interest, you may rely upon it,” said Mr. Tadpole.</p>
-     <p>“And your Lordship of the Treasury <hi>in posse</hi>, Tadpole. Truly it is a great
+     <p>“And your Lordship of the Treasury <foreign>in posse</foreign>, Tadpole. Truly it is a great
       stake.”</p>
     </div>
     <div type="chapter">
@@ -8444,8 +8456,8 @@
       displayed every quality which could fascinate even a woman, when she put her hand in that of
       Imogene to say farewell, added, “I am delighted to find that we are cousins.”</p>
      <p>A few days after this interview, parliament was dissolved. It was the middle of a wet June,
-      and the season received its <hi>coup de grace</hi>. Although Endymion had no rival, and
-      apparently no prospect of a contest, his labours as a candidate were not slight. The
+      and the season received its <foreign>coup de grace</foreign>. Although Endymion had no rival,
+      and apparently no prospect of a contest, his labours as a candidate were not slight. The
       constituency was numerous, and every member of it expected to be called upon. To each Mr.
       Ferrars had to expound his political views, and to receive from each a cordial assurance of a
       churlish criticism. All this he did and endured, accompanied by about fifty of the principal
@@ -8458,9 +8470,9 @@
       always pledged in sparkling bumpers. After the luncheon came two or three more hours of what
       was called canvassing; then, in a state of horrible repletion, the fortunate candidate, who
       had no contest, had to dine with another principal citizen, with real turtle soup, and
-      gigantic turbots, <hi>entrees</hi> in the shape of volcanic curries, and rigid venison, sent
-      as a compliment by a neighbouring peer. This last ceremony was necessarily hurried, as
-      Endymion had every night to address in some ward a body of the electors.</p>
+      gigantic turbots, <foreign>entrees</foreign> in the shape of volcanic curries, and rigid
+      venison, sent as a compliment by a neighbouring peer. This last ceremony was necessarily
+      hurried, as Endymion had every night to address in some ward a body of the electors.</p>
      <p>When this had been going on for a few days, the borough was suddenly placarded with posting
       bills in colossal characters of true blue, warning the Conservative electors not to promise
       their votes, as a distinguished candidate of the right sort would certainly come forward. At
@@ -8751,7 +8763,7 @@
       however, that they persuaded Lady Montfort to honour with her presence the embassy of her own
       court.</p>
      <p>“I dined with those people once,” she said to Endymion, “but I confess when I thought of
-      those dear Granvilles, their <hi>entrees</hi> stuck in my throat.”</p>
+      those dear Granvilles, their <foreign>entrees</foreign> stuck in my throat.”</p>
      <p>There was, however, no lack of diplomatic banquets for the successor of Louise of Savoy. The
       splendid hotel of the Count of Ferroll was the scene of festivals not to be exceeded in Paris,
       and all in honour of this wondrous dame. Sometimes they were feasts, sometimes they were
@@ -9046,7 +9058,7 @@
       sanction such middle-class madness.</p>
      <p>“Peel with have to do it,” said Job. “You will see.”</p>
      <p>“Peel now occupies the position of Necker,” said Mr. Bertie Tremaine, “and will make the
-      same <hi>fiasco</hi>. Then you will at last have a popular government.”</p>
+      same <foreign>fiasco</foreign>. Then you will at last have a popular government.”</p>
      <p>“And the rights of labour?” asked Job. “All I hope is, I may have got safe to the States
       before that day.”</p>
      <p>“There will be no danger,” said Mr. Bertie Tremaine. “There is this difference between the
@@ -9314,11 +9326,11 @@
       counties, had their purpose and bore fruit. He was a director, and soon the chairman and
       leading spirit, of a railway which was destined to be perhaps our most important one. He was
       master of all the details of the business; he had arrived at conclusions on the question of
-      the gauges, which then was a <hi>pons asinorum</hi> for the multitude, and understood all
-      about rolling stock and permanent ways, and sleepers and branch lines, which were then
-      cabalistic terms to the general. In his first session in parliament he had passed quietly and
-      almost unnoticed several bills on these matters, and began to be recognised by the Committee
-      of Selection as a member who ought to be “put on” for questions of this kind.</p>
+      the gauges, which then was a <foreign>pons asinorum</foreign> for the multitude, and
+      understood all about rolling stock and permanent ways, and sleepers and branch lines, which
+      were then cabalistic terms to the general. In his first session in parliament he had passed
+      quietly and almost unnoticed several bills on these matters, and began to be recognised by the
+      Committee of Selection as a member who ought to be “put on” for questions of this kind.</p>
      <p>The great occasion had arrived, and Mr. Vigo was equal to it. He was one of those few men
       who awake one day and find themselves famous. Suddenly it would seem that the name of Mr. Vigo
       was in everybody’s mouth. There was only one subject which interested the country, and he was
@@ -9588,7 +9600,8 @@
       well—an excellent man; he was the parish priest of Lady Roehampton before her marriage, when
       she lived in the country. And we know from him that more than a year ago something was
       contemplated. The son gave up his living then; he has remained at Rome ever since. And now I
-      am told he returns to us, the Pope’s legate and an archbishop <hi>in partibus</hi>!”</p>
+      am told he returns to us, the Pope’s legate and an archbishop <foreign>in
+      partibus</foreign>!”</p>
      <p>“It is most interesting,” said Lady Montfort. “I was always his great admirer.”</p>
      <p>“I know that; you and Lady Roehampton made me go and hear him. The father will be terribly
       distressed.”</p>
@@ -9696,15 +9709,15 @@
       deep sense of his responsibility. Nothing but the Divine principle of the Church could sustain
       him. He was at one time hopeful that His Holiness might have thought the time ripe for the
       restoration of the national hierarchy, but it was decreed otherwise. Had it been accorded, no
-      doubt it would have assisted him. A prelate <hi>in partibus</hi> is, in a certain sense, a
-      stranger, whatever his duties, and the world is more willing when it is appealed to by one who
-      has “a local habitation and a name;” he is identified with the people among whom he lives.
-      There was much to do. The state of the Catholic poor in his own district was heartrending. He
-      never could have conceived such misery, and that too under the shadow of the Abbey. The few
-      schools which existed were wretched, and his first attention must be given to this capital
-      deficiency. He trusted much to female aid. He meant to invite the great Catholic ladies to
-      unite with him in a common labour of love. In this great centre of civilisation, and wealth,
-      and power, there was need of the spirit of a St. Ursula.</p>
+      doubt it would have assisted him. A prelate <foreign>in partibus</foreign> is, in a certain
+      sense, a stranger, whatever his duties, and the world is more willing when it is appealed to
+      by one who has “a local habitation and a name;” he is identified with the people among whom he
+      lives. There was much to do. The state of the Catholic poor in his own district was
+      heartrending. He never could have conceived such misery, and that too under the shadow of the
+      Abbey. The few schools which existed were wretched, and his first attention must be given to
+      this capital deficiency. He trusted much to female aid. He meant to invite the great Catholic
+      ladies to unite with him in a common labour of love. In this great centre of civilisation, and
+      wealth, and power, there was need of the spirit of a St. Ursula.</p>
      <p>No one seemed more pleased by the return of Archbishop Penruddock than Lord Montfort. He
       appeared to be so deeply interested in his Grace’s mission, sought his society so often,
       treated him with such profound respect, almost ceremony, asked so many questions about what
@@ -10142,9 +10155,9 @@
       felt better.”</p>
      <p>Lady Roehampton after a time slumbered; how long she knew not, but when she woke, her lord
       was not at her side. She struck a light and looked at her watch. It was past three o’clock;
-      she jumped out of bed, and, merely in her slippers and her <hi>robe de chambre</hi>, descended
-      to the library. It was a large, long room, and Lord Roehampton worked at the extreme end of
-      it. The candles were nearly burnt out. As she approached him, she perceived that he was
+      she jumped out of bed, and, merely in her slippers and her <foreign>robe de chambre</foreign>,
+      descended to the library. It was a large, long room, and Lord Roehampton worked at the extreme
+      end of it. The candles were nearly burnt out. As she approached him, she perceived that he was
       leaning back in his chair. When she reached him, she observed he was awake, but he did not
       seem to recognise her. A dreadful feeling came over her. She took his hand. It was quite cold.
       Her intellect for an instant seemed to desert her. She looked round her with an air void
@@ -10465,16 +10478,16 @@
     </div>
     <div type="chapter">
      <head>CHAPTER XX</head>
-     <p>Had he been a youth about to make a <hi>debut</hi> in the great world, Sidney Wilton could
-      not have been more agitated than he felt at the prospect of the fete at Montfort House. Lady
-      Roehampton, after nearly two years of retirement, was about to re-enter society. During this
-      interval she had not been estranged from him. On the contrary, he had been her frequent and
-      customary companion. Except Adriana, and Lady Montfort, and her brother, it might almost be
-      said, her only one. Why then was he agitated? He had been living in a dream for two years,
-      cherishing wild thoughts of exquisite happiness. He would have been content, had the dream
-      never been disturbed; but this return to hard and practical life of her whose unconscious
-      witchery had thrown a spell over his existence, roused him to the reality of his position, and
-      it was one of terrible emotion.</p>
+     <p>Had he been a youth about to make a <foreign>debut</foreign> in the great world, Sidney
+      Wilton could not have been more agitated than he felt at the prospect of the fete at Montfort
+      House. Lady Roehampton, after nearly two years of retirement, was about to re-enter society.
+      During this interval she had not been estranged from him. On the contrary, he had been her
+      frequent and customary companion. Except Adriana, and Lady Montfort, and her brother, it might
+      almost be said, her only one. Why then was he agitated? He had been living in a dream for two
+      years, cherishing wild thoughts of exquisite happiness. He would have been content, had the
+      dream never been disturbed; but this return to hard and practical life of her whose
+      unconscious witchery had thrown a spell over his existence, roused him to the reality of his
+      position, and it was one of terrible emotion.</p>
      <p>During the life of her husband, Sidney Wilton had been the silent adorer of Myra. With every
       accomplishment and every advantage that are supposed to make life delightful—a fine
       countenance, a noble mien, a manner natural and attractive, an ancient lineage, and a vast
@@ -10552,8 +10565,8 @@
      <p>“Well, I do not know what to say about it,” said the former Mr. Vigo, highly gratified, but
       a little confused; “my friends would have it.”</p>
      <p>“Ay, ay,” said Waldershare, “‘at the request of friends;’ the excuse I gave for publishing
-      my sonnets.” And then, advancing, he delivered his charge to her <hi>chaperon</hi>, who looked
-      dreamy, abstracted, and uninterested.</p>
+      my sonnets.” And then, advancing, he delivered his charge to her <foreign>chaperon</foreign>,
+      who looked dreamy, abstracted, and uninterested.</p>
      <p>“We have just been congratulating the new baronet, Sir Peter Vigo,” said Waldershare.</p>
      <p>“Ah!” said Lady Hainault with a contemptuous sigh, “he is, at any rate, not obliged to
       change his name. The desire to change one’s name does indeed appear to me to be a singular
@@ -11450,9 +11463,10 @@
       always had a court about him; equerries, and secretaries, and doctors, and odd and amusing men
       whom they found out for him, and who were well pleased to find themselves in his beautiful and
       magnificent Princedown, wandering in woods and parks and pleasaunces, devouring his choice
-       <hi>entrees</hi>, and quaffing his curious wines. Sometimes he dined with them, sometimes a
-      few dined with him, sometimes he was not seen for weeks; but whether he were visible or not,
-      he was the subject of constant thought and conversation by all under his roof.</p>
+      <foreign>entrees</foreign>, and quaffing his curious wines. Sometimes he dined with them,
+      sometimes a few dined with him, sometimes he was not seen for weeks; but whether he were
+      visible or not, he was the subject of constant thought and conversation by all under his
+      roof.</p>
      <p>Lord Montfort, it may be remembered, was a great fisherman. It was the only sport which
       retained a hold upon him. The solitude, the charming scenery, and the requisite skill,
       combined to please him. He had a love for nature, and he gratified it in this pursuit. His
@@ -11541,8 +11555,8 @@
      <p>“Poh!” said Mr. Cassilis.</p>
      <p>“You may poh!” said Mr. Ormsby, “but he was a great favourite.”</p>
      <p>“Lady Montfort will never marry. She had always a poodle, and always will have. She was
-      never so <hi>liee</hi> with Ferrars as with the Count of Ferroll, and half a dozen others. She
-      must have a slave.”</p>
+      never so <foreign>liee</foreign> with Ferrars as with the Count of Ferroll, and half a dozen
+      others. She must have a slave.”</p>
      <p>“A very good mistress with thirty thousand a year.”</p>
      <p>“She has not that,” said Mr. Cassilis doubtingly.</p>
      <p>“What do you put Princedown at?” said Mr. Ormsby.</p>
@@ -11682,8 +11696,8 @@
       one now; but judging from the journals, she thought the position of the government feeble.
       “There cannot be a Protectionist government,” she said; “and yet that is the only
       parliamentary party of importance. Things will go on till some blow, and perhaps a slight one,
-      will upset you all. And then who is to succeed? I think some queer <hi>melange</hi> got up
-      perhaps by Mr. Bertie Tremaine.”</p>
+      will upset you all. And then who is to succeed? I think some queer <foreign>melange</foreign>
+      got up perhaps by Mr. Bertie Tremaine.”</p>
      <p>The last day came. She parted from Endymion with kindness, but not with tenderness. He was
       choking with emotion, and tried to imitate her calmness.</p>
      <p>“Am I to write to you?” he asked in a faltering voice.</p>
@@ -11818,11 +11832,11 @@
      <p>What mess? and what was the state of affairs?</p>
      <p>This had happened. At the end of the autumn, his Holiness the Pope had made half a dozen new
       cardinals, and to the surprise of the world, and the murmurs of the Italians, there appeared
-      among them the name of an Englishman, Nigel Penruddock, archbishop <hi>in partibus</hi>.
-      Shortly after this, a papal bull, “given at St. Peter’s, Rome, under the seal of the
-      fisherman,” was issued, establishing a Romish hierarchy in England. This was soon followed by
-      a pastoral letter by the new cardinal “given out of the Appian Gate,” announcing that
-      “Catholic England had been restored to its orbit in the ecclesiastical firmament.”</p>
+      among them the name of an Englishman, Nigel Penruddock, archbishop <foreign>in
+      partibus</foreign>. Shortly after this, a papal bull, “given at St. Peter’s, Rome, under the
+      seal of the fisherman,” was issued, establishing a Romish hierarchy in England. This was soon
+      followed by a pastoral letter by the new cardinal “given out of the Appian Gate,” announcing
+      that “Catholic England had been restored to its orbit in the ecclesiastical firmament.”</p>
      <p>The country at first was more stupefied than alarmed. It was conscious that something
       extraordinary had happened, and some great action taken by an ecclesiastical power, which from
       tradition it was ever inclined to view with suspicion and some fear. But it held its breath
@@ -12143,10 +12157,10 @@
       to returned convicts. However, I shall put an end to all this. I have now got the materials,
       or am accumulating them daily. You hint that I give myself up too much to society. You are
       talking of things you do not understand. A dinner party is a chapter. I catch the Cynthia of
-      the minute, sir, at a <hi>soiree</hi>. If I only served a grateful country, I should be in the
-      proudest position of any of its sons; if I had been born in any country but this, I should
-      have been decorated, and perhaps made secretary of state like Addison, who did not write as
-      well as I do, though his style somewhat resembles mine.”</p>
+      the minute, sir, at a <foreign>soiree</foreign>. If I only served a grateful country, I should
+      be in the proudest position of any of its sons; if I had been born in any country but this, I
+      should have been decorated, and perhaps made secretary of state like Addison, who did not
+      write as well as I do, though his style somewhat resembles mine.”</p>
      <p>Notwithstanding these great plans, it came in time to Endymion’s ear, that poor St. Barbe
       was in terrible straits. Endymion delicately helped him and then obtained for him a pension,
       and not an inconsiderable one. Relieved from anxiety, St. Barbe resumed his ancient and
