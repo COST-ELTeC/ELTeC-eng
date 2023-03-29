@@ -20,6 +20,7 @@ The ELTeC-eng collection contains a total of 100 titles, 87 encoded at level 1, 
 
 All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
 
-Citation suggestion
+## Citation suggestion
+
 English Novel Corpus (ELTeC-eng), edited by Lou Burnard. In: _European Literary Text Collection_ (ELTeC). COST Action Distant Reading for European Literature. Version 1.0.1, April 2021. URL: https://github.com/COST-ELTeC/ELTeC-eng, DOI: https://doi.org/10.5281/zenodo.3533868.
 
